@@ -331,7 +331,7 @@ We also make some of our money by hosting some of the services that we build, an
 
 ### Leads
 
-Most of our leads arrive via email as a result of recommendations and word-of-mouth. Some arrive via via more formal channels like framework agreements.
+Most of our leads arrive via email as a result of recommendations and word-of-mouth. Some arrive via via more formal channels like framework agreements. Leads might arrive to anyones email account. We try to make sure things arrive in the sales email account wherever we can.
 
 When any lead arrives, we record it in [Pipeline Deals](https://www.pipelinedeals.com/home) as a *Deal*. However, we also use PipelineDeals to record information about projects we have sold. So, we don't refer to anything in PipelineDeals as a "Deal". We either call it a *lead*, or after it's sold, an *order*.
 
@@ -362,7 +362,7 @@ Where we don't think we could do what the client needs within their budget, we e
 
 Where clients have a larger budget than we think they need, we say that too. This usually means explaining why we're able to do the work for less than they thought. We also think about what extra things we could do to improve their chances of success, and suggest extra work they could do. 
 
-Where a budget is disclosed that's more than we think is necessary, we usually propose a peice of work that uses that budget fully. But we're always be open that we've done this, and that we'd be delivering more than the minimum. And we're always happy to win a smaller bit of work than the client thought they'd need.
+Where a budget is disclosed that's more than we think is necessary, we usually propose a peice of work that uses that budget fully. But we're always open, and tell them that we've done this, and that we'd be delivering more than the minimum. And we're always happy to win a smaller bit of work than the client thought they'd need. We try to structure these proposals so that the extra work is easy to remove.
 
 
 ### Sales meetings
@@ -385,14 +385,14 @@ It's important that we use this meeting to find out the information that we need
 
 ### Proposals and tenders
 
-If the project is being tendered via a fixed process (like the Digital Services Framework) we'll respond by filling in a form that the client provides. These forms are not all the same, and the questions vary. If you're involved in this, make sure you have a good conversation with someone who's done it before.
+If the project is being tendered via a fixed process (like the Digital Services Framework) we'll respond by filling in a form that the client provides. These forms are not all the same, and the questions vary. If you're involved in this, have a good conversation with someone who's done it before first.
 
 If we're writing a proposal following our own format, you'll have a proposal template to start from. The main things you'll need to write are:
 
 * A description of the project's background. How did they get to the point they're at now?
-* A description of the client's vision. What are they trying to do.
+* A description of the client's vision. What are they trying to do?
 * An initial set of epics. How does the client believe their vision will be met?
-* A cost for the work. How many sprints will we need to deliver the work?
+* A cost for the work. How many sprints do we estimate we will we need to deliver the work?
 * Details of any other work we'll do, like user research or usability testing.
 * A rough timeline for when the sprints and other work will happen.
 
@@ -401,11 +401,22 @@ There are lots of examples of these proposals that anyone can read if they like.
 
 ### The shape of a good project
 
+There aren't any strict rules about what projects we take on, except that the ultimate client must be a public sector organisation. But there are things that make some projects better for us than others. Good projects generally:
 
+* Require 6 weeks of development work or more, so that there's time for at least 3 sprints
+* Are for clients who understand agile processes or are keen to learn them
+* Include a reasonable amount of user research and usability testing
+* In the case of central government clients, are ones which have gone through [spend controls](https://www.gov.uk/service-manual/technology/spending-controls.html) and will be [service assessed](https://www.gov.uk/service-manual/digital-by-default/assessments-at-gds.html)
+* Have a budget sufficient to complete the work to a high standard
 
 
 ### Winning work
+
+When we win work, we mark it as Won in PipelineDeals. We amend the budget, closing date and services sold if necessary. We write to the client to thank them and ask them for a convenient time to meet and start the work. We create invoices in Xero and save them as drafts, so we don't foget to bill them. And we add the project's sprints and other work to Forecast, so that the team can see who's working on what.
+
 ### Losing work
+
+When we lose work, we mark it as Lost in PipelineDeals. We write to the client to thank them for their interest and ask them for any feedback they might have. We usually also say that we'd be happy to talk about any future work they might have. We record the main reason we didn't win the work in PipelineDeals along with the detailed feedback.
 
 ## Recruitment
 ### How we find people
@@ -421,6 +432,9 @@ There are lots of examples of these proposals that anyone can read if they like.
 ### Expenses
 ### Calendars and documents
 ### Accounting and legal
+#### Cashflow
+#### Payroll
+#### CCS management information
 ### Projects and contacts
 
 ## Sharing
