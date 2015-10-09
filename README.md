@@ -34,16 +34,16 @@ We are helpful, useful and expert. We give practical and pragmatic advice to eac
 We are honest, trustworthy and straightforward. We give plain-spoken, frank, accurate feedback and advice, and we never mislead or obfuscate.
 
 #### Positive
-We are positive, cheerful and supportive. Even in crisis, we stay optimistic. We assume good faith and offer constructive challenge.
+We are positive, cheerful and supportive. Even in crisis, we stay optimistic. We [assume good faith](https://en.wikipedia.org/wiki/Wikipedia:Assume_good_faith) and offer constructive challenge.
 
 #### Creative
-We are creative, diverse and curious. We help each other to learn and improve and we’re sensitive to each others’ needs. We love technology and finding new ways to solve problems.
+We are creative, diverse and curious. We help each other to learn and improve and we're sensitive to each others' needs. We love technology and finding new ways to solve problems.
 
 #### Determined
-We are determined, discerning and motivated. We believe in high standards, we enjoy doing things properly, and we’re loath to settle for less.
+We are determined, discerning and motivated. We believe in high standards, we enjoy doing things properly, and we're loath to settle for less.
 
 #### Reliable
-We are reliable, consistent and committed. We make every effort to live up to each other’s expectations, and to exceed the expectations of our clients.  
+We are reliable, consistent and committed. We make every effort to live up to each others' expectations, and to exceed the expectations of our clients.  
 
 ## Build
 
