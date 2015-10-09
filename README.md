@@ -9,3 +9,58 @@ We'll always iterate on this document. It will never be complete or entirely cor
 This document lives in Github. Anyone on the team can edit it, and should do so. But an edit should never be a substitute for discussion and agreement, so be careful about making significant changes. This document is also public, because there should be very little about our process that cannot be open. But there might be something from time to time, so don't forget that changes here get published to the world.
 
 Finally, this document is inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/), some of which we have made our own. Thanks, Thoughtbot!
+
+## Values
+
+## Build
+### Discovery, research and usability testing
+#### Purpose
+#### Scheduling
+#### Field work
+#### Reporting
+### Sprints
+We sprint. Sprint zero. Sprints are the same in all phases.
+
+## Products
+### GovPress (hosting)
+### GovSite
+### Mongoose
+
+## Tickets
+### Client experience
+### Workflow
+### Initiatial investigation
+### Managing tickets
+### Scope
+### Priority and service level
+
+## Sales
+### Typical projects
+### Leads
+### Sales meetings
+### Proposals and tenders
+### The shape of a good project
+### Winning work
+### Losing work
+
+## Recruitment
+### How we find people
+### CV review
+### Skype interview
+### First interview
+### Work day
+### Offer and onboarding
+### Performance and development
+### Compensation
+
+## Operations
+### Expenses
+### Calendars and documents
+### Accounting and legal
+### Projects and contacts
+
+## Sharing
+### Events
+### Blog
+### Twitter
+### Facebook
