@@ -45,6 +45,11 @@ We are determined, discerning and motivated. We believe in high standards, we en
 #### Reliable
 We are reliable, consistent and committed. We make every effort to live up to each others' expectations, and to exceed the expectations of our clients.  
 
+### Changes to this document
+This playbook is a collaborative effort. If you spot something that's wrong, feel free to hop in and correct it. But remember that this playbook is the result of our conversations about how we should do things, not a substitute for one. So don't make changes unless they reflect our shared agreement about how things should get done.
+
+If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Someone else who was in the conversation should then review and merge it. When reviewing, they should check that it accurately captures what they remember from the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect speelings and other minor errors.
+
 ## Build
 
 ### Discovery, research and usability testing
