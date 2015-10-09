@@ -5,9 +5,9 @@
 
 For most of dxw's life, we've been small enough that it's been easy for everyone to know what's going on and how to get things done, just by listening to what's going on in the office. That's not the case anymore. We're now at the point where we need a reference for the way we do things. A place to capture the changes we agree to make. Something canonical that tells us what the current "right way" to do things is.
 
-We'll always iterate on this document. It will never be complete or entirely correct, and we should always explore better ways to get things done. But now, when we've found one, it'll be recorded here. And once it is, it'll be the way we do things until we find something better.
+We'll always iterate on this document. It will never be complete or entirely correct, and we always explore better ways to get things done. But now, when we've found one, it'll be recorded here. And once it is, it'll be the way we do things until we find something better.
 
-This document lives in Github. Anyone on the team can edit it, and should do so. But an edit should never be a substitute for discussion and agreement, so be careful about making significant changes. This document is also public, because there should be very little about our process that cannot be open. But there might be something from time to time, so don't forget that changes here get published to the world.
+This document lives in Github. Anyone on the team can edit it, and should do so. But an edit must never be a substitute for discussion and agreement, so be careful about making significant changes. This document is also public, because there is very little about our process that cannot be open. But there will be things from time to time, so don't forget that changes here get published to the world.
 
 Finally, this document is inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/), some of which we have made our own. Thanks, Thoughtbot!
 
@@ -46,9 +46,9 @@ We are determined, discerning and motivated. We believe in high standards, we en
 We are reliable, consistent and committed. We make every effort to live up to each others' expectations, and to exceed the expectations of our clients.  
 
 ### Changes to this document
-This playbook is a collaborative effort. If you spot something that's wrong, feel free to hop in and correct it. But remember that this playbook is the result of our conversations about how we should do things, not a substitute for one. So don't make changes unless they reflect our shared agreement about how things should get done.
+This playbook is a collaborative effort. If you spot something that's wrong, feel free to hop in and correct it. But remember that this playbook is the result of our conversations about how we should do things, not a substitute for one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
 
-If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Someone else who was in the conversation should then review and merge it. When reviewing, they should check that it accurately captures what they remember from the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect speelings and other minor errors.
+If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect speelings and other minor errors.
 
 ## Build
 
@@ -66,9 +66,9 @@ We sprint. Sprint zero. Sprints are the same in all phases.
 ### Mongoose
 
 ## Tickets
-We use [Zendesk](https://dxw.zendesk.com) to manage support requests. If you're just getting started, your first port of call should be the [Zendesk Introduction](https://support.zendesk.com/hc/en-us/articles/203921213). After you've read that, ask someone to sit with you and talk you through it, to answer any questions.
+We use [Zendesk](https://dxw.zendesk.com) to manage support requests. If you're just getting started, the [Zendesk Introduction](https://support.zendesk.com/hc/en-us/articles/203921213) is your first port of call. After you've read that, ask someone to sit with you and talk you through it, to answer any questions.
 
-Other than for projects you're currently sprinting on, all requests for us to do things should come via tickets. We use tickets to manage requests in order to:
+Other than for projects you're currently sprinting on, all requests for us to do things must come via tickets. We use tickets to manage requests in order to:
 
 * Keep track of all the things we need to do, and what state they're in;
 * Have a record of the changes we're asked to make;
@@ -135,41 +135,40 @@ No matter what group you're in, when a ticket is assigned to you, you will recei
 
 When you are assigned a ticket, it is your responsibility to review it and take action. You must either solve the ticket or pass it on to someone who can. 
 
-A wide variety of issues can be reported through the helpdesk, so it's not possible to give an exhaustive guide on how to solve tickets. But there are some articles in the [Help Centre](https://dxw.zendesk.com) which may be useful. These are written for clients, but contain lots of information that you may find useful.
+A wide variety of issues can be reported through the helpdesk, so it's not possible to give an exhaustive guide on how to solve tickets. But there are some articles in the [Help Centre](https://dxw.zendesk.com) which may be useful. These are written for clients, but contain lots of useful information.
 
 It's important to be proactive about solving tickets. As soon as we receive a ticket, the clock starts ticking: clients expect us to be [responsive](#Responsiveness) and deal with their problems promptly.
 
-If you're not sure how to proceed with a particular ticket, don't just let it sit there: ask for help. If you know what to do but don't have time to get it done, get advice from a delivery manager.
+If we're not sure how to proceed with a particular ticket, we don't just let it sit there: we ask for help. If we know what to do but don't have time to get it done, we get advice from a delivery manager.
 
-Whenever you do anything at all related to a given ticket, you should update it to let the client know - even if it's just to say that you haven't managed to figure out what the problem is yet. 
+Whenever we do anything at all related to a given ticket, we update it to let the client know - even if it's just to say that we haven't managed to figure out what the problem is yet. 
 
-If you're replying to a ticket just to update the client, but you still need to take some action, you should set its status to open. The same applies if you are reassigning the ticket to another agent.
+If we're replying to a ticket just to update the client, but we still need to take some action, we set its status to open. The same applies if you are reassigning the ticket to another agent.
 
-If you have taken some action and are now waiting for the client to reply, set the ticket's status to pending. This will remove it from your list until they answer.
-
+If we have taken some action and are now waiting for the client to reply, we set the ticket's status to pending. This will remove it from the list of tickets (until they answer).
 
 #### Pending tickets
 
 Pending tickets are those which we have updated with a question or a potential solution, and which now need to be updated by the client before we can proceed.
 
-Pending tickets will not appear in your list of work or in the views for the Front-line and Escalated groups, allowing you to focus on tickets which still need your action.
+Pending tickets will not appear in the list of tickets or in the views for the Front-line and Escalated groups, allowing us to focus on tickets which still need your action.
 
-Tickets which are pending will also be closed automatically after a set period of time if the client does not respond. They will get reminders before this happens. Also, if a pending ticket you are assigned to is closed because the client didn't reply in time, both you and the client will get an email, so you can open it again if you think that's best.
+Tickets which are pending will also be closed automatically after a set period of time if the client does not respond. They will get reminders before this happens. If a pending ticket you are assigned to is closed because the client didn't reply in time, both you and the client will get an email, so you can open it again if you think that's best.
 
-If you are assigning a ticket to another agent, it is important that you do not set it to pending. If you do, they may not see it.
+When assigning a ticket to another agent, we do not set it to pending, otherwise they probably won't see it.
 
 
 #### Solving tickets
 
-If you believe that you have solved the issue the client has raised, or if you have answered their question, submit it as solved.
+If we believe that we have solved the issue the client has raised, we submit it as solved.
 
-If it's something the client needs to check and confirm as fixed, submit the ticket as pending until they reply, and mark it solved if they say everything's ok.
+If it's something the client needs to check and confirm as fixed, we submit the ticket as pending until they reply, and mark it solved if they say everything's ok.
 
 If a client replies to a solved ticket, it will be reopened. Sometimes clients reply just to say thanks. If so, we set it back to solved without comment.
 
 It is important that solved tickets contain some record of what we did. This is usually not difficult, as your communication with the client will describe what actions you've taken. But that's not always the case.
 
-Some tickets are not raised by clients, but are raised by another agent or by an automated process. In this situation, it's still important that the ticket records what actions we took, so we don't close them without a good update. We always leave a couple of sentences to say what we did, even if it was minor.
+Some tickets are not raised by clients, but are raised by another agent or by an automated process. In this situation, it's still important that tickets record what actions we took, so we don't close them without a good update. We always leave a couple of sentences to say what we did, even if it was minor.
 
 Before solving a ticket, we use the *How much work was this?* field to give an approximatation of the time we spent on the issue, or we select *chargeable* if it's a ticket we'll invoice for.
 
@@ -201,14 +200,14 @@ Zendesk knows each ticket's age, the time it's been since it was updated, its pr
 
 ### Initiatial investigation
 
-When we pick up new tickets or are assigned one where no investigation has yet happened, we complete an initial investigation. If you don't have the right skills for the issue or are not familiar enough with the project to know what to do, you should reassign the ticket to a more appropriate agent, or consult a delivery manager.
+When we pick up new tickets or are assigned one where no investigation has yet happened, we complete an initial investigation. If you don't have the right skills for the issue or are not familiar enough with the project to know what to do, reassign the ticket to a more appropriate agent, or consult a delivery manager.
 
 It's important that we don't make changes unless we thoroughly understand what we're being asked to do. To that end, there are a few things we do when a new ticket arrives.
 
 
 #### Complete all fields
 
-All the fields on a ticket are important. Early in the process, you should fill them in - including the type.
+All the fields on a ticket are important. Early in the process, we fill them in - including the type.
 
 The priority and project fields are especially important. We always review them to make sure that they are correct. dxw's [Service Level Agreement](https://dxw.zendesk.com/hc/en-us/articles/205117695) explains what the different priorities mean.
 
@@ -247,7 +246,7 @@ Tickets received from unregistered users are put into the Suspended Tickets view
 
 If we see a suspended ticket that looks legitimate, we create a ticket for the project owner and ask if the user should be added. If they can be added, we create them in Clients and Projects as a contact on the appropriate project, and then recover the ticket from the suspended list. If the new user should't be added, we delete the ticket and ask the project owner to resubmit it if required.
 
-If we receive a suspended ticket from someone who is not a contact but is adding useful information, add the information to the relevant ticket as an internal note and then delete the suspended ticket. The internal note should mention who the information came from.
+If we receive a suspended ticket from someone who is not a contact but is adding useful information, add the information to the relevant ticket as an internal note and then delete the suspended ticket. We make sure the internal note mentions who the information came from.
 
 Unauthorised users submitting tickets will not receive any response, so it is important to check the suspended list frequently.
 
@@ -267,7 +266,7 @@ If a ticket is breaching the SLA or will soon do so, we take some action to avoi
 
 Always remember that all tickets except monitoring issues are subject to the SLA: whether raised by someone within dxw or by a client.
 
-If you think we have breached the SLA badly, or have breached our contractual SLA, you should contact the client to apologise and let them know what we're going to do about it.
+If you think we have breached the SLA badly, or have breached our contractual SLA, we contact the client to apologise and let them know what we're going to do about it.
 
 #### Sampling
 
@@ -308,7 +307,7 @@ Finally, there is an overarching principle that we don't do anything on a ticket
 
 #### Charging for ticket work
 
-If we decide that the ticket is not resolvable under our support service and that the work should be chargeable, we reassign the ticket to a delivery manager with an explanation.
+If we decide that the ticket is not resolvable under our support service and that the work is chargeable, we reassign the ticket to a delivery manager with an explanation.
 
 It is good to try and think of alternative approaches that we could do under our support service before taking this step - seek advice if you're unsure.
 
