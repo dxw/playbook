@@ -2,9 +2,9 @@
 
 ## Purpose
 
-For most of dxw's life, we've been small enough that it's been easy for everyone to know what's going on and how to get things done, just by listening to what's going on in the office. That's not the case anymore. We're now at the point where we need a reference for the way we do things. A place to capture the changes we agree to make. Something canonical that tells us what the current "right way" to do things is.
+For most of dxw's life, we've been small enough that it's been easy for everyone to know what's going on and how to get things done, just by listening to what's going on in the office. The team is now big enough that we need a reference for the way we do things. A place to capture the changes we agree to make. Something canonical that tells us what the current "right way" to do things is.
 
-We'll always iterate on this document. It will never be complete or entirely correct, and we always explore better ways to get things done. But now, when we've found one, it'll be recorded here. And once it is, it'll be the way we do things until we find something better.
+We'll always iterate on this document, because we'll always explore better ways to get things done. But now, when we've found one, it'll be recorded here. And once it is, it'll be the way we do things until we find something better, and write it down.
 
 This document lives in Github. Anyone on the team can edit it, and should do so. But an edit must never be a substitute for discussion and agreement, so be careful about making significant changes. This document is also public, because there is very little about our process that cannot be open. But there will be things from time to time, so don't forget that changes here get published to the world.
 
@@ -15,15 +15,15 @@ Finally, this document is inspired by [Thoughtbot's excellent playbook](https://
 
 ### Why are we all here?
 
-The web has revolutionised the way society works. Most of society has reaped the benefits of digital technology, but most public services lag behind. As a result, they are often expensive, and not very good. 
+The web has revolutionised the way society works. Most of society has reaped the benefits of digital technology, but most public services lag behind. As a result, they are often expensive to build and run, and hard for people to use. 
 
 Since dxw was founded in 2008, a lot of things have become better. The Government Digital Service has changed the conversation about how and why services get built, and many are much better as a result. But the challenge facing the public sector is not one that any organisation could tackle alone. 
 
 In addition to talented in-house teams who understand how to deliver great services, the public sector needs talented suppliers who understand how to work with it. And who are driven by a desire to make public services better. And who understand how to combine a modern technogical approach with agile principles of development and user-centricity. That's what dxw is here to do.
 
-We build digital public services that are flexible, efficient, effective and useful. We want people's experience of those services to be straightforward, positive and seamless. We believe that in building those services using agile principles, we can help government to embed those same principles in other parts of their organisations. We hope to help government become associated with technological excellence.
+We build digital public services that are flexible, efficient, effective and useful. We want people's experience of those services to be straightforward, positive and seamless. We believe that in building those services using agile principles, we can help government to embed those same principles in other parts of their organisations.
 
-We can help the public sector to spend less on technology so that it can spend more on education, healthcare, policing and welfare. We believe that it is possible to use technology and agile principles to help government become something recognisably, radically better: and we want to help make it happen.
+Ultimately, we want to help the public sector to spend less on technology so that it can spend more on education, healthcare, policing and welfare. We believe that it is possible to use technology and agile principles to help government become something recognisably, radically better: and we want to help make it happen.
 
 ### Values
 
@@ -50,6 +50,9 @@ We are reliable, consistent and committed. We make every effort to live up to ea
 ### Some guiding principles
 
 #### Agile mindset
+
+TODO
+
 #### Sustainable pace
 
 We work at a sustainable pace. We estimate work and schedule it conservatively, and set realistic expectations with clients about the pace of delivery.
@@ -61,6 +64,8 @@ When taking time off during client work, we discuss how it will impact the sched
 Sending communication outside of working hours may create an unintended sense of urgency with the recipients of your message. Try to avoid creating that urgency when possible. Unless actually urgent, you may ignore messages which you receive outside of working hours and handle them once you are back at work.
 
 #### Openness
+
+TODO - must include confidentiality bits
 
 ### Time
 
@@ -74,6 +79,7 @@ We do our very best to work to a [sustainable pace](#sustainable_pace). But some
 
 
 ### Changes to this document
+
 This playbook is a collaborative effort. If you spot something that's wrong, feel free to hop in and correct it. But remember that this playbook is the result of our conversations about how we should do things, not a substitute for one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
 
 If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect speelings and other minor errors.
@@ -81,7 +87,6 @@ If you are making a substantial change (perhaps following a team conversation) p
 ## Build
 
 ### Discovery, research and usability testing
-
 #### Scheduling
 #### Field work
 #### Reporting
@@ -93,7 +98,9 @@ We sprint. Sprint zero. Sprints are the same in all phases.
 ### GovSite
 ### Mongoose
 
+
 ## Tickets
+
 We use [Zendesk](https://dxw.zendesk.com) to manage support requests. If you're just getting started, the [Zendesk Introduction](https://support.zendesk.com/hc/en-us/articles/203921213) is your first port of call. After you've read that, ask someone to sit with you and talk you through it, to answer any questions.
 
 Other than for projects you're currently sprinting on, all requests for us to do things must come via tickets. We use tickets to manage requests in order to:
