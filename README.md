@@ -98,7 +98,7 @@ It's really important that we do what we say we'll do, and don't promise things 
 It is doubly bad to fail to meet a commitment and not say anything about it. Responsiveness is always the priority. So if for some reason we couldn't do what we said we'd do, we always respond to say so.
 
 #### Make a good impression
-In tickets as in all things, we are mindful of dxw's [values](#Values).
+In tickets as in all things, we are mindful of dxw's [values](#values).
 
 Most clients' routine contact with us is via support tickets. So it's vital that our clients' experience of the support system is a good one, and also that they have a positive experience with us personally.
 
@@ -143,7 +143,7 @@ When you are assigned a ticket, it is your responsibility to review it and take 
 
 A wide variety of issues can be reported through the helpdesk, so it's not possible to give an exhaustive guide on how to solve tickets. But there are some articles in the [Help Centre](https://dxw.zendesk.com) which may be useful. These are written for clients, but contain lots of useful information.
 
-It's important to be proactive about solving tickets. As soon as we receive a ticket, the clock starts ticking: clients expect us to be [responsive](#Responsiveness) and deal with their problems promptly.
+It's important to be proactive about solving tickets. As soon as we receive a ticket, the clock starts ticking: clients expect us to be [responsive](#responsiveness) and deal with their problems promptly.
 
 If we're not sure how to proceed with a particular ticket, we don't just let it sit there: we ask for help. If we know what to do but don't have time to get it done, we get advice from a delivery manager.
 
