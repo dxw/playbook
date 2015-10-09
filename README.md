@@ -1,7 +1,6 @@
 # Playbook
 
-## Introduction
-### Purpose
+## Purpose
 
 For most of dxw's life, we've been small enough that it's been easy for everyone to know what's going on and how to get things done, just by listening to what's going on in the office. That's not the case anymore. We're now at the point where we need a reference for the way we do things. A place to capture the changes we agree to make. Something canonical that tells us what the current "right way" to do things is.
 
@@ -10,6 +9,9 @@ We'll always iterate on this document. It will never be complete or entirely cor
 This document lives in Github. Anyone on the team can edit it, and should do so. But an edit must never be a substitute for discussion and agreement, so be careful about making significant changes. This document is also public, because there is very little about our process that cannot be open. But there will be things from time to time, so don't forget that changes here get published to the world.
 
 Finally, this document is inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/), some of which we have made our own. Thanks, Thoughtbot!
+
+
+## Working at dxw
 
 ### Why are we all here?
 
@@ -49,7 +51,27 @@ We are reliable, consistent and committed. We make every effort to live up to ea
 
 #### Agile mindset
 #### Sustainable pace
+
+We work at a sustainable pace. We estimate work and schedule it conservatively, and set realistic expectations with clients about the pace of delivery.
+
+This doesn't mean that we don't work hard. Being productive is a vital part of maintaining the trust that our clients give us, and it's important not to let them down.
+
+When taking time off during client work, we discuss how it will impact the schedule with other team members.
+
+Sending communication outside of working hours may create an unintended sense of urgency with the recipients of your message. Try to avoid creating that urgency when possible. Unless actually urgent, you may ignore messages which you receive outside of working hours and handle them once you are back at work.
+
 #### Openness
+
+### Time
+
+Our working hours are 10:00-18:00, Monday to Friday. Some people work different hours by arrangement. Anyone is free to do that as long as their hours of work don't make it hard for other people to get things done.
+
+We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:05. If you miss the stand-up, then you are [late](#Lateness). 
+
+Most developers have maintenance responibilities, and so work for 1.5 hours in the morning on tickets and the rest of the day on a client project.
+
+We do our very best to work to a [sustainable pace](#sustainable_pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during anti-social hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
+
 
 ### Changes to this document
 This playbook is a collaborative effort. If you spot something that's wrong, feel free to hop in and correct it. But remember that this playbook is the result of our conversations about how we should do things, not a substitute for one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
