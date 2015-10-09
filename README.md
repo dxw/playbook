@@ -319,10 +319,91 @@ It is good to try and think of alternative approaches that we could do under our
 
 ## Sales
 ### Typical projects
+
+We make most of our money by researching, designing and building web sites and apps. These are always for public sector organisations. Broadly speaking, they are either informational services ([corporate websites](https://www.judiciary.gov.uk), [campaigns](https://www.greatbusiness.gov.uk), intranets) or transactional services ([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs)). Somtimes they're a bit of both. 
+
+In so doing, we try to make sure that the organisations we're working with will be able to operate their new services well and sustainably. This sometimes involves work that an agency might not normally do, like advising an organisation's leaders on how their teams could be restructured, or on what their digital strategy could be.
+
+More directly, we earn money by scheduling people to work on solving problems, finding things out, or building things. We charge for this work by the day, and sell it in batches of days. Everyone is billed at the same day rate.
+
+We also make some of our money by hosting some of the services that we build, and by selling subscription-based products that are related to the rest of our work.
+
+
 ### Leads
+
+Most of our leads arrive via email as a result of recommendations and word-of-mouth. Some arrive via via more formal channels like framework agreements.
+
+When any lead arrives, we record it in [Pipeline Deals](https://www.pipelinedeals.com/home) as a *Deal*. However, we also use PipelineDeals to record information about projects we have sold. So, we don't refer to anything in PipelineDeals as a "Deal". We either call it a *lead*, or after it's sold, an *order*.
+
+We record as much information as we can about leads when they arrive. A lead should always be described in enough detail that someone else in the team could pick it up and work on it if needs be. That means that we always record a sensible name, the details of the organisation and the contact information of the person we're talking to. If they have provided any documents, we upload those into PipelineDeals as well.
+
+Leads go through several stages during their life, to show whether we're waiting for more information, waiting for a meeting, writing a proposal and so on.
+
+When the process ends, a lead will either be [won](#winning_work) or [lost](#losing_work).
+
+### Qualifying a lead
+
+Before we spend too much time thinking about or working on a lead, we need to make sure that the work and the client are a good fit for us, and that we're a good fit for them.
+
+To do this, we:
+
+* Make sure we understand what they need, and what their vision is
+* Make sure the work that they need is something we can do
+* Check that their budget is enough for the work they need
+* Check that they are happy to work in an agile way
+* Check that we'd be able to complete the work in time for whatever deadlines they have
+
+
+### Budgets
+
+Clients won't always be happy to talk about their budgets, but [we do need to know](https://medium.com/@monteiro/why-i-need-to-know-your-budget-a61ec864c898). If they absolutely can't tell us, we do our best to guess at what it probably is, based on the information we have. 
+
+Where we don't think we could do what the client needs within their budget, we explore alternative options with them that are more affordable. Sometimes this works out, sometimes not. That's ok. Where it does, it tends to be because we've made a good case that it's better to have a small feature set that works really well than a large one that's slightly disappointing.
+
+Where clients have a larger budget than we think they need, we say that too. This usually means explaining why we're able to do the work for less than they thought. We also think about what extra things we could do to improve their chances of success, and suggest extra work they could do. 
+
+Where a budget is disclosed that's more than we think is necessary, we usually propose a peice of work that uses that budget fully. But we're always be open that we've done this, and that we'd be delivering more than the minimum. And we're always happy to win a smaller bit of work than the client thought they'd need.
+
+
 ### Sales meetings
+
+Wherever possible, we meet prospective clients before writing a proposal. This is because face-to-face conversation is the most efficient way to communicate, and the projects we bid for are often complex. Often, this meeting is the way we qualify a lead.
+
+By the end of this meeting, we should make sure that we understand:
+
+* Who the client's users are
+* The user needs the client is trying to meet
+* Their current vision for how those needs will be met
+* Any notable technical requirements
+* What the project's budget and deadlines are
+* How many suppliers are likely to be bidding
+* When they need to receive our proposal by
+
+This meeting usually involves quite a bit of discussion about the project. In those discussions, we speak freely and openly, offering advice where appropriate and making any suggestions we might have. Be as [helpful](#helpful), [positive](#positive) and [creative](#creative) as you can.
+
+It's important that we use this meeting to find out the information that we need to write a good proposal. But it's just as important to prove our expertise, to deliver value early and to leave the client with a positive first impression.
+
 ### Proposals and tenders
+
+If the project is being tendered via a fixed process (like the Digital Services Framework) we'll respond by filling in a form that the client provides. These forms are not all the same, and the questions vary. If you're involved in this, make sure you have a good conversation with someone who's done it before.
+
+If we're writing a proposal following our own format, you'll have a proposal template to start from. The main things you'll need to write are:
+
+* A description of the project's background. How did they get to the point they're at now?
+* A description of the client's vision. What are they trying to do.
+* An initial set of epics. How does the client believe their vision will be met?
+* A cost for the work. How many sprints will we need to deliver the work?
+* Details of any other work we'll do, like user research or usability testing.
+* A rough timeline for when the sprints and other work will happen.
+
+There are lots of examples of these proposals that anyone can read if they like.
+
+
 ### The shape of a good project
+
+
+
+
 ### Winning work
 ### Losing work
 
