@@ -45,6 +45,12 @@ We are determined, discerning and motivated. We believe in high standards, we en
 #### Reliable
 We are reliable, consistent and committed. We make every effort to live up to each others' expectations, and to exceed the expectations of our clients.  
 
+### Some guiding principles
+
+#### Agile mindset
+#### Sustainable pace
+#### Openness
+
 ### Changes to this document
 This playbook is a collaborative effort. If you spot something that's wrong, feel free to hop in and correct it. But remember that this playbook is the result of our conversations about how we should do things, not a substitute for one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
 
