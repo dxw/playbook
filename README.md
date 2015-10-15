@@ -19,7 +19,7 @@ This is the main playbook. Unless there's a good reason, we should record all pr
 Each research activity that we do has its own page in this directory.
 
 ### guides
-This section contains more detailed documentation on how to do things. It's mostly aimed at developers. Like research activities, this is quite detailed and isn't of general interest, so it gets its own section.
+This section contains more detailed documentation on how to do things. It's mostly aimed at developers, but can contain any detailed documentation on a specific task or subject. Like research activities, this is quite detailed and isn't of general interest, so it gets its own section.
 
 ## Style
 These documents are maintained by everyone at dxw, and it's important that their quality and tone is consistent.
@@ -40,4 +40,4 @@ This document is for everyone. If you find yourself talking about something spec
 This is a public document, because it's good to be open. But some things are private. You can put them in the private playbook, when we have one!
 
 ### Headings
-Use second level headings for main sections, third for subsections and fourth level ones if you need to. Don't use fifth or first level headings. The table of contents in the HTML -lversion is automatically generated, and it assumes this structure.
+Use second level headings for main sections, third for subsections and fourth level ones if you need to. Don't use fifth or first level headings. The table of contents in the HTML version is automatically generated, and it assumes this structure.

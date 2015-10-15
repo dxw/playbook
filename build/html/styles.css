@@ -14,6 +14,36 @@ h1,h2,h3,h4,h5 {
   font-weight: normal;
 }
 
+h1#playbook {
+  font-size: 50pt;
+}
+
+
+h2 {
+  margin: 2.4em 0 1.3em 0;
+}
+
+h2 + h3 {
+  margin-top: 0;
+}
+
+h3 {
+  margin: 1.2em 0 0.6em 0;
+}
+
+h3 + p {
+  margin-top: 0;
+}
+
+h4 {
+  margin: 0.8em 0 0.2em 0;
+  font-size: 17pt;
+}
+
+h4 + p {
+  margin-top: 0;
+}
+
 .container {
   max-width: 800px;
   margin: 140px auto 0 auto;
@@ -96,18 +126,6 @@ header {
 header h1 {
   margin: 20px;
   color: white;
-}
-
-header img {
-  margin: 14px 0 0 20px;
-}
-
-h1#playbook {
-  font-size: 50pt;
-}
-
-.container p + h2 {
-  margin-top: 3em;
 }
 
 @media only screen and (max-width: 800px) {

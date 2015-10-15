@@ -1,4 +1,4 @@
-# Playbook
+# dxw's playbook
 
 ## Purpose
 For most of dxw's life, we've been small enough that it's been easy for everyone to know what's going on and how to get things done, just by listening to what's going on in the office. The team is now big enough that we need a reference for the way we do things. A place to capture the changes we agree to make. Something canonical that tells us what the current "right way" to do things is.
@@ -286,8 +286,6 @@ There are a few background tasks that we do to ensure that helpdesk work goes sm
 
 The work in this section is the responsibility of **Front-line support agents**.
 
-##### Unauthorised contacts
-
 Only people who have been registered in Zendesk are permitted to submit tickets.
 
 Tickets received from unregistered users are put into the Suspended Tickets view with a reason of "permission denied". We receive a digest email on the systems email to let us know what is in the suspended queue.
@@ -298,9 +296,7 @@ If we receive a suspended ticket from someone who is not a contact but is adding
 
 Unauthorised users submitting tickets will not receive any response, so it is important to check the suspended list frequently.
 
-##### Spam and autoresponders
-
-It's hard to monitor the contents of the suspended tickets view if it's cluttered. So we clean up the list regularly. We delete anything that doesn't need to be recovered or noted.
+Zendesk also suspends tickets that it suspects may be spam or autoresponders. It's hard to monitor the contents of the suspended tickets view if it's cluttered. So we clean up the list regularly. We delete anything that doesn't need to be recovered or noted.
 
 #### SLA breaches
 
@@ -326,7 +322,7 @@ If any problems are found with tickets, we give feedback, discuss as a team and 
 
 #### Following up on bad client feedback
 
-The work described in this section is the responsibility of *delivery managers*.
+The work described in this section is the responsibility of **delivery managers**.
 
 After each ticket is solved, the requester is emailed to ask for their feedback on our performance. Our feedback is generally very good.
 
@@ -360,6 +356,7 @@ If we decide that the ticket is not resolvable under our support service and tha
 It is good to try and think of alternative approaches that we could do under our support service before taking this step - seek advice if you're unsure.
 
 ## Sales
+
 ### Typical projects
 
 We make most of our money by researching, designing and building web sites and apps. These are always for public sector organisations. Broadly speaking, they are either informational services ([corporate websites](https://www.judiciary.gov.uk), [campaigns](https://www.greatbusiness.gov.uk), intranets) or transactional services ([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs)). Somtimes they're a bit of both.
