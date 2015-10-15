@@ -15,7 +15,7 @@ h1,h2,h3,h4,h5 {
 }
 
 .container {
-  width: 800px;
+  max-width: 800px;
   margin: 140px auto 0 auto;
 }
 
@@ -106,3 +106,14 @@ h1#playbook {
   margin-top: 3em;
 }
 
+@media only screen and (max-width: 800px) {
+  .menu {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+  }
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
