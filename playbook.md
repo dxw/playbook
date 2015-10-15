@@ -79,13 +79,18 @@ If you are making a substantial change (perhaps following a team conversation) p
 ## Build
 
 ### Discovery, research and usability testing
+
 #### Scheduling
+
 #### Field work
+
 #### Reporting
+
 ### Sprints
 We sprint. Sprint zero. Sprints are the same in all phases.
 
 ## Products
+
 ### GovPress (hosting)
 
 GovPress is the service we use to host most of the website we build. It also has some things on it that are hosted and maintained by other people. We built GovPress because clients were frequently asking us for hosting with high availability and high security, but didn't have enough budget to be able to build an appropriate hosting platform for their service. This is fair enough, because they shouldn't have to. We built GovPress to meet this need, and now we provide it to most of our clients. You can read more about it at [www.govpress.com](https://www.govpress.com).
@@ -523,20 +528,33 @@ The second interview is exactly the same as the first, but with different member
 
 
 ### Offer and onboarding
+
 ### Performance and development
+
 ### Compensation
 
 ## Operations
+
 ### Expenses
+
 ### Calendars and documents
+
 ### Accounting and legal
+
 #### Cashflow
+
 #### Payroll
+
 #### CCS management information
+
 ### Projects and contacts
 
 ## Sharing
+
 ### Events
+
 ### Blog
+
 ### Twitter
+
 ### Facebook
