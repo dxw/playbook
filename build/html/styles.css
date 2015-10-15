@@ -10,6 +10,8 @@ body {
 
 h1,h2,h3,h4,h5 {
   font-family: raleway, sans-serif;
+  color: #1ba4e6;
+  font-weight: normal;
 }
 
 .container {
@@ -26,7 +28,7 @@ h1,h2,h3,h4,h5 {
 
 .menu {
   display: none;
-  background-color: #1ba4de;
+  background-color: #E3F2F9;
   padding: 5px 20px 20px 20px;
 
   -webkit-column-count: 2;
@@ -51,7 +53,8 @@ h1,h2,h3,h4,h5 {
 
 .menu h4 a {
   text-decoration: none;
-  color: white;
+  color: black;
+  font-weight: bold;
   font-family: helvetica, sans-serif;
 }
 
@@ -66,4 +69,5 @@ header {
 
 header h1 {
   margin: 20px;
+  color: white;
 }
