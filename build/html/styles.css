@@ -1,6 +1,6 @@
 body {
   font-family: helvetica, sans-serif;
-  font-size: 14pt;
+  font-size: 16pt;
   color: #393b44;
   line-height: 1.7em;
   background: #FAFDFE;
@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5 {
 nav {
   display: none;
   width: 100%;
-  top: 66px;
+  top: 80px;
   position: fixed;
   background-color: #fff;
   border-bottom: 4px solid #006a97;
@@ -96,6 +96,10 @@ header {
 header h1 {
   margin: 20px;
   color: white;
+}
+
+header img {
+  margin: 14px 0 0 20px;
 }
 
 h1#playbook {
