@@ -8,7 +8,7 @@ There will be an HTML version, but there isn't yet.
 It's dxw's playbook. It explains how we get things done.
 
 ## Changes
-The playbook documents how the playbook gets changed. See [changes to this document](https://github.com/dxw/playbook/blob/master/README.md#changes-to-this-document) for more information
+The playbook documents how the playbook gets changed. See the [changes to this document](https://github.com/dxw/playbook/blob/master/README.md#changes-to-this-document) section for more information.
 
 ## Structure of the repo
 
