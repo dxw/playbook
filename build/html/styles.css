@@ -2,7 +2,7 @@ body {
   font-family: helvetica, sans-serif;
   font-size: 14pt;
   color: #393b44;
-  line-height: 20pt;
+  line-height: 1.7em;
   background: #FAFDFE;
   margin: 0;
   padding: 0;
@@ -16,21 +16,30 @@ h1,h2,h3,h4,h5 {
 
 .container {
   width: 800px;
-  margin: 0 auto;
+  margin: 140px auto 0 auto;
 }
 
 :target:before {
   content:"";
   display:block;
-  height:80px; /* fixed header height*/
-  margin:-80px 0 0; /* negative fixed header height */
+  height:80px;
+  margin:-80px 0 0;
+}
+
+nav {
+  display: none;
+  width: 100%;
+  top: 66px;
+  position: fixed;
+  background-color: #fff;
+  border-bottom: 4px solid #006a97;
+  padding: 5px 20px 20px 20px;
+  line-height: 1.2em;
+  overflow-y: scroll;
+  max-height: 90%;
 }
 
 .menu {
-  display: none;
-  background-color: #E3F2F9;
-  padding: 5px 20px 20px 20px;
-
   -webkit-column-count: 2;
   -moz-column-count: 2;
   column-count: 2;
@@ -38,6 +47,7 @@ h1,h2,h3,h4,h5 {
   -webkit-column-gap: 20px;
   -moz-column-gap: 22px;
   column-gap: 22px;
+
 }
 
 .navnotice {
@@ -47,15 +57,31 @@ h1,h2,h3,h4,h5 {
 }
 
 .menu p {
-  padding-left: 15px;
-  line-height: 10pt;
+  line-height: 2em;
+  padding: 0;
+  margin: 0;
 }
 
+.menu p a {
+  color: #555;
+  text-decoration: none;
+}
+
+.menu h4 {
+  padding-top: 1.5em;
+  margin-bottom: .7em;
+  border-top: 1px solid #ccc;
+}
 .menu h4 a {
   text-decoration: none;
-  color: black;
+  color: #1ba4de;
   font-weight: bold;
-  font-family: helvetica, sans-serif;
+  font-family: raleway, sans-serif;
+  text-transform: uppercase;
+}
+
+.menu p a:hover, .menu h4 a:hover {
+  text-decoration: underline;
 }
 
 header {
@@ -71,3 +97,12 @@ header h1 {
   margin: 20px;
   color: white;
 }
+
+h1#playbook {
+  font-size: 50pt;
+}
+
+.container p + h2 {
+  margin-top: 3em;
+}
+
