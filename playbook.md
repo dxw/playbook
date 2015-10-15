@@ -286,8 +286,6 @@ There are a few background tasks that we do to ensure that helpdesk work goes sm
 
 The work in this section is the responsibility of **Front-line support agents**.
 
-##### Unauthorised contacts
-
 Only people who have been registered in Zendesk are permitted to submit tickets.
 
 Tickets received from unregistered users are put into the Suspended Tickets view with a reason of "permission denied". We receive a digest email on the systems email to let us know what is in the suspended queue.
@@ -298,9 +296,7 @@ If we receive a suspended ticket from someone who is not a contact but is adding
 
 Unauthorised users submitting tickets will not receive any response, so it is important to check the suspended list frequently.
 
-##### Spam and autoresponders
-
-It's hard to monitor the contents of the suspended tickets view if it's cluttered. So we clean up the list regularly. We delete anything that doesn't need to be recovered or noted.
+Zendesk also suspends tickets that it suspects may be spam or autoresponders. It's hard to monitor the contents of the suspended tickets view if it's cluttered. So we clean up the list regularly. We delete anything that doesn't need to be recovered or noted.
 
 #### SLA breaches
 
