@@ -1,6 +1,6 @@
 body {
   font-family: helvetica, sans-serif;
-  font-size: 14pt;
+  font-size: 16pt;
   color: #393b44;
   line-height: 1.7em;
   background: #FAFDFE;
@@ -12,6 +12,35 @@ h1,h2,h3,h4,h5 {
   font-family: raleway, sans-serif;
   color: #1ba4e6;
   font-weight: normal;
+}
+
+h1#playbook {
+  font-size: 50pt;
+}
+
+
+h2 {
+  margin: 2.4em 0 1.3em 0;
+}
+
+h2 + h3 {
+  margin-top: 0;
+}
+
+h3 {
+  margin: 1.2em 0 0.6em 0;
+}
+
+h3 + p {
+  margin-top: 0;
+}
+
+h4 {
+  margin-bottom: 0;
+}
+
+h4 + p {
+  margin-top: 0;
 }
 
 .container {
@@ -96,14 +125,6 @@ header {
 header h1 {
   margin: 20px;
   color: white;
-}
-
-h1#playbook {
-  font-size: 50pt;
-}
-
-.container p + h2 {
-  margin-top: 3em;
 }
 
 @media only screen and (max-width: 800px) {
