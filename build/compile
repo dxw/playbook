@@ -1,0 +1,18 @@
+#! /usr/bin/env ruby
+
+require 'kramdown'
+
+html = "#{File.dirname(__FILE__)}/html"
+unless File.exists?(html)
+  STDERR.puts("Couldn't find the html directory at: #{html}")
+  exit 1
+end
+
+content =
+  File.read("#{html}/head.html") +
+  File.read("#{html}/styles.css") +
+  File.read("#{html}/top.html") +
+  Kramdown::Document.new(File.read("#{File.dirname(__FILE__)}/../README.md")).to_html +
+  File.read("#{html}/bottom.html")
+
+File.open("playbook.html", 'w') { |f| f.write(content) }
