@@ -1,7 +1,6 @@
 # Playbook
 
 ## Purpose
-
 For most of dxw's life, we've been small enough that it's been easy for everyone to know what's going on and how to get things done, just by listening to what's going on in the office. The team is now big enough that we need a reference for the way we do things. A place to capture the changes we agree to make. Something canonical that tells us what the current "right way" to do things is.
 
 We'll always iterate on this document, because we'll always explore better ways to get things done. But now, when we've found one, it'll be recorded here. And once it is, it'll be the way we do things until we find something better, and write it down.
@@ -14,10 +13,9 @@ Finally, this document is inspired by [Thoughtbot's excellent playbook](https://
 ## Working at dxw
 
 ### Why are we all here?
+The web has revolutionised the way society works. Most of society has reaped the benefits of digital technology, but most public services lag behind. As a result, they are often expensive to build and run, and hard for people to use.
 
-The web has revolutionised the way society works. Most of society has reaped the benefits of digital technology, but most public services lag behind. As a result, they are often expensive to build and run, and hard for people to use. 
-
-Since dxw was founded in 2008, a lot of things have become better. The Government Digital Service has changed the conversation about how and why services get built, and many are much better as a result. But the challenge facing the public sector is not one that any organisation could tackle alone. 
+Since dxw was founded in 2008, a lot of things have become better. The Government Digital Service has changed the conversation about how and why services get built, and many are much better as a result. But the challenge facing the public sector is not one that any organisation could tackle alone.
 
 In addition to talented in-house teams who understand how to deliver great services, the public sector needs talented suppliers who understand how to work with it. And who are driven by a desire to make public services better. And who understand how to combine a modern technogical approach with agile principles of development and user-centricity. That's what dxw is here to do.
 
@@ -26,7 +24,6 @@ We build digital public services that are flexible, efficient, effective and use
 Ultimately, we want to help the public sector to spend less on technology so that it can spend more on education, healthcare, policing and welfare. We believe that it is possible to use technology and agile principles to help government become something recognisably, radically better: and we want to help make it happen.
 
 ### Values
-
 We think that it's very important to have a talented team if we're going to succeed. But just as important as raw talent is our ability to work well together. These are the values that we aspire to, and help each other to achieve.
 
 #### Helpful
@@ -45,16 +42,14 @@ We are creative, diverse and curious. We help each other to learn and improve an
 We are determined, discerning and motivated. We believe in high standards, we enjoy doing things properly, and we're loath to settle for less.
 
 #### Reliable
-We are reliable, consistent and committed. We make every effort to live up to each others' expectations, and to exceed the expectations of our clients.  
+We are reliable, consistent and committed. We make every effort to live up to each others' expectations, and to exceed the expectations of our clients.
 
 ### Some guiding principles
 
 #### Agile mindset
-
 TODO
 
 #### Sustainable pace
-
 We work at a sustainable pace. We estimate work and schedule it conservatively, and set realistic expectations with clients about the pace of delivery.
 
 This doesn't mean that we don't work hard. Being productive is a vital part of maintaining the trust that our clients give us, and it's important not to let them down.
@@ -64,14 +59,12 @@ When taking time off during client work, we discuss how it will impact the sched
 Sending communication outside of working hours may create an unintended sense of urgency with the recipients of your message. Try to avoid creating that urgency when possible. Unless actually urgent, you may ignore messages which you receive outside of working hours and handle them once you are back at work.
 
 #### Openness
-
 TODO - must include confidentiality bits
 
 ### Time
-
 Our working hours are 10:00-18:00, Monday to Friday. Some people work different hours by arrangement. Anyone is free to do that as long as their hours of work don't make it hard for other people to get things done.
 
-We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:05. If you miss the stand-up, then you are [late](#Lateness). 
+We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:05. If you miss the stand-up, then you are [late](#Lateness).
 
 Most developers have maintenance responibilities, and so work for 1.5 hours in the morning on tickets and the rest of the day on a client project.
 
@@ -79,7 +72,6 @@ We do our very best to work to a [sustainable pace](#sustainable_pace). But some
 
 
 ### Changes to this document
-
 This playbook is a collaborative effort. If you spot something that's wrong, feel free to hop in and correct it. But remember that this playbook is the result of our conversations about how we should do things, not a substitute for one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
 
 If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect speelings and other minor errors.
@@ -98,9 +90,7 @@ We sprint. Sprint zero. Sprints are the same in all phases.
 ### GovSite
 ### Mongoose
 
-
 ## Tickets
-
 We use [Zendesk](https://dxw.zendesk.com) to manage support requests. If you're just getting started, the [Zendesk Introduction](https://support.zendesk.com/hc/en-us/articles/203921213) is your first port of call. After you've read that, ask someone to sit with you and talk you through it, to answer any questions.
 
 Other than for projects you're currently sprinting on, all requests for us to do things must come via tickets. We use tickets to manage requests in order to:
@@ -122,7 +112,7 @@ Clients expect us to deal with their issues promptly. But they understand that t
 The thing most clients value above all else is being kept informed of what is going on. The first quality of a good ticket experience is responsiveness: we keep clients informed of what we're doing, even if there hasn't been much progress.
 
 #### Sticking to commitments
-It's really important that we do what we say we'll do, and don't promise things we can't deliver. If we're unable to deal with a ticket in good time and leave an update saying we'll work on it tomorrow, we must meet that commitment. 
+It's really important that we do what we say we'll do, and don't promise things we can't deliver. If we're unable to deal with a ticket in good time and leave an update saying we'll work on it tomorrow, we must meet that commitment.
 
 It is doubly bad to fail to meet a commitment and not say anything about it. Responsiveness is always the priority. So if for some reason we couldn't do what we said we'd do, we always respond to say so.
 
@@ -142,7 +132,6 @@ In general:
 
 
 #### Don't over-deliver
-
 Of course, every client would like us to go the extra mile to solve their problem. But they also understand that to do that for them would mean bad service for another client - or that we never get to their issue, because we're too busy gold-plating the solution to someone else's.
 
 While we do everything we can to make sure the client is happy with our solution, we are also mindful of what's practical. We don't do serious bits of development work on tickets, or trial new approaches. We don't play with new tools or sink hours into interesting bugs. We set those things aside, and do them later.
@@ -151,13 +140,12 @@ The main purpose of a ticket is to take some action that solves the problem, as 
 
 
 ### Workflow
-
 All tickets that arrive on the helpdesk go through a number of stages in the course of being worked on.
 
 
 #### New tickets
 
-When a new ticket arrives, it is automatically assigned to the Front-line Support group. All agents in this group receive an email to alert them. 
+When a new ticket arrives, it is automatically assigned to the Front-line Support group. All agents in this group receive an email to alert them.
 
 If you are in the Front-line Support group, it's important that you keep an eye on the helpdesk so that you know when new tickets arrive. It's your responsibility to review tickets as they arrive, and decide what to do with them. If you can deal with the issue, or if you can complete an initial investigation into the problem, do so.
 
@@ -168,7 +156,7 @@ If you're ultimately unable to solve the ticket, assign it to someone in the Esc
 
 No matter what group you're in, when a ticket is assigned to you, you will receive an email. The ticket will also appear on your home screen in Zendesk.
 
-When you are assigned a ticket, it is your responsibility to review it and take action. You must either solve the ticket or pass it on to someone who can. 
+When you are assigned a ticket, it is your responsibility to review it and take action. You must either solve the ticket or pass it on to someone who can.
 
 A wide variety of issues can be reported through the helpdesk, so it's not possible to give an exhaustive guide on how to solve tickets. But there are some articles in the [Help Centre](https://dxw.zendesk.com) which may be useful. These are written for clients, but contain lots of useful information.
 
@@ -176,7 +164,7 @@ It's important to be proactive about solving tickets. As soon as we receive a ti
 
 If we're not sure how to proceed with a particular ticket, we don't just let it sit there: we ask for help. If we know what to do but don't have time to get it done, we get advice from a delivery manager.
 
-Whenever we do anything at all related to a given ticket, we update it to let the client know - even if it's just to say that we haven't managed to figure out what the problem is yet. 
+Whenever we do anything at all related to a given ticket, we update it to let the client know - even if it's just to say that we haven't managed to figure out what the problem is yet.
 
 If we're replying to a ticket just to update the client, but we still need to take some action, we set its status to open. The same applies if you are reassigning the ticket to another agent.
 
@@ -215,7 +203,7 @@ You are free to work on whichever of your assigned tickets you think is most imp
 
 #### Triage
 
-We all have limited time. We try to spend it wisely. All other things being equal, it is better to spend spend half an hour solving each of four tickets than to spend two hours on one issue. 
+We all have limited time. We try to spend it wisely. All other things being equal, it is better to spend spend half an hour solving each of four tickets than to spend two hours on one issue.
 
 
 #### Procrastinating
@@ -228,7 +216,7 @@ The priority of tickets is important, and we must be biased towards dealing with
 
 Zendesk can help us to balance these factors. When you log in and land on the dashboard, you will see a list of your tickets, ordered by age and priority.
 
-Unless there's a good reason not to, we deal with tickets in the order they are displayed. There's a "play" button at the top right hand corner of the ticket list that will serve up each ticket in turn, moving to the next as you mark things open, pending or solved. 
+Unless there's a good reason not to, we deal with tickets in the order they are displayed. There's a "play" button at the top right hand corner of the ticket list that will serve up each ticket in turn, moving to the next as you mark things open, pending or solved.
 
 Zendesk knows each ticket's age, the time it's been since it was updated, its priority and the time left until we breach our SLA. Generally speaking, it makes good decisions about priority.
 
@@ -275,9 +263,9 @@ The work in this section is the responsibility of **Front-line support agents**.
 
 ##### Unauthorised contacts
 
-Only people who have been registered in Zendesk are permitted to submit tickets. 
+Only people who have been registered in Zendesk are permitted to submit tickets.
 
-Tickets received from unregistered users are put into the Suspended Tickets view with a reason of "permission denied". We receive a digest email on the systems email to let us know what is in the suspended queue. 
+Tickets received from unregistered users are put into the Suspended Tickets view with a reason of "permission denied". We receive a digest email on the systems email to let us know what is in the suspended queue.
 
 If we see a suspended ticket that looks legitimate, we create a ticket for the project owner and ask if the user should be added. If they can be added, we create them in Clients and Projects as a contact on the appropriate project, and then recover the ticket from the suspended list. If the new user should't be added, we delete the ticket and ask the project owner to resubmit it if required.
 
@@ -307,7 +295,7 @@ If you think we have breached the SLA badly, or have breached our contractual SL
 
 The work described in this section is the responsibility of **Harry**.
 
-It's important for us to be able to provide good feedback to the team and catch potential problems before they become serious, so we review a sample of solved tickets at regular intervals. 
+It's important for us to be able to provide good feedback to the team and catch potential problems before they become serious, so we review a sample of solved tickets at regular intervals.
 
 If any problems are found with tickets, we give feedback, discuss as a team and change our process if necessary.
 
@@ -349,7 +337,7 @@ It is good to try and think of alternative approaches that we could do under our
 ## Sales
 ### Typical projects
 
-We make most of our money by researching, designing and building web sites and apps. These are always for public sector organisations. Broadly speaking, they are either informational services ([corporate websites](https://www.judiciary.gov.uk), [campaigns](https://www.greatbusiness.gov.uk), intranets) or transactional services ([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs)). Somtimes they're a bit of both. 
+We make most of our money by researching, designing and building web sites and apps. These are always for public sector organisations. Broadly speaking, they are either informational services ([corporate websites](https://www.judiciary.gov.uk), [campaigns](https://www.greatbusiness.gov.uk), intranets) or transactional services ([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs)). Somtimes they're a bit of both.
 
 In so doing, we try to make sure that the organisations we're working with will be able to operate their new services well and sustainably. This sometimes involves work that an agency might not normally do, like advising an organisation's leaders on how their teams could be restructured, or on what their digital strategy could be.
 
@@ -385,11 +373,11 @@ To do this, we:
 
 ### Budgets
 
-Clients won't always be happy to talk about their budgets, but [we do need to know](https://medium.com/@monteiro/why-i-need-to-know-your-budget-a61ec864c898). If they absolutely can't tell us, we do our best to guess at what it probably is, based on the information we have. 
+Clients won't always be happy to talk about their budgets, but [we do need to know](https://medium.com/@monteiro/why-i-need-to-know-your-budget-a61ec864c898). If they absolutely can't tell us, we do our best to guess at what it probably is, based on the information we have.
 
 Where we don't think we could do what the client needs within their budget, we explore alternative options with them that are more affordable. Sometimes this works out, sometimes not. That's ok. Where it does, it tends to be because we've made a good case that it's better to have a small feature set that works really well than a large one that's slightly disappointing.
 
-Where clients have a larger budget than we think they need, we say that too. This usually means explaining why we're able to do the work for less than they thought. We also think about what extra things we could do to improve their chances of success, and suggest extra work they could do. 
+Where clients have a larger budget than we think they need, we say that too. This usually means explaining why we're able to do the work for less than they thought. We also think about what extra things we could do to improve their chances of success, and suggest extra work they could do.
 
 Where a budget is disclosed that's more than we think is necessary, we usually propose a peice of work that uses that budget fully. But we're always open, and tell them that we've done this, and that we'd be delivering more than the minimum. And we're always happy to win a smaller bit of work than the client thought they'd need. We try to structure these proposals so that the extra work is easy to remove.
 
@@ -411,6 +399,7 @@ By the end of this meeting, we should make sure that we understand:
 This meeting usually involves quite a bit of discussion about the project. In those discussions, we speak freely and openly, offering advice where appropriate and making any suggestions we might have. Be as [helpful](#helpful), [positive](#positive) and [creative](#creative) as you can.
 
 It's important that we use this meeting to find out the information that we need to write a good proposal. But it's just as important to prove our expertise, to deliver value early and to leave the client with a positive first impression.
+
 
 ### Proposals and tenders
 
@@ -443,13 +432,29 @@ There aren't any strict rules about what projects we take on, except that the ul
 
 When we win work, we mark it as Won in PipelineDeals. We amend the budget, closing date and services sold if necessary. We write to the client to thank them and ask them for a convenient time to meet and start the work. We create invoices in Xero and save them as drafts, so we don't foget to bill them. And we add the project's sprints and other work to Forecast, so that the team can see who's working on what.
 
+
 ### Losing work
 
 When we lose work, we mark it as Lost in PipelineDeals. We write to the client to thank them for their interest and ask them for any feedback they might have. We usually also say that we'd be happy to talk about any future work they might have. We record the main reason we didn't win the work in PipelineDeals along with the detailed feedback.
 
+
 ## Recruitment
+
+### Basics
+We use [Workable](https://dxw.workable.com) for recruitment, to help us stay organised and keep in touch with candidates.
+
+Each candidate moves through a number of stages before being offered a role, or declined: a screening interview via skype, two in-person interviews and a work day.
+
+We feel strongly that it's important to be respectful of candidates time and interest in us, and that their attention is valuable. So we do our best to be responsive, human and open. It's particularly important to give unsuccessful candidates good, thorough feedback about why we haven't made them an offer.
+
+
 ### How we find people
+
+
+
 ### CV review
+
+
 ### Skype interview
 ### First interview
 ### Work day
