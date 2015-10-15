@@ -322,7 +322,7 @@ If any problems are found with tickets, we give feedback, discuss as a team and 
 
 #### Following up on bad client feedback
 
-The work described in this section is the responsibility of *delivery managers*.
+The work described in this section is the responsibility of **delivery managers**.
 
 After each ticket is solved, the requester is emailed to ask for their feedback on our performance. Our feedback is generally very good.
 
