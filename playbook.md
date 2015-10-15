@@ -356,6 +356,7 @@ If we decide that the ticket is not resolvable under our support service and tha
 It is good to try and think of alternative approaches that we could do under our support service before taking this step - seek advice if you're unsure.
 
 ## Sales
+
 ### Typical projects
 
 We make most of our money by researching, designing and building web sites and apps. These are always for public sector organisations. Broadly speaking, they are either informational services ([corporate websites](https://www.judiciary.gov.uk), [campaigns](https://www.greatbusiness.gov.uk), intranets) or transactional services ([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs)). Somtimes they're a bit of both.
