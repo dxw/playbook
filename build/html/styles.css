@@ -38,6 +38,12 @@ h1,h2,h3,h4,h5 {
   column-gap: 22px;
 }
 
+.navnotice {
+  float: right;
+  padding: 0 20px;
+  cursor: pointer;
+}
+
 .menu p {
   padding-left: 15px;
   line-height: 10pt;
