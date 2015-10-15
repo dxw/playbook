@@ -1,6 +1,7 @@
 # Card sorts
 
 **Things you'll need:** Index cards, post-it notes, pens, a large table, 4-5 participants
+
 **Estimated time:** 60 minutes
 
 ## Best to use when
