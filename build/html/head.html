@@ -21,6 +21,9 @@ $(document).ready(function() {
   $(".menu").append("</ul>");
 
   $(".navnotice").click(function(){
+      $("nav").slideToggle("fast");
+  });
+  $(".menu a").click(function(){
       $(".menu").slideToggle("fast");
   });
 });
