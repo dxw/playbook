@@ -64,9 +64,9 @@ TODO - must include confidentiality bits
 ### Time
 Our working hours are 10:00-18:00, Monday to Friday. Some people work different hours by arrangement. Anyone is free to do that as long as their hours of work don't make it hard for other people to get things done.
 
-We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:05. If you miss the stand-up, then you are [late](#Lateness).
+We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:05. If you miss the stand-up, then you are [late](#lateness).
 
-Most developers have maintenance responibilities, and so work for 1.5 hours in the morning on tickets and the rest of the day on a client project.
+Most developers have maintenance responibilities, which they do during [ticket time](#ticket_time).
 
 We do our very best to work to a [sustainable pace](#sustainable_pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during anti-social hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
 
@@ -103,6 +103,11 @@ Other than for projects you're currently sprinting on, all requests for us to do
 If a client asks us to do something in person or on the phone, we politely ask them to visit http://dxw.zendesk.com/ instead, and submit a ticket there. If they send a request via email, we forward their email to support@dxw.com to turn it into a ticket.
 
 We do not do any work at all on a client site unless we are on a sprint or working on a relevant ticket. This is really important.
+
+### Ticket time
+We work on tickets every day. Developers get 1.5-2 hours per day to work on their tickets. This applies every day, including when we're working on sprints. This is reflected in the cost of our sprints - they are 10 days long, but we only charge for 8.
+
+If you don't have any tickets of your own to do, see if you can take one over from someone else in the team, or pick up a new one. There is almost always something to do. 
 
 ### Client experience
 
