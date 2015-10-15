@@ -92,14 +92,21 @@ We sprint. Sprint zero. Sprints are the same in all phases.
 ## Products
 
 ### GovPress (hosting)
+GovPress is a product we built to host most of the WordPress websites we build. It also has some things on it that are hosted and maintained by other people.
 
-GovPress is the service we use to host most of the website we build. It also has some things on it that are hosted and maintained by other people. We built GovPress because clients were frequently asking us for hosting with high availability and high security, but didn't have enough budget to be able to build an appropriate hosting platform for their service. This is fair enough, because they shouldn't have to. We built GovPress to meet this need, and now we provide it to most of our clients. You can read more about it at [www.govpress.com](https://www.govpress.com).
+We built GovPress because clients were frequently asking us for hosting with high availability and high security, but didn't have enough budget to be able to build an appropriate hosting platform for their service. This is fair enough, because they shouldn't have to. We built GovPress to meet this need, and it is now used by most of our clients.
+
+Read more about it at [www.govpress.com](https://www.govpress.com).
 
 ### GovSite
+GovSite is a product we have built to provide a pre-configured WordPress site to clients with simple publishing requirements. It's a theme that we made, and a set of plugins we have curated.
 
-GovSite is a product we have built to provide a pre-made WordPress site to clients with simple publishing requirements. We built GovSite because new prospective clients frequently asked us to build very similar sites to ones we had built before. There's a feature set that is very commonly asked for, but usually required by clients who don't have enough budget to build a proper Digital by Default service. We built GovSite to meet this need: it caters for the things we are most commonly asked for, and is much less expensive than building a site from scratch. You can read more about it at [www.govsite.com](https://www.govsite.com).
+We built GovSite because new prospective clients frequently ask us to build very similar sites to ones we have built before. There's a feature set that is very commonly asked for, but usually required by clients who don't have enough budget to build a proper [Digital by Default](https://www.gov.uk/service-manual/digital-by-default) service. We built GovSite to meet this need: it caters for the things we are most commonly asked for, and is much less expensive than building a site from scratch.
+
+Read more about it at [www.govsite.com](https://www.govsite.com).
 
 ### Mongoose
+
 
 ## Tickets
 
@@ -525,7 +532,6 @@ When everything's done, we thank the candidate their time and then return to the
 The second interview is exactly the same as the first, but with different members of the team and different questions. Usually, it happens in the first hour of the work day.
 
 ### Work day
-
 
 ### Offer and onboarding
 
