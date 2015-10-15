@@ -91,6 +91,8 @@ We sprint. Sprint zero. Sprints are the same in all phases.
 ### Mongoose
 
 ## Tickets
+
+### Basics
 We use [Zendesk](https://dxw.zendesk.com) to manage support requests. If you're just getting started, the [Zendesk Introduction](https://support.zendesk.com/hc/en-us/articles/203921213) is your first port of call. After you've read that, ask someone to sit with you and talk you through it, to answer any questions.
 
 Other than for projects you're currently sprinting on, all requests for us to do things must come via tickets. We use tickets to manage requests in order to:
