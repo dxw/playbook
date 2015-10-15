@@ -196,7 +196,7 @@ Some tickets are not raised by clients, but are raised by another agent or by an
 Before solving a ticket, we use the *How much work was this?* field to give an approximatation of the time we spent on the issue, or we select *chargeable* if it's a ticket we'll invoice for.
 
 
-#### Deciding what to work on
+### Deciding what to work on
 
 You are free to work on whichever of your assigned tickets you think is most important. But there are some important things to bear in mind.
 
