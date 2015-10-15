@@ -14,7 +14,7 @@ h1,h2,h3,h4,h5 {
   font-weight: normal;
 }
 
-h1#playbook {
+.container h1:first-of-type {
   font-size: 50pt;
 }
 
@@ -102,6 +102,13 @@ nav {
   margin-bottom: .7em;
   border-top: 1px solid #ccc;
 }
+
+.menu h4:first-of-type {
+  border-top: none;
+  padding-top: .1em;
+  margin-top: 0;
+}
+
 .menu h4 a {
   text-decoration: none;
   color: #1ba4de;
@@ -126,6 +133,10 @@ header {
 header h1 {
   margin: 20px;
   color: white;
+}
+
+header img {
+  margin: 14px 0 0 20px;
 }
 
 @media only screen and (max-width: 800px) {
