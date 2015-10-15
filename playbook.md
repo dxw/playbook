@@ -91,7 +91,7 @@ We sprint. Sprint zero. Sprints are the same in all phases.
 
 ## Products
 
-### GovPress (hosting)
+### GovPress
 GovPress is a product we built to host most of the WordPress websites we build. It also has some things on it that are hosted and maintained by other people.
 
 We built GovPress because clients were frequently asking us for hosting with high availability and high security, but didn't have enough budget to be able to build an appropriate hosting platform for their service. This is fair enough, because they shouldn't have to. We built GovPress to meet this need, and it is now used by most of our clients.
