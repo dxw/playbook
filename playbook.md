@@ -109,7 +109,7 @@ We do not do any work at all on a client site unless we are on a sprint or worki
 ### Ticket time
 We work on tickets every day. Developers get 1.5-2 hours per day to work on their tickets. This applies every day, including when we're working on sprints. This is reflected in the cost of our sprints - they are 10 days long, but we only charge for 8.
 
-If you don't have any tickets of your own to do, see if you can take one over from someone else in the team, or pick up a new one. There is almost always something to do. 
+If you don't have any tickets of your own to do, see if you can take one over from someone else in the team, or pick up a new one. There is almost always something to do.
 
 ### Client experience
 
@@ -450,21 +450,72 @@ When we lose work, we mark it as Lost in PipelineDeals. We write to the client t
 ### Basics
 We use [Workable](https://dxw.workable.com) for recruitment, to help us stay organised and keep in touch with candidates.
 
-Each candidate moves through a number of stages before being offered a role, or declined: a screening interview via skype, two in-person interviews and a work day.
+Each candidate moves through a number of stages before being offered a job or declined: a screening interview via skype, two in-person interviews and a work day.
 
 We feel strongly that it's important to be respectful of candidates time and interest in us, and that their attention is valuable. So we do our best to be responsive, human and open. It's particularly important to give unsuccessful candidates good, thorough feedback about why we haven't made them an offer.
 
+### Job descriptions
+Before we decide to advertise a new job, we write a job description. This helps us make sure we all agree on what we need, and helps candidates to know if their skills are a good fir for the job. A good job description has three parts:
+
+1. A description of what the person in this job will do
+2. A list of their responsibilities
+3. A list of the skills, experience and personal qualities they will need to be good at their job
+
+There are lots of job descriptions on the website if you need inspiration. It's important for them to be declarative ("The person with this job will...") and as objective as possible. Throughout the rest of the process, we'll use this document to decide what questions to ask in interviews, and to fix activities for the work day. The skills and personal qualities need to be things that we can have a go at understanding by asking questions and observing a candidate's behaviour.
 
 ### How we find people
+The first way we find people is through our networks. We look for people we know. Everyone who is willing tweets about the job and shares it on Facebook and other social networks.
+
+The second way we find people is by advertising. We advertise jobs on StackOverflow, Github, WorkInStartups and Unicorn Hunt. Not all jobs go on all of these boards - we pick whatever seems most appropriate for the job.
+
+The third way we find people is by making sure we're regularly blogging about what we're doing, and being open about our culture, work and process. We accept [general applications](https://www.dxw.com/jobs/general-application/) from people who are interested in dxw  but who don't fit an open job.
+
+There's a page on [Zealify](http://www.zealify.com/companies/dxw/) with a video and some other content about what it's like to work at dxw.
 
 
+### Review applications
+All applications arrive via Workable. We review these applications as a team to decide who to take forward.
 
-### CV review
+An application review is a very quick process. We look at the information given by the candidate and decide if it is plausible that the applicant has the skills, experience and personal qualities that we need. If it is plausible, we progress them to the next stage.
 
+### Skype screen
+The purpose of the Skype screen is to:
 
-### Skype interview
-### First interview
+1. Introduce ourselves and explain a little more about the job and life at dxw
+2. Talk to the candidate about their experience and explore why they are interested in the job
+3. Decide whether you think they are reasonably likely to have the experience and personal qualities that we are looking for
+
+Try to keep the conversation quite high-level, and avoid going into too much technical detail. This part of the process is more about experience and personal qualities than about skills. Things to keep in mind:
+
+* Does this person seem likely to embody our [values](#values)?
+* Does this person have experience working in [agile environments](#agile_mindset)
+* Would you be comfortable taking this person to a meeting with a client? If not, why not?
+
+If you can find out how they heard about the job, that's useful for us to know. Be prepared for a question about salary, but do not discuss it at this stage. You should also avoid making any commitments during this call. Near the end, explain that we'll be in touch soon. Don't offer an interview there and then: that's something we agree as a team.
+
+### Interviews
+Candidates who have a successful skype screen will be offered a first interview. This is an hour long with two members of the team.
+
+Before going to an interview, make sure you have:
+
+* Set aside enough time for the interview. You should leave half an hour each side in case the candidate is early or the interview goes long.
+* Read the job description
+* Read the candidate's CV
+* Read the questions for the interview, and thought about whether they are the right things to ask
+
+dxw interviews are informal. They are a semi-structured conversation, rather than a Q&A. We do not recite the list of questions or keep verbose notes on replies. The questions are there to ensure that you don't forget to cover important ground, and as a prompt when the conversation naturally dries up.
+
+Start with a couple of questions, and then allow the conversation to evolve naturally. Ask questions about things they say, and try to go into more detail on the points that you think will help you to assess their skills, experience and personal qualities. Keep the job descrition in mind: this should always be your frame of reference.
+
+At the end of the interview, always ask the candidate if there's anything they would like to ask you. If they have questions, answer them honestly. If they ask about salary at this stage, or have a concern or question about the job that you don't feel comfortable addressing, tell the candidate we'll get back to them and make a note for an appropriate colleague to call them.
+
+When everything's done, we thank the candidate their time and then return to the office and discuss the interview. As soon as possible, we put a thorough update on Workable. This update should include the good things and bad things about the candidate, a recommendation on whether to take them forward, and an rationale for that recommendation. It is very important that this update is detailed enough for us to understand what happened and why, long after everyone involved has forgotten all about it.
+
+The second interview is exactly the same as the first, but with different members of the team and different questions. Usually, it happens in the first hour of the work day.
+
 ### Work day
+
+
 ### Offer and onboarding
 ### Performance and development
 ### Compensation
