@@ -36,7 +36,8 @@ h3 + p {
 }
 
 h4 {
-  margin-bottom: 0;
+  margin: 0.8em 0 0.2em 0;
+  font-size: 17pt;
 }
 
 h4 + p {
