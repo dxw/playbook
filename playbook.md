@@ -556,6 +556,8 @@ The second interview is exactly the same as the first, but with different member
 
 ### Events
 
+[Move this gdoc into here](https://docs.google.com/document/d/1lO4lzUsbNf8KoxvcgJ0O1WKEWmi5wKIb_XFnHufwF_A/edit)
+
 ### Blog
 
 ### Twitter
