@@ -66,7 +66,7 @@ Our working hours are 10:00-18:00, Monday to Friday. Some people work different 
 
 We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:05. If you miss the stand-up, then you are [late](#lateness).
 
-Most developers have maintenance responibilities, which they do during [ticket time](#ticket-time).
+Most developers have maintenance responibilities, which they do during [ticket time](#ticket_time).
 
 We do our very best to work to a [sustainable pace](#sustainable_pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during anti-social hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
 
@@ -219,6 +219,14 @@ It is important that solved tickets contain some record of what we did. This is 
 Some tickets are not raised by clients, but are raised by another agent or by an automated process. In this situation, it's still important that tickets record what actions we took, so we don't close them without a good update. We always leave a couple of sentences to say what we did, even if it was minor.
 
 Before solving a ticket, we use the *How much work was this?* field to give an approximatation of the time we spent on the issue, or we select *chargeable* if it's a ticket we'll invoice for.
+
+#### On-hold tickets
+
+Sometimes a ticket does not need any action imminently but is nonetheless an important issue which we must keep track of. Renewing certificates and domain names in good time is a good example of this kind of task.
+
+In these situations, we turn the ticket into a task and give it a due date, and then set it to on-hold. The helpdesk will automatically reopen the ticket ten days before its due date, and it'll show back up in your list of open tickets.
+
+Only tasks with due dates should be made into on-hold tickets.
 
 
 ### Deciding what to work on
