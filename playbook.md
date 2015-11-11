@@ -473,7 +473,7 @@ When we lose work, we mark it as Lost in PipelineDeals. We write to the client t
 ### Basics
 We use [Workable](https://dxw.workable.com) for recruitment, to help us stay organised and keep in touch with candidates.
 
-Each candidate moves through a number of stages before being offered a job or declined: a screening interview via skype, two in-person interviews and a work day.
+Each candidate moves through a number of stages before being offered a job or declined: a screening interview via skype, an interview and a work day. The work day includes another interview.
 
 We feel strongly that it's important to be respectful of candidates time and interest in us, and that their attention is valuable. So we do our best to be responsive, human and open. It's particularly important to give unsuccessful candidates good, thorough feedback about why we haven't made them an offer.
 
@@ -491,7 +491,7 @@ The first way we find people is through our networks. We look for people we know
 
 The second way we find people is by advertising. We advertise jobs on StackOverflow, Github, WorkInStartups and Unicorn Hunt. Not all jobs go on all of these boards - we pick whatever seems most appropriate for the job.
 
-The third way we find people is by making sure we're regularly blogging about what we're doing, and being open about our culture, work and process. We accept [general applications](https://www.dxw.com/jobs/general-application/) from people who are interested in dxw  but who don't fit an open job.
+The third way we find people is by making sure we're regularly blogging about what we're doing, and being open about our culture, work and process. We accept [general applications](https://www.dxw.com/jobs/general-application/) from people who are interested in dxw but who don't fit an open job.
 
 There's a page on [Zealify](http://www.zealify.com/companies/dxw/) with a video and some other content about what it's like to work at dxw.
 
@@ -499,14 +499,14 @@ There's a page on [Zealify](http://www.zealify.com/companies/dxw/) with a video 
 ### Review applications
 All applications arrive via Workable. We review these applications as a team to decide who to take forward.
 
-An application review is a very quick process. We look at the information given by the candidate and decide if it is plausible that the applicant has the skills, experience and personal qualities that we need. If it is plausible, we progress them to the next stage.
+An application review is a very quick process. We look at the information given by the candidate and decide if it is likely that the applicant has the skills, experience and personal qualities that we need. If it is likely, we progress them to the next stage.
 
 ### Skype screen
 The purpose of the Skype screen is to:
 
 1. Introduce ourselves and explain a little more about the job and life at dxw
 2. Talk to the candidate about their experience and explore why they are interested in the job
-3. Decide whether you think they are reasonably likely to have the experience and personal qualities that we are looking for
+3. Decide whether you think they are quite likely to have the experience and personal qualities that we are looking for
 
 Try to keep the conversation quite high-level, and avoid going into too much technical detail. This part of the process is more about experience and personal qualities than about skills. Things to keep in mind:
 
@@ -516,8 +516,10 @@ Try to keep the conversation quite high-level, and avoid going into too much tec
 
 If you can find out how they heard about the job, that's useful for us to know. Be prepared for a question about salary, but do not discuss it at this stage. You should also avoid making any commitments during this call. Near the end, explain that we'll be in touch soon. Don't offer an interview there and then: that's something we agree as a team.
 
+After the call, you can talk about the candidate with the team if you wish, or just make a decision. If you think it's quite likely that they have the skills, experience and personal qualities that we need, you should take them through to an interview.
+
 ### Interviews
-Candidates who have a successful skype screen will be offered a first interview. This is an hour long with two members of the team.
+Candidates who have a successful skype screen will be offered an interview. This is an hour long with two members of the team.
 
 Before going to an interview, make sure you have:
 
@@ -532,15 +534,57 @@ Start with a couple of questions, and then allow the conversation to evolve natu
 
 At the end of the interview, always ask the candidate if there's anything they would like to ask you. If they have questions, answer them honestly. If they ask about salary at this stage, or have a concern or question about the job that you don't feel comfortable addressing, tell the candidate we'll get back to them and make a note for an appropriate colleague to call them.
 
-When everything's done, we thank the candidate their time and then return to the office and discuss the interview. As soon as possible, we put a thorough update on Workable. This update should include the good things and bad things about the candidate, a recommendation on whether to take them forward, and an rationale for that recommendation. It is very important that this update is detailed enough for us to understand what happened and why, long after everyone involved has forgotten all about it.
+When everything's done, we thank the candidate their time and then return to the office and discuss the interview. As soon as possible, we put a thorough update on Workable. This update should include the good things and bad things about the candidate, a recommendation on whether to take them forward, and an rationale for that recommendation. It is very important that this update is detailed enough for us to understand what happened and why, long after everyone involved has forgotten all about it. 
 
-The second interview is exactly the same as the first, but with different members of the team and different questions. Usually, it happens in the first hour of the work day.
+If you think the candidate is very likely to have the skills, experience and personal qualities we need, you should take them through to a work day.
+
+The work day interview is exactly the same as the first interview, but with different members of the team and different questions. Usually, it happens in the first hour of the work day.
 
 ### Work day
 
-### Offer and onboarding
+TODO. This section to cover:
 
-### Performance and development
+* Principles for a good work day
+* Preparing a work day activitiy
+* Letting the candidate know if they need to bring anything and how much time we'll need
+* Making sure there is a printed or emailed explanation for what they need to do
+* Discussing the results
+* Offer if we are sure they are right
+
+## Working at dxw
+
+### Offer, joining and probation
+
+TODO. This section to cover:
+
+* Salary negotiation, notice periods and start date
+* Eligibility to work in the UK, documentation that we need
+* Background check
+* Starters checklist
+* The probation period, meeting and expectations
+* ...more things.
+
+### The buddy system
+The buddy system is the main way we help each other to perform well and improve our skills. During your first couple of months at dxw, as you get to know the team, you should choose someone and ask them to be your buddy. 
+
+As soon as you have a buddy, you'll meet regularly with them to talk about how you're doing. You can talk about things you'd like to improve, problems you're having or new things you'd like to do. After you've discussed what you want to achieve, you'll decide together how best to go about it. In your regular meetings, you'll talk about what's working well and what's not, and decide if you need to change something.
+
+After each meeting, you record what you spoke about in the buddy trello, so that the rest of the team know what you're working on and can help. If you want to talk about something private, you can. You don't have to put everything on the board. But the presumption is that we do, unless there's a good reason not to.
+
+The buddy system is there to help us all improve, to make sure we're doing the right kind of work and to check that we're dealing with practical problems we're facing. It's not line management, so it's not the right place to talk about holiday, salary, sickness, absence or anything disciplinary. If you need to talk about those things, talk to Vee or Harry.
+
+There are a two main ideas that underpin this system.
+
+#### We are each responsible for our own improvement
+Before this system, we had regular performance reviews. They were supposed to be quarterly but generally ended up being annual. They didn't work very well, and were very top-down. We don't think this is the right way. 
+
+We prefer to assume that everyone wants to improve, and will do so given the time and space to work on it. The buddy system is there to provide a set of prompts to ensure that this happens, and an explicit time to talk about it.
+
+#### It's best to be open
+Trying to improve things in secret is a missed opportunity to get help from others. We may each be responsible for our own improvement, but we're also a team: we should help each other. Recording the things we're working on with the buddy trello is a unintrusive, quick way to ensure that everyone else knows too.
+
+
+### Fearless feedback
 
 ### Compensation
 
