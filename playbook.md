@@ -569,7 +569,7 @@ The buddy system is the main way we help each other to perform well and improve 
 
 As soon as you have a buddy, you'll meet regularly with them to talk about how you're doing. You can talk about things you'd like to improve, problems you're having or new things you'd like to do. After you've discussed what you want to achieve, you'll decide together how best to go about it. In your regular meetings, you'll talk about what's working well and what's not, and decide if you need to change something.
 
-After each meeting, you record what you spoke about in the buddy trello, so that the rest of the team know what you're working on and can help. If you want to talk about something private, you can. You don't have to put everything on the board. But the presumption is that we do, unless there's a good reason not to.
+During each meeting, we add cards to the [buddy trello](https://trello.com/b/TmiYBPZg/buddy-chats), so that the rest of the team know what you're working on and can help. If you want to talk about something private, you can. You don't have to put everything on the board. But the presumption is that we do, unless there's a good reason not to.
 
 The buddy system is there to help us all improve, to make sure we're doing the right kind of work and to check that we're dealing with practical problems we're facing. It's not line management, so it's not the right place to talk about holiday, salary, sickness, absence or anything disciplinary. If you need to talk about those things, talk to Vee or Harry.
 
