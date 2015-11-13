@@ -11,7 +11,7 @@ It's dxw's playbook. It explains how we get things done.
 The playbook documents how the playbook gets changed. See the [changes to this document](https://github.com/dxw/playbook/blob/master/playbook.md#changes-to-this-document) section for more information.
 
 ## Licence
-dxw's playbook is released under a [Creative Commons Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/3.0/us/) licence. You are free to reuse and adapt this content with credit, for non-commercial purposes.
+dxw's playbook is released under a [Creative Commons Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/2.0/uk/) licence. You are free to reuse and adapt this content with credit, for non-commercial purposes.
 
 ## Structure of the repo
 
