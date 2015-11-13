@@ -10,6 +10,9 @@ It's dxw's playbook. It explains how we get things done.
 ## Changes
 The playbook documents how the playbook gets changed. See the [changes to this document](https://github.com/dxw/playbook/blob/master/playbook.md#changes-to-this-document) section for more information.
 
+## Licence
+dxw's playbook is released under a [Creative Commons Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/3.0/us/) licence. You are free to reuse and adapt this content with credit, for non-commercial purposes.
+
 ## Structure of the repo
 
 ### playbook.md
