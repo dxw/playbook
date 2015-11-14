@@ -59,7 +59,15 @@ When taking time off during client work, we discuss how it will impact the sched
 Sending communication outside of working hours may create an unintended sense of urgency with the recipients of your message. Try to avoid creating that urgency when possible. Unless actually urgent, you may ignore messages which you receive outside of working hours and handle them once you are back at work.
 
 #### Openness
-TODO - must include confidentiality bits
+We believe it's best to be open about what we're doing. We encourage our clients to do the same, as does the [service manual](https://www.gov.uk/service-manual). We talk, blog and write about what we're doing, and we are open about as much as we can.
+
+We release [code](http://www.github.com/dxw), publish our [contracts](http://www.github.com/dxw/contracts) and things like this playbook and talk with people about what we're up to because we believe that we'll ultimately have more opportunities to work, grow and improve than if we kept everything to ourselves.
+
+However, there are some things that we must keep private.
+
+- Our clients trust us to host content that is not public, like upcoming announcements and discussions made as part of formulating new policy. This is not our information to be open about, and it's very important to keep it confidential.
+- We also hold some personal data on and on behalf of our clients. We never share any of this data, including contact details.
+- We are sometimes sent documents that are [protectively marked](#protective-marking-scheme), and we have a protective marking scheme of our own. Information in these documents is confidential.
 
 ### Time
 Our working hours are 10:00-18:00, Monday to Friday. Some people work different hours by arrangement. Anyone is free to do that as long as their hours of work don't make it hard for other people to get things done.
@@ -534,7 +542,7 @@ Start with a couple of questions, and then allow the conversation to evolve natu
 
 At the end of the interview, always ask the candidate if there's anything they would like to ask you. If they have questions, answer them honestly. If they ask about salary at this stage, or have a concern or question about the job that you don't feel comfortable addressing, tell the candidate we'll get back to them and make a note for an appropriate colleague to call them.
 
-When everything's done, we thank the candidate their time and then return to the office and discuss the interview. As soon as possible, we put a thorough update on Workable. This update should include the good things and bad things about the candidate, a recommendation on whether to take them forward, and an rationale for that recommendation. It is very important that this update is detailed enough for us to understand what happened and why, long after everyone involved has forgotten all about it. 
+When everything's done, we thank the candidate their time and then return to the office and discuss the interview. As soon as possible, we put a thorough update on Workable. This update should include the good things and bad things about the candidate, a recommendation on whether to take them forward, and an rationale for that recommendation. It is very important that this update is detailed enough for us to understand what happened and why, long after everyone involved has forgotten all about it.
 
 If you think the candidate is very likely to have the skills, experience and personal qualities we need, you should take them through to a work day.
 
@@ -565,7 +573,7 @@ TODO. This section to cover:
 * ...more things.
 
 ### The buddy system
-The buddy system is the main way we help each other to perform well and improve our skills. During your first couple of months at dxw, as you get to know the team, you should choose someone and ask them to be your buddy. 
+The buddy system is the main way we help each other to perform well and improve our skills. During your first couple of months at dxw, as you get to know the team, you should choose someone and ask them to be your buddy.
 
 As soon as you have a buddy, you'll meet regularly with them to talk about how you're doing. You can talk about things you'd like to improve, problems you're having or new things you'd like to do. After you've discussed what you want to achieve, you'll decide together how best to go about it. In your regular meetings, you'll talk about what's working well and what's not, and decide if you need to change something.
 
@@ -576,7 +584,7 @@ The buddy system is there to help us all improve, to make sure we're doing the r
 There are a two main ideas that underpin this system.
 
 #### We are each responsible for our own improvement
-Before this system, we had regular performance reviews. They were supposed to be quarterly but generally ended up being annual. They didn't work very well, and were very top-down. We don't think this is the right way. 
+Before this system, we had regular performance reviews. They were supposed to be quarterly but generally ended up being annual. They didn't work very well, and were very top-down. We don't think this is the right way.
 
 We prefer to assume that everyone wants to improve, and will do so given the time and space to work on it. The buddy system is there to provide a set of prompts to ensure that this happens, and an explicit time to talk about it.
 
@@ -603,6 +611,8 @@ Trying to improve things in secret is a missed opportunity to get help from othe
 #### CCS management information
 
 ### Projects and contacts
+
+### Protective marking scheme
 
 ## Sharing
 
