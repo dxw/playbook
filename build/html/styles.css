@@ -1,6 +1,6 @@
 body {
   font-family: helvetica, sans-serif;
-  font-size: 16pt;
+  font-size: 15pt;
   color: #393b44;
   line-height: 1.7em;
   background: #FAFDFE;
@@ -59,7 +59,7 @@ h4 + p {
 nav {
   display: none;
   width: 100%;
-  top: 80px;
+  top: 75px;
   position: fixed;
   background-color: #fff;
   border-bottom: 4px solid #006a97;
@@ -70,14 +70,13 @@ nav {
 }
 
 .menu {
-  -webkit-column-count: 2;
-  -moz-column-count: 2;
-  column-count: 2;
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
 
   -webkit-column-gap: 20px;
   -moz-column-gap: 22px;
   column-gap: 22px;
-
 }
 
 .navnotice {
@@ -87,7 +86,8 @@ nav {
 }
 
 .menu p {
-  line-height: 2em;
+  line-height: 1.5em;
+  font-size: 14pt;
   padding: 0;
   margin: 0;
 }
@@ -98,7 +98,7 @@ nav {
 }
 
 .menu h4 {
-  padding-top: 1.5em;
+  padding-top: 0.8em;
   margin-bottom: .7em;
   border-top: 1px solid #ccc;
 }
