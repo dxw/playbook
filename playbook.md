@@ -262,7 +262,7 @@ Unless there's a good reason not to, we deal with tickets in the order they are 
 Zendesk knows each ticket's age, the time it's been since it was updated, its priority and the time left until we breach our SLA. Generally speaking, it makes good decisions about priority.
 
 
-### Initiatial investigation
+### Initial investigation
 
 When we pick up new tickets or are assigned one where no investigation has yet happened, we complete an initial investigation. If you don't have the right skills for the issue or are not familiar enough with the project to know what to do, reassign the ticket to a more appropriate agent, or consult a delivery manager.
 
