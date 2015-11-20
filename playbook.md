@@ -7,7 +7,7 @@ We'll always iterate on this document, because we'll always explore better ways 
 
 This document lives in Github. Anyone on the team can edit it, and should do so. But an edit must never be a substitute for discussion and agreement, so be careful about making significant changes. This document is also public, because there is very little about our process that cannot be open. But there will be things from time to time, so don't forget that changes here get published to the world.
 
-Finally, this document is inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/), some of which we have made our own. Thanks, Thoughtbot!
+Finally, this document is inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
 
 
 ## Working at dxw
