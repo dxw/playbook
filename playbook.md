@@ -87,10 +87,22 @@ If you are making a substantial change (perhaps following a team conversation) p
 ## Build
 
 ### The structure of a project
+Projects at dxw are structured into the phases that are described by the [GDS Service Manual](https://www.gov.uk/service-manual): discovery, alpha, beta, live and retirement. It's worth having a browse of the service manual if you're not familiar with it, as it is the main guide for how digital work in the public sector should be done.
 
-* Disco, alpha, beta, live
-* Service manual
-* Pick n mix the stages depending on what the client needs
+At a high level, the purpose of each phase is:
+
+**Discovery**: Talk to users, do research. Identify and document user needs
+
+**Alpha**: Prototyping, technical spikes and experiments. Make initial technology and service design decisions
+
+**Beta**: Design, development, usability testing. Build a minimum viable product
+
+**Live**: Launch to users, learn what works, continue to design and develop. Iteratively improve a live service
+
+**Retirement**: Work out how user needs will be met without your service, provide help and guidance, archiving, links to other services. Don't leave people in the lurch; never let a link die
+
+We don't always do all these stages for every client. Often, we'll only be involved in a couple. But we can help with all or any of them, depending on our clients' needs.
+
 
 ### Client experience
 
