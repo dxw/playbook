@@ -137,10 +137,6 @@ You should aim to commit little and often, making sure you commit small bits of 
   * PSR-2
   * Sass guidelines
   * follow the style of the thing you're in
-* Committing
-  * Purpose
-  * Messages
-  * Granularity
 * Pull requests and code review
   * Make PRs when done
   * do code reviews - scope, purpose
