@@ -106,10 +106,13 @@ If you are making a substantial change (perhaps following a team conversation) p
 
 ### Sprinting
 
-* planning and retros (dev perspective)
-* design and dev
-* stories and points
-* backlog, prioritisation
+Our sprints start and end with planning and retrospective sessions. Both sessions involve all members of the project team (developers, user researcher, and delivery manager) and the product owner from the client side - retro’s may sometimes include more of the client team if they are doing a show and tell.
+
+The sprint planning session is used to decide on stories for the upcoming sprint. Stories are discussed with the client and based on user needs of the project. Developers will then estimate the stories with a number of points relating to the complexity of the story, using the numbers of the [Fibonacci sequence](http://www.mathsisfun.com/numbers/fibonacci-sequence.html). This is usually done through a game of [Planning Poker](https://en.wikipedia.org/wiki/Planning_poker) between the developers on the project. Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers should also advise at this point if there are any dependancies the client should be aware of. 
+
+Design and development is worked on in parallel during the sprint. This should be taken into account when discussing stories and estimating.
+
+At the end of the sprint the retrospective is a chance to look over what went well, what didn’t, and what actions should be taken to improve things for the next sprint. 
 
 ### Development
 
