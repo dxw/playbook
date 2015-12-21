@@ -281,13 +281,12 @@ Throughout the sprint the delivery manager's role is to facilitate the smooth de
 
 At the end of every sprint the delivery manager will facilitate a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. These sessions are attended by all the people involved in delivering the sprint along with the client team. During the session we talk about the things that did and didn't go well, we then agree actions to improve the delivery of future work.
 
-At the end of the sprint, often at the end of the retrospective, the team will look through the sprint backlog to reprioritise and/or prune stories in light of changes in the project and findings from user research. Some stories that may 
+At the end of the sprint, often at the end of the retrospective, the team will look through the sprint backlog to reprioritise and/or prune stories in light of changes in the project and findings from user research. Stories that are no longer needed can be deleted, stories that may be needed later can be moved to the icebox and all other stories should be reprioritised for future sprints.
 
-* planning and retros (DM perspective)
+
 * keeping devs productive
 * unblocking and sensibleness
 * stakeholders
-* backlog grooming
 
 
 ## Products
