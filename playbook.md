@@ -272,6 +272,17 @@ On WordPress projects, we [deploy by pushing commits](https://github.com/dxw/pla
 
 #### Managing delivery
 
+>"The delivery manager sets the team up for successful delivery. Remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done."
+>-- <cite>[Government Digital Service](https://www.gov.uk/service-manual/the-team/delivery-manager.html)</cite>
+
+Each of our sprints begins with a sprint planning session that is attended by the delivery manager, the developers, the client team and any other roles relevant to the project. Sprint plans are generally whole day sessions although the first sprint plan of a new project may sometimes require an additional day. During the session, as a project team, we work together to break down the problems we're solving into [user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html). Breaking everything down into user stories allows us to be confident that everything we develop is responding to [user needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html).
+
+Throughout the sprint the delivery manager's role is to facilitate the smooth delivery of the project. They run daily standups with the developers and client team to keep everyone up to date with progress and to discuss and resolve any blockers. Outside of standups they will maintain regular communication with the client and the delivery team to respond quickly to challenges as they arise. If priorities change during a sprint the delivery manager will work with the client to understand what impact that will have on what will be delivered in the remainder of the sprint.
+
+At the end of every sprint the delivery manager will facilitate a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. These sessions are attended by all the people involved in delivering the sprint along with the client team. During the session we talk about the things that did and didn't go well, we then agree actions to improve the delivery of future work.
+
+At the end of the sprint, often at the end of the retrospective, the team will look through the sprint backlog to reprioritise and/or prune stories in light of changes in the project and findings from user research. Some stories that may 
+
 * planning and retros (DM perspective)
 * keeping devs productive
 * unblocking and sensibleness
