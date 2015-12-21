@@ -140,10 +140,20 @@ While it’s useful to write your own style guides, it’s often easier to follo
 * PHP - [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 * Sass - [Sass Guidelines - Syntax and formatting](http://sass-guidelin.es/#syntax--formatting)
 
-* Pull requests and code review
-  * Make PRs when done
-  * do code reviews - scope, purpose
-* Deploying
+#### Pull requests and code reviews
+
+When you have finished a piece of work on a branch you should make a pull request and ask for your code to be reviewed. Code reviews are important to help maintain consistency in the code we write, ensure we push well-reasoned and bug-free code to production, and help each other learn throughout a project.
+
+Pull requests should be made when a feature is completed by a developer at the same time that it is passed to a delivery manager to review. Once the reviewing developer, delivery manager, and client are happy with the feature, it can then be merged with the `master` branch and deployed to production.
+
+When performing a code review, you should look to make sure:
+* The chosen solution is appropriate
+* Code is written in a way that is easy to understand or explained via relevant comments
+* Code follows our [code style guides](#code-style)
+
+#### Deploying
+
+
 
 ### Managing delivery
 
