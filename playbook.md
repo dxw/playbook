@@ -87,16 +87,46 @@ If you are making a substantial change (perhaps following a team conversation) p
 ## Build
 
 ### The structure of a project
+We structure projects into the phases that are described by the [GDS Service Manual](https://www.gov.uk/service-manual): discovery, alpha, beta, live and retirement. It's worth having a browse of the service manual if you're not familiar with it, as it is the main guide for how digital work in the public sector should be done.
 
-* Disco, alpha, beta, live
-* Service manual
-* Pick n mix the stages depending on what the client needs
+At a high level, the purpose of each phase is:
+
+**Discovery**: Talk to users, do research. Identify and document user needs
+
+**Alpha**: Prototyping, technical spikes and experiments. Make initial technology and service design decisions
+
+**Beta**: Design, development, usability testing. Build a minimum viable product
+
+**Live**: Launch to users, learn what works, continue to design and develop. Iteratively improve a live service
+
+**Retirement**: Work out how user needs will be met without your service, provide help and guidance, archiving, links to other services. Don't leave people in the lurch; never let a link die
+
+We don't always do all these stages for every client. Often, we'll only be involved in a couple. But we can help with all or any of them, depending on our clients' needs.
 
 ### Client experience
 
-* communicativeness with client
-* tangible progress in every sprint
-* expectation management
+#### Responsiveness
+One of the things our clients value most is responsiveness. Many will be under pressure to get things done quickly, and will be expected by their colleagues and managers to know what is going on at any given time, and to manage us effectively. If we're not quick to respond to their queries, questions and concerns, we reduce their ability to maintain the confidence of their colleagues.
+
+So, when we are on sprints, we endeavour to respond to our client quickly. It's not always possible to resolve a problem or get an answer quickly, but that shouldn't stop us from acknowledging a message or giving regular updates. As with [tickets](#responsiveness-1), being responsive to a query is just as important as giving a definitive answer.
+
+When we get enquiries for clients who are not currently sprinting, we still as quickly as we can - but clients who are sprinting come first.
+
+We also expect most communication with clients to happen with the project's delivery manager. We don't hide anyone on the team from the client, and they are free to ask questions of whomever they wish. But if you're a developer and you get a question that's really for a DM to answer, refer the client on. This will help to keep you productive, and will help the client understand who on the dxw team does what.
+
+
+#### Progress in every sprint
+Delivering projects in an agile way requires trust between everyone involved in delivery. Clients must have confidence in us for the process to work. One of the quickest ways to lose confidence is to finish sprints with little to show for the effort we've made. In all of our work, we maintain a clear relationship between sprints and their associated costs, and visible, tangible changes to the service we're working on.
+
+This means that we structure work so that visible progress and supporting back-end work happens side-by-side. We don't work on back-end or supporting code first, and then bolt front-ends on later. We make sure that what we're doing is visible to our clients as early as possible. This helps us to maintain trust, and gives us more opportunities to learn what works and what doesn't by involving users of the service in testing.
+
+#### Involvement
+We involve clients in every aspect of our work. Projects work best when everyone involved feels part of the same team. So, other than the internal retro, there's no aspect of our process that we do without client involvement.
+
+In particular, we should go out of our way to involve clients when decisions are being made about design, user needs, or strategy (among other things). We're not here to make decisions for our clients: we're here to help them to make good decisions themselves. So we shouldn't make decisions about important things without them.
+
+This isn't to say that we require clients to participate in everything. Clients and projects have varying needs, so this aspect of the process is flexible. But we always make the option of involvement available. If they want to join daily standups as well as participate in sprint planning, they can.
+
 
 ### Research
 
@@ -278,7 +308,7 @@ When you are assigned a ticket, it is your responsibility to review it and take 
 
 A wide variety of issues can be reported through the helpdesk, so it's not possible to give an exhaustive guide on how to solve tickets. But there are some articles in the [Help Centre](https://dxw.zendesk.com) which may be useful. These are written for clients, but contain lots of useful information.
 
-It's important to be proactive about solving tickets. As soon as we receive a ticket, the clock starts ticking: clients expect us to be [responsive](#responsiveness) and deal with their problems promptly.
+It's important to be proactive about solving tickets. As soon as we receive a ticket, the clock starts ticking: clients expect us to be [responsive](#responsiveness-1) and deal with their problems promptly.
 
 If we're not sure how to proceed with a particular ticket, we don't just let it sit there: we ask for help. If we know what to do but don't have time to get it done, we get advice from a delivery manager.
 
