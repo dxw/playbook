@@ -126,7 +126,7 @@ Keep this short and link to the many useful things on the interwebs.
 ### Development
 To start any new piece of work - whether story, bug fix, or chore - you should always start by creating a new branch from the `master` branch of the main repository on Github. (If the main repository is not yet on Github, [move it there](https://github.com/dxw/playbook/blob/master/guides/moving-a-repo-to-github.md)).
 
-We follow the [Git ENV](https://www.wearefine.com/mingle/env-branching-with-git/) model for branching using the [Git Env Tool](https://github.com/dxw/git-env). Follow the [Git Env Guide](https://github.com/dxw/playbook/blob/master/guides/git-env.md) to get up to speed on working with Git ENV. Branches created should be consistently named, based on either of the following patterns:
+On most projects, we follow the [Git ENV](https://www.wearefine.com/mingle/env-branching-with-git/) model for branching using the [Git Env Tool](https://github.com/dxw/git-env). Follow the [Git Env Guide](https://github.com/dxw/playbook/blob/master/guides/git-env.md) to get up to speed on working with Git ENV. Branches created should be consistently named, based on either of the following patterns:
 
 * `feature/{1234-title}` - Feature branch with story ID and a short title
 * `hotfix/{5678-title}` - Hotfix branch with story/ticket ID and short title
