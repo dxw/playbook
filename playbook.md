@@ -153,7 +153,9 @@ When performing a code review, you should look to make sure:
 
 #### Deploying
 
+We maintain two environments for deployments, `testing` and `production`. Deployments to `testing` should be done throughout the sprint ready for sign off from the client. Deployments to `production` should be made once code has been signed off from the client and passed a code review from another developer.
 
+When we deploy to production will depend on the project and the client. Some clients will prefer features to be deployed to production as soon as they’re signed off, while others may want to deploy everything at the end of the sprint. We will make it clear to the client and developers when starting a sprint, when deployments will happen.
 
 ### Managing delivery
 
