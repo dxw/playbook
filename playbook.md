@@ -104,31 +104,74 @@ If you are making a substantial change (perhaps following a team conversation) p
 * structure - working in weeks, prep/fieldwork/writeup
 * outputs - slidedecks and conversations, not fat reports
 
-### Sprinting
 
-* planning and retros (dev perspective)
-* design and dev
-* stories and points
-* backlog, prioritisation
+### Sprinting
+At dxw, sprints start with a planning session and end with two retrospective sessions: one internal, and one with the client. Both sessions involve all members of the project team (developers, user researcher, and delivery manager) and the product owner from the client side. Sometimes, retros include more of the client team.
+
+The sprint planning session is used to decide which stories will be worked on during the upcoming sprint, and to ensure that they are [well-formed](#stories). During this session, developers estimate the effort required to finish each story by giving it a number of points reflecting its complexity, using the numbers of the [Fibonacci sequence](http://www.mathsisfun.com/numbers/fibonacci-sequence.html). This is usually done by playing [Planning Poker](https://en.wikipedia.org/wiki/Planning_poker). Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers should also advise at this point if there are any dependancies the client should be aware of.
+
+Design and development is worked on in parallel during the sprint. Because we design in browser and avoid separating development and user experience work, it's important when giving stories points to think both about the design and the development effort that will be required.
+
+At the end of the sprint we have a retrospective. During a retrospective, we discuss what went well, what didn’t, and what actions should be taken to improve things for the next sprint.
+
+
+### Stories
+* Principles of good stories - independent, small, etc
+* As a so that I can
+* ACs
+
+Keep this short and link to the many useful things on the interwebs.
+
 
 ### Development
+To start any new piece of work - whether story, bug fix, or chore - you should always start by creating a new branch from the `master` branch of the main repository on Github. (If the main repository is not yet on Github, [move it there](https://github.com/dxw/playbook/blob/master/guides/moving-a-repo-to-github.md)).
 
-* Starting some work
-  * branches
-  * git env
-  * pivotal - start
-* Code style
-  * PSR-1
-  * Sass guidelines
-  * follow the style of the thing you're in
-* Committing
-  * Purpose
-  * Messages
-  * Granularity
-* Pull requests and code review
-  * Make PRs when done
-  * do code reviews - scope, purpose
-* Deploying
+On most projects, we follow the [Git ENV](https://www.wearefine.com/mingle/env-branching-with-git/) model for branching using the [Git Env Tool](https://github.com/dxw/git-env). Follow the [Git Env Guide](https://github.com/dxw/playbook/blob/master/guides/git-env.md) to get up to speed on working with Git ENV. Branches created should be consistently named, based on either of the following patterns:
+
+* `feature/{1234-title}` - Feature branch with story ID and a short title
+* `hotfix/{5678-title}` - Hotfix branch with story/ticket ID and short title
+
+If starting a new story on a sprint, remember to hit “start” on the story in Pivotal Tracker.
+
+
+#### Committing
+We follow the [Angular Git commit message conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#). At the very least, commits should have a header including a type and subject using imperative, present tense (i.e. change, not changed).
+
+You should aim to commit little and often, making sure you commit small bits of working functionality each time. It's fine to Commits with only a subject, but we do use the commit message body if it's useful to explain the reasoning behind a piece of code or a particular approach to solving a problem.
+
+
+#### Code style
+We write our code in a consistent way to ensure it is well-structured and easy to follow for the rest of the team. Similar to the guidelines laid out in [Thoughtbot’s style guide](https://playbook.thoughtbot.com/#style-guide), approach this guidance as a way to code on present and future projects, not something to retroactively add to existing projects. When working on existing projects or joining a project, make sure to follow the code style that is already in place.
+
+While it can be tempting to write a new style guide, it's not a worthwhile investment of time. It's important that a consistent style is adopted, but mostly unimportant which specific style it is. So rather than having our own, we have chosen the following existing style guides for our work:
+
+* PHP - [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+* Sass - [Sass Guidelines - Syntax and formatting](http://sass-guidelin.es/#syntax--formatting)
+
+
+#### Pull requests and code reviews
+
+When you have finished a piece of work on a branch you should make a pull request and ask for your code to be reviewed. Code reviews are important to help maintain consistency in the code we write, ensure we push well-reasoned and bug-free code to production, and help each other learn throughout a project.
+
+Pull requests should be made when a feature is completed by a developer at the same time that it is passed to a delivery manager to review. Once the reviewing developer, delivery manager, and client are happy with the feature, it can then be merged with the `master` branch and deployed to production.
+
+When performing a code review, you should look to make sure:
+
+* You cannot see any code that could give rise to a security vulnerability
+* The story has been implemented clearly and maintainably
+* The code contains comments where appropriate
+* The code follows [code style guides](#code-style)
+
+It is not important that a story be implemented exactly how you would have done it. Only that it meets the criteria above. If you find problems, you should give feedback to the developer who implemented the story, not fix things yourself. It's also important that code reviews have a constructive, amicable tone. To this end, we bear in mind the [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review), which contains good rules for keeping things positive and useful.
+
+#### Deploying
+
+We maintain two environments for deployments, `testing` and `production`. Deployments to `testing` should be done throughout the sprint ready for sign off from the client. Deployments to `production` should be made once code has been signed off from the client and passed a code review from another developer.
+
+When we deploy to production will depend on the project and the client. Some clients prefer features to be deployed to production as soon as they’re signed off, while others like to deploy everything at the end of the sprint. A discussion about which approach is preferable should happen early in every project.
+
+On WordPress projects, we [deploy by pushing commits](https://github.com/dxw/playbook/blob/master/guides/deploying.md) to the `testing` or `production` branch on GovPress. Other projects have their own approaches, which are documented in their READMEs.
+
 
 ### Managing delivery
 
