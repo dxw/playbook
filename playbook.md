@@ -116,12 +116,19 @@ At the end of the sprint the retrospective is a chance to look over what went we
 
 ### Development
 
-* Starting some work
-  * branches
-  * git env
-  * pivotal - start
+To start any new piece of work - whether story, bug fix, or chore - you should always start by creating a new branch from the `master` branch of the main repository on Github. (If the main repository is not yet on Github, [move it there](https://github.com/dxw/playbook/blob/master/guides/moving-a-repo-to-github.md)). 
+
+We follow the [Git ENV](https://www.wearefine.com/mingle/env-branching-with-git/) model for branching using the [Git Env Tool](https://github.com/dxw/git-env). Follow the [Git Env Guide](https://github.com/dxw/playbook/blob/master/guides/git-env.md) to get up to speed on working with Git ENV. Branches created should be consistently named, based on either of the following patterns:
+
+* `feature/{1234-title}` - Feature branch with story ID and a short title
+* `hotfix/{5678-title}` - Hotfix branch with story/ticket ID and short title
+
+At this point if starting a new story on a sprint, remember to hit “start” on the story in Pivotal Tracker.
+
+#### Code style 
+
 * Code style
-  * PSR-1
+  * PSR-2
   * Sass guidelines
   * follow the style of the thing you're in
 * Committing
