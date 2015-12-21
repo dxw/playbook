@@ -125,6 +125,12 @@ We follow the [Git ENV](https://www.wearefine.com/mingle/env-branching-with-git/
 
 At this point if starting a new story on a sprint, remember to hit “start” on the story in Pivotal Tracker.
 
+#### Committing
+
+We follow the [Angular Git commit message conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#). At the very least, commits should have a header including a type and subject using imperative, present tense (i.e. change, not changed). 
+
+You should aim to commit little and often, making sure you commit small bits of working functionality each time. Commits with only a subject are fine, however using the commit message body is sometimes useful for explaining the reasoning behind a piece of code or a particular approach to solving a problem.
+
 #### Code style 
 
 * Code style
