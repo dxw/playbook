@@ -106,9 +106,29 @@ We don't always do all these stages for every client. Often, we'll only be invol
 
 ### Client experience
 
-* communicativeness with client
-* tangible progress in every sprint
-* expectation management
+#### Responsiveness
+
+* fast on-sprint
+* slower off-sprint
+* DMs should take the brunt of it
+* Responses as important as solutions
+
+
+#### Progress in every sprint
+
+Delivering projects in an agile way requires trust between everyone involved in delivery. Clients must have confidence in us for the process to work. One of the quickest ways to lose confidence is to finish sprints with little to show for the effort we've made. In all of our work, we maintain a clear relationship between sprints and their associated costs, and visible, tangible changes to the service we're working on.
+
+This means that we structure work so that visible progress and supporting back-end work happens side-by-side. We don't work on back-end or supporting code first, and then bolt front-ends on later. We make sure that what we're doing is visible to our clients as early as possible. This helps us to maintain trust, and gives us more opportunities to learn what works and what doesn't by involving users of the service in testing.
+
+
+#### Involvement
+
+* Involved/invited in every aspect of delivery
+* Decisions made by them with our input
+* We are there to help them to make good decisions, not to make decisions for them
+
+
+####
 
 ### Research
 
