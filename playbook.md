@@ -86,16 +86,36 @@ If you are making a substantial change (perhaps following a team conversation) p
 
 ## Build
 
-### Discovery, research and usability testing
+### The structure of a project
 
-#### Scheduling
+* Disco, alpha, beta, live
+* Service manual
+* Pick n mix the stages depending on what the client needs
 
-#### Field work
+### Research
 
-#### Reporting
+* Purpose and principles
+* structure - working in weeks, prep/fieldwork/writeup
+* outputs - slidedecks and conversations, not fat reports
 
-### Sprints
-We sprint. Sprint zero. Sprints are the same in all phases.
+### Sprinting
+
+* planning and retros (dev perspective)
+* design and dev
+* stories and points
+* backlog, prioritisation
+* communicativeness with client
+* tangible progress in every sprint
+
+### Managing delivery
+
+* planning and retros (DM perspective)
+* keeping devs productive
+* unblocking and sensibleness
+* expectation management
+* stakeholders
+* backlog grooming
+
 
 ## Products
 
@@ -595,6 +615,8 @@ Trying to improve things in secret is a missed opportunity to get help from othe
 ### Fearless feedback
 
 ### Compensation
+
+
 
 ## Operations
 
