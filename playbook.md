@@ -92,6 +92,12 @@ If you are making a substantial change (perhaps following a team conversation) p
 * Service manual
 * Pick n mix the stages depending on what the client needs
 
+### Client experience
+
+* communicativeness with client
+* tangible progress in every sprint
+* expectation management
+
 ### Research
 
 * Purpose and principles
@@ -104,15 +110,31 @@ If you are making a substantial change (perhaps following a team conversation) p
 * design and dev
 * stories and points
 * backlog, prioritisation
-* communicativeness with client
-* tangible progress in every sprint
+
+### Development
+
+* Starting some work
+  * branches
+  * git env
+  * pivotal - start
+* Code style
+  * PSR-1
+  * Sass guidelines
+  * follow the style of the thing you're in
+* Committing
+  * Purpose
+  * Messages
+  * Granularity
+* Pull requests and code review
+  * Make PRs when done
+  * do code reviews - scope, purpose
+* Deploying
 
 ### Managing delivery
 
 * planning and retros (DM perspective)
 * keeping devs productive
 * unblocking and sensibleness
-* expectation management
 * stakeholders
 * backlog grooming
 
