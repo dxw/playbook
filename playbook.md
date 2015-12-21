@@ -133,10 +133,13 @@ You should aim to commit little and often, making sure you commit small bits of 
 
 #### Code style 
 
-* Code style
-  * PSR-2
-  * Sass guidelines
-  * follow the style of the thing you're in
+We write code in a consistent way to ensure code is well-structured and easy to follow for the rest of the team. Similar to the guidelines laid out in [Thoughtbot’s style guide](https://playbook.thoughtbot.com/#style-guide) approach this guidance as a way to code on present and future projects, not something to retroactively add to existing projects. When working on existing projects or joining a project, make sure to follow the code style that is already in place.
+
+While it’s useful to write your own style guides, it’s often easier to follow some guidelines that already exist. To that effect our code should be written to the following guidelines:
+
+* PHP - [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+* Sass - [Sass Guidelines - Syntax and formatting](http://sass-guidelin.es/#syntax--formatting)
+
 * Pull requests and code review
   * Make PRs when done
   * do code reviews - scope, purpose
