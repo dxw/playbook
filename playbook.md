@@ -87,7 +87,7 @@ If you are making a substantial change (perhaps following a team conversation) p
 ## Build
 
 ### The structure of a project
-Projects at dxw are structured into the phases that are described by the [GDS Service Manual](https://www.gov.uk/service-manual): discovery, alpha, beta, live and retirement. It's worth having a browse of the service manual if you're not familiar with it, as it is the main guide for how digital work in the public sector should be done.
+We structure projects into the phases that are described by the [GDS Service Manual](https://www.gov.uk/service-manual): discovery, alpha, beta, live and retirement. It's worth having a browse of the service manual if you're not familiar with it, as it is the main guide for how digital work in the public sector should be done.
 
 At a high level, the purpose of each phase is:
 
