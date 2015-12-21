@@ -123,13 +123,12 @@ This means that we structure work so that visible progress and supporting back-e
 
 
 #### Involvement
+We involve clients in every aspect of our work. Projects work best when everyone involved feels part of the same team. So, other than the internal retro, there's no aspect of our process that we do without client involvement.
 
-* Involved/invited in every aspect of delivery
-* Decisions made by them with our input
-* We are there to help them to make good decisions, not to make decisions for them
+In particular, we should go out of our way to involve clients when decisions are being made about design, user needs, or strategy (among other things). We're not here to make decisions for our clients: we're here to help them to make good decisions themselves. So we shouldn't make decisions about important things without them.
 
+This isn't to say that we require clients to participate in everything. Clients and projects have varying needs, so this aspect of the process is flexible. But we always make the option of involvement available. If they want to join daily standups as well as participate in sprint planning, they can.
 
-####
 
 ### Research
 
