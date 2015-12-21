@@ -107,15 +107,16 @@ We don't always do all these stages for every client. Often, we'll only be invol
 ### Client experience
 
 #### Responsiveness
+One of the things our clients value most is responsiveness. Many will be under pressure to get things done quickly, and will be expected by their colleagues and managers to know what is going on at any given time, and to manage us effectively. If we're not quick to respond to their queries, qustions and concerns, we reduce their ability to maintain the confidence of their colleagues.
 
-* fast on-sprint
-* slower off-sprint
-* DMs should take the brunt of it
-* Responses as important as solutions
+So, when we are on sprints, we endeavour to respond to our client quickly. It's not always possible to resolve a problem or get an answer quickly, but that shouldn't stop us from acknowledging a message or giving regular updates. As with [tickets](#responsiveness-1), being responsive to a query is just as important as giving a definitive answer.
+
+When we get enquiries for clients who are not currently sprinting, we still as quickly as we can - but clients who are sprinting come first.
+
+We also expect most communication with clients to happen with the project's delivery manager. We don't hide anyone on the team from the client, and they are free to ask questions of whomever they wish. But if you're a developer and you get a question that's really for a DM to answer, refer the client on. This will help to keep you productive, and will help the client understand who on the dxw team does what.
 
 
 #### Progress in every sprint
-
 Delivering projects in an agile way requires trust between everyone involved in delivery. Clients must have confidence in us for the process to work. One of the quickest ways to lose confidence is to finish sprints with little to show for the effort we've made. In all of our work, we maintain a clear relationship between sprints and their associated costs, and visible, tangible changes to the service we're working on.
 
 This means that we structure work so that visible progress and supporting back-end work happens side-by-side. We don't work on back-end or supporting code first, and then bolt front-ends on later. We make sure that what we're doing is visible to our clients as early as possible. This helps us to maintain trust, and gives us more opportunities to learn what works and what doesn't by involving users of the service in testing.
@@ -267,7 +268,7 @@ When you are assigned a ticket, it is your responsibility to review it and take 
 
 A wide variety of issues can be reported through the helpdesk, so it's not possible to give an exhaustive guide on how to solve tickets. But there are some articles in the [Help Centre](https://dxw.zendesk.com) which may be useful. These are written for clients, but contain lots of useful information.
 
-It's important to be proactive about solving tickets. As soon as we receive a ticket, the clock starts ticking: clients expect us to be [responsive](#responsiveness) and deal with their problems promptly.
+It's important to be proactive about solving tickets. As soon as we receive a ticket, the clock starts ticking: clients expect us to be [responsive](#responsiveness-1) and deal with their problems promptly.
 
 If we're not sure how to proceed with a particular ticket, we don't just let it sit there: we ask for help. If we know what to do but don't have time to get it done, we get advice from a delivery manager.
 
