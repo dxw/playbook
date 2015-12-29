@@ -37,5 +37,25 @@ To deploy something completely different to what’s currently on `testing` you 
 		git push govpress +feature/{id}-{feature}:testing
 		# Your changes should now be deployed
 
-### Deploying to production
+### Deploying to Production
 
+Working with Github means that everything we deploy to production now should go through a pull request into the `master` branch on Github.
+
+To setup a pull request, make sure you’re branch is pushed to github:
+		
+		git push origin feature/{id}-{feature}
+
+When pushed, visit Github. Either locate your branch from the branches list or press the big green “New pull request” button on the repo’s main page, and create the pull request with an appropriate description to the `master` branch.
+
+At this point, the code should be reviewed and signed off by another member of the development team before proceeding. See the playbook for details on [code review and pull requests](https://github.com/dxw/playbook/blob/master/playbook.md#pull-requests-and-code-reviews).
+
+When the pull request has been signed off and merged you need to deploy to production on GovPress.
+
+		# Fetch recent changes
+		git fetch
+		# Push updated master to govpress production
+		# This should trigger chef on the production server
+		git push govpress origin/master:production
+		# Your changes should now be deployed
+
+## Ruby projects
