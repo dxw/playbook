@@ -20,32 +20,32 @@ i.e. judiciary-theme-judiciary
 
 From the old repository, set up the new Github repo with a copy of the current branches and tags:
 
-    # go to your local copy of the old repo
-    cd the-old-repo
-    # fetch
-    git fetch
-    # Create a new master branch as a copy of the current production branch (don’t do this for themes)
-    git branch -f master origin/production
-    # push all local branches
-    git branch | cut -b 3- | xargs git push origin 
-    # duplicate all branches on the origin to the new repo (and duplicate local tags)
-    git push git@github.com:dxw/judiciary-mainsite-app.git refs/remotes/origin/*:refs/heads/* refs/tags/*:refs/tags/*
+	# go to your local copy of the old repo
+	cd the-old-repo
+	# fetch
+	git fetch
+	# Create a new master branch as a copy of the current production branch (don’t do this for themes)
+	git branch -f master origin/production
+	# push all local branches
+	git branch | cut -b 3- | xargs git push origin 
+	# duplicate all branches on the origin to the new repo (and duplicate local tags)
+	git push git@github.com:dxw/judiciary-mainsite-app.git refs/remotes/origin/*:refs/heads/* refs/tags/*:refs/tags/*
 
 Set up the new repo on your machine:
 
-    # clone the new repo
-    cd /path/to/repos
-    git clone git@github.com:dxw/judiciary-mainsite-app.git
-    cd judiciary-mainsite-app
-    # add the remote for the git.dxw.net repo
-    git remote add govpress git@git.dxw.net:judiciary/app
+	# clone the new repo
+	cd /path/to/repos
+	git clone git@github.com:dxw/judiciary-mainsite-app.git
+	cd judiciary-mainsite-app
+	# add the remote for the git.dxw.net repo
+	git remote add govpress git@git.dxw.net:judiciary/app
 
 Spring cleaning:
 
-    # since we’re starting fresh, we may as well prune some unnecessary branches
-    git branch --merged=master -r | grep origin | grep -E ‘(hotfix|feature)’ | cut -d/ -f2- | xargs git push origin --delete
-    # we don’t need production and testing
-    git push origin --delete production testing
+	# since we’re starting fresh, we may as well prune some unnecessary branches
+	git branch --merged=master -r | grep origin | grep -E ‘(hotfix|feature)’ | cut -d/ -f2- | xargs git push origin --delete
+	# we don’t need production and testing
+	git push origin --delete production testing
 
 ## Set options
 
@@ -54,6 +54,11 @@ Spring cleaning:
 
 ## Don’t forget
 
-    git branch stage origin/stage
-    git submodule update —init —recursive
-    whippet plugins install
+Lastly when you’ve finished all the above steps, remember to set up a local copy of the stage branch:
+
+	git branch stage origin/stage
+
+And update all the plugins and submodules in the project if required:
+
+	git submodule update --init --recursive
+	whippet plugins install
