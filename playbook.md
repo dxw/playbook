@@ -490,7 +490,7 @@ It is good to try and think of alternative approaches that we could do under our
 
 ### Typical projects
 
-We make most of our money by researching, designing and building web sites and apps. These are always for public sector organisations. Broadly speaking, they are either informational services ([corporate websites](https://www.judiciary.gov.uk), [campaigns](https://www.greatbusiness.gov.uk), intranets) or transactional services ([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs)). Somtimes they're a bit of both.
+We make most of our money by researching, designing and building web sites and apps. These are always for public sector organisations. Broadly speaking, they are either informational services ([corporate websites](https://www.judiciary.gov.uk), [campaigns](https://www.greatbusiness.gov.uk), intranets) or transactional services ([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs)). Sometimes they're a bit of both.
 
 In so doing, we try to make sure that the organisations we're working with will be able to operate their new services well and sustainably. This sometimes involves work that an agency might not normally do, like advising an organisation's leaders on how their teams could be restructured, or on what their digital strategy could be.
 
@@ -653,7 +653,7 @@ Before going to an interview, make sure you have:
 
 dxw interviews are informal. They are a semi-structured conversation, rather than a Q&A. We do not recite the list of questions or keep verbose notes on replies. The questions are there to ensure that you don't forget to cover important ground, and as a prompt when the conversation naturally dries up.
 
-Start with a couple of questions, and then allow the conversation to evolve naturally. Ask questions about things they say, and try to go into more detail on the points that you think will help you to assess their skills, experience and personal qualities. Keep the job descrition in mind: this should always be your frame of reference.
+Start with a couple of questions, and then allow the conversation to evolve naturally. Ask questions about things they say, and try to go into more detail on the points that you think will help you to assess their skills, experience and personal qualities. Keep the job description in mind: this should always be your frame of reference.
 
 At the end of the interview, always ask the candidate if there's anything they would like to ask you. If they have questions, answer them honestly. If they ask about salary at this stage, or have a concern or question about the job that you don't feel comfortable addressing, tell the candidate we'll get back to them and make a note for an appropriate colleague to call them.
 
@@ -668,7 +668,7 @@ The work day interview is exactly the same as the first interview, but with diff
 TODO. This section to cover:
 
 * Principles for a good work day
-* Preparing a work day activitiy
+* Preparing a work day activity
 * Letting the candidate know if they need to bring anything and how much time we'll need
 * Making sure there is a printed or emailed explanation for what they need to do
 * Discussing the results
@@ -710,8 +710,6 @@ Trying to improve things in secret is a missed opportunity to get help from othe
 ### Fearless feedback
 
 ### Compensation
-
-
 
 ## Operations
 
