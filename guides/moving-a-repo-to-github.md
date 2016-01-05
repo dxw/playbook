@@ -29,7 +29,7 @@ From the old repository, set up the new Github repo with a copy of the current b
 	# push all local branches
 	git branch | cut -b 3- | xargs git push origin 
 	# duplicate all branches on the origin to the new repo (and duplicate local tags)
-	git push git@github.com:dxw/judiciary-mainsite-app.git refs/remotes/origin/*:refs/heads/* refs/tags/*:refs/tags/*
+	git push git@github.com:dxw/judiciary-mainsite-app.git ‘refs/remotes/origin/*:refs/heads/*’ ‘refs/tags/*:refs/tags/*’
 
 Set up the new repo on your machine:
 
