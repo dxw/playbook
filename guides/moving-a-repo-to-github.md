@@ -27,23 +27,23 @@ From the old repository, set up the new Github repo with a copy of the current b
 	# Create a new master branch as a copy of the current production branch (don’t do this for themes)
 	git branch -f master origin/production
 	# push all local branches
-	git branch | cut -b 3- | xargs git push origin 
+	git branch | cut -b 3- | xargs git push origin
 	# duplicate all branches on the origin to the new repo (and duplicate local tags)
-	git push git@github.com:dxw/judiciary-mainsite-app.git ‘refs/remotes/origin/*:refs/heads/*’ ‘refs/tags/*:refs/tags/*’
+	git push git@github.com:dxw/{name-of-repo}.git 'refs/remotes/origin/*:refs/heads/*' 'refs/tags/*:refs/tags/*'
 
 Set up the new repo on your machine:
 
 	# clone the new repo
 	cd /path/to/repos
-	git clone git@github.com:dxw/judiciary-mainsite-app.git
-	cd judiciary-mainsite-app
+	git clone git@github.com:dxw/{name-of-repo}.git
+	cd {name-of-repo}
 	# add the remote for the git.dxw.net repo
-	git remote add govpress git@git.dxw.net:judiciary/app
+	git remote add govpress git@git.dxw.net:{name-of-repo}/app
 
 Spring cleaning:
 
 	# since we’re starting fresh, we may as well prune some unnecessary branches
-	git branch --merged=master -r | grep origin | grep -E ‘(hotfix|feature)’ | cut -d/ -f2- | xargs git push origin --delete
+	git branch --merged=master -r | grep origin | grep -E '(hotfix|feature)' | cut -d/ -f2- | xargs git push origin --delete
 	# we don’t need production and testing
 	git push origin --delete production testing
 
