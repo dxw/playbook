@@ -376,6 +376,7 @@ Unless there's a good reason not to, we deal with tickets in the order they are 
 
 Zendesk knows each ticket's age, the time it's been since it was updated, its priority and the time left until we breach our SLA. Generally speaking, it makes good decisions about priority.
 
+Each ticket's priority should be reviewed regularly: whenever we update a ticket, we check the priority to make sure it's still right.
 
 ### Initial investigation
 
