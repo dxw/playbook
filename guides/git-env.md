@@ -6,7 +6,7 @@ This guide assumes you have read the FINE article on Git ENV and have already in
 
 ## Starting a new project with Git ENV
 
-To start a new project all you need to do initialise git env with your working branches.
+To start a new project all you need to do initialise Git ENV with your working branches.
 
 	# Navigate to your project directory
 	cd your-project-folder
@@ -29,7 +29,7 @@ To start on a new bit of work on the current project, you can `start` a new feat
 	git env start feature/{id}-{feature}
 	# You will now be on a new branch for the current feature you are about to start
 
-At this point, the git env too has created a new branch from the current `master` branch.
+At this point, the Git ENV tool has created a new branch from the current `master` branch.
 
 ## Finishing a piece of work using Git ENV
 
