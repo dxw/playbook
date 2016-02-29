@@ -601,6 +601,9 @@ When we win work, we mark it as Won in PipelineDeals. We amend the budget, closi
 When we lose work, we mark it as Lost in PipelineDeals. We write to the client to thank them for their interest and ask them for any feedback they might have. We usually also say that we'd be happy to talk about any future work they might have. We record the main reason we didn't win the work in PipelineDeals along with the detailed feedback.
 
 
+### Administration
+
+There's quite a lot of work involved in given sale, as it moves through the stages of the pipeline. To help manage this, we have tasks in Pipeline Deals that are automatically created when leads' statuses change. We can all do things to help this process flow smoothly. Some of us are responsible for particular tasks, which it's important to complete on time. Others will just be in a position to help when they notice an incorrect field, a missing contact or a missing file. We always correct these things when we can.
 
 
 ## Recruitment
