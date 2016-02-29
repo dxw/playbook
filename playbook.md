@@ -490,9 +490,11 @@ Finally, there is an overarching principle that we don't do anything on a ticket
 
 #### Charging for ticket work
 
-If we decide that the ticket is not resolvable under our support service and that the work is chargeable, we reassign the ticket to a delivery manager with an explanation.
+If you decide that a ticket asks for work to be done which falls outside this scope, then the work is chargeable. In this situation, we reassign the ticket to a delivery manager with an explanation.
 
 It is good to try and think of alternative approaches that we could do under our support service before taking this step - seek advice if you're unsure.
+
+The delivery manager you assign the ticket to will then treat it as a [lead](#leads), and contact the client to make a plan.
 
 ## Sales
 
@@ -509,7 +511,7 @@ We also make some of our money by hosting some of the services that we build, an
 
 ### Leads
 
-Most of our leads arrive via email as a result of recommendations and word-of-mouth. Some arrive via via more formal channels like framework agreements. Leads might arrive to anyones email account. We try to make sure things arrive in the sales email account wherever we can.
+Most of our leads arrive via email as a result of recommendations and word-of-mouth. Some arrive via via more formal channels like framework agreements or helpdesk tickets. Leads might arrive to anyone's email account. We try to make sure things arrive in the sales email account wherever we can.
 
 When any lead arrives, we record it in [Pipeline Deals](https://www.pipelinedeals.com/home) as a *Deal*. However, we also use PipelineDeals to record information about projects we have sold. So, we don't refer to anything in PipelineDeals as a "Deal". We either call it a *lead*, or after it's sold, an *order*.
 
