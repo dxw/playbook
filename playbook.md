@@ -382,7 +382,7 @@ Each ticket's priority should be reviewed regularly: whenever we update a ticket
 
 When we pick up new tickets or are assigned one where no investigation has yet happened, we complete an initial investigation. If you don't have the right skills for the issue or are not familiar enough with the project to know what to do, reassign the ticket to a more appropriate agent, or consult a delivery manager.
 
-It's important that we don't make changes unless we thoroughly understand what we're being asked to do. To that end, there are a few things we do when a new ticket arrives.
+It's important that we don't make changes unless we thoroughly understand what we're being asked to do, and are confident that the client understands and has approved of the implications of the change. To that end, there are a few things we do when a new ticket arrives.
 
 
 #### Complete all fields
@@ -400,14 +400,21 @@ If you're not sure what the client is asking, ask questions. You can call them i
 
 When you've reached an understanding of the situation the client is in and what they'd like you to do about it, write it on the ticket in an internal note, so that any other agent looking at the ticket has an easier time.
 
-If the client's request is clear, there's no need to do this bit.
 
-
-#### Replicating the bug
+#### Replicate the bug
 
 If the issue is a bug, we replicate the behaviour the client has reported before working on a fix. It's important that we can reliably and repeatably create the conditions necessary for the bug to arise before we start working on it. If we don't do this, we can't tell whether we've fixed the problem.
 
 Sometimes, we find that the steps we need to follow are not exactly the same as those given by the client. If so, add an internal note with your findings.
+
+
+#### Ensure the client has understood and approved the change
+
+When presented with a problem, clients don't always ask us to do the most appropriate thing to fix it. Sometimes we can think of a better solution. Sometimes the change the client asks for has some implication that they haven't considered.
+
+Our helpdesk service is advisory, so we're not afraid to suggest alternative approaches and ideas if we have them - including where there's a better solution, but [at a cost](#charging-for-ticket-work). We always give options when we can.
+
+If you are in any doubt as to whether the client has understood and approved the change that you are about to make, explain it to them and ask for their explicit approval. It's fine to do this on the phone if that is more convenient, but if you do, update the ticket with a comment what you said and what was agreed.
 
 
 ### Managing tickets
