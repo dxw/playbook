@@ -295,7 +295,7 @@ All tickets that arrive on the helpdesk go through a number of stages in the cou
 
 When a new ticket arrives, it is automatically assigned to the Front-line Support group. All agents in this group receive an email to alert them.
 
-If you are in the Front-line Support group, it's important that you keep an eye on the helpdesk so that you know when new tickets arrive. It's your responsibility to review tickets as they arrive, and decide what to do with them. If you can deal with the issue, or if you can complete an initial investigation into the problem, do so.
+If you are in the Front-line Support group, it's important that you keep an eye on the helpdesk so that you know when new tickets arrive. It's your responsibility to review tickets as they arrive, and decide what to do with them. If you can deal with the issue, or if you can complete an [initial investigation](#initial-investigation) into the problem, do so.
 
 If you're ultimately unable to solve the ticket, assign it to someone in the Escalated Support group. Try to choose the person you think will be best placed to solve the issue. If you're not sure, ask a delivery manager.
 
