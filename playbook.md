@@ -252,14 +252,14 @@ We work on tickets every day. Developers get 1.5-2 hours per day to work on thei
 
 If you don't have any tickets of your own to do, see if you can take one over from someone else in the team, or pick up a new one. There is almost always something to do.
 
-### Client experience
+### Client experience (AKA: ticket principles)
 
-#### Responsiveness
+#### Be responsive
 Clients expect us to deal with their issues promptly. But they understand that this isn't always possible. They are generally forgiving of the fact that we're sometimes busy, and they understand that some issues are complex and require long investigations.
 
 The thing most clients value above all else is being kept informed of what is going on. The first quality of a good ticket experience is responsiveness: we keep clients informed of what we're doing, even if there hasn't been much progress.
 
-#### Sticking to commitments
+#### Stick to your commitments
 It's really important that we do what we say we'll do, and don't promise things we can't deliver. If we're unable to deal with a ticket in good time and leave an update saying we'll work on it tomorrow, we must meet that commitment.
 
 It is doubly bad to fail to meet a commitment and not say anything about it. Responsiveness is always the priority. So if for some reason we couldn't do what we said we'd do, we always respond to say so.
@@ -392,7 +392,7 @@ All the fields on a ticket are important. Early in the process, we fill them in 
 The priority and project fields are especially important. We always review them to make sure that they are correct. dxw's [Service Level Agreement](https://dxw.zendesk.com/hc/en-us/articles/205117695) explains what the different priorities mean.
 
 
-#### Understanding the request
+#### Understand the request
 
 We make sure that we understand the request that the client is making. When tickets arrive, they do not always describe the issue clearly. There is some [guidance](https://dxw.zendesk.com/hc/en-us/articles/200814655-Tips-for-submitting-tickets) you can send to clients if their tickets are often difficult to understand.
 
@@ -597,6 +597,8 @@ When we win work, we mark it as Won in PipelineDeals. We amend the budget, closi
 ### Losing work
 
 When we lose work, we mark it as Lost in PipelineDeals. We write to the client to thank them for their interest and ask them for any feedback they might have. We usually also say that we'd be happy to talk about any future work they might have. We record the main reason we didn't win the work in PipelineDeals along with the detailed feedback.
+
+
 
 
 ## Recruitment
