@@ -527,12 +527,13 @@ Before we spend too much time thinking about or working on a lead, we need to ma
 
 To do this, we:
 
-* Make sure we understand what they need, and what their vision is
+* Ensure that we understand what they need, and what their vision is
+* Ensure that there are no overt signs that they are not able to work in an agile way. Check explicitly, if an opportunity arises
+* If possible, check that their budget is enough for the work they need
 * Make sure the work that they need is something we can do
-* Check that their budget is enough for the work they need
-* Check that they are happy to work in an agile way
 * Check that we'd be able to complete the work in time for whatever deadlines they have
 
+When we mark a deal as Qualfied, we update the summary to ensure that it accurately reflects the client's user needs and vision.
 
 ### Budgets
 
