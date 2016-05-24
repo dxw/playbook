@@ -172,12 +172,14 @@ To start any new piece of work - whether story, bug fix, or chore - you should a
 The branch naming conventions and when to use them:
 
 * `feature/{STORY ID}-{CONCISE TITLE}` - Feature branches are the most common and are based on each story
-* `hotfix/{CONCISE TITLE}` - Hotfix branches are used for pushing emergency fixes to production where going via development could deploy code prematurely
+* `fix/{STORY/TICKET ID}-{CONCISE TITLE}` - Fix branches are used to correct changes introduced by a story that has already been merged into develop
+* `hotfix/{CONCISE TITLE}` - Hotfix branches are used for pushing emergency fixes straight to master without going via develop, these must be merged back into develop
 * `chore/{CONCISE TITLE}` - Chore branches are used for routine tasks or tickets which are not emergencies.
 
 Examples:
 ```
 feature/523797477-add-logging-to-registration
+fix/523797477-logging-happens-in-both-environments
 hotfix/remove-breaking-change-to-repair-creation
 chore/reduce-caching-for-contact-details
 ```
@@ -220,14 +222,17 @@ While it can be tempting to write a new style guide, it's not a worthwhile inves
 * PHP - [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 * Sass - [Sass Guidelines - Syntax and formatting](http://sass-guidelin.es/#syntax--formatting)
 
+#### Pull requests
+When you have finished a piece of work on a branch you should [make a pull request](https://help.github.com/articles/using-pull-requests/) using the projects GitHub page.
 
-#### Pull requests and code reviews
+A good pull request should:
+* Be created by the authoring developer
+* Meet all of the acceptance criteria on the associated story
+* Focus on the single problem at hand, inclusion of anything else will make it much harder to merge
+* Include appropriate detail to assist the reviewer as much as possible
 
-When you have finished a piece of work on a branch you should make a pull request and ask for your code to be reviewed. Code reviews are important to help maintain consistency in the code we write, ensure we push well-reasoned and bug-free code to production, and help each other learn throughout a project.
-
-Pull requests should be made when a feature is completed by a developer at the same time that it is passed to a delivery manager to review. Once the reviewing developer, delivery manager, and client are happy with the feature, it can then be merged with the `master` branch and deployed to production.
-
-When performing a code review, you should look to make sure:
+#### Code reviews
+Code reviews are important to help maintain consistency in the code we write, ensure we push well-reasoned and bug-free code to production, and help each other learn throughout a project. When performing a code review, you should look to make sure:
 
 * You cannot see any code that could give rise to a security vulnerability
 * The story has been implemented clearly and maintainably
@@ -237,7 +242,6 @@ When performing a code review, you should look to make sure:
 It is not important that a story be implemented exactly how you would have done it. Only that it meets the criteria above. If you find problems, you should give feedback to the developer who implemented the story, not fix things yourself. It's also important that code reviews have a constructive, amicable tone. To this end, we bear in mind the [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review), which contains good rules for keeping things positive and useful.
 
 #### Deploying
-
 We maintain two environments for deployments, `testing` and `production`. Deployments to `testing` should be done throughout the sprint ready for sign off from the client. Deployments to `production` should be made once code has been signed off from the client and passed a code review from another developer.
 
 When we deploy to production will depend on the project and the client. Some clients prefer features to be deployed to production as soon as they’re signed off, while others like to deploy everything at the end of the sprint. A discussion about which approach is preferable should happen early in every project.
