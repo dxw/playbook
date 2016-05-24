@@ -154,14 +154,11 @@ Keep this short and link to the many useful things on the interwebs.
 
 
 ### Development
-To start any new piece of work - whether story, bug fix, or chore - you should always start by creating a new branch from the `master` branch of the main repository on Github. (If the main repository is not yet on Github, [move it there](https://github.com/dxw/playbook/blob/master/guides/moving-a-repo-to-github.md)).
+Our repositories are all on GitHub. (If the repository is not, [move it there](https://github.com/dxw/playbook/blob/master/guides/moving-a-repo-to-github.md))
 
-On most projects, we follow the [Git ENV](https://www.wearefine.com/mingle/env-branching-with-git/) model for branching using the [Git Env Tool](https://github.com/dxw/git-env). Follow the [Git Env Guide](https://github.com/dxw/playbook/blob/master/guides/git-env.md) to get up to speed on working with Git ENV. Branches created should be consistently named, based on either of the following patterns:
 #### Lifecycle of a story
 There are several states that a story has to go through in order to be deemed ready for production. These should each be conveyed and kept up to date on tracking tools and physical story boards.
 
-* `feature/{1234-title}` - Feature branch with story ID and a short title
-* `hotfix/{5678-title}` - Hotfix branch with story/ticket ID and short title
 * Started - A developer is working to meet each acceptance criteria
 * Code review - Another developer will [review](#Code reviews) the technical aspects of the story in a [pull request](#Pull request)
 * Acceptance review - A delivery manager will review stories acceptance criteria and manage clients expectations
@@ -169,7 +166,21 @@ There are several states that a story has to go through in order to be deemed re
 * Ready to deploy - Has been marked as acceptable and is awaiting deployment
 * Deployed - Is now live in production
 
+#### Branching
+To start any new piece of work - whether story, bug fix, or chore - you should always start by creating a new branch based off of GitHub's `develop` branch.
 
+The branch naming conventions and when to use them:
+
+* `feature/{STORY ID}-{CONCISE TITLE}` - Feature branches are the most common and are based on each story
+* `hotfix/{CONCISE TITLE}` - Hotfix branches are used for pushing emergency fixes to production where going via development could deploy code prematurely
+* `chore/{CONCISE TITLE}` - Chore branches are used for routine tasks or tickets which are not emergencies.
+
+Examples:
+```
+feature/523797477-add-logging-to-registration
+hotfix/remove-breaking-change-to-repair-creation
+chore/reduce-caching-for-contact-details
+```
 
 #### Committing
 
