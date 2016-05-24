@@ -157,11 +157,18 @@ Keep this short and link to the many useful things on the interwebs.
 To start any new piece of work - whether story, bug fix, or chore - you should always start by creating a new branch from the `master` branch of the main repository on Github. (If the main repository is not yet on Github, [move it there](https://github.com/dxw/playbook/blob/master/guides/moving-a-repo-to-github.md)).
 
 On most projects, we follow the [Git ENV](https://www.wearefine.com/mingle/env-branching-with-git/) model for branching using the [Git Env Tool](https://github.com/dxw/git-env). Follow the [Git Env Guide](https://github.com/dxw/playbook/blob/master/guides/git-env.md) to get up to speed on working with Git ENV. Branches created should be consistently named, based on either of the following patterns:
+#### Lifecycle of a story
+There are several states that a story has to go through in order to be deemed ready for production. These should each be conveyed and kept up to date on tracking tools and physical story boards.
 
 * `feature/{1234-title}` - Feature branch with story ID and a short title
 * `hotfix/{5678-title}` - Hotfix branch with story/ticket ID and short title
+* Started - A developer is working to meet each acceptance criteria
+* Code review - Another developer will [review](#Code reviews) the technical aspects of the story in a [pull request](#Pull request)
+* Acceptance review - A delivery manager will review stories acceptance criteria and manage clients expectations
+* Client review - Client will review the story from the staging environment
+* Ready to deploy - Has been marked as acceptable and is awaiting deployment
+* Deployed - Is now live in production
 
-If starting a new story on a sprint, remember to hit “start” on the story in Pivotal Tracker.
 
 
 #### Committing
