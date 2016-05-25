@@ -243,9 +243,14 @@ Other than for projects you're currently sprinting on, all requests for us to do
 * Ensure that we only accept change requests from people who are authorised;
 * Generate data about how much staff time is spent on each client's issues.
 
-If a client asks us to do something in person or on the phone, we politely ask them to visit http://dxw.zendesk.com/ instead, and submit a ticket there. If they send a request via email, we forward their email to support@dxw.com to turn it into a ticket.
+If a client asks us to do something in person, on the phone or via email, we politely ask them to visit http://dxw.zendesk.com/ instead, and submit a ticket there. This is so that:
 
-We do not do any work at all on a client site unless we are on a sprint or working on a relevant ticket. This is really important.
+* We can keep track of the issue from report to solution, and ensure that it's assigned to the right person;
+* We don't risk misunderstanding the problem by writing it down based on a verbal explanation
+* We can formally track the changes that people ask for, by documenting them in tickets that we can look at later if need to
+* We can be sure that requests are coming from people who are authorised to submit them
+
+For these reasons, we do not do any work at all on a client site unless we are on a sprint or working on a relevant ticket. This is really important.
 
 ### Ticket time
 We work on tickets every day. Developers get 1.5-2 hours per day to work on their tickets. This applies every day, including when we're working on sprints. This is reflected in the cost of our sprints - they are 10 days long, but we only charge for 8.
