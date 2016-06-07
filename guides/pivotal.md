@@ -10,28 +10,21 @@ Features/bugs have the following states:
 * Delivered
 * Accepted
 
-## When you press the "start" button (developers-only)
+## Responsibilities
 
-After pressing it, create your branch (`feature/[ticketID]-[something-descriptive]`) and start working on it.
+### Developers
 
-## When you press the "finish" button (developers-only)
+* If a story is unstarted, you may start it on a branch called `feature/[ticketID]-[something-descriptive]`.
+* When you believe all the work has been done, create a merge request for your change, add a link to the MR to the story description, deploy the change to staging, and leave a note explaining how to test your change. Then you may click "finished".
+* When a story is accepted, deploy it to production and add the "deployed" label.
 
-Before pressing it:
+### DMs
 
-- your changes should be on staging
-- you should add a link to the pull/merge request to the description (i.e. `MR: https://git.dxw.net/a-project/app/merge_requests/123`)
-- you should add a comment explaining how to test the change on staging. If it's not a user-visible change, say that
+* When a story is finished, review the changes and "deliver" or set to "started" with an explanation.
 
-## When you press the "deliver" button (DMs only)
+### Clients
 
-Before pressing it:
-
-- you should have checked that any user-visible changes are showing up on the staging server
-- TODO: ???
-
-## When you press the "accept" button (clients only)
-
-The client should be satisfied that staging is working as described in the story.
+* When a story is delivered, review the changes and click "accept" or "reject" with an explanation if necessary.
 
 ## Chores
 
