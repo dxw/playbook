@@ -167,7 +167,7 @@ If starting a new story on a sprint, remember to hit “start” on the story in
 #### Committing
 We follow the [Angular Git commit message conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#). At the very least, commits should have a header including a type and subject using imperative, present tense (i.e. change, not changed).
 
-You should aim to commit little and often, making sure you commit small bits of working functionality each time. It's fine to Commits with only a subject, but we do use the commit message body if it's useful to explain the reasoning behind a piece of code or a particular approach to solving a problem.
+You should aim to commit little and often, making sure you commit small bits of working functionality each time. It's fine to commit with only a subject, but we do use the commit message body if it's useful to explain the reasoning behind a piece of code or a particular approach to solving a problem.
 
 
 #### Code style
@@ -364,12 +364,12 @@ You are free to work on whichever of your assigned tickets you think is most imp
 
 #### Triage
 
-We all have limited time. We try to spend it wisely. All other things being equal, it is better to spend spend half an hour solving each of four tickets than to spend two hours on one issue.
+We all have limited time. We try to spend it wisely. All other things being equal, it is better to spend half an hour solving each of four tickets than to spend two hours on one issue.
 
 
 #### Procrastinating
 
-We don't procrastinate about dealing with difficult tickets. Most of our SLA breaches happen when a a complex ticket arrives and is assigned to a busy person. In this situation, it's only natural that we prefer to do other work first. But it is vital that we don't let the hard tickets gather dust while we crack through the easy ones, so we try to be mindful of this bias.
+We don't procrastinate about dealing with difficult tickets. Most of our SLA breaches happen when a complex ticket arrives and is assigned to a busy person. In this situation, it's only natural that we prefer to do other work first. But it is vital that we don't let the hard tickets gather dust while we crack through the easy ones, so we try to be mindful of this bias.
 
 #### Priority
 
@@ -488,7 +488,7 @@ But there are some limitations. Under the support service, we do not:
 * Install a plugin that fails an inspection
 * Do research to identify plugins to solve a particular problem. It's fine to recommend something that we already know of, but in this situation, we usually ask the client to do some searches on the WordPress Directory and suggest one, which we can then check and install.
 * Fix complex problems that come up after a plugin or WordPress core update is applied. Exactly what constitutes a complex problem is at our discretion. But if we've spent a couple of hours on an updated-related bug and it's still not fixed, we're probably dealing with one.
-* From time to time, we may make an exception to these restrictions. If you think that might be appropriate, ask Harry or a delivery manager. In all of the above cases, we can offer to quote for the required work.
+* From time to time, we may make an exception to these restrictions. If you think that might be appropriate, ask Harry or a delivery manager. In all the above cases, we can offer to quote for the required work.
 
 Finally, there is an overarching principle that we don't do anything on a ticket that is very time consuming or that is objectively a bad idea. If you think you're in this situation, ask a delivery manager for advice.
 
@@ -497,7 +497,7 @@ Finally, there is an overarching principle that we don't do anything on a ticket
 
 If you decide that a ticket asks for work to be done which falls outside this scope, then the work is chargeable. In this situation, we reassign the ticket to a delivery manager with an explanation.
 
-It is good to try and think of alternative approaches that we could do under our support service before taking this step - seek advice if you're unsure.
+It is good to try to think of alternative approaches that we could do under our support service before taking this step - seek advice if you're unsure.
 
 The delivery manager you assign the ticket to will then treat it as a [lead](#leads), and contact the client to make a plan.
 
@@ -516,7 +516,7 @@ We also make some of our money by hosting some of the services that we build, an
 
 ### Leads
 
-Most of our leads arrive via email as a result of recommendations and word-of-mouth. Some arrive via via more formal channels like framework agreements or helpdesk tickets. Leads might arrive to anyone's email account. We try to make sure things arrive in the sales email account wherever we can.
+Most of our leads arrive via email as a result of recommendations and word-of-mouth. Some arrive via more formal channels like framework agreements or helpdesk tickets. Leads might arrive to anyone's email account. We try to make sure things arrive in the sales email account wherever we can.
 
 When any lead arrives, we record it in [Pipeline Deals](https://www.pipelinedeals.com/home) as a *Deal*. However, we also use PipelineDeals to record information about projects we have sold. So, we don't refer to anything in PipelineDeals as a "Deal". We either call it a *lead*, or after it's sold, an *order*.
 
@@ -678,7 +678,7 @@ Start with a couple of questions, and then allow the conversation to evolve natu
 
 At the end of the interview, always ask the candidate if there's anything they would like to ask you. If they have questions, answer them honestly. If they ask about salary at this stage, or have a concern or question about the job that you don't feel comfortable addressing, tell the candidate we'll get back to them and make a note for an appropriate colleague to call them.
 
-When everything's done, we thank the candidate their time and then return to the office and discuss the interview. As soon as possible, we put a thorough update on Workable. This update should include the good things and bad things about the candidate, a recommendation on whether to take them forward, and an rationale for that recommendation. It is very important that this update is detailed enough for us to understand what happened and why, long after everyone involved has forgotten all about it.
+When everything's done, we thank the candidate for their time and then return to the office and discuss the interview. As soon as possible, we put a thorough update on Workable. This update should include the good things and bad things about the candidate, a recommendation on whether to take them forward, and a rationale for that recommendation. It is very important that this update is detailed enough for us to understand what happened and why, long after everyone involved has forgotten all about it.
 
 If you think the candidate is very likely to have the skills, experience and personal qualities we need, you should take them through to a work day.
 
@@ -725,7 +725,7 @@ Before this system, we had regular performance reviews. They were supposed to be
 We prefer to assume that everyone wants to improve, and will do so given the time and space to work on it. The buddy system is there to provide a set of prompts to ensure that this happens, and an explicit time to talk about it.
 
 #### It's best to be open
-Trying to improve things in secret is a missed opportunity to get help from others. We may each be responsible for our own improvement, but we're also a team: we should help each other. Recording the things we're working on with the buddy trello is a unintrusive, quick way to ensure that everyone else knows too.
+Trying to improve things in secret is a missed opportunity to get help from others. We may each be responsible for our own improvement, but we're also a team: we should help each other. Recording the things we're working on with the buddy Trello is an unintrusive, quick way to ensure that everyone else knows too.
 
 
 ### Fearless feedback
@@ -753,7 +753,7 @@ Trying to improve things in secret is a missed opportunity to get help from othe
 ## Sharing
 
 ### Events
-We all go to work-related events and conferences, sometimes for work and sometimes in our personal time. No matter what capacity you're attending an event in, you are a representatives of dxw. What you say and do will influence the way people think about the company as well as about you. It's important, both personally and for the business, that you make a positive impression.
+We all go to work-related events and conferences, sometimes for work and sometimes in our personal time. No matter what capacity you're attending an event in, you are a representative of dxw. What you say and do will influence the way people think about the company as well as about you. It's important, both personally and for the business, that you make a positive impression.
 
 This section is here to share what we've learned about how to make the most of these sorts of events.
 

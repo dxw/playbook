@@ -1,6 +1,6 @@
 # Plugin updates
 
-Plugin updates are checked and comitted automatically, but tested and deployed by developers. When there's one for you to do, you'll get a ticket.
+Plugin updates are checked and committed automatically, but tested and deployed by developers. When there's one for you to do, you'll get a ticket.
 
 ## Process
 
