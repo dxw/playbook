@@ -41,7 +41,7 @@ To deploy something completely different to what’s currently on `testing` you 
 
 Working with Github means that everything we deploy to production now should go through a pull request into the `master` branch on Github.
 
-To setup a pull request, make sure you’re branch is pushed to github:
+To create a pull request, make sure your branch is pushed to GitHub:
 		
 	git push origin feature/{id}-{feature}
 
