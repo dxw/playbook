@@ -223,13 +223,24 @@ While it can be tempting to write a new style guide, it's not a worthwhile inves
 * Sass - [Sass Guidelines - Syntax and formatting](http://sass-guidelin.es/#syntax--formatting)
 
 #### Pull requests
-When you have finished a piece of work on a branch you should [make a pull request](https://help.github.com/articles/using-pull-requests/) using the projects GitHub page.
+When you have finished a piece of work on a branch you should [make a pull request](https://help.github.com/articles/using-pull-requests/) using the projects GitHub/GitLab page.
+
+Prefix the Story ID to the title of the pull request, this makes it easy to find the story and the acceptance criteria that should be being fulfulled eg. `[123456789]`.
 
 A good pull request should:
 * Be created by the authoring developer
 * Meet all of the acceptance criteria on the associated story
 * Focus on the single problem at hand, inclusion of anything else will make it much harder to merge
 * Include appropriate detail to assist the reviewer as much as possible
+
+
+```
+# Poor
+A new registration form and fix a bug with contacts
+
+# Great
+[123456789] New users can now register for an account
+```
 
 #### Code reviews
 Code reviews are important to help maintain consistency in the code we write, ensure we push well-reasoned and bug-free code to production, and help each other learn throughout a project. When performing a code review, you should look to make sure:
