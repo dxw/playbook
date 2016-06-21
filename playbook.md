@@ -165,10 +165,34 @@ If starting a new story on a sprint, remember to hit “start” on the story in
 
 
 #### Committing
-We follow the [Angular Git commit message conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#). At the very least, commits should have a header including a type and subject using imperative, present tense (i.e. change, not changed).
 
-You should aim to commit little and often, making sure you commit small bits of working functionality each time. It's fine to commit with only a subject, but we do use the commit message body if it's useful to explain the reasoning behind a piece of code or a particular approach to solving a problem.
+Messages should convey in the present tense what the __new state__ of the system will be. There is no strict character limit for this but you should expect them to usually be below 50.
 
+To help focus our commits into smaller well-bounded chunks we prepend the following for each type of commit.
+
+* `(feature):` - when we are adding something __new__
+* `(fix):` - when we are fixing something __existing__
+* `(refactor):` - when we are changing the implementation of something existing __without changing its behaviour__
+* `(chore):` - catch all for when none of the above apply and there is no user need eg. gem/package updates
+
+The description should focus on the __why__. It's really important to write this down and record it as we go.
+
+Every project will grow and with it the number of decision making processes we go through, each focusing on the delivery of the next most important feature. These decisions are based on the best current understanding and a set of assumptions, there may even be short term compromises made to ensure we're able to continuously deliver.
+
+Recording what these are is extremely helpful to enable anybody working on the project now and in the future to make informed decisions by reading the commit history.
+
+
+```
+# Poor
+Fixed the form
+
+# Great
+(fix): Food order form works with special characters
+
+* Previously the form failed to send if the starter value included any of the following characters: !@£$%^&*().:;'
+* Users should be able to use these characters and after a short investigation I found this new bug in PHP: <link>
+* As a short term workaround until the bug is fixed I am stripping out any of these characters if they are present.
+```
 
 #### Code style
 We write our code in a consistent way to ensure it is well-structured and easy to follow for the rest of the team. Similar to the guidelines laid out in [Thoughtbot’s style guide](https://playbook.thoughtbot.com/#style-guide), approach this guidance as a way to code on present and future projects, not something to retroactively add to existing projects. When working on existing projects or joining a project, make sure to follow the code style that is already in place.
