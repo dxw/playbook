@@ -154,15 +154,35 @@ Keep this short and link to the many useful things on the interwebs.
 
 
 ### Development
-To start any new piece of work - whether story, bug fix, or chore - you should always start by creating a new branch from the `master` branch of the main repository on Github. (If the main repository is not yet on Github, [move it there](https://github.com/dxw/playbook/blob/master/guides/moving-a-repo-to-github.md)).
+Our repositories are all on GitHub. (If the repository is not, [move it there](https://github.com/dxw/playbook/blob/master/guides/moving-a-repo-to-github.md))
 
-On most projects, we follow the [Git ENV](https://www.wearefine.com/mingle/env-branching-with-git/) model for branching using the [Git Env Tool](https://github.com/dxw/git-env). Follow the [Git Env Guide](https://github.com/dxw/playbook/blob/master/guides/git-env.md) to get up to speed on working with Git ENV. Branches created should be consistently named, based on either of the following patterns:
+#### Lifecycle of a story
+There are several states that a story has to go through in order to be deemed ready for production. These should each be conveyed and kept up to date on tracking tools and physical story boards.
 
-* `feature/{1234-title}` - Feature branch with story ID and a short title
-* `hotfix/{5678-title}` - Hotfix branch with story/ticket ID and short title
+* Started - A developer is working to meet each acceptance criteria
+* Code review - Another developer will [review](#Code reviews) the technical aspects of the story in a [pull request](#Pull request)
+* Acceptance review - A delivery manager will review stories acceptance criteria and manage clients expectations
+* Client review - Client will review the story from the staging environment
+* Ready to deploy - Has been marked as acceptable and is awaiting deployment
+* Deployed - Is now live in production
 
-If starting a new story on a sprint, remember to hit “start” on the story in Pivotal Tracker.
+#### Branching
+To start any new piece of work - whether story, bug fix, or chore - you should always start by creating a new branch based off of GitHub's `develop` branch.
 
+The branch naming conventions and when to use them:
+
+* `feature/{STORY ID}-{CONCISE TITLE}` - Feature branches are the most common and are based on each story
+* `fix/{STORY/TICKET ID}-{CONCISE TITLE}` - Fix branches are used to correct changes introduced by a story that has already been merged into develop
+* `hotfix/{CONCISE TITLE}` - Hotfix branches are used for pushing emergency fixes straight to master without going via develop, these must be merged back into develop
+* `chore/{CONCISE TITLE}` - Chore branches are used for routine tasks or tickets which are not emergencies.
+
+Examples:
+```
+feature/523797477-add-logging-to-registration
+fix/523797477-logging-happens-in-both-environments
+hotfix/remove-breaking-change-to-repair-creation
+chore/reduce-caching-for-contact-details
+```
 
 #### Committing
 
@@ -202,14 +222,28 @@ While it can be tempting to write a new style guide, it's not a worthwhile inves
 * PHP - [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 * Sass - [Sass Guidelines - Syntax and formatting](http://sass-guidelin.es/#syntax--formatting)
 
+#### Pull requests
+When you have finished a piece of work on a branch you should [make a pull request](https://help.github.com/articles/using-pull-requests/) using the projects GitHub/GitLab page.
 
-#### Pull requests and code reviews
+Prefix the Story ID to the title of the pull request, this makes it easy to find the story and the acceptance criteria that should be being fulfulled eg. `[123456789]`.
 
-When you have finished a piece of work on a branch you should make a pull request and ask for your code to be reviewed. Code reviews are important to help maintain consistency in the code we write, ensure we push well-reasoned and bug-free code to production, and help each other learn throughout a project.
+A good pull request should:
+* Be created by the authoring developer
+* Meet all of the acceptance criteria on the associated story
+* Focus on the single problem at hand, inclusion of anything else will make it much harder to merge
+* Include appropriate detail to assist the reviewer as much as possible
 
-Pull requests should be made when a feature is completed by a developer at the same time that it is passed to a delivery manager to review. Once the reviewing developer, delivery manager, and client are happy with the feature, it can then be merged with the `master` branch and deployed to production.
 
-When performing a code review, you should look to make sure:
+```
+# Poor
+A new registration form and fix a bug with contacts
+
+# Great
+[123456789] New users can now register for an account
+```
+
+#### Code reviews
+Code reviews are important to help maintain consistency in the code we write, ensure we push well-reasoned and bug-free code to production, and help each other learn throughout a project. When performing a code review, you should look to make sure:
 
 * You cannot see any code that could give rise to a security vulnerability
 * The story has been implemented clearly and maintainably
@@ -219,7 +253,6 @@ When performing a code review, you should look to make sure:
 It is not important that a story be implemented exactly how you would have done it. Only that it meets the criteria above. If you find problems, you should give feedback to the developer who implemented the story, not fix things yourself. It's also important that code reviews have a constructive, amicable tone. To this end, we bear in mind the [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review), which contains good rules for keeping things positive and useful.
 
 #### Deploying
-
 We maintain two environments for deployments, `testing` and `production`. Deployments to `testing` should be done throughout the sprint ready for sign off from the client. Deployments to `production` should be made once code has been signed off from the client and passed a code review from another developer.
 
 When we deploy to production will depend on the project and the client. Some clients prefer features to be deployed to production as soon as they’re signed off, while others like to deploy everything at the end of the sprint. A discussion about which approach is preferable should happen early in every project.
