@@ -166,7 +166,7 @@ If starting a new story on a sprint, remember to hit “start” on the story in
 
 #### Committing
 
-Messages should convey in the present tense what the __new state__ of the system will be. There is no strict character limit for this but you should expect them to usually be below 50.
+Messages should convey in the present tense what the __new state__ of the system will be. There is no strict character limit for this but you should try to stay under 50 characters.
 
 To help focus our commits into smaller well-bounded chunks we prepend the following for each type of commit.
 
