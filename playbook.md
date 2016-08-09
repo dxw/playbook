@@ -154,21 +154,65 @@ Keep this short and link to the many useful things on the interwebs.
 
 
 ### Development
-To start any new piece of work - whether story, bug fix, or chore - you should always start by creating a new branch from the `master` branch of the main repository on Github. (If the main repository is not yet on Github, [move it there](https://github.com/dxw/playbook/blob/master/guides/moving-a-repo-to-github.md)).
+Our repositories are all on GitHub. (If the repository is not, [move it there](https://github.com/dxw/playbook/blob/master/guides/moving-a-repo-to-github.md))
 
-On most projects, we follow the [Git ENV](https://www.wearefine.com/mingle/env-branching-with-git/) model for branching using the [Git Env Tool](https://github.com/dxw/git-env). Follow the [Git Env Guide](https://github.com/dxw/playbook/blob/master/guides/git-env.md) to get up to speed on working with Git ENV. Branches created should be consistently named, based on either of the following patterns:
+#### Lifecycle of a story
+There are several states that a story has to go through in order to be deemed ready for production. These should each be conveyed and kept up to date on tracking tools and physical story boards.
 
-* `feature/{1234-title}` - Feature branch with story ID and a short title
-* `hotfix/{5678-title}` - Hotfix branch with story/ticket ID and short title
+* Started - A developer is working to meet each acceptance criteria
+* Code review - Another developer will [review](#Code reviews) the technical aspects of the story in a [pull request](#Pull request)
+* Acceptance review - A delivery manager will review stories acceptance criteria and manage clients expectations
+* Client review - Client will review the story from the staging environment
+* Ready to deploy - Has been marked as acceptable and is awaiting deployment
+* Deployed - Is now live in production
 
-If starting a new story on a sprint, remember to hit “start” on the story in Pivotal Tracker.
+#### Branching
+To start any new piece of work - whether story, bug fix, or chore - you should always start by creating a new branch based off of GitHub's `develop` branch.
 
+The branch naming conventions and when to use them:
+
+* `feature/{STORY ID}-{CONCISE TITLE}` - Feature branches are the most common and are based on each story
+* `fix/{STORY/TICKET ID}-{CONCISE TITLE}` - Fix branches are used to correct changes introduced by a story that has already been merged into develop
+* `hotfix/{CONCISE TITLE}` - Hotfix branches are used for pushing emergency fixes straight to master without going via develop, these must be merged back into develop
+* `chore/{CONCISE TITLE}` - Chore branches are used for routine tasks or tickets which are not emergencies.
+
+Examples:
+```
+feature/523797477-add-logging-to-registration
+fix/523797477-logging-happens-in-both-environments
+hotfix/remove-breaking-change-to-repair-creation
+chore/reduce-caching-for-contact-details
+```
 
 #### Committing
-We follow the [Angular Git commit message conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#). At the very least, commits should have a header including a type and subject using imperative, present tense (i.e. change, not changed).
 
-You should aim to commit little and often, making sure you commit small bits of working functionality each time. It's fine to Commits with only a subject, but we do use the commit message body if it's useful to explain the reasoning behind a piece of code or a particular approach to solving a problem.
+Messages should convey in the present tense what the __new state__ of the system will be. There is no strict character limit for this but you should try to stay under 50 characters.
 
+To help focus our commits into smaller well-bounded chunks we prepend the following for each type of commit.
+
+* `(feature):` - when we are adding something __new__
+* `(fix):` - when we are fixing something __existing__
+* `(refactor):` - when we are changing the implementation of something existing __without changing its behaviour__
+* `(chore):` - catch all for when none of the above apply and there is no user need eg. gem/package updates
+
+The description should focus on the __why__. It's really important to write this down and record it as we go.
+
+Every project will grow and with it the number of decision making processes we go through, each focusing on the delivery of the next most important feature. These decisions are based on the best current understanding and a set of assumptions, there may even be short term compromises made to ensure we're able to continuously deliver.
+
+Recording what these are is extremely helpful to enable anybody working on the project now and in the future to make informed decisions by reading the commit history.
+
+
+```
+# Poor
+Fixed the form
+
+# Great
+(fix): Food order form works with special characters
+
+* Previously the form failed to send if the starter value included any of the following characters: !@£$%^&*().:;'
+* Users should be able to use these characters and after a short investigation I found this new bug in PHP: <link>
+* As a short term workaround until the bug is fixed I am stripping out any of these characters if they are present.
+```
 
 #### Code style
 We write our code in a consistent way to ensure it is well-structured and easy to follow for the rest of the team. Similar to the guidelines laid out in [Thoughtbot’s style guide](https://playbook.thoughtbot.com/#style-guide), approach this guidance as a way to code on present and future projects, not something to retroactively add to existing projects. When working on existing projects or joining a project, make sure to follow the code style that is already in place.
@@ -178,14 +222,28 @@ While it can be tempting to write a new style guide, it's not a worthwhile inves
 * PHP - [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 * Sass - [Sass Guidelines - Syntax and formatting](http://sass-guidelin.es/#syntax--formatting)
 
+#### Pull requests
+When you have finished a piece of work on a branch you should [make a pull request](https://help.github.com/articles/using-pull-requests/) using the projects GitHub/GitLab page.
 
-#### Pull requests and code reviews
+Prefix the Story ID to the title of the pull request, this makes it easy to find the story and the acceptance criteria that should be being fulfulled eg. `[123456789]`.
 
-When you have finished a piece of work on a branch you should make a pull request and ask for your code to be reviewed. Code reviews are important to help maintain consistency in the code we write, ensure we push well-reasoned and bug-free code to production, and help each other learn throughout a project.
+A good pull request should:
+* Be created by the authoring developer
+* Meet all of the acceptance criteria on the associated story
+* Focus on the single problem at hand, inclusion of anything else will make it much harder to merge
+* Include appropriate detail to assist the reviewer as much as possible
 
-Pull requests should be made when a feature is completed by a developer at the same time that it is passed to a delivery manager to review. Once the reviewing developer, delivery manager, and client are happy with the feature, it can then be merged with the `master` branch and deployed to production.
 
-When performing a code review, you should look to make sure:
+```
+# Poor
+A new registration form and fix a bug with contacts
+
+# Great
+[123456789] New users can now register for an account
+```
+
+#### Code reviews
+Code reviews are important to help maintain consistency in the code we write, ensure we push well-reasoned and bug-free code to production, and help each other learn throughout a project. When performing a code review, you should look to make sure:
 
 * You cannot see any code that could give rise to a security vulnerability
 * The story has been implemented clearly and maintainably
@@ -195,7 +253,6 @@ When performing a code review, you should look to make sure:
 It is not important that a story be implemented exactly how you would have done it. Only that it meets the criteria above. If you find problems, you should give feedback to the developer who implemented the story, not fix things yourself. It's also important that code reviews have a constructive, amicable tone. To this end, we bear in mind the [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review), which contains good rules for keeping things positive and useful.
 
 #### Deploying
-
 We maintain two environments for deployments, `testing` and `production`. Deployments to `testing` should be done throughout the sprint ready for sign off from the client. Deployments to `production` should be made once code has been signed off from the client and passed a code review from another developer.
 
 When we deploy to production will depend on the project and the client. Some clients prefer features to be deployed to production as soon as they’re signed off, while others like to deploy everything at the end of the sprint. A discussion about which approach is preferable should happen early in every project.
@@ -243,9 +300,14 @@ Other than for projects you're currently sprinting on, all requests for us to do
 * Ensure that we only accept change requests from people who are authorised;
 * Generate data about how much staff time is spent on each client's issues.
 
-If a client asks us to do something in person or on the phone, we politely ask them to visit http://dxw.zendesk.com/ instead, and submit a ticket there. If they send a request via email, we forward their email to support@dxw.com to turn it into a ticket.
+If a client asks us to do something in person, on the phone or via email, we politely ask them to visit http://dxw.zendesk.com/ instead, and submit a ticket there. This is so that:
 
-We do not do any work at all on a client site unless we are on a sprint or working on a relevant ticket. This is really important.
+* We can keep track of the issue from report to solution, and ensure that it's assigned to the right person;
+* We don't risk misunderstanding the problem by writing it down based on a verbal explanation
+* We can formally track the changes that people ask for, by documenting them in tickets that we can look at later if need to
+* We can be sure that requests are coming from people who are authorised to submit them
+
+For these reasons, we do not do any work at all on a client site unless we are on a sprint or working on a relevant ticket. This is really important.
 
 ### Ticket time
 We work on tickets every day. Developers get 1.5-2 hours per day to work on their tickets. This applies every day, including when we're working on sprints. This is reflected in the cost of our sprints - they are 10 days long, but we only charge for 8.
@@ -359,12 +421,12 @@ You are free to work on whichever of your assigned tickets you think is most imp
 
 #### Triage
 
-We all have limited time. We try to spend it wisely. All other things being equal, it is better to spend spend half an hour solving each of four tickets than to spend two hours on one issue.
+We all have limited time. We try to spend it wisely. All other things being equal, it is better to spend half an hour solving each of four tickets than to spend two hours on one issue.
 
 
 #### Procrastinating
 
-We don't procrastinate about dealing with difficult tickets. Most of our SLA breaches happen when a a complex ticket arrives and is assigned to a busy person. In this situation, it's only natural that we prefer to do other work first. But it is vital that we don't let the hard tickets gather dust while we crack through the easy ones, so we try to be mindful of this bias.
+We don't procrastinate about dealing with difficult tickets. Most of our SLA breaches happen when a complex ticket arrives and is assigned to a busy person. In this situation, it's only natural that we prefer to do other work first. But it is vital that we don't let the hard tickets gather dust while we crack through the easy ones, so we try to be mindful of this bias.
 
 #### Priority
 
@@ -483,7 +545,7 @@ But there are some limitations. Under the support service, we do not:
 * Install a plugin that fails an inspection
 * Do research to identify plugins to solve a particular problem. It's fine to recommend something that we already know of, but in this situation, we usually ask the client to do some searches on the WordPress Directory and suggest one, which we can then check and install.
 * Fix complex problems that come up after a plugin or WordPress core update is applied. Exactly what constitutes a complex problem is at our discretion. But if we've spent a couple of hours on an updated-related bug and it's still not fixed, we're probably dealing with one.
-* From time to time, we may make an exception to these restrictions. If you think that might be appropriate, ask Harry or a delivery manager. In all of the above cases, we can offer to quote for the required work.
+* From time to time, we may make an exception to these restrictions. If you think that might be appropriate, ask Harry or a delivery manager. In all the above cases, we can offer to quote for the required work.
 
 Finally, there is an overarching principle that we don't do anything on a ticket that is very time consuming or that is objectively a bad idea. If you think you're in this situation, ask a delivery manager for advice.
 
@@ -492,7 +554,7 @@ Finally, there is an overarching principle that we don't do anything on a ticket
 
 If you decide that a ticket asks for work to be done which falls outside this scope, then the work is chargeable. In this situation, we reassign the ticket to a delivery manager with an explanation.
 
-It is good to try and think of alternative approaches that we could do under our support service before taking this step - seek advice if you're unsure.
+It is good to try to think of alternative approaches that we could do under our support service before taking this step - seek advice if you're unsure.
 
 The delivery manager you assign the ticket to will then treat it as a [lead](#leads), and contact the client to make a plan.
 
@@ -511,7 +573,7 @@ We also make some of our money by hosting some of the services that we build, an
 
 ### Leads
 
-Most of our leads arrive via email as a result of recommendations and word-of-mouth. Some arrive via via more formal channels like framework agreements or helpdesk tickets. Leads might arrive to anyone's email account. We try to make sure things arrive in the sales email account wherever we can.
+Most of our leads arrive via email as a result of recommendations and word-of-mouth. Some arrive via more formal channels like framework agreements or helpdesk tickets. Leads might arrive to anyone's email account. We try to make sure things arrive in the sales email account wherever we can.
 
 When any lead arrives, we record it in [Pipeline Deals](https://www.pipelinedeals.com/home) as a *Deal*. However, we also use PipelineDeals to record information about projects we have sold. So, we don't refer to anything in PipelineDeals as a "Deal". We either call it a *lead*, or after it's sold, an *order*.
 
@@ -527,12 +589,13 @@ Before we spend too much time thinking about or working on a lead, we need to ma
 
 To do this, we:
 
-* Make sure we understand what they need, and what their vision is
+* Ensure that we understand what they need, and what their vision is
+* Ensure that there are no overt signs that they are not able to work in an agile way. Check explicitly, if an opportunity arises
+* If possible, check that their budget is enough for the work they need
 * Make sure the work that they need is something we can do
-* Check that their budget is enough for the work they need
-* Check that they are happy to work in an agile way
 * Check that we'd be able to complete the work in time for whatever deadlines they have
 
+When we mark a deal as Qualfied, we update the summary to ensure that it accurately reflects the client's user needs and vision.
 
 ### Budgets
 
@@ -682,7 +745,7 @@ Start with a couple of questions, and then allow the conversation to evolve natu
 
 At the end of the interview, always ask the candidate if there's anything they would like to ask you. If they have questions, answer them honestly. If they ask about salary at this stage, or have a concern or question about the job that you don't feel comfortable addressing, tell the candidate we'll get back to them and make a note for an appropriate colleague to call them.
 
-When everything's done, we thank the candidate their time and then return to the office and discuss the interview. As soon as possible, we put a thorough update on Workable. This update should include the good things and bad things about the candidate, a recommendation on whether to take them forward, and an rationale for that recommendation. It is very important that this update is detailed enough for us to understand what happened and why, long after everyone involved has forgotten all about it.
+When everything's done, we thank the candidate for their time and then return to the office and discuss the interview. As soon as possible, we put a thorough update on Workable. This update should include the good things and bad things about the candidate, a recommendation on whether to take them forward, and a rationale for that recommendation. It is very important that this update is detailed enough for us to understand what happened and why, long after everyone involved has forgotten all about it.
 
 If you think the candidate is very likely to have the skills, experience and personal qualities we need, you should take them through to a work day.
 
@@ -729,7 +792,7 @@ Before this system, we had regular performance reviews. They were supposed to be
 We prefer to assume that everyone wants to improve, and will do so given the time and space to work on it. The buddy system is there to provide a set of prompts to ensure that this happens, and an explicit time to talk about it.
 
 #### It's best to be open
-Trying to improve things in secret is a missed opportunity to get help from others. We may each be responsible for our own improvement, but we're also a team: we should help each other. Recording the things we're working on with the buddy trello is a unintrusive, quick way to ensure that everyone else knows too.
+Trying to improve things in secret is a missed opportunity to get help from others. We may each be responsible for our own improvement, but we're also a team: we should help each other. Recording the things we're working on with the buddy Trello is an unintrusive, quick way to ensure that everyone else knows too.
 
 
 ### Fearless feedback
@@ -757,7 +820,7 @@ Trying to improve things in secret is a missed opportunity to get help from othe
 ## Sharing
 
 ### Events
-We all go to work-related events and conferences, sometimes for work and sometimes in our personal time. No matter what capacity you're attending an event in, you are a representatives of dxw. What you say and do will influence the way people think about the company as well as about you. It's important, both personally and for the business, that you make a positive impression.
+We all go to work-related events and conferences, sometimes for work and sometimes in our personal time. No matter what capacity you're attending an event in, you are a representative of dxw. What you say and do will influence the way people think about the company as well as about you. It's important, both personally and for the business, that you make a positive impression.
 
 This section is here to share what we've learned about how to make the most of these sorts of events.
 
