@@ -645,14 +645,24 @@ The purpose of the Skype screen is to:
 1. Introduce ourselves and explain a little more about the job and life at dxw
 2. Talk to the candidate about their experience and explore why they are interested in the job
 3. Decide whether you think they are quite likely to have the experience and personal qualities that we are looking for
+4. Get an idea of the candidate's salary expectation
 
 Try to keep the conversation quite high-level, and avoid going into too much technical detail. This part of the process is more about experience and personal qualities than about skills. Things to keep in mind:
 
 * Does this person seem likely to embody our [values](#values)?
-* Does this person have experience working in [agile environments](#agile_mindset)
+* Does this person have an interest in our [mission](#why-are-we-all-here)?
+* Does this person have experience working in [agile environments](#agile-mindset)
 * Would you be comfortable taking this person to a meeting with a client? If not, why not?
 
-If you can find out how they heard about the job, that's useful for us to know. Be prepared for a question about salary, but do not discuss it at this stage. You should also avoid making any commitments during this call. Near the end, explain that we'll be in touch soon. Don't offer an interview there and then: that's something we agree as a team.
+If you can find out how they heard about the job, that's useful for us to know.
+
+Many people feel self-conscious when asking questions about salary, but it's very important - and this is one of the few situations in daily life where people expect the question and are not put off by it. If you're not sure how to broach the topic, leave it to the end. When you're about to finish the call, you can say something like:
+
+"Thanks for talking to me. Before we finish, please could you give me an idea the salary you'd like?"
+
+If the candidate suggests a number that is unexpectedly high or low, it's also worth asking what they are paid in their current role.
+
+We avoid making any commitments during this call. Near the end, we explain that we'll be in touch soon. Don't offer an interview there and then: that's something we agree as a team.
 
 After the call, you can talk about the candidate with the team if you wish, or just make a decision. If you think it's quite likely that they have the skills, experience and personal qualities that we need, you should take them through to an interview.
 
