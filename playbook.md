@@ -802,6 +802,21 @@ Trying to improve things in secret is a missed opportunity to get help from othe
 ## Operations
 
 ### Expenses
+From time to time, some of us spend our own money at work. Most often, this is things like:
+
+* Train fares for unexpected travel
+* Refreshments purchased for meetings with clients
+* Stationery/materials, especially for workshops or events
+
+dxw will always pay expenses which are:
+
+* __Necessary__: The purchase must be for something you need in order to be able to complete your work
+* __Proportionate__: The purchase should not be excessive. Within reason, try to spend as little as possible. For example, other than in exceptional circumstances, don't get a cab to a meeting when you could get a train.
+
+Wherever possible, it's best to check that expenses can be reclaimed before incurring them.
+
+We manage expenses using Xero. For more information about how to do this, see the [guide on claiming expenses]()
+
 
 ### Calendars and documents
 
