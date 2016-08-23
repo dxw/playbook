@@ -112,7 +112,7 @@ We don't always do all these stages for every client. Often, we'll only be invol
 #### Responsiveness
 One of the things our clients value most is responsiveness. Many will be under pressure to get things done quickly, and will be expected by their colleagues and managers to know what is going on at any given time, and to manage us effectively. If we're not quick to respond to their queries, questions and concerns, we reduce their ability to maintain the confidence of their colleagues.
 
-So, when we are on sprints, we endeavour to respond to our client quickly. It's not always possible to resolve a problem or get an answer quickly, but that shouldn't stop us from acknowledging a message or giving regular updates. As with [tickets](#responsiveness-1), being responsive to a query is just as important as giving a definitive answer.
+So, when we are on sprints, we endeavour to respond to our client quickly. It's not always possible to resolve a problem or get an answer quickly, but that shouldn't stop us from acknowledging a message or giving regular updates. As with [tickets](#be-responsive), being responsive to a query is just as important as giving a definitive answer.
 
 When we get enquiries for clients who are not currently sprinting, we still as quickly as we can - but clients who are sprinting come first.
 
