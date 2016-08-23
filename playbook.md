@@ -201,10 +201,18 @@ Every project will grow and with it the number of decision making processes we g
 
 Recording what these are is extremely helpful to enable anybody working on the project now and in the future to make informed decisions by reading the commit history.
 
+After the description there should be a line that starts with `Resolves:` followed by a link to the Zendesk ticket, Pivotal story, or GitHub issue (do not use `#123` instead of providing the full URL - who knows if that's a GitHub issue or a Zendesk ticket). This should not be used as a substitute for a description - the description will last as long as the repository, the link to Zendesk will last as long as Zendesk is profitable. Naming the branch `hotfix/123` is not a substitute for including this line as branch names are ephemeral and only recorded on the merge commit (and there's no easy way to find a merge commit from a commit).
+
+Other links relevant to the commit should be added as lines beginning with `Link:`.
+
+If a single ticket/story is being completed, a [squashed commit](https://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history#squash-commits-together) is preferred over multiple commits.
+
 
 ```
 # Poor
 Fixed the form
+
+Resolves: #123
 
 # Great
 (fix): Food order form works with special characters
@@ -212,6 +220,9 @@ Fixed the form
 * Previously the form failed to send if the starter value included any of the following characters: !@£$%^&*().:;'
 * Users should be able to use these characters and after a short investigation I found this new bug in PHP: <link>
 * As a short term workaround until the bug is fixed I am stripping out any of these characters if they are present.
+
+Resolves: https://dxw.zendesk.com/agent/tickets/0000
+Link: http://grimm.blog/solution-to-ie7-render-bug
 ```
 
 #### Code style
