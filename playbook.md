@@ -136,13 +136,21 @@ This isn't to say that we require clients to participate in everything. Clients 
 
 
 ### Sprinting
-At dxw, sprints start with a planning session and end with two retrospective sessions: one internal, and one with the client. Both sessions involve all members of the project team (developers, user researcher, and delivery manager) and the product owner from the client side. Sometimes, retros include more of the client team.
+At dxw, sprints start with a planning session and end with two retrospective sessions: one internal, and one with the client. Both sessions involve all members of the project team (developer(s), user researcher, delivery manager) and the product owner from the client side. Sometimes, retros include more of the client team.
 
-The sprint planning session is used to decide which stories will be worked on during the upcoming sprint, and to ensure that they are [well-formed](#stories). During this session, developers estimate the effort required to finish each story by giving it a number of points reflecting its complexity, using the numbers of the [Fibonacci sequence](http://www.mathsisfun.com/numbers/fibonacci-sequence.html). This is usually done by playing [Planning Poker](https://en.wikipedia.org/wiki/Planning_poker). Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers should also advise at this point if there are any dependancies the client should be aware of.
+Design and development is worked on in parallel during the sprint. Because we design in browser and avoid separating development and user experience work, it’s important when giving stories points to think both about the design and the development effort that will be required.
 
-Design and development is worked on in parallel during the sprint. Because we design in browser and avoid separating development and user experience work, it's important when giving stories points to think both about the design and the development effort that will be required.
+#### Sprint planning
 
-At the end of the sprint we have a retrospective. During a retrospective, we discuss what went well, what didn’t, and what actions should be taken to improve things for the next sprint.
+The sprint planning session is used to decide which stories will be worked on during the upcoming sprint, and to ensure that they are [well-formed](#stories). 
+
+During this session, developers estimate the effort required to finish each story by giving it a number of points reflecting its complexity, using the numbers of the [Fibonacci sequence](http://www.mathsisfun.com/numbers/fibonacci-sequence.html). This is usually done by playing [Planning Poker](https://en.wikipedia.org/wiki/Planning_poker). 
+
+Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers should also advise at this point if there are any dependancies the client should be aware of in order to prioritise work in a way that is deliverable.
+
+#### Sprint retrospective
+
+At the end of the sprint we have a retrospective. This session gives us the chance to reflect on the previous sprint in terms of working with the client and working with each other. During the retrospective, we discuss what went well, what didn’t, and what actions should be taken to improve things for the next sprint. The delivery manager involved in the project will lead the session, more details of their role can be found in the [managing delivery](#managing-delivery) section. 
 
 
 ### Stories
