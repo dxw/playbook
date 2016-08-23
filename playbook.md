@@ -70,7 +70,7 @@ However, there are some things that we must keep private.
 - We are sometimes sent documents that are [protectively marked](#protective-marking-scheme), and we have a protective marking scheme of our own. Information in these documents is confidential.
 
 ### Time
-Our working hours are 10:00-18:00, Monday to Friday. Some people work different hours by arrangement. Anyone is free to do that as long as their hours of work don't make it hard for other people to get things done.
+Our working hours are 10:00-18:00, Monday to Friday. Some people work different hours by arrangement. Anyone is free to do that as long as their hours of work don't make it hard for other people to get things done. For example, many people arrive earlier than 10:00 and leave earlier, which is generally fine.
 
 We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:00. If you miss the stand-up, then you are [late](#lateness).
 
@@ -84,31 +84,13 @@ This playbook is a collaborative effort. If you spot something that's wrong, fee
 
 If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect speelings and other minor errors.
 
-## Build
-
-### The structure of a project
-We structure projects into the phases that are described by the [GDS Service Manual](https://www.gov.uk/service-manual): discovery, alpha, beta, live and retirement. It's worth having a browse of the service manual if you're not familiar with it, as it is the main guide for how digital work in the public sector should be done.
-
-At a high level, the purpose of each phase is:
-
-**Discovery**: Talk to users, do research. Identify and document user needs
-
-**Alpha**: Prototyping, technical spikes and experiments. Make initial technology and service design decisions
-
-**Beta**: Design, development, usability testing. Build a minimum viable product
-
-**Live**: Launch to users, learn what works, continue to design and develop. Iteratively improve a live service
-
-**Retirement**: Work out how user needs will be met without your service, provide help and guidance, archiving, links to other services. Don't leave people in the lurch; never let a link die
-
-We don't always do all these stages for every client. Often, we'll only be involved in a couple. But we can help with all or any of them, depending on our clients' needs.
-
+## Building services
 ### Client experience
 
 #### Responsiveness
 One of the things our clients value most is responsiveness. Many will be under pressure to get things done quickly, and will be expected by their colleagues and managers to know what is going on at any given time, and to manage us effectively. If we're not quick to respond to their queries, questions and concerns, we reduce their ability to maintain the confidence of their colleagues.
 
-So, when we are on sprints, we endeavour to respond to our client quickly. It's not always possible to resolve a problem or get an answer quickly, but that shouldn't stop us from acknowledging a message or giving regular updates. As with [tickets](#responsiveness-1), being responsive to a query is just as important as giving a definitive answer.
+So, when we are on sprints, we endeavour to respond to our client quickly. It's not always possible to resolve a problem or get an answer quickly, but that shouldn't stop us from acknowledging a message or giving regular updates. As with [tickets](#be-responsive), being responsive to a query is just as important as giving a definitive answer.
 
 When we get enquiries for clients who are not currently sprinting, we still as quickly as we can - but clients who are sprinting come first.
 
@@ -128,55 +110,77 @@ In particular, we should go out of our way to involve clients when decisions are
 This isn't to say that we require clients to participate in everything. Clients and projects have varying needs, so this aspect of the process is flexible. But we always make the option of involvement available. If they want to join daily standups as well as participate in sprint planning, they can.
 
 
-### Research
+### The structure of a project
+We structure projects along the lines described by the [GDS Service Manual](https://www.gov.uk/service-manual): discovery, alpha, beta, live and retirement. It's worth having a browse of the service manual if you're not familiar with it, as it is the main guide for how digital work in the public sector should be done.
 
-* Purpose and principles
-* structure - working in weeks, prep/fieldwork/writeup
-* outputs - slidedecks and conversations, not fat reports
+One change to our approach is the addition of an **Inception** phase at the start of work. The main purpose of a discovery phase is to identify and document user needs. But sometimes this work is carried out on the assumption that a given service is definitely the right solution to the problem. The inception phase gives us a structured way to ensure that this isn't the case.
+
+At a high level, the purpose of each phase is:
+
+**Inception**: Talk to staff, leaders and stakeholders. Agree what the problem is, establish an initial strategy and working principles to help solve it
+
+**Discovery**: Talk to users, do research. Identify and document user needs, decide how to measure success
+
+**Alpha**: Prototyping, technical spikes and experiments. Make initial technology and service design decisions
+
+**Beta**: Design, development, usability testing. Build and launch a minimum viable product and learn how to scale it
+
+**Live**: Operate a new service, learn what works, continue to design and develop. Iteratively improve a live service
+
+**Retirement**: Work out how user needs will be met without your service, provide help and guidance, archiving, links to other services. Don't leave people in the lurch; never let a link die
+
+We don't always do all these stages for every client. Often, we'll only be involved in a couple. But we can help with all or any of them, depending on our clients' needs.
+
+
+### Research
+At dxw, we do as much work as we can on the basis of user research findings, because we believe in making decisions based on evidenced user needs. The primary method we use to conduct research is to talk to users (which includes staff) about their needs.
+
+Not all clients have the willingness or resources to be able to commission research. In these situations, we do our best to rely on whatever evidence is available, while also making the case to their client that any research is better than none, and that research will allow them to spend their budget more effectively. 
+
+We don't only do research in discovery phases. We do our best to ensure that research is built into projects at every stage.
 
 
 ### Sprinting
+We build services in sprints, which are fixed-length periods of delivery work with a particular team.
+
 At dxw, sprints start with a planning session and end with two retrospective sessions: one internal, and one with the client. Both sessions involve all members of the project team (developers, user researcher, and delivery manager) and the product owner from the client side. Sometimes, retros include more of the client team.
 
-The sprint planning session is used to decide which stories will be worked on during the upcoming sprint, and to ensure that they are [well-formed](#stories). During this session, developers estimate the effort required to finish each story by giving it a number of points reflecting its complexity, using the numbers of the [Fibonacci sequence](http://www.mathsisfun.com/numbers/fibonacci-sequence.html). This is usually done by playing [Planning Poker](https://en.wikipedia.org/wiki/Planning_poker). Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers should also advise at this point if there are any dependancies the client should be aware of.
+The sprint planning session is used to decide which stories will be worked on during the upcoming sprint, and to ensure that they are [well-formed](#stories). During this session, developers estimate the effort required to finish each story. Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers should also advise at this point if there are any dependancies the client should be aware of.
 
 Design and development is worked on in parallel during the sprint. Because we design in browser and avoid separating development and user experience work, it's important when giving stories points to think both about the design and the development effort that will be required.
 
 At the end of the sprint we have a retrospective. During a retrospective, we discuss what went well, what didn’t, and what actions should be taken to improve things for the next sprint.
 
 
-### Stories
+#### Stories
 * Principles of good stories - independent, small, etc
 * As a so that I can
 * ACs
 
 Keep this short and link to the many useful things on the interwebs.
 
-
-### Development
-Our repositories are all on GitHub. (If the repository is not, [move it there](https://github.com/dxw/playbook/blob/master/guides/moving-a-repo-to-github.md))
-
 #### Lifecycle of a story
-There are several states that a story has to go through in order to be deemed ready for production. These should each be conveyed and kept up to date on tracking tools and physical story boards.
+There are several states that a story has to go through in order to be deployed to production. We use tracking tools and physical story boards to keep track of which stage a given story is in.
 
-* Started - A developer is working to meet each acceptance criteria
-* Code review - Another developer will [review](#Code reviews) the technical aspects of the story in a [pull request](#Pull request)
-* Acceptance review - A delivery manager will review stories acceptance criteria and manage clients expectations
-* Client review - Client will review the story from the staging environment
-* Ready to deploy - Has been marked as acceptable and is awaiting deployment
-* Deployed - Is now live in production
+* **Started**: A developer has started working on the story, making changes to the product to ensure that each acceptance criterion is met
+* **Code review**: The first developer has finished their work, and is ready for a second developer to [review](#Code reviews) the technical aspects of the story in a [pull request](#Pull request)
+* **Acceptance review**: The two developers have finished the review and the story is now merged, and ready for the delivery manager to review against its acceptance criteria
+* **Client review**: The delivery manager has confirmed that the story is done, and it's ready for a client to review
+* **Ready to deploy**: The client has accepted the story and it's ready to deploy
+* **Deployed**: The story is deployed to production
 
 #### Branching
-To start any new piece of work - whether story, bug fix, or chore - you should always start by creating a new branch based off of GitHub's `develop` branch.
+When we start any new piece of work - whether story, bug fix, or chore - we always start by creating a new branch based off the repository's `develop` branch.
 
-The branch naming conventions and when to use them:
+We have a naming convention for branches, as follows:
 
-* `feature/{STORY ID}-{CONCISE TITLE}` - Feature branches are the most common and are based on each story
-* `fix/{STORY/TICKET ID}-{CONCISE TITLE}` - Fix branches are used to correct changes introduced by a story that has already been merged into develop
-* `hotfix/{CONCISE TITLE}` - Hotfix branches are used for pushing emergency fixes straight to master without going via develop, these must be merged back into develop
-* `chore/{CONCISE TITLE}` - Chore branches are used for routine tasks or tickets which are not emergencies.
+* `feature/{STORY ID}-{CONCISE TITLE}`: A branch that adds a new feature, as defined by the specified story
+* `fix/{STORY/TICKET ID}-{CONCISE TITLE}`: A branch that corrects a problem in a feature already merged into develop
+* `hotfix/{CONCISE TITLE}`: A branch that adds an urgent fix to a problem that affects production. These branches are based on master and do not go via develop, so must be also be merged into develop when deployed.
+* `chore/{CONCISE TITLE}`: Chore branches are used for routine tasks or tickets which are not emergencies.
 
 Examples:
+
 ```
 feature/523797477-add-logging-to-registration
 fix/523797477-logging-happens-in-both-environments
@@ -185,22 +189,20 @@ chore/reduce-caching-for-contact-details
 ```
 
 #### Committing
+We write commit messages that convey in the present tense what the new state of the system will be. There is no strict character limit for this but we try to keep them under 50 characters.
 
-Messages should convey in the present tense what the __new state__ of the system will be. There is no strict character limit for this but you should try to stay under 50 characters.
+To help focus our commits into smaller well-bounded chunks, we prepend the following for each type of commit.
 
-To help focus our commits into smaller well-bounded chunks we prepend the following for each type of commit.
+* `(feature):`: when we are adding something new
+* `(fix):`: when we are fixing something existing
+* `(refactor):`: when we are changing the implementation of something existing without changing its behaviour
+* `(chore):`: catch all for when none of the above apply and there is no immediate user need eg. gem/package updates
 
-* `(feature):` - when we are adding something __new__
-* `(fix):` - when we are fixing something __existing__
-* `(refactor):` - when we are changing the implementation of something existing __without changing its behaviour__
-* `(chore):` - catch all for when none of the above apply and there is no user need eg. gem/package updates
+As well as writing a commit message, we also write a commit description. This should focus on the reasons for the change. 
 
-The description should focus on the __why__. It's really important to write this down and record it as we go.
-
-Every project will grow and with it the number of decision making processes we go through, each focusing on the delivery of the next most important feature. These decisions are based on the best current understanding and a set of assumptions, there may even be short term compromises made to ensure we're able to continuously deliver.
+It's really important to write this down and record it as we go. As a services goes through the development process, we make many decisions about how to build it, each focusing on the delivery of the next most important feature. These decisions are based on the best current understanding and a set of assumptions, there weill sometimes be short term compromises made to ensure we're able to continuously deliver.
 
 Recording what these are is extremely helpful to enable anybody working on the project now and in the future to make informed decisions by reading the commit history.
-
 
 ```
 # Poor
@@ -223,16 +225,16 @@ While it can be tempting to write a new style guide, it's not a worthwhile inves
 * Sass - [Sass Guidelines - Syntax and formatting](http://sass-guidelin.es/#syntax--formatting)
 
 #### Pull requests
-When you have finished a piece of work on a branch you should [make a pull request](https://help.github.com/articles/using-pull-requests/) using the projects GitHub/GitLab page.
+When we have finished a piece of work on a branch, we [make a pull request](https://help.github.com/articles/using-pull-requests/) using the project's GitHub/GitLab page.
 
-Prefix the Story ID to the title of the pull request, this makes it easy to find the story and the acceptance criteria that should be being fulfulled eg. `[123456789]`.
+We prefix pull request titles with the Story ID to make it easy to find the story and the acceptance criteria that should be met.
 
 A good pull request should:
+
 * Be created by the authoring developer
 * Meet all of the acceptance criteria on the associated story
-* Focus on the single problem at hand, inclusion of anything else will make it much harder to merge
+* Focus on the single problem at hand. Including other changes will make it much harder to merge
 * Include appropriate detail to assist the reviewer as much as possible
-
 
 ```
 # Poor
@@ -243,24 +245,26 @@ A new registration form and fix a bug with contacts
 ```
 
 #### Code reviews
-Code reviews are important to help maintain consistency in the code we write, ensure we push well-reasoned and bug-free code to production, and help each other learn throughout a project. When performing a code review, you should look to make sure:
+We believe that Code reviews are important. They help us to learn from each other, to maintain consistency in the code we write, and to ensure we push well-reasoned and bug-free code to production. When performing a code review, we make sure that:
 
-* You cannot see any code that could give rise to a security vulnerability
+* We cannot see any code that could give rise to a security vulnerability
 * The story has been implemented clearly and maintainably
-* The code contains comments where appropriate
+* The code contains well-written commits that help us to understand the changes
 * The code follows [code style guides](#code-style)
 
-It is not important that a story be implemented exactly how you would have done it. Only that it meets the criteria above. If you find problems, you should give feedback to the developer who implemented the story, not fix things yourself. It's also important that code reviews have a constructive, amicable tone. To this end, we bear in mind the [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review), which contains good rules for keeping things positive and useful.
+It is not important that a story be implemented exactly how you would have done it. Only that it meets the criteria above. When we find problems, we generally give feedback to the developer who implemented the story, not fix things ourselves. It is ok to fix minor problems -- like typos -- but if we're not sure whether to fix something ourselves, we err towards making no changes, and instead giving feedback to the authoring developer.
+
+It's also important that code reviews have a constructive, amicable tone. To this end, we bear in mind the [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review), which contains good rules for keeping things positive and useful.
 
 #### Deploying
-We maintain two environments for deployments, `testing` and `production`. Deployments to `testing` should be done throughout the sprint ready for sign off from the client. Deployments to `production` should be made once code has been signed off from the client and passed a code review from another developer.
+We maintain two environments for deployments, `testing` and `production`. Deployments to `testing` should be done throughout the sprint as our work becomes ready for a client to review. 
 
 When we deploy to production will depend on the project and the client. Some clients prefer features to be deployed to production as soon as they’re signed off, while others like to deploy everything at the end of the sprint. A discussion about which approach is preferable should happen early in every project.
 
 On WordPress projects, we [deploy by pushing commits](https://github.com/dxw/playbook/blob/master/guides/deploying.md) to the `testing` or `production` branch on GovPress. Other projects have their own approaches, which are documented in their READMEs.
 
 
-### Managing delivery
+#### Managing delivery
 
 * planning and retros (DM perspective)
 * keeping devs productive
