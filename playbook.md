@@ -85,28 +85,6 @@ This playbook is a collaborative effort. If you spot something that's wrong, fee
 If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect speelings and other minor errors.
 
 ## Build
-
-### The structure of a project
-We structure projects along the lines described by the [GDS Service Manual](https://www.gov.uk/service-manual): discovery, alpha, beta, live and retirement. It's worth having a browse of the service manual if you're not familiar with it, as it is the main guide for how digital work in the public sector should be done.
-
-One change to our approach is the addition of an **Inception** phase at the start of work. The main purpose of a discovery phase is to identify and document user needs. But sometimes this work is carried out on the assumption that a given service is definitely the right solution to the problem. The inception phase gives us a structured way to ensure that this isn't the case.
-
-At a high level, the purpose of each phase is:
-
-**Inception**: Talk to staff, leaders and stakeholders. Agree what the problem is, establish an initial strategy and working principles to help solve it
-
-**Discovery**: Talk to users, do research. Identify and document user needs, decide how to measure success
-
-**Alpha**: Prototyping, technical spikes and experiments. Make initial technology and service design decisions
-
-**Beta**: Design, development, usability testing. Build and launch a minimum viable product and learn how to scale it
-
-**Live**: Operate a new service, learn what works, continue to design and develop. Iteratively improve a live service
-
-**Retirement**: Work out how user needs will be met without your service, provide help and guidance, archiving, links to other services. Don't leave people in the lurch; never let a link die
-
-We don't always do all these stages for every client. Often, we'll only be involved in a couple. But we can help with all or any of them, depending on our clients' needs.
-
 ### Client experience
 
 #### Responsiveness
@@ -130,6 +108,28 @@ We involve clients in every aspect of our work. Projects work best when everyone
 In particular, we should go out of our way to involve clients when decisions are being made about design, user needs, or strategy (among other things). We're not here to make decisions for our clients: we're here to help them to make good decisions themselves. So we shouldn't make decisions about important things without them.
 
 This isn't to say that we require clients to participate in everything. Clients and projects have varying needs, so this aspect of the process is flexible. But we always make the option of involvement available. If they want to join daily standups as well as participate in sprint planning, they can.
+
+
+### The structure of a project
+We structure projects along the lines described by the [GDS Service Manual](https://www.gov.uk/service-manual): discovery, alpha, beta, live and retirement. It's worth having a browse of the service manual if you're not familiar with it, as it is the main guide for how digital work in the public sector should be done.
+
+One change to our approach is the addition of an **Inception** phase at the start of work. The main purpose of a discovery phase is to identify and document user needs. But sometimes this work is carried out on the assumption that a given service is definitely the right solution to the problem. The inception phase gives us a structured way to ensure that this isn't the case.
+
+At a high level, the purpose of each phase is:
+
+**Inception**: Talk to staff, leaders and stakeholders. Agree what the problem is, establish an initial strategy and working principles to help solve it
+
+**Discovery**: Talk to users, do research. Identify and document user needs, decide how to measure success
+
+**Alpha**: Prototyping, technical spikes and experiments. Make initial technology and service design decisions
+
+**Beta**: Design, development, usability testing. Build and launch a minimum viable product and learn how to scale it
+
+**Live**: Operate a new service, learn what works, continue to design and develop. Iteratively improve a live service
+
+**Retirement**: Work out how user needs will be met without your service, provide help and guidance, archiving, links to other services. Don't leave people in the lurch; never let a link die
+
+We don't always do all these stages for every client. Often, we'll only be involved in a couple. But we can help with all or any of them, depending on our clients' needs.
 
 
 ### Research
