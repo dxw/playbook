@@ -74,7 +74,7 @@ Our working hours are 10:00-18:00, Monday to Friday. Some people work different 
 
 We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:00. If you miss the stand-up, then you are [late](#lateness).
 
-Most developers have maintenance responibilities, which they do during [ticket time](#ticket-time).
+Most developers have maintenance responsibilities, which they do during [ticket time](#ticket-time).
 
 We do our very best to work to a [sustainable pace](#sustainable_pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during unsociable hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
 
