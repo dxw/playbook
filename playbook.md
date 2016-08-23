@@ -87,17 +87,21 @@ If you are making a substantial change (perhaps following a team conversation) p
 ## Build
 
 ### The structure of a project
-We structure projects into the phases that are described by the [GDS Service Manual](https://www.gov.uk/service-manual): discovery, alpha, beta, live and retirement. It's worth having a browse of the service manual if you're not familiar with it, as it is the main guide for how digital work in the public sector should be done.
+We structure projects along the lines described by the [GDS Service Manual](https://www.gov.uk/service-manual): discovery, alpha, beta, live and retirement. It's worth having a browse of the service manual if you're not familiar with it, as it is the main guide for how digital work in the public sector should be done.
+
+One change to our approach is the addition of an **Inception** phase at the start of work. The main purpose of a discovery phase is to identify and document user needs. But sometimes this work is carried out on the assumption that a given service is definitely the right solution to the problem. The inception phase gives us a structured way to ensure that this isn't the case.
 
 At a high level, the purpose of each phase is:
 
-**Discovery**: Talk to users, do research. Identify and document user needs
+**Inception**: Talk to staff, leaders and stakeholders. Agree what the problem is, establish an initial strategy and working principles to help solve it
+
+**Discovery**: Talk to users, do research. Identify and document user needs, decide how to measure success
 
 **Alpha**: Prototyping, technical spikes and experiments. Make initial technology and service design decisions
 
-**Beta**: Design, development, usability testing. Build a minimum viable product
+**Beta**: Design, development, usability testing. Build and launch a minimum viable product and learn how to scale it
 
-**Live**: Launch to users, learn what works, continue to design and develop. Iteratively improve a live service
+**Live**: Operate a new service, learn what works, continue to design and develop. Iteratively improve a live service
 
 **Retirement**: Work out how user needs will be met without your service, provide help and guidance, archiving, links to other services. Don't leave people in the lurch; never let a link die
 
