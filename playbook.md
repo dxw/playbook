@@ -133,10 +133,11 @@ This isn't to say that we require clients to participate in everything. Clients 
 
 
 ### Research
+At dxw, we do as much work as we can on the basis of user research findings, because we believe in making decisions based on evidenced user needs. The primary method we use to conduct research is to talk to users (which includes staff) about their needs.
 
-* Purpose and principles
-* structure - working in weeks, prep/fieldwork/writeup
-* outputs - slidedecks and conversations, not fat reports
+Not all clients have the willingness or resources to be able to commission research. In these situations, we do our best to rely on whatever evidence is available, while also making the case to their client that any research is better than none, and that research will allow them to spend their budget more effectively. 
+
+We don't only do research in discovery phases. We do our best to ensure that research is built into projects at every stage.
 
 
 ### Sprinting
