@@ -47,7 +47,11 @@ We are reliable, consistent and committed. We make every effort to live up to ea
 ### Some guiding principles
 
 #### Agile mindset
-TODO
+At dxw, we don't follow formal agile methodologies. We think the idea of a formal agile methodology is a bit of a contradiction in terms. When we talk about agile, we're talking about a mindset that is accepting of change, curious about trying new approaches to make things better, and values the idea of careful planning in short chunks.
+
+We think the Agile Manifesto contains a lot of wisdom, but we're also sad to have seen an industry of methodologies, coaching, training and certifications grow up around it. We think agile is something that you learn to be, not something that you learn to do.
+
+We do our best to listen, to try new things, to accept a degree of uncertainty and to work from evidence. And we recognise the importance of planning, compliance and governance, so we work those activities into the process, every step of the way.
 
 #### Sustainable pace
 We work at a sustainable pace. We estimate work and schedule it conservatively, and set realistic expectations with clients about the pace of delivery.
