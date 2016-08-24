@@ -163,6 +163,8 @@ At the end of the sprint we have a retrospective. During a retrospective, we dis
 
 Keep this short and link to the many useful things on the interwebs.
 
+
+
 #### Lifecycle of a story
 There are several states that a story has to go through in order to be deployed to production. We use tracking tools and physical story boards to keep track of which stage a given story is in.
 
@@ -271,22 +273,34 @@ On WordPress projects, we [deploy by pushing commits](https://github.com/dxw/pla
 
 
 ### Managing delivery
-
->"The delivery manager sets the team up for successful delivery. Remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done."
+>"The delivery manager sets the team up for successful delivery. Remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done." 
+>
 >-- <cite>[Government Digital Service](https://www.gov.uk/service-manual/the-team/delivery-manager.html)</cite>
 
-Each of our sprints begins with a sprint planning session that is attended by the delivery manager, the developers, the client team and any other roles relevant to the project. Sprint plans are generally whole day sessions although the first sprint plan of a new project may sometimes require an additional day. During the session, as a project team, we work together to break down the problems we're solving into [user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html). Breaking everything down into user stories allows us to be confident that everything we develop is responding to [user needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html).
+At dxw, delivery managers ensure that sprints go smoothly and that the team remain productive. They are generally the client's first and main point of contact, and are responsible for ensuring that we deliver good work.
 
-Throughout the sprint the delivery manager's role is to facilitate the smooth delivery of the project. They run daily standups with the developers and client team to keep everyone up to date with progress and to discuss and resolve any blockers. Outside of standups they will maintain regular communication with the client and the delivery team to respond quickly to challenges as they arise. If priorities change during a sprint the delivery manager will work with the client to understand what impact that will have on what will be delivered in the remainder of the sprint.
+Throughout a sprint, delivery managers ensure that agreed process is followed, organising and facilitating discussions as required. They run sprint planning and retrospective sessions. They run daily standups with the dxw and client teams to keep everyone informed and to discuss and resolve any blockers. 
 
-At the end of every sprint the delivery manager will facilitate a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. These sessions are attended by all the people involved in delivering the sprint along with the client team. During the session we talk about the things that did and didn't go well, we then agree actions to improve the delivery of future work.
+Outside these session and standups, they will maintain regular communication with the client and the delivery team to respond quickly to challenges as they arise. If priorities change during a sprint, the delivery manager will work with the client to understand and plan for the impact of the change.
 
-At the end of the sprint, often at the end of the retrospective, the team will look through the sprint backlog to reprioritise and/or prune stories in light of changes in the project and findings from user research. Stories that are no longer needed can be deleted, stories that may be needed later can be moved to the icebox and all other stories should be reprioritised for future sprints.
+#### Sprint planning
+Sprints begin with a planning session, where the full team (dxw and the client) review and prioritise the stories in the backlog. Working together, we discuss the stories that we are prioritising for the current sprint, ensuring that they are [well-formed](#stories) and understood by the full team.
 
+Often, this involves adding and updating stories, but we try to avoid this becoming the main purpose of the meeting. In our experience, sprint planning is much more useful when the [stories are written in advance](#backlog-grooming).
 
-* keeping devs productive
-* unblocking and sensibleness
-* stakeholders
+By the end of this session, the full team should be confident that there is enough work to occupy the sprint, and that everyone fully understands what's needed.
+
+#### Daily standups
+
+TODO
+
+#### Retrospectives
+At the end of every sprint, the delivery manager facilitates a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. These sessions are attended by all the people involved in delivering the sprint along with the client team. 
+
+During the session we talk about the things that did and didn't go well, we then agree actions to improve the delivery of future work.
+
+#### Backlog grooming
+At regular intervals (often at the end of retrospective sessions) the team will look through the sprint backlog to reprioritise and update stories, based on things we've learned during delivery and from user research. Stories that are no longer needed can be deleted, stories that may be needed later can be moved to the icebox and all other stories should be reprioritised for future sprints.
 
 
 ## Products
