@@ -157,12 +157,25 @@ At the end of the sprint we have a retrospective. During a retrospective, we dis
 
 
 #### Stories
-* Principles of good stories - independent, small, etc
-* As a so that I can
-* ACs
+We document development work that needs to be completed using [user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html). .
 
-Keep this short and link to the many useful things on the interwebs.
+A user story is a succinct explanation of some work that will be done in order to meet the needs of a particular kind of user. They are usually structured into a sentence, of the form:
 
+> As a [kind of user], so that I can [meet a need], I want [a feature in the product]
+
+Breaking everything down into user stories allows us to be confident that everything we develop is responding to [user needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html). By using this story format, we directly associate a feature we're building with the group of users who want it and the needs that they have.
+
+We keep lists of stories in a tracking tool. For most projects, this is Pivotal Tracker. These tools usually require a title for the story. We use the story itself to make the title, by rearranging it to reflect the new state of the system after the work is complete. For example:
+
+> As an administrator, so that I can ensure I don't publish defamatory comments, I want to be able to review and approve comments before they are shown.
+
+Might have a title of:
+
+> Administrators can review and approve comments before they are shown
+
+Each story will also contain a list of acceptance criteria. Acceptance criteria are a collection of statements about the functionality of the service which must be true in order for the story to be considered "done".
+
+For more information about writing good stories, read User Stories Applied by Mike Cohn. There is a copy of this book in the dxw library.
 
 
 #### Lifecycle of a story
