@@ -80,7 +80,7 @@ We have a short stand-up every morning, where we each tell the whole team about 
 
 Most developers have maintenance responsibilities, which they do during [ticket time](#ticket-time).
 
-We do our very best to work to a [sustainable pace](#sustainable_pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during unsociable hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
+We do our very best to work to a [sustainable pace](#sustainable-pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during unsociable hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
 
 
 ### Changes to this document
@@ -591,7 +591,7 @@ We record as much information as we can about leads when they arrive. A lead sho
 
 Leads go through several stages during their life, to show whether we're waiting for more information, waiting for a meeting, writing a proposal and so on.
 
-When the process ends, a lead will either be [won](#winning_work) or [lost](#losing_work).
+When the process ends, a lead will either be [won](#winning-work) or [lost](#losing-work).
 
 ### Qualifying a lead
 
