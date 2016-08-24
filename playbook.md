@@ -225,10 +225,11 @@ We write our code in a consistent way to ensure it is well-structured and easy t
 
 While it can be tempting to write a new style guide, it's not a worthwhile investment of time. It's important that a consistent style is adopted, but mostly unimportant which specific style it is. So rather than having our own, we have chosen the following existing style guides for our work:
 
-
 * PHP - [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 * Ruby - [Ruby community style guide](https://github.com/bbatsov/ruby-style-guide)
-* Sass - [Sass guidelines - Syntax and formatting](http://sass-guidelin.es/#syntax--formatting)
+* Sass - [Sass Guidelines - Syntax and formatting](http://sass-guidelin.es/#syntax--formatting)
+* JavaScript - [Standard](http://standardjs.com/)
+
 
 #### Pull requests
 When we have finished a piece of work on a branch, we [make a pull request](https://help.github.com/articles/using-pull-requests/) using the project's GitHub/GitLab page.
