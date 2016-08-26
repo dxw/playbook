@@ -220,6 +220,14 @@ Throughout a sprint, delivery managers ensure that agreed process is followed, o
 
 Outside of these session and standups, they maintain regular communication with the client and the delivery team to respond quickly to challenges as they arise. If priorities change during a sprint, the delivery manager works with the client to understand and plan for the impact of the change.
 
+#### Looking after the team
+At dxw, delivery managers are responsible for looking after the team. This means that they do have some responsibilities that [line managers](#line-management) would usually have.
+
+Delivery managers manage the work that we do, and so are responsible for planning, ensuring that processes are followed, and checking that stories are [well-formed and clear](#stories). Delivery managers generally don't make technical decisions, but they do facilitate conversations to help the team make the best decision it can. And they often advise when there's a question about how something should work or what the client is trying to achieve.
+
+Where there are problems in the team, it's also delivery managers who are responsible for addressing it. This encompasses many kinds of situations, from simple miscommunication to addressing poor performance. As with all work at dxw, delivery managers do not deal with these things alone. Rather, they "own" the problem, and work with others to solve it.
+
+Sometimes, day-to-day problems can cross over from being a part of looking after the team to being disciplinary matters, or grievances. Delivery managers are not responsible for these sorts of problems, and should hand them over the MD.
 
 ## Products
 
