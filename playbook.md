@@ -868,6 +868,28 @@ We prefer to assume that everyone wants to improve, and will do so given the tim
 #### It's best to be open
 Trying to improve things in secret is a missed opportunity to get help from others. We may each be responsible for our own improvement, but we're also a team: we should help each other. Recording the things we're working on with the buddy Trello is an unintrusive, quick way to ensure that everyone else knows too.
 
+### Line management
+We don't have traditional line management at dxw. Often, line managers have a lot of responsibilities:
+
+* Managing performance
+* First point of contact for disciplinary matters and grievances
+* Approving holiday and leave requests and managing sickness absence
+* Queries about employment issues
+* Regular allocation and supervision of work
+* Point of contact for advice about how to do things
+* Approving training and conference attendance
+* Caring for and nurturing a team to ensure it's effective
+
+These responsibilities are often given to people in addition to a primary role, such as being a developer or researcher.
+
+At dxw, we don't think this is an effective way to work. We want experienced delivery staff to spend their time and effort on the things that they were passionate enough about to learn to be good at. For most, this includes some of the responsibilities above, but it's very rare that it includes all of them.
+
+So, at dxw, the role of line manager is split up, so that each aspect is looked after by the best person for the job:
+
+* Delivery managers: performance, allocation of work, caring for the team
+* Business operations: Holiday, sickness, employment issues
+* MD: Disciplinaries and grievances, training and conferences
+* Any appropriate colleague: supervision of work, advice
 
 ### Calendars and documents
 We use Google Apps for Work to manage calendars, write and share documents. There is a dxw folder where we share most of the things we write. If you can't see it when you log in to Google Drive, you'll need to ask someone else to send you the link, and then click "Add to drive".
