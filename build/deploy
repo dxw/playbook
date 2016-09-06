@@ -5,7 +5,7 @@ git checkout gh-pages && \
   bundle install --path=vendor/bundle && \
   bundle exec ./compile && \
   cp playbook.html ../index.html && \
-  git add ../index.html && \ 
+  git add ../index.html && \
   git commit -m "Deploying" && \
   git push origin gh-pages
 
