@@ -838,6 +838,61 @@ When we write new things, we try to save them in a sensible folder within the ex
 ### Projects and contacts
 
 ### Protective marking scheme
+Some information that we have is confidential. We use a protective marking scheme so that everyone understands how to handle this material, and who they're allowed to disclose it to. All of the documents and data we hold will fall into one of the categories below.
+
+* __Management-in-Confidence__: internal documents whose circulation within dxw needs to be restricted.
+* __Company Confidential__: information owned by dxw which would be of value to those outside the company, such as competitors, and whose loss or theft would potentially damage the company.
+* __Client Confidential__ or __Commercial in Confidence__: information owned by dxw or its clients, which needs to remain confidential between dxw and the client.
+* __Unclassified__: information, which would not be of significant commercial value to those outside dxw.
+
+Some of our clients also have protective marking schemes. For example, all central government bodies will apply the [Government Protective Marking System (GPMS)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/251480/Government-Security-Classifications-April-2014.pdf). If you are in possession of materials that are protectively marked using other schemes, treat them as company confidential.
+
+We take care to handle all data carefully, but when information is protectively marked, extra requirements apply.
+
+Because we value openness highly, we take care not to over-classify information. We don't protectively mark information unless there is a good reason to keep it confidential.
+
+#### Management-in-confidence
+This category is used only for dxw's most confidential information. For example, employment records, salary details and company strategy documents.
+
+Do not share any information with this marking with any person, whether internal or external to dxw.
+
+This information:
+
+* Must be clearly labelled or described as "Management-in-confidence"
+* When printed:
+  * Stored only in a locked container
+  * Transported only via courier, recorded delivery or personally by dxw staff
+  * Destroyed by cross-cut shredding when no longer required
+* When digital:
+  * Stored in an encrypted format
+  * Communicated only when encrypted or via an encrypted connection, unless emailed from one dxw.com address to another
+
+
+#### Company Confidential
+This category is used for information which should not be communicated outisde dxw. For example, details about how we operate security controls or internal discussions about client work.
+
+Exactly the same controls apply to this information as detailed under Management-in-confidence, with the exception that Company Confidential information can be shared within the dxw as required.
+
+#### Client Confidential or Commercial in Confidence
+This category is used for information which is disclosed to a limited group of people external to dxw, or which is unclassified information we have received from clients. For example, dxw proposals, presentations for pitches or planning documents.
+
+Unless otherwise specified, all unclassified information we receive from clients falls into this category.
+
+This information:
+
+* Must be clearly labelled or described as "Client Confidential" or "Commercial in Confidence"
+* When printed:
+  * Stored out of sight
+  * Destroyed by cross-cut shredding when no longer required
+* When digital:
+  * Stored in an encrypted format when on exchangeable media or a mobile device
+
+As a rule of thumb, label a document as Client Confidential if it mostly contains the client's confidential information, or Commercial in Confidence if it mostly contains dxw's.
+
+#### Unclassified
+Anything not captured by the sections above is unclassified. Examples are external marketing material, general emails and letters.
+
+Beyond a general duty to treat information carefully, unclassified information is not subject to any specific restrictions.
 
 ## Sharing
 
