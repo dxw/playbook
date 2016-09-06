@@ -7,3 +7,5 @@ git checkout gh-pages && \
   git add ../index.html && \ 
   git commit -m "Deploying" && \
   git push origin gh-pages
+
+git checkout master
