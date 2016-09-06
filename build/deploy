@@ -7,6 +7,6 @@ git checkout gh-pages && \
   cp playbook.html ../index.html && \
   git add ../index.html && \
   git commit -m "Deploying" && \
-  git push origin gh-pages
+  git push -f origin gh-pages
 
 git checkout master
