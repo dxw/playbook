@@ -4,3 +4,5 @@
 # build files
 build/playbook.html
 build/.ruby-version
+build/.bundle
+build/vendor
