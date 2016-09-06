@@ -5,7 +5,7 @@ Documentation to be written:
 ## General
 
 - [ ] Developer workflow
-- [ ] Onboarding process
+- [ ] Employee welcoming process
 
 ## Developer workflow
 
@@ -16,7 +16,7 @@ Documentation to be written:
 - [ ] Starting new WordPress projects
 - [ ] Readme guidelines
 
-## Onboarding process
+## Employee welcoming process
 
 - [ ] First day
 - [ ] First week
