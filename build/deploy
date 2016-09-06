@@ -1,12 +1,12 @@
 #!/bin/bash
 
 git checkout gh-pages && \
-  git rebase master && \
+  git merge master && \
   bundle install --path=vendor/bundle && \
   bundle exec ./compile && \
   cp playbook.html ../index.html && \
   git add ../index.html && \
   git commit -m "Deploying" && \
-  git push -f origin gh-pages
+  git push origin gh-pages
 
 git checkout master
