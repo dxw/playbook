@@ -139,7 +139,7 @@ We don't always do all these stages for every client. Often, we'll only be invol
 ### Research
 At dxw, we do as much work as we can on the basis of user research findings, because we believe in making decisions based on evidenced user needs. The primary method we use to conduct research is to talk to users (which includes staff) about their needs.
 
-Not all clients have the willingness or resources to be able to commission research. In these situations, we do our best to rely on whatever evidence is available, while also making the case to their client that any research is better than none, and that research will allow them to spend their budget more effectively. 
+Not all clients have the willingness or resources to be able to commission research. In these situations, we do our best to rely on whatever evidence is available, while also making the case to their client that any research is better than none, and that research will allow them to spend their budget more effectively.
 
 We don't only do research in discovery phases. We do our best to ensure that research is built into projects at every stage.
 
@@ -202,7 +202,7 @@ To help focus our commits into smaller well-bounded chunks, we prepend the follo
 * `(refactor):`: when we are changing the implementation of something existing without changing its behaviour
 * `(chore):`: catch all for when none of the above apply and there is no immediate user need eg. gem/package updates
 
-As well as writing a commit message, we also write a commit description. This should focus on the reasons for the change. 
+As well as writing a commit message, we also write a commit description. This should focus on the reasons for the change.
 
 It's really important to write this down and record it as we go. As a services goes through the development process, we make many decisions about how to build it, each focusing on the delivery of the next most important feature. These decisions are based on the best current understanding and a set of assumptions, there weill sometimes be short term compromises made to ensure we're able to continuously deliver.
 
@@ -264,7 +264,7 @@ It is not important that a story be implemented exactly how you would have done 
 It's also important that code reviews have a constructive, amicable tone. To this end, we bear in mind the [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review), which contains good rules for keeping things positive and useful.
 
 #### Deploying
-We maintain two environments for deployments, `testing` and `production`. Deployments to `testing` should be done throughout the sprint as our work becomes ready for a client to review. 
+We maintain two environments for deployments, `testing` and `production`. Deployments to `testing` should be done throughout the sprint as our work becomes ready for a client to review.
 
 When we deploy to production will depend on the project and the client. Some clients prefer features to be deployed to production as soon as they’re signed off, while others like to deploy everything at the end of the sprint. A discussion about which approach is preferable should happen early in every project.
 
