@@ -835,14 +835,6 @@ We use Google Apps for Work to manage calendars, write and share documents. Ther
 When we write new things, we try to save them in a sensible folder within the existing structure.
 
 
-### Accounting and legal
-
-#### Cashflow
-
-#### Payroll
-
-#### CCS management information
-
 ### Projects and contacts
 
 ### Protective marking scheme
