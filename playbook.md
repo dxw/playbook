@@ -821,8 +821,8 @@ From time to time, some of us spend our own money at work. Most often, this is t
 
 dxw will always pay expenses which are:
 
-* __Necessary__: The purchase must be for something you need in order to be able to complete your work
-* __Proportionate__: The purchase should not be excessive. Within reason, try to spend as little as possible. For example, other than in exceptional circumstances, don't get a cab to a meeting when you could get a train.
+* __Necessary__: We only expense things we need in order to be able to complete our work
+* __Proportionate__: The total expense should be proportionate to the work at hand. In general, we try to avoid spending lots of money. For example, unless you have a good reason, don't get a cab to a meeting when you could get a train.
 
 Wherever possible, it's best to check that expenses can be reclaimed before incurring them.
 
