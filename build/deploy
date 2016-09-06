@@ -1,6 +1,7 @@
 #!/bin/bash
 
 git checkout gh-pages && \
+  git rebase master && \
   bundle install --path=vendor/bundle && \
   bundle exec ./compile && \
   cp playbook.html ../index.html && \
