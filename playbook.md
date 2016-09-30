@@ -144,7 +144,7 @@ Not all clients have the willingness or resources to be able to commission resea
 We don't only do research in discovery phases. We do our best to ensure that research is built into projects at every stage.
 
 
-### Sprinting
+### Development sprints
 We build services in sprints, which are fixed-length periods of delivery work with a particular team.
 
 At dxw, sprints start with a planning session and end with two retrospective sessions: one internal, and one with the client. Both sessions involve all members of the project team (developers, user researcher, and delivery manager) and the product owner from the client side. Sometimes, retros include more of the client team.
@@ -157,11 +157,26 @@ At the end of the sprint we have a retrospective. During a retrospective, we dis
 
 
 #### Stories
-* Principles of good stories - independent, small, etc
-* As a so that I can
-* ACs
+We document development work that needs to be completed using [user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html). .
 
-Keep this short and link to the many useful things on the interwebs.
+A user story is a succinct explanation of some work that will be done in order to meet the needs of a particular kind of user. They are usually structured into a sentence, of the form:
+
+> As a [kind of user], so that I can [meet a need], I want [a feature in the product]
+
+Breaking everything down into user stories allows us to be confident that everything we develop is responding to [user needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html). By using this story format, we directly associate a feature we're building with the group of users who want it and the needs that they have.
+
+We keep lists of stories in a tracking tool. For most projects, this is Pivotal Tracker. These tools usually require a title for the story. We use the story itself to make the title, by rearranging it to reflect the new state of the system after the work is complete. For example:
+
+> As an administrator, so that I can ensure I don't publish defamatory comments, I want to be able to review and approve comments before they are shown.
+
+Might have a title of:
+
+> Administrators can review and approve comments before they are shown
+
+Each story will also contain a list of acceptance criteria. Acceptance criteria are a collection of statements about the functionality of the service which must be true in order for the story to be considered "done".
+
+For more information about writing good stories, read User Stories Applied by Mike Cohn. There is a copy of this book in the dxw library.
+
 
 #### Lifecycle of a story
 There are several states that a story has to go through in order to be deployed to production. We use tracking tools and physical story boards to keep track of which stage a given story is in.
@@ -271,13 +286,35 @@ When we deploy to production will depend on the project and the client. Some cli
 On WordPress projects, we [deploy by pushing commits](https://github.com/dxw/playbook/blob/master/guides/deploying.md) to the `testing` or `production` branch on GovPress. Other projects have their own approaches, which are documented in their READMEs.
 
 
-#### Managing delivery
+### Managing delivery
+>"The delivery manager sets the team up for successful delivery. Remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done." 
+>
+>-- <cite>[Government Digital Service](https://www.gov.uk/service-manual/the-team/delivery-manager.html)</cite>
 
-* planning and retros (DM perspective)
-* keeping devs productive
-* unblocking and sensibleness
-* stakeholders
-* backlog grooming
+At dxw, delivery managers ensure that sprints go smoothly and that the team remain productive. They are generally the client's first and main point of contact, and are responsible for ensuring that we deliver good work.
+
+Throughout a sprint, delivery managers ensure that agreed process is followed, organising and facilitating discussions as required. They run sprint planning and retrospective sessions. They run daily standups with the dxw and client teams to keep everyone informed and to discuss and resolve any blockers. 
+
+Outside these session and standups, they will maintain regular communication with the client and the delivery team to respond quickly to challenges as they arise. If priorities change during a sprint, the delivery manager will work with the client to understand and plan for the impact of the change.
+
+#### Sprint planning
+Sprints begin with a planning session, where the full team (dxw and the client) review and prioritise the stories in the backlog. Working together, we discuss the stories that we are prioritising for the current sprint, ensuring that they are [well-formed](#stories) and understood by the full team.
+
+Often, this involves adding and updating stories, but we try to avoid this becoming the main purpose of the meeting. In our experience, sprint planning is much more useful when the [stories are written in advance](#backlog-grooming).
+
+By the end of this session, the full team should be confident that there is enough work to occupy the sprint, and that everyone fully understands what's needed.
+
+#### Daily standups
+
+TODO
+
+#### Retrospectives
+At the end of every sprint, the delivery manager facilitates a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. These sessions are attended by all the people involved in delivering the sprint along with the client team. 
+
+During the session we talk about the things that did and didn't go well, we then agree actions to improve the delivery of future work.
+
+#### Backlog grooming
+At regular intervals (often at the end of retrospective sessions) the team will look through the sprint backlog to reprioritise and update stories, based on things we've learned during delivery and from user research. Stories that are no longer needed can be deleted, stories that may be needed later can be moved to the icebox and all other stories should be reprioritised for future sprints.
 
 
 ## Products
