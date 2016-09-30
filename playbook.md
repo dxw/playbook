@@ -399,6 +399,8 @@ Pending tickets will not appear in the list of tickets or in the views for the F
 
 Tickets which are pending will also be closed automatically after a set period of time if the client does not respond. They will get reminders before this happens. If a pending ticket you are assigned to is closed because the client didn't reply in time, both you and the client will get an email, so you can open it again if you think that's best.
 
+Because pending tickets will be auto-closed if there's no reply, it's also important to check and set the *How much work was this?* field to give an approximatation of the total time the team spent on the issue. Or, select *chargeable* if it's a ticket we'll invoice for.
+
 When assigning a ticket to another agent, we do not set it to pending, otherwise they probably won't see it.
 
 
@@ -414,7 +416,7 @@ It is important that solved tickets contain some record of what we did. This is 
 
 Some tickets are not raised by clients, but are raised by another agent or by an automated process. In this situation, it's still important that tickets record what actions we took, so we don't close them without a good update. We always leave a couple of sentences to say what we did, even if it was minor.
 
-Before solving a ticket, we use the *How much work was this?* field to give an approximatation of the time we spent on the issue, or we select *chargeable* if it's a ticket we'll invoice for.
+Before solving a ticket, we make sure the *How much work was this?* is set to a sensible value.
 
 #### On-hold tickets
 
