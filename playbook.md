@@ -35,8 +35,8 @@ We are honest, trustworthy and straightforward. We give plain-spoken, frank, acc
 #### Positive
 We are positive, cheerful and supportive. Even in crisis, we stay optimistic. We [assume good faith](https://en.wikipedia.org/wiki/Wikipedia:Assume_good_faith) and offer constructive challenge.
 
-#### Creative
-We are creative, diverse and curious. We help each other to learn and improve and we're sensitive to each others' needs. We love technology and finding new ways to solve problems.
+#### Curious
+We are curious, diverse and creative. We help each other to learn and improve and we're sensitive to each others' needs. We love technology and finding new ways to solve problems.
 
 #### Determined
 We are determined, discerning and motivated. We believe in high standards, we enjoy doing things properly, and we're loath to settle for less.
