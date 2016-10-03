@@ -5,7 +5,7 @@
 **Estimated time:** 45 minutes
 
 ## Best to use when
-
+In Alpha or Beta phases, when testing prototypes (paper or functioning).
 
 
 ## Instructions
