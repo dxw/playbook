@@ -407,7 +407,9 @@ When a new ticket arrives, it is automatically assigned to the Front-line Suppor
 
 The Font-line Support group is monitored by whoever in operations is on call. It's their responsibility to review tickets as they arrive, and decide what to do with them. If they can deal with the issue, or if can complete an [initial investigation](#initial-investigation) into the problem, they do so.
 
-If you're ultimately unable to solve the ticket, assign it to someone in the Escalated Support group. Try to choose the person you think will be best placed to solve the issue. This will usually be someone who is currently sprinting on the project, or who has worked on it in the past. If you're not sure, ask a delivery manager.
+If not, they will assign it to someone in the Developers group. Whenever assigning a ticket, we try to choose the person we think will be best placed to solve the issue. This will usually be someone who is currently sprinting on the project, or who has worked on it in the past. If you're not sure, ask a delivery manager.
+
+As tickets are arriving, we also think about whether they might be related to other tickets that we've already received. For example, if we get several tickets from different clients about similar-sounding issues, that might be indicative of a wider problem. Or, if a single client sends lots of tickets within a short time, it might be wise to assign a delivery manager to oversee them all and ensure that the requests make sense when considered as a group.
 
 
 #### Assignments
