@@ -398,6 +398,15 @@ While we do everything we can to make sure the client is happy with our solution
 
 The main purpose of a ticket is to take some action that solves the problem, as quickly as possible. Generally speaking, we do the most time-efficient thing that we can. Of several potential solutions that solve the problem, assuming none is a bad one, we do the one which can be implemented the most quickly.
 
+#### Make sure clients feel informed and in control
+For many of our clients, the helpdesk can feel intimidating: especially when they are not technical, or are not sure what they are entitled to ask for as part of the service they receive.
+
+It is important that we make the helpdesk experience a [positive](#positive) one. Tickets will not always explain an issue in a way that is clear to us, and clients will not always ask for the right thing. 
+
+It is our responsibility to gain an accurate understanding of the issue, and to help the client to feel more informed in the process. Where there are many possible solutions, it is also our responsibility to present those options to the client, such that they are able to understand each option's strengths and make an informed decision.
+
+Much of the [Involvement](#involvement) section applies to ticket work too. In particular, that we'll know we're doing this well when our clients feel like they understand what is going on and are in control of their ticket's outcome.
+
 
 ### Workflow
 All tickets that arrive on the helpdesk go through a number of stages in the course of being worked on.
