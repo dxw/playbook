@@ -113,6 +113,8 @@ In particular, we should go out of our way to involve clients when decisions are
 
 This isn't to say that we require clients to participate in everything. Clients and projects have varying needs, so this aspect of the process is flexible. But we always make the option of involvement available. If they want to join daily standups as well as participate in sprint planning, they can.
 
+We'll know we're doing this well when our clients feel like they understand what is going on and are in control of their project.
+
 
 ### The structure of a project
 We structure projects along the lines described by the [GDS Service Manual](https://www.gov.uk/service-manual): discovery, alpha, beta, live and retirement. It's worth having a browse of the service manual if you're not familiar with it, as it is the main guide for how digital work in the public sector should be done.
