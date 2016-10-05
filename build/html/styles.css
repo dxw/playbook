@@ -20,7 +20,7 @@ h1,h2,h3,h4,h5 {
 
 
 h2 {
-  margin: 2.4em 0 1.3em 0;
+  margin: 2.4em 0 1.3em -24px;
 }
 
 h2 + h3 {
@@ -28,7 +28,7 @@ h2 + h3 {
 }
 
 h3 {
-  margin: 1.2em 0 0.6em 0;
+  margin: 1.2em 0 0.6em -20px;
 }
 
 h3 + p {
@@ -36,13 +36,24 @@ h3 + p {
 }
 
 h4 {
-  margin: 0.8em 0 0.2em 0;
+  margin: 0.8em 0 0.2em -19px;
   font-size: 17pt;
 }
 
 h4 + p {
   margin-top: 0;
 }
+
+.anchor-link {
+  color: gray;
+  text-decoration: none;
+  padding-right: 5px;
+  visibility: hidden;
+}
+
+h2:hover .anchor-link { visibility: visible; }
+h3:hover .anchor-link { visibility: visible; }
+h4:hover .anchor-link { visibility: visible; }
 
 .container {
   max-width: 800px;
