@@ -178,17 +178,42 @@ Each story will also contain a list of acceptance criteria. Acceptance criteria 
 For more information about writing good stories, read User Stories Applied by Mike Cohn. There is a copy of this book in the dxw library.
 
 
-#### Lifecycle of a story
-There are several states that a story has to go through in order to be deployed to production. We use tracking tools and physical story boards to keep track of which stage a given story is in.
+## Lifecycle of a story
+There are several states that a story has to go through in order to be deployed to production. We use tracking tools and physical story boards to keep track of which state a given story is in.
 
-* **Started**: A developer has started working on the story, making changes to the product to ensure that each acceptance criterion is met
-* **Code review**: The first developer has finished their work, and is ready for a second developer to [review](#Code reviews) the technical aspects of the story in a [pull request](#Pull request)
-* **Acceptance review**: The two developers have finished the review and the story is now merged, and ready for the delivery manager to review against its acceptance criteria
-* **Client review**: The delivery manager has confirmed that the story is done, and it's ready for a client to review
-* **Ready to deploy**: The client has accepted the story and it's ready to deploy
-* **Deployed**: The story is deployed to production
+### States
 
-#### Branching
+After a user need has been identified, a story is written to capture it and how we propose to meet that need with acceptance critera. Once it's written and prioritised as part of a sprint planning it will be ready to start.
+
+#### Unstarted
+- hasn't been started or isn't being actively developed yet and can be changed
+
+#### In progress
+- a developer or a pair are currently working on meeting the acceptance criteria
+
+#### Awaiting code review
+- a pull request has been opened
+- another developer is required to review the codes quality and merge into develop
+- this developer also tests the functionality with the aim of catching the majority of any bugs as early as possible and feedback them back onto the pull request
+
+#### Awaiting delivery manager review
+- the work to fulfill the story is now on staging
+- a delivery manager is required to review the product and ensure that it's ready for the client to sign off
+- a show and tell from the developer may be needed to demonstrate stories that are hard to test
+
+#### Awaiting client review
+- a delivery manager has explained what is ready and if necessary how to review it
+- the client can use Staging to see that the acceptance criteria have been met
+- based on this mark the story as accepted or rejected and include any details of which criteria hasn't been met
+
+#### Accepted
+- the client has accepted the story as the acceptance criteria on the story are met and it is ready to be deployed to production
+
+#### Deployed
+- the new story is ready to be used by the users
+- a deployment has taken place (`develop` has been merged into `master`)
+
+## Branching
 When we start any new piece of work - whether story, bug fix, or chore - we always start by creating a new branch based off the repository's `develop` branch.
 
 We have a naming convention for branches, as follows:
@@ -287,13 +312,13 @@ On WordPress projects, we [deploy by pushing commits](https://github.com/dxw/pla
 
 
 ### Managing delivery
->"The delivery manager sets the team up for successful delivery. Remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done." 
+>"The delivery manager sets the team up for successful delivery. Remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done."
 >
 >-- <cite>[Government Digital Service](https://www.gov.uk/service-manual/the-team/delivery-manager.html)</cite>
 
 At dxw, delivery managers ensure that sprints go smoothly and that the team remain productive. They are generally the client's first and main point of contact, and are responsible for ensuring that we deliver good work.
 
-Throughout a sprint, delivery managers ensure that agreed process is followed, organising and facilitating discussions as required. They run sprint planning and retrospective sessions. They run daily standups with the dxw and client teams to keep everyone informed and to discuss and resolve any blockers. 
+Throughout a sprint, delivery managers ensure that agreed process is followed, organising and facilitating discussions as required. They run sprint planning and retrospective sessions. They run daily standups with the dxw and client teams to keep everyone informed and to discuss and resolve any blockers.
 
 Outside these session and standups, they will maintain regular communication with the client and the delivery team to respond quickly to challenges as they arise. If priorities change during a sprint, the delivery manager will work with the client to understand and plan for the impact of the change.
 
@@ -309,7 +334,7 @@ By the end of this session, the full team should be confident that there is enou
 TODO
 
 #### Retrospectives
-At the end of every sprint, the delivery manager facilitates a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. These sessions are attended by all the people involved in delivering the sprint along with the client team. 
+At the end of every sprint, the delivery manager facilitates a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. These sessions are attended by all the people involved in delivering the sprint along with the client team.
 
 During the session we talk about the things that did and didn't go well, we then agree actions to improve the delivery of future work.
 
