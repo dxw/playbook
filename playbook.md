@@ -279,11 +279,13 @@ It is not important that a story be implemented exactly how you would have done 
 It's also important that code reviews have a constructive, amicable tone. To this end, we bear in mind the [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review), which contains good rules for keeping things positive and useful.
 
 #### Deploying
-We maintain two environments for deployments, `testing` and `production`. Deployments to `testing` should be done throughout the sprint as our work becomes ready for a client to review.
+We maintain two environments for deployments, `develop` and `master`. Deployments to `develop` should be done throughout the sprint as our work becomes ready for a client to review.
+
+**NOTE**: There may be a lagacy `stage` branch on some projects, this was replaced by `develop`.
 
 When we deploy to production will depend on the project and the client. Some clients prefer features to be deployed to production as soon as they’re signed off, while others like to deploy everything at the end of the sprint. A discussion about which approach is preferable should happen early in every project.
 
-On WordPress projects, we [deploy by pushing commits](https://github.com/dxw/playbook/blob/master/guides/deploying.md) to the `testing` or `production` branch on GovPress. Other projects have their own approaches, which are documented in their READMEs.
+On WordPress projects, we [deploy by pushing commits](https://github.com/dxw/playbook/blob/master/guides/deploying.md) to the `develop` or `master` branch on GovPress. Other projects have their own approaches, which are documented in their READMEs.
 
 
 ### Managing delivery
