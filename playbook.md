@@ -189,23 +189,37 @@ There are several states that a story has to go through in order to be deployed 
 * **Deployed**: The story is deployed to production
 
 #### Branching
-When we start any new piece of work - whether story, bug fix, or chore - we always start by creating a new branch based off the repository's `develop` branch.
+When we start any new piece of work - whether story, bug fix, or chore - we always start by creating a story in our tracker and creating a new branch based off the repository's `develop` branch.
 
 We have a naming convention for branches, as follows:
 
-* `feature/{STORY ID}-{CONCISE TITLE}`: A branch that adds a new feature, as defined by the specified story
-* `fix/{STORY/TICKET ID}-{CONCISE TITLE}`: A branch that corrects a problem in a feature already merged into develop
-* `hotfix/{CONCISE TITLE}`: A branch that adds an urgent fix to a problem that affects production. These branches are based on master and do not go via develop, so must be also be merged into develop when deployed.
-* `chore/{CONCISE TITLE}`: Chore branches are used for routine tasks or tickets which are not emergencies.
+* Feature - A branch that adds a new feature, as defined by the specified story
+* Fix - A branch that corrects a problem in a feature already merged into develop
+* Chore - Chore branches are used for routine tasks or tickets which are not emergencies
+* Hotfix - A branch that adds an urgent fix to a problem that affects production. These branches are based on master and do not go via develop, so must be also be merged into develop when deployed
 
-Examples:
+**Convention:**
+```
+feature/{STORY ID}-{CONCISE TITLE}
+fix/{STORY/TICKET ID}-{CONCISE TITLE}
+chore/{STORY ID}-{CONCISE TITLE}
+hotfix/{TICKET ID}-{CONCISE TITLE}
+```
 
+**Examples:**
 ```
 feature/523797477-add-logging-to-registration
-fix/523797477-logging-happens-in-both-environments
-hotfix/remove-breaking-change-to-repair-creation
-chore/reduce-caching-for-contact-details
+fix/423797477-logging-happens-in-both-environments
+chore/1934729239-reduce-caching-for-contact-details
+hotfix/253947623-remove-breaking-change-to-repair-creation
 ```
+
+**Rules:**
+- all our work goes via a pull request
+- a peer must merge your branch into develop
+- don't force push to develop or master
+- staging environment tracks the develop branch
+- production environment tracks the master branch
 
 #### Committing
 We write commit messages that convey in the present tense what the new state of the system will be. There is no strict character limit for this but we try to keep them under 50 characters.
