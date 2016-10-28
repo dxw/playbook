@@ -23,7 +23,9 @@ When the story is finished, create a MR targetting `develop`, move to `awaiting 
 
 Move story from `awaiting code review` to `code review`.
 
-Manually test that the ACs are met. Ensure the commit messages are good. Look over the code and ensure that it has tests and isn't doing anything weird.
+Manually test that the ACs are met. (TODO: there is some disagreement over whether we should do this or not)
+
+Ensure the commit messages are good. Look over the code and ensure that it has tests and isn't doing anything weird.
 
 Ask questions and/or request changes, then move to `in progress`.
 
