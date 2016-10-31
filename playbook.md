@@ -851,6 +851,16 @@ Trying to improve things in secret is a missed opportunity to get help from othe
 
 ### Compensation
 
+### Benefits
+
+#### Pensions
+
+#### Conference Perk
+
+#### Cycle to work scheme
+
+#### Book purchase
+
 ## Operations
 
 ### Expenses
