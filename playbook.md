@@ -856,6 +856,12 @@ Trying to improve things in secret is a missed opportunity to get help from othe
 #### Pensions
 
 #### Conference Perk
+One of our benefits at dxw is the annual conference perk - an opportunity for dxw staff to attend ANY conference we have an interest in once a year. 
+
+We already support our team in attending any conferences that directly relate to their job roles; to form training, create networking and recruitment opportunities that directly benefit dxw, but we also feel it’s important that when employing clever and motivated people, we support their already clear enjoyment of learning. By encouraging interests outside of work, we can broaden what people bring to the workplace both in what they do and how they inspire others.
+
+We will cover the conference ticket, modest accommodation and a cheap flight if needed. 
+Budget is currently on a case by case basis.
 
 #### Cycle to work scheme
 
