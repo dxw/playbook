@@ -856,6 +856,11 @@ Trying to improve things in secret is a missed opportunity to get help from othe
 #### Pensions
 
 #### Conference Perk
+We think it's important to cultivate interests outside work, and that investing time in this brings benefits to dxw.
+
+So, in addition to going to conferences relevant to their roles, everyone who works at dxw is able to attend one conference per year about anything that they'd like.
+
+On request, dxw will cover the cost of a conference ticket, travel and accommodation, anywhere in reach of a budget flight.
 
 #### Cycle to work scheme
 
