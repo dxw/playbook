@@ -70,23 +70,17 @@ We release [code](http://www.github.com/dxw), publish our [contracts](http://www
 However, there are some things that we must keep private.
 
 - Our clients trust us to host content that is not public, like upcoming announcements and discussions made as part of formulating new policy. This is not our information to be open about, and it's very important to keep it confidential.
-- We also hold some personal data on and on behalf of our clients. We never share any of this data, including contact details.
+- We also hold some personal data about and/or on behalf of our clients. We never share any of this data, including contact details. See also: [data protection](#data-protection).
 - We are sometimes sent documents that are [protectively marked](#protective-marking-scheme), and we have a protective marking scheme of our own. Information in these documents is confidential.
+- Information about work that is currently being procured (whether we are bidding or not) and any other information that could damage the commercial interests of a client or supplier
 
-### Time
-Our working hours are 10:00-18:00, Monday to Friday. Some people work different hours by arrangement. Anyone is free to do that as long as their hours of work don't make it hard for other people to get things done. For example, many people arrive earlier than 10:00 and leave earlier, which is generally fine.
-
-We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:00. If you miss the stand-up, then you are [late](#lateness).
-
-Most developers have maintenance responsibilities, which they do during [ticket time](#ticket-time).
-
-We do our very best to work to a [sustainable pace](#sustainable-pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during unsociable hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
-
+If you want to talk about something, and you're not sure if it's confidential, play it safe: ask a colleague.
 
 ### Changes to this document
 This playbook is a collaborative effort. If you spot something that's wrong, feel free to hop in and correct it. But remember that this playbook is the result of our conversations about how we should do things, not a substitute for one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
 
 If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect speelings and other minor errors.
+
 
 ## Building services
 ### Client experience
@@ -287,13 +281,13 @@ On WordPress projects, we [deploy by pushing commits](https://github.com/dxw/pla
 
 
 ### Managing delivery
->"The delivery manager sets the team up for successful delivery. Remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done." 
+>"The delivery manager sets the team up for successful delivery. Remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done."
 >
 >-- <cite>[Government Digital Service](https://www.gov.uk/service-manual/the-team/delivery-manager.html)</cite>
 
 At dxw, delivery managers ensure that sprints go smoothly and that the team remain productive. They are generally the client's first and main point of contact, and are responsible for ensuring that we deliver good work.
 
-Throughout a sprint, delivery managers ensure that agreed process is followed, organising and facilitating discussions as required. They run sprint planning and retrospective sessions. They run daily standups with the dxw and client teams to keep everyone informed and to discuss and resolve any blockers. 
+Throughout a sprint, delivery managers ensure that agreed process is followed, organising and facilitating discussions as required. They run sprint planning and retrospective sessions. They run daily standups with the dxw and client teams to keep everyone informed and to discuss and resolve any blockers.
 
 Outside these session and standups, they will maintain regular communication with the client and the delivery team to respond quickly to challenges as they arise. If priorities change during a sprint, the delivery manager will work with the client to understand and plan for the impact of the change.
 
@@ -309,7 +303,7 @@ By the end of this session, the full team should be confident that there is enou
 TODO
 
 #### Retrospectives
-At the end of every sprint, the delivery manager facilitates a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. These sessions are attended by all the people involved in delivering the sprint along with the client team. 
+At the end of every sprint, the delivery manager facilitates a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. These sessions are attended by all the people involved in delivering the sprint along with the client team.
 
 During the session we talk about the things that did and didn't go well, we then agree actions to improve the delivery of future work.
 
@@ -814,8 +808,6 @@ TODO. This section to cover:
 * Discussing the results
 * Offer if we are sure they are right
 
-## Working at dxw
-
 ### Offer, joining and probation
 
 TODO. This section to cover:
@@ -826,6 +818,110 @@ TODO. This section to cover:
 * Starters checklist
 * The probation period, meeting and expectations
 * ...more things.
+
+
+## Working arrangements
+### Time
+Our working hours are 10:00-18:00, Monday to Friday. Some people work different hours by arrangement. Anyone is free to do that as long as their hours of work don't make it hard for other people to get things done. For example, many people arrive earlier than 10:00 and leave earlier, which is generally fine.
+
+We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:00. If you miss the stand-up, then you are [late](#lateness).
+
+Most developers have maintenance responsibilities, which they do during [ticket time](#ticket-time).
+
+We do our very best to work to a [sustainable pace](#sustainable-pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during unsociable hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
+
+### Holiday
+
+
+### Sickness
+If you are sick, you must let us know as soon by 11:00, or as soon as is reasonably practical. Do not come to the office. If you come to the office when sick, you may be sent home again.
+
+If you're sick but able to work, you can work from home. Everyone at dxw should have a laptop, and should generally take it home with them in case it's needed. If you're sick and at home but don't have your laptop, it can be couriered to you.
+
+If you're sick for more than 7 calendar days, you'll need to provide a [fit note](https://www.gov.uk/government/publications/the-fit-note-a-guide-for-patients-and-employees) on your return to work. If you're sick for more than 14 calendar days, we will probably want to discuss your situation to see what we can do to help and to understand when/if you are likely to return.
+
+
+### Working from home
+Generally, we work either at our office or at client sites. But it's usually fine to work from home from time to time, or in order to complete a specific task. If you're working apart from your team, it is essential that you remain contactable and productive, and the onus is on you to be especially communicative.
+
+
+### Data protection
+
+Though dxw doesn't control much personal data, our clients generally do. And some of of that data may be held on sites that we host. Everyone at dxw has a responsibily to keep that data safe, and process it in accordance to the [data protection principles](https://www.gov.uk/data-protection/the-data-protection-act).
+
+In particular, we:
+
+- Only process personal data as part of work on the service that we're contracted to provide to a client
+- Don't access personal data unless we need to in order to do our jobs: don't read people's personal data or private communications without good reason
+- We do not ever disclose people's personal data to anyone outside dxw unless specifically instructed, and are satisfied that it is legal to do so
+
+If you have any questions about data protection, talk to Harry.
+
+
+### Your details
+Please tell us promptly if your name, address, telephone number or next of kin details change.
+
+
+### Disciplinary procedure
+If you do something that we feel constitutes misconduct, or your performance in your job has been poor, we'll talk to you about it. Hopefully, there's just been some misunderstanding, or some problem that's easy to solve and won't recur. Formal action will not be taken without careful investigation of the facts.
+
+If we feel it's appropriate, we may verbally warn you, explaining what has been unacceptable and what you need to do to improve your conduct or performance.
+
+If your conduct or performance fails to improve following a verbal warning, or if the matter is serious enough that a verbal warning is not given, we may hold a disciplinary hearing at which you may be accompanied or represented by a colleague or trade union official. Following this meeting, we may:
+
+- Conclude that no misconduct has taken place, or that there is no poor performance
+- Issue you with a written warning, which will explain:
+  - The nature of the misconduct or poor performance
+  - The change to your behaviour or performance that you need to make
+  - The time within which the change needs to be made
+  - The consequences of not making the change
+- In cases of gross misconduct, dismiss you without notice
+
+If you disagree with the outcome of this hearing, you may appeal against the decision. You must do this in writing. If you do so, your appeal and the circumstances of your case will be reviewed by a member of staff who has not been involved in your case before.
+
+
+### Grievance procedure
+If you have a grievance about your employment or a complaint about another member of staff, talk to the Managing Director as soon as possible.
+
+The first step is to discuss the problem to see if it can be quickly resolved.
+
+If this discussion does not satisfactorily resolve the problem, you should put details of your grievance in writing and send it to the Managing Director. They will arrange a meeting to discuss the matter, at which you may be accompanied by a colleague or trade union official. Following this discussion the Managing Director will provide a written response.
+
+If you disagree with this response or the matter remains unresolved, you may appeal by respond in writing. A further meeting will be arranged and the Managing Director will again respond in writing. This decision will be final.
+
+
+### Use of personal devices at work
+Most of us use at least one personal device as part of our work, because it's more convenient than carrying lots of devices around. However, no one is obligated to use a personal device for work. If you need a dxw-provided phone, tablet or other device, please ask for one.
+
+Anyone who does use a personal device must take reasonable care to ensure that it cannot compromise dxw's security. This includes implementing prudent security measures, being mindful that your personal devices could be targeted as part of an attack on dxw or its clients. For example, you might receive an email to your personal email address designed to trick you into revealing a work-related password.
+
+Exactly what security measures are prudent may vary depending on the device and what you're using it for. Some good practice examples are:
+
+- Configuring screens to lock after a period of inactivity
+- Ensuring that data on the device is regularly backed up (eg to the cloud)
+- Encrypting storage, where possible
+- Using good passwords and changing defaults
+- Avoiding connecting devices to untrustworthy networks (internet cafes, security conferences, unencrypted (open) wifi networks, etc)
+
+If you need to use a personal device but cannot take these sorts of measures, you should get permission first.
+
+
+### Expenses
+From time to time, some of us spend our own money at work. Most often, this is things like:
+
+* Train fares for unexpected travel
+* Refreshments purchased for meetings with clients
+* Stationery/materials, especially for workshops or events
+
+dxw will always pay expenses which are:
+
+* __Necessary__: We only expense things we need in order to be able to complete our work
+* __Proportionate__: The total expense should be proportionate to the work at hand. In general, we try to avoid spending lots of money. For example, unless you have a good reason, don't get a cab to a meeting when you could get a train.
+
+Wherever possible, it's best to check that expenses can be reclaimed before incurring them.
+
+We manage expenses using Xero. For more information about how to do this, see the [guide on claiming expenses]()
+
 
 ### The buddy system
 The buddy system is the main way we help each other to perform well and improve our skills. During your first couple of months at dxw, as you get to know the team, you should choose someone and ask them to be your buddy.
@@ -847,36 +943,11 @@ We prefer to assume that everyone wants to improve, and will do so given the tim
 Trying to improve things in secret is a missed opportunity to get help from others. We may each be responsible for our own improvement, but we're also a team: we should help each other. Recording the things we're working on with the buddy Trello is an unintrusive, quick way to ensure that everyone else knows too.
 
 
-### Fearless feedback
-
-### Compensation
-
-## Operations
-
-### Expenses
-From time to time, some of us spend our own money at work. Most often, this is things like:
-
-* Train fares for unexpected travel
-* Refreshments purchased for meetings with clients
-* Stationery/materials, especially for workshops or events
-
-dxw will always pay expenses which are:
-
-* __Necessary__: We only expense things we need in order to be able to complete our work
-* __Proportionate__: The total expense should be proportionate to the work at hand. In general, we try to avoid spending lots of money. For example, unless you have a good reason, don't get a cab to a meeting when you could get a train.
-
-Wherever possible, it's best to check that expenses can be reclaimed before incurring them.
-
-We manage expenses using Xero. For more information about how to do this, see the [guide on claiming expenses]()
-
-
 ### Calendars and documents
 We use Google Apps for Work to manage calendars, write and share documents. There is a dxw folder where we share most of the things we write. If you can't see it when you log in to Google Drive, you'll need to ask someone else to send you the link, and then click "Add to drive".
 
 When we write new things, we try to save them in a sensible folder within the existing structure.
 
-
-### Projects and contacts
 
 ### Protective marking scheme
 Some information that we have is confidential. We use a protective marking scheme so that everyone understands how to handle this material, and who they're allowed to disclose it to. All of the documents and data we hold will fall into one of the categories below.
