@@ -14,11 +14,12 @@ In general:
 
 Do this:
 
-* don't use hyphens to delineate bits of sentences -- like this. Instead, use commas, a colon, or parentheses.
-* capitalise proper nouns, words at the beginning of sentences, and (if appropriate) abbreviations. Nothing else. Don't capitalise every word in a title.
+* don't use hyphens to delineate bits of sentences -- like this. Instead, use commas, a colon, or parentheses
+* capitalise proper nouns, words at the beginning of sentences, and (if appropriate) abbreviations and nothing else
+* don't capitalise every word in a title
 * avoid semicolons unless they are definitely right
 * numbers should use commas: £1,000 not £1000
-* dont get apostrophe's wrong or dxws' reputation will forever be ruined.
+* dont get apostrophe's wrong or dxws' reputation will forever be ruined
 
 ## Tone
 
@@ -38,10 +39,10 @@ It's fine to use these if they really are the best words to use, but be mindful 
 
 Do not use:
 
-* in terms of (Very rarely actually used to describe one thing in terms of another. Often a verbal tick. Can usually just be omitted)
+* in terms of (very rarely actually used to describe one thing in terms of another and is often a verbal tick which can usually just be omitted)
 * look to
-* with regards to 
-* separate out (The 'out' is redundant)
+* with regards to
+* separate out (the 'out' is redundant)
 * we will aim to... (are we doing it or not?)
 
 ## A-Z
