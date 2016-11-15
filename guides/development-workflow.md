@@ -1,5 +1,16 @@
 # Development workflow
 
+- [Development principles](#development-principles)
+- [Introduction](#introduction)
+- [The lifecycle of a story](#the-lifecycle-of-a-story)
+- [Working on a ticket](#working-on-a-ticket)
+- [Deploying](#deploying)
+- [Branching](#branching)
+- [Committing](#committing)
+- [Code review](#code-review)
+- [Code style](#code-style)
+- [Pull requests](#pull-requests)
+
 ## Introduction
 
 <!-- Short intro. Link to playbook for the details -->
