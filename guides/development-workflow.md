@@ -17,7 +17,7 @@
 
 ### Development principles
 
-<!-- Explain where this principles came from and how they change -->
+As part of regular retrospectives we evolve our principles by identifying what works well. When we try something that helps with a particular pattern of problem the team can acknowledge the benefits it brings and introduce it as a principle.
 
 #### Communicate frequently
 
