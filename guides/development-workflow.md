@@ -264,6 +264,10 @@ Writing a good commit message serves three important purposes:
 
 **Convention:**
 
+To help us focus on the contents of our commits and convey concise messages to the reader we use a handful of prefixes. These allow us to move fast when reading through code because we can understand each commit's purpose without risk of misinterpreting the title.
+
+It is a powerful tool for a developer to read a commit that starts with `(refactor):` and trust that no new behaviour was added.
+
 ```
 (feature): when we are adding something new
 (fix): when we are fixing something existing
