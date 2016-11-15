@@ -256,11 +256,13 @@ Force pushing in this situation is the only time it should be necessary, adding 
 
 ## Committing
 
-Writing a good commit message serves three important purposes:
+Taking the time to write good commits is as valuable as writing good code. They record the story of each project, line by line, which makes it possible to understand now and in the future.
 
-* to speed up the review process
-* to encourage individual commits to be small and well bounded
-* to help future maintainers (it could be you) in say 3 years time, to find out why a particular change was made and what context was relevant at the time
+Ask yourself these questions:
+
+* what is the **new** behaviour of the application?
+* have I written down **why** I chose this approach over the others?
+* are there relevant links I could include to help the next person?
 
 **Convention:**
 
