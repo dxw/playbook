@@ -39,7 +39,7 @@ Having the opportunity to see a piece of work through to completion is a great w
 
 #### Do the smallest amount of good work
 
-We aspire to regularly ship [good code](https://robots.thoughtbot.com/what-is-good-code) and delivery it to the users as often as possible. Doing so efficiently requires a balanced approach to development.
+We aspire to regularly ship [good code](https://robots.thoughtbot.com/what-is-good-code) and deliver it to the users as often as possible. Doing so efficiently requires a balanced approach to development.
 
 Good signs:
 - the code is easy to read and understand
