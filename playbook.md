@@ -23,6 +23,8 @@ We build digital public services that are flexible, efficient, effective and use
 
 Ultimately, we want to help the public sector to spend less on technology so that it can spend more on education, healthcare, policing and welfare. We believe that it is possible to use technology and agile principles to help government become something recognisably, radically better: and we want to help make it happen.
 
+dxw helps public sector teams to make good technology decisions and build better services.
+
 ### Values
 We think that it's very important to have a talented team if we're going to succeed. But just as important as raw talent is our ability to work well together. These are the values that we aspire to, and help each other to achieve.
 
