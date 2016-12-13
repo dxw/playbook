@@ -847,6 +847,8 @@ If you're sick but able to work, you can work from home. Everyone at dxw should 
 
 If you're sick for more than 7 calendar days, you'll need to provide a [fit note](https://www.gov.uk/government/publications/the-fit-note-a-guide-for-patients-and-employees) on your return to work. If you're sick for more than 14 calendar days, we will probably want to discuss your situation to see what we can do to help and to understand when/if you are likely to return.
 
+When you return to work, you must check that your sickness has been correctly recorded in BreatheHR, and update it if necessary.
+
 
 ### Working from home
 Generally, we work either at our office or at client sites. But it's usually fine to work from home from time to time, or in order to complete a specific task. If you're working apart from your team, it is essential that you remain contactable and productive, and the onus is on you to be especially communicative.
