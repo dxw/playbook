@@ -831,6 +831,13 @@ Most developers have maintenance responsibilities, which they do during [ticket 
 We do our very best to work to a [sustainable pace](#sustainable-pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during unsociable hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
 
 ### Holiday
+We use BreatheHR to manage holiday requests.
+
+If you want to take holiday, first discuss the dates you plan to be away with your team so that they know when you're planning to go. Then request the holiday through BreatheHR. 
+
+We try very hard to make sure that all holiday requests are granted, irrespective of when they are made. But it's much easier for delivery managers to plan ahead when they have lots of notice, so please don't leave your requests to the last minute.
+
+There is more information about dxw's holiday arrangements in your contract of employment.
 
 
 ### Sickness
