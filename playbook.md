@@ -651,9 +651,6 @@ The second way we find people is by advertising. We advertise jobs on StackOverf
 
 The third way we find people is by making sure we're regularly blogging about what we're doing, and being open about our culture, work and process. We accept [general applications](https://www.dxw.com/jobs/general-application/) from people who are interested in dxw but who don't fit an open job.
 
-There's a page on [Zealify](http://www.zealify.com/companies/dxw/) with a video and some other content about what it's like to work at dxw.
-
-
 ### Review applications
 All applications arrive via Workable. We review these applications as a team to decide who to take forward.
 
