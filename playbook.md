@@ -729,6 +729,42 @@ TODO. This section to cover:
 * The probation period, meeting and expectations
 * ...more things.
 
+#### Joining
+
+##### Helper check in guidance
+These questions are to guide the conversations about the new starters experience and to give feedback you have on how the new starter is doing. They should be presented as a conversation rather than a list of questions.
+
+Following the meeting, some notes should be made and emailed to Harry and Vee to be added to the employee file.
+
+3 week (helper and new starter)
+- Is the new starter clear what is expected of them?
+- What would they like to do more of/less of?
+- What would they like others to do more of/less of?
+- Do they have all the tools you need to do their job?
+- Who have they not had a chance to speak to? Are there people they don’t quite recognise or know what they do?
+- If there was one thing you would change about dxw, what would it be?
+
+6 week (helper, new starter and DM)
+- Are they clear what is expected of them?
+- What would they like to do more of/less of?
+- What would they like others to do more of/less of?
+- Have any issues arisen that they haven't been able to speak to their project team or Delivery Manager about.
+- What one thing do they want to change about dxw? 
+
+12 week probation (Harry or Dave, helper and new starter)
+As part of this last meeting it is important to give positive feedback. Spend a little time talking to different people who have worked with the new starter and let them know what we have seen going well. Start with a general topic and see if there are any other role specific bits of feedback:
+- working in a team
+- working with clients
+- problem solving
+- communication
+
+Questions
+- Are they clear what is expected of them?
+- What has gone well?
+- What has gone less well?
+- What one thing do they want to change about dxw? 
+- Have they chosen a buddy going forwards?
+
 ### The buddy system
 The buddy system is the main way we help each other to perform well and improve our skills. During your first couple of months at dxw, as you get to know the team, you should choose someone and ask them to be your buddy.
 
