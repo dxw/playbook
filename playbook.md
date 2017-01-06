@@ -166,7 +166,7 @@ A user story is a succinct explanation of some work that will be done in order t
 
 Breaking everything down into user stories allows us to be confident that everything we develop is responding to [user needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html). By using this story format, we directly associate a feature we're building with the group of users who want it and the needs that they have.
 
-We keep lists of stories in a tracking tool. For most projects, this is Pivotal Tracker. These tools usually require a title for the story. We use the story itself to make the title, by rearranging it to reflect the new state of the system after the work is complete. For example:
+We keep lists of stories in Trello. We use user needs to create the title of a story, by rearranging it to reflect the new state of the system after the work is complete. For example:
 
 > As an administrator, so that I can ensure I don't publish defamatory comments, I want to be able to review and approve comments before they are shown.
 
@@ -174,7 +174,7 @@ Might have a title of:
 
 > Administrators can review and approve comments before they are shown
 
-Each story will also contain a list of acceptance criteria. Acceptance criteria are a collection of statements about the functionality of the service which must be true in order for the story to be considered "done".
+Each user story will also contain a list of acceptance criteria. Acceptance criteria are a collection of statements about the functionality of the service which must be true in order for the story to be considered "done".
 
 For more information about writing good stories, read User Stories Applied by Mike Cohn. There is a copy of this book in the dxw library.
 
@@ -182,14 +182,14 @@ For more information about writing good stories, read User Stories Applied by Mi
 #### Lifecycle of a story
 <!-- TODO: This section should be an explanation of what happens to a story as it is worked on, focussing on "why" rather than "how" and explaining the philosophy. -->
 
-There are several states that a story has to go through in order to be deployed to production. We use tracking tools and physical story boards to keep track of which stage a given story is in.
+There are several states that a story has to go through in order to be deployed to production. We use Trello and physical story boards to keep track of which stage a given story is in.
 
-* **Started**: A developer has started working on the story, making changes to the product to ensure that each acceptance criterion is met
-* **Code review**: The first developer has finished their work, and is ready for a second developer to [review](#Code reviews) the technical aspects of the story in a [pull request](#Pull request)
-* **Acceptance review**: The two developers have finished the review and the story is now merged, and ready for the delivery manager to review against its acceptance criteria
-* **Client review**: The delivery manager has confirmed that the story is done, and it's ready for a client to review
-* **Ready to deploy**: The client has accepted the story and it's ready to deploy
-* **Deployed**: The story is deployed to production
+* **In progress**: A developer has started working on the story, making changes to the product to ensure that each acceptance criterion is met
+* **Awaiting review**: The developer has finished the story and is ready for a second developer to [review](#Code reviews) the technical aspects of the story in a [pull request](#Pull request)
+* **Code review**: The story is being reviewed by the second developer who leaves feedback if the pull request is not ready to be merged and needs further work
+* **DM/client review**: The two developers have finished the review and the story is now merged and pushed to staging. It is ready for a delivery manager and the client to review against its acceptance criteria
+* **Accepted**: The client has accepted the story and it's ready to deploy to production
+* **Done**: The story is deployed to production
 
 
 ### Managing delivery
@@ -263,10 +263,8 @@ If a client asks us to do something in person, on the phone or via email, we pol
 
 For these reasons, we do not do any work at all on a client site unless we are on a sprint or working on a relevant ticket. This is really important.
 
-### Ticket time
-We work on tickets every day. Developers get 1.5-2 hours per day to work on their tickets. This applies every day, including when we're working on sprints. This is reflected in the cost of our sprints - they are 10 days long, but we only charge for 8.
-
-If you don't have any tickets of your own to do, see if you can take one over from someone else in the team, or pick up a new one. There is almost always something to do.
+### Support sprints
+We work on tickets by having a developer on a support sprint. Developers are assigned to support for two weeks at a time and work on tickets for the duration of the sprint. If there is a ticket they need another developer to help with, this work is scheduled for a Friday.
 
 ### Client experience (AKA: ticket principles)
 
@@ -292,7 +290,7 @@ In general:
 * We are personable, friendly and helpful
 * If things look like they're going to get difficult, or the client seems unhappy, we are honest, and assume good faith
 * If appropriate, we are apologetic. If we screw something up, we take responsibility and apologise. If the client seems very upset, we let a delivery manager know.
-* If we do become annoyed or frustrated by a ticket, we respond later or reassign it.
+* If we do become annoyed or frustrated by a ticket, we respond later or speak to a DM about reassigning it.
 
 
 #### Don't over-deliver
@@ -311,9 +309,9 @@ All tickets that arrive on the helpdesk go through a number of stages in the cou
 
 When a new ticket arrives, it is automatically assigned to the Front-line Support group. All agents in this group receive an email to alert them.
 
-The Font-line Support group is monitored by whoever in operations is on call. It's their responsibility to review tickets as they arrive, and decide what to do with them. If they can deal with the issue, or if can complete an [initial investigation](#initial-investigation) into the problem, they do so.
+The Front-line Support group is monitored by whoever in operations is on call. It's their responsibility to review tickets as they arrive, and decide what to do with them. If they can deal with the issue, or if can complete an [initial investigation](#initial-investigation) into the problem, they do so.
 
-If not, they will assign it to someone in the Developers group. Whenever assigning a ticket, we try to choose the person we think will be best placed to solve the issue. This will usually be someone who is currently sprinting on the project, or who has worked on it in the past. If you're not sure, ask a delivery manager.
+If not, they will assign it to the developer on support. Sometimes tickets are assigned to a delivery manager if it looks like chargeable work or requires a conversation with the client.
 
 As tickets are arriving, we also think about whether they might be related to other tickets that we've already received. For example, if we get several tickets from different clients about similar-sounding issues, that might be indicative of a wider problem. Or, if a single client sends lots of tickets within a short time, it might be wise to assign a delivery manager to oversee them all and ensure that the requests make sense when considered as a group.
 
