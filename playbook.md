@@ -146,25 +146,42 @@ We don't only do research in discovery phases. We do our best to ensure that res
 
 
 ### Development sprints
-We build services in sprints, which are fixed-length periods of delivery work with a particular team.
+We work in sprints, which are fixed-length periods of delivery work with a particular team.
 
-At dxw, sprints start with a planning session and end with two retrospective sessions: one internal, and one with the client. Both sessions involve all members of the project team (developers, user researcher, and delivery manager) and the product owner from the client side. Sometimes, retros include more of the client team.
-
-The sprint planning session is used to decide which stories will be worked on during the upcoming sprint, and to ensure that they are [well-formed](#stories). During this session, developers estimate the effort required to finish each story. Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers should also advise at this point if there are any dependencies the client should be aware of.
-
-Design and development is worked on in parallel during the sprint. Because we design in browser and avoid separating development and user experience work, it's important when giving stories points to think both about the design and the development effort that will be required.
-
-At the end of the sprint we have a retrospective. During a retrospective, we discuss what went well, what didn’t, and what actions should be taken to improve things for the next sprint.
+At dxw, sprints are two weeks long. On the first day of the sprint we facilitate a planning session and at the end of the sprint we finish with a show and tell and retrospective. These sessions involve all members of the development team (developers, designers, user researchers and delivery managers) and the product owner from the client side. Sometimes these sessions include more of the client team.
 
 
-#### Stories
-We document development work that needs to be completed using [user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html). .
+#### Sprint planning
+Sprints begin with a planning session, where the full team (dxw and the client) review and prioritise the stories in the backlog. Working together, we discuss the stories that we are prioritising for the current sprint, ensuring that they are [well-formed](#stories) and understood by the full team.
+
+Often this involves writing new stories and updating existing ones, but we try to avoid this becoming the main purpose of the meeting. In our experience, sprint planning is much more useful when the [stories are written in advance](#backlog-grooming).
+
+During this session, developers estimate the effort required to finish each story. We always estimate stories based on complexity, not the time we think it will take to finish it.
+
+Design and development is worked on in parallel during a sprint. Because we design in browser and avoid separating development and user experience work, it's important when giving stories points to think both about the design and the development effort that will be required.
+
+Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers also advise the rest of the team at this point if there are any dependancies the client should be aware of.
+
+By the end of this session, the full team should be confident about the goal of the sprint and what is being worked on.
+
+#### Daily standups
+
+Every morning the delivery manager facilitates a standup. Standups last 5-10 minutes and is for the developers to discuss what they're working on and whether there are any problems or dependencies. If we're not co-located with a client, these happen over Talky or Google Hangout.
+
+#### Retrospectives
+At the end of every sprint, the delivery manager facilitates a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. We talk about what went well, what didn't, and what actions should be taken to improve things for the next sprint. These sessions are attended by all the people involved in delivering the sprint along with the client team.
+
+#### Backlog grooming
+At regular intervals the team look through the sprint backlog to reprioritise and update stories, based on things we've learned during delivery and from user research. Stories that are no longer needed are deleted, stories that may be needed later or are blocked move to the icebox and all other stories are reprioritised for future sprints.
+
+#### User stories
+We document development work that needs to be completed by writing [user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html). .
 
 A user story is a succinct explanation of some work that will be done in order to meet the needs of a particular kind of user. They are usually structured into a sentence, of the form:
 
 > As a [kind of user], so that I can [meet a need], I want [a feature in the product]
 
-Breaking everything down into user stories allows us to be confident that everything we develop is responding to [user needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html). By using this story format, we directly associate a feature we're building with the group of users who want it and the needs that they have.
+Breaking everything down into user stories allows us to be confident that everything we develop is meeting [user needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html). By using this story format, we directly associate a feature or piece of functionality we're building with the group of users who want it and the needs that they have.
 
 We keep lists of stories in Trello. We use user needs to create the title of a story, by rearranging it to reflect the new state of the system after the work is complete. For example:
 
@@ -176,7 +193,7 @@ Might have a title of:
 
 Each user story will also contain a list of acceptance criteria. Acceptance criteria are a collection of statements about the functionality of the service which must be true in order for the story to be considered "done".
 
-For more information about writing good stories, read User Stories Applied by Mike Cohn. There is a copy of this book in the dxw library.
+For more information about writing good stories, we recommend reading User Stories Applied by Mike Cohn. There is a copy of this book in the dxw library.
 
 
 #### Lifecycle of a story
@@ -193,7 +210,7 @@ There are several states that a story has to go through in order to be deployed 
 
 
 ### Managing delivery
->"The delivery manager sets the team up for successful delivery. Remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done."
+>"The delivery manager sets the team up for successful delivery. They remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done."
 >
 >-- <cite>[Government Digital Service](https://www.gov.uk/service-manual/the-team/delivery-manager.html)</cite>
 
@@ -201,26 +218,7 @@ At dxw, delivery managers ensure that sprints go smoothly and that the team rema
 
 Throughout a sprint, delivery managers ensure that agreed process is followed, organising and facilitating discussions as required. They run sprint planning and retrospective sessions. They run daily standups with the dxw and client teams to keep everyone informed and to discuss and resolve any blockers.
 
-Outside these session and standups, they will maintain regular communication with the client and the delivery team to respond quickly to challenges as they arise. If priorities change during a sprint, the delivery manager will work with the client to understand and plan for the impact of the change.
-
-#### Sprint planning
-Sprints begin with a planning session, where the full team (dxw and the client) review and prioritise the stories in the backlog. Working together, we discuss the stories that we are prioritising for the current sprint, ensuring that they are [well-formed](#stories) and understood by the full team.
-
-Often, this involves adding and updating stories, but we try to avoid this becoming the main purpose of the meeting. In our experience, sprint planning is much more useful when the [stories are written in advance](#backlog-grooming).
-
-By the end of this session, the full team should be confident that there is enough work to occupy the sprint, and that everyone fully understands what's needed.
-
-#### Daily standups
-
-TODO
-
-#### Retrospectives
-At the end of every sprint, the delivery manager facilitates a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. These sessions are attended by all the people involved in delivering the sprint along with the client team.
-
-During the session we talk about the things that did and didn't go well, we then agree actions to improve the delivery of future work.
-
-#### Backlog grooming
-At regular intervals (often at the end of retrospective sessions) the team will look through the sprint backlog to reprioritise and update stories, based on things we've learned during delivery and from user research. Stories that are no longer needed can be deleted, stories that may be needed later can be moved to the icebox and all other stories should be reprioritised for future sprints.
+Outside of these session and standups, they maintain regular communication with the client and the delivery team to respond quickly to challenges as they arise. If priorities change during a sprint, the delivery manager works with the client to understand and plan for the impact of the change.
 
 
 ## Products
