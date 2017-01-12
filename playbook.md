@@ -17,7 +17,7 @@ The web has revolutionised the way society works. Most of society has reaped the
 
 Since dxw was founded in 2008, a lot of things have become better. The Government Digital Service has changed the conversation about how and why services get built, and many are much better as a result. But the challenge facing the public sector is not one that any organisation could tackle alone.
 
-In addition to talented in-house teams who understand how to deliver great services, the public sector needs talented suppliers who understand how to work with it. And who are driven by a desire to make public services better. And who understand how to combine a modern technogical approach with agile principles of development and user-centricity. That's what dxw is here to do.
+In addition to talented in-house teams who understand how to deliver great services, the public sector needs talented suppliers who understand how to work with it. And who are driven by a desire to make public services better. And who understand how to combine a modern technological approach with agile principles of development and user-centricity. That's what dxw is here to do.
 
 We build digital public services that are flexible, efficient, effective and useful. We want people's experience of those services to be straightforward, positive and seamless. We believe that in building those services using agile principles, we can help government to embed those same principles in other parts of their organisations.
 
@@ -86,7 +86,7 @@ We do our very best to work to a [sustainable pace](#sustainable-pace). But some
 ### Changes to this document
 This playbook is a collaborative effort. If you spot something that's wrong, feel free to hop in and correct it. But remember that this playbook is the result of our conversations about how we should do things, not a substitute for one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
 
-If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect speelings and other minor errors.
+If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect spellings and other minor errors.
 
 ## Building services
 ### Client experience
@@ -149,7 +149,7 @@ We build services in sprints, which are fixed-length periods of delivery work wi
 
 At dxw, sprints start with a planning session and end with two retrospective sessions: one internal, and one with the client. Both sessions involve all members of the project team (developers, user researcher, and delivery manager) and the product owner from the client side. Sometimes, retros include more of the client team.
 
-The sprint planning session is used to decide which stories will be worked on during the upcoming sprint, and to ensure that they are [well-formed](#stories). During this session, developers estimate the effort required to finish each story. Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers should also advise at this point if there are any dependancies the client should be aware of.
+The sprint planning session is used to decide which stories will be worked on during the upcoming sprint, and to ensure that they are [well-formed](#stories). During this session, developers estimate the effort required to finish each story. Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers should also advise at this point if there are any dependencies the client should be aware of.
 
 Design and development is worked on in parallel during the sprint. Because we design in browser and avoid separating development and user experience work, it's important when giving stories points to think both about the design and the development effort that will be required.
 
@@ -343,7 +343,7 @@ Pending tickets will not appear in the list of tickets or in the views for the F
 
 Tickets which are pending will also be closed automatically after a set period of time if the client does not respond. They will get reminders before this happens. If a pending ticket you are assigned to is closed because the client didn't reply in time, both you and the client will get an email, so you can open it again if you think that's best.
 
-Because pending tickets will be auto-closed if there's no reply, it's also important to check and set the *How much work was this?* field to give an approximatation of the total time the team spent on the issue. Or, select *chargeable* if it's a ticket we'll invoice for.
+Because pending tickets will be auto-closed if there's no reply, it's also important to check and set the *How much work was this?* field to give an approximation of the total time the team spent on the issue. Or, select *chargeable* if it's a ticket we'll invoice for.
 
 When assigning a ticket to another agent, we do not set it to pending, otherwise they probably won't see it.
 
@@ -448,7 +448,7 @@ Only people who have been registered in Zendesk are permitted to submit tickets.
 
 Tickets received from unregistered users are put into the Suspended Tickets view with a reason of "permission denied". We receive a digest email on the systems email to let us know what is in the suspended queue.
 
-If we see a suspended ticket that looks legitimate, we create a ticket for the project owner and ask if the user should be added. If they can be added, we create them in Clients and Projects as a contact on the appropriate project, and then recover the ticket from the suspended list. If the new user should't be added, we delete the ticket and ask the project owner to resubmit it if required.
+If we see a suspended ticket that looks legitimate, we create a ticket for the project owner and ask if the user should be added. If they can be added, we create them in Clients and Projects as a contact on the appropriate project, and then recover the ticket from the suspended list. If the new user shouldn't be added, we delete the ticket and ask the project owner to resubmit it if required.
 
 If we receive a suspended ticket from someone who is not a contact but is adding useful information, add the information to the relevant ticket as an internal note and then delete the suspended ticket. We make sure the internal note mentions who the information came from.
 
@@ -552,7 +552,7 @@ To do this, we:
 * Make sure the work that they need is something we can do
 * Check that we'd be able to complete the work in time for whatever deadlines they have
 
-When we mark a deal as Qualfied, we update the summary to ensure that it accurately reflects the client's user needs and vision.
+When we mark a deal as Qualified, we update the summary to ensure that it accurately reflects the client's user needs and vision.
 
 ### Budgets
 
@@ -562,7 +562,7 @@ Where we don't think we could do what the client needs within their budget, we e
 
 Where clients have a larger budget than we think they need, we say that too. This usually means explaining why we're able to do the work for less than they thought. We also think about what extra things we could do to improve their chances of success, and suggest extra work they could do.
 
-Where a budget is disclosed that's more than we think is necessary, we usually propose a peice of work that uses that budget fully. But we're always open, and tell them that we've done this, and that we'd be delivering more than the minimum. And we're always happy to win a smaller bit of work than the client thought they'd need. We try to structure these proposals so that the extra work is easy to remove.
+Where a budget is disclosed that's more than we think is necessary, we usually propose a piece of work that uses that budget fully. But we're always open, and tell them that we've done this, and that we'd be delivering more than the minimum. And we're always happy to win a smaller bit of work than the client thought they'd need. We try to structure these proposals so that the extra work is easy to remove.
 
 
 ### Sales meetings
@@ -613,7 +613,7 @@ There aren't any strict rules about what projects we take on, except that the ul
 
 ### Winning work
 
-When we win work, we mark it as Won in PipelineDeals. We amend the budget, closing date and services sold if necessary. We write to the client to thank them and ask them for a convenient time to meet and start the work. We create invoices in Xero and save them as drafts, so we don't foget to bill them. And we add the project's sprints and other work to Forecast, so that the team can see who's working on what.
+When we win work, we mark it as Won in PipelineDeals. We amend the budget, closing date and services sold if necessary. We write to the client to thank them and ask them for a convenient time to meet and start the work. We create invoices in Xero and save them as drafts, so we don't forget to bill them. And we add the project's sprints and other work to Forecast, so that the team can see who's working on what.
 
 
 ### Losing work
@@ -636,7 +636,7 @@ Each candidate moves through a number of stages before being offered a job or de
 We feel strongly that it's important to be respectful of candidates time and interest in us, and that their attention is valuable. So we do our best to be responsive, human and open. It's particularly important to give unsuccessful candidates good, thorough feedback about why we haven't made them an offer.
 
 ### Job descriptions
-Before we decide to advertise a new job, we write a job description. This helps us make sure we all agree on what we need, and helps candidates to know if their skills are a good fir for the job. A good job description has three parts:
+Before we decide to advertise a new job, we write a job description. This helps us make sure we all agree on what we need, and helps candidates to know if their skills are a good for for the job. A good job description has three parts:
 
 1. A description of what the person in this job will do
 2. A list of their responsibilities
@@ -738,7 +738,7 @@ During each meeting, we add cards to the [buddy trello](https://trello.com/b/Tmi
 
 The buddy system is there to help us all improve, to make sure we're doing the right kind of work and to check that we're dealing with practical problems we're facing. It's not line management, so it's not the right place to talk about holiday, salary, sickness, absence or anything disciplinary. If you need to talk about those things, talk to Vee or Harry.
 
-There are a two main ideas that underpin this system.
+There are two main ideas that underpin this system.
 
 #### We are each responsible for our own improvement
 Before this system, we had regular performance reviews. They were supposed to be quarterly but generally ended up being annual. They didn't work very well, and were very top-down. We don't think this is the right way.
@@ -827,7 +827,7 @@ This information:
 
 
 #### Company Confidential
-This category is used for information which should not be communicated outisde dxw. For example, details about how we operate security controls or internal discussions about client work.
+This category is used for information which should not be communicated outside dxw. For example, details about how we operate security controls or internal discussions about client work.
 
 Exactly the same controls apply to this information as detailed under Management-in-confidence, with the exception that Company Confidential information can be shared within the dxw as required.
 
