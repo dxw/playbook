@@ -48,9 +48,9 @@ We are reliable, consistent and committed. We make every effort to live up to ea
 
 #### Agile mindset
 
-At dxw, we think that agile is a mindset that’s accepting of change, curious about trying new approaches to make things better, and values careful planning in short chunks. 
+At dxw, we think that agile is a mindset that’s accepting of change, curious about trying new approaches to make things better, and values careful planning in short chunks.
 
-We think that the [Agile Manifesto](http://agilemanifesto.org/) contains a lot of wisdom, but we don’t follow the industry of methodologies, training and certifications that has grown up around it. We think agile is something you learn to be, not something that you learn to do. 
+We think that the [Agile Manifesto](http://agilemanifesto.org/) contains a lot of wisdom, but we don’t follow the industry of methodologies, training and certifications that has grown up around it. We think agile is something you learn to be, not something that you learn to do.
 
 Our teams frequently experiment with different tools and techniques so we can improve. This applies not only to development work, but to everything we do at dxw, from user research to business operations.
 
@@ -73,17 +73,11 @@ We release [code](http://www.github.com/dxw), publish our [contracts](http://www
 However, there are some things that we must keep private.
 
 - Our clients trust us to host content that is not public, like upcoming announcements and discussions made as part of formulating new policy. This is not our information to be open about, and it's very important to keep it confidential.
-- We also hold some personal data on and on behalf of our clients. We never share any of this data, including contact details.
+- We also hold some personal data about and/or on behalf of our clients. We never share any of this data, including contact details. See also: [data protection](#data-protection).
 - We are sometimes sent documents that are [protectively marked](#protective-marking-scheme), and we have a protective marking scheme of our own. Information in these documents is confidential.
+- Information about work that is currently being procured (whether we are bidding or not) and any other information that could damage the commercial interests of a client or supplier
 
-### Time
-Our working hours are 10:00-18:00, Monday to Friday. Some people work different hours by arrangement. Anyone is free to do that as long as their hours of work don't make it hard for other people to get things done. For example, many people arrive earlier than 10:00 and leave earlier, which is generally fine.
-
-We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:00. If you miss the stand-up, then you are late.
-
-Most developers have maintenance responsibilities, which they do during [ticket time](#ticket-time).
-
-We do our very best to work to a [sustainable pace](#sustainable-pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during unsociable hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
+If you want to talk about something, and you're not sure if it's confidential, play it safe: ask a colleague.
 
 
 ### Changes to this document
@@ -91,7 +85,9 @@ This playbook is a collaborative effort. If you spot something that's wrong, fee
 
 If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect spellings and other minor errors.
 
+
 ## Building services
+
 ### Client experience
 
 #### Responsiveness
@@ -719,8 +715,6 @@ TODO. This section to cover:
 * Discussing the results
 * Offer if we are sure they are right
 
-## Working at dxw
-
 ### Offer, joining and probation
 
 TODO. This section to cover:
@@ -732,46 +726,105 @@ TODO. This section to cover:
 * The probation period, meeting and expectations
 * ...more things.
 
-### The buddy system
-The buddy system is the main way we help each other to perform well and improve our skills. During your first couple of months at dxw, as you get to know the team, you should choose someone and ask them to be your buddy.
 
-As soon as you have a buddy, you'll meet regularly with them to talk about how you're doing. You can talk about things you'd like to improve, problems you're having or new things you'd like to do. After you've discussed what you want to achieve, you'll decide together how best to go about it. In your regular meetings, you'll talk about what's working well and what's not, and decide if you need to change something.
+## Working arrangements
 
-During each meeting, we add cards to the [buddy trello](https://trello.com/b/TmiYBPZg/buddy-chats), so that the rest of the team know what you're working on and can help. If you want to talk about something private, you can. You don't have to put everything on the board. But the presumption is that we do, unless there's a good reason not to.
+### Time
+Our working hours are 10:00-18:00, Monday to Friday. Some people work different hours by arrangement. Anyone is free to do that as long as their hours of work don't make it hard for other people to get things done. For example, many people arrive earlier than 10:00 and leave earlier, which is generally fine.
 
-The buddy system is there to help us all improve, to make sure we're doing the right kind of work and to check that we're dealing with practical problems we're facing. It's not line management, so it's not the right place to talk about holiday, salary, sickness, absence or anything disciplinary. If you need to talk about those things, talk to Vee or Harry.
+We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:00. If you miss the stand-up, then you are [late](#lateness).
 
-There are two main ideas that underpin this system.
+Most developers have maintenance responsibilities, which they do during [ticket time](#ticket-time).
 
-#### We are each responsible for our own improvement
-Before this system, we had regular performance reviews. They were supposed to be quarterly but generally ended up being annual. They didn't work very well, and were very top-down. We don't think this is the right way.
-
-We prefer to assume that everyone wants to improve, and will do so given the time and space to work on it. The buddy system is there to provide a set of prompts to ensure that this happens, and an explicit time to talk about it.
-
-#### It's best to be open
-Trying to improve things in secret is a missed opportunity to get help from others. We may each be responsible for our own improvement, but we're also a team: we should help each other. Recording the things we're working on with the buddy Trello is an unintrusive, quick way to ensure that everyone else knows too.
+We do our very best to work to a [sustainable pace](#sustainable-pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during unsociable hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
 
 
-### Fearless feedback
+### Holiday
+We use BreatheHR to manage holiday requests.
 
-### Compensation
+If you want to take holiday, first discuss the dates you plan to be away with your team so that they know when you're planning to go. Then request the holiday through BreatheHR.
 
-### Benefits
+We try very hard to make sure that all holiday requests are granted, irrespective of when they are made. But it's much easier for delivery managers to plan ahead when they have lots of notice, so please don't leave your requests to the last minute.
 
-#### Pensions
+There is more information about dxw's holiday arrangements in your contract of employment.
 
-#### Conference Perk
-We think it's important to cultivate interests outside work, and that investing time in this brings benefits to dxw.
 
-So, in addition to going to conferences relevant to their roles, everyone who works at dxw is able to attend one conference per year about anything that they'd like.
+### Sickness
+If you are sick, you must let us know as soon by 10:00, or as soon as is reasonably practical. Do not come to the office. If you come to the office when sick, you may be sent home again.
 
-On request, dxw will cover the cost of a conference ticket, travel and accommodation, anywhere in reach of a budget flight.
+If you're sick but able to work, you can work from home. Everyone at dxw should have a laptop, and should generally take it home with them in case it's needed. If you're sick and at home but don't have your laptop, it can be couriered to you.
 
-#### Cycle to work scheme
+If you're sick for more than 7 calendar days, you'll need to provide a [fit note](https://www.gov.uk/government/publications/the-fit-note-a-guide-for-patients-and-employees) on your return to work. If you're sick for more than 14 calendar days, we will probably want to discuss your situation to see what we can do to help and to understand when/if you are likely to return.
 
-#### Book purchase
+When you return to work, you must check that your sickness has been correctly recorded in BreatheHR, and update it if necessary.
 
-## Operations
+
+### Working from home
+Generally, we work either at our office or at client sites. But it's usually fine to work from home from time to time, or in order to complete a specific task. If you're working apart from your team, it is essential that you remain contactable and productive, and the onus is on you to be especially communicative.
+
+If you are working from home, you must record this as an absence in BreatheHR. There is a category, "WFH", for this purpose.
+
+### Data protection
+
+Though dxw doesn't control much personal data, our clients generally do. And some of it may be held on sites that we host. Everyone at dxw has a responsibily to keep that data safe, and process it in accordance to the [data protection principles](https://www.gov.uk/data-protection/the-data-protection-act).
+
+In particular, we:
+
+- Only process personal data as part of work on the service that we're contracted to provide to a client
+- Don't access personal data unless we need to in order to do our jobs: don't read people's personal data or private communications without good reason
+- We do not ever disclose people's personal data to anyone outside dxw unless specifically instructed, and are satisfied that it is legal to do so
+
+If you have any questions about data protection, talk to Harry.
+
+
+### Your details
+Please tell us promptly if your name, address, telephone number or next of kin details change.
+
+
+### Disciplinary procedure
+If you do something that we feel constitutes misconduct, or your performance in your job has been poor, we'll talk to you about it. Hopefully, there's just been some misunderstanding, or some problem that's easy to solve and won't recur. Formal action will not be taken without careful investigation of the facts.
+
+If we feel it's appropriate, we may verbally warn you, explaining what has been unacceptable and what you need to do to improve your conduct or performance.
+
+If your conduct or performance fails to improve following a verbal warning, or if the matter is serious enough that a verbal warning is not appropriate, we may hold a disciplinary meeting at which you may be accompanied or represented by a colleague or trade union official. Following this meeting, we may:
+
+- Conclude that no misconduct has taken place, or that there is no poor performance
+- Issue you with a written warning, which will explain:
+  - The nature of the misconduct or poor performance
+  - The change to your behaviour or performance that you need to make
+  - The time within which the change needs to be made
+  - The consequences of not making the change (for example, dismissal)
+- In cases of gross misconduct, dismiss you without notice
+
+If you disagree with the outcome of this hearing, you may appeal against the decision. You must do this in writing. If you do so, your appeal and the circumstances of your case will be reviewed by a member of staff who has not been involved in your case before. That member of staff and the Managing Director will then meet to discuss your case, and will either uphold the outcome or schedule another disciplinary meeting. dxw's decision following that meeting will be final.
+
+
+### Grievances
+If you have a grievance about your employment or a complaint about another member of staff, talk to the Managing Director as soon as possible.
+
+The first step is to discuss the problem to see if it can be quickly resolved.
+
+If this discussion does not satisfactorily resolve the problem, you should put details of your grievance in writing and send it to the Managing Director. They will arrange a meeting to discuss the matter, at which you may be accompanied by a colleague or trade union official. Following this discussion the Managing Director will provide a written response.
+
+If you disagree with this response or the matter remains unresolved, you may appeal by respond in writing. A further meeting will be arranged and the Managing Director will again respond in writing. This decision will be final.
+
+
+### Use of personal devices at work
+Most of us use at least one personal device as part of our work, because it's more convenient than carrying lots of devices around. However, no one is obligated to use a personal device for work. If you need a dxw-provided phone, tablet or other device, please ask for one.
+
+Anyone who does use a personal device must take reasonable care to ensure that it cannot compromise dxw's security. This includes implementing prudent security measures, being mindful that your personal devices could be targeted as part of an attack on dxw or its clients. For example, you might receive an email to your personal email address designed to trick you into revealing a work-related password.
+
+Exactly what security measures are prudent may vary depending on the device and what you're using it for. Some good practice examples are:
+
+- Configuring screens to lock after a period of inactivity
+- Ensuring that work-related data on the device is regularly backed up
+- Encrypting storage
+- Using good passwords and changing defaults
+- Avoiding connecting devices to untrustworthy networks (internet cafes, security conferences, unencrypted (open) wifi networks, etc)
+- Disposing of your device securely when you no longer need it
+
+If you need to use a personal device but cannot take these sorts of measures, you should get permission first.
+
 
 ### Expenses
 From time to time, some of us spend our own money at work. Most often, this is things like:
@@ -790,13 +843,31 @@ Wherever possible, it's best to check that expenses can be reclaimed before incu
 We manage expenses using Xero. For more information about how to do this, see the [guide on claiming expenses]()
 
 
+### The buddy system
+The buddy system is the main way we help each other to perform well and improve our skills. During your first couple of months at dxw, as you get to know the team, you should choose someone and ask them to be your buddy.
+
+As soon as you have a buddy, you'll meet regularly with them to talk about how you're doing. You can talk about things you'd like to improve, problems you're having or new things you'd like to do. After you've discussed what you want to achieve, you'll decide together how best to go about it. In your regular meetings, you'll talk about what's working well and what's not, and decide if you need to change something.
+
+During each meeting, we add cards to the [buddy trello](https://trello.com/b/TmiYBPZg/buddy-chats), so that the rest of the team know what you're working on and can help. If you want to talk about something private, you can. You don't have to put everything on the board. But the presumption is that we do, unless there's a good reason not to.
+
+The buddy system is there to help us all improve, to make sure we're doing the right kind of work and to check that we're dealing with practical problems we're facing. It's not line management, so it's not the right place to talk about holiday, salary, sickness, absence or anything disciplinary. If you need to talk about those things, talk to Vee or Harry.
+
+There are a two main ideas that underpin this system.
+
+#### We are each responsible for our own improvement
+Before this system, we had regular performance reviews. They were supposed to be quarterly but generally ended up being annual. They didn't work very well, and were very top-down. We don't think this is the right way.
+
+We prefer to assume that everyone wants to improve, and will do so given the time and space to work on it. The buddy system is there to provide a set of prompts to ensure that this happens, and an explicit time to talk about it.
+
+#### It's best to be open
+Trying to improve things in secret is a missed opportunity to get help from others. We may each be responsible for our own improvement, but we're also a team: we should help each other. Recording the things we're working on with the buddy Trello is an unintrusive, quick way to ensure that everyone else knows too.
+
+
 ### Calendars and documents
 We use Google Apps for Work to manage calendars, write and share documents. There is a dxw folder where we share most of the things we write. If you can't see it when you log in to Google Drive, you'll need to ask someone else to send you the link, and then click "Add to drive".
 
 When we write new things, we try to save them in a sensible folder within the existing structure.
 
-
-### Projects and contacts
 
 ### Protective marking scheme
 Some information that we have is confidential. We use a protective marking scheme so that everyone understands how to handle this material, and who they're allowed to disclose it to. All of the documents and data we hold will fall into one of the categories below.
@@ -854,6 +925,25 @@ As a rule of thumb, label a document as Client Confidential if it mostly contain
 Anything not captured by the sections above is unclassified. Examples are external marketing material, general emails and letters.
 
 Beyond a general duty to treat information carefully, unclassified information is not subject to any specific restrictions.
+
+### Benefits
+
+#### Pensions
+dxw will provide a pension which is operated by Aviva. We are in the process of setting this pension up, and will add more details here as soon as they are finalised. We expect the first deductions to be made around May 2017.
+
+#### Conference Perk
+It's important to cultivate interests outside work, and we believe that investing time in this brings benefits to dxw.
+
+So, in addition to going to conferences relevant to our roles, everyone who works at dxw is able to attend one conference per year about anything that they'd like.
+
+On request, dxw will cover the cost of a conference ticket, travel and accommodation, anywhere in reach of a budget flight.
+
+#### Cycle to work scheme
+dxw operates a cycle-to-work scheme, which may allow you to purchase a bicycle at reduced cost. If you would like to take this up, speak to Vanessa.
+
+#### Book purchase
+If there is a book relevant to your work that you would like to read, let Vanessa or Leanne know and they will buy it for the library.
+
 
 ## Sharing
 
