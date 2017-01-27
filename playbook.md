@@ -970,33 +970,20 @@ The most important thing to remember is that you'll leave the best impression - 
 
 
 ### Blog
-We are trying really hard at dxw to encourage everyone to write a bit more; from a new starter’s  ‘dxw initiation’ of writing an introductory post, to writing something that is interesting and informative about dxw and the work we do.
+At dxw, we all write blog posts regularly.
 
-#### Why do we blog?
+We blog because want to share what we're doing and what we're learning about tech and government with the digital community. When we're hiring, we also want potential new staff to be able to to get to know us a bit beforehand. Writing introductory blog posts and following up with communicating about the work we do helps people gauge what kind of team we are. We also work in the open and are keen to share our knowledge, express our values and get people thinking about how to improve services for the public sector. One of the ways we do this is by encouraging feedback as much as honing our own views on certain topics.
 
-Here at dxw we want to share what we're doing and what we're learning about tech and government with the digital community. After all, that is our bread and butter.
+We collect ideas for blog posts on a Trello board, where they can be discussed before being written. Often, we'll pick up ideas from this board on Fridays and spend our dxw time writing.
 
-When we are trying to hire more lovely people, we want them to be able to to get to know us a bit beforehand. Writing introductory blog posts and following up with communicating about the work we do helps people gauge what kind of team we are, and hopefully some of our personalities shine through in our writing.
+The process for writing a new post is:
 
-We also work in the open and are keen to share our knowledge, express our values and get people thinking about how to improve services for the public sector. One of the ways we do this is by encouraging feedback as much as honing our own views on certain topics.
-
-#### What are the blockers?
-
-Blogging isn’t everyone’s favourite thing and it doesn’t always come easy. There are many factors that lead to a slowdown in blog post generation. Firstly, and most obviously, some people are just not so comfortable having to write something (especially if it’s about themselves) which will ultimately be shared and (possibly) picked apart by colleagues. There is also the fear that you put time and effort, which are quite precious in your working day, into something and no one actually reads it. Constantly checking the stats on a post can be a little bit all-consuming or so a prevalent blogger (Dilja Rudolfsdottir) once told me. This ties in with the importance of knowing the optimal time for blog posts to be published and tweeted about (Thank you Buffer for helping with that!) and the actual content which should be well written and relevant and easy to read.
-
-#### How do we fix this?
-
-We have thought long and hard about blogging and have become a lot better. I think we’re getting better at writing more, from a wider variety of us, posting at regular intervals, and broadening the range of topics we talk about. We hope readers have found these blog posts interesting and informative and thought-provoking.
-
-One of the things we’ve introduced is a topic board on Trello for the dxw team to pick up blog post ideas and attempt to put some words down. We’ve moved to a 4 day client week to free up some time for internal projects and work, including blog post writing. We’re also trying to encourage more collaboration on writing posts, to ease the pressure on the writer and produce something that we are all interested to read and learn something from.
-
-#### Blog post process
-
-• Write blog post and save in Google drive
-• Have peers review post and suggest changes (if required)
-• Add to Wordpress as a draft
-• Post must be signed off before publishing to dxw website
-• Once published, a tweet will be composed to promote the post
+- Write the post and save in Google drive
+- Have peers review your post and suggest changes (if required)
+- When you're happy with the post, ask Harry to sign it off
+- Send the post to CommsCrowd to see if they might want to pitch it to publications
+- When ready, add the post to WordPress as a draft and agree a publication time with the team
+- Write a tweet to promote your post and add it to Buffer, scheduled to go out when the post is public
 
 ### Twitter
 
