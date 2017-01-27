@@ -48,9 +48,9 @@ We are reliable, consistent and committed. We make every effort to live up to ea
 
 #### Agile mindset
 
-At dxw, we think that agile is a mindset that’s accepting of change, curious about trying new approaches to make things better, and values careful planning in short chunks. 
+At dxw, we think that agile is a mindset that’s accepting of change, curious about trying new approaches to make things better, and values careful planning in short chunks.
 
-We think that the [Agile Manifesto](http://agilemanifesto.org/) contains a lot of wisdom, but we don’t follow the industry of methodologies, training and certifications that has grown up around it. We think agile is something you learn to be, not something that you learn to do. 
+We think that the [Agile Manifesto](http://agilemanifesto.org/) contains a lot of wisdom, but we don’t follow the industry of methodologies, training and certifications that has grown up around it. We think agile is something you learn to be, not something that you learn to do.
 
 Our teams frequently experiment with different tools and techniques so we can improve. This applies not only to development work, but to everything we do at dxw, from user research to business operations.
 
@@ -740,7 +740,7 @@ We do our very best to work to a [sustainable pace](#sustainable-pace). But some
 ### Holiday
 We use BreatheHR to manage holiday requests.
 
-If you want to take holiday, first discuss the dates you plan to be away with your team so that they know when you're planning to go. Then request the holiday through BreatheHR. 
+If you want to take holiday, first discuss the dates you plan to be away with your team so that they know when you're planning to go. Then request the holiday through BreatheHR.
 
 We try very hard to make sure that all holiday requests are granted, irrespective of when they are made. But it's much easier for delivery managers to plan ahead when they have lots of notice, so please don't leave your requests to the last minute.
 
@@ -796,7 +796,7 @@ If your conduct or performance fails to improve following a verbal warning, or i
 If you disagree with the outcome of this hearing, you may appeal against the decision. You must do this in writing. If you do so, your appeal and the circumstances of your case will be reviewed by a member of staff who has not been involved in your case before. That member of staff and the Managing Director will then meet to discuss your case, and will either uphold the outcome or schedule another disciplinary meeting. dxw's decision following that meeting will be final.
 
 
-### Grievance procedure
+### Grievances
 If you have a grievance about your employment or a complaint about another member of staff, talk to the Managing Director as soon as possible.
 
 The first step is to discuss the problem to see if it can be quickly resolved.
