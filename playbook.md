@@ -815,26 +815,13 @@ Exactly what security measures are prudent may vary depending on the device and 
 
 - Configuring screens to lock after a period of inactivity
 - Ensuring that data on the device is regularly backed up (eg to the cloud)
-- Encrypting storage, where possible
+- Encrypting storage
 - Using good passwords and changing defaults
 - Avoiding connecting devices to untrustworthy networks (internet cafes, security conferences, unencrypted (open) wifi networks, etc)
+- Disposing of your device securely when you no longer need it
 
 If you need to use a personal device but cannot take these sorts of measures, you should get permission first.
 
-### Benefits
-
-#### Pensions
-
-#### Conference Perk
-We think it's important to cultivate interests outside work, and that investing time in this brings benefits to dxw.
-
-So, in addition to going to conferences relevant to their roles, everyone who works at dxw is able to attend one conference per year about anything that they'd like.
-
-On request, dxw will cover the cost of a conference ticket, travel and accommodation, anywhere in reach of a budget flight.
-
-#### Cycle to work scheme
-
-#### Book purchase
 
 ### Expenses
 From time to time, some of us spend our own money at work. Most often, this is things like:
@@ -935,6 +922,25 @@ As a rule of thumb, label a document as Client Confidential if it mostly contain
 Anything not captured by the sections above is unclassified. Examples are external marketing material, general emails and letters.
 
 Beyond a general duty to treat information carefully, unclassified information is not subject to any specific restrictions.
+
+### Benefits
+
+#### Pensions
+dxw will provide a pension which is operated by Aviva. We are in the process of setting this pension up, and will add more details here as soon as they are finalised. We expect the first deductions to be made around May 2017.
+
+#### Conference Perk
+It's important to cultivate interests outside work, and we believe that investing time in this brings benefits to dxw.
+
+So, in addition to going to conferences relevant to our roles, everyone who works at dxw is able to attend one conference per year about anything that they'd like.
+
+On request, dxw will cover the cost of a conference ticket, travel and accommodation, anywhere in reach of a budget flight.
+
+#### Cycle to work scheme
+dxw operates a cycle-to-work scheme, which may allow you to purchase a bicycle at reduced cost. If you would like to take this up, speak to Vanessa.
+
+#### Book purchase
+If there is a book relevant to your work that you would like to read, let Vanessa or Leanne know and they will buy it for the library.
+
 
 ## Sharing
 
