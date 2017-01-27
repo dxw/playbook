@@ -968,6 +968,20 @@ The most important thing to remember is that you'll leave the best impression - 
 
 
 ### Blog
+At dxw, we all write blog posts regularly.
+
+We blog because want to share what we're doing and what we're learning about tech and government with the digital community. When we're hiring, we also want potential new staff to be able to to get to know us a bit beforehand. Writing introductory blog posts and following up with communicating about the work we do helps people gauge what kind of team we are. We also work in the open and are keen to share our knowledge, express our values and get people thinking about how to improve services for the public sector. One of the ways we do this is by encouraging feedback as much as honing our own views on certain topics.
+
+We collect ideas for blog posts on a Trello board, where they can be discussed before being written. Often, we'll pick up ideas from this board on Fridays and spend our dxw time writing.
+
+The process for writing a new post is:
+
+- Write the post and save in Google drive
+- Have peers review your post and suggest changes (if required)
+- When you're happy with the post, ask Harry to sign it off
+- Send the post to CommsCrowd to see if they might want to pitch it to publications
+- When ready, add the post to WordPress as a draft and agree a publication time with the team
+- Write a tweet to promote your post and add it to Buffer, scheduled to go out when the post is public
 
 ### Twitter
 
