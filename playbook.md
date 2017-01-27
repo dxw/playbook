@@ -17,7 +17,7 @@ The web has revolutionised the way society works. Most of society has reaped the
 
 Since dxw was founded in 2008, a lot of things have become better. The Government Digital Service has changed the conversation about how and why services get built, and many are much better as a result. But the challenge facing the public sector is not one that any organisation could tackle alone.
 
-In addition to talented in-house teams who understand how to deliver great services, the public sector needs talented suppliers who understand how to work with it. And who are driven by a desire to make public services better. And who understand how to combine a modern technogical approach with agile principles of development and user-centricity. That's what dxw is here to do.
+In addition to talented in-house teams who understand how to deliver great services, the public sector needs talented suppliers who understand how to work with it. And who are driven by a desire to make public services better. And who understand how to combine a modern technological approach with agile principles of development and user-centricity. That's what dxw is here to do.
 
 We build digital public services that are flexible, efficient, effective and useful. We want people's experience of those services to be straightforward, positive and seamless. We believe that in building those services using agile principles, we can help government to embed those same principles in other parts of their organisations.
 
@@ -47,11 +47,14 @@ We are reliable, consistent and committed. We make every effort to live up to ea
 ### Some guiding principles
 
 #### Agile mindset
-At dxw, we don't follow formal agile methodologies. We think the idea of a formal agile methodology is a bit of a contradiction in terms. When we talk about agile, we're talking about a mindset that is accepting of change, curious about trying new approaches to make things better, and values the idea of careful planning in short chunks.
 
-We think the Agile Manifesto contains a lot of wisdom, but we're also sad to have seen an industry of methodologies, coaching, training and certifications grow up around it. We think agile is something that you learn to be, not something that you learn to do.
+At dxw, we think that agile is a mindset that’s accepting of change, curious about trying new approaches to make things better, and values careful planning in short chunks. 
 
-We do our best to listen, to try new things, to accept a degree of uncertainty and to work from evidence. And we recognise the importance of planning, compliance and governance, so we work those activities into the process, every step of the way.
+We think that the [Agile Manifesto](http://agilemanifesto.org/) contains a lot of wisdom, but we don’t follow the industry of methodologies, training and certifications that has grown up around it. We think agile is something you learn to be, not something that you learn to do. 
+
+Our teams frequently experiment with different tools and techniques so we can improve. This applies not only to development work, but to everything we do at dxw, from user research to business operations.
+
+We recognise the importance of planning, compliance and governance, so we work those activities into the process, every step of the way.
 
 #### Sustainable pace
 We work at a sustainable pace. We estimate work and schedule it conservatively, and set realistic expectations with clients about the pace of delivery.
@@ -76,10 +79,11 @@ However, there are some things that we must keep private.
 
 If you want to talk about something, and you're not sure if it's confidential, play it safe: ask a colleague.
 
+
 ### Changes to this document
 This playbook is a collaborative effort. If you spot something that's wrong, feel free to hop in and correct it. But remember that this playbook is the result of our conversations about how we should do things, not a substitute for one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
 
-If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect speelings and other minor errors.
+If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect spellings and other minor errors.
 
 
 ## Building services
@@ -143,7 +147,7 @@ We build services in sprints, which are fixed-length periods of delivery work wi
 
 At dxw, sprints start with a planning session and end with two retrospective sessions: one internal, and one with the client. Both sessions involve all members of the project team (developers, user researcher, and delivery manager) and the product owner from the client side. Sometimes, retros include more of the client team.
 
-The sprint planning session is used to decide which stories will be worked on during the upcoming sprint, and to ensure that they are [well-formed](#stories). During this session, developers estimate the effort required to finish each story. Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers should also advise at this point if there are any dependancies the client should be aware of.
+The sprint planning session is used to decide which stories will be worked on during the upcoming sprint, and to ensure that they are [well-formed](#stories). During this session, developers estimate the effort required to finish each story. Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers should also advise at this point if there are any dependencies the client should be aware of.
 
 Design and development is worked on in parallel during the sprint. Because we design in browser and avoid separating development and user experience work, it's important when giving stories points to think both about the design and the development effort that will be required.
 
@@ -173,6 +177,8 @@ For more information about writing good stories, read User Stories Applied by Mi
 
 
 #### Lifecycle of a story
+<!-- TODO: This section should be an explanation of what happens to a story as it is worked on, focussing on "why" rather than "how" and explaining the philosophy. -->
+
 There are several states that a story has to go through in order to be deployed to production. We use tracking tools and physical story boards to keep track of which stage a given story is in.
 
 * **Started**: A developer has started working on the story, making changes to the product to ensure that each acceptance criterion is met
@@ -181,103 +187,6 @@ There are several states that a story has to go through in order to be deployed 
 * **Client review**: The delivery manager has confirmed that the story is done, and it's ready for a client to review
 * **Ready to deploy**: The client has accepted the story and it's ready to deploy
 * **Deployed**: The story is deployed to production
-
-#### Branching
-When we start any new piece of work - whether story, bug fix, or chore - we always start by creating a new branch based off the repository's `develop` branch.
-
-We have a naming convention for branches, as follows:
-
-* `feature/{STORY ID}-{CONCISE TITLE}`: A branch that adds a new feature, as defined by the specified story
-* `fix/{STORY/TICKET ID}-{CONCISE TITLE}`: A branch that corrects a problem in a feature already merged into develop
-* `hotfix/{CONCISE TITLE}`: A branch that adds an urgent fix to a problem that affects production. These branches are based on master and do not go via develop, so must be also be merged into develop when deployed.
-* `chore/{CONCISE TITLE}`: Chore branches are used for routine tasks or tickets which are not emergencies.
-
-Examples:
-
-```
-feature/523797477-add-logging-to-registration
-fix/523797477-logging-happens-in-both-environments
-hotfix/remove-breaking-change-to-repair-creation
-chore/reduce-caching-for-contact-details
-```
-
-#### Committing
-We write commit messages that convey in the present tense what the new state of the system will be. There is no strict character limit for this but we try to keep them under 50 characters.
-
-To help focus our commits into smaller well-bounded chunks, we prepend the following for each type of commit.
-
-* `(feature):`: when we are adding something new
-* `(fix):`: when we are fixing something existing
-* `(refactor):`: when we are changing the implementation of something existing without changing its behaviour
-* `(chore):`: catch all for when none of the above apply and there is no immediate user need eg. gem/package updates
-
-As well as writing a commit message, we also write a commit description. This should focus on the reasons for the change.
-
-It's really important to write this down and record it as we go. As a services goes through the development process, we make many decisions about how to build it, each focusing on the delivery of the next most important feature. These decisions are based on the best current understanding and a set of assumptions, there weill sometimes be short term compromises made to ensure we're able to continuously deliver.
-
-Recording what these are is extremely helpful to enable anybody working on the project now and in the future to make informed decisions by reading the commit history.
-
-```
-# Poor
-Fixed the form
-
-# Great
-(fix): Food order form works with special characters
-
-* Previously the form failed to send if the starter value included any of the following characters: !@£$%^&*().:;'
-* Users should be able to use these characters and after a short investigation I found this new bug in PHP: <link>
-* As a short term workaround until the bug is fixed I am stripping out any of these characters if they are present.
-```
-
-#### Code style
-We write our code in a consistent way to ensure it is well-structured and easy to follow for the rest of the team. Similar to the guidelines laid out in [Thoughtbot’s style guide](https://playbook.thoughtbot.com/#style-guide), approach this guidance as a way to code on present and future projects, not something to retroactively add to existing projects. When working on existing projects or joining a project, make sure to follow the code style that is already in place.
-
-While it can be tempting to write a new style guide, it's not a worthwhile investment of time. It's important that a consistent style is adopted, but mostly unimportant which specific style it is. So rather than having our own, we have chosen the following existing style guides for our work:
-
-* PHP - [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
-* Ruby - [Ruby community style guide](https://github.com/bbatsov/ruby-style-guide)
-* Sass - [Sass Guidelines - Syntax and formatting](http://sass-guidelin.es/#syntax--formatting)
-* JavaScript - [Standard](http://standardjs.com/)
-
-
-#### Pull requests
-When we have finished a piece of work on a branch, we [make a pull request](https://help.github.com/articles/using-pull-requests/) using the project's GitHub/GitLab page.
-
-We prefix pull request titles with the Story ID to make it easy to find the story and the acceptance criteria that should be met.
-
-A good pull request should:
-
-* Be created by the authoring developer
-* Meet all of the acceptance criteria on the associated story
-* Focus on the single problem at hand. Including other changes will make it much harder to merge
-* Include appropriate detail to assist the reviewer as much as possible
-
-```
-# Poor
-A new registration form and fix a bug with contacts
-
-# Great
-[123456789] New users can now register for an account
-```
-
-#### Code reviews
-We believe that Code reviews are important. They help us to learn from each other, to maintain consistency in the code we write, and to ensure we push well-reasoned and bug-free code to production. When performing a code review, we make sure that:
-
-* We cannot see any code that could give rise to a security vulnerability
-* The story has been implemented clearly and maintainably
-* The code contains well-written commits that help us to understand the changes
-* The code follows [code style guides](#code-style)
-
-It is not important that a story be implemented exactly how you would have done it. Only that it meets the criteria above. When we find problems, we generally give feedback to the developer who implemented the story, not fix things ourselves. It is ok to fix minor problems -- like typos -- but if we're not sure whether to fix something ourselves, we err towards making no changes, and instead giving feedback to the authoring developer.
-
-It's also important that code reviews have a constructive, amicable tone. To this end, we bear in mind the [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review), which contains good rules for keeping things positive and useful.
-
-#### Deploying
-We maintain two environments for deployments, `testing` and `production`. Deployments to `testing` should be done throughout the sprint as our work becomes ready for a client to review.
-
-When we deploy to production will depend on the project and the client. Some clients prefer features to be deployed to production as soon as they’re signed off, while others like to deploy everything at the end of the sprint. A discussion about which approach is preferable should happen early in every project.
-
-On WordPress projects, we [deploy by pushing commits](https://github.com/dxw/playbook/blob/master/guides/deploying.md) to the `testing` or `production` branch on GovPress. Other projects have their own approaches, which are documented in their READMEs.
 
 
 ### Managing delivery
@@ -432,7 +341,7 @@ Pending tickets will not appear in the list of tickets or in the views for the F
 
 Tickets which are pending will also be closed automatically after a set period of time if the client does not respond. They will get reminders before this happens. If a pending ticket you are assigned to is closed because the client didn't reply in time, both you and the client will get an email, so you can open it again if you think that's best.
 
-Because pending tickets will be auto-closed if there's no reply, it's also important to check and set the *How much work was this?* field to give an approximatation of the total time the team spent on the issue. Or, select *chargeable* if it's a ticket we'll invoice for.
+Because pending tickets will be auto-closed if there's no reply, it's also important to check and set the *How much work was this?* field to give an approximation of the total time the team spent on the issue. Or, select *chargeable* if it's a ticket we'll invoice for.
 
 When assigning a ticket to another agent, we do not set it to pending, otherwise they probably won't see it.
 
@@ -537,7 +446,7 @@ Only people who have been registered in Zendesk are permitted to submit tickets.
 
 Tickets received from unregistered users are put into the Suspended Tickets view with a reason of "permission denied". We receive a digest email on the systems email to let us know what is in the suspended queue.
 
-If we see a suspended ticket that looks legitimate, we create a ticket for the project owner and ask if the user should be added. If they can be added, we create them in Clients and Projects as a contact on the appropriate project, and then recover the ticket from the suspended list. If the new user should't be added, we delete the ticket and ask the project owner to resubmit it if required.
+If we see a suspended ticket that looks legitimate, we create a ticket for the project owner and ask if the user should be added. If they can be added, we create them in Clients and Projects as a contact on the appropriate project, and then recover the ticket from the suspended list. If the new user shouldn't be added, we delete the ticket and ask the project owner to resubmit it if required.
 
 If we receive a suspended ticket from someone who is not a contact but is adding useful information, add the information to the relevant ticket as an internal note and then delete the suspended ticket. We make sure the internal note mentions who the information came from.
 
@@ -641,7 +550,7 @@ To do this, we:
 * Make sure the work that they need is something we can do
 * Check that we'd be able to complete the work in time for whatever deadlines they have
 
-When we mark a deal as Qualfied, we update the summary to ensure that it accurately reflects the client's user needs and vision.
+When we mark a deal as Qualified, we update the summary to ensure that it accurately reflects the client's user needs and vision.
 
 ### Budgets
 
@@ -651,7 +560,7 @@ Where we don't think we could do what the client needs within their budget, we e
 
 Where clients have a larger budget than we think they need, we say that too. This usually means explaining why we're able to do the work for less than they thought. We also think about what extra things we could do to improve their chances of success, and suggest extra work they could do.
 
-Where a budget is disclosed that's more than we think is necessary, we usually propose a peice of work that uses that budget fully. But we're always open, and tell them that we've done this, and that we'd be delivering more than the minimum. And we're always happy to win a smaller bit of work than the client thought they'd need. We try to structure these proposals so that the extra work is easy to remove.
+Where a budget is disclosed that's more than we think is necessary, we usually propose a piece of work that uses that budget fully. But we're always open, and tell them that we've done this, and that we'd be delivering more than the minimum. And we're always happy to win a smaller bit of work than the client thought they'd need. We try to structure these proposals so that the extra work is easy to remove.
 
 
 ### Sales meetings
@@ -702,7 +611,7 @@ There aren't any strict rules about what projects we take on, except that the ul
 
 ### Winning work
 
-When we win work, we mark it as Won in PipelineDeals. We amend the budget, closing date and services sold if necessary. We write to the client to thank them and ask them for a convenient time to meet and start the work. We create invoices in Xero and save them as drafts, so we don't foget to bill them. And we add the project's sprints and other work to Forecast, so that the team can see who's working on what.
+When we win work, we mark it as Won in PipelineDeals. We amend the budget, closing date and services sold if necessary. We write to the client to thank them and ask them for a convenient time to meet and start the work. We create invoices in Xero and save them as drafts, so we don't forget to bill them. And we add the project's sprints and other work to Forecast, so that the team can see who's working on what.
 
 
 ### Losing work
@@ -725,7 +634,7 @@ Each candidate moves through a number of stages before being offered a job or de
 We feel strongly that it's important to be respectful of candidates time and interest in us, and that their attention is valuable. So we do our best to be responsive, human and open. It's particularly important to give unsuccessful candidates good, thorough feedback about why we haven't made them an offer.
 
 ### Job descriptions
-Before we decide to advertise a new job, we write a job description. This helps us make sure we all agree on what we need, and helps candidates to know if their skills are a good fir for the job. A good job description has three parts:
+Before we decide to advertise a new job, we write a job description. This helps us make sure we all agree on what we need, and helps candidates to know if their skills are a good for for the job. A good job description has three parts:
 
 1. A description of what the person in this job will do
 2. A list of their responsibilities
@@ -739,9 +648,6 @@ The first way we find people is through our networks. We look for people we know
 The second way we find people is by advertising. We advertise jobs on StackOverflow, Github, WorkInStartups and Unicorn Hunt. Not all jobs go on all of these boards - we pick whatever seems most appropriate for the job.
 
 The third way we find people is by making sure we're regularly blogging about what we're doing, and being open about our culture, work and process. We accept [general applications](https://www.dxw.com/jobs/general-application/) from people who are interested in dxw but who don't fit an open job.
-
-There's a page on [Zealify](http://www.zealify.com/companies/dxw/) with a video and some other content about what it's like to work at dxw.
-
 
 ### Review applications
 All applications arrive via Workable. We review these applications as a team to decide who to take forward.
@@ -830,6 +736,7 @@ Most developers have maintenance responsibilities, which they do during [ticket 
 
 We do our very best to work to a [sustainable pace](#sustainable-pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during unsociable hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
 
+
 ### Holiday
 We use BreatheHR to manage holiday requests.
 
@@ -914,6 +821,20 @@ Exactly what security measures are prudent may vary depending on the device and 
 
 If you need to use a personal device but cannot take these sorts of measures, you should get permission first.
 
+### Benefits
+
+#### Pensions
+
+#### Conference Perk
+We think it's important to cultivate interests outside work, and that investing time in this brings benefits to dxw.
+
+So, in addition to going to conferences relevant to their roles, everyone who works at dxw is able to attend one conference per year about anything that they'd like.
+
+On request, dxw will cover the cost of a conference ticket, travel and accommodation, anywhere in reach of a budget flight.
+
+#### Cycle to work scheme
+
+#### Book purchase
 
 ### Expenses
 From time to time, some of us spend our own money at work. Most often, this is things like:
@@ -990,7 +911,7 @@ This information:
 
 
 #### Company Confidential
-This category is used for information which should not be communicated outisde dxw. For example, details about how we operate security controls or internal discussions about client work.
+This category is used for information which should not be communicated outside dxw. For example, details about how we operate security controls or internal discussions about client work.
 
 Exactly the same controls apply to this information as detailed under Management-in-confidence, with the exception that Company Confidential information can be shared within the dxw as required.
 

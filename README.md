@@ -31,7 +31,7 @@ These documents are maintained by everyone at dxw, and it's important that their
 The document primarily talks about what "we" do. If you can phrase what you're saying in these terms, do. If it sounds weird, or you're actually talking about what an individual needs to do in a given circumstance, use "you".
 
 ### Links
-Link liberally, both within the document and to useful things on the web. Don't reinvent the wheel - if someone else has already written up a great explanation of something that we agree with, just link to it.
+Link liberally, both within the document and to useful things on the web. Don't reinvent the wheel! If someone else has already written up a great explanation of something that we agree with, just link to it.
 
 ### Small is beautiful
 This is a long document. Try to avoid making it too much longer. Keep things simple. Don't use flowery language or unnecessary words.

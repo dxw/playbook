@@ -5,11 +5,12 @@
   <link href='https://fonts.googleapis.com/css?family=Raleway:600,700' rel='stylesheet' type='text/css'>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+  <script src="https://rawgit.com/willdurand/anchorify.js/master/dist/anchorify.min.js"></script>
 </head>
 
 <script>
 $(document).ready(function() {
-  $("h2, h3").each(function(i, heading) {
+  $("h2,h3").each(function(i, heading) {
       if($(heading).prop("tagName") == "H2") {
         $(".menu").append("<h4><a href=\"#" + $(heading).attr("id") + "\">" + $(this).html() + "</a></h4>");
       }
@@ -26,6 +27,8 @@ $(document).ready(function() {
   $(".menu a").click(function(){
       $("nav").slideToggle("fast");
   });
+
+  $("h2,h3,h4").anchorify({ position: 'prepend' });
 });
 </script>
 
