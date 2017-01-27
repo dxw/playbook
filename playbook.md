@@ -32,7 +32,7 @@ We think that it's very important to have a talented team if we're going to succ
 We are helpful, useful and expert. We give practical and pragmatic advice to each other, and to our clients.
 
 #### Honest
-We are honest, trustworthy and straightforward. We give plain-spoken, frank, accurate feedback and advice, and we never mislead or obfuscate.
+We are honest, trustworthy and straightforward. We give plain-spoken, frank, accurate feedback and advice, and we never mislead or obscure the issue at hand.
 
 #### Positive
 We are positive, cheerful and supportive. Even in crisis, we stay optimistic. We [assume good faith](https://en.wikipedia.org/wiki/Wikipedia:Assume_good_faith) and offer constructive challenge.
