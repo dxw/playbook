@@ -762,6 +762,7 @@ When you return to work, you must check that your sickness has been correctly re
 ### Working from home
 Generally, we work either at our office or at client sites. But it's usually fine to work from home from time to time, or in order to complete a specific task. If you're working apart from your team, it is essential that you remain contactable and productive, and the onus is on you to be especially communicative.
 
+If you are working from home, you must record this as an absence in BreatheHR. There is a category, "WFH", for this purpose.
 
 ### Data protection
 
