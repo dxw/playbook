@@ -87,6 +87,7 @@ If you are making a substantial change (perhaps following a team conversation) p
 
 
 ## Building services
+
 ### Client experience
 
 #### Responsiveness
@@ -727,6 +728,7 @@ TODO. This section to cover:
 
 
 ## Working arrangements
+
 ### Time
 Our working hours are 10:00-18:00, Monday to Friday. Some people work different hours by arrangement. Anyone is free to do that as long as their hours of work don't make it hard for other people to get things done. For example, many people arrive earlier than 10:00 and leave earlier, which is generally fine.
 
@@ -763,7 +765,7 @@ Generally, we work either at our office or at client sites. But it's usually fin
 
 ### Data protection
 
-Though dxw doesn't control much personal data, our clients generally do. And some of of that data may be held on sites that we host. Everyone at dxw has a responsibily to keep that data safe, and process it in accordance to the [data protection principles](https://www.gov.uk/data-protection/the-data-protection-act).
+Though dxw doesn't control much personal data, our clients generally do. And some of it may be held on sites that we host. Everyone at dxw has a responsibily to keep that data safe, and process it in accordance to the [data protection principles](https://www.gov.uk/data-protection/the-data-protection-act).
 
 In particular, we:
 
@@ -814,7 +816,7 @@ Anyone who does use a personal device must take reasonable care to ensure that i
 Exactly what security measures are prudent may vary depending on the device and what you're using it for. Some good practice examples are:
 
 - Configuring screens to lock after a period of inactivity
-- Ensuring that data on the device is regularly backed up (eg to the cloud)
+- Ensuring that work-related data on the device is regularly backed up
 - Encrypting storage
 - Using good passwords and changing defaults
 - Avoiding connecting devices to untrustworthy networks (internet cafes, security conferences, unencrypted (open) wifi networks, etc)
