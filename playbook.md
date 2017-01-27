@@ -750,7 +750,7 @@ There is more information about dxw's holiday arrangements in your contract of e
 
 
 ### Sickness
-If you are sick, you must let us know as soon by 10:00, or as soon as is reasonably practical. Do not come to the office. If you come to the office when sick, you may be sent home again.
+If you are sick, you must let us know by 10:00, or as soon as is reasonably practical. Do not come to the office. If you come to the office when sick, you may be sent home again.
 
 If you're sick but able to work, you can work from home. Everyone at dxw should have a laptop, and should generally take it home with them in case it's needed. If you're sick and at home but don't have your laptop, it can be couriered to you.
 
