@@ -1,6 +1,8 @@
 #!/bin/bash
 
-git checkout gh-pages && \
+git checkout master && \
+  git pull origin master && \
+  git checkout gh-pages && \
   git merge master && \
   bundle install --path=vendor/bundle && \
   bundle exec ./compile && \

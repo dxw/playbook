@@ -1,17 +1,17 @@
 @font-face {
   font-family: 'Founders-Light';
-  src: url('fonts/FoundersGroteskTextWeb-Light.eot'); /* IE9 Compat Modes */
-  src: url('fonts/FoundersGroteskTextWeb-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('fonts/FoundersGroteskTextWeb-Light.woff2') format('woff2'), /* Super Modern Browsers */
-       url('fonts/FoundersGroteskTextWeb-Light.woff') format('woff');
+  src: url('build/fonts/FoundersGroteskTextWeb-Light.eot'); /* IE9 Compat Modes */
+  src: url('build/fonts/FoundersGroteskTextWeb-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('build/fonts/FoundersGroteskTextWeb-Light.woff2') format('woff2'), /* Super Modern Browsers */
+       url('build/fonts/FoundersGroteskTextWeb-Light.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Founders-Medium';
-  src: url('fonts/FoundersGroteskTextWeb-Medium.eot'); /* IE9 Compat Modes */
-  src: url('fonts/FoundersGroteskTextWeb-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('fonts/FoundersGroteskTextWeb-Medium.woff2') format('woff2'), /* Super Modern Browsers */
-       url('fonts/FoundersGroteskTextWeb-Medium.woff') format('woff');
+  src: url('build/fonts/FoundersGroteskTextWeb-Medium.eot'); /* IE9 Compat Modes */
+  src: url('build/fonts/FoundersGroteskTextWeb-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('build/fonts/FoundersGroteskTextWeb-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+       url('build/fonts/FoundersGroteskTextWeb-Medium.woff') format('woff');
 }
 
 body {
