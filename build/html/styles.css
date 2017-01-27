@@ -1,5 +1,21 @@
+@font-face {
+  font-family: 'Founders-Light';
+  src: url('fonts/FoundersGroteskTextWeb-Light.eot'); /* IE9 Compat Modes */
+  src: url('fonts/FoundersGroteskTextWeb-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/FoundersGroteskTextWeb-Light.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/FoundersGroteskTextWeb-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Founders-Medium';
+  src: url('fonts/FoundersGroteskTextWeb-Medium.eot'); /* IE9 Compat Modes */
+  src: url('fonts/FoundersGroteskTextWeb-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/FoundersGroteskTextWeb-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/FoundersGroteskTextWeb-Medium.woff') format('woff');
+}
+
 body {
-  font-family: helvetica, sans-serif;
+  font-family: Founders-Light, sans-serif;
   font-size: 15pt;
   color: #393b44;
   line-height: 1.7em;
@@ -9,9 +25,15 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-  font-family: raleway, sans-serif;
+  font-family: Founders-Medium, sans-serif;
   color: #1ba4e6;
-  font-weight: normal;
+  font-weight: 500;
+  letter-spacing: -1px;
+}
+
+b,strong {
+  font-family: Founders-Medium, sans-serif;
+  font-weight: 500;
 }
 
 .container h1:first-of-type {
@@ -36,8 +58,8 @@ h3 + p {
 }
 
 h4 {
-  margin: 0.8em 0 0.2em -19px;
-  font-size: 17pt;
+  margin: 0.8em 0 0.2em -17px;
+  font-size: 15pt;
 }
 
 h4 + p {
@@ -123,8 +145,8 @@ nav {
 .menu h4 a {
   text-decoration: none;
   color: #1ba4de;
-  font-weight: bold;
-  font-family: raleway, sans-serif;
+  font-weight: 500;
+  font-family: Founders-Medium, sans-serif;
   text-transform: uppercase;
 }
 

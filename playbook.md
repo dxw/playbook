@@ -17,7 +17,7 @@ The web has revolutionised the way society works. Most of society has reaped the
 
 Since dxw was founded in 2008, a lot of things have become better. The Government Digital Service has changed the conversation about how and why services get built, and many are much better as a result. But the challenge facing the public sector is not one that any organisation could tackle alone.
 
-In addition to capable in-house teams who understand how to deliver great services, the public sector needs capable suppliers who understand how to work with it. And who are driven by a desire to make public services better. And who understand how to combine a modern technological approach with agile principles of development and user-centricity. That's what dxw is here to do.
+In addition to talented in-house teams who understand how to deliver great services, the public sector needs talented suppliers who understand how to work with it. And who are driven by a desire to make public services better. And who understand how to combine a modern technological approach with agile principles of development and user-centricity. That's what dxw is here to do.
 
 We build digital public services that are flexible, efficient, effective and useful. We want people's experience of those services to be straightforward, positive and seamless. We believe that in building those services using agile principles, we can help government to embed those same principles in other parts of their organisations.
 
@@ -49,11 +49,14 @@ We are reliable, consistent and committed. We make every effort to live up to ea
 ### Some guiding principles
 
 #### Agile mindset
-At dxw, we don't follow formal agile methodologies. We think the idea of a formal agile methodology is a bit of a contradiction in terms. When we talk about agile, we're talking about a mindset that is accepting of change, curious about trying new approaches to make things better, and values the idea of careful planning in short chunks.
 
-We think the Agile Manifesto contains a lot of wisdom, but we're also sad to have seen an industry of methodologies, coaching, training and certifications grow up around it. We think agile is something that you learn to be, not something that you learn to do.
+At dxw, we think that agile is a mindset that’s accepting of change, curious about trying new approaches to make things better, and values careful planning in short chunks.
 
-We do our best to listen, to try new things, to accept a degree of uncertainty and to work from evidence. And we recognise the importance of planning, compliance and governance, so we work those activities into the process, every step of the way.
+We think that the [Agile Manifesto](http://agilemanifesto.org/) contains a lot of wisdom, but we don’t follow the industry of methodologies, training and certifications that has grown up around it. We think agile is something you learn to be, not something that you learn to do.
+
+Our teams frequently experiment with different tools and techniques so we can improve. This applies not only to development work, but to everything we do at dxw, from user research to business operations.
+
+We recognise the importance of planning, compliance and governance, so we work those activities into the process, every step of the way.
 
 #### Sustainable pace
 We work at a sustainable pace. We estimate work and schedule it conservatively, and set realistic expectations with clients about the pace of delivery.
@@ -72,25 +75,21 @@ We release [code](http://www.github.com/dxw), publish our [contracts](http://www
 However, there are some things that we must keep private.
 
 - Our clients trust us to host content that is not public, like upcoming announcements and discussions made as part of formulating new policy. This is not our information to be open about, and it's very important to keep it confidential.
-- We also hold some personal data on and on behalf of our clients. We never share any of this data, including contact details.
+- We also hold some personal data about and/or on behalf of our clients. We never share any of this data, including contact details. See also: [data protection](#data-protection).
 - We are sometimes sent documents that are [protectively marked](#protective-marking-scheme), and we have a protective marking scheme of our own. Information in these documents is confidential.
+- Information about work that is currently being procured (whether we are bidding or not) and any other information that could damage the commercial interests of a client or supplier
 
-### Time
-Our working hours are 10:00-18:00, Monday to Friday. Some people work different hours by arrangement. Anyone is free to do that as long as their hours of work don't make it hard for other people to get things done. For example, many people arrive earlier than 10:00 and leave earlier, which is generally fine.
-
-We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:00. If you miss the stand-up, then you are late.
-
-Most developers have maintenance responsibilities, which they do during [ticket time](#ticket-time).
-
-We do our very best to work to a [sustainable pace](#sustainable-pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during unsociable hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
+If you want to talk about something, and you're not sure if it's confidential, play it safe: ask a colleague.
 
 
 ### Changes to this document
 This playbook is a collaborative effort. If you spot something that's wrong, feel free to hop in and correct it. But remember that this playbook is the result of our conversations about how we should do things, not a substitute for one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
 
-If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect speelings and other minor errors.
+If you are making a substantial change (perhaps following a team conversation) please make it in a branch and submit a pull request. Then ask someone else who was in the conversation to review and merge it. When we review a pull request on the playbook, we check that it accurately captures the conversation, that it doesn't contain anything private, and that it's well written and free of typos, incorrect spellings and other minor errors.
+
 
 ## Building services
+
 ### Client experience
 
 #### Responsiveness
@@ -151,7 +150,7 @@ We build services in sprints, which are fixed-length periods of delivery work wi
 
 At dxw, sprints start with a planning session and end with two retrospective sessions: one internal, and one with the client. Both sessions involve all members of the project team (developers, user researcher, and delivery manager) and the product owner from the client side. Sometimes, retros include more of the client team.
 
-The sprint planning session is used to decide which stories will be worked on during the upcoming sprint, and to ensure that they are [well-formed](#stories). During this session, developers estimate the effort required to finish each story. Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers should also advise at this point if there are any dependancies the client should be aware of.
+The sprint planning session is used to decide which stories will be worked on during the upcoming sprint, and to ensure that they are [well-formed](#stories). During this session, developers estimate the effort required to finish each story. Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers should also advise at this point if there are any dependencies the client should be aware of.
 
 Design and development is worked on in parallel during the sprint. Because we design in browser and avoid separating development and user experience work, it's important when giving stories points to think both about the design and the development effort that will be required.
 
@@ -345,7 +344,7 @@ Pending tickets will not appear in the list of tickets or in the views for the F
 
 Tickets which are pending will also be closed automatically after a set period of time if the client does not respond. They will get reminders before this happens. If a pending ticket you are assigned to is closed because the client didn't reply in time, both you and the client will get an email, so you can open it again if you think that's best.
 
-Because pending tickets will be auto-closed if there's no reply, it's also important to check and set the *How much work was this?* field to give an approximatation of the total time the team spent on the issue. Or, select *chargeable* if it's a ticket we'll invoice for.
+Because pending tickets will be auto-closed if there's no reply, it's also important to check and set the *How much work was this?* field to give an approximation of the total time the team spent on the issue. Or, select *chargeable* if it's a ticket we'll invoice for.
 
 When assigning a ticket to another agent, we do not set it to pending, otherwise they probably won't see it.
 
@@ -450,7 +449,7 @@ Only people who have been registered in Zendesk are permitted to submit tickets.
 
 Tickets received from unregistered users are put into the Suspended Tickets view with a reason of "permission denied". We receive a digest email on the systems email to let us know what is in the suspended queue.
 
-If we see a suspended ticket that looks legitimate, we create a ticket for the project owner and ask if the user should be added. If they can be added, we create them in Clients and Projects as a contact on the appropriate project, and then recover the ticket from the suspended list. If the new user should't be added, we delete the ticket and ask the project owner to resubmit it if required.
+If we see a suspended ticket that looks legitimate, we create a ticket for the project owner and ask if the user should be added. If they can be added, we create them in Clients and Projects as a contact on the appropriate project, and then recover the ticket from the suspended list. If the new user shouldn't be added, we delete the ticket and ask the project owner to resubmit it if required.
 
 If we receive a suspended ticket from someone who is not a contact but is adding useful information, add the information to the relevant ticket as an internal note and then delete the suspended ticket. We make sure the internal note mentions who the information came from.
 
@@ -554,7 +553,7 @@ To do this, we:
 * Make sure the work that they need is something we can do
 * Check that we'd be able to complete the work in time for whatever deadlines they have
 
-When we mark a deal as Qualfied, we update the summary to ensure that it accurately reflects the client's user needs and vision.
+When we mark a deal as Qualified, we update the summary to ensure that it accurately reflects the client's user needs and vision.
 
 ### Budgets
 
@@ -564,7 +563,7 @@ Where we don't think we could do what the client needs within their budget, we e
 
 Where clients have a larger budget than we think they need, we say that too. This usually means explaining why we're able to do the work for less than they thought. We also think about what extra things we could do to improve their chances of success, and suggest extra work they could do.
 
-Where a budget is disclosed that's more than we think is necessary, we usually propose a peice of work that uses that budget fully. But we're always open, and tell them that we've done this, and that we'd be delivering more than the minimum. And we're always happy to win a smaller bit of work than the client thought they'd need. We try to structure these proposals so that the extra work is easy to remove.
+Where a budget is disclosed that's more than we think is necessary, we usually propose a piece of work that uses that budget fully. But we're always open, and tell them that we've done this, and that we'd be delivering more than the minimum. And we're always happy to win a smaller bit of work than the client thought they'd need. We try to structure these proposals so that the extra work is easy to remove.
 
 
 ### Sales meetings
@@ -615,7 +614,7 @@ There aren't any strict rules about what projects we take on, except that the ul
 
 ### Winning work
 
-When we win work, we mark it as Won in PipelineDeals. We amend the budget, closing date and services sold if necessary. We write to the client to thank them and ask them for a convenient time to meet and start the work. We create invoices in Xero and save them as drafts, so we don't foget to bill them. And we add the project's sprints and other work to Forecast, so that the team can see who's working on what.
+When we win work, we mark it as Won in PipelineDeals. We amend the budget, closing date and services sold if necessary. We write to the client to thank them and ask them for a convenient time to meet and start the work. We create invoices in Xero and save them as drafts, so we don't forget to bill them. And we add the project's sprints and other work to Forecast, so that the team can see who's working on what.
 
 
 ### Losing work
@@ -638,7 +637,7 @@ Each candidate moves through a number of stages before being offered a job or de
 We feel strongly that it's important to be respectful of candidates time and interest in us, and that their attention is valuable. So we do our best to be responsive, human and open. It's particularly important to give unsuccessful candidates good, thorough feedback about why we haven't made them an offer.
 
 ### Job descriptions
-Before we decide to advertise a new job, we write a job description. This helps us make sure we all agree on what we need, and helps candidates to know if their skills are a good fir for the job. A good job description has three parts:
+Before we decide to advertise a new job, we write a job description. This helps us make sure we all agree on what we need, and helps candidates to know if their skills are a good for for the job. A good job description has three parts:
 
 1. A description of what the person in this job will do
 2. A list of their responsibilities
@@ -652,9 +651,6 @@ The first way we find people is through our networks. We look for people we know
 The second way we find people is by advertising. We advertise jobs on StackOverflow, Github, WorkInStartups and Unicorn Hunt. Not all jobs go on all of these boards - we pick whatever seems most appropriate for the job.
 
 The third way we find people is by making sure we're regularly blogging about what we're doing, and being open about our culture, work and process. We accept [general applications](https://www.dxw.com/jobs/general-application/) from people who are interested in dxw but who don't fit an open job.
-
-There's a page on [Zealify](http://www.zealify.com/companies/dxw/) with a video and some other content about what it's like to work at dxw.
-
 
 ### Review applications
 All applications arrive via Workable. We review these applications as a team to decide who to take forward.
@@ -721,8 +717,6 @@ TODO. This section to cover:
 * Discussing the results
 * Offer if we are sure they are right
 
-## Working at dxw
-
 ### Offer, joining and probation
 
 TODO. This section to cover:
@@ -733,6 +727,123 @@ TODO. This section to cover:
 * Starters checklist
 * The probation period, meeting and expectations
 * ...more things.
+
+
+## Working arrangements
+
+### Time
+Our working hours are 10:00-18:00, Monday to Friday. Some people work different hours by arrangement. Anyone is free to do that as long as their hours of work don't make it hard for other people to get things done. For example, many people arrive earlier than 10:00 and leave earlier, which is generally fine.
+
+We have a short stand-up every morning, where we each tell the whole team about a single thing we will get done that day. The stand-up is at 10:00. If you miss the stand-up, then you are [late](#lateness).
+
+Most developers have maintenance responsibilities, which they do during [ticket time](#ticket-time).
+
+We do our very best to work to a [sustainable pace](#sustainable-pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during unsociable hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
+
+
+### Holiday
+We use BreatheHR to manage holiday requests.
+
+If you want to take holiday, first discuss the dates you plan to be away with your team so that they know when you're planning to go. Then request the holiday through BreatheHR.
+
+We try very hard to make sure that all holiday requests are granted, irrespective of when they are made. But it's much easier for delivery managers to plan ahead when they have lots of notice, so please don't leave your requests to the last minute.
+
+There is more information about dxw's holiday arrangements in your contract of employment.
+
+
+### Sickness
+If you are sick, you must let us know as soon by 10:00, or as soon as is reasonably practical. Do not come to the office. If you come to the office when sick, you may be sent home again.
+
+If you're sick but able to work, you can work from home. Everyone at dxw should have a laptop, and should generally take it home with them in case it's needed. If you're sick and at home but don't have your laptop, it can be couriered to you.
+
+If you're sick for more than 7 calendar days, you'll need to provide a [fit note](https://www.gov.uk/government/publications/the-fit-note-a-guide-for-patients-and-employees) on your return to work. If you're sick for more than 14 calendar days, we will probably want to discuss your situation to see what we can do to help and to understand when/if you are likely to return.
+
+When you return to work, you must check that your sickness has been correctly recorded in BreatheHR, and update it if necessary.
+
+
+### Working from home
+Generally, we work either at our office or at client sites. But it's usually fine to work from home from time to time, or in order to complete a specific task. If you're working apart from your team, it is essential that you remain contactable and productive, and the onus is on you to be especially communicative.
+
+If you are working from home, you must record this as an absence in BreatheHR. There is a category, "WFH", for this purpose.
+
+### Data protection
+
+Though dxw doesn't control much personal data, our clients generally do. And some of it may be held on sites that we host. Everyone at dxw has a responsibily to keep that data safe, and process it in accordance to the [data protection principles](https://www.gov.uk/data-protection/the-data-protection-act).
+
+In particular, we:
+
+- Only process personal data as part of work on the service that we're contracted to provide to a client
+- Don't access personal data unless we need to in order to do our jobs: don't read people's personal data or private communications without good reason
+- We do not ever disclose people's personal data to anyone outside dxw unless specifically instructed, and are satisfied that it is legal to do so
+
+If you have any questions about data protection, talk to Harry.
+
+
+### Your details
+Please tell us promptly if your name, address, telephone number or next of kin details change.
+
+
+### Disciplinary procedure
+If you do something that we feel constitutes misconduct, or your performance in your job has been poor, we'll talk to you about it. Hopefully, there's just been some misunderstanding, or some problem that's easy to solve and won't recur. Formal action will not be taken without careful investigation of the facts.
+
+If we feel it's appropriate, we may verbally warn you, explaining what has been unacceptable and what you need to do to improve your conduct or performance.
+
+If your conduct or performance fails to improve following a verbal warning, or if the matter is serious enough that a verbal warning is not appropriate, we may hold a disciplinary meeting at which you may be accompanied or represented by a colleague or trade union official. Following this meeting, we may:
+
+- Conclude that no misconduct has taken place, or that there is no poor performance
+- Issue you with a written warning, which will explain:
+  - The nature of the misconduct or poor performance
+  - The change to your behaviour or performance that you need to make
+  - The time within which the change needs to be made
+  - The consequences of not making the change (for example, dismissal)
+- In cases of gross misconduct, dismiss you without notice
+
+If you disagree with the outcome of this hearing, you may appeal against the decision. You must do this in writing. If you do so, your appeal and the circumstances of your case will be reviewed by a member of staff who has not been involved in your case before. That member of staff and the Managing Director will then meet to discuss your case, and will either uphold the outcome or schedule another disciplinary meeting. dxw's decision following that meeting will be final.
+
+
+### Grievances
+If you have a grievance about your employment or a complaint about another member of staff, talk to the Managing Director as soon as possible.
+
+The first step is to discuss the problem to see if it can be quickly resolved.
+
+If this discussion does not satisfactorily resolve the problem, you should put details of your grievance in writing and send it to the Managing Director. They will arrange a meeting to discuss the matter, at which you may be accompanied by a colleague or trade union official. Following this discussion the Managing Director will provide a written response.
+
+If you disagree with this response or the matter remains unresolved, you may appeal by respond in writing. A further meeting will be arranged and the Managing Director will again respond in writing. This decision will be final.
+
+
+### Use of personal devices at work
+Most of us use at least one personal device as part of our work, because it's more convenient than carrying lots of devices around. However, no one is obligated to use a personal device for work. If you need a dxw-provided phone, tablet or other device, please ask for one.
+
+Anyone who does use a personal device must take reasonable care to ensure that it cannot compromise dxw's security. This includes implementing prudent security measures, being mindful that your personal devices could be targeted as part of an attack on dxw or its clients. For example, you might receive an email to your personal email address designed to trick you into revealing a work-related password.
+
+Exactly what security measures are prudent may vary depending on the device and what you're using it for. Some good practice examples are:
+
+- Configuring screens to lock after a period of inactivity
+- Ensuring that work-related data on the device is regularly backed up
+- Encrypting storage
+- Using good passwords and changing defaults
+- Avoiding connecting devices to untrustworthy networks (internet cafes, security conferences, unencrypted (open) wifi networks, etc)
+- Disposing of your device securely when you no longer need it
+
+If you need to use a personal device but cannot take these sorts of measures, you should get permission first.
+
+
+### Expenses
+From time to time, some of us spend our own money at work. Most often, this is things like:
+
+* Train fares for unexpected travel
+* Refreshments purchased for meetings with clients
+* Stationery/materials, especially for workshops or events
+
+dxw will always pay expenses which are:
+
+* __Necessary__: We only expense things we need in order to be able to complete our work
+* __Proportionate__: The total expense should be proportionate to the work at hand. In general, we try to avoid spending lots of money. For example, unless you have a good reason, don't get a cab to a meeting when you could get a train.
+
+Wherever possible, it's best to check that expenses can be reclaimed before incurring them.
+
+We manage expenses using Xero. For more information about how to do this, see the [guide on claiming expenses]()
+
 
 ### The buddy system
 The buddy system is the main way we help each other to perform well and improve our skills. During your first couple of months at dxw, as you get to know the team, you should choose someone and ask them to be your buddy.
@@ -754,51 +865,11 @@ We prefer to assume that everyone wants to improve, and will do so given the tim
 Trying to improve things in secret is a missed opportunity to get help from others. We may each be responsible for our own improvement, but we're also a team: we should help each other. Recording the things we're working on with the buddy Trello is an unintrusive, quick way to ensure that everyone else knows too.
 
 
-### Fearless feedback
-
-### Compensation
-
-### Benefits
-
-#### Pensions
-
-#### Conference Perk
-We think it's important to cultivate interests outside work, and that investing time in this brings benefits to dxw.
-
-So, in addition to going to conferences relevant to their roles, everyone who works at dxw is able to attend one conference per year about anything that they'd like.
-
-On request, dxw will cover the cost of a conference ticket, travel and accommodation, anywhere in reach of a budget flight.
-
-#### Cycle to work scheme
-
-#### Book purchase
-
-## Operations
-
-### Expenses
-From time to time, some of us spend our own money at work. Most often, this is things like:
-
-* Train fares for unexpected travel
-* Refreshments purchased for meetings with clients
-* Stationery/materials, especially for workshops or events
-
-dxw will always pay expenses which are:
-
-* __Necessary__: We only expense things we need in order to be able to complete our work
-* __Proportionate__: The total expense should be proportionate to the work at hand. In general, we try to avoid spending lots of money. For example, unless you have a good reason, don't get a cab to a meeting when you could get a train.
-
-Wherever possible, it's best to check that expenses can be reclaimed before incurring them.
-
-We manage expenses using Xero. For more information about how to do this, see the [guide on claiming expenses]()
-
-
 ### Calendars and documents
 We use Google Apps for Work to manage calendars, write and share documents. There is a dxw folder where we share most of the things we write. If you can't see it when you log in to Google Drive, you'll need to ask someone else to send you the link, and then click "Add to drive".
 
 When we write new things, we try to save them in a sensible folder within the existing structure.
 
-
-### Projects and contacts
 
 ### Protective marking scheme
 Some information that we have is confidential. We use a protective marking scheme so that everyone understands how to handle this material, and who they're allowed to disclose it to. All of the documents and data we hold will fall into one of the categories below.
@@ -832,7 +903,7 @@ This information:
 
 
 #### Company Confidential
-This category is used for information which should not be communicated outisde dxw. For example, details about how we operate security controls or internal discussions about client work.
+This category is used for information which should not be communicated outside dxw. For example, details about how we operate security controls or internal discussions about client work.
 
 Exactly the same controls apply to this information as detailed under Management-in-confidence, with the exception that Company Confidential information can be shared within the dxw as required.
 
@@ -856,6 +927,25 @@ As a rule of thumb, label a document as Client Confidential if it mostly contain
 Anything not captured by the sections above is unclassified. Examples are external marketing material, general emails and letters.
 
 Beyond a general duty to treat information carefully, unclassified information is not subject to any specific restrictions.
+
+### Benefits
+
+#### Pensions
+dxw will provide a pension which is operated by Aviva. We are in the process of setting this pension up, and will add more details here as soon as they are finalised. We expect the first deductions to be made around May 2017.
+
+#### Conference Perk
+It's important to cultivate interests outside work, and we believe that investing time in this brings benefits to dxw.
+
+So, in addition to going to conferences relevant to our roles, everyone who works at dxw is able to attend one conference per year about anything that they'd like.
+
+On request, dxw will cover the cost of a conference ticket, travel and accommodation, anywhere in reach of a budget flight.
+
+#### Cycle to work scheme
+dxw operates a cycle-to-work scheme, which may allow you to purchase a bicycle at reduced cost. If you would like to take this up, speak to Vanessa.
+
+#### Book purchase
+If there is a book relevant to your work that you would like to read, let Vanessa or Leanne know and they will buy it for the library.
+
 
 ## Sharing
 
