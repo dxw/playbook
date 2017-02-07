@@ -875,7 +875,7 @@ We don't have traditional line management at dxw. Often, line managers have a lo
 * First point of contact for disciplinary matters and grievances
 * Approving holiday and leave requests and managing sickness absence
 * Queries about employment issues
-* Regular allocation and supervision of work
+* Regular allocation and checking of work
 * Point of contact for advice about how to do things
 * Approving training and conference attendance
 * Caring for and nurturing a team to ensure it's effective
@@ -887,9 +887,9 @@ At dxw, we don't think this is an effective way to work. We want experienced del
 So, at dxw, the role of line manager is split up, so that each aspect is looked after by the best person for the job:
 
 * Delivery managers: performance, allocation of work, caring for the team
-* Business operations: Holiday, sickness, employment issues
-* MD: Disciplinaries and grievances, training and conferences
-* Any appropriate colleague: supervision of work, advice
+* Business operations: Holiday, sickness, employment issues, booking training and conferences
+* MD: Disciplinaries and grievances, approving things
+* Any appropriate colleague: checking your work, getting advice
 
 ### Calendars and documents
 We use Google Apps for Work to manage calendars, write and share documents. There is a dxw folder where we share most of the things we write. If you can't see it when you log in to Google Drive, you'll need to ask someone else to send you the link, and then click "Add to drive".
