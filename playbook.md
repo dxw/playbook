@@ -752,9 +752,13 @@ If you are sick, you must let us know by 10:00, or as soon as is reasonably prac
 
 If you're sick but able to work, you can work from home. Everyone at dxw should have a laptop, and should generally take it home with them in case it's needed. If you're sick and at home but don't have your laptop, it can be couriered to you.
 
-If you're sick for more than 7 calendar days, you'll need to provide a [fit note](https://www.gov.uk/government/publications/the-fit-note-a-guide-for-patients-and-employees) on your return to work. If you're sick for more than 14 calendar days, we will probably want to discuss your situation to see what we can do to help and to understand when/if you are likely to return.
+When you return to work, you must check that your sickness has been correctly recorded in BreatheHR, and update it if necessary. If you're sick for more than a week, you'll also need to provide a [fit note](https://www.gov.uk/government/publications/the-fit-note-a-guide-for-patients-and-employees).
 
-When you return to work, you must check that your sickness has been correctly recorded in BreatheHR, and update it if necessary.
+If you're sick on more than 10 occasions or for more than 10 days over a 12-month period, we'll invite you to an absence meeting to discuss your situation. We may agree with you an action plan and/or a review period. We may seek medical advice. Should your attendance fail to improve after a three-month period, we will invite you to a further absence meeting to discuss your situation. In this meeting we will also give consideration to your possible dismissal.
+
+We'll also invite you to an absence meeting if you're off sick for more than three weeks on a single occasion. In addition to the above, we will seek to support your return to work and discuss with you any temporary or permanent adjustments which may assist you. If you are unable to return to work in your current role we will consider if there is a suitable alternative role. If we are unable to reach an agreement that will permit you to return to work, we will  give consideration to your possible dismissal.
+
+We will always only consider dismissal after we have exhausted all other reasonable options.
 
 
 ### Working from home
@@ -764,7 +768,7 @@ If you are working from home, you must record this as an absence in BreatheHR. T
 
 ### Data protection
 
-Though dxw doesn't control much personal data, our clients generally do. And some of it may be held on sites that we host. Everyone at dxw has a responsibily to keep that data safe, and process it in accordance to the [data protection principles](https://www.gov.uk/data-protection/the-data-protection-act).
+Though dxw doesn't control much personal data, our clients generally do. And some of it may be held on sites that we host. Everyone at dxw has a responsibility to keep that data safe, and process it in accordance to the [data protection principles](https://www.gov.uk/data-protection/the-data-protection-act).
 
 In particular, we:
 
