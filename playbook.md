@@ -756,11 +756,40 @@ If you're sick for more than 7 calendar days, you'll need to provide a [fit note
 
 When you return to work, you must check that your sickness has been correctly recorded in BreatheHR, and update it if necessary.
 
+### Parental leave
+
+#### Maternity leave
+If you're expecting a child, you’ll probably be entitled to maternity leave and statutory maternity pay (SMP), which is funded by the government. They will pay you 90% of your normal salary for the first six weeks of your maternity leave.
+
+Assuming you are entitled to SMP (almost everyone is), dxw will also pay you 90% of your salary for second six weeks of your maternity leave. This contribution is called Occupational Maternity Pay (OMP). Taken together, this means that you’ll have twelve weeks of leave on 90% of your normal salary.
+
+To be eligible for OMP, on returning to work you will need to stay at dxw for at least three months full time (or proportionately longer if working part-time). If you decide not to, you will have to repay any OMP you received.
+
+When you know you are pregnant please do tell us as soon as possible, so we can check that your working arrangements are safe for you and also ensure you are paid for time off for antenatal appointments.
+
+#### Paternity leave
+If your partner is having a baby or you are adopting, you’ll probably be eligible for statutory paternity pay and leave.
+
+Ordinary paternity leave (OPL) may be taken for one or two weeks in a block (not two separate weeks), between the date of birth and 56 days afterwards.
+
+If you qualify for OPL, we will top it up with an extra week of company paternity leave paid at the same rate as you were paid OPL, giving you three weeks of leave in total.
+
+
+#### Keep in touch (KIT) days
+You have 10 paid KIT days to take during your paternity or maternity leave if you wish to come in for departmental meetings, events or just to spend some time in the office.
+
+Any bank holidays that you miss while on paternity or maternity will be added to your holiday entitlement when you return to work.
+
+
+#### Shared Parental Leave
+If you're having a baby or adopting a child, you may be eligible for [Shared Parental Leave and Pay](https://www.gov.uk/shared-parental-leave-and-pay). If you're interested in taking this up, please talk to Vanessa.
+
 
 ### Working from home
 Generally, we work either at our office or at client sites. But it's usually fine to work from home from time to time, or in order to complete a specific task. If you're working apart from your team, it is essential that you remain contactable and productive, and the onus is on you to be especially communicative.
 
 If you are working from home, you must record this as an absence in BreatheHR. There is a category, "WFH", for this purpose.
+
 
 ### Data protection
 
