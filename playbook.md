@@ -165,7 +165,6 @@ Once estimated, stories are prioritised by the client and put into the backlog f
 By the end of this session, the full team should be confident about the goal of the sprint and what is being worked on.
 
 #### Daily standups
-
 Every morning the delivery manager facilitates a standup. Standups last 5-10 minutes and is for the developers to discuss what they're working on and whether there are any problems or dependencies. If we're not co-located with a client, these happen over Talky or Google Hangout.
 
 #### Retrospectives
