@@ -958,6 +958,10 @@ Beyond a general duty to treat information carefully, unclassified information i
 #### Pensions
 dxw will provide a pension which is operated by Aviva. We are in the process of setting this pension up, and will add more details here as soon as they are finalised. We expect the first deductions to be made around May 2017.
 
+#### Childcare Vouchers
+dxw have a Childcare vouchers scheme with Busy Bees Benefits www.busybeesbenefits.com/childcare
+For more information, check BreatheHR or let Vanessa know you would like to join the scheme.
+
 #### Conference Perk
 It's important to cultivate interests outside work, and we believe that investing time in this brings benefits to dxw.
 
