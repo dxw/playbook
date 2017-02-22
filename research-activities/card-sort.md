@@ -40,8 +40,3 @@ When discussing the reasons for groupings and moving things around to reach a co
 When giving participants a stack of content cards, make sure to randomise the order they’re in 
 **Take lots of pictures**
 Clearly mark these with the participant, date and number
-
-
-## Examples
-
-TODO: we need some photographs and example outputs.
