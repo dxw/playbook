@@ -190,6 +190,7 @@ To deploy:
   ```
   git fetch
   git checkout master
+  git pull
   git merge origin/develop
   git push
   ```
