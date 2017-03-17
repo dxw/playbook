@@ -136,6 +136,26 @@ At a high level, the purpose of each phase is:
 
 We don't always do all these stages for every client. Often, we'll only be involved in a couple. But we can help with all or any of them, depending on our clients' needs.
 
+### Development
+At dxw, we follow several practices to help us regularly deliver code that is high quality, safe and maintainable, whilst preventing as many [regressions](https://en.wikipedia.org/wiki/Software_regression) in our software.
+
+#### Test-driven development
+When we pickup a new story developers start by writing tests that describe what the user needs to be able to do for the feature to be complete.
+
+These tests will initially all fail and as we write code they will begin to pass. After each change we make we run the tests again and if they go green, we can are done. This ultimately results in us writing less code which more features are shipped and the codebase is simpler.
+
+#### Automated testing
+We have tools set up to continuously run tests on active branches when there are changes and report back to the team via GitHub or Slack with what is passing and failing. This helps us stay on top of bugs that creep in unexpectedly when for example, two features have overlapped.
+
+#### Code reviews
+To keep the quality high and our bugs low, each new feature needs to be [looked at](../guides/development-workflow#code-review.md) by a peer. They will be looking to feedback on specific characteristics of the code such as bugs, security concerns, optimisations, readability and if the feature has complete [acceptance criteria](https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development#Acceptance_criteria_and_tests).
+
+#### Automated deployment pipelines
+To keep our developers focused on building features that delivery value to users we invest time in automating the rest of our process.
+
+As part of the approach of [continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery) we want to safely [deploy](../guides/development-workflow##deploying.md) to different environments such as test, stage and production as often as possible.
+
+We use automation tools such as Jenkins, Chef and Codeship to manage this. Having machines take care of this regular task removes the risk of human error, ensures all tests are passing and there was at least one approved code review, without exception.
 
 ### Research
 At dxw, we do as much work as we can on the basis of user research findings, because we believe in making decisions based on evidenced user needs. The primary method we use to conduct research is to talk to users (which includes staff) about their needs.
