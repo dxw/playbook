@@ -653,8 +653,8 @@ All applications arrive via Workable. We review these applications as a team to 
 
 An application review is a very quick process. We look at the information given by the candidate and decide if it is likely that the applicant has the skills, experience and personal qualities that we need. If it is likely, we progress them to the next stage.
 
-### Skype screen
-The purpose of the Skype screen is to:
+### Screening
+The purpose of the screening is to:
 
 1. Introduce ourselves and explain a little more about the job and life at dxw
 2. Talk to the candidate about their experience and explore why they are interested in the job
@@ -681,7 +681,7 @@ We avoid making any commitments during this call. Near the end, we explain that 
 After the call, you can talk about the candidate with the team if you wish, or just make a decision. If you think it's quite likely that they have the skills, experience and personal qualities that we need, you should take them through to an interview.
 
 ### Interviews
-Candidates who have a successful skype screen will be offered an interview. This is an hour long with two members of the team.
+Candidates who have a successful screen will be offered an interview. This is an hour long with two members of the team.
 
 Before going to an interview, make sure you have:
 
