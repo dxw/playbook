@@ -628,7 +628,7 @@ There's quite a lot of work involved in given sale, as it moves through the stag
 ### Basics
 We use [Workable](https://dxw.workable.com) for recruitment, to help us stay organised and keep in touch with candidates.
 
-Each candidate moves through a number of stages before being offered a job or declined: a screening interview via skype, an interview and a work day. The work day includes another interview.
+Each candidate moves through a number of stages before being offered a job or declined: a screening interview via skype or phone, an interview and a work day. The work day includes another interview.
 
 We feel strongly that it's important to be respectful of candidates time and interest in us, and that their attention is valuable. So we do our best to be responsive, human and open. It's particularly important to give unsuccessful candidates good, thorough feedback about why we haven't made them an offer.
 
