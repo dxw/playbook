@@ -49,4 +49,4 @@ When giving participants a stack of content cards, make sure to randomise the or
 Clearly mark these with the participant, date and number
 
 -**Take notes in a way that is easy to analyse**
-For tips on how to take notes for agile analysis see (https://www.dxw.com/2016/12/how-we-capture-research-data-for-agile-analysis "How we capture research data for agile analysis")
+For tips on how to take notes for agile analysis see [How we capture research data for agile analysis](https://www.dxw.com/2016/12/how-we-capture-research-data-for-agile-analysis)
