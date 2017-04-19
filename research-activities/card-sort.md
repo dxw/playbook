@@ -11,7 +11,7 @@ Card sorts are a good way to figure out what to call things and how they should 
 
 Open - participants group sample content, ideas, needs and come up with a name for the category. 
 
-Closed - participants move content, ideas, and needs to already named categories. This is also useful for later stages of  designing something, when content is revised and a well-tested structure is already in place. You can also use closed card sorting to prioritise needs, features and products.
+Closed - participants move content, ideas, and needs to already named categories. This is useful for later stages of he design. This might be when initial rounds of sorting are already done or content needs to be revised with established structure already in place.
 
 You can also think of these as two parts of the design process:
 Use open sorts to understand what goes together and what it should be called. 
@@ -19,7 +19,7 @@ Use closed sorts to test and validate what you already have with more people and
 
 Hybrid sessions are also useful. You provide categories but let people create new ones, and remove and rename categories if they feel it doesn’t fit into any of the existing ones.
 
-## Instructions (open sort)
+## Instructions
 
 1. Prepare category cards for each participant. *Write categories on cards for a closed sort. You might have identified these through a quantitative/automated sorting, through discussion/design sprint or in previous card sort sessions.
 2. Prepare some content cards for each category (a set for each participant)
