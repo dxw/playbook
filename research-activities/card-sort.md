@@ -5,7 +5,7 @@
 **Estimated time:** 60 minutes
 
 ## Best to use when
-Card sorts are a good way to figure out what to call things and how they should be organised so that users can find what they are looking for. It can also be used to prioritise what to work on in a given sprint and can help teams identify missing user needs. 
+Card sorts are a good way to figure out what to call things and how they should be organised so that users can find what they are looking for. 
 
 **There are two types of card sorts:**
 
@@ -21,22 +21,24 @@ Hybrid sessions are also useful. You provide categories but let people create ne
 
 ## Instructions (open sort)
 
-1. Prepare category cards for each participant. *Write categories on cards for a closed sort.
+1. Prepare category cards for each participant. *Write categories on cards for a closed sort. You might have identified these through a quantitative/automated sorting, through discussion/design sprint or in previous card sort sessions.
 2. Prepare some content cards for each category (a set for each participant)
-3. Ask participants to group the cards in the way that makes sense to them and give the groups names. *For a closed sort participants move content cards into categories you’ve prepared.
-4. Discuss why they grouped the cards the way they did
+3. Ask participants to group the cards in the way that makes sense to them and give the groups names. *For a closed sort participants move content cards into categories you’ve prepared. *A variation of ‘other pile’ and allowing participants to amend and create new categories are often useful particularly in the first round of sorting
+4. Discuss why they grouped the cards the way they did. *This part is where the notetaker/observer must really listen for comments, reasoning and questions. Equally, the notetaker should take notes of comments and questions that arise as poeple work on the groupings.
 5. If there too many categories and time allows, you can try to get participants to reach a consensus
 6. Repeat
 
 ## Things to remember
 
-**Quantitative vs. qualitative sorts**
+-**Quantitative vs. qualitative sorts**
 An automated quantitative sort online can be a good start to identify categories. They can also be used to test your sort on a larger scale after the in-person sessions.
-**People get tired**
+-**Granularity is important**
+PIeces of content selected for the cards can be from individual pages, functionality, small groups of pages, or whole sections of the site. Be consisent with the groups you are working with otherwise participants will struggle and there will be a lot of inconditency between groupings.
+-**People get tired**
 Avoid the temptation to sort everything in one go. Limit the number to 30-40 cards
-**Consider the loudest voices** 
+-**Consider the loudest voices** 
 When discussing the reasons for groupings and moving things around to reach a consensus, be mindful of the loudest people in the room and how this affects results
-**Randomise**
+-**Randomise**
 When giving participants a stack of content cards, make sure to randomise the order they’re in 
-**Take lots of pictures**
+-**Take lots of pictures**
 Clearly mark these with the participant, date and number
