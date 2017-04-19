@@ -32,13 +32,21 @@ Hybrid sessions are also useful. You provide categories but let people create ne
 
 -**Quantitative vs. qualitative sorts**
 An automated quantitative sort online can be a good start to identify categories. They can also be used to test your sort on a larger scale after the in-person sessions.
+
 -**Granularity is important**
 PIeces of content selected for the cards can be from individual pages, functionality, small groups of pages, or whole sections of the site. Be consisent with the groups you are working with otherwise participants will struggle and there will be a lot of inconditency between groupings.
+
 -**People get tired**
 Avoid the temptation to sort everything in one go. Limit the number to 30-40 cards
+
 -**Consider the loudest voices** 
 When discussing the reasons for groupings and moving things around to reach a consensus, be mindful of the loudest people in the room and how this affects results
+
 -**Randomise**
-When giving participants a stack of content cards, make sure to randomise the order they’re in 
+When giving participants a stack of content cards, make sure to randomise the order they’re in
+
 -**Take lots of pictures**
 Clearly mark these with the participant, date and number
+
+-**Take notes in a way that is easy to analyse**
+For tips on how to take notes for agile analysis see [link] https://www.dxw.com/2016/12/how-we-capture-research-data-for-agile-analysis/ "How we capture research data for agile analysis")
