@@ -736,6 +736,10 @@ Most developers have maintenance responsibilities, which they do during [ticket 
 
 We do our very best to work to a [sustainable pace](#sustainable-pace). But sometimes, when we're approaching a firm deadline or a launch, or a client is having an emergency, we work longer hours than normal. From time to time, there's an emergency that means we have to work during unsociable hours to solve the problem. Neither of these happen very often, but they are a normal part of life at dxw.
 
+### Remuneration
+dxw will institute a cost of living rise each year from April 2017. The percentage will be set by the CPI Index (https://www.ons.gov.uk/economy/inflationandpriceindices) as of 1st April each year and you will receive your raise in the April payroll.
+
+For any other salary queries, please speak to Harry.
 
 ### Holiday
 We use BreatheHR to manage holiday requests.
