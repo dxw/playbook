@@ -162,14 +162,12 @@ get in touch.
 
 If the issue is fixed:
 
-- [ ] Email the developer to thank them for the fix and let them know we'll be publishing.
 - [ ] Ensure that there's a note in the timeline of when the vendor first replied.
 - [ ] Update the timeline as appropriate, e.g. 2014-01-02: Vendor reported issue fixed in version 1.2.3
 - [ ] Update the timeline as appropriate, e.g. 2014-01-05: Advisory published
 - [ ] Mark the advisory from 'Reported' to 'Fixed'
 - [ ] Update the 'mitigation' section to say 'Upgrade to version X or later'
 - [ ] Add the CVE if it's come through.
-- [ ] Send the developer the CVE (if it's come through) and a link to the advisory. Suggest that they add one or both of these to their changelog.
 
 If the issue is NOT fixed:
 
@@ -195,6 +193,12 @@ If the plugin was removed from the directory:
 - [ ] Publish the Advisory
 - [ ] While logged in, view the published advisory and hit the Full Disclosure, WP Scan and dxw WP Security buttons.
 - [ ] Also hit the WP-hackers button ONLY IF it's particularly important or high-profile
+- [ ] Send the developer the CVE (if it's come through) and a link to the advisory.
+- [ ] Email the developer:
+  - thank them for the fix
+  - include the CVE (if it's come through)
+  - include a link to the advisory
+  - suggest that they add one or both of these to their changelog.
 
 Once the advisory has been published the associated inspection can also be published:
 
