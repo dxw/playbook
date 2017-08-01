@@ -289,13 +289,13 @@ On WordPress projects, we [deploy by pushing commits](https://github.com/dxw/pla
 
 
 ### Managing delivery
->"The delivery manager sets the team up for successful delivery. Remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done." 
+>"The delivery manager sets the team up for successful delivery. Remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done."
 >
 >-- <cite>[Government Digital Service](https://www.gov.uk/service-manual/the-team/delivery-manager.html)</cite>
 
 At dxw, delivery managers ensure that sprints go smoothly and that the team remain productive. They are generally the client's first and main point of contact, and are responsible for ensuring that we deliver good work.
 
-Throughout a sprint, delivery managers ensure that agreed process is followed, organising and facilitating discussions as required. They run sprint planning and retrospective sessions. They run daily standups with the dxw and client teams to keep everyone informed and to discuss and resolve any blockers. 
+Throughout a sprint, delivery managers ensure that agreed process is followed, organising and facilitating discussions as required. They run sprint planning and retrospective sessions. They run daily standups with the dxw and client teams to keep everyone informed and to discuss and resolve any blockers.
 
 Outside these session and standups, they will maintain regular communication with the client and the delivery team to respond quickly to challenges as they arise. If priorities change during a sprint, the delivery manager will work with the client to understand and plan for the impact of the change.
 
@@ -311,7 +311,7 @@ By the end of this session, the full team should be confident that there is enou
 TODO
 
 #### Retrospectives
-At the end of every sprint, the delivery manager facilitates a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. These sessions are attended by all the people involved in delivering the sprint along with the client team. 
+At the end of every sprint, the delivery manager facilitates a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. These sessions are attended by all the people involved in delivering the sprint along with the client team.
 
 During the session we talk about the things that did and didn't go well, we then agree actions to improve the delivery of future work.
 
@@ -396,12 +396,12 @@ Of course, every client would like us to go the extra mile to solve their proble
 
 While we do everything we can to make sure the client is happy with our solution, we are also mindful of what's practical. We don't do serious bits of development work on tickets, or trial new approaches. We don't play with new tools or sink hours into interesting bugs. We set those things aside, and do them later.
 
-The main purpose of a ticket is to take some action that solves the problem, as quickly as possible. Generally speaking, we do the most time-efficient thing that we can. Of several potential solutions that solve the problem, assuming none is a bad one, we do the one which can be implemented the most quickly.
+The main purpose of a ticket is to take some action that solves the problem quickly, particularly when the availability or functionality of the site is compromised. However, a bad solution implemented quickly is rarely preferable to a good solution implemented slightly less quickly. Time should not be the deciding factor if the quick fix will make our or the client's life significantly more difficult, or if a small investment of time up front will save time in future.
 
 #### Make sure clients feel informed and in control
 For many of our clients, the helpdesk can feel intimidating: especially when they are not technical, or are not sure what they are entitled to ask for as part of the service they receive.
 
-It is important that we make the helpdesk experience a [positive](#positive) one. Tickets will not always explain an issue in a way that is clear to us, and clients will not always ask for the right thing. 
+It is important that we make the helpdesk experience a [positive](#positive) one. Tickets will not always explain an issue in a way that is clear to us, and clients will not always ask for the right thing.
 
 It is our responsibility to gain an accurate understanding of the issue, and to help the client to feel more informed in the process. Where there are many possible solutions, it is also our responsibility to present those options to the client, such that they are able to understand each option's strengths and make an informed decision.
 
