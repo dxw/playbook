@@ -396,7 +396,7 @@ Of course, every client would like us to go the extra mile to solve their proble
 
 While we do everything we can to make sure the client is happy with our solution, we are also mindful of what's practical. We don't do serious bits of development work on tickets, or trial new approaches. We don't play with new tools or sink hours into interesting bugs. We set those things aside, and do them later.
 
-The main purpose of a ticket is to take some action that solves the problem quickly, particularly when the availability or functionality of the site is compromised. However, a bad solution implemented quickly is rarely preferable to a good solution implemented slightly less quickly. Time should not be the deciding factor if the quick fix will make our or the client's life significantly more difficult, or if a small investment of time up front will save time in future.
+The main purpose of a ticket is to take some action that solves the problem quickly. However, a bad solution implemented immediately is rarely preferable to a good solution implemented slightly less quickly. Time should not be the deciding factor if the quick fix will make our or the client's life significantly more difficult, or if a small investment of time up front will save time in future.
 
 #### Make sure clients feel informed and in control
 For many of our clients, the helpdesk can feel intimidating: especially when they are not technical, or are not sure what they are entitled to ask for as part of the service they receive.
