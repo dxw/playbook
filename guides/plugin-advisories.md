@@ -10,13 +10,10 @@ The steps for progressing an Advisory are:
 
   1. Check for existing advisories
   2. Write up an advisory
-  3. Report the advisory:
-
-     - Notify the plugin author
-     - Request a CVE
-     - Notify the WordPress plugin admins (only in special circumstances)
-
+  3. Report the advisory to the plugin author
+  4. Notify the WordPress plugin admins (only in special circumstances)
   4. (at a later date) Publish the advisory
+  5. Request a CVE
 
 The progress of advisories inspections is tracked alongside inspections using the [inspections Trello
 board](https://trello.com/b/sN42avTZ/dxwsec-inspections-and-advisories)
@@ -97,8 +94,6 @@ Note:
 
 - The format of timeline entries should be `YYYY-MM-DD: Message`, e.g. `2013-08-09: Discovered`
 
-The following activities can be completed in any order:
-
 ### Notify the plugin Author
 
 Note:
@@ -120,12 +115,7 @@ As an example of a humanising intro:
 > Best regards
 > Duncan
 
-### Request a CVE
-
-- [ ] Hit the "Request CVE" button under "Report emails"
-- [ ] Add a note to the timeline - e.g. 2014-01-02: Requested CVE
-
-### Notify the WordPress plugin admins
+## Notify the WordPress plugin admins
 
 There are two scenarios in which the WordPress plugin admins (plugins@wordpress.org) should be contacted:
 
@@ -139,7 +129,7 @@ Their policy is this:
 - [ ] Hit the "WP Plugins" button under "Report emails"
 - [ ] Add a note to the timeline - e.g. 2014-01-02: Reported to WP Plugins
 
-#### :rotating_light: IMPORTANT :rotating_light:
+### :rotating_light: IMPORTANT :rotating_light:
 
 If we couldn’t get in touch with the plugin author then WP Org may be able to contact them on our behalf, BUT we shouldn’t expect them to feed back any information to us, or even to confirm that they have successfully contacted the author (they are insanely busy).
 
@@ -167,7 +157,6 @@ If the issue is fixed:
 - [ ] Update the timeline as appropriate, e.g. 2014-01-05: Advisory published
 - [ ] Mark the advisory from 'Reported' to 'Fixed'
 - [ ] Update the 'mitigation' section to say 'Upgrade to version X or later'
-- [ ] Add the CVE if it's come through.
 
 If the issue is NOT fixed:
 
@@ -175,7 +164,6 @@ If the issue is NOT fixed:
 - [ ] Update the timeline as appropriate, e.g. 2014-01-05: Published
 - [ ] Leave the status as 'Reported'
 - [ ] Update the 'mitigation' section to say 'Disable: the plugin has been removed from the plugins directory and no fixed version is known.'
-- [ ] Add the CVE if it's come through.
 
 If the plugin was removed from the directory:
 
@@ -183,7 +171,6 @@ If the plugin was removed from the directory:
 - [ ] Update the timeline as appropriate, e.g. 2014-01-05: Published
 - [ ] Leave the status as 'Reported'
 - [ ] Update the 'mitigation' section to say 'Disable: no fixed version is known.'
-- [ ] Add the CVE if it's come through.
 
 ### Publishing the advisory and associated inspection
 
@@ -193,10 +180,8 @@ If the plugin was removed from the directory:
 - [ ] Publish the Advisory
 - [ ] While logged in, view the published advisory and hit the Full Disclosure, WP Scan and dxw WP Security buttons.
 - [ ] Also hit the WP-hackers button ONLY IF it's particularly important or high-profile
-- [ ] Send the developer the CVE (if it's come through) and a link to the advisory.
 - [ ] Email the developer:
   - thank them for the fix
-  - include the CVE (if it's come through)
   - include a link to the advisory
   - suggest that they add one or both of these to their changelog.
 
@@ -205,3 +190,12 @@ Once the advisory has been published the associated inspection can also be publi
 - [ ] Add a link to the advisory
 - [ ] Make sure it isn't set to tweet
 - [ ] Publish the inspection
+
+### Request a CVE
+
+Note that most CVEs cannot be requested before publication due to the rules of
+the Distributed Weakness Filing project. Vulnerabilities in plugins made by
+WordPress itself follow different rules as they're covered by MITRE.
+
+- [ ] Visit https://iwantacve.org and fill out the form
+- [ ] Add a note to the timeline - e.g. 2014-01-02: Requested CVE
