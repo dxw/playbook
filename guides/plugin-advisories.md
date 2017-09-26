@@ -175,21 +175,23 @@ If the plugin was removed from the directory:
 ### Publishing the advisory and associated inspection
 
 - [ ] Set the Tweet status to 'Tweet'
-- [ ] Amend the published date to today (otherwise it will show with the
-  privately published date)
-- [ ] Publish the Advisory
-- [ ] While logged in, view the published advisory and hit the Full Disclosure, WP Scan and dxw WP Security buttons.
-- [ ] Also hit the WP-hackers button ONLY IF it's particularly important or high-profile
-- [ ] Email the developer:
-  - thank them for the fix
-  - include a link to the advisory
-  - suggest that they add one or both of these to their changelog.
+- [ ] Amend the published date to today (otherwise it will show with the privately published date)
+- [ ] Publish the advisory
+- [ ] While logged in, view the published advisory and hit the Full Disclosure, WP Scan and dxw WP Security buttons
 
 Once the advisory has been published the associated inspection can also be published:
 
 - [ ] Add a link to the advisory
-- [ ] Make sure it isn't set to tweet
+- [ ] Set the Tweet status to 'Do not tweet'
+- [ ] Amend the published date to today (otherwise it will show with the privately published date)
 - [ ] Publish the inspection
+
+Once it's published we can alert upstream:
+
+- [ ] Email the developer:
+  - thank them for the fix
+  - include a link to the advisory
+  - suggest that they add the link to the changelog
 
 ### Request a CVE
 
