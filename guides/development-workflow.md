@@ -280,13 +280,13 @@ Ask yourself these questions:
 
 To help us focus on the contents of our commits and convey concise messages to the reader we use a handful of prefixes. These allow us to move fast when reading through code because we can understand each commit's purpose without risk of misinterpreting the title.
 
-It is a powerful tool for a developer to read a commit that starts with `(refactor):` and trust that no new behaviour was added.
+It is a powerful tool for a developer to read a commit that starts with `(refactor)` and trust that no new behaviour was added.
 
 ```
-(feature): when we are adding something new
-(fix): when we are fixing something existing
-(refactor): when we are changing the implementation of something existing without changing its behaviour
-(chore): catch all for when none of the above apply and there is no immediate user need eg. gem/package updates
+(feature) when we are adding something new
+(fix) when we are fixing something existing
+(refactor) when we are changing the implementation of something existing without changing its behaviour
+(chore) catch all for when none of the above apply and there is no immediate user need eg. gem/package updates
 ```
 
 **Examples:**
@@ -296,7 +296,7 @@ It is a powerful tool for a developer to read a commit that starts with `(refact
 Added repairs
 
 # Great
-(feature): Job postings are now displayed on the landing page
+(feature) Job postings are now displayed on the landing page
 
 * Getting the Job postings out of the external API proved difficult but I think the solution we have will allow us to easily upgrade to the new release they have planned: <link>
 ```
@@ -306,7 +306,7 @@ Added repairs
 Fixed the form
 
 # Great
-(fix): Food order form works with special characters
+(fix) Food order form works with special characters
 
 * Previously the form failed to send if the starter value included any of the following characters: `!@£$%^&`
 * Users should be able to use these characters and after a short investigation I found this new bug in PHP: <link>
@@ -318,7 +318,7 @@ Fixed the form
 Gem upgrade
 
 # Great
-(chore): Upgrade widget to v1.2.1
+(chore) Upgrade widget to v1.2.1
 
 * This widget now includes a patch that improves resilience: <link>
 * We are still unable to upgrade to v2.x as we need to do some migration work first
