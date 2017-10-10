@@ -28,7 +28,7 @@ As part of regular retrospectives we evolve our principles by identifying what w
 
 #### Two pairs of eyes
 
-All code we write needs be reviewed both another developer. We hope that doing this will mean we:
+All code we write needs be reviewed by another developer. We hope that doing this will mean we:
 - ship better quality code
 - get the opportunity to learn new skills
 - increase the shared knowledge of our products
