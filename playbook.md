@@ -76,7 +76,8 @@ However, there are some things that we must keep private.
 
 - Our clients trust us to host content that is not public, like upcoming announcements and discussions made as part of formulating new policy. This is not our information to be open about, and it's very important to keep it confidential.
 - We also hold some personal data about and/or on behalf of our clients. We never share any of this data, including contact details. See also: [data protection](#data-protection).
-- We are sometimes sent documents that are [protectively marked](#protective-marking-scheme), and we have a protective marking scheme of our own. Information in these documents is confidential.
+- We are sometimes sent documents that are [protectively marked](#protective-marking-scheme), and we have a 
+scheme of our own. Information in these documents is confidential.
 - Information about work that is currently being procured (whether we are bidding or not) and any other information that could damage the commercial interests of a client or supplier
 
 If you want to talk about something, and you're not sure if it's confidential, play it safe: ask a colleague.
@@ -956,6 +957,16 @@ As a rule of thumb, label a document as Client Confidential if it mostly contain
 Anything not captured by the sections above is unclassified. Examples are external marketing material, general emails and letters.
 
 Beyond a general duty to treat information carefully, unclassified information is not subject to any specific restrictions.
+
+### Email Signature
+Name
+Job Title
+name@dxw.com
+Twitter handle - if you’re comfortable to share
+Mobile - if you’re comfortable to share
+
+www.dxw.com :: 0345 2577520 :: @dxw
+helping public sector teams to make good technology decisions and build better services
 
 ### Benefits
 
