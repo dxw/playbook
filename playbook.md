@@ -1,5 +1,3 @@
-# dxw's playbook
-
 ## Purpose
 For most of dxw's life, we've been small enough that it's been easy for everyone to know what's going on and how to get things done, just by listening to what's going on in the office. The team is now big enough that we need a reference for the way we do things. A place to capture the changes we agree to make. Something canonical that tells us what the current "right way" to do things is.
 

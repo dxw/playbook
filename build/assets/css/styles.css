@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'Founders-Light';
+  src: url('../fonts/FoundersGroteskTextWeb-Light.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/FoundersGroteskTextWeb-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/FoundersGroteskTextWeb-Light.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/FoundersGroteskTextWeb-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Founders-Medium';
+  src: url('../fonts/FoundersGroteskTextWeb-Medium.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/FoundersGroteskTextWeb-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/FoundersGroteskTextWeb-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/FoundersGroteskTextWeb-Medium.woff') format('woff');
+}
+
+body {
+  font-family: Founders-Light, sans-serif;
+  font-size: 15pt;
+  color: #393b44;
+  line-height: 1.6em;
+  margin: 0;
+  padding: 0;
+  background: #FAFDFE;
+}
+.sidebar, .sidebar input {
+  background: #006998;
+  color: #fafafa;
+}
+.sidebar input::placeholder {
+  color: #f1f1f1c4;
+}
+.sidebar ul li a {
+  color: #fafafa;  
+}
+.sidebar {
+  z-index: 3;
+}
+.search {
+  border-bottom: 1px solid #f1f1f175 !important;
+}
+
+h1,h2,h3,h4,h5 {
+  font-family: Founders-Medium, sans-serif;
+  font-weight: 500;
+  letter-spacing: -1px;
+}
+.markdown-section h1:not(:first-of-type) {
+  margin-top: 2em;
+}
+
+b,strong {
+  font-family: Founders-Medium, sans-serif;
+  font-weight: 500;
+}
+
+.app-nav a {
+  font-size: 15pt;
+}
+.app-nav li ul li, .sidebar ul li a {
+  font-size: 13pt;
+}
+article p a, article li a {
+  color: #006998;
+  text-decoration: none;
+  border-bottom: 3px solid rgba(28,164,222,0.2);
+  transition: all 0.2s ease-in-out;
+}
+article p a:hover, article li a:hover {
+  color: #00344c;
+  border-bottom-color: rgba(0,52,76,0.4);
+}
+.markdown-section > :first-child a {
+  border-bottom: none;
+  font-size: 13pt;
+}
+.sidebar li {
+  line-height: 1.6;
+}
+.sidebar ul li.active > a {
+  font-family: Founders-Medium, sans-serif;
+  color: #fafafa;  
+  border-right: 4px solid;
+}
+.search a:hover {
+  color: #fafafa; 
+}
+article li {
+  margin-bottom: 10px;
+}
+.logo {
+  float:right; margin-left:20px; margin-top: 5px;
+}
+.sidebar-toggle {
+  background-color: transparent;
+}
