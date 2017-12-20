@@ -16,6 +16,24 @@ GitHub allows us to:
 
 ---
 
+## Decide if new content is for the playbook
+
+### It’s in the playbook if
+* it’s a principle explained in plain english.
+* it’s something we want to/are comfortable to share outside of dxw.
+* we want it to be visible to the wider team.
+* it's user research or design glossary.
+
+### It’s in guides if
+* it’s a detailed, step by step instruction.
+* we’re talking about something specialist. This could mean we are using jargon. and referring to community-known methods and ways of working.
+
+### It’s something else if
+* it’s something visual and reusable, it will likely belong in the brandbook. 
+* it’s a good, work-related read, there may be a repository to put it in.
+* it’s a poster it should be succinct, large-print friendly and something we want to share with the wider dxw team. It’s also something we want clients to see and understand. It belongs in the brandbook.
+
+
 ## Create
 1. View the main [GitHub page](https://github.com/dxw/playbook)
 2. Go to the folder where you want to add a new file
