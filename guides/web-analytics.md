@@ -26,6 +26,16 @@ There are a few basic steps it's worth following for any site you've set up in G
 
 Take some time to think about what activity on the site you might want to track. **If you do not record a user action at the time it happens, it is lost forever**, so the more you can set up in advance (e.g. goals for transactions such as newsletter sign-ups, recording of on-site search terms), the better.
 
+## Understanding Google Analytics
+
+GA uses a lot of jargon. Some good resources for understanding it:
+
+* Average Time on Page: [Understanding Google Analytics’ Average Time on Page](https://blog.quiet.ly/insights/understanding-google-analytics-average-time-on-page/)
+* Bounce rate: [Adjusted Bounce Rate](https://moz.com/blog/adjusted-bounce-rate) (does a good job of explaining the limitations of bounce rate, and offers a workaround for them)
+* 'Direct' Traffic: [Guide to Direct Traffic](https://moz.com/blog/guide-to-direct-traffic-google-analytics)
+* "Next Page Path": [Misunderstood Metrics: Next Page Path](http://help.analyticsedge.com/googleanalytics/misunderstood-metrics-next-page-path/)
+* View filtering: [A better alternative to exclude filters in Google Analytics](https://www.lunametrics.com/blog/2017/08/10/a-better-alternative-to-exclude-filters-in-google-analytics/). This is an article about Google Tag Manager, which exposes many of the configuration features of GA in JavaScript.
+
 ## Useful resources
 
 * [GOV.UK: Using data to improve your service](https://www.gov.uk/service-manual/measuring-success/using-data-to-improve-your-service-an-introduction)
