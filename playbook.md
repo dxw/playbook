@@ -238,9 +238,6 @@ We built GovSite because new prospective clients frequently ask us to build very
 
 Read more about it at [www.govsite.com](https://www.govsite.com).
 
-### Mongoose
-
-
 ## Tickets
 
 ### Basics
