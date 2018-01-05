@@ -44,3 +44,12 @@ This is a public document, because it's good to be open. But some things are pri
 
 ### Headings
 Use second level headings for main sections, third for subsections and fourth level ones if you need to. Don't use fifth or first level headings. The table of contents in the HTML version is automatically generated, and it assumes this structure.
+
+## Deployment
+
+To compile the playbook and deploy to github pages run:
+
+```
+cd build
+./deploy
+```
