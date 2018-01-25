@@ -1418,8 +1418,9 @@ don't make it hard for other people to get things done. For example, many people
 arrive earlier than 10:00 and leave earlier, which is generally fine.
 
 We have a short stand-up every morning, where we each tell the whole team about
-a single thing we will get done that day. The stand-up is at 10:00. If you miss
-the stand-up, then you are [late](#lateness).
+a single thing we will get done that day. The stand-up is at 10:00. If you think
+you're going to be late, you should let everyone know in the dedicated Slack
+channel &#x23;lateness.
 
 Most developers have maintenance responsibilities, which they do during [ticket
 time](#ticket-time).
