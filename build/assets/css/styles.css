@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 15pt;
+  color: #393b44;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  background: #FAFDFE;
+}
+.markdown-section ol, .markdown-section p, .markdown-section ul {
+  line-height: 1.5;
+}
+.markdown-section blockquote {
+  border-left-color: #858585;
+}
+.sidebar, .sidebar input {
+  background: #006998;
+  color: #fafafa;
+}
+.sidebar input::placeholder {
+  color: #f1f1f1c4;
+}
+.sidebar ul li a {
+  color: #fafafa;  
+}
+.sidebar {
+  z-index: 3;
+}
+.search {
+  border-bottom: 1px solid #f1f1f175 !important;
+}
+.search .search-keyword {
+  color: white;
+  text-decoration: underline;
+}
+
+h1,h2,h3,h4,h5 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+.markdown-section h1:not(:first-of-type) {
+  margin-top: 2em;
+}
+
+b,strong {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+.app-nav {
+  left: 25%;
+}
+.app-nav a {
+  font-size: 15pt;
+}
+.app-nav li ul li, .sidebar ul li a {
+  font-size: 13pt;
+}
+.app-nav li ul {
+  z-index: 99;
+}
+article p a, article li a {
+  color: #006998;
+  text-decoration: none;
+  border-bottom: 3px solid rgba(28,164,222,0.2);
+  transition: all 0.2s ease-in-out;
+}
+article p a:hover, article li a:hover {
+  color: #00344c;
+  border-bottom-color: rgba(0,52,76,0.4);
+}
+.markdown-section > :first-child a {
+  border-bottom: none;
+  font-size: 13pt;
+}
+.sidebar li {
+  line-height: 1.6;
+}
+.sidebar ul li.active > a {
+  font-family: 'Lato', sans-serif;
+  color: #fafafa;  
+  border-right: 4px solid;
+}
+.search a:hover {
+  color: #fafafa; 
+}
+.sidebar-nav > ul > li {
+  font-family: 'Lato', sans-serif;
+}
+.sidebar-nav > ul > li > ul li {
+  font-family: 'Lato', sans-serif;
+}
+article li {
+  margin-bottom: 10px;
+}
+.logo {
+  float:right; margin-left:20px; margin-top: 5px;
+}
+.sidebar-toggle {
+  background-color: transparent;
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar-toggle {
+    background-color: rgba(255,255,255,0.8);
+    padding: 20px;
+  }
+  .content {
+    position: relative;
+    padding-top: 70px;
+  }
+  .logo {
+    float: left;
+    position: absolute;
+    top: 10px;
+    left: 0;
+  }
+  .app-nav {
+    left: 0;
+  }
+}
+
+.skip {
+  position: absolute;
+  top: -1000px;
+  left: -1000px;
+  height: 1px;
+  width: 1px;
+  text-align: left;
+  overflow: hidden;
+}
+
+a.skip:active, 
+a.skip:focus, 
+a.skip:hover {
+  left: 0; 
+  top: 0;
+  width: auto; 
+  height: auto; 
+  overflow: visible;
+  z-index: 10;
+  background: #FAFDFE;
+  padding: 5px;
+  display: inline-block;
+}

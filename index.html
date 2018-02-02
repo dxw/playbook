@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>dxw Playbook</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="build/assets/css/styles.css">
+  <script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>
+
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'dxw’s playbook',
+      repo: '',
+      loadNavbar: 'build/partials/_navbar.md',
+      homepage: 'playbook.md',
+      maxLevel: 4,
+      themeColor: '#006998',
+      ga: 'UA-29555961-6',
+      formatUpdated: '{DD}/{MM}/{YY}',
+      search: 'auto',
+      plugins: [
+        EditOnGithubPlugin.create(
+          'https://github.com/dxw/playbook/blob/master/',
+          'http://playbook.dxw.com',
+          'Edit document'
+        ),
+      ]
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+  <script src="build/assets/js/skip-to-content.js"></script>
+  <!--[if lte IE 8]>
+  <script src="build/assets/js/ie8-github-redirect.js"></script>
+  <![endif]-->
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "name": "dxw-playbook",
+  "version": "1.0.0",
+  "description": "dxw Playbook",
+  "scripts": {
+    "start": "docsify serve ."
+  },
+  "dependencies": {
+    "docsify": "^4.5.5",
+    "docsify-cli": "^4.1.12",
+    "marked": "^0.3.7",
+    "prismjs": "^1.9.0"
+  }
+}

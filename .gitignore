@@ -1,8 +1,6 @@
 # system files
 .DS_Store
 
-# build files
-build/playbook.html
-build/.ruby-version
-build/.bundle
-build/vendor
+# dependencies
+node_modules/
+npm-debug.log
