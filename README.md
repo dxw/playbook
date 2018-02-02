@@ -45,11 +45,13 @@ This is a public document, because it's good to be open. But some things are pri
 ### Headings
 Use second level headings for main sections, third for subsections and fourth level ones if you need to. Don't use fifth or first level headings. The table of contents in the HTML version is automatically generated, and it assumes this structure.
 
-## Deployment
-
-To compile the playbook and deploy to github pages run:
-
+## Development
+To make changes to the playbook theme, you will need to install the dependencies:
 ```
-cd build
-./deploy
+npm install
 ```
+Then to start a local development server run:
+```
+npm start
+```
+You can now visit http://localhost:3000 to see your local playbook. Theme files live in the `/build` directory
