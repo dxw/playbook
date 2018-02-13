@@ -899,6 +899,12 @@ We use Google Apps for Work to manage calendars, write and share documents. Ther
 
 When we write new things, we try to save them in a sensible folder within the existing structure.
 
+The dxw naming structure for internal and client documents is:
+
+Year-Month-Day    Doc type   Title
+E.g. 2017-01-01 Order Summary blog.gov.uk
+
+At times a client's own naming structure may need to supersede our own.
 
 ### Protective marking scheme
 Some information that we have is confidential. We use a protective marking scheme so that everyone understands how to handle this material, and who they're allowed to disclose it to. All of the documents and data we hold will fall into one of the categories below.
