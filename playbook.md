@@ -725,45 +725,26 @@ TODO. This section to cover:
 * Salary negotiation, notice periods and start date
 * Eligibility to work in the UK, documentation that we need
 * Background check
-* Starters checklist
 * The probation period, meeting and expectations
 * ...more things.
 
 #### Joining
+dxw have a robust onboarding process to ensure you feel as supported as possible from your first day.
 
-##### Helper check in guidance
-These questions are to guide the conversations about the new starters experience and to give feedback you have on how the new starter is doing. They should be presented as a conversation rather than a list of questions.
+Pre-day one: You will receive regular communications from our People Manager regarding your first day, these will include discussions on the staff vetting process, your choice of laptop and any upcoming events you may want to put in your diary.
 
-Following the meeting, some notes should be made and emailed to Harry and Vee to be added to the employee file.
+Day one: You will meet with our People Manager or Administrator to go through the onboarding checklist, this will introduce all the meetings and system set ups likely in your first few weeks/months.
 
-3 week (helper and new starter)
-- Is the new starter clear what is expected of them?
-- What would they like to do more of/less of?
-- What would they like others to do more of/less of?
-- Do they have all the tools you need to do their job?
-- Who have they not had a chance to speak to? Are there people they don’t quite recognise or know what they do?
-- If there was one thing you would change about dxw, what would it be?
+Beyond: You will be supported by your helper (more details below), our Delivery Managers, the wider team and the People Manager will always be on hand if you need them.
 
-6 week (helper, new starter and DM)
-- Are they clear what is expected of them?
-- What would they like to do more of/less of?
-- What would they like others to do more of/less of?
-- Have any issues arisen that they haven't been able to speak to their project team or Delivery Manager about.
-- What one thing do they want to change about dxw? 
+##### Onboarding Helper
+When you join dxw you will have a helper assigned to support you for the length of your probation. They will ideally be in a similar role and, if applicable, will work with you on your first project.
 
-12 week probation (Harry or Dave, helper and new starter)
-As part of this last meeting it is important to give positive feedback. Spend a little time talking to different people who have worked with the new starter and let them know what we have seen going well. Start with a general topic and see if there are any other role specific bits of feedback:
-- working in a team
-- working with clients
-- problem solving
-- communication
+When you join dxw you will have a helper assigned to support you for the length of your probation. They will ideally be in a similar role and, if applicable, will work with you on your first project.
 
-Questions
-- Are they clear what is expected of them?
-- What has gone well?
-- What has gone less well?
-- What one thing do they want to change about dxw? 
-- Have they chosen a buddy going forwards?
+The helper will take you through a checklist of topics to ensure you get a chance to discuss/be informed all the most useful information in your first few weeks. They will make introductions for you to members of the wider team and will meet with you at your check ins in the 3rd, 6th and 12th week. The check ins aim to ensure you have everything you need, are clear on the expectations of the role and that you are enjoying your time here.
+
+If you are a helper, a guidance document is available in google drive to explain the process more fully and give you ideas and suggested questions to help with the check ins.
 
 ### The buddy system
 The buddy system is the main way we help each other to perform well and improve our skills. During your first couple of months at dxw, as you get to know the team, you should choose someone and ask them to be your buddy.
