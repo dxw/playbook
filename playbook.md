@@ -1797,6 +1797,31 @@ incurring them.
 We manage expenses using Xero. For more information about how to do this, see
 the [guide on claiming expenses]()
 
+### dxw Support Structures
+
+## Helpers
+When you join dxw you will be assigned a helper, this person will work closely with you for at least your first 3 months. They will do a similar job, help you meet members of the wider team, catch up with you on at least a 3/6/12 week basis to ensure you are receiving everything you need, and will NEVER get bored of your questions!
+
+## Buddies
+Once you have passed your 3 month probation, we would like you to choose a buddy within the company to support you. We recommend this person doesn’t work directly with you as this will give you a second pair of ears and a whole new set of experiences to draw on.
+
+If you want to know more about how the buddy system works, how often to meet and suggested discussion topics, see the buddy section below.
+
+## Delivery Manager (DM)
+If your work is client facing and there is an issue regarding that work, your DM will be available to provide support and  guidance.
+
+## HR
+HR covers all aspects of the employee - employer relationship, provide a wide range of resources and support. We have bi-weekly HR surgeries to give an opportunity for members of the team to discuss matters they might not feel able to raise with buddies/DMs or that are specialist to the HR function in dxw.
+
+This list is not exhaustive but some topics might include: Holiday, sickness, expenses, parental Leave, contractual matters, working patterns/locations, training and career progression, diversity, accessibility, occupational health issues, stress Management, interpersonal issues, grievance and disciplinary matters, facilitation/scheduling of conversations with Headsof, such as Salary Reviews.
+
+## Headsof
+Your Headof is there to provide support on matters relating to dxw and your career with us. Similarly, they are here if you need to escalate any job-related concerns.
+
+## Harry
+Harry is always available to discuss any questions you have about the company and its future. Equally, if you feel you need to escalate anything to him, don’t hesitate to get in touch. 
+
+
 ### The buddy system
 
 The buddy system is the main way we help each other to perform well and improve
