@@ -145,46 +145,54 @@ At dxw, we believe in making decisions based on evidenced user needs. As researc
 Our principles are not rules. They exist to guide our work and keep us improving as a team, working with, not for our clients.
 
 **1. Review, but don’t reuse**<br/>
-Clients don’t always have enough time or money to commission user research. Often, they have user research outputs from previous work that they’d like us to use. We do our best to rely on whatever evidence is available, while also making the case that no two users or projects are the same; that user research is never complete; that user needs evolve and findings become outdated. 
+Clients don’t always have enough time or money to commission user research. Often, they have user research outputs from previous work that they’d like us to use. We do our best to rely on whatever evidence is available, while also making the case that no two users or projects are the same; that user research is never complete; that user needs evolve and findings become outdated.
+
 We advise clients on the value further user research will bring, and highlight where the findings may allow them to spend their budget more effectively.
 
 **2. Be methodical, not uniform**<br/>
-We follow research and design best practice. We define problems and agree on clear research questions and adjust what we do accordingly. We carefully evaluate how different research activities will help us uncover different aspects of the needs and behaviours.
-In practice this means, we don’t do self-indulgent research and don’t use well-known methods in favour of the best approach for the question at hand. We use well established (and sometimes less exciting) methods, but we're not reluctant to venture outside of our comfort zone.
+We follow research and design best practice. We define problems, agree on clear research questions and adjust what we do accordingly. We carefully evaluate how different research activities will help us uncover different aspects of the needs and behaviours.
+
+In practice this means we don’t do self-indulgent research and don’t use methods just because they're well-known. We use best approach for the question at hand. We use well established (and sometimes less exciting) methods, but we're not reluctant to venture outside of our comfort zone.
 
 **3. Share often, stay flexible and move forward**<br/>
-We work in an agile way, so we don’t wait until the end of the project to share research outcomes. We ensure that the project team can action research findings as soon as possible while not jumping to conclusions. This means we carefully balance rigorous analysis with light-touch insight. 
-Either way, we show clear links between research, analysis and the changes we make to products and services. It’s about collecting enough data, sharing it often, and deciding what’s next.
+We work in an agile way, so we don’t wait until the end of the project to share research outcomes. We ensure that the project team can use research findings as soon as possible while not jumping to conclusions. This means we carefully balance rigorous analysis with light-touch insight.
+
+Either way, we show clear links between research, analysis and the changes we make to products and services. We try to make sure we collect the right data, share it often, and use it to decide what to do next.
+
 Sometimes there aren’t clear links, our findings strongly contradict project goals, or we realise that we’re not learning anything new. It’s important to spot this quickly, reassess our approach, and adjust what we do.
 
 **4. Be honest, even if the truth hurts**<br/>
-There are times when our clients have ingrained assumptions about users, their needs and what the service or product should be. Sometimes those assumptions are validated through our research, other times our findings might suggest they’re wrong. We may uncover something that is unexpected, unpleasant, challenging or even politically sensitive. It is our responsibility as researchers not to withhold such insight and carefully communicate that with our clients to help them make the best decision possible.
+There are times when our clients have ingrained assumptions about users, their needs and what the service or product should be. Sometimes those assumptions are validated through our research, other times they aren't. We may uncover something that is unexpected, unpleasant, challenging or politically inconvenient. 
+
+It is our responsibility as researchers not to withhold such insights, but to communicate them with our clients carefully to help them make the best decision possible.
 
 **5. Take ethics seriously**<br/>
-Ethical user research means that we conduct research that is informed, voluntary, and responsible. This extends throughout the entire process of research; from the way we recruit, to the way we share, store and use our data, and everything in between.
+Ethical user research means that we conduct research that is informed, voluntary, and responsible. This extends throughout the entire process of research, from the way we recruit, to the way we share, store and use our data, and everything in between.
 
 **6. Challenge yourself to do great work. It's better than formal reviews**<br/>
 We challenge ourselves by including others and reflecting on our work continuously. We plan together, bring in observers and co-analyse as much as possible. We push ourselves by keeping up to date with the research and design community and embracing experimentation.
 
-We also reflect on our work frequently and share ‘war stories’ with the team. We ask for advice when we need it, and we help each other deal with impostor syndrome.
+We also reflect on our work frequently and share stories about our work experiences with the team. We ask for advice when we need it, and we help each other deal with impostor syndrome.
 
 **7. Share the unknowns and admit limitations**<br/>
-User researchers are not fortune tellers. We’ll never have the full story or be 100% sure. It’s about knowing enough to inform decisions. Doing user research well means we acknowledge limitations, share the unknowns and suggest possible improvements to the wider team.
+User researchers are not fortune tellers. We’ll never have the full story or be completely certain. Our goal is to understand enough to be able to make informed decisions. Doing user research well means that we acknowledge limitations and share unknowns when we suggest possible improvements to the wider team.
 
 **8. Be bold. Show what’s important first**<br/>
-When presenting, we think about the people in the room. Senior stakeholders who aren't involved in the day-to-day running of the project have less time to dig into detail. They’re interested in findings that will allow them to make a decision. Others like product managers and user researchers will want to dig into the finer detail.
-We write and structure outputs the same way. Use [inverted pyramid writing](https://www.thoughtco.com/definition-of-inverted-pyramid-2073770). Make sure your content is right for the audience and not monotonous.
+When presenting, we think about the people in the room. Senior stakeholders who aren't involved in the day-to-day running of the project have less time to dig into detail. They’re interested in findings that will allow them to make a decision. Others like product managers and user researchers will need to understand our work in detail.
 
-**9. Make others care about user-centred design**<br/>
-We share our findings in ways that capture and connect people. Showing the value of user research is about making others feel involved, getting them to share ownership, and keeping the momentum going. It’s about making people care, wanting to do something about it and helping them do it. 
+We write and structure outputs the same way. Use [inverted pyramid writing](https://www.thoughtco.com/definition-of-inverted-pyramid-2073770). We make sure our content is right for the audience and not monotonous.
 
-We recognise that one size doesn’t fit all, but we diverge from pre-defined deliverables. Instead, we  focus on project outcomes and create outputs that will help teams inform their decisions and drive their service or product forward. 
+**9. Build confidence in user-centred design**<br/>
+We share our findings in ways that capture and connect people. Showing the value of user research helps others to feel involved, creates a sense of shared ownership, and helps maintain momentum. Good research can help people feel emotionally invested in outcomes of the project, making them feel empowered to help deliver it well. 
 
-Sometimes a formal report or a set of personas may be useful, but in most cases there are more effective ways to communicate our findings. It could be something tangible like a slide deck or a trello board of user needs or something more immersive like a room of artefacts to walk through or an ideation workshop. 
+We recognise that one size doesn’t fit all, but we diverge from pre-defined deliverables. Instead, we focus on project outcomes and create outputs that will help teams inform their decisions and drive their service or product forward. 
+
+Sometimes a formal report or a set of personas may be useful, but in most cases there are more effective ways to communicate our findings. Sometimes it's something tangible like a slide deck or a trello board of user needs, and sometimes it's something more immersive like a room of artefacts to walk through or an ideation workshop. 
 
 **10. Be dispensable. It's about the users and the team, not you**<br/>
 User researchers shouldn’t be gatekeepers. We’re not here to advocate for users. We’re here to help teams understand and access their users. We make sure our data is open, structured, and accessible to non-researchers so that everyone can look for answers and access insight without us. 
-We openly share what we did, how we did it and why that’s important. We create opportunities for our teams and clients to get involved with the hope that they'll carry on with users in mind even without user researchers on the project. 
+
+We openly share what we do, how we do it and why that’s important. We create opportunities for our teams and clients to get involved with the hope that they'll carry on with users in mind even without user researchers on the project.
 
 
 ### Development sprints
