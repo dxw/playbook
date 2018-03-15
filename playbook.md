@@ -174,7 +174,7 @@ At the end of every sprint, the delivery manager facilitates a [retrospective](h
 At regular intervals the team look through the sprint backlog to reprioritise and update stories, based on things we've learned during delivery and from user research. Stories that are no longer needed are deleted, stories that may be needed later or are blocked move to the icebox and all other stories are reprioritised for future sprints.
 
 #### User stories
-We document development work that needs to be completed by writing [user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html). .
+We document development work that needs to be completed by writing [user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html).
 
 A user story is a succinct explanation of some work that will be done in order to meet the needs of a particular kind of user. They are usually structured into a sentence, of the form:
 
