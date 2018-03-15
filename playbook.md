@@ -96,7 +96,7 @@ One of the things our clients value most is responsiveness. Many will be under p
 
 So, when we are on sprints, we endeavour to respond to our client quickly. It's not always possible to resolve a problem or get an answer quickly, but that shouldn't stop us from acknowledging a message or giving regular updates. As with [tickets](#be-responsive), being responsive to a query is just as important as giving a definitive answer.
 
-When we get enquiries for clients who are not currently sprinting, we still as quickly as we can - but clients who are sprinting come first.
+When we get enquiries for clients who are not currently sprinting, we still answer as quickly as we can - but clients who are sprinting come first.
 
 We also expect most communication with clients to happen with the project's delivery manager. We don't hide anyone on the team from the client, and they are free to ask questions of whomever they wish. But if you're a developer and you get a question that's really for a DM to answer, refer the client on. This will help to keep you productive, and will help the client understand who on the dxw team does what.
 
@@ -159,13 +159,13 @@ During this session, developers estimate the effort required to finish each stor
 
 Design and development is worked on in parallel during a sprint. Because we design in browser and avoid separating development and user experience work, it's important when giving stories points to think both about the design and the development effort that will be required.
 
-Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers also advise the rest of the team at this point if there are any dependancies the client should be aware of.
+Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers also advise the rest of the team at this point if there are any dependencies the client should be aware of.
 
 By the end of this session, the full team should be confident about the goal of the sprint and what is being worked on.
 
 #### Daily standups
 
-Every morning the delivery manager facilitates a standup. Standups last 5-10 minutes and is for the developers to discuss what they're working on and whether there are any problems or dependencies. If we're not co-located with a client, these happen over Talky or Google Hangout.
+Every morning the delivery manager facilitates a standup. Standups last 5-10 minutes and are for the developers to discuss what they're working on and whether there are any problems or dependencies. If we're not co-located with a client, these happen over Talky or Google Hangout.
 
 #### Retrospectives
 At the end of every sprint, the delivery manager facilitates a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. We talk about what went well, what didn't, and what actions should be taken to improve things for the next sprint. These sessions are attended by all the people involved in delivering the sprint along with the client team.
@@ -174,7 +174,7 @@ At the end of every sprint, the delivery manager facilitates a [retrospective](h
 At regular intervals the team look through the sprint backlog to reprioritise and update stories, based on things we've learned during delivery and from user research. Stories that are no longer needed are deleted, stories that may be needed later or are blocked move to the icebox and all other stories are reprioritised for future sprints.
 
 #### User stories
-We document development work that needs to be completed by writing [user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html). .
+We document development work that needs to be completed by writing [user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html).
 
 A user story is a succinct explanation of some work that will be done in order to meet the needs of a particular kind of user. They are usually structured into a sentence, of the form:
 
