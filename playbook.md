@@ -96,7 +96,7 @@ One of the things our clients value most is responsiveness. Many will be under p
 
 So, when we are on sprints, we endeavour to respond to our client quickly. It's not always possible to resolve a problem or get an answer quickly, but that shouldn't stop us from acknowledging a message or giving regular updates. As with [tickets](#be-responsive), being responsive to a query is just as important as giving a definitive answer.
 
-When we get enquiries for clients who are not currently sprinting, we still as quickly as we can - but clients who are sprinting come first.
+When we get enquiries for clients who are not currently sprinting, we still answer as quickly as we can - but clients who are sprinting come first.
 
 We also expect most communication with clients to happen with the project's delivery manager. We don't hide anyone on the team from the client, and they are free to ask questions of whomever they wish. But if you're a developer and you get a question that's really for a DM to answer, refer the client on. This will help to keep you productive, and will help the client understand who on the dxw team does what.
 
