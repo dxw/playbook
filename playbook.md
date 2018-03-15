@@ -165,7 +165,7 @@ By the end of this session, the full team should be confident about the goal of 
 
 #### Daily standups
 
-Every morning the delivery manager facilitates a standup. Standups last 5-10 minutes and is for the developers to discuss what they're working on and whether there are any problems or dependencies. If we're not co-located with a client, these happen over Talky or Google Hangout.
+Every morning the delivery manager facilitates a standup. Standups last 5-10 minutes and are for the developers to discuss what they're working on and whether there are any problems or dependencies. If we're not co-located with a client, these happen over Talky or Google Hangout.
 
 #### Retrospectives
 At the end of every sprint, the delivery manager facilitates a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. We talk about what went well, what didn't, and what actions should be taken to improve things for the next sprint. These sessions are attended by all the people involved in delivering the sprint along with the client team.
