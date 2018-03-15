@@ -159,7 +159,7 @@ During this session, developers estimate the effort required to finish each stor
 
 Design and development is worked on in parallel during a sprint. Because we design in browser and avoid separating development and user experience work, it's important when giving stories points to think both about the design and the development effort that will be required.
 
-Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers also advise the rest of the team at this point if there are any dependancies the client should be aware of.
+Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers also advise the rest of the team at this point if there are any dependencies the client should be aware of.
 
 By the end of this session, the full team should be confident about the goal of the sprint and what is being worked on.
 
