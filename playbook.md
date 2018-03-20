@@ -115,7 +115,7 @@ This isn't to say that we require clients to participate in everything. Clients 
 
 
 ### The structure of a project
-We structure projects along the lines described by the [GDS Service Manual](https://www.gov.uk/service-manual): discovery, alpha, beta, live and retirement. It's worth having a browse of the service manual if you're not familiar with it, as it is the main guide for how digital work in the public sector should be done.
+We structure projects along the lines described by the UK Government's [Service Manual](https://www.gov.uk/service-manual): discovery, alpha, beta, live and retirement. It's worth having a browse of the service manual if you're not familiar with it, as it is the main guide for how digital work in the public sector should be done.
 
 One change to our approach is the addition of an **Inception** phase at the start of work. The main purpose of a discovery phase is to identify and document user needs. But sometimes this work is carried out on the assumption that a given service is definitely the right solution to the problem. The inception phase gives us a structured way to ensure that this isn't the case.
 
