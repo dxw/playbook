@@ -26,7 +26,7 @@ GitHub allows us to:
 
 ### It’s in guides if
 * it’s a detailed, step by step instruction.
-* we’re talking about something specialist. This could mean we are using jargon. and referring to community-known methods and ways of working.
+* we’re talking about something specialist. This could mean we are using jargon and referring to community-known methods and ways of working.
 
 ### It’s something else if
 * it’s something visual and reusable, it will likely belong in the brandbook. 
