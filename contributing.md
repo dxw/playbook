@@ -65,3 +65,6 @@ GitHub allows us to:
   1. Make sure the title explains the small change you're suggesting
   2. Write a short comment to encapsulate the whole change
   3. Create pull request
+
+
+The Playbook is hosted on [GitHub Pages](https://pages.github.com), and it's tracking the `master` branch. This means your changes will be published automatically when your pull request is merged.
