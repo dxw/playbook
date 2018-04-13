@@ -575,7 +575,7 @@ We also make some of our money by hosting some of the services that we build, an
 
 Most of our leads arrive via email as a result of recommendations and word-of-mouth. Some arrive via more formal channels like framework agreements or helpdesk tickets. Leads might arrive to anyone's email account. We try to make sure things arrive in the sales email account wherever we can.
 
-When any lead arrives, we record it in [Pipeline Deals](https://www.pipelinedeals.com/home) as a *Deal*. However, we also use PipelineDeals to record information about projects we have sold. So, we don't refer to anything in PipelineDeals as a "Deal". We either call it a *lead*, or after it's sold, an *order*.
+When any lead arrives, we record it in [PipelineDeals](https://www.pipelinedeals.com/home) as a *Deal*. However, we also use PipelineDeals to record information about projects we have sold. So, we don't refer to anything in PipelineDeals as a "Deal". We either call it a *lead*, or after it's sold, an *order*.
 
 We record as much information as we can about leads when they arrive. A lead should always be described in enough detail that someone else in the team could pick it up and work on it if needs be. That means that we always record a sensible name, the details of the organisation and the contact information of the person we're talking to. If they have provided any documents, we upload those into PipelineDeals as well.
 
@@ -666,7 +666,7 @@ When we lose work, we mark it as Lost in PipelineDeals. We write to the client t
 
 ### Administration
 
-There's quite a lot of work involved in given sale, as it moves through the stages of the pipeline. To help manage this, we have tasks in Pipeline Deals that are automatically created when leads' statuses change. We can all do things to help this process flow smoothly. Some of us are responsible for particular tasks, which it's important to complete on time. Others will just be in a position to help when they notice an incorrect field, a missing contact or a missing file. We always correct these things when we can.
+There's quite a lot of work involved in given sale, as it moves through the stages of the pipeline. To help manage this, we have tasks in PipelineDeals that are automatically created when leads' statuses change. We can all do things to help this process flow smoothly. Some of us are responsible for particular tasks, which it's important to complete on time. Others will just be in a position to help when they notice an incorrect field, a missing contact or a missing file. We always correct these things when we can.
 
 
 ## Recruitment
