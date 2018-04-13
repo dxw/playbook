@@ -1,8 +1,6 @@
 # dxw Playbook
 
-***Are you looking for the playbook? Read it [here](https://github.com/dxw/playbook/blob/master/playbook.md)***
-
-There will be an HTML version, but there isn't yet.
+***Are you looking for the playbook? Read and search it at [playbook.dxw.com](https://playbook.dxw.com)***
 
 ## What is this?
 It's dxw's playbook. It explains how we get things done.
