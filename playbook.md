@@ -1034,7 +1034,7 @@ dxw have a Childcare vouchers scheme with Busy Bees Benefits www.busybeesbenefit
 For more information, check BreatheHR or let Vanessa know you would like to join the scheme.
 
 #### Conference Perk
-The conference perk is for people to get out of the office, come back refreshed, and improve health and wellbeing. It is open to everyone at dxw who has successefully passed their probation. 
+The conference perk is for people to get out of the office, come back refreshed, and improve health and wellbeing. It is open to everyone at dxw who has successfully passed their probation. 
 
 You'll be allocated an annual budget of £600 (and 2 days off work) to use as you see fit. You can top up your time off with existing annual leave allowance if needed too. dxw pays for event ticket, travel, and accommodation there. But you will need to cover your own costs for food, drink and supplementary equipment.
 
