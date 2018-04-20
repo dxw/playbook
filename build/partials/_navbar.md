@@ -9,8 +9,6 @@
   - [Working remotely](guides/working-remotely.md)
   - [Style guide](guides/style-guide.md)
   - [Contributing to the Playbook](contributing.md)
-- Research activities
-  - [Card sort](research-activities/card-sort.md)
 
 <div class="logo"> 
   <img src="build/assets/img/dxw-marker.svg" height="32px">
