@@ -1433,11 +1433,7 @@ life at dxw.
 
 ### Remuneration
 
-dxw will institute a cost of living rise each year from April 2017. The
-percentage will be set by the [CPI Index](https://www.ons.gov.uk/economy/inflationandpriceindices)
-as of 1st April each year and you will receive your raise in the April payroll.
-
-For any other salary queries, please speak to your head-of or the Managing Director.
+dxw will institute a cost of living rise each year from April 2017. The percentage will be set by the [CPI Index](https://www.ons.gov.uk/economy/inflationandpriceindices) as of 1st April each year. If you have passed your probation, you will receive your raise in the April payroll. For those team members who are recent joiners, you will received your raise in the month you successfully complete your probation, it will be the same percentage as of 1st April CPI that year.
 
 ### Holiday
 
