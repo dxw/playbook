@@ -139,12 +139,9 @@ urgency with the recipients of your message. Try to avoid creating that urgency
 when possible. Unless actually urgent, you may ignore messages which you receive
 outside of working hours and handle them once you are back at work.
 
-#### Openness
+#### Openness and confidentiality (dxw digital)
 
-At dxw, we believe it's best to be open about what we're doing. We encourage our clients
-to do the same, as does the [service manual](https://www.gov.uk/service-manual).
-We talk, blog and write about what we're doing, and we are open about as much as
-we can.
+dxw digital believe it's best to be open about what we're doing. We encourage our clients to do the same, as does the [service manual](https://www.gov.uk/service-manual). We talk, blog and write about what we're doing, and we are open about as much as we can.
 
 At dxw digital, we release [code](http://www.github.com/dxw), publish our
 [contracts](http://www.github.com/dxw/contracts) and things like this playbook
@@ -154,37 +151,28 @@ everything to ourselves.
 
 However, there are some things that we must keep private.
 
-* Our clients trust us to host content that is not public, like upcoming
-  announcements and discussions made as part of formulating new policy. This is
-  not our information to be open about, and it's very important to keep it
-  confidential.
-* We also hold some personal data about and/or on behalf of our
-  clients. We never share any of this data, including contact details. See also:
-  [data protection](#data-protection).
-* We are sometimes sent documents that are
-  [protectively marked](#protective-marking-scheme), and we have a scheme of our
-  own.
-* Information in these documents is confidential. Information about work
-  that is currently being procured (whether we are bidding or not) and any other
-  information that could damage the commercial interests of a client or supplier
+- Our clients trust us to host content that is not public, like upcoming announcements and discussions made as part of formulating new policy. This is not our information to be open about, and it's very important to keep it confidential.
+- We also hold some personal data about and/or on behalf of our clients. We never share any of this data, including contact details. See also: [data protection](#data-protection).
+- We are sometimes sent documents that are [protectively marked](#protective-marking-scheme), and we have a
+scheme of our own. Information in these documents is confidential.
+- Information about work that is currently being procured (whether we are bidding or not) and any other information that could damage the commercial interests of a client or supplier
+- Anything to do with the work of dxw cyber: see below.
 
-At dxw cyber, because of the sensitivity of our work, we are not able to be so open. It is vitally important that we keep the details of our client relationships and projects confidential, because disclosure of those details could cause substantial harm to them - as well as to other internet users affected by any similar problems.
+#### Openness and confidentiality (dxw cyber)
 
-So, at dxw cyber, we keep almost all of the details of our work private. You can talk about:
+dxw cyber's work is usually more sensitive than dxw digital's. We still value openness and believe that it is important, but we have less freedom to talk about our work. Our clients expect us to keep almost everything about our work with them private.
 
-* Tools, techniques, approaches and methodologies
-* The nature of our roles and day-to-day work
-* The purpose, mission, vision and values for dxw cyber; our philosophy and the ways we get things done
-* Examples of our client work that we have published
+As with dxw digital, we also release [code](http://www.github.com/dxwcyber), publish our [contracts](http://www.github.com/dxw/contracts) and use this playbook. But we must tread with more care, to ensure that we maintain our obligations to clients not to release information that could compromise their systems or cause them embarassment.
 
-If you want to talk about something, and you're not sure if it's confidential play it safe: ask a colleague. Especially if it's about dxw cyber's work.
+As a result, we take the opposite approach to dxw digital. We treat everything about our work as private and confidential, with these exceptions:
 
-#### Specific principles
+- General discussions about tools, techniques, approaches and methodologies
+- The nature of our roles and day-to-day work
+- The purpose, mission, vision and values for dxw cyber, and the ways we get things done
 
-To complement these general principles, each profession at dxw publishes a set of specific principles. These guide our work and help us to understand each other better, so multidisciplinary teams can form quickly and work together effectively.
+However, even with these exceptions, there is an overriding principle that client information must be kept confidential. For example, if talking about a particular attack technique could allow someone to infer the identity of a client, we would not discuss it in public.
 
-* [Leadership](#leadership)
-* [User research](#user-research-principles)
+In addition, we take measures to ensure that we don't accidentally expose confidential information. For more information about this, talk to your team lead.
 
 ### Changes to this document
 
