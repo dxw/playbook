@@ -824,9 +824,9 @@ When you know you are pregnant please do tell us as soon as possible, so we can 
 #### Paternity leave
 If your partner is having a baby or you are adopting, you’ll probably be eligible for statutory paternity pay and leave.
 
-Ordinary paternity leave (OPL) may be taken for one or two weeks in a block (not two separate weeks), between the date of birth and 56 days afterwards.
+Statutory paternity leave (SPL) may be taken for one or two weeks in a block (not two separate weeks), between the date of birth and 56 days afterwards. Statutory paternity pay (SPP) is £145.18 per week.
 
-If you qualify for OPL, we will top it up with an extra week of company paternity leave paid at the same rate as you were paid OPL, giving you three weeks of leave in total.
+If you qualify for SPL and SPP, dxw will instead pay you your normal salary for three weeks of paternity leave. If you want to take more than three weeks of leave you can use [shared parental leave](#shared-parental-leave).
 
 
 #### Keep in touch (KIT) days
