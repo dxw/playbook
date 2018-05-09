@@ -1017,6 +1017,8 @@ Mobile - if you’re comfortable to share
 www.dxw.com :: 0345 2577520 :: @dxw
 helping public sector teams to make good technology decisions and build better services
 
+**Note:** please use Helvetica or Arial as the font in your emails.
+
 ### Benefits
 
 #### Pensions
