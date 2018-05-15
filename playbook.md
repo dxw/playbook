@@ -279,13 +279,6 @@ We built GovPress because clients were frequently asking us for hosting with hig
 
 Read more about it at [www.govpress.com](https://www.govpress.com).
 
-### GovSite
-GovSite is a product we have built to provide a pre-configured WordPress site to clients with simple publishing requirements. It's a theme that we made, and a set of plugins we have curated.
-
-We built GovSite because new prospective clients frequently ask us to build very similar sites to ones we have built before. There's a feature set that is very commonly asked for, but usually required by clients who don't have enough budget to build a proper [Digital by Default](https://www.gov.uk/service-manual/digital-by-default) service. We built GovSite to meet this need: it caters for the things we are most commonly asked for, and is much less expensive than building a site from scratch.
-
-Read more about it at [www.govsite.com](https://www.govsite.com).
-
 ## Tickets
 
 ### Basics
