@@ -196,32 +196,36 @@ We openly share what we do, how we do it and why that’s important. We create o
 
 
 ### Development sprints
-We work in sprints, which are fixed-length periods of delivery work with a particular team.
+We break down projects into two-week sprints. Throughout a project we maintain a product backlog, refine user stories based on what we learn and carry out development work to meet the user needs that have been identified.
 
-At dxw, sprints are two weeks long. On the first day of the sprint we facilitate a planning session and at the end of the sprint we finish with a show and tell and retrospective. These sessions involve all members of the development team (developers, designers, user researchers and delivery managers) and the product owner from the client side. Sometimes these sessions include more of the client team.
+Every project, client and team is different. But, there are some common approaches we take to all projects. 
 
-#### Sprint planning
-Sprints begin with a planning session, where the full team (dxw and the client) review and prioritise the stories in the backlog. Working together, we discuss the stories that we are prioritising for the current sprint, ensuring that they are [well-formed](#stories) and understood by the full team.
+On the first day of a sprint we facilitate a planning session and finish sprints with a show and tell and retrospective. These sessions involve the whole team, including developers, user researchers, designers and delivery leads , as well as the product owner and other members of the client team. 
 
-Often this involves writing new stories and updating existing ones, but we try to avoid this becoming the main purpose of the meeting. In our experience, sprint planning is much more useful when the [stories are written in advance](#backlog-grooming).
+#### Communicate Progress
+Every morning a delivery lead facilitates a standup. Standups last 5-10 minutes and are for the team to discuss what they're working on that day and whether there are any problems or dependencies affecting them. If the team is not co-located with a client, standups happen over a video-call. 
 
-During this session, developers estimate the effort required to finish each story. We always estimate stories based on complexity, not the time we think it will take to finish it.
+During the sprints a delivery lead will share a week note, usually on a Friday, with everyone involved or interested in the project. The note will include a brief summary of what the team have done that week, what is planned for the following week and highlight blockers, dependencies or things the team is thinking about too.
 
-Design and development is worked on in parallel during a sprint. Because we design in browser and avoid separating development and user experience work, it's important when giving stories points to think both about the design and the development effort that will be required.
+At the end of each sprint the team run a show and tell. This is an opportunity for the team to show the work they have worked on that sprint and allows people involved in the project to see what has been achieved. We work in an open and transparent way so encourage anyone interested in the project to attend the show and tell and ask questions. 
 
-Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers also advise the rest of the team at this point if there are any dependencies the client should be aware of.
+#### Plan
+Sprints begin with a planning session, where the whole team (dxw and the client) review and prioritise the stories in the backlog. Working together, we discuss the stories that we are prioritising for the current sprint, ensuring that they are well-formed and understood by everyone in the team.
 
-By the end of this session, the full team should be confident about the goal of the sprint and what is being worked on.
+Often this involves writing new stories and updating existing ones, but we try to avoid this becoming the main purpose of the meeting. In our experience, sprint planning is much more useful when the stories are written in advance.
 
-#### Daily standups
+During this session, developers discuss the effort required to finish each story. We discuss effort so we know whether we have a reasonable amount of stores to work on and we’re confident as a team that we can get through the stories in the backlog.  Sometimes we will estimate stories. We do this based on complexity, not the time we think it will take to finish it. 
 
-Every morning the delivery manager facilitates a standup. Standups last 5-10 minutes and are for the developers to discuss what they're working on and whether there are any problems or dependencies. If we're not co-located with a client, these happen over Talky or Google Hangout.
+Once estimated, stories are prioritised by the client and put into the backlog for the sprint. Developers also advise the rest of the team at this point if there are any technical dependencies the client should be aware of.
+By the end of the session, the full team should be confident about the goal of the sprint and what is going to be worked on.
 
-#### Retrospectives
-At the end of every sprint, the delivery manager facilitates a [retrospective](https://www.gov.uk/service-manual/agile/running-retrospectives.html) where the team can discuss how the sprint went. We talk about what went well, what didn't, and what actions should be taken to improve things for the next sprint. These sessions are attended by all the people involved in delivering the sprint along with the client team.
+#### Inspect and adapt our work 
+At the end of every sprint, a delivery lead facilitates a retrospective where the team discuss how the sprint went. We talk about what went well, what didn't, and what we can do to to improve how we work for the next sprint. These sessions are attended by all the people involved in delivering the sprint along with the client team. We use retros to make sure we acknowledge and continue to do the things that are working well, and also commit to change anything that can be improved.
 
-#### Backlog grooming
-At regular intervals the team look through the sprint backlog to reprioritise and update stories, based on things we've learned during delivery and from user research. Stories that are no longer needed are deleted, stories that may be needed later or are blocked move to the icebox and all other stories are reprioritised for future sprints.
+#### Focus on user needs
+At regular intervals the team look through the sprint backlog to re-prioritise and update stories, based on things we've learned during delivery and from user research. Stories that are no longer needed are deleted, stories that may be needed later or are blocked are put on hold (we call this the icebox) and all other stories are re-prioritised for future sprints.
+
+We have regular user research playback sessions to ensure the whole team is involved in understanding user needs, feedback from user testing and what iterations means for the users. 
 
 #### User stories
 We document development work that needs to be completed by writing [user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html).
@@ -253,7 +257,7 @@ There are several states that a story has to go through in order to be deployed 
 * **In progress**: A developer has started working on the story, making changes to the product to ensure that each acceptance criterion is met
 * **Awaiting review**: The developer has finished the story and is ready for a second developer to [review](#Code reviews) the technical aspects of the story in a [pull request](#Pull request)
 * **Code review**: The story is being reviewed by the second developer who leaves feedback if the pull request is not ready to be merged and needs further work
-* **DM/client review**: The two developers have finished the review and the story is now merged and pushed to staging. It is ready for a delivery manager and the client to review against its acceptance criteria
+* **dxw/client review**: The two developers have finished the review and the story is now merged and pushed to staging. It is ready for a delivery manager and the client to review against its acceptance criteria
 * **Accepted**: The client has accepted the story and it's ready to deploy to production
 * **Done**: The story is deployed to production
 
@@ -301,7 +305,7 @@ If a client asks us to do something in person, on the phone or via email, we pol
 For these reasons, we do not do any work at all on a client site unless we are on a sprint or working on a relevant ticket. This is really important.
 
 ### Support sprints
-We work on tickets by having a developer on a support sprint. Developers are assigned to support for two weeks at a time and work on tickets for the duration of the sprint. If there is a ticket they need another developer to help with, this work is scheduled for a Friday.
+We work on tickets by having a developer on a support sprint. Developers are assigned to support for two weeks at a time and work on tickets for the duration of the sprint. If there is a ticket they need another developer to help with, this work is scheduled in.
 
 ### Client experience (AKA: ticket principles)
 
