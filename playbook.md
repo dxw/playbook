@@ -200,14 +200,14 @@ We break down projects into two-week sprints. Throughout a project we maintain a
 
 Every project, client and team is different. But, there are some common approaches we take to all projects. 
 
-On the first day of a sprint we facilitate a planning session and finish sprints with a show and tell and retrospective. These sessions involve the whole team, including developers, user researchers, designers and delivery leads , as well as the product owner and other members of the client team. 
+On the first day of a sprint we facilitate a planning session and finish sprints with a show and tell and retrospective. These sessions involve the whole team, including developers, user researchers, designers and delivery leads, as well as the product owner and other members of the client team. 
 
 #### Communicate Progress
 Every morning a delivery lead facilitates a standup. Standups last 5-10 minutes and are for the team to discuss what they're working on that day and whether there are any problems or dependencies affecting them. If the team is not co-located with a client, standups happen over a video-call. 
 
 During the sprints a delivery lead will share a week note, usually on a Friday, with everyone involved or interested in the project. The note will include a brief summary of what the team have done that week, what is planned for the following week and highlight blockers, dependencies or things the team is thinking about too.
 
-At the end of each sprint the team run a show and tell. This is an opportunity for the team to show the work they have worked on that sprint and allows people involved in the project to see what has been achieved. We work in an open and transparent way so encourage anyone interested in the project to attend the show and tell and ask questions. 
+At the end of each sprint the team run a show and tell. This is an opportunity for the team to show the work they have done on that sprint and allows people involved in the project to see what has been achieved. We work in an open and transparent way so encourage anyone interested in the project to attend the show and tell and ask questions. 
 
 #### Plan
 Sprints begin with a planning session, where the whole team (dxw and the client) review and prioritise the stories in the backlog. Working together, we discuss the stories that we are prioritising for the current sprint, ensuring that they are well-formed and understood by everyone in the team.
