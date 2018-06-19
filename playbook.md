@@ -123,13 +123,13 @@ At a high level, we believe the purpose of each phase is:
 
 **Inception**: Establish a single, multi-displinary team with the client. Bring everyone together for a kick-off session to agree principles for how we'll work together. Run a roadmapping workshop to define a set of goals and vision for the project. The roadmap also clearly defines dependencies and risks, and a list of things to learn or prove to form the basis of a user research plan
 
-**Discovery**: Carry out research to define users and understand their needs. Document findings, user needs and user journeys. Sometimes this phase also involves conducting technical discovery work to look at different technologies and solutions that might meet user's needs
+**Discovery**: Carry out research to define users and understand their needs. Document findings, user needs and user journeys. Sometimes this phase also involves conducting technical discovery work to look at different technologies and solutions that might meet users' needs
 
 **Alpha**: Translate user needs into prototypes. Test prototypes with users and iterate them based on feedback. We also use the alpha phase to carry out technical spikes and experiments, and to make initial technology and service design decisions
 
 **Beta**: Build a working version of the service, based on what we learnt in alpha. Carry out regular usability testing of the service with users, and launch a minimum viable product. Make plans for supporting the service and continue iterating it.
 
-**Live**: Operate the service, carry out regular user research and continue to itereate it. If new user needs are identified, we develop the service and launch new features to meet them.
+**Live**: Operate the service, carry out regular user research and continue to iterate it. If new user needs are identified, we develop the service and launch new features to meet them.
 
 **Retirement**: Work out how user needs will be met without your service. Provide help and guidance, archiving, and links to other services. Don't leave people in the lurch; never let a link die
 
