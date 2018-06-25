@@ -20,7 +20,7 @@ There are several things that delivery managers should do first, regardless of t
 
 ### Do some reading 
 
-Get hold of any background materials, such as proposal documents, meeting notes, project documents or email chains. Familiarise yourself with the brief and conversations that have taken place so far
+Get hold of any background materials, such as proposal documents, meeting notes, project documents or email chains. Familiarise yourself with the brief and conversations that have taken place so far.
 
 ### Speak to the person who has had the most involvement in the work to date 
 
@@ -73,7 +73,7 @@ Use the kick-off to introduce everyone to each other. It shouldn’t just be abo
 
 ### Talk about dxw ways of working
 
-Give an overview of how dxw works. Don’t assume that everyone in the client team has read the original proposal or visited the dxw website. Explain how we work - agile mindset, culture, our approach to delivery, sprint ceremonies, writing stories, story workflow, the code review process, dxw Fridays
+Give an overview of how dxw works. Don’t assume that everyone in the client team has read the original proposal or visited the dxw website. Explain how we work - agile mindset, culture, our approach to delivery, sprint ceremonies, writing stories, story workflow, the code review process, dxw Fridays.
 
 ### Discuss how the team want to work 
 
