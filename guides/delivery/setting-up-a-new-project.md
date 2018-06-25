@@ -46,17 +46,17 @@ Whether you’re talking to the person who led the sales bid, or the client team
 Before the project starts there’s also a number of tasks, mostly administrative ones, that need to be done. Below is a checklist of things that need to be in place for a typical project.
 
 - Send out calendar invitations for regular ceremonies:
-  - Standups - daily, 10-15 minutes between 10:00-11:00 (ideally after the dxw company standup)
-  - Sprint planning meetings - fortnightly, for anything between 1-3 hours, usually on the first day of a sprint (a Wednesday)
-  - Retrospectives - fortnightly, usually held at the end of a sprint or before planning
-  - Show and tells - fortnightly, at the end of a sprint for most projects. The client can help you identify a suitable time and place (we recommend keeping it to a regular time to maximise attendance) 
-- Create a Slack channel and add dxw and client team members. Clients and contractors should be set up as single-channel guests
-- Create a Trello board for the project. Use the standard dxw columns or make up your own, depending on the needs of the project and how the team want to work
-- Create a Google Drive folder, under ‘Client work’ for the project. Use this to store any documents, files, week notes and anything else that the team might need access to. Make sure everyone in the team knows where to find it, and give clients and contractors access to individual documents or sub-folders as required
-- Set up a video-call for standups so that anyone working remotely or from another location can join. We like to use appear.in and talky.io 
-- Create a week notes document, using the template
-- Organise a kick-off meeting with the client, either a few days before the first sprint or on the first day. The whole team should attend this
-- Check that commercial tasks have been done. It’s worth checking there’s a signed order summary (this should be shared with you ahead of time) and this matches the schedule in 10,000ft.  Check invoices have been created in Xero and you know where to find them. Also check 10,000ft early so you’re aware of any upcoming holiday being taken by the team
+  - Standups - daily, 10-15 minutes between 10:00-11:00 (ideally after the dxw company standup).
+  - Sprint planning meetings - fortnightly, for anything between 1-3 hours, usually on the first day of a sprint (a Wednesday).
+  - Retrospectives - fortnightly, usually held at the end of a sprint or before planning.
+  - Show and tells - fortnightly, at the end of a sprint for most projects. The client can help you identify a suitable time and place (we recommend keeping it to a regular time to maximise attendance). 
+- Create a Slack channel and add dxw and client team members. Clients and contractors should be set up as single-channel guests.
+- Create a Trello board for the project. Use the standard dxw columns or make up your own, depending on the needs of the project and how the team want to work.
+- Create a Google Drive folder, under ‘Client work’ for the project. Use this to store any documents, files, week notes and anything else that the team might need access to. Make sure everyone in the team knows where to find it, and give clients and contractors access to individual documents or sub-folders as required.
+- Set up a video-call for standups so that anyone working remotely or from another location can join. We like to use appear.in and talky.io.
+- Create a week notes document, using the template.
+- Organise a kick-off meeting with the client, either a few days before the first sprint or on the first day. The whole team should attend this.
+- Check that commercial tasks have been done. It’s worth checking there’s a signed order summary (this should be shared with you ahead of time) and this matches the schedule in 10,000ft.  Check invoices have been created in Xero and you know where to find them. Also check 10,000ft early so you’re aware of any upcoming holiday being taken by the team.
 - Create a spreadsheet to track days worked against the order summary. This will show you how money is being spent against the forecasted budget, and help you in any conversations with the client about team changes, extending the project or issues with budget.
 
 ## Kick off meeting
