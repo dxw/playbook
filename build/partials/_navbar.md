@@ -1,4 +1,5 @@
 <!-- _navbar.md -->
+
 - [Playbook](/)
 - Guides
   - [Claiming expenses](guides/claiming-expenses.md)
@@ -10,6 +11,6 @@
   - [Style guide](guides/style-guide.md)
   - [Contributing to the Playbook](contributing.md)
 
-<div class="logo"> 
+<div class="logo">
   <img src="build/assets/img/dxw-marker.svg" height="32px">
 </div>
