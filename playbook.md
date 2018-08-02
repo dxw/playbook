@@ -1834,9 +1834,10 @@ technology decisions and build better services
 
 ### Out of office email message
 
-If you require an out of office message on your email account then you will
-need to send your request to support@dxw.com with the start and return date
-for this to be added to our mail server.
+If you require an out of office message on your email account please send
+your request to support@dxw.com which must include start date, the contact
+details for another member of the team for any urgent queries, and return
+date to be added to our mail server.
 
 ### Internal Tech Support
 
