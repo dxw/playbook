@@ -1888,7 +1888,8 @@ say if there's an impact on work, as with any other leave.
 #### Cycle to work scheme
 
 dxw operates a cycle-to-work scheme, which may allow you to purchase a bicycle
-at reduced cost. If you would like to take this up, please register [on the cycle scheme website] (https://www.cyclescheme.co.uk/18eb71)
+at reduced cost. If you would like to take this up, please register
+[on the cycle scheme website](https://www.cyclescheme.co.uk/18eb71)
 
 #### Book purchase
 
