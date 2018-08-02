@@ -1832,6 +1832,18 @@ Mobile - if you’re comfortable to share
 www.dxw.com :: 0345 2577520 :: @dxw helping public sector teams to make good
 technology decisions and build better services
 
+###Out of office email message
+
+If you require an out of office message on your email account then you will
+need to send your request to support@dxw.com with the start and return date
+for this to be added to our mail server.
+
+###Internal Tech Support
+
+If you experience problems with the office printers, wi-fi, video conference
+set-up, Macs etc… You may send a message in the **#dxw-techsupport**
+Slack channel.
+
 ### Benefits
 
 #### Pensions
