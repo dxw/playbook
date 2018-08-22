@@ -1894,8 +1894,7 @@ at reduced cost. If you would like to take this up, please register
 
 #### Book purchase
 
-If there is a book relevant to your work that you would like to read, let
-Vanessa or Leanne know and they will buy it for the library.
+If there is a book relevant to your work that you would like to read, make a request through the #dxw-purchasing slack channel and the Bus Ops team will buy it for the library.
 
 ## Sharing
 
