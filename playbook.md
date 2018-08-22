@@ -290,13 +290,13 @@ clients' needs.
 
 ### Research
 
-#### Principles
-
 At dxw, we believe in making decisions based on evidenced user needs. As
 researchers, we help multidisciplinary teams learn about users and recognise the
 value of user research. There is no single right way of doing this, but as a
 team, we need to stay unified in the way we approach, do, and talk about
 research.
+
+#### Principles
 
 Our principles are not rules. They exist to guide our work and keep us improving
 as a team, working with, not for our clients.
@@ -314,7 +314,7 @@ where the findings may allow them to spend their budget more effectively.
 **2. Be methodical, not uniform**<br/> We follow research and design best
 practice. We define problems, agree on clear research questions and adjust what
 we do accordingly. We carefully evaluate how different research activities will
-help us uncover different aspects of the needs and behaviours.
+help us uncover different aspects of users’ needs and behaviours.
 
 In practice this means we don’t do self-indulgent research and don’t use methods
 just because they're well-known. We use best approach for the question at hand.
@@ -327,7 +327,7 @@ ensure that the project team can use research findings as soon as possible
 while not jumping to conclusions. This means we carefully balance rigorous
 analysis with light-touch insight.
 
-Either way, we show clear links between research, analysis and the changes we
+Either way, we show clear links between research activities, findings and the changes we
 make to products and services. We try to make sure we collect the right data,
 share it often, and use it to decide what to do next.
 
