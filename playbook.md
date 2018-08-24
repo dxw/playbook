@@ -1437,7 +1437,7 @@ dxw will institute a cost of living rise each year from April 2017. The
 percentage will be set by the [CPI Index](https://www.ons.gov.uk/economy/inflationandpriceindices)
 as of 1st April each year and you will receive your raise in the April payroll.
 
-For any other salary queries, please speak to Harry.
+For any other salary queries, please speak to your head-of or the Managing Director.
 
 ### Holiday
 
