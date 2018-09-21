@@ -1898,10 +1898,9 @@ at reduced cost. If you would like to take this up, please register
 
 dxw provides eyecare for the team via a voucher system run by ASE Corporate Eyecare Ltd and Boots.
 
-Details of what the wellbeing voucher offers can be found here: 
-https://www.eyecareplans.co.uk/corporate-eyecare/eyecare-for-wellbeing/
+Details of what the wellbeing voucher offers can be found here: [Eyecare for Wellbeing](https://www.eyecareplans.co.uk/corporate-eyecare/eyecare-for-wellbeing/).
 
-To apply for a wellbeing eyecare voucher, click this link and submit a request: https://gw.eyecareplans.co.uk/dxwe12q2415d3df
+[Apply for a wellbeing eyecare voucher](https://gw.eyecareplans.co.uk/dxwe12q2415d3df)
 
 #### Book purchase
 
