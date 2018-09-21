@@ -1845,6 +1845,8 @@ If you experience problems with the office printers, wi-fi, video conference
 set-up, Macs etc… You may send a message in the **#dxw-techsupport**
 Slack channel.
 
+**Note:** please use Helvetica or Arial as the font in your emails.
+
 ### Benefits
 
 #### Pensions
