@@ -1832,12 +1832,12 @@ Mobile - if you’re comfortable to share
 www.dxw.com :: 0345 2577520 :: @dxw helping public sector teams to make good
 technology decisions and build better services
 
-### Out of office email message
+### Email Autoresponder
 
 If you require an out of office message on your email account please send
-your request to support@dxw.com which must include start date, the contact
-details for another member of the team for any urgent queries, and return
-date to be added to our mail server.
+your request to support@dxw.com with the subject title **Email Autoresponder**
+which must include start date, the contact details for another member of the
+team for any urgent queries, and return date to be added to our mail server.
 
 ### Internal Tech Support
 
