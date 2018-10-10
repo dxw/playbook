@@ -1447,6 +1447,9 @@ If you want to take time off:
   the impact it will have on the team and the project
 * **Request the holiday through BreatheHR**: we use BreatheHR to track who's
   off when so we can plan for it
+* **Add your holiday to your calendar**: if someone is trying to find out where
+  you are or when you're available the first thing they'll check is your
+  calendar
 
 We try very hard to make sure that all holiday requests are granted,
 irrespective of when they are made. But it's much easier for delivery managers
