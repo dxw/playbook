@@ -54,6 +54,8 @@ believe that it is possible to use technology and agile principles to help
 government become something recognisably, radically better: and we want to help
 make it happen.
 
+We established dxw cyber in late 2017 to bring the same perspective to security and assurance work as we have with our dxw digital work. Our practice is grounded in high-value penetration testing, and wrapped with practical, hands-on support for front-line teams and pragmatic, focussed consultancy for leaders.
+
 dxw helps public sector teams to make good technology decisions and build better
 services.
 
