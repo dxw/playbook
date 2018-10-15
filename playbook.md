@@ -161,9 +161,9 @@ However, there are some things that we must keep private.
 * Information in these documents is confidential. Information about work
   that is currently being procured (whether we are bidding or not) and any other
   information that could damage the commercial interests of a client or supplier
+* dxw cyber has a different set of rules regarding what information can be shared and how, you can find these here [Harry     to add a link]
 
-If you want to talk about something, and you're not sure if it's confidential,
-play it safe: ask a colleague.
+If you want to talk about something, and you're not sure if it's confidential, particularly if it's regarding any cyber work, play it safe: ask a colleague.
 
 ### Changes to this document
 
