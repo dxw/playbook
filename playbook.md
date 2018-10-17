@@ -1277,7 +1277,7 @@ know. Everyone who is willing tweets about the job and shares it on Facebook and
 other social networks.
 
 The second way we find people is by advertising. We advertise jobs on
-StackOverflow, Github, WorkInStartups and Unicorn Hunt. Not all jobs go on all
+our website, workable's free job board LinkedIn. Not all jobs go on all
 of these boards - we pick whatever seems most appropriate for the job.
 
 The third way we find people is by making sure we're regularly blogging about
@@ -1826,11 +1826,14 @@ is not subject to any specific restrictions.
 
 ### Email Signature
 
-Name Job Title name@dxw.com Twitter handle - if you’re comfortable to share
+Name 
+Job Title 
+name@dxw.com 
+Twitter handle - if you’re comfortable to share
 Mobile - if you’re comfortable to share
 
-www.dxw.com :: 0345 2577520 :: @dxw helping public sector teams to make good
-technology decisions and build better services
+www.dxw.com :: 0345 2577520 :: @dxw 
+helping public sector teams to make good technology decisions and build better services
 
 ### Email Autoresponder
 
