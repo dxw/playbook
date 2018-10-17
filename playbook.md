@@ -1826,11 +1826,24 @@ is not subject to any specific restrictions.
 
 ### Email Signature
 
-Name Job Title name@dxw.com Twitter handle - if you’re comfortable to share
+#### dxw digital
+
+Name 
+Job Title 
+name@dxw.com 
+Twitter handle - if you’re comfortable to share
 Mobile - if you’re comfortable to share
 
 www.dxw.com :: 0345 2577520 :: @dxw helping public sector teams to make good
 technology decisions and build better services
+
+#### dxw cyber
+
+Name 
+Job Title
+name@dxw.com
+
+www.dxwcyber.com :: 0345 2577520 :: @dxwcyber
 
 ### Email Autoresponder
 
