@@ -6,7 +6,7 @@ The login details for the shared Google Analytics account are kept in 1Password,
 
 ## Implementing
 
-We add Google Analytics via [gtag.js](https://developers.google.com/analytics/devguides/collection/gtagjs/). If you're using [whippet-theme](https://github.com/dxw/whippet-theme), the code is already included and you just have to enter the correct [tracking ID](https://support.google.com/analytics/answer/1008080?hl=en).
+We add Google Analytics via [gtag.js](https://developers.google.com/analytics/devguides/collection/gtagjs/). If you're using [whippet-theme-template](https://github.com/dxw/whippet-theme-template), the code is already included [in the footer](https://github.com/dxw/whippet-theme-template/blob/master/app/Theme/Analytics.php) and you just have to enter the correct [tracking ID](https://support.google.com/analytics/answer/1008080?hl=en).
 
 ### Event tracking
 
