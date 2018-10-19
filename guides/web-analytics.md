@@ -20,9 +20,9 @@ It's important to note the section on [handling timeouts](https://developers.goo
 
 There are a few basic steps it's worth following for any site you've set up in Google Analytics:
 
-* Set up an unfiltered [view](https://support.google.com/analytics/answer/1009714?hl=en-GB&ref_topic=6014102) that records all traffic, including spam. You won't use this for most analysis, put it provides a control you can compare against, and a backup in case you get the filtering wrong on other views.
+* Set up an unfiltered [view](https://support.google.com/analytics/answer/1009714?hl=en-GB&ref_topic=6014102) that records all traffic, including spam. Any new view you create is unfiltered by default. You won't use this view for most analysis, put it provides a control you can compare against, and a backup in case you get the filtering wrong on other views.
 * Set up a "main" view that has Google's "Bot filtering" activated (found under Admin > View Settings). This should automatically remove the majority of spam traffic.
-* You may also want to [filter out](https://support.google.com/analytics/answer/1033162?hl=en) internal traffic on the main view (e.g. from within the dxw office, or staging/localhost versions of the site). You can do this by IP and hostname.
+* You may also want to [filter out](https://support.google.com/analytics/answer/1033162?hl=en) internal traffic on the main view (e.g. from within the dxw office, or staging/localhost versions of the site). You can do this by IP (e.g. using dxw's external IP to filter out office traffic) or hostname (e.g. the staging site URL to filter out staging traffic).
 * To avoid double-counting page views that differ only by query string, [follow Google's advice](https://support.google.com/analytics/answer/1009671?hl=en) to build a list of query parameters your site receives, then blacklist the ones you don't care about using the field in View Settings.
 * Set up [Google Search Console](https://search.google.com/search-console/about) (formerly Google Webmaster Tools), and give Analytics access under Acquisition > Search Console. This will allow you to see the search queries people are using that return the site in Google results.
 
