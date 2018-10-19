@@ -1894,6 +1894,14 @@ dxw operates a cycle-to-work scheme, which may allow you to purchase a bicycle
 at reduced cost. If you would like to take this up, please register
 [on the cycle scheme website](https://www.cyclescheme.co.uk/18eb71)
 
+#### Eyecare vouchers
+
+dxw provides eyecare for the team via a voucher system run by ASE Corporate Eyecare Ltd and Boots.
+
+Details of what the wellbeing voucher offers can be found here: [Eyecare for Wellbeing](https://www.eyecareplans.co.uk/corporate-eyecare/eyecare-for-wellbeing/).
+
+[Apply for a wellbeing eyecare voucher](https://gw.eyecareplans.co.uk/dxwe12q2415d3df)
+
 #### Book purchase
 
 If there is a book relevant to your work that you would like to read, make a request through the #dxw-purchasing slack channel and the Bus Ops team will buy it for the library.
