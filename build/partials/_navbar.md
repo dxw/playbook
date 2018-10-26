@@ -7,6 +7,7 @@
   - [Plugin updates](guides/plugin-updates.md)
   - [Plugin reviews](guides/plugin-reviews.md)
   - [Plugin advisories](guides/plugin-advisories.md)
+  - [Web analytics](guides/web-analytics.md)
   - [Working remotely](guides/working-remotely.md)
   - [Style guide](guides/style-guide.md)
   - [Contributing to the Playbook](contributing.md)
