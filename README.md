@@ -90,3 +90,9 @@ npm start
 
 You can now visit [localhost:3000](http://localhost:3000) to see your local
 playbook. Theme files live in the `/build` directory
+
+Check your changes for markdown errors:
+
+```
+./test.sh
+```
