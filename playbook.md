@@ -1442,11 +1442,15 @@ For any other salary queries, please speak to your head-of or the Managing Direc
 
 ### Holiday
 
-We use BreatheHR to manage holiday requests.
+If you want to take time off:
 
-If you want to take holiday, first discuss the dates you plan to be away with
-your team so that they know when you're planning to go. Then request the holiday
-through BreatheHR.
+* **Discuss the dates with your team**: this gives them a chance to think about
+  the impact it will have on the team and the project
+* **Request the holiday through BreatheHR**: we use BreatheHR to track who's
+  off when so we can plan for it
+* **Add your holiday to your calendar**: if someone is trying to find out where
+  you are or when you're available the first thing they'll check is your
+  calendar
 
 We try very hard to make sure that all holiday requests are granted,
 irrespective of when they are made. But it's much easier for delivery managers
