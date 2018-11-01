@@ -1828,9 +1828,9 @@ is not subject to any specific restrictions.
 
 #### dxw digital
 
-Name 
-Job Title 
-name@dxw.com 
+Name
+Job Title
+name@dxw.com
 Twitter handle - if you’re comfortable to share
 Mobile - if you’re comfortable to share
 
@@ -1839,7 +1839,7 @@ technology decisions and build better services
 
 #### dxw cyber
 
-Name 
+Name
 Job Title
 name@dxw.com
 
