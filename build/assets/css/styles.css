@@ -144,3 +144,11 @@ a.skip:hover {
   padding: 5px;
   display: inline-block;
 }
+
+[data-page="playbook.md"] .sidebar-nav > ul > li {
+  display: none;
+}
+
+[data-page="playbook.md"] .sidebar-nav > ul > ul {
+  margin-left: 0;
+}
