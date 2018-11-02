@@ -151,12 +151,11 @@ everything to ourselves.
 
 However, there are some things that we must keep private.
 
-- Our clients trust us to host content that is not public, like upcoming announcements and discussions made as part of formulating new policy. This is not our information to be open about, and it's very important to keep it confidential.
-- We also hold some personal data about and/or on behalf of our clients. We never share any of this data, including contact details. See also: [data protection](#data-protection).
-- We are sometimes sent documents that are [protectively marked](#protective-marking-scheme), and we have a
-scheme of our own. Information in these documents is confidential.
-- Information about work that is currently being procured (whether we are bidding or not) and any other information that could damage the commercial interests of a client or supplier
-- Anything to do with the work of dxw cyber: see below.
+* Our clients trust us to host content that is not public, like upcoming announcements and discussions made as part of formulating new policy. This is not our information to be open about, and it's very important to keep it confidential.
+* We also hold some personal data about and/or on behalf of our clients. We never share any of this data, including contact details. See also: [data protection](#data-protection).
+* We are sometimes sent documents that are [protectively marked](#protective-marking-scheme), and we have a scheme of our own. Information in these documents is confidential.
+* Information about work that is currently being procured (whether we are bidding or not) and any other information that could damage the commercial interests of a client or supplier
+* Anything to do with the work of dxw cyber: see below.
 
 #### Openness and confidentiality (dxw cyber)
 
@@ -166,9 +165,9 @@ As with dxw digital, we also release [code](http://www.github.com/dxwcyber), pub
 
 As a result, we take the opposite approach to dxw digital. We treat everything about our work as private and confidential, with these exceptions:
 
-- General discussions about tools, techniques, approaches and methodologies
-- The nature of our roles and day-to-day work
-- The purpose, mission, vision and values for dxw cyber, and the ways we get things done
+* General discussions about tools, techniques, approaches and methodologies
+* The nature of our roles and day-to-day work
+* The purpose, mission, vision and values for dxw cyber, and the ways we get things done
 
 However, even with these exceptions, there is an overriding principle that client information must be kept confidential. For example, if talking about a particular attack technique could allow someone to infer the identity of a client, we would not discuss it in public.
 
@@ -425,26 +424,23 @@ stage a given story is in.
 * **In progress**: A developer has started working on the story, making changes
   to the product to ensure that each acceptance criterion is met
 * **Awaiting review**: The developer has finished the story and is ready for a second
-  developer to [review](#Code reviews) the technical aspects of the story in a
-  [pull request](#Pull request)
+    developer to [review](#Code reviews) the technical aspects of the story in a
+    [pull request](#Pull request)
 * **Code review**: The story is being reviewed by
-  the second developer who leaves feedback if the pull request is not ready to
-  be merged and needs further work
+    the second developer who leaves feedback if the pull request is not ready to
+    be merged and needs further work
 * **dxw/client review**: The two developers
-  have finished the review and the story is now merged and pushed to staging. It
-  is ready for a delivery manager and the client to review against its
-  acceptance criteria
+    have finished the review and the story is now merged and pushed to staging. It
+    is ready for a delivery manager and the client to review against its
+    acceptance criteria
 * **Accepted**: The client has accepted the story and it's
   ready to deploy to production
 * **Done**: The story is deployed to production
 
 ### Managing delivery
 
->"The delivery manager sets the team up for successful delivery. They remove
-obstacles, or blockers to progress, constantly helping the team become more self
-organising. They enable the work a team does rather than impose how it’s done."
-> --<cite>[Government Digital
-Service](https://www.gov.uk/service-manual/the-team/delivery-manager.html)</cite>
+> "The delivery manager sets the team up for successful delivery. They remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done."
+> --<cite>[Government Digital Service](https://www.gov.uk/service-manual/the-team/delivery-manager.html)</cite>
 
 At dxw, delivery managers ensure that sprints go smoothly and that the team
 remain productive. They are generally the client's first and main point of
@@ -1062,7 +1058,7 @@ The work described in this section is the responsibility of **delivery
 managers**.
 
 We monitor Zendesk for tickets that are or will shortly be breaching our SLA.
-There are two views to facilitate this: SLA breaches* and *Approaching SLA
+There are two views to facilitate this: SLA breaches *and* Approaching SLA
 breaches*. The number of tickets in these views is also displayed on the
 monitoring dashboard in the office.
 
