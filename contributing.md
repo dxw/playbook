@@ -73,7 +73,7 @@ GitHub allows us to:
 1. Open a pull request
    1. Make sure the title explains the small change you're suggesting
    1. Write a short comment to encapsulate the whole change
-   1. Create pull request
+   1. Create a pull request
 
 The Playbook is hosted on [GitHub Pages](https://pages.github.com), and it's
 tracking the `master` branch. This means your changes will be published
