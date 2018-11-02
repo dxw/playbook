@@ -1,0 +1,6 @@
+extends: existence
+message: "WordPress not '%s'"
+level: error
+ignorecase: false
+raw:
+  - (?:\bWordpress\b|\bWP\b|\bWord Press\b)
