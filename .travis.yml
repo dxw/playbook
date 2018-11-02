@@ -8,5 +8,6 @@ matrix:
       install:
         - go get github.com/ValeLint/vale
       script:
-        - vale playbook.md
+        - vale playbook.md && vale contributing.md && vale README.md
+        - vale guides
 
