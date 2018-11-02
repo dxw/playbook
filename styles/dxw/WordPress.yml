@@ -3,4 +3,4 @@ message: "WordPress not '%s'"
 level: error
 ignorecase: false
 raw:
-  - (?:\bWordpress\b|\bWP\b|\bWord Press\b)
+  - (?:\bWordpress\|\bWord Press\b|\bWord press\b)
