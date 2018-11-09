@@ -80,6 +80,7 @@ dependencies:
 
 ```
 npm install
+go get github.com/errata-ai/vale
 ```
 
 Then to start a local development server run:
@@ -95,4 +96,10 @@ Check your changes for markdown errors:
 
 ```
 ./test.sh
+```
+
+To run the prose linter:
+
+```
+vale [fileYouWantToLint].md
 ```
