@@ -290,6 +290,8 @@ clients' needs.
 
 ### Research
 
+At dxw, we believe in making decisions based on evidenced user needs. As researchers, we help multidisciplinary teams learn about users and recognise the value of user research. There is no single right way of doing this, but as a team, we need to stay unified in the way we approach, do, and talk about research.
+
 #### Principles
 
 Our principles are not rules. They exist to guide our work and keep us improving
@@ -444,12 +446,6 @@ Findings and recommendations are not the same. Findings mean that ‘we know thi
 
 **10. Refine outputs and handover**
 These are things like slide decks, user journeys and user needs. We start drafting these early, iterating and adding to them as we go along. We share them frequently ‘just as they are’ so that clients have the opportunity to give us feedback without us spending lots of time making them pixel-perfect. This means we often need to refine part-finished, paper versions of outputs before handing them over to the client as final deliverables. User researchers do the bulk of this work, but it's a team effort. We allocate time before the end of the project to do this and bring in a designer if needed.
-
-At dxw, we believe in making decisions based on evidenced user needs. As
-researchers, we help multidisciplinary teams learn about users and recognise the
-value of user research. There is no single right way of doing this, but as a
-team, we need to stay unified in the way we approach, do, and talk about
-research.
 
 ### Development sprints
 
