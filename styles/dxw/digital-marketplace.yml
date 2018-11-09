@@ -1,0 +1,6 @@
+extends: existence
+message: "Digital Marketplace not '%s'"
+level: error
+ignorecase: false
+raw:
+  - (?:\bDigital marketplace\b|\bdigital marketplace\b)

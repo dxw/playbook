@@ -1,0 +1,6 @@
+extends: existence
+message: "multisite not '%s'"
+level: error
+ignorecase: true
+raw:
+  - (?:\bmulti-site\b|\bmulti site\b)

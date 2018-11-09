@@ -1,4 +1,13 @@
-language: ruby
-cache: bundler
-script: ./test.sh
+matrix:
+  include:
+    - language: ruby
+      cache: bundler
+      script: ./test.sh
+    - language: python
+      python: 2.7.15
+      install:
+        - go get github.com/ValeLint/vale
+      script:
+        - vale playbook.md && vale contributing.md && vale README.md
+        - vale --glob='!*style-guide.md' guides
 

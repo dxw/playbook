@@ -1,0 +1,8 @@
+extends: substitution
+message: '%s'
+link: https://playbook.dxw.com/#/guides/style-guide
+level: warning
+ignorecase: true
+swap:
+  - platform: Avoid using 'platform', unless it actually is one 
+  - portal: Avoid using 'portal', unless to another dimension
