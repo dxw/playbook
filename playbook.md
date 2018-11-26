@@ -171,6 +171,7 @@ play it safe: ask a colleague.
 
 To complement these general principles, each profession at dxw publishes a set of specific principles. These guide our work and help us to understand each other better, so multidisciplinary teams can form quickly and work together effectively.
 
+* [Leadership](#leadership)
 * [User research](#user-research-principles)
 
 ### Changes to this document
