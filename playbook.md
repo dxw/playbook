@@ -96,7 +96,9 @@ enjoy doing things properly, and we're loath to settle for less.
 We are reliable, consistent and committed. We make every effort to live up to
 each others' expectations, and to exceed the expectations of our clients.
 
-### Some guiding principles
+### Principles
+
+These principles guide our behaviour and decision making, and help us live up to our [values](#values).
 
 #### Agile mindset
 
@@ -164,6 +166,13 @@ However, there are some things that we must keep private.
 
 If you want to talk about something, and you're not sure if it's confidential,
 play it safe: ask a colleague.
+
+#### Specific principles
+
+To complement these general principles, each profession at dxw publishes a set of specific principles. These guide our work and help us to understand each other better, so multidisciplinary teams can form quickly and work together effectively.
+
+* [Leadership](#leadership)
+* [User research](#user-research-principles)
 
 ### Changes to this document
 
@@ -288,11 +297,11 @@ We don't always do all these phases for every client. Often, we'll only be
 involved in a couple. But we can help with all or any of them, depending on our
 clients' needs.
 
-### Research
+### User research
 
-At dxw, we believe in making decisions based on evidenced user needs. As researchers, we help multidisciplinary teams learn about users and recognise the value of user research. There is no single right way of doing this, but as a team, we need to stay unified in the way we approach, do, and talk about research.
+At dxw, we believe in making decisions based on evidenced user needs. As user researchers, we help multidisciplinary teams learn about users and recognise the value of user research. There is no single right way of doing this, but as a team, we need to stay unified in the way we approach, do, and talk about research.
 
-#### Principles
+#### User research principles
 
 Our principles are not rules. They exist to guide our work and keep us improving
 as a team, working with, not for our clients.
@@ -400,7 +409,7 @@ opportunities for our teams and clients to get involved with the hope that
 they'll carry on with users in mind even without user researchers on the
 project.
 
-#### Workflow
+#### User research workflow
 
 We don’t only do user research in discovery, but do our best to ensure that it is built into projects at every phase. For each project phase, user research is an ongoing activity that typically follows the following workflow:
 
