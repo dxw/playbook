@@ -135,12 +135,12 @@ outside of working hours and handle them once you are back at work.
 
 #### Openness
 
-We believe it's best to be open about what we're doing. We encourage our clients
+At dxw, we believe it's best to be open about what we're doing. We encourage our clients
 to do the same, as does the [service manual](https://www.gov.uk/service-manual).
 We talk, blog and write about what we're doing, and we are open about as much as
 we can.
 
-We release [code](http://www.github.com/dxw), publish our
+At dxw digital, we release [code](http://www.github.com/dxw), publish our
 [contracts](http://www.github.com/dxw/contracts) and things like this playbook
 and talk with people about what we're up to because we believe that we'll
 ultimately have more opportunities to work, grow and improve than if we kept
@@ -161,7 +161,15 @@ However, there are some things that we must keep private.
 * Information in these documents is confidential. Information about work
   that is currently being procured (whether we are bidding or not) and any other
   information that could damage the commercial interests of a client or supplier
-* dxw cyber has a different set of rules regarding what information can be shared and how, you can find these here [Harry     to add a link]
+
+At dxw cyber, because of the sensitivity of our work, we are not able to be so open. It is vitally important that we keep the details of our client relationships and projects confidential, because disclosure of those details could cause substantial harm to them - as well as to other internet users affected by any similar problems.
+
+So, at dxw cyber, we keep almost all of the details of our work private. You can talk about:
+
+* Tools, techniques, approaches and methodologies
+* The nature of our roles and day-to-day work
+* The purpose, mission, vision and values for dxw cyber; our philosophy and the ways we get things done
+* Examples of our client work that we have published
 
 If you want to talk about something, and you're not sure if it's confidential play it safe: ask a colleague. Especially if it's about dxw cyber's work.
 
