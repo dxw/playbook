@@ -1671,6 +1671,77 @@ communicative.
 If you are working from home, you must record this as an absence in BreatheHR.
 There is a category, "WFH", for this purpose.
 
+### dxw Support Structures
+
+#### Facilities/Purchasing/Technical Support
+
+Anytime you need to order something, notice a problem in the office (eg. a broken chair or dripping tap) or you need some help with your laptop or the printer - there is a Slack channel for it. If in doubt, please speak to the Business Operations team (Steph, Liam or Vee) and they’ll point you in the right direction.
+
+```
+#dxw-facilities
+#dxw-purchasing
+#dxw-techsupport
+```
+
+#### Helpers
+
+When you join dxw you will be assigned a helper. This person will work closely with you for at least your first 4 months. They will do a similar job to you, help you meet members of the wider team, catch up with you on at least a 3/6/12 week basis to ensure you are receiving everything you need, and will NEVER get bored of your questions!
+
+If you feel that you’re not getting as much time with your helper as you’d like, please speak to People Manager, Vee.
+
+As a helper, you will be vital in ensuring you have the regular catch ups - if you are finding it hard to schedule them, please do talk to Bus Ops.
+
+For more information on being a helper, please see the [checklist](https://docs.google.com/document/d/1Dc3IRZ_ze7QzMQTHO70ZC6hU8cig5ds7LN2MoHmPBe8/edit) or speak to Vee.
+
+#### Buddies
+
+Once you have passed your 4 month probation, we would like you to choose a buddy within the company to support you.
+
+We recommend this person **doesn’t** work directly with you, someone in a different role and that you don’t work closely with on projects, as this will give you a second pair of ears and a whole new set of experiences to draw on.
+
+This is not mandatory, just recommended and similarly not everyone may wish to be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t have to be.  Also, if you feel that a change of buddy would benefit you for whatever reason or that you’re no longer able to be a buddy - this should also not be an awkward situation. If you have any concerns, have a chat with Vee.
+
+If you want to know more about how the buddy system works, how often to meet and suggested discussion topics, see the buddy [crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing). This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet up.
+
+#### HR
+
+The bi-weekly HR surgeries are there to give an opportunity for members of the team to discuss matters they might not feel able to raise with buddies/ Delivery Leads or that are specialist to the HR function in dxw.
+
+The list is not exhaustive but some topics might include:
+
+* Holiday
+* Sickness
+* Pay
+* Expenses
+* Parental Leave
+* Accessibility
+* Probation
+* Pensions
+* Occupational health issues
+* Contractual matters
+* Working patterns/locations
+* Training and career progression
+* Diversity
+* Stress Management
+* Interpersonal issues
+* Bereavement
+* Grievance and disciplinary matters
+* Facilitation/scheduling of conversations with Heads of, such as Salary Reviews
+
+Bookable slots are available on Wednesdays and Fridays at 11am but Vee’s door is always open.
+
+#### Delivery Lead
+
+There will be opportunities within the delivery team to raise any issues or concerns you might have e.g retrospectives or planning sessions. As well as this, or if you’d prefer to talk one on one the delivery lead working on the project will be available to provide support and guidance.
+
+#### Heads of
+
+All members of the Heads-of team are here to help answer any questions you might have. Your own Head-of profession or location is there to provide support on matters relating to dxw and your career with us, as well as profession specific questions. Similarly, they are here if you need to escalate any job-related concerns to.
+
+#### Our MD, Dave
+
+At dxw, all doors are open if you need to raise a concern of just have a chat - this includes our MD. Dave is always available to discuss any questions you have about the company and its future. Equally, if you feel you need to escalate anything to him, don’t hesitate to get in touch. If he’s not around, talk to Farrah so she can arrange some time with him.
+
 ### Data protection
 
 Though dxw doesn't control much personal data, our clients generally do. And
@@ -1796,31 +1867,6 @@ incurring them.
 
 We manage expenses using Xero. For more information about how to do this, see
 the [guide on claiming expenses]()
-
-### dxw Support Structures
-
-## Helpers
-When you join dxw you will be assigned a helper, this person will work closely with you for at least your first 3 months. They will do a similar job, help you meet members of the wider team, catch up with you on at least a 3/6/12 week basis to ensure you are receiving everything you need, and will NEVER get bored of your questions!
-
-## Buddies
-Once you have passed your 3 month probation, we would like you to choose a buddy within the company to support you. We recommend this person doesn’t work directly with you as this will give you a second pair of ears and a whole new set of experiences to draw on.
-
-If you want to know more about how the buddy system works, how often to meet and suggested discussion topics, see the buddy section below.
-
-## Delivery Manager (DM)
-If your work is client facing and there is an issue regarding that work, your DM will be available to provide support and  guidance.
-
-## HR
-HR covers all aspects of the employee - employer relationship, provide a wide range of resources and support. We have bi-weekly HR surgeries to give an opportunity for members of the team to discuss matters they might not feel able to raise with buddies/DMs or that are specialist to the HR function in dxw.
-
-This list is not exhaustive but some topics might include: Holiday, sickness, expenses, parental Leave, contractual matters, working patterns/locations, training and career progression, diversity, accessibility, occupational health issues, stress Management, interpersonal issues, grievance and disciplinary matters, facilitation/scheduling of conversations with Headsof, such as Salary Reviews.
-
-## Headsof
-Your Headof is there to provide support on matters relating to dxw and your career with us. Similarly, they are here if you need to escalate any job-related concerns.
-
-## Harry
-Harry is always available to discuss any questions you have about the company and its future. Equally, if you feel you need to escalate anything to him, don’t hesitate to get in touch. 
-
 
 ### The buddy system
 
