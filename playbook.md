@@ -20,7 +20,6 @@ there is very little about our process that cannot be open. But there will be
 things from time to time, so don't forget that changes here get published to the
 world.
 
-
 Finally, this document is inspired by [Thoughtbot's excellent
 playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
 
