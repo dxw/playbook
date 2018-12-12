@@ -20,6 +20,7 @@ there is very little about our process that cannot be open. But there will be
 things from time to time, so don't forget that changes here get published to the
 world.
 
+
 Finally, this document is inspired by [Thoughtbot's excellent
 playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
 
@@ -1541,6 +1542,8 @@ having an emergency, we work longer hours than normal. From time to time,
 there's an emergency that means we have to work during unsociable hours to solve
 the problem. Neither of these happen very often, but they are a normal part of
 life at dxw.
+
+### Flexible Working Policy
 
 ### Remuneration
 
