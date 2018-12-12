@@ -1542,6 +1542,70 @@ there's an emergency that means we have to work during unsociable hours to solve
 the problem. Neither of these happen very often, but they are a normal part of
 life at dxw.
 
+### Flexible Working
+Our policy is informed by the way we work and the way we charge clients for our time.
+
+### How we work:
+Monday–Thursday
+
+**Client facing**: We charge clients “time and materials” for the work we do, based on a [per person day rate] (https://assets.digitalmarketplace.service.gov.uk/g-cloud-10/documents/92768/432689933684667-sfia-rate-card-2018-05-23-1413.pdf). We generally schedule team members to work on particular projects for a whole sprint at a time, and track and bill that time in half days and whole days. Delivery Leads work with the finance team to track and invoice the time of the team; having regularly patterned working helps the process to run as smoothly as possible, without confusion and without taking more time than needed. Any working arrangement needs to make it straightforward to track, report and invoice for your time.
+
+When working on a project we work as a single multi-disciplinary team. We’re often working on phases of projects where there’s a lot of unknowns and a lot of learning, so we use agile approaches and strongly favour being able to work together on problems. That’s often easier when co-located, particularly when working with clients, pairing, or participating in workshops. Any working arrangement needs to support active synchronous collaboration with the team.
+
+**Internal facing**: Internal facing roles, in which time is not billable to a client, have a more regularly structured five day working week. Everybody is encouraged to take part in Friday work, at least occasionally.
+
+### dxw fridays
+We come back together as a team to work on our own projects and processes each Friday. Those Fridays are important for us to maintain our strong culture and identity, separate from the clients we work for. Our sprints start on a Wednesday and end on the Tuesday two weeks later.
+
+### Overall requirements:
+**Client facing**: Any working arrangement needs to allow you to participate in most Fridays and be around for the important start-of- and end-of-sprint ceremonies.
+
+**Internal facing**: Working arrangements for these roles are slightly more flexible as the delivery needs listed above are not relevant.
+
+### How you can work:
+
+### Part time working
+The normal working pattern is 5 days per week, Monday–Friday.
+
+**Client facing**: We’re happy to talk about a 4-day week, on the basis of a fortnightly pattern to accommodate our Monday–Thursday billing week and attending some Fridays. It may be possible for some roles to work a 3 day week due to the nature of the role potentially not being full-time on a single project, this would be dependent on a number of contextual factors and discussion with the team. We’re unable to support a 3-day (or fewer) week for all other roles due to the overheads for scheduling.
+
+**Internal facing**: We’re happy to talk about part time working for any number of days, dependent on the role.
+
+Part time hours spread over 5 days, e.g. working 21 hours across a full week, or roughly 4 hours a day, may be possible for internal facing roles after discussion, but is a likely no for client facing roles.
+
+Salary and holiday allowances (including bank holidays) will be prorated for part time roles.
+
+For example, when working a 4 day week, the pro rata leave allowance will be 20 days per year of annual leave and 6.5 bank holiday days, giving a total leave allowance of 26.5 days. Bank holidays that don’t fall on a non-working day must be booked as annual leave.
+
+### Core and non-core hours
+Everybody is expected to work seven hours a day. Normal office hours are 10am–6pm.
+
+If you’d prefer to start a little earlier and finish a little earlier (say 9am–5pm), this is definitely ok and can happen without any formal discussion for all roles.
+
+If you’d prefer your working hours to start after 10am or finish before 5pm (still keeping to seven hours), we’re happy to discuss this and either **might** be possible. The impact of this would be less for internal facing roles than for client facing roles, but both would require a discussion.
+
+Salary and holiday allowances would remain the same.
+
+### Compressed hours 
+If you’d like to work compressed hours, for example; 35 hours in 4 days, 9.30am–6.45pm we would support a discussion for both internal facing roles and client facing roles but cannot guarantee this would be an option. The latter would require further consideration due to the impact on active synchronous collaboration.
+
+35 hours in 3 days, for example, is a no across all roles. It goes against our encouragement of [sustainable pace] (#sustainable-pace).
+
+To address annual leave and bank holidays – a holiday day is 7 hours, so holiday entitlement should be considered as 175 hours and split accordingly given the compressed working day is 8 hours 45 minutes. We prefer that no member of the team should work on a bank holiday and the non working day be scheduled as such.
+
+### Remote working/location
+Generally, we work either at our office or at client sites.
+
+We’re happy to support working from home from a logistical or well-being related perspective. While we don’t support fully-remote roles (legacy arrangements being the exception), we can look at anything from 1–3 days per week following a discussion.
+
+If you need to work from home for a one-off thing then that doesn’t require contractual arrangement – just talk about it with your team before the day, make sure you note it in your calendar and include it in your stand up note that day.
+
+### Requesting a change of working arrangement:
+If you would like to discuss a change to the standard working pattern, you can either speak to your Head-of directly, or, contact the People Team to facilitate and support this conversation by phone, email, slack or in one of our bi-weekly HR surgeries. In this initial conversation, we will discuss your request, look at the impact on the team and your work, agree the best time for this arrangement to begin and how it will be communicated to those necessary.
+
+If you have an alternative working arrangement, you should make sure it’s reflected in your calendar so the rest of the team can be confident in knowing when you are and aren’t around.
+
+
 ### Remuneration
 
 dxw will institute a cost of living raise each year on 1st April. The percentage
