@@ -26,7 +26,7 @@ There are two basic options:
 
    In this case the client will manage all the research data we collect and keep the associated records of consent.
 
-2. If using the client’s consent materials is not possible, or if the client asks us to do confidential research, we can use the dxw digital [information sheet](https://drive.google.com/open?id=19lm5_gzzqzVP0NnNZZiqPhEwW2_i2bkI5apAaie4-4M) and [consent form](https://drive.google.com/open?id=1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k) templates.
+1. If using the client’s consent materials is not possible, or if the client asks us to do confidential research, we can use the dxw digital [information sheet](https://drive.google.com/open?id=19lm5_gzzqzVP0NnNZZiqPhEwW2_i2bkI5apAaie4-4M) and [consent form](https://drive.google.com/open?id=1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k) templates.
 
    In this case the dxw will manage the research data and keep the associated records of consent.
 
