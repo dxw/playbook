@@ -4,7 +4,7 @@
 
 This guide explains how we do user research at dxw digital.
 
-The guidance builds on our user research [principles]() and [workflow](). It also builds on the [guidance for user research in the Service Manual](https://www.gov.uk/service-manual/user-research) so we can help teams meet the [Government Service Standard](https://www.gov.uk/service-manual/service-standard).
+The guidance builds on our user research [principles]() and [workflow](). It also builds on the [guidance for user research in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research) so we can help teams meet the [Government Service Standard](https://www.gov.uk/service-manual/service-standard).
 
 Some of the guidance explains how to do user research in an effective, ethical and legal way. If your situation isn't covered, and you're not sure what to do, ask John Waterworth, the Head of User Research.
 
