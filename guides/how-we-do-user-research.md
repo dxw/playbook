@@ -1,4 +1,4 @@
-# How we do user research at dxw
+# How we do user research
 
 ## Introduction
 
