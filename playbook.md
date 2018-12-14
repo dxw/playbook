@@ -1568,6 +1568,8 @@ If you want to take time off:
   you are or when you're available the first thing they'll check is your
   calendar
 
+For client-facing roles, you may also need to add your holiday to a shared or team calendar. Check with your delivery manager.
+
 We try very hard to make sure that all holiday requests are granted,
 irrespective of when they are made. But it's much easier for delivery managers
 to plan ahead when they have lots of notice, so please don't leave your requests
