@@ -57,8 +57,8 @@ GitHub allows us to:
    1. Commit changes
 1. Open a pull request
    1. Make sure the title explains the small change you're suggesting
-   1. Write a short comment to encapsulate the whole change 3. Create pull
-      request
+   1. Write a short comment to encapsulate the whole change
+   1. Create a pull request
 
 ## Edit
 
@@ -75,6 +75,23 @@ GitHub allows us to:
    1. Write a short comment to encapsulate the whole change
    1. Create a pull request
 
+## Merging pull requests
+
+When the create or edit steps are followed the result is a pull request, which
+is essentially a request for a change to be added to the playbook. Merging a
+pull request means accepting a change into the playbook.
+
+Anyone who is part of the staff team on Github can approve and merge pull
+requests.
+
+1. To see the open pull requests, visit [https://github.com/dxw/playbook/pulls](https://github.com/dxw/playbook/pulls)
+1. Click on the name of the pull request you want to review
+1. The page for an invididual pull request has several tabs, the most important ones are `Conversation` and `Files changed`. Take the time to read the pull request description (in the `Conversation` tab) to understand why this change was made, and any futher comments on this page.
+1. Click on `Files changed` to see the actual changes made to the playbook. Lines removed will be marked in red, and lines added marked in green. If you want to see the changes in context, click on `View file` (top right) to see the amended playbook as a whole.
+1. If you are happy with the changes, click on the green `Review changes` button in the top right. Select the `Approve` radio button and add any comments you have about the changes. Then click `Submit review`.
+1. If you think the changes need more work before merging, click on the `Review changes` button and select the `Request changes` radio button. Use the comment form to let the editor know what changes you wish to see, then click `Submit review`. The editor will recieve notification of your comments.
+1. When you are happy with the changes in the pull request, you can click the green `Merge pull request` button on the `Conversation` tab.
+
 The Playbook is hosted on [GitHub Pages](https://pages.github.com), and it's
-tracking the `master` branch. This means your changes will be published
-automatically when your pull request is merged.
+tracking the `master` branch. This means changes will be published
+automatically when a pull request is merged.
