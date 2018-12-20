@@ -13,6 +13,8 @@ to get things done. But now, when we've found one, it'll be recorded here. And
 once it is, it'll be the way we do things until we find something better, and
 write it down.
 
+dxw now encompasses dxw digital and dxw cyber, many of the values and ways of working are the same across both businesses and so one document is used for both, with any differences being identified.
+
 This document lives in Github. Anyone on the team can edit it, and should do so.
 But an edit must never be a substitute for discussion and agreement, so be
 careful about making significant changes. This document is also public, because
