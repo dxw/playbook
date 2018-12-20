@@ -33,6 +33,12 @@ mostly aimed at developers, but can contain any detailed documentation on a
 specific task or subject. Like research activities, this is quite detailed and
 isn't of general interest, so it gets its own section.
 
+## Contributing to the playbook
+
+There is a guide to editing the playbook, and creating new content, in
+[contributing](contributing.md). This is also available
+on [the published playbook](http://playbook.dxw.com/#/contributing).
+
 ## Style
 
 These documents are maintained by everyone at dxw, and it's important that their
@@ -91,6 +97,8 @@ npm start
 
 You can now visit [localhost:3000](http://localhost:3000) to see your local
 playbook. Theme files live in the `/build` directory
+
+### Linting
 
 Check your changes for markdown errors:
 
