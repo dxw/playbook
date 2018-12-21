@@ -28,7 +28,7 @@ There are two basic options:
 
 1. If using the client’s consent materials is not possible, or if the client asks us to do confidential research, we can use the dxw digital [information sheet](https://drive.google.com/open?id=19lm5_gzzqzVP0NnNZZiqPhEwW2_i2bkI5apAaie4-4M) and [consent form](https://drive.google.com/open?id=1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k) templates.
 
-   In this case the dxw will manage the research data and keep the associated records of consent.
+   In this case dxw will manage the research data and keep the associated records of consent.
 
 Whichever approach you take, make sure the materials follow the [good practice for informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research#what-informed-consent-is) described in the Service manual. In particular, make sure that the material clearly describes both the client and dxw digital’s involvement in the research, and how we will share research data and findings.
 
@@ -86,7 +86,7 @@ Ask the participant to send a reply, confirming their consent. They can reply to
 
 At the start of the session, remind the participant that their participation is voluntary and they can stop or take a break at any time. Remind the participant about the different ways you are recording the session, and about anyone observing or listening in. Ask the participant to confirm their consent for the recording.
 
-As the session continues, actively make sure you have the participants consent. For example, check in with the participant if they look concerned about an activity, or if you’re on a visit and  want to take a photo in a new area.
+As the session continues, actively make sure you have the participant’s consent. For example, check in with the participant if they look concerned about an activity, or if you’re on a visit and  want to take a photo in a new area.
 
 ### Keeping a record of consent
 
