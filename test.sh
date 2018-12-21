@@ -9,7 +9,7 @@ then
   exit 0
 else
   bundle exec mdl -g . | \
-    awk -F: '{print $3}' | \
+    awk -F: '/MD/ {print $3}' | \
     sed -e "s/^ //" -e "s/MD\([0-9]*\) /MD\1 - /" | \
     tr " " "-" | \
     tr '[:upper:]' '[:lower:]' | \
