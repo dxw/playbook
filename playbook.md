@@ -1,6 +1,5 @@
-# dxw’s Playbook
-
-## Purpose
+## dxw’s Playbook
+# Purpose
 
 For most of dxw's life, we've been small enough that it's been easy for everyone
 to know what's going on and how to get things done, just by listening to what's
