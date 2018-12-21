@@ -3,7 +3,7 @@
 echo "=> linting .travis.yml..."
 bundle exec travis lint --no-interactive
 echo "=> linting markdown..."
-if bundle exec mdl -g .
+if bundle exec mdl -g > /dev/null .
 then
   echo "No Markdown errors"
   exit 0
