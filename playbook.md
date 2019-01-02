@@ -2180,7 +2180,9 @@ It's ok for members of the team to go together, but Head of Delivery gets final
 say if there's an impact on work, as with any other leave.
 
 You can book your perk through BreatheHR as a training request, with weblinks and an estimate of the
-ticket, accommodation and travel costs, and Bus Ops will get it sorted for you.
+ticket, accommodation and travel costs, and Bus Ops will get it sorted for you. 
+
+The annual budget is aligned to your start date.
 
 #### Cycle to work scheme
 
