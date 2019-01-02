@@ -2179,6 +2179,9 @@ a blog post.
 It's ok for members of the team to go together, but Head of Delivery gets final
 say if there's an impact on work, as with any other leave.
 
+You can book your perk through BreatheHR as a training request, with weblinks and an estimate of the
+ticket, accommodation and travel costs, and Bus Ops will get it sorted for you.
+
 #### Cycle to work scheme
 
 dxw operates a cycle-to-work scheme, which may allow you to purchase a bicycle
