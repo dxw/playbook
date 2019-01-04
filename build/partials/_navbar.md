@@ -2,6 +2,8 @@
 
 - [Playbook](/)
 - Guides
+  - [Claiming expenses](guides/claiming-expenses.md)
+  - [Setting up a new project](guides/delivery/setting-up-a-new-project.md)
   - [Development workflow](guides/development-workflow.md)
   - [Plugin updates](guides/plugin-updates.md)
   - [Plugin reviews](guides/plugin-reviews.md)
