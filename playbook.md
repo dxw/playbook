@@ -2112,8 +2112,7 @@ name@dxw.com
 Twitter handle - if you’re comfortable to share
 Mobile - if you’re comfortable to share
 
-www.dxw.com :: 0345 2577520 :: @dxw helping public sector teams to make good
-technology decisions and build better services
+www.dxw.com :: 0345 2577520 :: @dxw :: creating better digital public services
 
 #### dxw cyber
 
