@@ -1934,7 +1934,6 @@ you should get permission first.
 
 * Submit an urgent ticket by sending an email to support-emergency@dxw.com
 stating which work device was lost or stolen and when the incident had occured.
-
 * Our support staff will be immediately notified, at any time of day.
 
 ### Expenses
