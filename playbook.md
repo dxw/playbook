@@ -1933,8 +1933,8 @@ you should get permission first.
 ### Report a lost or stolen device used for work
 
 * Submit an urgent ticket by sending an email to support-emergency@dxw.com
-stating which work device was lost or stolen and when the incident had occured.
-* Our support staff will be immediately notified, at any time of day.
+  stating which work device was lost or stolen and when the incident had occurred
+* Our support staff will be immediately notified, at any time of day
 
 ### Expenses
 
