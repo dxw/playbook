@@ -1930,6 +1930,13 @@ what you're using it for. Some good practice examples are:
 If you need to use a personal device but cannot take these sorts of measures,
 you should get permission first.
 
+### Report a lost or stolen device used for work
+
+* Submit an urgent ticket by sending an email to support-emergency@dxw.com
+stating which work device was lost or stolen and when the incident had occured.
+
+* Our support staff will be immediately notified, at any time of day.
+
 ### Expenses
 
 From time to time, some of us spend our own money at work. Most often, this is
