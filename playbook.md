@@ -2106,19 +2106,19 @@ is not subject to any specific restrictions.
 
 #### dxw digital
 
-Name
-Job Title
-name@dxw.com
-Twitter handle - if you’re comfortable to share
-Mobile - if you’re comfortable to share
+Name<br>
+Job Title<br>
+name@dxw.com<br>
+Twitter handle - if you’re comfortable to share<br>
+Mobile - if you’re comfortable to share<br>
 
 www.dxw.com :: 0345 2577520 :: @dxw :: creating better digital public services
 
 #### dxw cyber
 
-Name
-Job Title
-name@dxw.com
+Name<br>
+Job Title<br>
+name@dxw.com<br>
 
 www.dxwcyber.com :: 0345 2577520 :: @dxwcyber
 
