@@ -4,6 +4,8 @@
 
 This guide explains how we do user research at dxw digital.
 
+The guidance applies to all user researchers employed by dxw digital, both staff and contractors.
+
 The guidance builds on our user research [principles](http://playbook.dxw.com/#/?id=user-research-principles) and [workflow](http://playbook.dxw.com/#/?id=user-research-workflow). It also builds on the [guidance for user research in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research) so we can help teams meet the [Government Service Standard](https://www.gov.uk/service-manual/service-standard).
 
 Some of the guidance explains how to do user research in an effective, ethical and legal way. If your situation isn't covered, and you're not sure what to do, ask John Waterworth, the Head of User Research.
@@ -12,9 +14,7 @@ Some of the guidance explains how to do user research in an effective, ethical a
 
 You must have informed consent from participants before you start any research activity with them. And you must then act only within the consent the participant has given.
 
-This guide explains how we collect and keep evidence of informed consent at dxw digital. It builds on the general guidance on [getting informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research) in the Service Manual.
-
-This guidance applies to all user researchers employed by dxw digital, both staff and contractors.
+This guidance explains how we collect and keep evidence of informed consent at dxw digital. It builds on the general guidance on [getting informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research) in the Service Manual.
 
 ### Creating consent materials
 
