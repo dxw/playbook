@@ -99,7 +99,9 @@ Make sure the consent form, email reply and any research data have the same part
 ## When and how we give incentives to research participants
 
 It‘s normal to pay members of the public an incentive when they take part in research activities with us.
+
 This guidance explains how we agree incentives with clients and pay incentives to participants.
+
 It builds on the [basic guidance on giving incentives](https://www.gov.uk/service-manual/user-research/find-user-research-participants#giving-incentives) in the Service Manual.
 
 ### Who gets incentives
@@ -119,10 +121,10 @@ You can then confirm the exact incentive with the client when you are planning a
 
 On previous project we have paid:
 
-  - £30 of Love2Shop gift vouchers for 1.5 hours of in-person usability testing
-  - £50 cash for geographically-specific users to take part in 1 hour of remote mobile usability testing
-  - £100 cash for an hour-long discovery research session with people likely to need assisted digital support
-  - £100 cash incentives for 45 minute research session with small businesses
+- £30 of Love2Shop gift vouchers for 1.5 hours of in-person usability testing
+- £50 cash for geographically-specific users to take part in 1 hour of remote mobile usability testing
+- £100 cash for an hour-long discovery research session with people likely to need assisted digital support
+- £100 cash incentives for 45 minute research session with small businesses
   
 ### Paying incentives through a recruitment agency
 
@@ -146,7 +148,7 @@ Handle the incentive at the start of the research session - either giving the in
 
 Other options for paying incentives a donation to a preferred charity, or a hamper that can be shared with a team.
 
-### Withholding incentives 
+### Withholding incentives
 
 We do not pay the incentive (or any recruitment fee) if the participant doesn’t show up for their session. Although we might still pay the incentive if the participant tries to attend, but is stopped by an emergency or severe travel problem beyond their control.
 
