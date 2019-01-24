@@ -136,11 +136,11 @@ If a participant contacts dxw digital to say they haven’t received their incen
 
 Where we are paying the incentive, we use shopping vouchers. Normally from [Love2shop](https://www.highstreetvouchers.com/gifts/love2shop-gift-vouchers).
 
-Ask the facilities team to get the vouchers for you. They should be in £5 and £10 denominations so they are easier to spend.
+Request the amount of vouchers you need through the #dxw-purchasing Slack channel. They should be in £5 and £10 denominations so they are easier to spend.
 
 In a face-to-face research session, give the vouchers to the participant and have them [sign a receipt](https://drive.google.com/open?id=1-O9Qvp4kgs4t0JfQTIQF9dkiexv5mZtPNJfcxtmODZ0).
 
-For a remote session, ask the finance team to post the vouchers to the participant. Enclose the vouchers in a signed [thank you sheet](https://drive.google.com/open?id=142Sf1QYH9wcySPf6GIOskv5qyJlc9phGZSeoCsxCoeU).
+For a remote research session, use the #dxw-purchasing Slack channel to ask for the vouchers to be posted to the participant. Enclose the vouchers in a signed [thank you sheet](https://drive.google.com/open?id=142Sf1QYH9wcySPf6GIOskv5qyJlc9phGZSeoCsxCoeU).
 
 Handle the incentive at the start of the research session - either giving the incentive, or confirming that the incentive will be sent. This avoids any suggestion that participants have to ‘earn’ their incentive. It also means you don’t have to deal with the incentive if you want to stop a problematic session.
 
