@@ -119,7 +119,7 @@ It’s best to include estimates of incentives and other research expenses in th
 
 You can then confirm the exact incentive with the client when you are planning a batch of research.
 
-On previous project we have paid:
+On previous projects we have paid:
 
 - £30 of Love2Shop gift vouchers for 1.5 hours of in-person usability testing
 - £50 cash for geographically-specific users to take part in 1 hour of remote mobile usability testing
@@ -136,7 +136,7 @@ If a participant contacts dxw digital to say they haven’t received their incen
 
 Where we are paying the incentive, we use shopping vouchers. Normally from [Love2shop](https://www.highstreetvouchers.com/gifts/love2shop-gift-vouchers).
 
-Ask the finance team to get the vouchers for you. They should be in £5 and £10 denominations so they are easier to spend.
+Ask the facilities team to get the vouchers for you. They should be in £5 and £10 denominations so they are easier to spend.
 
 In a face-to-face research session, give the vouchers to the participant and have them [sign a receipt](https://drive.google.com/open?id=1-O9Qvp4kgs4t0JfQTIQF9dkiexv5mZtPNJfcxtmODZ0).
 
