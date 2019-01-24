@@ -125,7 +125,7 @@ On previous project we have paid:
 - £50 cash for geographically-specific users to take part in 1 hour of remote mobile usability testing
 - £100 cash for an hour-long discovery research session with people likely to need assisted digital support
 - £100 cash incentives for 45 minute research session with small businesses
-  
+
 ### Paying incentives through a recruitment agency
 
 If you are using a recruitment agency, ask them to pay the incentive to the participant. They will know how they do this. They may charge a small fee for handling the incentive.
