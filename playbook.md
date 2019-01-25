@@ -835,7 +835,7 @@ These articles are written for clients, but contain lots of useful information.
 
 It's important to be proactive about solving tickets. As soon as we receive a
 ticket, the clock starts ticking. Clients expect us to be
-[responsive](#responsiveness-1) and deal with their problems promptly. If we're
+[responsive](#be-responsive) and deal with their problems promptly. If we're
 not sure how to proceed with a particular ticket, we don't just let it sit
 there, we ask for help from another member of the team.
 
