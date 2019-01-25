@@ -121,10 +121,10 @@ You can then confirm the exact incentive with the client when you are planning a
 
 On previous project we have paid:
 
-- £30 of Love2Shop gift vouchers for 1.5 hours of in-person usability testing
+- £30 of Love2Shop vouchers for 1.5 hours of in-person usability testing
 - £50 cash for geographically-specific users to take part in 1 hour of remote mobile usability testing
 - £100 cash for an hour-long discovery research session with people likely to need assisted digital support
-- £100 cash incentives for 45 minute research session with small businesses
+- £100 cash for 45 minute research session with small businesses
 
 ### Paying incentives through a recruitment agency
 
@@ -146,7 +146,7 @@ Handle the incentive at the start of the research session - either giving the in
 
 ### Other ways to pay incentives
 
-Other options for paying incentives a donation to a preferred charity, or a hamper that can be shared with a team.
+Other options for paying incentives might be a donation to a preferred charity, or a hamper that can be shared with a team.
 
 ### Withholding incentives
 
