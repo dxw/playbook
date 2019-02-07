@@ -5,6 +5,7 @@
   - [Claiming expenses](guides/claiming-expenses.md)
   - [Setting up a new project](guides/delivery/setting-up-a-new-project.md)
   - [Development workflow](guides/development-workflow.md)
+  - [Delivery leads guide for arranging pen tests](guides/delivery/delivery-lead-guide-pen-tests.md)
   - [Support and on call](guides/support-and-on-call.md)
   - [Plugin updates](guides/plugin-updates.md)
   - [Plugin reviews](guides/plugin-reviews.md)
