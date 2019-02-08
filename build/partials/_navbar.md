@@ -12,7 +12,6 @@
   - [Web analytics](guides/web-analytics.md)
   - [How we do user research](guides/how-we-do-user-research.md)
   - [Working remotely](guides/working-remotely.md)
-  - [Claiming expenses](guides/claiming-expenses.md)
   - [Playbook style guide](guides/style-guide.md)
   - [Contributing to the Playbook](contributing.md)
 
