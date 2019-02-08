@@ -727,10 +727,10 @@ Product managers make the best decisions based on the available information with
 
 Product managers communicate the trade-offs they’re making and the rationale for their decisions so that teams can understand how a decision was reached, even when they don’t agree.
 
-**Prioritise**
+**Set clear priorities**
 Product managers work with the team, stakeholders and users to define priorities, and ensure these are clear.
 
-**Measure**
+**Measure outcomes**
 Product managers facilitate and work with service designers and business analysts to work out key metrics and goals for the product and work with the team to define roadmaps to achieve these goals.
 
 h/t to [Ross Ferguson](https://medium.com/@rossferg/the-principles-that-make-me-a-better-product-manager-9e50814d184f) for inspiring several of these principles
