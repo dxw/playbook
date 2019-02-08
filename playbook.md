@@ -709,7 +709,6 @@ Delivery leads at dxw work by the following principles.
 * Take responsibility to ensure that learning feeds back into what we do next
 * Facilitate communication and constructive conversation
 
-
 ### Product management
 
 Product managers at dxw follow these principles.
