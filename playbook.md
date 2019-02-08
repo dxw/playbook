@@ -673,6 +673,37 @@ Findings and recommendations are not the same. Findings mean that ‘we know thi
 **10. Refine outputs and handover**
 These are things like slide decks, user journeys and user needs. We start drafting these early, iterating and adding to them as we go along. We share them frequently ‘just as they are’ so that clients have the opportunity to give us feedback without us spending lots of time making them pixel-perfect. This means we often need to refine part-finished, paper versions of outputs before handing them over to the client as final deliverables. User researchers do the bulk of this work, but it's a team effort. We allocate time before the end of the project to do this and bring in a designer if needed.
 
+
+### Delivery management
+
+Delivery leads at dxw work by the following principles
+
+#### Maintain diplomacy
+* Encourage calmness and patience 
+* Ensure all voices are heard in a fair way 
+* Be proactive to get stuff done 
+
+#### Demonstrate leadership
+* Have the autonomy to lead and to say no
+* Empower delivery teams to do great things 
+* Coach others to get the best from them
+
+#### Show strength & resilience 
+* Protect the team so they can focus 
+* Remove blockers and distraction
+* Provide context and see the bigger picture 
+
+#### Enable, empower & encourage
+* Create space for the team to deliver and individuals to thrive 
+* Build up trust with team / client / stakeholders to support decision making and progress 
+* Be supportive and demonstrate positivity with a focus on delivery 
+
+#### Prioritise learning & improving
+* Actively learn from what we do 
+* Take responsibility to ensure that learning feeds back into what we do next  
+* Facilitate communication and constructive conversation 
+
+
 ## Hosting and supporting services
 
 ### GovPress
