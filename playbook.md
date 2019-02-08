@@ -2245,7 +2245,9 @@ advice or time to prepare, don't be afraid to ask for it. It's also good to blog
 after the event, to talk about your experience and what you learned. If you need
 time to be set aside, talk to a Delivery Manager and see what's possible.
 
-### Blog At dxw, we all write blog posts regularly
+### Blog
+
+At dxw, we all write blog posts regularly.
 
 We blog because want to share what we're doing and what we're learning about
 tech and government with the digital community. When we're hiring, we also want
