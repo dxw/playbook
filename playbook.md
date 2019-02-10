@@ -466,56 +466,66 @@ At dxw, we believe that great teams need great leaders.
 
 Whether or not they are in a formal management role, leaders at dxw are guided by these principles.
 
-1.  **Set an example**
+1. **Set an example**
 
-    Leaders at dxw demonstrate our values in everything we do. We set high standards of behaviour and inspire both colleagues and clients to do the same.
+   Leaders at dxw demonstrate our values in everything we do. We set high standards of behaviour and inspire
+   both colleagues and clients to do the same.
 
-    We demonstrate fairness, integrity, and resilience, and build trust with our actions.
+   We demonstrate fairness, integrity, and resilience, and build trust with our actions.
 
-1.  **Look after people**
+1. **Look after people**
 
-    Leaders at dxw promote the wellbeing of individuals, teams and communities. We encourage a supportive culture and inclusive working arrangements. We prioritise 1:1 time with people to listen and understand their particular needs.
+   Leaders at dxw promote the wellbeing of individuals, teams and communities. We encourage a supportive culture and
+   inclusive working arrangements. We prioritise 1:1 time with people to listen and understand their particular needs.
 
-    We support and defend colleagues in difficult situations. We identify and deal with poor performance and bad behaviour.
+   We support and defend colleagues in difficult situations. We identify and deal with poor performance and bad behaviour.
 
-1.  **Take ownership**
+1. **Take ownership**
 
-    Leaders at dxw welcome responsibility and accountability. We’re proactive, pick up things that need doing without being asked and push to finish the job in hand.
+   Leaders at dxw welcome responsibility and accountability. We’re proactive, pick up things that need doing without
+   being asked and push to finish the job in hand.
 
-    We’re the first to admit mistakes, apologise when wrong and learn for next time.
+   We’re the first to admit mistakes, apologise when wrong and learn for next time.
 
-1.  **Deliver for clients**
+1. **Deliver for clients**
 
-    Leaders at dxw understand how to deliver value for each client and create the conditions for dxw to do brilliant work. We are not afraid to challenge clients or ask difficult questions.
+   Leaders at dxw understand how to deliver value for each client and create the conditions for dxw to do brilliant work.
+   We are not afraid to challenge clients or ask difficult questions.
 
-    We think commercially and push dxw to grow and strengthen as a business.
+   We think commercially and push dxw to grow and strengthen as a business.
 
-1.  **Provide clarity**
+1. **Provide clarity**
 
-    Leaders at dxw communicate clearly and concisely through the right channel. We question any decisions, goals or explanations that are vague or ambiguous and work to clarify them.
+   Leaders at dxw communicate clearly and concisely through the right channel. We question any decisions, goals or
+   explanations that are vague or ambiguous and work to clarify them.
 
-    We’re open, honest and straightforward in what we say and write. And we provide specific, understandable and useful feedback.
+   We’re open, honest and straightforward in what we say and write. And we provide specific, understandable and 
+   useful feedback.
 
-1.  **Make good decisions**
+1. **Make good decisions**
 
-    Leaders at dxw use evidence and judgement to make good decisions. We know that timely decisions are important, so we don’t procrastinate or fudge. We commit to collective decisions, particularly when we originally disagreed.
+   Leaders at dxw use evidence and judgement to make good decisions. We know that timely decisions are important,
+   so we don’t procrastinate or fudge. We commit to collective decisions, particularly when we originally disagreed.
 
-We consult broadly, seek out contrary opinions, and listen to quieter voices. We make sure we can explain our decisions, with context, rationale and evidence.
+   We consult broadly, seek out contrary opinions, and listen to quieter voices. We make sure we can explain our decisions,
+   with context, rationale and evidence.
 
-1.  **Point the way**
+1. **Point the way**
 
-    Leaders at dxw share an inspiring vision for the future of dxw, and each individual’s part in it.
+   Leaders at dxw share an inspiring vision for the future of dxw, and each individual’s part in it.
 
-    On client and dxw projects, we make sure that colleagues understand the outcomes we want to achieve and the value that they will create.
+   On client and dxw projects, we make sure that colleagues understand the outcomes we want to achieve and the value
+   that they will create.
 
-1.  **Build the future**
+1. **Build the future**
 
-    Leaders at dxw hire great people. We actively look for the widest range of candidates to strengthen our diversity.
+   Leaders at dxw hire great people. We actively look for the widest range of candidates to strengthen our diversity.
 
-    We encourage our colleagues to learn, develop new skills, and pursue their career aspirations, whether at dxw or elsewhere. And we give people opportunity and responsibility at the right pace for them.
+   We encourage our colleagues to learn, develop new skills, and pursue their career aspirations, whether at dxw or
+   elsewhere. And we give people opportunity and responsibility at the right pace for them.
 
-    We continually improve dxw capability, and the effectiveness and efficiency of our delivery. We try out new approaches and technologies and give others the time and space to do the same.
-
+   We continually improve dxw capability, and the effectiveness and efficiency of our delivery. We try out new approaches
+   and technologies and give others the time and space to do the same.
 
 ### Delivery management
 
@@ -523,35 +533,35 @@ We consult broadly, seek out contrary opinions, and listen to quieter voices. We
 
 Delivery leads at dxw are guided by these principles.
 
-1.  **Maintain diplomacy**
+1. **Maintain diplomacy**
 
-    * Encourage calmness and patience
-    * Ensure all voices are heard in a fair way
-    * Be proactive to get stuff done
+   * Encourage calmness and patience
+   * Ensure all voices are heard in a fair way
+   * Be proactive to get stuff done
 
-1.  **Demonstrate leadership**
+1. **Demonstrate leadership**
 
-    * Have the autonomy to lead and to say no
-    * Empower delivery teams to do great things
-    * Coach others to get the best from them
+   * Have the autonomy to lead and to say no
+   * Empower delivery teams to do great things
+   * Coach others to get the best from them
 
-1.  **Show strength & resilience**
+1. **Show strength & resilience**
 
-    * Protect the team so they can focus
-    * Remove blockers and distraction
-    * Provide context and see the bigger picture
+   * Protect the team so they can focus
+   * Remove blockers and distraction
+   * Provide context and see the bigger picture
 
-1.  **Enable, empower & encourage**
+1. **Enable, empower & encourage**
 
-    * Create space for the team to deliver and individuals to thrive
-    * Build up trust with team / client / stakeholders to support decision making and progress
-    * Be supportive and demonstrate positivity with a focus on delivery
+   * Create space for the team to deliver and individuals to thrive
+   * Build up trust with team / client / stakeholders to support decision making and progress
+   * Be supportive and demonstrate positivity with a focus on delivery
 
-1.  **Prioritise learning & improving**
+1. **Prioritise learning & improving**
 
-    * Actively learn from what we do
-    * Take responsibility to ensure that learning feeds back into what we do next
-    * Facilitate communication and constructive conversation
+   * Actively learn from what we do
+   * Take responsibility to ensure that learning feeds back into what we do next
+   * Facilitate communication and constructive conversation
 
 ### Product management
 
@@ -559,73 +569,73 @@ Delivery leads at dxw are guided by these principles.
 
 Product managers at dxw follow these principles.
 
-1.  **Set the destination, don’t chart the course**
+1. **Set the destination, don’t chart the course**
 
-    Product managers help empower multidisciplinary teams by refining and articulating the problem the team is trying to solve, and the outcomes they‘re trying to produce.
+   Product managers help empower multidisciplinary teams by refining and articulating the problem the team is trying to solve, and the outcomes they‘re trying to produce.
 
-    Communicating the vision and goals for a project through a clear and well-maintained roadmap is a core part of product management.
+   Communicating the vision and goals for a project through a clear and well-maintained roadmap is a core part of product management.
 
-1.  **Define and defend scope**
+1. **Define and defend scope**
 
-    Getting agreement from everyone involved is crucial to successful delivery.
+   Getting agreement from everyone involved is crucial to successful delivery.
 
-    Product managers should set the direction at the start of a project, and continue to articulate, communicate and defend the scope throughout, so that the team can focus on delivering.
+   Product managers should set the direction at the start of a project, and continue to articulate, communicate and defend the scope throughout, so that the team can focus on delivering.
 
-1.  **Convert insight into action**
+1. **Convert insight into action**
 
-    User research helps inform our objectives, goals, and priorities by telling us more about the problems users are having with the current state, or the needs they have for something different.
+   User research helps inform our objectives, goals, and priorities by telling us more about the problems users are having with the current state, or the needs they have for something different.
 
-    Product managers need to be able to balance user research insights with constraints like time, capacity, and strategic objectives to prioritise the next most important thing.
+   Product managers need to be able to balance user research insights with constraints like time, capacity, and strategic objectives to prioritise the next most important thing.
 
-    Product managers help the team to work together, across disciplines, to identify potential solutions before choosing a way forward.
+   Product managers help the team to work together, across disciplines, to identify potential solutions before choosing a way forward.
 
-1.  **Have a service mindset**
+1. **Have a service mindset**
 
-    Product managers recognise that a digital product is often not the whole solution to a problem, and that the people operating a new service day to day are users too.
+   Product managers recognise that a digital product is often not the whole solution to a problem, and that the people operating a new service day to day are users too.
 
-    We think about the processes and systems around a product, including how those might change.
+   We think about the processes and systems around a product, including how those might change.
 
-1.  **Communicate clearly how short term outcomes contribute to long term goals**
+1. **Communicate clearly how short term outcomes contribute to long term goals**
 
-    Product managers need to own and articulate a vision that is consistent and meaningful to everyone with an interest in the project, from the delivery team all the way through to the most senior stakeholders, and users.
+   Product managers need to own and articulate a vision that is consistent and meaningful to everyone with an interest in the project, from the delivery team all the way through to the most senior stakeholders, and users.
 
-1.  **Be present, collaborative, and consistent**
+1. **Be present, collaborative, and consistent**
 
-    Being available to the team to discuss the unexpected and share in the decision making is central to building empowered and protected teams.
+   Being available to the team to discuss the unexpected and share in the decision making is central to building empowered and protected teams.
 
-    Product Managers should regularly and actively communicate, review and defend our decisions - especially the unplanned or unexpected ones.
+   Product Managers should regularly and actively communicate, review and defend our decisions - especially the unplanned or unexpected ones.
 
-1.  **Maintain a focus on outcomes**
+1. **Maintain a focus on outcomes**
 
-    In the midst of delivery, key dates can loom large, and teams can be diverted onto things which seem urgent but aren‘t important.
+   In the midst of delivery, key dates can loom large, and teams can be diverted onto things which seem urgent but aren‘t important.
 
-    Product managers must help teams and stakeholders remain focused on outcomes over outputs, facilitating discussion and making space for reflection.
+   Product managers must help teams and stakeholders remain focused on outcomes over outputs, facilitating discussion and making space for reflection.
 
-1.  **Lead without authority**
+1. **Lead without authority**
 
-    Product managers shouldn‘t be bottlenecks. Product managers and delivery leads work together to build skilled multidisciplinary teams and create the space in which those disciplines can do their best work.
+   Product managers shouldn‘t be bottlenecks. Product managers and delivery leads work together to build skilled multidisciplinary teams and create the space in which those disciplines can do their best work.
 
-    Product managers are open to new tools, techniques and approaches, working with teams to find what works.
+   Product managers are open to new tools, techniques and approaches, working with teams to find what works.
 
-1.  **Take blame, give credit away**
+1. **Take blame, give credit away**
 
-    Good product managers leave their ego at the door, taking negative feedback on board whilst ensuring the team are rightly recognised for their work and achievements.
+   Good product managers leave their ego at the door, taking negative feedback on board whilst ensuring the team are rightly recognised for their work and achievements.
 
-    Being kind is more important than being right - it‘s a good rule of thumb to enter every conversation without assuming that you already know most, or best.
+   Being kind is more important than being right - it‘s a good rule of thumb to enter every conversation without assuming that you already know most, or best.
 
-1.  **Strong opinions, softly held**
+1. **Strong opinions, softly held**
 
-    Product managers make the best decisions based on the available information with confidence, staying open to the possibility that things could change when more information is available in the future.
+   Product managers make the best decisions based on the available information with confidence, staying open to the possibility that things could change when more information is available in the future.
 
-    Product managers communicate the trade-offs they’re making and the rationale for their decisions so that teams can understand how a decision was reached, even when they don’t agree.
+   Product managers communicate the trade-offs they’re making and the rationale for their decisions so that teams can understand how a decision was reached, even when they don’t agree.
 
-1.  **Set clear priorities**
+1. **Set clear priorities**
 
-    Product managers work with the team, stakeholders and users to define priorities, and ensure these are clear.
+   Product managers work with the team, stakeholders and users to define priorities, and ensure these are clear.
 
-1.  **Measure outcomes**
+1. **Measure outcomes**
 
-    Product managers facilitate and work with service designers and business analysts to work out key metrics and goals for the product and work with the team to define roadmaps to achieve these goals.
+   Product managers facilitate and work with service designers and business analysts to work out key metrics and goals for the product and work with the team to define roadmaps to achieve these goals.
 
 h/t to [Ross Ferguson](https://medium.com/@rossferg/the-principles-that-make-me-a-better-product-manager-9e50814d184f) for inspiring several of these principles.
 
@@ -638,96 +648,96 @@ At dxw, we believe in making decisions based on evidenced user needs. As user re
 Our principles are not rules. They guide our work, keep us improving
 as a team, and working with, not for our clients.
 
-1.  **Help teams understand their users**
+1. **Help teams understand their users**
 
-    Researchers at dxw help our teams build a deep understanding of the people who use our services. We know that‘s the best way to create public services that work well for the people who need them.
+   Researchers at dxw help our teams build a deep understanding of the people who use our services. We know that‘s the best way to create public services that work well for the people who need them.
 
-    We are facilitators, not gatekeepers. We actively involve our colleagues and clients in research. And openly share what we do, how we do it and why it‘s important.
+   We are facilitators, not gatekeepers. We actively involve our colleagues and clients in research. And openly share what we do, how we do it and why it‘s important.
 
-1.  **Find the truth. Tell the truth**
+1. **Find the truth. Tell the truth**
 
-    Researchers at dxw create strong evidence and reliable answers so our teams can act with confidence. We are bold and focus on what‘s most important.
+   Researchers at dxw create strong evidence and reliable answers so our teams can act with confidence. We are bold and focus on what‘s most important.
 
-    We know we can learn things that are unexpected and challenging. So we communicate clearly and sensitively to help everyone make the best decision.
+   We know we can learn things that are unexpected and challenging. So we communicate clearly and sensitively to help everyone make the best decision.
 
-1.  **Take ethics seriously**
+1. **Take ethics seriously**
 
-    Researchers at dxw know that the safety and trust of participants is our responsibility. We think about the ethics of our research at every step. From how we recruit participants and get their informed consent, through how we store and use the data we collect, to how we share our findings.
+   Researchers at dxw know that the safety and trust of participants is our responsibility. We think about the ethics of our research at every step. From how we recruit participants and get their informed consent, through how we store and use the data we collect, to how we share our findings.
 
-1.  **Be methodical, but not rigid**
+1. **Be methodical, but not rigid**
 
-    Researchers at dxw know that the quality of our findings depends on the quality of our methods. We use tried and tested methods, and take time to reflect and continually improve our practice.
+   Researchers at dxw know that the quality of our findings depends on the quality of our methods. We use tried and tested methods, and take time to reflect and continually improve our practice.
 
-    But we also understand that context is important. So we use the best approach for the question at hand and adapt our ways of working to fit the client and the project.
+   But we also understand that context is important. So we use the best approach for the question at hand and adapt our ways of working to fit the client and the project.
 
-1.  **Learn, share and adapt**
+1. **Learn, share and adapt**
 
-    Researchers at dxw work in an agile way. We do research and analysis in small batches so we can continuously share and adapt to what we learn.
+   Researchers at dxw work in an agile way. We do research and analysis in small batches so we can continuously share and adapt to what we learn.
 
-1.  **Build on existing evidence**
+1. **Build on existing evidence**
 
-    Researchers at dxw help clients build on the knowledge and data they already have. We combine existing knowledge, poorly understood data and new research into a coherent picture.
+   Researchers at dxw help clients build on the knowledge and data they already have. We combine existing knowledge, poorly understood data and new research into a coherent picture.
 
-1.  **Accept and admit constraints
+1. **Accept and admit constraints
 
-    Researchers at dxw do the best research we can within the constraints we have. We acknowledge and share the limits of our research and our findings. And we advocate for more research when we believe it is necessary.
+   Researchers at dxw do the best research we can within the constraints we have. We acknowledge and share the limits of our research and our findings. And we advocate for more research when we believe it is necessary.
 
 #### Workflow {#user-research-workflow}
 
 We don’t only do user research in discovery, but do our best to ensure that it is built into projects at every phase. For each project phase, user research is an ongoing activity that typically follows the following workflow:
 
-1.  **Support sales and scheduling**
+1. **Support sales and scheduling**
 
-    User researchers get involved long before a project starts. We support sales work by helping define the user research approach for potential new work.
+   User researchers get involved long before a project starts. We support sales work by helping define the user research approach for potential new work.
 
-    Having input at this early stage ensures that user research proposals are both achievable and effective at meeting the needs of our clients and their users. We also have input to project scheduling decisions. We work with delivery managers to ensure that enough time and resources are allocated to user research. In cases where a user researcher is scheduled to work across different projects simultaneously, we allocate at least 2 or 3 days a week per project to minimise context switching. If we need more than a single user researcher on a project, one user researcher leads the work full-time while the other provides support when needed.  Good scheduling ensures that we can carry out research at a sustainable pace and produce outcomes of the highest possible quality.
+   Having input at this early stage ensures that user research proposals are both achievable and effective at meeting the needs of our clients and their users. We also have input to project scheduling decisions. We work with delivery managers to ensure that enough time and resources are allocated to user research. In cases where a user researcher is scheduled to work across different projects simultaneously, we allocate at least 2 or 3 days a week per project to minimise context switching. If we need more than a single user researcher on a project, one user researcher leads the work full-time while the other provides support when needed.  Good scheduling ensures that we can carry out research at a sustainable pace and produce outcomes of the highest possible quality.
 
 1. **Do desk research and deep thinking**
 
-    We need some time to prepare for inception activities like roadmapping. By doing this we can help the team define the problem better, focus, and prioritise good research questions. We do this by reading through any available project documentation and doing contextual research.
+   We need some time to prepare for inception activities like roadmapping. By doing this we can help the team define the problem better, focus, and prioritise good research questions. We do this by reading through any available project documentation and doing contextual research.
 
-1.  **Get involved with inception and planning activities**
+1. **Get involved with inception and planning activities**
 
-    As we’ll be doing the work, it’s important we get involved early and take part in inception and planning activities. We need to know what the vision and goals for the project are, what the client team wants to find out from user research, and why.
+   As we’ll be doing the work, it’s important we get involved early and take part in inception and planning activities. We need to know what the vision and goals for the project are, what the client team wants to find out from user research, and why.
 
-1.  **Create a user research plan**
+1. **Create a user research plan**
 
-    This is how we're going get the closest to the truth about users, so we need time to write this and run it by others in the team.
+   This is how we're going get the closest to the truth about users, so we need time to write this and run it by others in the team.
 
-1.  **Design and implement a participant recruitment strategy**
+1. **Design and implement a participant recruitment strategy**
 
-    This is how we’re going to get to real people. Sometimes we’ll use a recruitment agency, and other times we’ll get better results doing in-house recruitment.
+   This is how we’re going to get to real people. Sometimes we’ll use a recruitment agency, and other times we’ll get better results doing in-house recruitment.
 
-    We define our approach together with the client and the delivery team. Participant recruitment is never easy. Once the recruitment strategy is ready, we need to prepare screeners and other things like introduction emails and reminders to make sure we get the right people at the right time.
+   We define our approach together with the client and the delivery team. Participant recruitment is never easy. Once the recruitment strategy is ready, we need to prepare screeners and other things like introduction emails and reminders to make sure we get the right people at the right time.
 
-    It can be laborious, so this is a team effort. It’s important that the client and delivery managers are involved to provide support when we need it.
+   It can be laborious, so this is a team effort. It’s important that the client and delivery managers are involved to provide support when we need it.
 
-1.  **Prepare for research activities**
+1. **Prepare for research activities**
 
-    At the beginning of our work, we prepare agendas, scripts, and questionnaires. We update these as we go. We think about what we need to organise and set up carefully. This could include booking train tickets, incentives, note-taking materials, rooms and scheduling time to brief observers.  Some activities need more preparation than others. For example, running co-design workshops may need more time and attention than interviews.
+   At the beginning of our work, we prepare agendas, scripts, and questionnaires. We update these as we go. We think about what we need to organise and set up carefully. This could include booking train tickets, incentives, note-taking materials, rooms and scheduling time to brief observers.  Some activities need more preparation than others. For example, running co-design workshops may need more time and attention than interviews.
 
-1.  **Collect data**
+1. **Collect data**
 
-    This is the most obvious and visible part of our work. We need to collect enough data to be confident in our findings. We try to block out full days for data collection and analysis close together, instead of running one or two sessions intermittently. This makes analysis more effective allowing us to produce better insight.
+   This is the most obvious and visible part of our work. We need to collect enough data to be confident in our findings. We try to block out full days for data collection and analysis close together, instead of running one or two sessions intermittently. This makes analysis more effective allowing us to produce better insight.
 
-1.  **Analyse data**
+1. **Analyse data**
 
-    Analysing research means looking at how everything fits together. We need to understand:
+   Analysing research means looking at how everything fits together. We need to understand:
 
-    * What is actually going on here?
-    * Are we sure about this?
-    * Do we need to dig deeper?
-    * What can we do about it?
+   * What is actually going on here?
+   * Are we sure about this?
+   * Do we need to dig deeper?
+   * What can we do about it?
 
-    We do quick reviews and reflections with the team as well as more structured analysis on our own.  Quick reflection is best done immediately after data collection and with the observer. Structured analysis needs more time, depending on how much data we have. When we do this, we revisit notes and recordings, so being in a secluded space with a whiteboard is ideal. We plan in enough time and space for this analysis to allow us to do good work at an appropriate level of rigor and avoid rushing to conclusions. We don’t wait until we’ve completed all the research sessions for each sprint or the whole project before we do analysis.
+   We do quick reviews and reflections with the team as well as more structured analysis on our own.  Quick reflection is best done immediately after data collection and with the observer. Structured analysis needs more time, depending on how much data we have. When we do this, we revisit notes and recordings, so being in a secluded space with a whiteboard is ideal. We plan in enough time and space for this analysis to allow us to do good work at an appropriate level of rigor and avoid rushing to conclusions. We don’t wait until we’ve completed all the research sessions for each sprint or the whole project before we do analysis.
 
-1.  **Prepare findings and recommendations**
+1. **Prepare findings and recommendations**
 
-    Findings and recommendations are not the same. Findings mean that ‘we know this now’, whereas recommendations encourage us to ask ‘so what?’ and ‘how might we do X’?  There can be pressure on us to share these immediately so we can iterate the product or service we’re working on, however it’s important that we are confident in our findings before sharing them with others. This means having the time and space to draft findings and recommendations alone as well as time to discuss and refine them with the team before they are shared more widely. In our recommendations we aim to strike a balance between quick wins with rich, often strategic insight.
+   Findings and recommendations are not the same. Findings mean that ‘we know this now’, whereas recommendations encourage us to ask ‘so what?’ and ‘how might we do X’?  There can be pressure on us to share these immediately so we can iterate the product or service we’re working on, however it’s important that we are confident in our findings before sharing them with others. This means having the time and space to draft findings and recommendations alone as well as time to discuss and refine them with the team before they are shared more widely. In our recommendations we aim to strike a balance between quick wins with rich, often strategic insight.
 
-1.  **Refine outputs and handover**
+1. **Refine outputs and handover**
 
-    These are things like slide decks, user journeys and user needs. We start drafting these early, iterating and adding to them as we go along. We share them frequently ‘just as they are’ so that clients have the opportunity to give us feedback without us spending lots of time making them pixel-perfect. This means we often need to refine part-finished, paper versions of outputs before handing them over to the client as final deliverables. User researchers do the bulk of this work, but it's a team effort. We allocate time before the end of the project to do this and bring in a designer if needed.
+   These are things like slide decks, user journeys and user needs. We start drafting these early, iterating and adding to them as we go along. We share them frequently ‘just as they are’ so that clients have the opportunity to give us feedback without us spending lots of time making them pixel-perfect. This means we often need to refine part-finished, paper versions of outputs before handing them over to the client as final deliverables. User researchers do the bulk of this work, but it's a team effort. We allocate time before the end of the project to do this and bring in a designer if needed.
 
 ## Hosting and supporting services
 
