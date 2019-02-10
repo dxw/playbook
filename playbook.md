@@ -462,7 +462,7 @@ to understand and plan for the impact of the change.
 
 At dxw, we believe that great teams need great leaders.
 
-#### Principles {#leadership-principles}
+#### [Principles](#leadership-principles)
 
 Whether or not they are in a formal management role, leaders at dxw are guided by these principles.
 
@@ -529,7 +529,7 @@ Whether or not they are in a formal management role, leaders at dxw are guided b
 
 ### Delivery management
 
-### Principles {#delivery-management-principles}
+### [Principles](#delivery-management-principles)
 
 Delivery leads at dxw are guided by these principles.
 
@@ -565,7 +565,7 @@ Delivery leads at dxw are guided by these principles.
 
 ### Product management
 
-#### Principles {#product-management-principles}
+#### [Principles](#product-management-principles)
 
 Product managers at dxw follow these principles.
 
@@ -643,7 +643,7 @@ h/t to [Ross Ferguson](https://medium.com/@rossferg/the-principles-that-make-me-
 
 At dxw, we believe in making decisions based on evidenced user needs. As user researchers, we help multidisciplinary teams learn about users and recognise the value of user research. There is no single right way of doing this, but as a team, we need to stay unified in the way we approach, do, and talk about research.
 
-#### Principles {#user-research-principles}
+#### [Principles](#user-research-principles)
 
 Our principles are not rules. They guide our work, keep us improving
 as a team, and working with, not for our clients.
