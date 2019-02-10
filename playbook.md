@@ -675,9 +675,7 @@ These are things like slide decks, user journeys and user needs. We start drafti
 
 ### Delivery management
 
-Delivery leads at dxw work by the following principles.
-
-### Delivery management principles
+Delivery leads at dxw are guided by these principles.
 
 #### Maintain diplomacy
 
