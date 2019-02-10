@@ -1893,8 +1893,7 @@ if the matter is serious enough that a verbal warning is not appropriate, we may
 hold a disciplinary meeting at which you may be accompanied or represented by a
 colleague or trade union official. Following this meeting, we may:
 
-* Conclude that no misconduct has taken place, or that there is no poor
-  performance
+* Conclude that no misconduct has taken place, or that there is no poor performance
 * Issue you with a written warning, which will explain:
   * The nature of the misconduct or poor performance
   * The change to your behaviour or performance that you need to make
@@ -2089,8 +2088,7 @@ This information:
   * Destroyed by cross-cut shredding when no longer required
 * When digital:
   * Stored in an encrypted format
-  * Communicated only when encrypted or via an encrypted connection, unless
-    emailed from one dxw.com address to another
+  * Communicated only when encrypted or via an encrypted connection, unless emailed from one dxw.com address to another
 
 #### Company Confidential
 
@@ -2114,8 +2112,7 @@ falls into this category.
 
 This information:
 
-* Must be clearly labelled or described as "Client Confidential" or "Commercial
-  in Confidence"
+* Must be clearly labelled or described as "Client Confidential" or "Commercial in Confidence"
 * When printed:
   * Stored out of sight
   * Destroyed by cross-cut shredding when no longer required
