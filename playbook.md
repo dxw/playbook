@@ -666,11 +666,11 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 
    Researchers at dxw help clients build on the knowledge and data they already have. We combine existing knowledge, poorly understood data and new research into a coherent picture.
 
-1. **Accept and admit constraints
+1. **Accept and admit constraints**
 
    Researchers at dxw do the best research we can within the constraints we have. We acknowledge and share the limits of our research and our findings. And we advocate for more research when we believe it is necessary.
 
-#### Workflow {#user-research-workflow}
+#### [Workflow](#user-research-workflow)
 
 We don’t only do user research in discovery, but do our best to ensure that it is built into projects at every phase. For each project phase, user research is an ongoing activity that typically follows the following workflow:
 
