@@ -668,7 +668,7 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 
 1. **Accept and admit constraints**
 
-   Researchers at dxw do the best research we can within the constraints we have. We acknowledge and share the limits of our research and our findings. And we advocate for more research when we believe it is necessary.
+   Researchers at dxw do the best research we can within the constraints we have. We acknowledge and share the limits of our research and our findings. And we advocate for more research when it‘s needed to achieve the project outcomes.
 
 #### [Workflow](#user-research-workflow)
 
