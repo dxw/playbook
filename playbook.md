@@ -716,6 +716,46 @@ We don’t only do user research in discovery, but do our best to ensure that it
 1. **Refine outputs and handover**
 
    These are things like slide decks, user journeys and user needs. We start drafting these early, iterating and adding to them as we go along. We share them frequently ‘just as they are’ so that clients have the opportunity to give us feedback without us spending lots of time making them pixel-perfect. This means we often need to refine part-finished, paper versions of outputs before handing them over to the client as final deliverables. User researchers do the bulk of this work, but it's a team effort. We allocate time before the end of the project to do this and bring in a designer if needed.
+   
+### Design Team Principles
+
+Designers at dxw follow these principles:
+
+1. **Have faith in your instinct and experience**   
+
+   Don’t throw away your gut instinct, but do filter decisions through the lens of research and data. 
+
+2. **Be contagiously optimistic**   
+
+   Help others to see what’s possible. Share your excitement. Spread enthusiasm. 
+
+3. **Embrace the overlap**  
+
+   Good work happens in the spaces between disciplines. A difference of opinion is a good thing. Bring others along on the journey.
+
+4. **Simple is better**  
+
+   We do the hard work to make things simple. We aim for simplicity and clarity in the things we design, and the ways in which we design them.
+
+5. **Don’t be afraid to try, and to share**  
+
+   Every time something is not quite right, it’s an opportunity to learn and adapt.
+
+6. **Interrogate everything to understand the user and their needs**  
+
+   Be constantly curious. Never stop asking questions. We can never be too empathetic.
+
+7. **Communicate constantly and confidently**  
+
+   Record decisions so we can learn from them. Share them. Make design a team sport.
+
+8. **Use the right tools and methods for the desired outcome**  
+
+   It might be pen and paper, software, or a conversation. Choose the appropriate fidelity for the given task.
+
+9. **Good design is never finished**  
+
+   There is always room for improvement. Design can always be made better. There is a difference between “done” and “finished”.
 
 ## Hosting and supporting services
 
