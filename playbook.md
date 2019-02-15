@@ -523,34 +523,25 @@ Whether or not they are in a formal management role, leaders at dxw are guided b
 Delivery leads at dxw are guided by these principles.
 
 1. **Maintain diplomacy**
-
-   * Encourage calmness and patience
-   * Ensure all voices are heard in a fair way
-   * Be proactive to get stuff done
-
+  * Encourage calmness and patience
+  * Ensure all voices are heard in a fair way
+  * Be proactive to get stuff done
 1. **Demonstrate leadership**
-
-   * Have the autonomy to lead and to say no
-   * Empower delivery teams to do great things
-   * Coach others to get the best from them
-
+  * Have the autonomy to lead and to say no
+  * Empower delivery teams to do great things
+  * Coach others to get the best from them
 1. **Show strength & resilience**
-
-   * Protect the team so they can focus
-   * Remove blockers and distraction
-   * Provide context and see the bigger picture
-
+  * Protect the team so they can focus
+  * Remove blockers and distraction
+  * Provide context and see the bigger picture
 1. **Enable, empower & encourage**
-
-   * Create space for the team to deliver and individuals to thrive
-   * Build up trust with team / client / stakeholders to support decision making and progress
-   * Be supportive and demonstrate positivity with a focus on delivery
-
+  * Create space for the team to deliver and individuals to thrive
+  * Build up trust with team / client / stakeholders to support decision making and progress
+  * Be supportive and demonstrate positivity with a focus on delivery
 1. **Prioritise learning & improving**
-
-   * Actively learn from what we do
-   * Take responsibility to ensure that learning feeds back into what we do next
-   * Facilitate communication and constructive conversation
+  * Actively learn from what we do
+  * Take responsibility to ensure that learning feeds back into what we do next
+  * Facilitate communication and constructive conversation
 
 ### Product management
 
@@ -711,11 +702,10 @@ We don’t only do user research in discovery, but do our best to ensure that it
 1. **Analyse data**
 
    Analysing research means looking at how everything fits together. We need to understand:
-
-   * What is actually going on here?
-   * Are we sure about this?
-   * Do we need to dig deeper?
-   * What can we do about it?
+      * What is actually going on here?
+      * Are we sure about this?
+      * Do we need to dig deeper?
+      * What can we do about it?
 
    We do quick reviews and reflections with the team as well as more structured analysis on our own.  Quick reflection is best done immediately after data collection and with the observer. Structured analysis needs more time, depending on how much data we have. When we do this, we revisit notes and recordings, so being in a secluded space with a whiteboard is ideal. We plan in enough time and space for this analysis to allow us to do good work at an appropriate level of rigor and avoid rushing to conclusions. We don’t wait until we’ve completed all the research sessions for each sprint or the whole project before we do analysis.
 
@@ -1895,10 +1885,10 @@ colleague or trade union official. Following this meeting, we may:
 
 * Conclude that no misconduct has taken place, or that there is no poor performance
 * Issue you with a written warning, which will explain:
-  * The nature of the misconduct or poor performance
-  * The change to your behaviour or performance that you need to make
-  * The time within which the change needs to be made
-  * The consequences of not making the change (for example, dismissal)
+      - The nature of the misconduct or poor performance
+      - The change to your behaviour or performance that you need to make
+      - The time within which the change needs to be made
+      - The consequences of not making the change (for example, dismissal)
 * In cases of gross misconduct, dismiss you without notice
 
 If you disagree with the outcome of this hearing, you may appeal against the
@@ -2082,11 +2072,11 @@ or external to dxw.
 This information:
 
 * Must be clearly labelled or described as "Management-in-confidence"
-* When printed:
+* When printed
   * Stored only in a locked container
   * Transported only via courier, recorded delivery or personally by dxw staff
   * Destroyed by cross-cut shredding when no longer required
-* When digital:
+* When digital
   * Stored in an encrypted format
   * Communicated only when encrypted or via an encrypted connection, unless emailed from one dxw.com address to another
 
@@ -2245,27 +2235,10 @@ both personally and for the business, that you make a positive impression.
 This section is here to share what we've learned about how to make the most of
 these sorts of events.
 
-* **Be nice**: this should go without saying, but whenever we're at events, we
-  show respect to others, treating them how we would like to be treated
-  ourselves. If you meet and talk to others and you’re pleasant, welcoming, and
-  interested in what they have to say you’ll always be remembered in a positive
-  light.
-* **Talk to people**: one of the best parts of this community is that
-  we’re all in it to socialise, share ideas, and grow as an industry. So talk to
-  people. Try to talk to at least one new person at every event. Don’t just
-  stick to the same group of friends: be sociable. You never know what might
-  come of it.
-* **Talk about work**: but don’t be pushy. People will always
-  usually ask “what do you do” or “where do you work” so take that opportunity
-  to talk about dxw positively. Talk about the things you’re doing, what you’re
-  finding interesting, and things relevant to the situation. Just don’t go on
-  about yourself, ask people about their work and be interested in what they
-  have to say.
-* **If we’re hiring**: talk to even more people than normal!
-  Especially if you’re at an event where the attendees might be relevant for the
-  job. But again, don’t be pushy. Talk to people, join conversations, and if
-  appropriate, mention that we’re hiring and they might be a good candidate.
-  Just don’t let it be the only thing you talk about.
+* **Be nice**: this should go without saying, but whenever we're at events, we show respect to others, treating them how we would like to be treated. If you meet and talk to others and you’re pleasant, welcoming, and interested in what they have to say you’ll always be remembered in a positive light.
+* **Talk to people**: one of the best parts of this community is that we’re all in it to socialise, share ideas, and grow as an industry. So talk to Try to talk to at least one new person at every event. Don’t just stick to the same group of friends: be sociable. You never know what might come of it.
+* **Talk about work**: but don’t be pushy. People will always usually ask “what do you do” or “where do you work” so take that opportunity to talk about dxw positively. Talk about the things you’re doing, what you’re finding interesting, and things relevant to the situation. Just don’t go on about yourself, ask people about their work and be interested in what they have to say.
+* **If we’re hiring**: talk to even more people than normal! Especially if you’re at an event where the attendees might be relevant for the But again, don’t be pushy. Talk to people, join conversations, and if appropriate, mention that we’re hiring and they might be a good candidate. Just don’t let it be the only thing you talk about.
 
 #### Speaking at events
 
@@ -2318,12 +2291,9 @@ The process for writing a new post is:
 * Write the post and save in Google drive
 * Have peers review your post and suggest changes (if required)
 * When you're happy with the post, ask Harry to sign it off
-* Send the post to CommsCrowd to see if they might want to pitch it to
-  publications
-* When ready, add the post to WordPress as a draft and agree a publication time
-  with the team
-* Write a tweet to promote your post and add it to Buffer, scheduled to go out
-  when the post is public
+* Send the post to CommsCrowd to see if they might want to pitch it to publications
+* When ready, add the post to WordPress as a draft and agree a publication time with the team
+* Write a tweet to promote your post and add it to Buffer, scheduled to go out when the post is public
 
 ### Twitter
 
