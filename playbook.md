@@ -462,7 +462,7 @@ to understand and plan for the impact of the change.
 
 At dxw, we believe that great teams need great leaders.
 
-#### [Principles](#leadership-principles)
+#### Leadership principles
 
 Whether or not they are in a formal management role, leaders at dxw are guided by these principles.
 
@@ -518,7 +518,7 @@ Whether or not they are in a formal management role, leaders at dxw are guided b
 
 ### Delivery management
 
-### [Principles](#delivery-management-principles)
+#### Delivery management principles
 
 Delivery leads at dxw are guided by these principles.
 
@@ -545,7 +545,7 @@ Delivery leads at dxw are guided by these principles.
 
 ### Product management
 
-#### [Principles](#product-management-principles)
+#### Product management principles
 
 Product managers at dxw follow these principles.
 
@@ -623,7 +623,7 @@ h/t to [Ross Ferguson](https://medium.com/@rossferg/the-principles-that-make-me-
 
 At dxw, we believe in making decisions based on evidenced user needs. As user researchers, we help multidisciplinary teams learn about users and recognise the value of user research. There is no single right way of doing this, but as a team, we need to stay unified in the way we approach, do, and talk about research.
 
-#### [Principles](#user-research-principles)
+#### User research principles
 
 Our principles are not rules. They guide our work, keep us improving as a team, and working with, not for our clients.
 
@@ -661,7 +661,7 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 
    Researchers at dxw do the best research we can within the constraints we have. We acknowledge and share the limits of our research and our findings. And we advocate for more research when it‘s needed to achieve the project outcomes.
 
-#### [Workflow](#user-research-workflow)
+#### User research workflow
 
 We don’t only do user research in discovery, but do our best to ensure that it is built into projects at every phase. For each project phase, user research is an ongoing activity that typically follows the following workflow:
 
