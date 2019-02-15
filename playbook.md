@@ -721,12 +721,24 @@ We don’t only do user research in discovery, but do our best to ensure that it
 
 We create the conditions and in-house capability you need to keep delivering and improving services
 
-* We bring people together to make the right decisions
-* We focus on impact and sustainable change (and won’t get involved if that’s not possible)
-* We challenge the brief to make sure our work provides good value
-* We meet organisational needs as well as user needs
-* We use methods that work, and develop new ones if we need to
-* We set up teams to deliver and keep improving once we’ve gone
+**Bring people together to make the right decisions**
+We facilitate workshop to help organisation prioritise and reach decisions 
+
+**Focus on impact and sustainable change**
+We won’t get involved if we believe change is not possible
+
+**Question the brief to make sure our work provides good value**
+Before starting delivery we make sure the brief if clear and realistic and provides adequate information for delivery teams to start the work
+
+**Meet organisational goals as well as user needs**
+We set up metrics to help your organisation tract progress towards the goal 
+
+**Use methods that work**
+We use tested methods or develop new ones if we need to
+
+**Create conditions to deliver** 
+We set up teams to deliver and keep improving once we’ve gone
+
 
 ## Hosting and supporting services
 
