@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "remark-lint",
+    "remark-cli",
+    "remark-preset-lint-markdown-style-guide",
+    ["remark-list-item-spacing", false]
+  ]
+}
