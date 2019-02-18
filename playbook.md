@@ -544,7 +544,7 @@ The strategy team apply these principles to our work.
 
    We use established methods where we can, or develop new ones where we need to.
 
-1. **Create the conditions to deliver** 
+1. **Create the conditions to deliver**
 
    We set up teams to deliver and keep improving once we’re gone.
 
