@@ -723,39 +723,39 @@ Designers at dxw follow these principles:
 
 1. **Have faith in your instinct and experience**   
 
-   Don’t throw away your gut instinct, but do filter decisions through the lens of research and data. 
+   Don‘t throw away your gut instinct, but do filter decisions through the lens of research and data. 
 
-2. **Be contagiously optimistic**   
+1. **Be contagiously optimistic**   
 
    Help others to see what’s possible. Share your excitement. Spread enthusiasm. 
 
-3. **Embrace the overlap**  
+1. **Embrace the overlap**  
 
    Good work happens in the spaces between disciplines. A difference of opinion is a good thing. Bring others along on the journey.
 
-4. **Simple is better**  
+1. **Simple is better**  
 
    We do the hard work to make things simple. We aim for simplicity and clarity in the things we design, and the ways in which we design them.
 
-5. **Don’t be afraid to try, and to share**  
+1. **Don’t be afraid to try, and to share**  
 
    Every time something is not quite right, it’s an opportunity to learn and adapt.
 
-6. **Interrogate everything to understand the user and their needs**  
+1. **Interrogate everything to understand the user and their needs**  
 
    Be constantly curious. Never stop asking questions. We can never be too empathetic.
 
-7. **Communicate constantly and confidently**  
+1. **Communicate constantly and confidently**  
 
    Record decisions so we can learn from them. Share them. Make design a team sport.
 
-8. **Use the right tools and methods for the desired outcome**  
+1. **Use the right tools and methods for the desired outcome**  
 
    It might be pen and paper, software, or a conversation. Choose the appropriate fidelity for the given task.
 
-9. **Good design is never finished**  
+1. **Good design is never finished**  
 
-   There is always room for improvement. Design can always be made better. There is a difference between “done” and “finished”.
+   There is always room for improvement. Design can always be made better. There is a difference between ‘done’ and ‘finished’.
 
 ## Hosting and supporting services
 
