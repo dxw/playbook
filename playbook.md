@@ -516,6 +516,38 @@ Whether or not they are in a formal management role, leaders at dxw are guided b
 
    We continually improve dxw capability, and the effectiveness and efficiency of our delivery. We try out new approaches and technologies and give others the time and space to do the same.
 
+### Strategy
+
+We create the conditions and in-house capability our clients need to deliver and keep improving great services.
+
+#### Strategy team principles
+
+The strategy team apply these principles to our work.
+
+1. **Bring people together to make the right decisions**
+
+   We facilitate activities to help organisations make good decisions, prioritise and create the momemtum for change.
+
+1. **Focus on impact and sustainable change**
+
+   We’re here to create significant long-term change. We won’t get involved if we don’t believe thet’s possible.
+
+1. **Question the brief**
+
+   Before starting delivery we interrogate the brief to make sure it is clear, realistic and provides the foundation for delivery teams to start work.
+
+1. **Meet organisational goals as well as user needs**
+
+   We help organisations clarify their goals and set up the right measures to track performance and progress. So they can deliver better services for the people who need them.
+
+1. **Use methods that work**
+
+   We use established methods where we can, or develop new ones where we need to.
+
+1. **Create the conditions to deliver** 
+
+   We set up teams to deliver and keep improving once we’re gone.
+
 ### Delivery management
 
 #### Delivery management principles
@@ -716,29 +748,6 @@ We don’t only do user research in discovery, but do our best to ensure that it
 1. **Refine outputs and handover**
 
    These are things like slide decks, user journeys and user needs. We start drafting these early, iterating and adding to them as we go along. We share them frequently ‘just as they are’ so that clients have the opportunity to give us feedback without us spending lots of time making them pixel-perfect. This means we often need to refine part-finished, paper versions of outputs before handing them over to the client as final deliverables. User researchers do the bulk of this work, but it's a team effort. We allocate time before the end of the project to do this and bring in a designer if needed.
-
-#### Strategy principles and service design
-
-We create the conditions and in-house capability you need to keep delivering and improving services
-
-**Bring people together to make the right decisions**
-We facilitate workshop to help organisation prioritise and reach decisions 
-
-**Focus on impact and sustainable change**
-We won’t get involved if we believe change is not possible
-
-**Question the brief to make sure our work provides good value**
-Before starting delivery we make sure the brief if clear and realistic and provides adequate information for delivery teams to start the work
-
-**Meet organisational goals as well as user needs**
-We set up metrics to help your organisation tract progress towards the goal 
-
-**Use methods that work**
-We use tested methods or develop new ones if we need to
-
-**Create conditions to deliver** 
-We set up teams to deliver and keep improving once we’ve gone
-
 
 ## Hosting and supporting services
 
