@@ -670,7 +670,7 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
    Researchers at dxw create strong evidence and reliable answers so our teams can act with confidence. We are bold and focus on what‘s most important.
 
    We know we can learn things that are unexpected and challenging. So we communicate clearly and sensitively to help everyone make the best decision.
-   
+
    (Credit to the great [Dana Chisnell](https://twitter.com/danachis/status/802930860030918656) for this one)
 
 1. **Take ethics seriously**
