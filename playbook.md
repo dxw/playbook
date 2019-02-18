@@ -2230,6 +2230,8 @@ Slack channel.
 
 ### Benefits
 
+Subject to successful probation.
+
 #### Pensions
 
 dxw provides a pension which is operated by Aviva. Once you have passed your 3
