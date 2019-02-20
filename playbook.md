@@ -342,7 +342,7 @@ sprint planning is much more useful when the stories are written in advance.
 
 During this session, developers discuss the effort required to finish each
 story. We discuss effort so we know whether we have a reasonable amount of
-stores to work on and we’re confident as a team that we can get through the
+stories to work on and we’re confident as a team that we can get through the
 stories in the backlog.  Sometimes we will estimate stories. We do this based on
 complexity, not the time we think it will take to finish it.
 
