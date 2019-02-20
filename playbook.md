@@ -671,6 +671,8 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 
    We know we can learn things that are unexpected and challenging. So we communicate clearly and sensitively to help everyone make the best decision.
 
+   (Credit to the great [Dana Chisnell](https://twitter.com/danachis/status/802930860030918656) for this one)
+
 1. **Take ethics seriously**
 
    Researchers at dxw know that the safety and trust of participants is our responsibility. We think about the ethics of our research at every step. From how we recruit participants and get their informed consent, through how we store and use the data we collect, to how we share our findings.
