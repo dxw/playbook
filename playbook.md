@@ -211,9 +211,9 @@ When we get enquiries for clients who are not currently sprinting, we still
 answer as quickly as we can - but clients who are sprinting come first.
 
 We also expect most communication with clients to happen with the project's
-delivery manager. We don't hide anyone on the team from the client, and they are
+delivery lead. We don't hide anyone on the team from the client, and they are
 free to ask questions of whomever they wish. But if you're a developer and you
-get a question that's really for a DM to answer, refer the client on. This will
+get a question that's really for a delivery lead to answer, refer the client on. This will
 help to keep you productive, and will help the client understand who on the dxw
 team does what.
 
@@ -431,7 +431,7 @@ stage a given story is in.
     be merged and needs further work
 * **dxw/client review**: The two developers
     have finished the review and the story is now merged and pushed to staging. It
-    is ready for a delivery manager and the client to review against its
+    is ready for a delivery lead and the client to review against its
     acceptance criteria
 * **Accepted**: The client has accepted the story and it's
   ready to deploy to production
@@ -442,18 +442,18 @@ stage a given story is in.
 > "The delivery manager sets the team up for successful delivery. They remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done."
 > --<cite>[Government Digital Service](https://www.gov.uk/service-manual/the-team/delivery-manager.html)</cite>
 
-At dxw, delivery managers ensure that sprints go smoothly and that the team
+At dxw, delivery leads ensure that sprints go smoothly and that the team
 remain productive. They are generally the client's first and main point of
 contact, and are responsible for ensuring that we deliver good work.
 
-Throughout a sprint, delivery managers ensure that agreed process is followed,
+Throughout a sprint, delivery leads ensure that agreed process is followed,
 organising and facilitating discussions as required. They run sprint planning
 and retrospective sessions. They run daily standups with the dxw and client
 teams to keep everyone informed and to discuss and resolve any blockers.
 
 Outside of these session and standups, they maintain regular communication with
 the client and the delivery team to respond quickly to challenges as they arise.
-If priorities change during a sprint, the delivery manager works with the client
+If priorities change during a sprint, the delivery lead works with the client
 to understand and plan for the impact of the change.
 
 ## Professions
@@ -701,7 +701,7 @@ We don’t only do user research in discovery, but do our best to ensure that it
 
    User researchers get involved long before a project starts. We support sales work by helping define the user research approach for potential new work.
 
-   Having input at this early stage ensures that user research proposals are both achievable and effective at meeting the needs of our clients and their users. We also have input to project scheduling decisions. We work with delivery managers to ensure that enough time and resources are allocated to user research. In cases where a user researcher is scheduled to work across different projects simultaneously, we allocate at least 2 or 3 days a week per project to minimise context switching. If we need more than a single user researcher on a project, one user researcher leads the work full-time while the other provides support when needed.  Good scheduling ensures that we can carry out research at a sustainable pace and produce outcomes of the highest possible quality.
+   Having input at this early stage ensures that user research proposals are both achievable and effective at meeting the needs of our clients and their users. We also have input to project scheduling decisions. We work with delivery leads to ensure that enough time and resources are allocated to user research. In cases where a user researcher is scheduled to work across different projects simultaneously, we allocate at least 2 or 3 days a week per project to minimise context switching. If we need more than a single user researcher on a project, one user researcher leads the work full-time while the other provides support when needed.  Good scheduling ensures that we can carry out research at a sustainable pace and produce outcomes of the highest possible quality.
 
 1. **Do desk research and deep thinking**
 
@@ -721,7 +721,7 @@ We don’t only do user research in discovery, but do our best to ensure that it
 
    We define our approach together with the client and the delivery team. Participant recruitment is never easy. Once the recruitment strategy is ready, we need to prepare screeners and other things like introduction emails and reminders to make sure we get the right people at the right time.
 
-   It can be laborious, so this is a team effort. It’s important that the client and delivery managers are involved to provide support when we need it.
+   It can be laborious, so this is a team effort. It’s important that the client and delivery leads are involved to provide support when we need it.
 
 1. **Prepare for research activities**
 
@@ -888,8 +888,8 @@ In general:
 
 * We are personable, friendly and helpful
 * If things look like they're going to get difficult or the client seems unhappy, we are honest and assume good faith
-* If we screw something up, we take responsibility and apologise. If the client seems very upset, we let a delivery manager know.
-* If we do become annoyed or frustrated by a ticket, we respond later or speak to a DM about reassigning it.
+* If we screw something up, we take responsibility and apologise. If the client seems very upset, we let a delivery lead know.
+* If we do become annoyed or frustrated by a ticket, we respond later or speak to a delivery lead about reassigning it.
 
 ##### Don't over-deliver
 
@@ -926,14 +926,14 @@ can complete an [initial investigation](#initial-investigation) into the
 problem, they do so.
 
 If not, they will assign it to the developer on support. Sometimes tickets are
-assigned to a delivery manager if it requires a conversation with the client or
+assigned to a delivery lead if it requires a conversation with the client or
 looks like chargeable work.
 
 As tickets are arriving, we also think about whether they might be related to
 other tickets that we've already received. For example, if we get several
 tickets from different clients about similar-sounding issues, that might be
 indicative of a wider problem. Or, if a single client sends lots of tickets
-within a short time, it might be wise to assign a delivery manager to oversee
+within a short time, it might be wise to assign a delivery lead to oversee
 them all and ensure that the requests make sense when considered as a group.
 
 ##### Assignments
@@ -1238,23 +1238,23 @@ But there are some limitations. Under the support service, we do not:
   if we've spent a couple of hours on an updated-related bug and it's still not fixed,
   we're probably dealing with one.
 * From time to time, we may make an exception to these restrictions. If you
-  think that might be appropriate, ask Harry or a delivery manager. In all the
+  think that might be appropriate, ask Harry or a delivery lead. In all the
   above cases, we can offer to quote for the required work.
 
 Finally, there is an overarching principle that we don't do anything on a ticket
 that is very time consuming or that is objectively a bad idea. If you think
-you're in this situation, ask a delivery manager for advice.
+you're in this situation, ask a delivery lead for advice.
 
 #### Charging for ticket work
 
 If you decide that a ticket asks for work to be done which falls outside this
 scope, then the work is chargeable. In this situation, we reassign the ticket to
-a delivery manager with an explanation.
+a delivery lead with an explanation.
 
 It is good to try to think of alternative approaches that we could do under our
 support service before taking this step - seek advice if you're unsure.
 
-The delivery manager you assign the ticket to will then treat it as a
+The delivery lead you assign the ticket to will then treat it as a
 [lead](#leads), and contact the client to make a plan.
 
 ## Sales
@@ -1650,7 +1650,7 @@ Our policy is informed by the way we work and the way we charge clients for our 
 
 Monday–Thursday
 
-**Client facing**: We charge clients “time and materials” for the work we do, based on a [per person day rate](https://assets.digitalmarketplace.service.gov.uk/g-cloud-10/documents/92768/432689933684667-sfia-rate-card-2018-05-23-1413.pdf). We generally schedule team members to work on particular projects for a whole sprint at a time, and track and bill that time in half days and whole days. Delivery Leads work with the finance team to track and invoice the time of the team; having regularly patterned working helps the process to run as smoothly as possible, without confusion and without taking more time than needed. Any working arrangement needs to make it straightforward to track, report and invoice for your time.
+**Client facing**: We charge clients “time and materials” for the work we do, based on a [per person day rate](https://assets.digitalmarketplace.service.gov.uk/g-cloud-10/documents/92768/432689933684667-sfia-rate-card-2018-05-23-1413.pdf). We generally schedule team members to work on particular projects for a whole sprint at a time, and track and bill that time in half days and whole days. Delivery leads work with the finance team to track and invoice the time of the team; having regularly patterned working helps the process to run as smoothly as possible, without confusion and without taking more time than needed. Any working arrangement needs to make it straightforward to track, report and invoice for your time.
 
 When working on a project we work as a single multi-disciplinary team. We’re often working on phases of projects where there’s a lot of unknowns and a lot of learning, so we use agile approaches and strongly favour being able to work together on problems. That’s often easier when co-located, particularly when working with clients, pairing, or participating in workshops. Any working arrangement needs to support active synchronous collaboration with the team.
 
@@ -1740,10 +1740,10 @@ If you want to take time off:
   you are or when you're available the first thing they'll check is your
   calendar
 
-For client-facing roles, you may also need to add your holiday to a shared or team calendar. Check with your delivery manager.
+For client-facing roles, you may also need to add your holiday to a shared or team calendar. Check with your delivery lead.
 
 We try very hard to make sure that all holiday requests are granted,
-irrespective of when they are made. But it's much easier for delivery managers
+irrespective of when they are made. But it's much easier for delivery leads
 to plan ahead when they have lots of notice, so please don't leave your requests
 to the last minute.
 
@@ -1879,7 +1879,7 @@ If you want to know more about how the buddy system works, how often to meet and
 
 #### HR
 
-The bi-weekly HR surgeries are there to give an opportunity for members of the team to discuss matters they might not feel able to raise with buddies/ Delivery Leads or that are specialist to the HR function in dxw.
+The bi-weekly HR surgeries are there to give an opportunity for members of the team to discuss matters they might not feel able to raise with buddies/delivery leads or that are specialist to the HR function in dxw.
 
 The list is not exhaustive but some topics might include:
 
@@ -2339,7 +2339,7 @@ personally and for the company - if your talk is interesting, useful and
 well-presented. It takes time to make talks that work well. If you need help,
 advice or time to prepare, don't be afraid to ask for it. It's also good to blog
 after the event, to talk about your experience and what you learned. If you need
-time to be set aside, talk to a Delivery Manager and see what's possible.
+time to be set aside, talk to a delivery lead and see what's possible.
 
 ### Blog
 
