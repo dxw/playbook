@@ -653,7 +653,7 @@ Product managers at dxw follow these principles.
 
    Product managers facilitate and work with service designers and business analysts to work out key metrics and goals for the product and work with the team to define roadmaps to achieve these goals.
 
-h/t to [Ross Ferguson](https://medium.com/@rossferg/the-principles-that-make-me-a-better-product-manager-9e50814d184f) for inspiring several of these principles.
+Hat tip to [Ross Ferguson](https://medium.com/@rossferg/the-principles-that-make-me-a-better-product-manager-9e50814d184f) for inspiring several of these principles.
 
 ### User research
 
