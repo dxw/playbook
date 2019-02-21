@@ -530,7 +530,7 @@ The strategy team apply these principles to our work.
 
 1. **Focus on impact and sustainable change**
 
-   We’re here to create significant long-term change. We won’t get involved if we don’t believe thet’s possible.
+   We’re here to create significant long-term change. We won’t get involved if we don’t believe that’s possible.
 
 1. **Question the brief**
 
