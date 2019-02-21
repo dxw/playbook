@@ -1170,7 +1170,7 @@ The work described in this section is the responsibility of **delivery
 managers**.
 
 We monitor Zendesk for tickets that are or will shortly be breaching our SLA.
-There are two views to facilitate this: SLA breaches *and* Approaching SLA
+There are two views to facilitate this: *SLA breaches* and *Approaching SLA
 breaches*. The number of tickets in these views is also displayed on the
 monitoring dashboard in the office.
 
