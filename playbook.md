@@ -1077,7 +1077,7 @@ we're being asked to do, and are confident that the client understands and has
 approved of the implications of the change. To that end, there are a few things
 we do when a new ticket arrives.
 
-#### Complete all fields
+##### Complete all fields
 
 All the fields on a ticket are important. Early in the process, we fill them
 in - including the type.
@@ -1087,7 +1087,7 @@ to make sure that they are correct. dxw's [Service Level
 Agreement](https://dxw.zendesk.com/hc/en-us/articles/205117695) explains what
 the different priorities mean.
 
-#### Understand the request
+##### Understand the request
 
 We make sure that we understand the request that the client is making. When
 tickets arrive, they do not always describe the issue clearly. There is some
@@ -1102,7 +1102,7 @@ When you've reached an understanding of the situation the client is in and what
 they'd like you to do about it, write it on the ticket in an internal note, so
 that any other agent looking at the ticket has an easier time.
 
-#### Replicate the bug
+##### Replicate the bug
 
 If the issue is a bug, we replicate the behaviour the client has reported before
 working on a fix. It's important that we can reliably and repeatably create the
@@ -1112,7 +1112,7 @@ don't do this, we can't tell whether we've fixed the problem.
 Sometimes, we find that the steps we need to follow are not exactly the same as
 those given by the client. If so, add an internal note with your findings.
 
-#### Ensure the client has understood and approved the change
+##### Ensure the client has understood and approved the change
 
 When presented with a problem, clients don't always ask us to do the most
 appropriate thing to fix it. Sometimes we can think of a better solution.
