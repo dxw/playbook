@@ -751,7 +751,9 @@ We don’t only do user research in discovery, but do our best to ensure that it
 
    These are things like slide decks, user journeys and user needs. We start drafting these early, iterating and adding to them as we go along. We share them frequently ‘just as they are’ so that clients have the opportunity to give us feedback without us spending lots of time making them pixel-perfect. This means we often need to refine part-finished, paper versions of outputs before handing them over to the client as final deliverables. User researchers do the bulk of this work, but it's a team effort. We allocate time before the end of the project to do this and bring in a designer if needed.
 
-### Design Team Principles
+### Design
+
+#### Design team principles
 
 Designers at dxw follow these principles:
 
