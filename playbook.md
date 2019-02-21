@@ -558,18 +558,22 @@ Delivery leads at dxw are guided by these principles.
   * Encourage calmness and patience
   * Ensure all voices are heard in a fair way
   * Be proactive to get stuff done
+
 1. **Demonstrate leadership**
   * Have the autonomy to lead and to say no
   * Empower delivery teams to do great things
   * Coach others to get the best from them
+
 1. **Show strength & resilience**
   * Protect the team so they can focus
   * Remove blockers and distraction
   * Provide context and see the bigger picture
+
 1. **Enable, empower & encourage**
   * Create space for the team to deliver and individuals to thrive
   * Build up trust with team / client / stakeholders to support decision making and progress
   * Be supportive and demonstrate positivity with a focus on delivery
+
 1. **Prioritise learning & improving**
   * Actively learn from what we do
   * Take responsibility to ensure that learning feeds back into what we do next
