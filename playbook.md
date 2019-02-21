@@ -451,7 +451,7 @@ organising and facilitating discussions as required. They run sprint planning
 and retrospective sessions. They run daily standups with the dxw and client
 teams to keep everyone informed and to discuss and resolve any blockers.
 
-Outside of these session and standups, they maintain regular communication with
+Outside of these sessions and standups, they maintain regular communication with
 the client and the delivery team to respond quickly to challenges as they arise.
 If priorities change during a sprint, the delivery manager works with the client
 to understand and plan for the impact of the change.
