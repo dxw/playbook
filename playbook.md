@@ -424,8 +424,7 @@ stage a given story is in.
 * **In progress**: A developer has started working on the story, making changes
   to the product to ensure that each acceptance criterion is met
 * **Awaiting review**: The developer has finished the story and is ready for a second
-    developer to [review](#Code reviews) the technical aspects of the story in a
-    [pull request](#Pull request)
+    developer to review the technical aspects of the story in a pull request
 * **Code review**: The story is being reviewed by
     the second developer who leaves feedback if the pull request is not ready to
     be merged and needs further work
