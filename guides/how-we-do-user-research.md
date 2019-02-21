@@ -30,7 +30,13 @@ There are two basic options:
 
    In this case dxw will manage the research data and keep the associated records of consent.
 
-Whichever approach you take, make sure the materials follow the [good practice for informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research#what-informed-consent-is) described in the Service manual. In particular, make sure that the material clearly describes both the client and dxw digital’s involvement in the research, and how we will share research data and findings.
+Whichever approach you take:
+
+1. Make sure the materials follow the [good practice for informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research#what-informed-consent-is) described in the Service manual.
+
+   In particular, make sure that the material clearly describes both the client and dxw digital’s involvement in the research, and how we will share research data and findings.
+
+1. Make sure the client shares the consent materials with appropriate internal and external stakeholders well before the research sessions.
 
 #### Creating an information sheet
 
