@@ -828,23 +828,23 @@ The sales and marketing teams at dxw digital follow these principles:
 
 1. **Start from solid foundations**
 
-   We work with potential and current clients to understand their needs and how we can deliver value - seeking out   opportunities for mutual growth. 
-
+   We work with potential and current clients to understand their needs and how we can deliver value - seeking out   opportunities for mutual growth.
+   
    We support our clients to make the right buying decisions, ensuring we focus on positive outcomes for users and making the most of the resources available.
 
    We work closely with our delivery team so we can be open with clients about who will be available to do the work and realistic delivery timescales.
 
 1. **Build positive relationships**
 
-   We work in partnership with our clients, and are open and transparent at all times. 
+   We work in partnership with our clients, and are open and transparent at all times.
 
    We remain responsible and accountable to both our delivery teams and clients, ensuring that we represent them in the right way and can deliver on our commitments.
 
-   We give our clients the opportunity and platform to talk openly about their experience of working with us.  We listen to what they’re telling us - about what’s going well and what we need to do differently - and constantly work to improve things. 
-
+   We give our clients the opportunity and platform to talk openly about their experience of working with us.  We listen to what they’re telling us - about what’s going well and what we need to do differently - and constantly work to improve things.
+   
 1. **Find the right work**
 
-   We welcome new opportunities, and actively seek input from the dxw team to help us decide whether an opportunity is ‘dxw digital shaped’.  
+   We welcome new opportunities, and actively seek input from the dxw team to help us decide whether an opportunity is ‘dxw digital shaped’.
 
    We consider the ethical implications of the work - does it help to create better digital public services that make people’s lives better?
 
@@ -852,7 +852,7 @@ The sales and marketing teams at dxw digital follow these principles:
 
 1. **Show the work/team**
 
-   We’re an active part of the digital and tech community that’s working to build better public services.  
+   We’re an active part of the digital and tech community that’s working to build better public services.
 
    We talk openly about what we’re doing and why, what we’re learning along the way and share our ideas and expertise. We blog all the time.
 
@@ -864,9 +864,9 @@ The sales and marketing teams at dxw digital follow these principles:
 
 1. **Communicate with a purpose**
 
-   When we communicate, it’s to explain what we’re doing and the impact of our work so our clients and potential clients understand our areas of expertise and how we can help them. 
+   When we communicate, it’s to explain what we’re doing and the impact of our work so our clients and potential clients understand our areas of expertise and how we can help them.
 
-   We’re open about our values and the way we work in dxw digital. We give our team members a voice because we’re proud of our diverse and inclusive culture.  
+   We’re open about our values and the way we work in dxw digital. We give our team members a voice because we’re proud of our diverse and inclusive culture.
 
 
 ## Hosting and supporting services
