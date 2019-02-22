@@ -11,6 +11,7 @@
   - [Plugin advisories](guides/plugin-advisories.md)
   - [Web analytics](guides/web-analytics.md)
   - [How we do user research](guides/how-we-do-user-research.md)
+  - [How we do pitches](guides/how-we-do-pitches.md)
   - [Working remotely](guides/working-remotely.md)
   - [Playbook style guide](guides/style-guide.md)
   - [Contributing to the Playbook](contributing.md)
