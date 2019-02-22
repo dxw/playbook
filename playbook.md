@@ -819,7 +819,7 @@ Designers at dxw follow these principles:
 1. **Good design is never finished**
 
    There is always room for improvement. Design can always be made better. There is a difference between ‘done’ and ‘finished’.
-   
+
 ### Commercial Operations
 
 We are the team that enables and encourages dxw to achieve its missions(s) and uphold its values.
