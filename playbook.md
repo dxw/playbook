@@ -820,9 +820,9 @@ Designers at dxw follow these principles:
 
    There is always room for improvement. Design can always be made better. There is a difference between ‘done’ and ‘finished’.
 
-### Sales & Marketing
+### Sales and marketing
 
-#### Sales & Marketing team principles
+#### Sales and marketing team principles
 
 The sales and marketing teams at dxw digital follow these principles:
 
@@ -850,7 +850,7 @@ The sales and marketing teams at dxw digital follow these principles:
 
    We will only take on work that’s a good fit for the team - that won’t put us under undue strain, where our team will be safe and we can have a positive relationship with our client.
 
-1. **Show the work/team**
+1. **Show the work and the team**
 
    We’re an active part of the digital and tech community that’s working to build better public services.
 
