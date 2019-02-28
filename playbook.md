@@ -1592,7 +1592,8 @@ The purpose of the screening is to:
 1. Talk to the candidate about their experience and explore why they are
    interested in the job
 1. Decide whether you think they are quite likely to have the experience and
-   personal qualities that we are looking for 4. Get an idea of the candidate's
+   personal qualities that we are looking for
+1. Get an idea of the candidate's
    salary expectation
 
 Try to keep the conversation quite high-level, and avoid going into too much
