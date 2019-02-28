@@ -1756,7 +1756,7 @@ The normal working pattern is 5 days per week, Monday–Friday.
 
 **Internal facing**: We’re happy to talk about part time working for any number of days, dependent on the role.
 
-Part time hours spread over 5 days, e.g. working 21 hours across a full week, or roughly 4 hours a day, may be possible for internal facing roles after discussion, but is a likely no for client facing roles.
+Part time hours spread over 5 days, e.g. working 21 hours across a full week, or roughly 4 hours a day, may be possible for internal facing roles after discussion, but is likely a no for client facing roles.
 
 Salary and holiday allowances (including bank holidays) will be prorated for part time roles.
 
