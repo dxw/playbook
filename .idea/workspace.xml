@@ -16,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/playbook.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="188">
-                <caret line="908" lean-forward="true" selection-start-line="908" selection-end-line="908" />
+              <first_editor relative-caret-position="348">
+                <caret line="859" lean-forward="true" selection-start-line="859" selection-end-line="859" />
               </first_editor>
               <second_editor />
             </state>
@@ -87,12 +87,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552059547201</updated>
-      <workItem from="1552059548412" duration="49000" />
+      <workItem from="1552059548412" duration="259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49000" />
+    <option name="totallyTimeSpent" value="259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1519" height="932" extended-state="0" />
@@ -126,8 +126,8 @@
     <entry file="file://$PROJECT_DIR$/playbook.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="188">
-            <caret line="908" lean-forward="true" selection-start-line="908" selection-end-line="908" />
+          <first_editor relative-caret-position="348">
+            <caret line="859" lean-forward="true" selection-start-line="859" selection-end-line="859" />
           </first_editor>
           <second_editor />
         </state>

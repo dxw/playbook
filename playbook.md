@@ -822,7 +822,7 @@ Designers at dxw follow these principles:
 
 ### Commercial Operations
 
-We are the team that enables and encourages dxw to achieve its missions(s) and uphold its values.
+We are the team that enables and encourages dxw to achieve its mission(s) and uphold its values.
 
 #### Commercial Operations Team Principles
 
@@ -852,12 +852,11 @@ We are the team that enables and encourages dxw to achieve its missions(s) and u
 
 1. People over process, to maintain our unique, small-company, culture.
 
-1. We are proud of what we do and our confident enough to talk about it.
+1. We are proud of what we do and are confident enough to talk about it.
 
 1. We manage expectations by taking responsibility for our work and communicating what we do and why.
 
 1. We _are_ the company values.
-
 
 ### Sales and marketing
 
