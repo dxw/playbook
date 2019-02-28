@@ -1722,13 +1722,13 @@ there's an emergency that means we have to work during unsociable hours to solve
 the problem. Neither of these happen very often, but they are a normal part of
 life at dxw.
 
-### Flexible Working
+### Flexible working
 
 Our policy is informed by the way we work and the way we charge clients for our time.
 
-#### How we work
+### How we work
 
-Monday–Thursday
+#### Monday to Thursday
 
 **Client facing**: We charge clients “time and materials” for the work we do, based on a [per person day rate](https://assets.digitalmarketplace.service.gov.uk/g-cloud-10/documents/92768/432689933684667-sfia-rate-card-2018-05-23-1413.pdf). We generally schedule team members to work on particular projects for a whole sprint at a time, and track and bill that time in half days and whole days. Delivery leads work with the finance team to track and invoice the time of the team; having regularly patterned working helps the process to run as smoothly as possible, without confusion and without taking more time than needed. Any working arrangement needs to make it straightforward to track, report and invoice for your time.
 
@@ -1736,17 +1736,17 @@ When working on a project we work as a single multi-disciplinary team. We’re o
 
 **Internal facing**: Internal facing roles, in which time is not billable to a client, have a more regularly structured five day working week. Everybody is encouraged to take part in Friday work, at least occasionally.
 
-#### dxw fridays
+#### dxw Fridays
 
 We come back together as a team to work on our own projects and processes each Friday. Those Fridays are important for us to maintain our strong culture and identity, separate from the clients we work for. Our sprints start on a Wednesday and end on the Tuesday two weeks later.
+
+### How you can work
 
 #### Overall requirements
 
 **Client facing**: Any working arrangement needs to allow you to participate in most Fridays and be around for the important start-of- and end-of-sprint ceremonies.
 
 **Internal facing**: Working arrangements for these roles are slightly more flexible as the delivery needs listed above are not relevant.
-
-### How you can work
 
 #### Part time working
 
