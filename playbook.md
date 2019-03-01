@@ -2308,6 +2308,8 @@ Slack channel.
 
 ### Benefits
 
+All perks and benefits are available to the dxw team after the successful passing of their probationary period.
+
 #### Pensions
 
 dxw provides a pension which is operated by Aviva. Once you have passed your 3
