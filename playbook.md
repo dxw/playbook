@@ -2035,10 +2035,10 @@ colleague or trade union official. Following this meeting, we may:
 
 * Conclude that no misconduct has taken place, or that there is no poor performance
 * Issue you with a written warning, which will explain:
-      - The nature of the misconduct or poor performance
-      - The change to your behaviour or performance that you need to make
-      - The time within which the change needs to be made
-      - The consequences of not making the change (for example, dismissal)
+  * The nature of the misconduct or poor performance
+  * The change to your behaviour or performance that you need to make
+  * The time within which the change needs to be made
+  * The consequences of not making the change (for example, dismissal)
 * In cases of gross misconduct, dismiss you without notice
 
 If you disagree with the outcome of this hearing, you may appeal against the
