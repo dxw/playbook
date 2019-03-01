@@ -1602,9 +1602,7 @@ qualities than about skills. Things to keep in mind:
 
 * Does this person seem likely to embody our [values](#values)?
 * Does this person have an interest in our [mission](#why-are-we-all-here)?
-* Does this person have experience working in [agile environments](#agile-mindset)
-* Would you be comfortable taking this person to a meeting with a client?
-  If not, why not?
+* Does this person have experience working in [agile environments](#agile-mindset)?
 
 If you can find out how they heard about the job, that's useful for us to know.
 
