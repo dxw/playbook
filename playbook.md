@@ -1867,14 +1867,18 @@ reasonable options.
 
 ### Parental leave
 
-#### Maternity leave
+While many terms around parental leave are gendered, gender is not a factor in what
+leave you are entitled to. What matters is whether or not you are pregnant.
 
-If you're expecting a child, you’ll probably be entitled to maternity leave and
-statutory maternity pay (SMP), which is funded by the government. They will pay
-you 90% of your normal salary for the first six weeks of your maternity leave.
+#### If you're pregnant
+
+If you're pregnant, you’ll probably be entitled to [Statutory Maternity Leave (SML)
+and Statutory Maternity Pay (SMP)](https://www.gov.uk/maternity-pay-leave/leave),
+which is funded by the government. They will pay you 90% of your normal salary
+for the first six weeks of your leave.
 
 Assuming you are entitled to SMP (almost everyone is), dxw will also pay you 90%
-of your salary for second six weeks of your maternity leave. This contribution
+of your salary for the second six weeks of your leave. This contribution
 is called Occupational Maternity Pay (OMP). Taken together, this means that
 you’ll have twelve weeks of leave on 90% of your normal salary.
 
@@ -1886,33 +1890,32 @@ When you know you are pregnant please do tell us as soon as possible, so we can
 check that your working arrangements are safe for you and also ensure you are
 paid for time off for antenatal appointments.
 
-#### Paternity leave
+#### If you're not pregnant
 
-If your partner is having a baby or you are adopting, you’ll probably be
-eligible for statutory paternity pay and leave.
-
-Statutory paternity leave (SPL) may be taken for one or two weeks in a block
-(not two separate weeks), between the date of birth and 56 days afterwards.
-Statutory paternity pay (SPP) is £145.18 per week.
+If your partner is pregnant, you are adopting, or you are having a baby
+through surrogacy, you’ll probably be eligible for [Statutory Paternity Leave (SPL)
+and Statutory Paternity Pay (SPP)](https://www.gov.uk/paternity-pay-leave). SPL
+may be taken for one or two consecutive weeks, between the date of birth and 56
+days afterwards. SPP is £145.18 per week.
 
 If you qualify for SPL and SPP, dxw will instead pay you your normal salary for
 three weeks of paternity leave. If you want to take more than three weeks of
 leave you can use [shared parental leave](#shared-parental-leave).
 
+#### Shared parental leave
+
+If you're having a baby, adopting a child, or having a baby
+through surrogacy, you may be eligible for [Shared Parental Leave and
+Pay](https://www.gov.uk/shared-parental-leave-and-pay). If you're interested in
+taking this up, please talk to Vanessa.
+
 #### Keep in touch (KIT) days
 
-You have 10 paid KIT days to take during your paternity or maternity leave if
-you wish to come in for departmental meetings, events or just to spend some time
-in the office.
+You have 10 paid KIT days to take during your parental leave if you wish to come in
+for departmental meetings, events or just to spend some time in the office.
 
-Any bank holidays that you miss while on paternity or maternity will be added to
-your holiday entitlement when you return to work.
-
-#### Shared Parental Leave
-
-If you're having a baby or adopting a child, you may be eligible for [Shared
-Parental Leave and Pay](https://www.gov.uk/shared-parental-leave-and-pay). If
-you're interested in taking this up, please talk to Vanessa.
+Any bank holidays that you miss while on parental leave will be added to your
+holiday entitlement when you return to work.
 
 ### Working from home
 
