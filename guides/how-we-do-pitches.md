@@ -45,6 +45,7 @@ Test the slides in a variety of screen resolutions. You could be giving the pitc
 We always allow time for practice. You’ll find that until you read through the slides, you have no idea how the pitch is going to sound. It’s also important to test out the words you’re saying so you can avoid any difficult phrasing and make sure the pitch flows.
 
 Arrange to have a group to practice in front of, who can comment and give feedback. If you’re not used to presenting, it’s good to practice in front of large groups so you can try out the techniques you plan to use for giving the talk. Practice making eye contact with people, and reading the notes with a human voice so you don’t sound like you’re reading verbatim.  Make sure you are aware of your pace - you need to speak clearly and slowly. Try not to rush, and take regular pauses between sentences or points.
+
 Practice the hand-overs between different presenters so these are natural and don’t disrupt the flow. Decide in advance who is doing the introductions for each section so we look like a unified team.
 
 Feedback from the wider team is a really important part of finalising the pitch, so embrace suggestions. For those providing feedback, remember to be constructive.
