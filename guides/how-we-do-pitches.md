@@ -16,7 +16,7 @@ Prepare some good questions for the assessment panel. There is usually an opport
 
 ## Writing the deck
 
-Look at the original brief and pull out the evaluation criteria and weightings. These should form the initial headings for the pitch deck and the weightings should give you timings.
+Look at the original brief and pull out the evaluation criteria and weightings. These should form the initial headings for the pitch deck and the weightings should give you an idea of how much time to devote to each part of the deck. If you feel you need to, read up on [the Digital Outcomes and Specialists scoring process and how weighting works](https://www.gov.uk/guidance/how-to-score-digital-outcomes-and-specialists-suppliers).
 
 Look at previous pitches for inspiration. It’s fine to reuse slides from previous pitches if they are relevant. That said, it’s important that the pitch reflects back the buyer’s language so if there are key phrases they use in the brief, it’s good to speak to those.
 
