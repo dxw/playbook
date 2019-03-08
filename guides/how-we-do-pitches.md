@@ -34,7 +34,7 @@ Allow up to two minutes per slide.
 
 ## Designing the deck
 
-The deck must look the best it possibly can. Use one of the the slide deck templates as the basis of your slides. Look at the brand book and get help from a designer if you need it (use the #helpmedesign Slack channel). Pay attention to details. They matter as the audience’s eyes are always drawn to mistakes and inconsistencies. Proof-read the words and proof them again. Spelling mistakes and typos do matter, they undermine the credibility of the deck. Share the slides with people that aren’t working on them to get a fresh set of eyes on them.
+The deck must look the best it possibly can. Use one of the slide deck templates as the basis of your slides. Look at the brand book and get help from a designer if you need it (use the #helpmedesign Slack channel). Pay attention to details. They matter as the audience’s eyes are always drawn to mistakes and inconsistencies. Proof-read the words and proof them again. Spelling mistakes and typos do matter, they undermine the credibility of the deck. Share the slides with people that aren’t working on them to get a fresh set of eyes on them.
 
 Make sure you use relevant imagery, ideally images or visuals  that tell a story or are relatable to the point you’re trying to make.
 
