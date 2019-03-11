@@ -1698,15 +1698,15 @@ TODO. This section to cover:
 
 ### Returners' programme
 
-dxw digital is proud to offer return to work opportunities for experienced hires who are looking to re-enter the workplace after an extended period of time away. 
+dxw digital is proud to offer return to work opportunities for experienced hires who are looking to re-enter the workplace after an extended period of time away.
 We’re running a pilot to begin with to see how this works for us and the people joining us. We’ll start by taking on one or two people for 3 to 6 months - depending on the role and circumstances. There’s potential to become a permanent member of the team at the end of the placement, but this isn’t guaranteed.
 Initially this opportunity will only be offered within our London team, with a view to including our Leeds office as the team there grows.
 
 #### Who supports you?
 
-You will be supported by our people team from the point of application. 
-If you’re invited into our recruitment process, it will consist of a one hour interview followed by a collaborative activity with the team which will be sent to you 24 hours in advance so you have time to prepare. 
-The interview will be an informal, semi-structured conversation where there will be the opportunity for us to learn more about you and your experience and, just as importantly, for you to get a feel for what it’s like to work at dxw. 
+You will be supported by our people team from the point of application.
+If you’re invited into our recruitment process, it will consist of a one hour interview followed by a collaborative activity with the team which will be sent to you 24 hours in advance so you have time to prepare.
+The interview will be an informal, semi-structured conversation where there will be the opportunity for us to learn more about you and your experience and, just as importantly, for you to get a feel for what it’s like to work at dxw.
 If you join us, you’ll be continuously supported by our people team, a line manager and a mentor within the same field. You‘ll have regular check ins with the team where you can speak openly about anything that’s on your mind.
 
 #### Client facing role
@@ -1717,7 +1717,7 @@ For client-facing roles we’ll start billing your time back to the client when 
 
 We’re also offering internal facing roles, for example, in our busy commercial and marketing teams who also support our sister company, dxw cyber. These roles are not billed back to our clients.
 
-If you think this might be for you, please apply through our jobs page. 
+If you think this might be for you, please apply through our jobs page.
 
 ## Working arrangements
 
