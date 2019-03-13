@@ -2391,9 +2391,9 @@ This section is here to share what we've learned about how to make the most of
 these sorts of events.
 
 * **Be nice**: this should go without saying, but whenever we're at events, we show respect to others, treating them how we would like to be treated. If you meet and talk to others and you’re pleasant, welcoming, and interested in what they have to say you’ll always be remembered in a positive light.
-* **Talk to people**: one of the best parts of this community is that we’re all in it to socialise, share ideas, and grow as an industry. So talk to Try to talk to at least one new person at every event. Don’t just stick to the same group of friends: be sociable. You never know what might come of it.
-* **Talk about work**: but don’t be pushy. People will always usually ask “what do you do” or “where do you work” so take that opportunity to talk about dxw positively. Talk about the things you’re doing, what you’re finding interesting, and things relevant to the situation. Just don’t go on about yourself, ask people about their work and be interested in what they have to say.
-* **If we’re hiring**: talk to even more people than normal! Especially if you’re at an event where the attendees might be relevant for the But again, don’t be pushy. Talk to people, join conversations, and if appropriate, mention that we’re hiring and they might be a good candidate. Just don’t let it be the only thing you talk about.
+* **Talk to people**: one of the best parts of this community is that we’re all in it to socialise, share ideas, and grow as an industry. Try to talk to at least one new person at every event. Don’t just stick to the same group of friends: be sociable. You never know what might come of it.
+* **Talk about work**: but don’t be pushy. People will usually ask “what do you do” or “where do you work” so take that opportunity to talk about dxw positively. Talk about the things you’re doing, what you’re finding interesting, and things relevant to the situation. Just don’t go on about yourself, ask people about their work and be interested in what they have to say.
+* **If we’re hiring**: talk to even more people than normal! Especially if you’re at an event where the attendees might be relevant for the job. But again, don’t be pushy. Talk to people, join conversations, and if appropriate, mention that we’re hiring and they might be a good candidate. Just don’t let it be the only thing you talk about.
 
 #### Speaking at events
 
