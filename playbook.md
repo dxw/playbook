@@ -826,7 +826,7 @@ We are the team that enables and encourages dxw to achieve its mission(s) and up
 
 #### Commercial Operations Team Principles
 
-### Things we do:
+##### Things we do:
 
 1. We deliver the dxw business plan. In particular, we recruit the best people to meet our mission, manage our finances to allow sustainable growth, and track performance of objectives to measure ourselves.
 
@@ -840,7 +840,7 @@ We are the team that enables and encourages dxw to achieve its mission(s) and up
 
 1. Commercial and business operations can be thankless, but to manage expectations we remain resilient and take responsibility for our work by effectively communicating about what we do and why we do it.
 
-### Behaviours
+##### Behaviours
 
 1. Empathetic to our users / staff / suppliers / clients.
 
