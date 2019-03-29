@@ -25,6 +25,10 @@ world.
 Finally, this document is inspired by [Thoughtbot's excellent
 playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
 
+## Advisory Council
+
+dxw digital and dxw cyber do not have external investors or shareholders. To help keep us honest, we are very lucky to have a voluntary advisory council, made up of a small group of senior figures, who meet quarterly to discuss and provide guidance on our strategy, business plan and other topics related to company health and progression. The group have a wealth of experience of public and private sector work, as well beings friends of dxw that share our values.
+
 ## Working at dxw
 
 ### Why we are here
