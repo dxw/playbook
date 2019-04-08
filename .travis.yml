@@ -1,12 +1,8 @@
 matrix:
   include:
-    - language: ruby
-      cache: bundler
-      script: ./test.sh
     - language: go
       install:
         - go get github.com/errata-ai/vale
       script:
         - vale playbook.md && vale contributing.md && vale README.md
         - vale --glob='!*style-guide.md' guides
-
