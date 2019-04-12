@@ -1107,8 +1107,8 @@ they probably won't see it.
 
 ##### Recording time spent on tickets
 
-It's important for us to know how much cumulaitive time is spent on support
-functions.  In order to mark a ticket as solved, a ticket the ticket owner needs
+It's important for us to know how much cumulative time is spent on support
+functions.  In order to mark a ticket as solved, the ticket owner needs
 to note how much time has been spent on a ticket.  However, where a ticket has
 been worked on by multiple people, the resolver needs to be informed of that
 time.
