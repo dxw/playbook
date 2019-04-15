@@ -103,7 +103,7 @@ playbook. Theme files live in the `/build` directory
 Check your changes for markdown errors:
 
 ```
-./test.sh
+npm run lint
 ```
 
 To run the prose linter:
