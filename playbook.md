@@ -1105,6 +1105,19 @@ approximation of the total time the team spent on the issue. Or, select
 When assigning a ticket to another agent, we do not set it to Pending, otherwise
 they probably won't see it.
 
+##### Recording time spent on tickets
+
+It's important for us to know how much cumulative time is spent on support
+functions.  In order to mark a ticket as solved, the ticket owner needs
+to note how much time has been spent on a ticket.  However, where a ticket has
+been worked on by multiple people, the resolver needs to be informed of that
+time.
+
+Anyone who spends time on a ticket before passing responsibility for it to
+someone else, should leave an "Internal Note" about how much time they have
+spent (rounded up to the nearest five minutes) so that the ticket resolver
+can make an informed assessment.
+
 ##### Solving tickets
 
 If we believe that we have solved the issue the client has raised, we submit it
