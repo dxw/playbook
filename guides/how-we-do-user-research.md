@@ -6,9 +6,63 @@ This guide explains how we do user research at dxw digital.
 
 The guidance applies to all user researchers employed by dxw digital, both staff and contractors.
 
-The guidance builds on our user research [principles](http://playbook.dxw.com/#/?id=user-research-principles) and [workflow](http://playbook.dxw.com/#/?id=user-research-workflow). It also builds on the [guidance for user research in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research) so we can help teams meet the [Government Service Standard](https://www.gov.uk/service-manual/service-standard).
+The guidance builds on our user research [principles](http://playbook.dxw.com/#/?id=user-research-principles). It also builds on the [guidance for user research in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research) so we can help teams meet the [Government Service Standard](https://www.gov.uk/service-manual/service-standard).
 
 Some of the guidance explains how to do user research in an effective, ethical and legal way. If your situation isn't covered, and you're not sure what to do, ask John Waterworth, the Head of User Research.
+
+## User research workflow
+
+These are the things that user researchers usually do on projects. 
+
+1. **Support sales and scheduling**
+
+   Researchers contribute to client proposals and scheduling projects. We advise on research activities to include in proposals, join in pitch presentations and help with scheduling decisions.
+
+   This helps dxw digital to win good work that delivers valuable results for our clients, for users and for ourselves.
+
+1. **Help setup the project and team**
+
+   Researchers get involved with project inception and planning. We review existing evidence. And we create research plans that show what we’ll do, why and how we’ll do it. We make sure the plan is achievable and allows us to do research at a sustainable pace.
+
+   This helps teams to focus on understanding and meeting the needs of users, and to produce the best results with the people, time and resources we have.
+
+1. **Recruit people for research**
+
+   Researchers recruit appropriate participants for research activities. Finding the right participants at the right time is always challenging, so we start recruiting as soon as we can and use a variety of approaches to reach everyone we need. We keep track of who participates in our research, so we can be confident that we’re including the right people.
+
+   This helps teams to learn about all their users and produce services that work well for everyone.
+
+1. **Do research activities**
+
+   This is the most obvious and visible part of our work. We choose research activities that provide strong evidence and reliable answers, for the least time, effort and cost. And we choose activities that help our teams and different kinds of users to participate.
+
+   We record what we do and how we do it to for those who come after us.
+
+   This helps teams to embed regular research into their agile practices and get the best results from the effort they put in.
+
+1. **Analyse research and produce findings**
+
+   Researchers carefully analyse the different kinds of data we collect. We analyse data in batches and record our findings from sprint to sprint. And we involve our colleagues and clients in analysis to make sure our findings are clear and relevant.
+
+   This helps teams understand, believe in and act quickly on what they learn.
+
+1. **Help teams make good decisions**
+
+   Researchers produce findings and other recommendations that help teams make good decisions about what to do next and how to approach it. We get actively involved in identifying opportunities, creating design ideas and setting priorities.
+
+   This helps teams to create great services that work well for users, and to strike a balance between short-term wins and more complex, long term changes.
+
+1. **Create and share outputs**
+
+   Researchers create and share formal outputs like plans, presentations, reports and diagrams. These record and communicate the important things we learn. We create finished outputs from sprint to sprint, not just at the end of a project. And we think carefully about how we present and share these outputs to produce the most impact.
+
+   This helps our clients and other stakeholders use and benefit from what we learned both during the project and long after we’ve gone.
+
+1. **Take care of research data**
+
+   Researchers know it’s important to manage research data carefully.  We follow our [privacy policy](https://www.dxw.com/privacy-statement/) and [ISO27001 certification](https://www.itgovernance.co.uk/iso27001) when collecting, processing and storing research data to make sure we comply with that [General Data Protection Regulation](https://www.gov.uk/government/publications/guide-to-the-general-data-protection-regulation).
+
+   This helps teams to get the most from the research data they collect, while protecting the privacy of the people taking part.
 
 ## How we get informed consent for user research
 
