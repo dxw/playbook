@@ -718,6 +718,10 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 
    Researchers at dxw work in an agile way. We do research and analysis in small batches so we can continuously share and adapt to what we learn.
 
+1. **Make research inclusive**
+
+   Researchers at dxw know how important it is that public services work for all the people who need to use them. We help teams understand the needs of all their users, and do research activities that everyone can participate in.
+
 1. **Build on existing evidence**
 
    Researchers at dxw help clients build on the knowledge and data they already have. We combine existing knowledge, poorly understood data and new research into a coherent picture.
