@@ -730,61 +730,11 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 
    Researchers at dxw do the best research we can within the constraints we have. We acknowledge and share the limits of our research and our findings. And we advocate for more research when it‘s needed to achieve the project outcomes.
 
-#### User research workflow
+#### User research guidance
 
-We don’t only do user research in discovery, but do our best to ensure that it is built into projects at every phase. For each project phase, user research is an ongoing activity that typically follows the following workflow:
+The Playbook includes detailed guidance on [how we do user research at dxw digital](http://playbook.dxw.com/#/guides/how-we-do-user-research).
 
-1. **Support sales and scheduling**
-
-   User researchers get involved long before a project starts. We support sales work by helping define the user research approach for potential new work.
-
-   Having input at this early stage ensures that user research proposals are both achievable and effective at meeting the needs of our clients and their users. We also have input to project scheduling decisions. We work with delivery leads to ensure that enough time and resources are allocated to user research. In cases where a user researcher is scheduled to work across different projects simultaneously, we allocate at least 2 or 3 days a week per project to minimise context switching. If we need more than a single user researcher on a project, one user researcher leads the work full-time while the other provides support when needed.  Good scheduling ensures that we can carry out research at a sustainable pace and produce outcomes of the highest possible quality.
-
-1. **Do desk research and deep thinking**
-
-   We need some time to prepare for inception activities like roadmapping. By doing this we can help the team define the problem better, focus, and prioritise good research questions. We do this by reading through any available project documentation and doing contextual research.
-
-1. **Get involved with inception and planning activities**
-
-   As we’ll be doing the work, it’s important we get involved early and take part in inception and planning activities. We need to know what the vision and goals for the project are, what the client team wants to find out from user research, and why.
-
-1. **Create a user research plan**
-
-   This is how we're going get the closest to the truth about users, so we need time to write this and run it by others in the team.
-
-1. **Design and implement a participant recruitment strategy**
-
-   This is how we’re going to get to real people. Sometimes we’ll use a recruitment agency, and other times we’ll get better results doing in-house recruitment.
-
-   We define our approach together with the client and the delivery team. Participant recruitment is never easy. Once the recruitment strategy is ready, we need to prepare screeners and other things like introduction emails and reminders to make sure we get the right people at the right time.
-
-   It can be laborious, so this is a team effort. It’s important that the client and delivery leads are involved to provide support when we need it.
-
-1. **Prepare for research activities**
-
-   At the beginning of our work, we prepare agendas, scripts, and questionnaires. We update these as we go. We think about what we need to organise and set up carefully. This could include booking train tickets, incentives, note-taking materials, rooms and scheduling time to brief observers.  Some activities need more preparation than others. For example, running co-design workshops may need more time and attention than interviews.
-
-1. **Collect data**
-
-   This is the most obvious and visible part of our work. We need to collect enough data to be confident in our findings. We try to block out full days for data collection and analysis close together, instead of running one or two sessions intermittently. This makes analysis more effective allowing us to produce better insight.
-
-1. **Analyse data**
-
-   Analysing research means looking at how everything fits together. We need to understand:
-      * What is actually going on here?
-      * Are we sure about this?
-      * Do we need to dig deeper?
-      * What can we do about it?
-
-   We do quick reviews and reflections with the team as well as more structured analysis on our own.  Quick reflection is best done immediately after data collection and with the observer. Structured analysis needs more time, depending on how much data we have. When we do this, we revisit notes and recordings, so being in a secluded space with a whiteboard is ideal. We plan in enough time and space for this analysis to allow us to do good work at an appropriate level of rigor and avoid rushing to conclusions. We don’t wait until we’ve completed all the research sessions for each sprint or the whole project before we do analysis.
-
-1. **Prepare findings and recommendations**
-
-   Findings and recommendations are not the same. Findings mean that ‘we know this now’, whereas recommendations encourage us to ask ‘so what?’ and ‘how might we do X’?  There can be pressure on us to share these immediately so we can iterate the product or service we’re working on, however it’s important that we are confident in our findings before sharing them with others. This means having the time and space to draft findings and recommendations alone as well as time to discuss and refine them with the team before they are shared more widely. In our recommendations we aim to strike a balance between quick wins with rich, often strategic insight.
-
-1. **Refine outputs and handover**
-
-   These are things like slide decks, user journeys and user needs. We start drafting these early, iterating and adding to them as we go along. We share them frequently ‘just as they are’ so that clients have the opportunity to give us feedback without us spending lots of time making them pixel-perfect. This means we often need to refine part-finished, paper versions of outputs before handing them over to the client as final deliverables. User researchers do the bulk of this work, but it's a team effort. We allocate time before the end of the project to do this and bring in a designer if needed.
+The guide starts with the user research workflow, which describes the things that user researchers usually do on projects, and then provides further guidance and links to resources for specific topics.
 
 ### Design
 
