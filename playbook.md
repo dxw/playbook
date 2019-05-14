@@ -734,7 +734,7 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 
 The Playbook includes a detailed guide on [how we do user research at dxw digital](http://playbook.dxw.com/#/guides/how-we-do-user-research).
 
-The guide starts with the user research workflow, which describes the things that user researchers usually do on projects, and then provides guidance and links to resources for topics like getting consent and providing incentives.
+The guide starts with the user research workflow, which describes the things that user researchers usually do on projects, and then provides further guidance and links to resources for specific topics.
 
 ### Design
 
