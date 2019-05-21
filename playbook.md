@@ -182,7 +182,7 @@ In addition, we take measures to ensure that we don't accidentally expose confid
 At dxw digital, we value people and want them to feel free to be themselves.
 
 We embrace each other's differences, in gender, religion, beliefs, ethnicity,
-disability, age, sexual orientation, self-identification, neurotype,
+disability, age, sexual orientation, neurotype,
 nationality, and identity. We are diverse - like the people we build, design,
 and create for.
 
