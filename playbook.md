@@ -2409,6 +2409,10 @@ Details of what the wellbeing voucher offers can be found here: [Eyecare for Wel
 
 If there is a book relevant to your work that you would like to read, make a request through the #dxw-purchasing slack channel and the Bus Ops team will buy it for the library.
 
+#### Equipment
+
+dxw will pay for the equipment needed to enable you to work comfortably and safely. dxw also offers a budget of £25 towards a work backpack. Use the `dxw-purchasing` Slack channel to request any equipment you need, or talk to anyone in business operations if you are unsure if a purchase will be covered.
+
 ## Sharing
 
 ### Events
