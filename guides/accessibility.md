@@ -20,7 +20,7 @@ General notes:
 
 All toilets are gender neutral and have pedal bins. Sanitary products (tampons and pads) are available for free in all the toilets.
 
-Free drinkable water (glasses and cups are available) in both kitchettes.
+Free drinkable water (glasses and cups are available) in both kitchenettes.
 
 There is a quiet room on the first floor. It can be used as a prayer room or lactation room (no materials are provided). There is no lock on the door, but there is a Free/Engaged sign.
 
