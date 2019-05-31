@@ -2,6 +2,7 @@
 
 - [Playbook](/)
 - Guides
+  - [Accessibility](guides/accessibility.md)
   - [Claiming expenses](guides/claiming-expenses.md)
   - [Contributing to the Playbook](contributing.md)
   - [Development workflow](guides/development-workflow.md)
