@@ -2,28 +2,29 @@
 
 ## Purpose
 
-For most of dxw's life, we've been small enough that it's been easy for everyone
-to know what's going on and how to get things done, just by listening to what's
-going on in the office. The team is now big enough that we need a reference for
-the way we do things. A place to capture the changes we agree to make. Something
-canonical that tells us what the current "right way" to do things is.
+This Playbook is our reference for who we are and the way we do things. Something canonical that tells us what the current “right way” to do things is.
 
-We'll always iterate on this document, because we'll always explore better ways
-to get things done. But now, when we've found one, it'll be recorded here. And
-once it is, it'll be the way we do things until we find something better, and
-write it down.
+If you’re a current or potential client, this Playbook is also for you. To help you understand us and how we can work together.
 
-dxw now encompasses dxw digital and dxw cyber, many of the values and ways of working are the same across both businesses and so one document is used for both, with any differences being identified.
+We continually update the principles and guides in our Playbook. Because we’re always exploring better ways
+to get things done. What’s written here is the way we doing things now. Until we find something better, and
+write that down.
 
-This document lives in Github. Anyone on the team can edit it, and should do so.
-But an edit must never be a substitute for discussion and agreement, so be
-careful about making significant changes. This document is also public, because
-there is very little about our process that cannot be open. But there will be
-things from time to time, so don't forget that changes here get published to the
-world.
+dxw now encompasses dxw digital and dxw cyber. Many of the values and ways of working are the same across both businesses. So we have one Playbook for both, with any differences marked.
 
-Finally, this document is inspired by [Thoughtbot's excellent
-playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
+This Playbook was orginally inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
+
+### Updating the Playbook
+
+This Playbook is a collaborative effort. Anyone at dxw can and should edit it. So if you spot something that's wrong, feel free to hop in and correct it.
+
+But remember that this Playbook is the result of our conversations about how we should do things, not a substitute for
+one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
+
+This document is also public, because there is very little about our process that cannot be open. But there will be
+some things that should be private. So don't forget that changes here get published to the world.
+
+To update the Playbook, follow the [guide to Contributing to the Playbook](http://playbook.dxw.com/#/contributing) and the [dxw style guide](http://playbook.dxw.com/#/guides/style-guide).
 
 ## Advisory Council
 
@@ -106,9 +107,9 @@ enjoy doing things properly, and we're loath to settle for less.
 
 ### Principles
 
-These principles guide our behaviour and decision making, and help us live up to our [values](#values).
+These principles help us live up to our [values](#values), and guide our behaviour and decision making in all the things we do at dxw.
 
-#### Agile mindset
+#### Keep an agile mindset
 
 At dxw, we think that agile is a mindset that’s accepting of change, curious
 about trying new approaches to make things better, and values careful planning
@@ -119,31 +120,20 @@ of wisdom, but we don’t follow the industry of methodologies, training and
 certifications that has grown up around it. We think agile is something you
 learn to be, not something that you learn to do.
 
-Our teams frequently experiment with different tools and techniques so we can
-improve. This applies not only to development work, but to everything we do at
-dxw, from user research to business operations.
+We recognise the importance of compliance and governance, so we build those activities into each step.
 
-We recognise the importance of planning, compliance and governance, so we work
-those activities into the process, every step of the way.
+#### Work at a sustainable pace
 
-#### Sustainable pace
-
-We work at a sustainable pace. We estimate work and schedule it conservatively,
+At dxw, we work at a sustainable pace. We estimate work and schedule it conservatively,
 and set realistic expectations with clients about the pace of delivery.
 
 This doesn't mean that we don't work hard. Being productive is a vital part of
-maintaining the trust that our clients give us, and it's important not to let
+maintaining the trust that our clients give us, and it’s important not to let
 them down.
 
-When taking time off during client work, we discuss how it will impact the
-schedule with other team members.
+#### Balance openness and confidentiality
 
-Sending communication outside of working hours may create an unintended sense of
-urgency with the recipients of your message. Try to avoid creating that urgency
-when possible. Unless actually urgent, you may ignore messages which you receive
-outside of working hours and handle them once you are back at work.
-
-#### Openness and confidentiality (dxw digital)
+### dxw digital
 
 dxw digital believe it's best to be open about what we're doing. We encourage our clients to do the same, as does the [service manual](https://www.gov.uk/service-manual). We talk, blog and write about what we're doing, and we are open about as much as we can.
 
@@ -161,7 +151,7 @@ However, there are some things that we must keep private.
 * Information about work that is currently being procured (whether we are bidding or not) and any other information that could damage the commercial interests of a client or supplier
 * Anything to do with the work of dxw cyber: see below.
 
-#### Openness and confidentiality (dxw cyber)
+### dxw cyber
 
 dxw cyber's work is usually more sensitive than dxw digital's. We still value openness and believe that it is important, but we have less freedom to talk about our work. Our clients expect us to keep almost everything about our work with them private.
 
@@ -200,21 +190,6 @@ We’re committed to being transparent with our diversity information and
 regularly assessing the impact of all our policies and practices.
 
 Thank you for being you - it makes us better.
-
-### Changes to this document
-
-This playbook is a collaborative effort. If you spot something that's wrong,
-feel free to hop in and correct it. But remember that this playbook is the
-result of our conversations about how we should do things, not a substitute for
-one. So don't make changes unless they reflect our shared agreement about how
-things are going to be done.
-
-If you are making a substantial change (perhaps following a team conversation)
-please make it in a branch and submit a pull request. Then ask someone else who
-was in the conversation to review and merge it. When we review a pull request on
-the playbook, we check that it accurately captures the conversation, that it
-doesn't contain anything private, and that it's well written and free of typos,
-incorrect spellings and other minor errors.
 
 ## Building services
 
