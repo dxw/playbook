@@ -133,7 +133,7 @@ them down.
 
 #### Balance openness and confidentiality
 
-### dxw digital
+##### dxw digital
 
 dxw digital believe it's best to be open about what we're doing. We encourage our clients to do the same, as does the [service manual](https://www.gov.uk/service-manual). We talk, blog and write about what we're doing, and we are open about as much as we can.
 
@@ -151,7 +151,7 @@ However, there are some things that we must keep private.
 * Information about work that is currently being procured (whether we are bidding or not) and any other information that could damage the commercial interests of a client or supplier
 * Anything to do with the work of dxw cyber: see below.
 
-### dxw cyber
+##### dxw cyber
 
 dxw cyber's work is usually more sensitive than dxw digital's. We still value openness and believe that it is important, but we have less freedom to talk about our work. Our clients expect us to keep almost everything about our work with them private.
 
