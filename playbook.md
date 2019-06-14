@@ -1712,10 +1712,9 @@ hours by arrangement. Anyone is free to do that as long as their hours of work
 don't make it hard for other people to get things done. For example, many people
 arrive earlier than 10:00 and leave earlier, which is generally fine.
 
-We have a short stand-up every morning, where we each tell the whole team about
-a single thing we will get done that day. The stand-up is at 10:00. If you think
-you're going to be late, you should let everyone know in the dedicated Slack
-channel &#x23;lateness.
+Each team has a short stand-up every morning, where we each tell the whole team about
+a single thing we will get done that day. If you think you're going to be late, you should
+let everyone know in the project Slack channel.
 
 Most developers have maintenance responsibilities, which they do during [ticket
 time](#ticket-time).
@@ -1726,6 +1725,13 @@ having an emergency, we work longer hours than normal. From time to time,
 there's an emergency that means we have to work during unsociable hours to solve
 the problem. Neither of these happen very often, but they are a normal part of
 life at dxw.
+
+Sending emails or posting in Slack outside of working hours can be a good way to get things off your mind, 
+but it can create an unintended sense of urgency for the people who recieve your message. Try to avoid creating
+that urgency when it’s not necessary. For example, by specifically saying that you don’t expect am immediate response.
+
+Unless they are actually urgent, you can ignore messages you receive
+outside of working hours and handle them when you are back at work.
 
 ### Flexible working
 
