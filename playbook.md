@@ -7,7 +7,7 @@ This Playbook is our reference for who we are and the way we do things. Somethin
 If you’re a current or potential client, this Playbook is also for you. To help you understand us and how we can work together.
 
 We continually update the principles and guides in our Playbook. Because we’re always exploring better ways
-to get things done. What’s written here is the way we doing things now. Until we find something better, and
+to get things done. What’s written here is the way we do things now. Until we find something better, and
 write that down.
 
 dxw now encompasses dxw digital and dxw cyber. Many of the values and ways of working are the same across both businesses. So we have one Playbook for both, with any differences marked.
