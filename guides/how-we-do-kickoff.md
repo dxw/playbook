@@ -1,6 +1,6 @@
-# How we run project kick-off workshops
+# How we do project kick-off workshops
 
-This guide explains how we run project kick-off workshops at dxw digital.
+This guide explains how we do project kick-off workshops at dxw digital.
 
 Depending on the focus of the project we structure the workshop using either the [Roadmapping](#how-we-run-a-roadmapping-workshop) questions or the [Discovery](#how-we-run-a-discovery-kick-off-workshop) questions.
 
