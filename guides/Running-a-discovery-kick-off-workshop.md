@@ -1,42 +1,17 @@
-# How we do project kick-off workshops
+# Running a discovery kick-off workshop
 
-This guide explains how we do project kick-off workshops at dxw digital.
+This guide explains how we run a kick-off workshop for a discovery project at dxw digital.
 
-Depending on the focus of the project we structure the workshop using either the [Roadmapping](#how-we-run-a-roadmapping-workshop) questions or the [Discovery](#how-we-run-a-discovery-kick-off-workshop) questions.
-
-## How we run a roadmapping workshop
-
-For an alpha or beta, or for a significant update to a live service, we run a roadmapping workshop.
-
-These are based on the [Seven questions to build a roadmap](http://www.jamiearnold.com/blog/2014/07/22/seven-questions-to-build-a-roadmap) described by Jamie Arnold.
-
-### Questions for roadmapping
-
-1. **What are we trying to learn or prove?**
-
-1. **Who are the users?**
-
-1. **What are we operating?**
-
-1. **What are we saying?**
-
-1. **What are our assumptions?**
-
-1. **What are our dependencies?**
-
-1. **What capabilities do we need?**
-
-## How we run a discovery kick-off workshop
-
-For discovery focussed projects it can be less clear what the end result will be, and whether we’re looking at a
-single service or cutting across several. So we use a broader set of questions.
+For an alpha or beta, or for a significant update to a live service, we run a [roadmapping workshop]().
+For discovery focussed projects it can be less clear what the end result will be, and whether we’re 
+looking at a single service or cutting across several. So we use a broader set of questions.
 
 These are based on the [questions to frame a problem](http://www.hollidazed.co.uk/2015/07/28/frame-the-problem)
 that [Ben Holiday](https://twitter.com/BenHolliday) wrote about,
 the [discovery inception categories](http://www.myddelton.co.uk/blog/setting-up-a-discovery)
 that [Will Myddelton](https://twitter.com/myddelton) described, along with some of the roadmapping questions.
 
-### Questions for discovery
+## Questions for discovery
 
 1. **Why are we doing this work?**
 
@@ -74,7 +49,7 @@ that [Will Myddelton](https://twitter.com/myddelton) described, along with some 
 
    How might we be blocked? What rabbit holes could we fall down?
 
-### Asking the questions
+## Asking the questions
 
 To prepare the room:
 
@@ -93,7 +68,7 @@ It’s best to put all the questions up together. The things people say in the d
 
 This method works well for groups up to 10 and typically takes 90 minutes to 2 hours.
 
-### Managing the session
+## Managing the session
 
 When you invite stakeholders to the workshop, aim to get a good mix of senior decision makers with a broad understanding of context and outcomes, together with colleagues who have more practical and detailed knowledge. Aim to cover the key interest groups so nobody is left feeling unrepresented.
 
@@ -107,7 +82,7 @@ During the session, most people will be happy to talk – this is something they
 
 The questions and workshop format are good for uncovering different opinions, conflicting objectives, unrealistic expectations, etc. It’s good to note those things during the session so everyone knows there are different viewpoints. But don’t make a big deal of it and derail your own meeting. It’s a discovery and part of the point is to identify those differences and help resolve them into something more coherent.
 
-### Using the workshop outputs
+## Using the workshop outputs
 
 The question sheets create ready-made outputs from the workshop. You can transcribe the points you collect into a document, or into another tool like Trello or Miro.
 
