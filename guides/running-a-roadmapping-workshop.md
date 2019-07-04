@@ -8,7 +8,11 @@ These are based on the [Seven questions to build a roadmap](http://www.jamiearno
 
 1. **What are we trying to learn or prove?**
 
+   What questions are we trying to answer? What do we need to know to make good decisions? What assumptions should we be testing? What might we already know?
+
 1. **Who are the users?**
+
+   Are they members of the public, professionals or staff? What different groups, circumstances and behaviours might be important? Are they current or potential users?
 
 1. **What are we operating?**
 
