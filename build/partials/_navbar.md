@@ -14,6 +14,7 @@
   - [Plugin updates](guides/plugin-updates.md)
   - [Setting up a new project](guides/delivery/setting-up-a-new-project.md)
   - [Running a discovery kick-off workshop](guides/running-a-discovery-kick-off-workshop.md)
+  - [Running a roadmapping workshop](guides/running-a-roadmapping-workshop.md)
   - [Support and on call](guides/support-and-on-call.md)
   - [Web analytics](guides/web-analytics.md)
   - [Working remotely](guides/working-remotely.md)
