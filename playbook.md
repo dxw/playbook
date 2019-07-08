@@ -959,127 +959,6 @@ quickly as possible. Generally speaking, we do the most time-efficient thing
 that we can. Of several potential solutions that solve the problem, assuming
 none is a bad one, we do the one which can be implemented the most quickly.
 
-#### Workflow
-
-All tickets that arrive through the support helpdesk go through a number of
-stages in the course of being worked on.
-
-##### New tickets
-
-When a new ticket arrives, it is automatically assigned to the Front-line
-Support group. All agents in this group receive an email to alert them.
-
-The Front-line Support group is monitored by whoever in the Technical
-Operations team is on call. It's their responsibility to review tickets as they
-arrive, and decide what to do with them. If they can deal with the issue, or if
-can complete an [initial investigation](#initial-investigation) into the
-problem, they do so.
-
-If not, they will assign it to the developer on support. Sometimes tickets are
-assigned to a delivery lead if it requires a conversation with the client or
-looks like chargeable work.
-
-As tickets are arriving, we also think about whether they might be related to
-other tickets that we've already received. For example, if we get several
-tickets from different clients about similar-sounding issues, that might be
-indicative of a wider problem. Or, if a single client sends lots of tickets
-within a short time, it might be wise to assign a delivery lead to oversee
-them all and ensure that the requests make sense when considered as a group.
-
-##### Assignments
-
-No matter what group you're in, when a ticket is assigned to you, you will
-receive an email. The ticket will also appear on your home screen in Zendesk.
-
-When you are assigned a ticket, it is your responsibility to review it and take
-action. You must either solve the ticket or pass it on to someone who can.
-
-A variety of issues can be reported through the helpdesk, so it's not possible
-to give an exhaustive guide on how to solve tickets. But there are some
-articles in the [Help Centre](https://dxw.zendesk.com) which may be useful.
-These articles are written for clients, but contain lots of useful information.
-
-It's important to be proactive about solving tickets. As soon as we receive a
-ticket, the clock starts ticking. Clients expect us to be
-[responsive](#be-responsive) and deal with their problems promptly. If we're
-not sure how to proceed with a particular ticket, we don't just let it sit
-there, we ask for help from another member of the team.
-
-Whenever we do anything at all related to a given ticket, we update it to let
-the client know. Even if it's just to say that we haven't managed to figure out
-what the problem is yet. If we're replying to a ticket just to update the
-client, but we still need to take some action, we set its status to Open. The
-same applies if you are reassigning the ticket to another agent.
-
-If we have taken some action and are now waiting for the client to reply, we set
-the ticket's status to Pending. This will remove it from the list of tickets
-(until they respond).
-
-##### Pending tickets
-
-Pending tickets are those which we have updated with a question or a potential
-solution, and which now need to be updated by the client before we can proceed.
-
-Tickets which are Pending will also be closed automatically after a set period
-of time if the client does not respond. They will get reminders before this
-happens. If a Pending ticket you are assigned to is closed because the client
-didn't reply in time, both you and the client will get an email, so you can open
-it again if you think that's best.
-
-Because Pending tickets will be auto-closed if there's no reply, it's also
-important to check and set the *How much work was this?* field to give an
-approximation of the total time the team spent on the issue. Or, select
-*chargeable* if it's a ticket we'll invoice for.
-
-When assigning a ticket to another agent, we do not set it to Pending, otherwise
-they probably won't see it.
-
-##### Recording time spent on tickets
-
-It's important for us to know how much cumulative time is spent on support
-functions.  In order to mark a ticket as solved, the ticket owner needs
-to note how much time has been spent on a ticket.  However, where a ticket has
-been worked on by multiple people, the resolver needs to be informed of that
-time.
-
-Anyone who spends time on a ticket before passing responsibility for it to
-someone else, should leave an "Internal Note" about how much time they have
-spent (rounded up to the nearest five minutes) so that the ticket resolver
-can make an informed assessment.
-
-##### Solving tickets
-
-If we believe that we have solved the issue the client has raised, we submit it
-as Solved.
-
-If it's something the client needs to check and confirm as fixed, we submit the
-ticket as Pending until they reply, and mark it Solved if they say everything's
-ok.
-
-If a client replies to a Solved ticket, it will be reopened. Sometimes clients
-reply just to say thanks. If so, we set it back to Solved without comment.
-
-It is important that Solved tickets contain some record of what we did. This is
-usually not difficult, as your communication with the client will describe what
-actions you've taken. But that's not always the case.
-
-Some tickets are not raised by clients, but are raised by another agent or by an
-automated process. In this situation, it's still important that tickets record
-what actions we took, so we don't close them without a good update. We always
-leave a couple of sentences to say what we did, even if it was minor.
-
-##### On-hold tickets
-
-Sometimes a ticket does not need any action imminently but is nonetheless an
-important issue which we must keep track of. Renewing certificates and domain
-names in good time is a good example of this kind of task.
-
-In these situations, we turn the ticket into a task and give it a due date, and
-then set it to On-hold. The helpdesk will automatically reopen the ticket ten
-days before its due date, and it'll show back up in your list of Open tickets.
-
-Only tasks with due dates should be made into On-hold tickets.
-
 #### Deciding what to work on
 
 You are free to work on whichever of your assigned tickets you think is most
@@ -1183,79 +1062,6 @@ If you are in any doubt as to whether the client has understood and approved the
 change that you are about to make, explain it to them and ask for their explicit
 approval. It's fine to do this on the phone if that is more convenient, but if
 you do, update the ticket with a comment what you said and what was agreed.
-
-### Managing tickets
-
-There are a few background tasks that we do to ensure that helpdesk work goes
-smoothly.
-
-#### Suspended tickets
-
-The work in this section is the responsibility of **Front-line support agents**.
-
-Only people who have been registered in Zendesk are permitted to submit tickets.
-
-Tickets received from unregistered users are put into the Suspended Tickets view
-with a reason of "permission denied". We receive a digest email on the systems
-email to let us know what is in the suspended queue.
-
-If we see a suspended ticket that looks legitimate, we create a ticket for the
-project owner and ask if the user should be added. If they can be added, we
-create them in Clients and Projects as a contact on the appropriate project, and
-then recover the ticket from the suspended list. If the new user shouldn't be
-added, we delete the ticket and ask the project owner to resubmit it if
-required.
-
-If we receive a suspended ticket from someone who is not a contact but is adding
-useful information, add the information to the relevant ticket as an internal
-note and then delete the suspended ticket. We make sure the internal note
-mentions who the information came from.
-
-Unauthorised users submitting tickets will not receive any response, so it is
-important to check the suspended list frequently.
-
-Zendesk also suspends tickets that it suspects may be spam or autoresponders.
-It's hard to monitor the contents of the suspended tickets view if it's
-cluttered. So we clean up the list regularly. We delete anything that doesn't
-need to be recovered or noted.
-
-#### SLA breaches
-
-The work described in this section is the responsibility of **delivery
-managers**.
-
-We monitor Zendesk for tickets that are or will shortly be breaching our SLA.
-There are two views to facilitate this: *SLA breaches* and *Approaching SLA
-breaches*. The number of tickets in these views is also displayed on the
-monitoring dashboard in the office.
-
-Tickets will appear in these views if they have missed or are about to miss our
-targets for responsiveness. Our internal SLA targets are more stringent than our
-contractual SLA, so other than in extreme circumstances, we treat SLA breaches
-as a prompt for action rather than a crisis.
-
-If a ticket is breaching the SLA or will soon do so, we take some action to
-avoid the breach. If the assignee is available, they may wish to prioritise work
-on that ticket. If not, it may be sensible to assign the ticket to someone else
-who can deal with the problem.
-
-Always remember that all tickets except monitoring issues are subject to the
-SLA: whether raised by someone within dxw or by a client.
-
-If you think we have breached the SLA badly, or have breached our contractual
-SLA, we contact the client to apologise and let them know what we're going to do
-about it.
-
-#### Sampling
-
-The work described in this section is the responsibility of **Harry**.
-
-It's important for us to be able to provide good feedback to the team and catch
-potential problems before they become serious, so we review a sample of solved
-tickets at regular intervals.
-
-If any problems are found with tickets, we give feedback, discuss as a team and
-change our process if necessary.
 
 #### Following up on bad client feedback
 
@@ -1726,8 +1532,8 @@ there's an emergency that means we have to work during unsociable hours to solve
 the problem. Neither of these happen very often, but they are a normal part of
 life at dxw.
 
-Sending emails or posting in Slack outside of working hours can be a good way to get things off your mind, 
-but it can create an unintended sense of urgency for the people who recieve your message. Try to avoid creating
+Sending emails or posting in Slack outside of working hours can be a good way to get things off your mind,
+but it can create an unintended sense of urgency for the people who receive your message. Try to avoid creating
 that urgency when it’s not necessary. For example, by specifically saying that you don’t expect am immediate response.
 
 Unless they are actually urgent, you can ignore messages you receive
