@@ -2,7 +2,7 @@
 
 For an alpha or beta, or for a significant update to a live service, we run a roadmapping workshop.
 
-These are based on the [Seven questions to build a roadmap](http://www.jamiearnold.com/blog/2014/07/22/seven-questions-to-build-a-roadmap) described by Jamie Arnold.
+These are based on the [Seven questions to build a roadmap](https://www.jamiearnold.com/blog/2014/07/22/seven-questions-to-build-a-roadmap) described by Jamie Arnold.
 
 ## Questions for roadmapping
 

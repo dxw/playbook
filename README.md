@@ -15,7 +15,7 @@ section for more information.
 ## Licence
 
 dxw's playbook is released under a [Creative Commons
-Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/2.0/uk/)
+Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/2.0/uk/)
 licence. You are free to reuse and adapt this content with credit, for
 non-commercial purposes.
 
@@ -37,7 +37,7 @@ isn't of general interest, so it gets its own section.
 
 There is a guide to editing the playbook, and creating new content, in
 [contributing](contributing.md). This is also available
-on [the published playbook](http://playbook.dxw.com/#/contributing).
+on [the published playbook](https://playbook.dxw.com/#/contributing).
 
 ## Style
 
