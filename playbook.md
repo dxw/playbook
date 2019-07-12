@@ -115,7 +115,7 @@ At dxw, we think that agile is a mindset that’s accepting of change, curious
 about trying new approaches to make things better, and values careful planning
 in short chunks.
 
-We think that the [Agile Manifesto](http://agilemanifesto.org/) contains a lot
+We think that the [Agile Manifesto](https://agilemanifesto.org/) contains a lot
 of wisdom, but we don’t follow the industry of methodologies, training and
 certifications that has grown up around it. We think agile is something you
 learn to be, not something that you learn to do.
@@ -137,8 +137,8 @@ them down.
 
 dxw digital believe it's best to be open about what we're doing. We encourage our clients to do the same, as does the [service manual](https://www.gov.uk/service-manual). We talk, blog and write about what we're doing, and we are open about as much as we can.
 
-At dxw digital, we release [code](http://www.github.com/dxw), publish our
-[contracts](http://www.github.com/dxw/contracts) and things like this playbook
+At dxw digital, we release [code](https://www.github.com/dxw), publish our
+[contracts](https://www.github.com/dxw/contracts) and things like this playbook
 and talk with people about what we're up to because we believe that we'll
 ultimately have more opportunities to work, grow and improve than if we kept
 everything to ourselves.
@@ -155,7 +155,7 @@ However, there are some things that we must keep private.
 
 dxw cyber's work is usually more sensitive than dxw digital's. We still value openness and believe that it is important, but we have less freedom to talk about our work. Our clients expect us to keep almost everything about our work with them private.
 
-As with dxw digital, we also release [code](http://www.github.com/dxwcyber), publish our [contracts](http://www.github.com/dxw/contracts) and use this playbook. But we must tread with more care, to ensure that we maintain our obligations to clients not to release information that could compromise their systems or cause them embarassment.
+As with dxw digital, we also release [code](https://www.github.com/dxwcyber), publish our [contracts](https://www.github.com/dxw/contracts) and use this playbook. But we must tread with more care, to ensure that we maintain our obligations to clients not to release information that could compromise their systems or cause them embarassment.
 
 As a result, we take the opposite approach to dxw digital. We treat everything about our work as private and confidential, with these exceptions:
 
@@ -875,7 +875,7 @@ to:
 * Generate data about how much staff time is spent on each client's issues.
 
 If a client asks us to do something in person, on the phone or via email, we
-politely ask them to visit the [dxw Zendesk](http://dxw.zendesk.com/) instead,
+politely ask them to visit the [dxw Zendesk](https://dxw.zendesk.com/) instead,
 and submit a ticket there. This is so that:
 
 * We can keep track of the issue from report to solution, and ensure that it's

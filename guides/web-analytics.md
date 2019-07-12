@@ -35,7 +35,7 @@ GA uses a lot of jargon. It also has a tendency to present its data as absolute 
 * Average Time on Page: [Understanding Google Analytics’ Average Time on Page](https://blog.quiet.ly/insights/understanding-google-analytics-average-time-on-page/)
 * Bounce rate: [Adjusted Bounce Rate](https://moz.com/blog/adjusted-bounce-rate) (does a good job of explaining the limitations of bounce rate, and offers a workaround for them)
 * 'Direct' Traffic: [Guide to Direct Traffic](https://moz.com/blog/guide-to-direct-traffic-google-analytics)
-* "Next Page Path": [Misunderstood Metrics: Next Page Path](http://help.analyticsedge.com/googleanalytics/misunderstood-metrics-next-page-path/)
+* "Next Page Path": [Misunderstood Metrics: Next Page Path](https://help.analyticsedge.com/googleanalytics/misunderstood-metrics-next-page-path/)
 * View filtering: [A better alternative to exclude filters in Google Analytics](https://www.lunametrics.com/blog/2017/08/10/a-better-alternative-to-exclude-filters-in-google-analytics/). This is an article about Google Tag Manager, which exposes many of the configuration features of GA in JavaScript.
 
 ## Useful resources

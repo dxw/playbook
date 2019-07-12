@@ -15,7 +15,7 @@ section for more information.
 ## Licence
 
 dxw's playbook is released under a [Creative Commons
-Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/2.0/uk/)
+Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/2.0/uk/)
 licence. You are free to reuse and adapt this content with credit, for
 non-commercial purposes.
 

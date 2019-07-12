@@ -6,9 +6,9 @@ For an alpha or beta, or for a significant update to a live service, we run a [r
 For discovery focussed projects it can be less clear what the end result will be, and whether we’re 
 looking at a single service or cutting across several. So we use a broader set of questions.
 
-These are based on the [questions to frame a problem](http://www.hollidazed.co.uk/2015/07/28/frame-the-problem)
+These are based on the [questions to frame a problem](https://www.hollidazed.co.uk/2015/07/28/frame-the-problem)
 that [Ben Holiday](https://twitter.com/BenHolliday) wrote about,
-the [discovery inception categories](http://www.myddelton.co.uk/blog/setting-up-a-discovery)
+the [discovery inception categories](https://www.myddelton.co.uk/blog/setting-up-a-discovery)
 that [Will Myddelton](https://twitter.com/myddelton) described, along with some of the roadmapping questions.
 
 ## Questions for discovery

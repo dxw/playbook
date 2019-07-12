@@ -110,7 +110,7 @@ Bad signs:
 
 1. create a [pull request](#pull-requests) into the `develop` branch
 1. Link the Trello card to the new pull request, linking directly or by using
-   the Trello [power up](http://help.trello.com/article/1021-integrating-trello-with-zendesk)
+   the Trello [power up](https://help.trello.com/article/1021-integrating-trello-with-zendesk)
 1. move the Trello card into the 'Awaiting review column'
 
 ### Reviewing another developer's pull request
@@ -439,8 +439,8 @@ have chosen the following existing style guides for our work:
 
 - PHP - [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 - Ruby - [Ruby community style guide](https://github.com/bbatsov/ruby-style-guide)
-- Sass - [Sass Guidelines - Syntax and formatting](http://sass-guidelin.es/#syntax--formatting)
-- JavaScript - [Standard](http://standardjs.com/)
+- Sass - [Sass Guidelines - Syntax and formatting](https://sass-guidelin.es/#syntax--formatting)
+- JavaScript - [Standard](https://standardjs.com/)
 
 ---
 
