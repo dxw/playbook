@@ -1,8 +1,8 @@
-# Accessibility
+# Office accessibility
 
-## dxw digital office (London)
+## 8-9 Hoxton Square, dxw digital London
 
-The dxw digital London office is located in Hoxton Square.
+The dxw digital office in London is at 8-9 Hoxton Square.
 
 ### Transport
 
