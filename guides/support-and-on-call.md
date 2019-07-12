@@ -55,7 +55,7 @@ person will work on first line support for a week at a time, inside office
 hours.
 
 There are lots of details about [our approach to first line support in the
-playbook](http://playbook.dxw.com/#/?id=tickets).
+playbook](https://playbook.dxw.com/#/?id=tickets).
 
 ### Which things are my responsibility when I am on first line support?
 
@@ -150,5 +150,5 @@ and have included these in our [Service Level Agreement].
 [container hosting]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/510310707257680
 [blogging platform]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/713027320503110
 [campaign multisites]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/800359660030984
-[Service Level Agreement]: http://contracts.dxw.com/service_level_agreement.md.html
+[Service Level Agreement]: https://contracts.dxw.com/service_level_agreement.md.html
 [run-books]: https://git.govpress.com/ops/docs

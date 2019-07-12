@@ -16,7 +16,7 @@ GitHub allows us to:
 
 1. Present our ideas against those existing
 1. Discuss other people's ideas
-1. Find agreement and get things [changed](http://playbook.dxw.com/)
+1. Find agreement and get things [changed](https://playbook.dxw.com/)
 1. Store a history of our decision making
 
 ---
