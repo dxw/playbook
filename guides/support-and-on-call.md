@@ -55,7 +55,7 @@ person will work on first line support for a week at a time, inside office
 hours.
 
 There are lots of details about [our approach to first line support in the
-playbook](http://playbook.dxw.com/#/?id=tickets).
+playbook](https://playbook.dxw.com/#/?id=tickets).
 
 ### Which things are my responsibility when I am on first line support?
 

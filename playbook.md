@@ -24,7 +24,7 @@ one. So don't make changes unless they reflect our shared agreement about how th
 This document is also public, because there is very little about our process that cannot be open. But there will be
 some things that should be private. So don't forget that changes here get published to the world.
 
-To update the Playbook, follow the [guide to Contributing to the Playbook](http://playbook.dxw.com/#/contributing) and the [dxw style guide](http://playbook.dxw.com/#/guides/style-guide).
+To update the Playbook, follow the [guide to Contributing to the Playbook](https://playbook.dxw.com/#/contributing) and the [dxw style guide](https://playbook.dxw.com/#/guides/style-guide).
 
 ## Advisory Council
 
@@ -707,7 +707,7 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 
 #### User research guidance
 
-The Playbook includes detailed guidance on [how we do user research at dxw digital](http://playbook.dxw.com/#/guides/how-we-do-user-research).
+The Playbook includes detailed guidance on [how we do user research at dxw digital](https://playbook.dxw.com/#/guides/how-we-do-user-research).
 
 The guide starts with the user research workflow, which describes the things that user researchers usually do on projects, and then provides further guidance and links to resources for specific topics.
 
