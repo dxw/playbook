@@ -2,12 +2,12 @@
 
 - [Playbook](/)
 - Guides
-  - [Accessibility](guides/accessibility.md)
   - [Claiming expenses](guides/claiming-expenses.md)
   - [Contributing to the Playbook](contributing.md)
   - [Development workflow](guides/development-workflow.md)
   - [How we do pitches](guides/how-we-do-pitches.md)
   - [How we do user research](guides/how-we-do-user-research.md)
+  - [Office accessibility](guides/office-accessibility.md)
   - [Playbook style guide](guides/style-guide.md)
   - [Plugin advisories](guides/plugin-advisories.md)
   - [Plugin reviews](guides/plugin-reviews.md)
