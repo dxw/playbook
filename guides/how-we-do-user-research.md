@@ -12,7 +12,7 @@ Some of the guidance explains how to do user research in an effective, ethical a
 
 ## User research workflow
 
-These are the things that user researchers usually do on projects. 
+These are the things that user researchers usually do on projects.
 
 1. **Support sales and scheduling**
 

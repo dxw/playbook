@@ -3,7 +3,7 @@
 This guide explains how we run a kick-off workshop for a discovery project at dxw digital.
 
 For an alpha or beta, or for a significant update to a live service, we run a [roadmapping workshop]().
-For discovery focussed projects it can be less clear what the end result will be, and whether we’re 
+For discovery focussed projects it can be less clear what the end result will be, and whether we’re
 looking at a single service or cutting across several. So we use a broader set of questions.
 
 These are based on the [questions to frame a problem](https://www.hollidazed.co.uk/2015/07/28/frame-the-problem)
