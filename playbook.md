@@ -1080,7 +1080,7 @@ We then also think about what feedback could be given to whoever worked on the
 ticket, whether it would be sensible to discuss the problem as a team and change
 our process if necessary.
 
-### Scope
+#### Scope
 
 Clients can use the support service to ask for help with any aspect of the
 service we provide, including help with using the admin and advice on getting
