@@ -1947,6 +1947,18 @@ incurring them.
 We manage expenses using Xero. For more information about how to do this, see
 the [guide on claiming expenses](/guides/claiming-expenses)
 
+## Reporting our time
+
+Everyone who works on a client project at dxw digital is responsible for reporting the time they spend on projects. We usually work with our clients on a [time and materials basis](https://www.gov.uk/guidance/how-to-pay-for-digital-outcomes-and-specialists-services#time-and-materials), so it’s important we can accurately track and report how our time is spent on client projects.
+
+We use [10,000ft](https://app.10000ft.com/) to schedule our work, which helps us to forecast our capacity over future weeks and months in a reliable way. Each member of our delivery teams uses the tool to record the days they work on client projects.
+
+We track our time at the same level of granularity that we bill it – for almost everyone in the team, that’s half days or whole days.
+
+If you’re not doing client work, then unless you’re working on one of a handful of named internal projects you don’t need to record your time against anything – the assumption is you’re doing valuable work, whether it’s learning, helping with recruitment or improving our tooling and processes, and we don’t need itemised time tracking to justify that.
+
+Our delivery leads lend a helping hand when delivery team members aren’t sure how to record their time – they’ve been doing this for a long while and have a well developed sense for it.
+
 ### The buddy system
 
 The buddy system is the main way we help each other to perform well and improve
