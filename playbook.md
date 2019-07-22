@@ -1953,9 +1953,21 @@ Everyone who works on a client project at dxw digital is responsible for reporti
 
 We use [10,000ft](https://app.10000ft.com/) to schedule our work, which helps us to forecast our capacity over future weeks and months in a reliable way. Each member of our delivery teams uses the tool to record the days they work on client projects.
 
+We’ve set up the platform, so that it understands individual team members’ working patterns. This means the team don’t need to worry about entering in their non working days.
+
 We track our time at the same level of granularity that we bill it – for almost everyone in the team, that’s half days or whole days.
 
-If you’re not doing client work, then unless you’re working on one of a handful of named internal projects you don’t need to record your time against anything – the assumption is you’re doing valuable work, whether it’s learning, helping with recruitment or improving our tooling and processes, and we don’t need itemised time tracking to justify that.
+If you’re not doing client work, then unless you’re working on one of a handful of named internal projects, you don’t need to record your time against any other piece of work – the assumption is you’re doing valuable work, whether it’s learning, helping with recruitment or improving our tooling and processes, and we don’t need itemised time tracking to justify that.
+
+We should however record planned leave and sickness. Our Business Operations team update the schedule to reflect any planned leave, which helps us to look ahead at where there might be skills gaps on client work- this is recorded as “Out of office”.
+
+If we spend time away from the office sick or if we don’t end up working on a project that we had planned to, we need to reflect this too.
+
+When we record our time, we should;
+
+* confirm days spent on projects
+* record sickness
+* reflect what actually happened, even if this differs from the schedule
 
 Our delivery leads lend a helping hand when delivery team members aren’t sure how to record their time – they’ve been doing this for a long while and have a well developed sense for it.
 
