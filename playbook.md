@@ -556,30 +556,25 @@ The strategy team apply these principles to our work.
 
 Delivery leads at dxw are guided by these principles.
 
-1. **Maintain diplomacy**
-  * Encourage calmness and patience
-  * Ensure all voices are heard in a fair way
-  * Be proactive to get stuff done
+**Maintain diplomacy**
 
-1. **Demonstrate leadership**
-  * Have the autonomy to lead and to say no
-  * Empower delivery teams to do great things
-  * Coach others to get the best from them
+We encourage calmness and patience, we ensure all voices are heard in a fair way and we’re always proactive to get stuff done.
 
-1. **Show strength & resilience**
-  * Protect the team so they can focus
-  * Remove blockers and distraction
-  * Provide context and see the bigger picture
+**Demonstrate leadership**
 
-1. **Enable, empower & encourage**
-  * Create space for the team to deliver and individuals to thrive
-  * Build up trust with team / client / stakeholders to support decision making and progress
-  * Be supportive and demonstrate positivity with a focus on delivery
+We have the autonomy to lead and to say no, we’re responsible for empowering delivery teams to do great things and we coach others to get the best from them.
 
-1. **Prioritise learning & improving**
-  * Actively learn from what we do
-  * Take responsibility to ensure that learning feeds back into what we do next
-  * Facilitate communication and constructive conversation
+**Show strength & resilience**
+
+We protect the team so they can focus, we remove blockers and distraction and we provide context and see the bigger picture.
+
+**Enable, empower & encourage**
+
+We create space for the team to deliver and individuals to thrive, we build up trust with the team, our clients and our stakeholders to support decision making and progress and we’re always supportive and demonstrate positivity, with a focus on delivery.
+
+**Prioritise learning & improving**
+
+We actively learn from what we do and take responsibility to ensure that learning feeds back into what we do next and we stand by our ability to facilitate communication and constructive conversation.
 
 ### Product management
 
