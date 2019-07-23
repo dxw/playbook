@@ -1947,27 +1947,29 @@ incurring them.
 We manage expenses using Xero. For more information about how to do this, see
 the [guide on claiming expenses](/guides/claiming-expenses)
 
-## Reporting our time
+### Reporting our time
 
 Everyone who works on a client project at dxw digital is responsible for reporting the time they spend on projects. We usually work with our clients on a [time and materials basis](https://www.gov.uk/guidance/how-to-pay-for-digital-outcomes-and-specialists-services#time-and-materials), so it’s important we can accurately track and report how our time is spent on client projects.
 
-We use [10,000ft](https://app.10000ft.com/) to schedule our work, which helps us to forecast our capacity over future weeks and months in a reliable way. Each member of our delivery teams uses the tool to record the days they work on client projects.
+We use [10,000ft](https://app.10000ft.com/) to schedule our work, which helps us to forecast our capacity over future weeks and months in a reliable way. 
 
-We’ve set up the platform, so that it understands individual team members’ working patterns. This means the team don’t need to worry about entering in their non working days.
+Our Commercial Operations team update the schedule to reflect any planned leave, which helps us to look ahead - this is recorded as “Out of office". Each member of our delivery team uses the tool to record the days they work on client projects on a weekly basis.
 
 We track our time at the same level of granularity that we bill it – for almost everyone in the team, that’s half days or whole days.
 
+#### What to do when reporting your time
+
+When reporting our time, we follow these guidelines:
+
+* If you worked on a named project (client or internal), record your time as that.
+* If you worked on something else, leave the time blank or zero out what you were scheduled to work on.
+* If you were off sick, record your time as "Sick".
+* If you had unplanned leave, record your time as "Out of office".
+* If you were away due to a regular day off, as part of your working pattern, leave the time blank.
+
 If you’re not doing client work, then unless you’re working on one of a handful of named internal projects, you don’t need to record your time against any other piece of work – the assumption is you’re doing valuable work, whether it’s learning, helping with recruitment or improving our tooling and processes, and we don’t need itemised time tracking to justify that.
 
-We should however record planned leave and sickness. Our Business Operations team update the schedule to reflect any planned leave, which helps us to look ahead at where there might be skills gaps on client work- this is recorded as “Out of office”.
-
-If we spend time away from the office sick or if we don’t end up working on a project that we had planned to, we need to reflect this too.
-
-When we record our time, we should;
-
-* confirm days spent on projects
-* record sickness
-* reflect what actually happened, even if this differs from the schedule
+We’ve set up the platform, so that it understands individual team members’ working patterns. This means the team don’t need to worry about entering in their non working days.
 
 Our delivery leads lend a helping hand when delivery team members aren’t sure how to record their time – they’ve been doing this for a long while and have a well developed sense for it.
 
