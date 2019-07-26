@@ -1677,9 +1677,9 @@ When working on a project we work as a single multi-disciplinary team. We’re o
 
 **Internal facing**: Internal facing roles, in which time is not billable to a client, have a more regularly structured five day working week. Everybody is encouraged to take part in Friday work, at least occasionally.
 
-#### dxw Fridays
+#### dxw days
 
-We come back together as a team to work on our own projects and processes each Friday. Those Fridays are important for us to maintain our strong culture and identity, separate from the clients we work for. Our sprints start on a Wednesday and end on the Tuesday two weeks later.
+We regularly come back together as a team to work on our own projects and processes, normally each Friday. These dxw days are important for us to maintain our strong culture and identity, separate from the clients we work for. Our sprints start on a Wednesday and end on the Tuesday two weeks later.
 
 ### How you can work
 
