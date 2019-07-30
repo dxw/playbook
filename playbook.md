@@ -971,30 +971,32 @@ to build an appropriate hosting platform for their service. This is fair
 enough, because they shouldn't have to. We built GovPress to meet this need,
 and it is now used by most of our clients.
 
+We build [websites](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/930612236449495), [campaign](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/691308552308120) and [blogging](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/355674790119695) platforms hosted on GovPress, configured to our client’s branding requirements.
+
 You can read more about GovPress at
 [www.govpress.com](https://www.govpress.com).
 
-We're in the process of building a new container-based hosting platform which
-will be able to support services that aren't built in WordPress. Watch this
-space.
+### Tailored support
+
+We also offer support for services that aren't built in WordPress. We are able to host and support services with our [tailored support plan for cloud applications](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/393702576050692), even if your service isn't hosted with us.
 
 ### Support helpdesk
 
 The dxw Technical Operations team build, manage and run GovPress, as well as
-provide first-line support.
+providing first-line support for our clients on tailored support plans.
 
 We use [Zendesk](https://dxw.zendesk.com) to manage support requests. Any
 incidents, requests for us to fix a problem or make a change to a site must
 come to us via Zendesk as a ticket. We use tickets to manage requests in order
 to:
 
-* Keep track of all the things we need to do, and what state they're in
+* Ensure oversight of all the things we need to do, and what state they're in, for us and our clients
 * Have a record of the changes we're asked to make
 * Ensure that we only accept change requests from people who are authorised
 * Generate data about how much staff time is spent on each client's issues.
 
 If a client asks us to do something in person, on the phone or via email, we
-politely ask them to visit the [dxw Zendesk](https://dxw.zendesk.com/) instead,
+ask them to visit the [dxw Zendesk](https://dxw.zendesk.com/),
 and submit a ticket there. This is so that:
 
 * We can keep track of the issue from report to solution, and ensure that it's
@@ -1002,86 +1004,19 @@ and submit a ticket there. This is so that:
 * We don't risk misunderstanding the problem by writing it down based on a
   verbal explanation
 * We can formally track the changes that people ask for, by documenting them in
-  tickets that we can look at later if need to
-* We can be sure that requests are coming from people who are authorised to
-  submit them
+  tickets that we can look at later if we need to
 
 For these reasons, we do not do any work on a client website or service unless
-we are working on a development sprint or on a relevant ticket. We think this
+we are working during scheduled development time or on a relevant ticket. We think this
 is really important.
 
-#### Support sprints
+#### Support weeks
 
-We work on tickets by having a developer on a support sprint. Developers are
-assigned to support for two weeks at a time and work on tickets for the
-duration of the sprint. If there is a ticket they need another developer to
-help with, this work is scheduled.
-
-#### Client experience (AKA: ticket principles)
-
-##### Be responsive
-
-Clients expect us to deal with their issues promptly. But they understand that
-this isn't always possible. They are generally forgiving of the fact that we're
-sometimes busy, and they understand that some issues are complex and require
-long investigations.
-
-The thing most clients value above all else is being kept informed of what is
-going on. The first quality of a good ticket experience is responsiveness: we
-keep clients informed of what we're doing, even if there hasn't been much
-progress.
-
-##### Stick to your commitments
-
-It's really important that we do what we say we'll do, and don't promise things
-we can't deliver. If we're unable to deal with a ticket in good time and leave
-an update saying we'll work on it tomorrow, we must meet that commitment.
-
-It is doubly bad to fail to meet a commitment and not say anything about it.
-Responsiveness is always the priority. So if for some reason we couldn't do what
-we said we'd do, we always respond to say so.
-
-##### Make a good impression
-
-In tickets as in all things, we are mindful of dxw's [values](#values).
-
-Most clients' routine contact with us is via support tickets, so it's vital that
-our clients' experience of the support system is a good one, and also that they
-have a positive experience with us personally.
-
-We are always considerate, and think about what style of response is best. For
-example, technical clients may appreciate short, information-dense responses,
-while non-technical clients might perceive that style as rude or dismissive.
-
-In general:
-
-* We are personable, friendly and helpful
-* If things look like they're going to get difficult or the client seems unhappy, we are honest and assume good faith
-* If we screw something up, we take responsibility and apologise. If the client seems very upset, we let a delivery lead know.
-* If we do become annoyed or frustrated by a ticket, we respond later or speak to a delivery lead about reassigning it.
-
-##### Don't over-deliver
-
-Of course, every client would like us to go the extra mile to solve their
-problem. But they also understand that to do that for them would mean bad
-service for another client - or that we never get to their issue, because we're
-too busy gold-plating the solution to someone else's.
-
-While we do everything we can to make sure the client is happy with our
-solution, we are also mindful of what's practical. We don't do serious bits of
-development work on tickets, or trial new approaches. We don't play with new
-tools or sink hours into interesting bugs. We set those things aside, and do
-them later.
-
-The main purpose of a ticket is to take some action that solves the problem, as
-quickly as possible. Generally speaking, we do the most time-efficient thing
-that we can. Of several potential solutions that solve the problem, assuming
-none is a bad one, we do the one which can be implemented the most quickly.
+We work on tickets by having a developer assigned to our support team on a weekly rota. Developers work on tickets for the duration of their support week. If there is a ticket they need another developer to help with, this work is scheduled.
 
 #### Deciding what to work on
 
-You are free to work on whichever of your assigned tickets you think is most
-important. But there are some important things to bear in mind.
+Developers on support are free to work on whichever tickets they are assigned to and think is most important. But there are some important things to bear in mind.
 
 ##### Triage
 
@@ -1089,71 +1024,19 @@ We all have limited time. We try to spend it wisely. All other things being
 equal, it is better to spend half an hour solving each of four tickets than to
 spend two hours on one issue.
 
-##### Procrastinating
-
-We don't procrastinate about dealing with difficult tickets. Most of our SLA
-breaches happen when a complex ticket arrives and is assigned to a busy person.
-In this situation, it's only natural that we prefer to do other work first. But
-it is vital that we don't let the hard tickets gather dust while we crack
-through the easy ones, so we try to be mindful of this bias.
-
 ##### Priority
 
 The priority of tickets is important, and we must be biased towards dealing with
 more urgent tickets before less urgent ones.
-
-Zendesk can help us to balance these factors. When you log in and land on the
-dashboard, you will see a list of your tickets, ordered by age and priority.
-
-Unless there's a good reason not to, we deal with tickets in the order they are
-displayed. There's a "play" button at the top right hand corner of the ticket
-list that will serve up each ticket in turn, moving to the next as you mark
-things open, pending or solved.
-
-Zendesk knows each ticket's age, the time it's been since it was updated, its
-priority and the time left until we breach our SLA. Generally speaking, it makes
-good decisions about priority.
 
 Each ticket's priority should be reviewed regularly: whenever we update a
 ticket, we check the priority to make sure it's still right.
 
 #### Initial investigation
 
-When we pick up new tickets or are assigned one where no investigation has yet
-happened, we complete an initial investigation. If you don't have the right
-skills for the issue or are not familiar enough with the project to know what to
-do, reassign the ticket to a more appropriate agent, or consult a delivery
-manager.
-
 It's important that we don't make changes unless we thoroughly understand what
 we're being asked to do, and are confident that the client understands and has
-approved of the implications of the change. To that end, there are a few things
-we do when a new ticket arrives.
-
-##### Complete all fields
-
-All the fields on a ticket are important. Early in the process, we fill them
-in - including the type.
-
-The priority and project fields are especially important. We always review them
-to make sure that they are correct. dxw's [Service Level
-Agreement](https://dxw.zendesk.com/hc/en-us/articles/205117695) explains what
-the different priorities mean.
-
-##### Understand the request
-
-We make sure that we understand the request that the client is making. When
-tickets arrive, they do not always describe the issue clearly. There is some
-[guidance](https://dxw.zendesk.com/hc/en-us/articles/200814655-Tips-for-submitting-tickets)
-you can send to clients if their tickets are often difficult to understand.
-
-If you're not sure what the client is asking, ask questions. You can call them
-if you think that it would be easier just to have a conversation about the
-problem.
-
-When you've reached an understanding of the situation the client is in and what
-they'd like you to do about it, write it on the ticket in an internal note, so
-that any other agent looking at the ticket has an easier time.
+approved of the implications of the change.
 
 ##### Replicate the bug
 
@@ -1161,9 +1044,6 @@ If the issue is a bug, we replicate the behaviour the client has reported before
 working on a fix. It's important that we can reliably and repeatably create the
 conditions necessary for the bug to arise before we start working on it. If we
 don't do this, we can't tell whether we've fixed the problem.
-
-Sometimes, we find that the steps we need to follow are not exactly the same as
-those given by the client. If so, add an internal note with your findings.
 
 ##### Ensure the client has understood and approved the change
 
@@ -1177,32 +1057,10 @@ approaches and ideas if we have them - including where there's a better
 solution, but [at a cost](#charging-for-ticket-work). We always give options
 when we can.
 
-If you are in any doubt as to whether the client has understood and approved the
-change that you are about to make, explain it to them and ask for their explicit
-approval. It's fine to do this on the phone if that is more convenient, but if
-you do, update the ticket with a comment what you said and what was agreed.
-
-#### Following up on bad client feedback
-
-The work described in this section is the responsibility of **delivery
-managers**.
-
-After each ticket is solved, the requester is emailed to ask for their feedback
-on our performance. Our feedback is generally very good.
-
-However, we do occasionally get feedback that we have not dealt with a ticket
-well. In these situations, we always follow up with the ticket requester
-personally to understand what went wrong. If applicable, we offer to do more
-work to set the situation straight.
-
-We then also think about what feedback could be given to whoever worked on the
-ticket, whether it would be sensible to discuss the problem as a team and change
-our process if necessary.
-
 #### Scope
 
 Clients can use the support service to ask for help with any aspect of the
-service we provide, including help with using the admin and advice on getting
+service we provide, including help with using the admin panel and advice on getting
 the best out of their site.
 
 But there are some limitations. Under the support service, we do not:
@@ -1226,23 +1084,19 @@ But there are some limitations. Under the support service, we do not:
   if we've spent a couple of hours on an updated-related bug and it's still not fixed,
   we're probably dealing with one.
 * From time to time, we may make an exception to these restrictions. If you
-  think that might be appropriate, ask Harry or a delivery lead. In all the
+  think that might be appropriate, ask a delivery lead. In all the
   above cases, we can offer to quote for the required work.
-
-Finally, there is an overarching principle that we don't do anything on a ticket
-that is very time consuming or that is objectively a bad idea. If you think
-you're in this situation, ask a delivery lead for advice.
 
 #### Charging for ticket work
 
 If you decide that a ticket asks for work to be done which falls outside this
 scope, then the work is chargeable. In this situation, we reassign the ticket to
-a delivery lead with an explanation.
+a delivery lead or the business development manager with an explanation.
 
 It is good to try to think of alternative approaches that we could do under our
 support service before taking this step - seek advice if you're unsure.
 
-The delivery lead you assign the ticket to will then treat it as a
+The person you assign the ticket to will then treat it as a
 [lead](#leads), and contact the client to make a plan.
 
 ## Sales
