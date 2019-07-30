@@ -480,7 +480,7 @@ A new registration form and fix a bug with contacts
 
 We don't use explicit versioning for frontend projects; rather we operate a continuous deployment approach as described in the [deploying](#deploying) section.
 
-However, when building libraries, APIs, or other software components designed for reuse, versioning is important. All reusable components should have properly versioned releases. This includes Wordpress plugins and themes, ruby gems, and so on, whether open source or otherwise.
+However, when building libraries, APIs, or other software components designed for reuse, versioning is important. All reusable components should have properly versioned releases. This includes Wordpress plugins and themes, Ruby gems, and so on, whether open source or otherwise.
 
 Versioning should follow the [Semantic Versioning](https://semver.org) standard, and projects that use them should specify their requirements so that the appropriate versions are used.
 
