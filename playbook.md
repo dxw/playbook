@@ -971,7 +971,7 @@ to build an appropriate hosting platform for their service. This is fair
 enough, because they shouldn't have to. We built GovPress to meet this need,
 and it is now used by most of our clients.
 
-We build [websites](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/930612236449495), [campaign](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/691308552308120) and [blogging](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/355674790119695) platforms hosted on GovPress, configured to our client’s branding requirements.
+We offer [managed hosting and support](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/930612236449495) for WordPress websites, as well as [blogging](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/355674790119695) and [campaigns](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/691308552308120) platforms, through the GCloud framework, configured to our client's branding requirements, all on our GovPress hosting platform.
 
 You can read more about GovPress at
 [www.govpress.com](https://www.govpress.com).
@@ -990,7 +990,7 @@ incidents, requests for us to fix a problem or make a change to a site must
 come to us via Zendesk as a ticket. We use tickets to manage requests in order
 to:
 
-* Ensure oversight of all the things we need to do, and what state they're in, for us and our clients
+* Keep track of all the things we need to do, and what state they're in, for us and our clients
 * Have a record of the changes we're asked to make
 * Ensure that we only accept change requests from people who are authorised
 * Generate data about how much staff time is spent on each client's issues.
@@ -1013,6 +1013,43 @@ is really important.
 #### Support weeks
 
 We work on tickets by having a developer assigned to our support team on a weekly rota. Developers work on tickets for the duration of their support week. If there is a ticket they need another developer to help with, this work is scheduled.
+
+#### Client experience (AKA: ticket principles)
+
+##### Be responsive
+
+Clients expect us to deal with their issues promptly. But they understand that this isn't always possible. They are generally forgiving of the fact that we're sometimes busy, and they understand that some issues are complex and require long investigations.
+
+The thing most clients value above all else is being kept informed of what is going on. The first quality of a good ticket experience is responsiveness: we keep clients informed of what we're doing, even if there hasn't been much progress.
+
+##### Stick to your commitments
+
+It's really important that we do what we say we'll do, and don't promise things we can't deliver. If we're unable to deal with a ticket in good time and leave an update saying we'll work on it tomorrow, we must meet that commitment.
+
+It is doubly bad to fail to meet a commitment and not say anything about it. Responsiveness is always the priority. So if for some reason we couldn't do what we said we'd do, we always respond to say so.
+
+##### Make a good impression
+
+In tickets as in all things, we are mindful of dxw's [values](http://playbook.dxw.com/#/?id=values).
+
+Most clients' routine contact with us is via support tickets, so it's vital that our clients' experience of the support system is a good one, and also that they have a positive experience with us personally.
+
+We are always considerate, and think about what style of response is best. For example, technical clients may appreciate short, information-dense responses, while non-technical clients might perceive that style as rude or dismissive.
+
+In general:
+
+* We are personable, friendly and helpful
+* If things look like they're going to get difficult or the client seems unhappy, we are honest and assume good faith
+* If we screw something up, we take responsibility and apologise. If the client seems very upset, we let a delivery lead know.
+* If we do become annoyed or frustrated by a ticket, we respond later or speak to a delivery lead about reassigning it.
+
+##### Don't over-deliver
+
+Of course, every client would like us to go the extra mile to solve their problem. But they also understand that to do that for them would mean bad service for another client - or that we never get to their issue, because we're too busy gold-plating the solution to someone else's.
+
+While we do everything we can to make sure the client is happy with our solution, we are also mindful of what's practical. We don't do serious bits of development work on tickets, or trial new approaches. We don't play with new tools or sink hours into interesting bugs. We set those things aside, and do them later.
+
+The main purpose of a ticket is to take some action that solves the problem, as quickly as possible. Generally speaking, we do the most time-efficient thing that we can. Of several potential solutions that solve the problem, assuming none is a bad one, we do the one which can be implemented the most quickly.
 
 #### Deciding what to work on
 
@@ -1091,7 +1128,7 @@ But there are some limitations. Under the support service, we do not:
 
 If you decide that a ticket asks for work to be done which falls outside this
 scope, then the work is chargeable. In this situation, we reassign the ticket to
-a delivery lead or the business development manager with an explanation.
+a delivery lead or someone from the client services team with an explanation.
 
 It is good to try to think of alternative approaches that we could do under our
 support service before taking this step - seek advice if you're unsure.
