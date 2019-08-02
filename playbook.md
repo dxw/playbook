@@ -971,7 +971,7 @@ to build an appropriate hosting platform for their service. This is fair
 enough, because they shouldn't have to. We built GovPress to meet this need,
 and it is now used by most of our clients.
 
-We offer [managed hosting and support](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/930612236449495) for WordPress websites, as well as [blogging](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/355674790119695) and [campaigns](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/691308552308120) platforms, through the GCloud framework, configured to our client's branding requirements, all on our GovPress hosting platform.
+We offer [managed hosting and support](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/930612236449495) for WordPress websites, as well as [blogging](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/355674790119695) and [campaigns](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/691308552308120) platforms, through the G-Cloud framework, configured to our client's branding requirements, all on our GovPress hosting platform.
 
 You can read more about GovPress at
 [www.govpress.com](https://www.govpress.com).
