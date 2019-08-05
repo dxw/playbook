@@ -489,5 +489,3 @@ Releases should be created by:
 - updating the version appropriately in package metadata and committing to git
 - tagging that commit using a tag of the form `vX.Y.Z`
 - building the appropriate release package from that tag
-
-Software that has not previously been versioned, but has already been used in production, should start at version `v1.0.0`.
