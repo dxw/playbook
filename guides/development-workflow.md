@@ -478,7 +478,7 @@ A new registration form and fix a bug with contacts
 
 ## Versioning releases
 
-We don't use explicit versioning for frontend projects; rather we operate a continuous deployment approach as described in the [deploying](#deploying) section.
+We don't use explicit versioning for application code; rather we operate a continuous deployment approach as described in the [deploying](#deploying) section.
 
 However, when building libraries, APIs, or other software components designed for reuse, versioning is important. All reusable components should have properly versioned releases. This includes Wordpress plugins and themes, Ruby gems, and so on, whether open source or otherwise.
 
