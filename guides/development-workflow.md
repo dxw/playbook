@@ -10,6 +10,7 @@
 - [Code review](#code-review)
 - [Code style](#code-style)
 - [Pull requests](#pull-requests)
+- [Versioning releases](#versioning-releases)
 
 ## Introduction
 
@@ -474,3 +475,17 @@ A new registration form and fix a bug with contacts
 - Passwords are encrypted using BCrypt, so I've taken this opportunity to
   increase the default rounds from 8 to 12
 ```
+
+## Versioning releases
+
+We don't use explicit versioning for application code; rather we operate a continuous deployment approach as described in the [deploying](#deploying) section.
+
+However, when building libraries, APIs, or other software components designed for reuse, versioning is important. All reusable components should have properly versioned releases. This includes Wordpress plugins and themes, Ruby gems, and so on, whether open source or otherwise.
+
+Versioning should follow the [Semantic Versioning](https://semver.org) standard, and projects that use them should specify their requirements so that the appropriate versions are used.
+
+Releases should be created by:
+
+- updating the version appropriately in package metadata and committing to git
+- tagging that commit using a tag of the form `vX.Y.Z`
+- building the appropriate release package from that tag
