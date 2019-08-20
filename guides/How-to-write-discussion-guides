@@ -1,0 +1,70 @@
+# How to write good discussion guides
+### (For us and the client)
+
+We use discussion guides to help us plan an interview, workshop or usability test. They help us keep track of the purpose of an activity and what we want to get from it, but they are also a useful tool to keep our clients involved with how we are going to collect data based on their project goals. This guide will outline some of the most important elements that should be included when we write them. This will also be supported by three templates for session types such as:
+* Discovery such as Contextual or 1-2-1 interviews
+* Usability (alpha/beta testing)
+* Workshops
+
+This guide and templates are just that, a guide. They should be adapted to suit how you prefer to work and for what is best for your research approach. However, there are 6 key areas we should be covering when we write them.
+
+## 1. Housekeeping
+It’s quite likely that your guide will be picked up by someone else over time, therefore it’s important that we make our guides traceable. We should also try to remain consistent across researchers and projects to ensure every client has the same experience with our templates and tools. Housekeeping includes:
+* Consistent file naming structure such as: 
+  * **YYMMDD CLIENT** Discussion Guide - **RESEARCH TYPE**
+  * E.g. 190408 Passport Office Discussion Guide - Beta
+ * Front cover
+  * Client name
+  * Project name
+  * Issue/Version control - with what has changed
+  * Date
+  * Main contact (who wrote it)
+
+## 2. Introduction and research outline
+Imagine someone has to pick up and use this guide without you being there, and with no background to the project. The introduction should include important information about what you already know, and what you want to find out by doing this research. 
+
+The research outline should include details on the methodology, [recruitment specification table](https://docs.google.com/document/d/1Ov9l-_rKsQnO81GZlIhPMjdLYvf1gi33PI5VARssdT4/edit#heading=h.um4m3itqsiaf), number of sessions you plan to conduct and how you plan to conduct them. It should also link to the [notes template](https://drive.google.com/drive/folders/1MAUax08jwwqNd1BWfH-gixSbltY2qE-m) you want to use.
+
+## 3. Before the session
+This should mirror the [user research workflow](https://playbook.dxw.com/#/guides/how-we-do-user-research), by making sure that the participant has seen a research information sheet, consent form and any other information to make them aware of what the session will cover. This should all be done before your session starts.
+
+## 4. Welcome
+The welcome is all about settling the participant into the session, making sure they are comfortable and letting them know what’s going on. It can be helpful to write this out work for word so you have something to fall back on if you’re unsure (especially at the start of sessions). After you’ve completed a few sessions, a bullet point list may be enough for you to go on.
+
+The welcome should include things such as:
+* **Thank you** - start off by letting participants know you appreciate them offering their time (incentivised or not)
+* **Introduce yourself** - name, role, company and who you are working for
+* We are **independent researchers**, working on behalf of a client
+* **Signed consent/NDA** (if applicable) - has this been done? Any questions?
+* **No right or wrong answers**, we’re only interested in what the participant thinks and the influences behind that
+* **Talk aloud as you go** - easier said than done, but this is incredibly important when testing prototypes of existing services
+* **Be honest** - as researchers we won’t be offended by any comments, we just want to find out what people really think about a service and how it might be improved
+* **Research purpose** - Recap what the session will focus on (without giving away too much detail that may alter behaviour) e.g. We’re interested in finding out more about why and how you would contact organisations like Ofsted or, we’re trying to learn more about how you would complete “x” task.
+* **Session set up** - who is taking notes or observing the session, recording set up, how long the session will take, what we’ll be doing in that time (e.g. general discussion, tasks, card sorting etc.) so that participants know what to expect.
+* **Remind them it is voluntary** - they can choose to stop at any time.
+
+## 5. The session
+Break your session into parts so that it’s easier for you to jump between topics. As a bare minimum this should have a warm up, main section and wrap up. Usually the main section will have several parts.
+
+In the guide itself, it should be useful for you and for anyone else involved who may be less familiar with research practices. It should include:
+* An explanation about what you are aiming to cover in the section
+* Key questions, written in full. Try to ensure these are always open questions starting with where, why, how, what, when… Avoid closed questions where possible (questions that can be answered with yes or no or one word answers).
+* Prompts to cover that support the key question
+* Notes to the moderator e.g. things for you to observe or take note of during an activity 
+* Timings - although it’s not always possible to stick to timings, it’s a useful exercise when writing the guide to think about how long each section could take so that you don’t try to cover too much and end up rushing.
+* Priorities - sometimes project teams will want to add in a lot of questions that may not be a priority for that sprint. Make it clear in your guide what could be skipped if you are pressed for time.
+
+### Discussion guide templates:
+[Usability research](https://drive.google.com/drive/folders/1SyXfqiqhw1svbAU9AOkOkqlpWa_z2lyj)
+[Contextual research](https://docs.google.com/document/d/1XeBhmQL0jqFFsl2Cw-DOKVpabTRILGl-TjeyUDW90vM/edit)
+[Workshops](https://docs.google.com/document/d/1ZHZwLBnUlDsxrvv1qj_ZpFU9QGsP_dIDLMVcGbEYswY/edit)
+
+There is also a handy [workshop planning tool](https://docs.google.com/spreadsheets/d/1rU98GmCGjUerHVS1bTq2d_F1Ib8GsYKfYMgIPgvrPNo/edit) to help you figure out timings for activities. 
+
+## 6. Wrap up
+Leave time in your session to conclude the session. Show the participant that you’ve been listening by summarising what you’ve done or heard in the session. It can be useful to ask the participant to summarise their experience to check your understanding of what you have seen.
+
+Usually observers will have their own questions too, so allow yourself time to check in with them and to get those answered. If possible, make sure you are the one asking the question so that it’s asked in a useful way.
+
+Finally, thank the participant for their time, check to see if they have any questions themselves and let them know what will happen next (incentive, what you’re going to do with the data etc.)
+
