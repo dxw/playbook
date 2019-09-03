@@ -32,7 +32,7 @@ These are the things that user researchers usually do on projects.
 
    This helps teams to learn about all their users and produce services that work well for everyone.
 
-1. **Do research activities**
+1. **Plan and do research activities**
 
    This is the most obvious and visible part of our work. We choose research activities that provide strong evidence and reliable answers, for the least time, effort and cost. And we choose activities that help our teams and different kinds of users to participate.
 
