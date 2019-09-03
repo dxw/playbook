@@ -2081,14 +2081,14 @@ We track our time at the same level of granularity that we bill it – for almos
 When reporting our time, we follow these guidelines:
 
 * If what was scheduled matches reality, simply confirm this time.
-* If you worked on a named project (client or internal), that differs from the schedule, record your time as that.
+* If you worked on a named project (client or internal including "dxw Support"), that differs from the schedule, record your time as that.
 * If you worked on something else, leave the time blank or zero out what you were scheduled to work on.
 * If you were away on planned leave, confirm your time as "Out of office".
 * If you were off sick, record your time as "Sick".
 * If you had unplanned leave, record your time as "Out of office".
 * If you were away due to a regular day off, as part of your working pattern, leave the time blank or zero out what you were scheduled to work on.
 
-If you’re not doing client work, then unless you’re working on one of a handful of named internal projects, you don’t need to record your time against any other piece of work – the assumption is you’re doing valuable work, whether it’s learning, helping with recruitment or improving our tooling and processes, and we don’t need itemised time tracking to justify that.
+If you’re not doing client work, then unless you’re working on one of a handful of named internal projects or support, you don’t need to record your time against any other piece of work – the assumption is you’re doing valuable work, whether it’s learning, helping with recruitment or improving our tooling and processes, and we don’t need itemised time tracking to justify that.
 
 We’ve set up the platform, so that it understands individual team members’ working patterns. This means the team don’t need to worry about entering in their non working days.
 
