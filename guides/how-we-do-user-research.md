@@ -64,7 +64,6 @@ These are the things that user researchers usually do on projects.
 
    This helps teams to get the most from the research data they collect, while protecting the privacy of the people taking part.
 
-
 ## How we write and use discussion guides
 
 We create discussion guides to help us plan and do research activities, like interviews, visits, workshops and usability tests.
@@ -133,7 +132,6 @@ We have template discussion guides for three different kinds of research activit
 * [Face to face interviews and contextual research](https://docs.google.com/document/d/1XeBhmQL0jqFFsl2Cw-DOKVpabTRILGl-TjeyUDW90vM)
 * [Usability tests](https://drive.google.com/drive/folders/1SyXfqiqhw1svbAU9AOkOkqlpWa_z2lyj)
 * [Workshops](https://docs.google.com/document/d/1ZHZwLBnUlDsxrvv1qj_ZpFU9QGsP_dIDLMVcGbEYswY/)
-
 
 ## How we get informed consent for user research
 
@@ -226,7 +224,6 @@ For paper consent forms, scan or photograph the signed consent form and keep the
 For email responses, keep a copy of the consent form and of the participant’s reply in the folder with the research data you collect in the session.
 
 Make sure the consent form, email reply and any research data have the same participant identifier. Do not include participant names or other personal identifiers in the document names.
-
 
 ## When and how we give incentives to research participants
 
