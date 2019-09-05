@@ -129,9 +129,9 @@ Also include any steps for the researcher, like collecting and storing recording
 ### Three discussion guide templates
 
 We have template discussion guides for three different kinds of research activities:
-* [Face to face interviews and contextual research](https://docs.google.com/document/d/1XeBhmQL0jqFFsl2Cw-DOKVpabTRILGl-TjeyUDW90vM)
-* [Usability tests](https://drive.google.com/drive/folders/1SyXfqiqhw1svbAU9AOkOkqlpWa_z2lyj)
-* [Workshops](https://docs.google.com/document/d/1ZHZwLBnUlDsxrvv1qj_ZpFU9QGsP_dIDLMVcGbEYswY/)
+* [Interviews and contextual research](https://drive.google.com/open?id=1XeBhmQL0jqFFsl2Cw-DOKVpabTRILGl-TjeyUDW90vM)
+* [Usability tests](https://drive.google.com/open?id=1hcVkLGJVDB9ZOoMIz93erUpk1RUgXN_ZcZflJxsFpHw)
+* [Workshops](https://drive.google.com/open?id=1ZHZwLBnUlDsxrvv1qj_ZpFU9QGsP_dIDLMVcGbEYswY)
 
 ## How we get informed consent for user research
 
