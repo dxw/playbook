@@ -12,7 +12,7 @@ write that down.
 
 dxw now encompasses dxw digital and dxw cyber. Many of the values and ways of working are the same across both businesses. So we have one Playbook for both, with any differences marked.
 
-This Playbook was orginally inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
+This Playbook was originally inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
 
 ### Updating the Playbook
 
