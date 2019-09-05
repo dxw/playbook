@@ -64,6 +64,77 @@ These are the things that user researchers usually do on projects.
 
    This helps teams to get the most from the research data they collect, while protecting the privacy of the people taking part.
 
+
+## How we write and use discussion guides
+
+We create discussion guides to help us plan and do research activities, like interviews, visits, workshops and usability tests.
+
+They help us to:
+ * keep track of the purpose of the research activity and what we want to get from it
+ * review planned activities with team members and stakeholders so we stay aligned with project goals
+ * stay on track during research sessions
+ * make sure researchers cover the same topics so participants have a consistent experience
+ * maintain a record of what we did in each research activity
+
+### Housekeeping
+It’s important that team members and stakeholders know they have the right discussion guide.
+
+So we give disussion guides consistent file names like:
+  * YYYY MM DD - CLIENT - PROJECT - Discussion Guide - RESEARCH ACTIVITY
+  * For example, 2019 04 08 - HM Passport Office - Renewals Beta - Discussion Guide - Usability Testing
+
+And a consistent front cover with:
+  * Client name
+  * Project name
+  * Date
+  * Main contact (who wrote it)
+
+### The parts of a discussion guide
+
+#### Introduction
+Recap the goals of the project and the research activity, describe the methods you’ll be using, and set out the overall structure of the research session.
+
+#### Preparation
+Describe anything the researcher needs to have or do, to prepare for the session. Reference things like the information sheet to send to participants, describe how to set up the prototype you’ll be testing, and reference the [notes template](https://drive.google.com/drive/folders/1MAUax08jwwqNd1BWfH-gixSbltY2qE-m) you want to use.
+
+#### Welcome
+Set out the things you'll say to the participant to let them them know what’s going on and make sure they feel comfortable. It can be helpful to write this out word for word, so you have something to fall back on when you’re tired, or get interrupted or distracted.
+
+The welcome should include things like:
+* **Thank you** - start off by letting participants know you appreciate them offering their time (incentivised or not)
+* **Introduce yourself** - name, role, company and who you are working for
+* We are **independent researchers**, working on behalf of a client
+* **Signed consent/NDA** (if applicable) - has this been done? Any questions?
+* **No right or wrong answers**, we’re only interested in what the participant thinks and the influences behind that
+* **Talk aloud as you go** - easier said than done, but this is incredibly important when testing prototypes of existing services
+* **Be honest** - as researchers we won’t be offended by any comments, we just want to find out what people really think about a service and how it might be improved
+* **Research purpose** - Recap what the session will focus on (without giving away too much detail that may alter behaviour) e.g. We’re interested in finding out more about why and how you would contact organisations like Ofsted or, we’re trying to learn more about how you would complete “x” task.
+* **Session set up** - who is taking notes or observing the session, recording set up, how long the session will take, what we’ll be doing in that time (e.g. general discussion, tasks, card sorting etc.) so that participants know what to expect.
+* **Remind them it is voluntary** - they can choose to stop at any time.
+
+#### Topics and activities
+Have a section in your guide for each of the main interview topics, test tasks or workshop tasks.
+
+For each one write out:
+* What you are trying to learn
+* For an interview topic, the starter questions you’ll ask along with likely follow up topics
+* For a task, the steps to do, and any instructions and explanations for participants
+* How long the topic or task is likely take
+* The priority - is this topic or task essential, or could you leave it out if you’re short of time
+
+#### Wrap up
+Describe how the researcher should conclude the sessions with the participants. This can include asking the participants for their final thoughts, asking them how the session went for them, letting them know what will happen next, and thanking them for their time.
+
+Also include any steps for the researcher, like collecting and storing recordings, or deleting data from prototypes.
+
+### Three discussion guide templates
+
+We have template discussion guides for three different kinds of research activities:
+* [Face to face interviews and contextual research](https://docs.google.com/document/d/1XeBhmQL0jqFFsl2Cw-DOKVpabTRILGl-TjeyUDW90vM)
+* [Usability tests](https://drive.google.com/drive/folders/1SyXfqiqhw1svbAU9AOkOkqlpWa_z2lyj)
+* [Workshops](https://docs.google.com/document/d/1ZHZwLBnUlDsxrvv1qj_ZpFU9QGsP_dIDLMVcGbEYswY/)
+
+
 ## How we get informed consent for user research
 
 You must have informed consent from participants before you start any research activity with them. And you must then act only within the consent the participant has given.
@@ -155,6 +226,7 @@ For paper consent forms, scan or photograph the signed consent form and keep the
 For email responses, keep a copy of the consent form and of the participant’s reply in the folder with the research data you collect in the session.
 
 Make sure the consent form, email reply and any research data have the same participant identifier. Do not include participant names or other personal identifiers in the document names.
+
 
 ## When and how we give incentives to research participants
 
