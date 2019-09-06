@@ -1226,7 +1226,7 @@ But there are some limitations. Under the support service, we do not:
   if we've spent a couple of hours on an updated-related bug and it's still not fixed,
   we're probably dealing with one.
 * From time to time, we may make an exception to these restrictions. If you
-  think that might be appropriate, ask Harry or a delivery lead. In all the
+  think that might be appropriate, ask a delivery lead. In all the
   above cases, we can offer to quote for the required work.
 
 Finally, there is an overarching principle that we don't do anything on a ticket
@@ -1843,7 +1843,7 @@ leave you can use [shared parental leave](#shared-parental-leave).
 If you're having a baby, adopting a child, or having a baby
 through surrogacy, you may be eligible for [Shared Parental Leave and
 Pay](https://www.gov.uk/shared-parental-leave-and-pay). If you're interested in
-taking this up, please talk to Vanessa.
+taking this up, please talk to the People Manager.
 
 #### Keep in touch (KIT) days
 
@@ -1868,7 +1868,7 @@ There is a category, "WFH", for this purpose.
 
 #### Facilities/Purchasing/Technical Support
 
-Anytime you need to order something, notice a problem in the office (eg. a broken chair or dripping tap) or you need some help with your laptop or the printer - there is a Slack channel for it. If in doubt, please speak to the Business Operations team (Steph, Liam or Vee) and they’ll point you in the right direction.
+Anytime you need to order something, notice a problem in the office (eg. a broken chair or dripping tap) or you need some help with your laptop or the printer - there is a Slack channel for it. If in doubt, please speak to the Business Operations team and they’ll point you in the right direction.
 
 ```
 #dxw-facilities
@@ -1880,11 +1880,11 @@ Anytime you need to order something, notice a problem in the office (eg. a broke
 
 When you join dxw you will be assigned a helper. This person will work closely with you for at least your first 4 months. They will do a similar job to you, help you meet members of the wider team, catch up with you on at least a 3/6/12 week basis to ensure you are receiving everything you need, and will NEVER get bored of your questions!
 
-If you feel that you’re not getting as much time with your helper as you’d like, please speak to People Manager, Vee.
+If you feel that you’re not getting as much time with your helper as you’d like, please speak to the People Manager.
 
 As a helper, you will be vital in ensuring you have the regular catch ups - if you are finding it hard to schedule them, please do talk to Bus Ops.
 
-For more information on being a helper, please see the [checklist](https://docs.google.com/document/d/1Dc3IRZ_ze7QzMQTHO70ZC6hU8cig5ds7LN2MoHmPBe8/edit) or speak to Vee.
+For more information on being a helper, please see the [checklist](https://docs.google.com/document/d/1Dc3IRZ_ze7QzMQTHO70ZC6hU8cig5ds7LN2MoHmPBe8/edit) or speak to the People Manager.
 
 #### Buddies
 
@@ -1892,7 +1892,7 @@ Once you have passed your 4 month probation, we would like you to choose a buddy
 
 We recommend this person **doesn’t** work directly with you, someone in a different role and that you don’t work closely with on projects, as this will give you a second pair of ears and a whole new set of experiences to draw on.
 
-This is not mandatory, just recommended and similarly not everyone may wish to be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t have to be.  Also, if you feel that a change of buddy would benefit you for whatever reason or that you’re no longer able to be a buddy - this should also not be an awkward situation. If you have any concerns, have a chat with Vee.
+This is not mandatory, just recommended and similarly not everyone may wish to be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t have to be.  Also, if you feel that a change of buddy would benefit you for whatever reason or that you’re no longer able to be a buddy - this should also not be an awkward situation. If you have any concerns, have a chat with the People Manager.
 
 If you want to know more about how the buddy system works, how often to meet and suggested discussion topics, see the buddy [crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing). This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet up.
 
@@ -1921,7 +1921,7 @@ The list is not exhaustive but some topics might include:
 * Grievance and disciplinary matters
 * Facilitation/scheduling of conversations with Heads of, such as Salary Reviews
 
-Bookable slots are available on Wednesdays and Fridays at 11am but Vee’s door is always open.
+Bookable slots are available on Wednesdays and Fridays at 11am but the People Manager’s door is always open.
 
 #### Delivery Lead
 
@@ -2117,7 +2117,7 @@ The buddy system is there to help us all improve, to make sure we're doing the
 right kind of work and to check that we're dealing with practical problems we're
 facing. It's not line management, so it's not the right place to talk about
 holiday, salary, sickness, absence or anything disciplinary. If you need to talk
-about those things, talk to Vee or Harry.
+about those things, talk to the People Manager.
 
 There are a two main ideas that underpin this system.
 
@@ -2300,7 +2300,7 @@ The Government closed the Childcare Vouchers scheme to new entrants on 4th Octob
 
 The government has introduced new ways to help parents with childcare costs which you access directly: [www.childcarechoices.gov.uk](www.childcarechoices.gov.uk)
 
-For more information, please speak to Vanessa.
+For more information, please speak to the People Manager.
 
 #### Conference Perk
 
@@ -2415,7 +2415,7 @@ The process for writing a new post is:
 
 * Write the post and save in Google drive
 * Have peers review your post and suggest changes (if required)
-* When you're happy with the post, ask Harry to sign it off
+* When you're happy with the post, ask the Marketing team to sign it off
 * Send the post to CommsCrowd to see if they might want to pitch it to publications
 * When ready, add the post to WordPress as a draft and agree a publication time with the team
 * Write a tweet to promote your post and add it to Buffer, scheduled to go out when the post is public
