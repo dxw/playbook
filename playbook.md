@@ -28,7 +28,7 @@ To update the Playbook, follow the [guide to Contributing to the Playbook](https
 
 ## Advisory Council
 
-dxw digital and dxw cyber do not have external investors or shareholders. To help keep us honest, we are very lucky to have a voluntary advisory council, made up of a small group of senior figures, who meet quarterly to discuss and provide guidance on our strategy, business plan and other topics related to company health and progression. The group have a wealth of experience of public and private sector work, as well beings friends of dxw that share our values.
+dxw digital and dxw cyber do not have external investors or shareholders. To help keep us honest, we are very lucky to have a voluntary advisory council, made up of a small group of senior figures, who meet quarterly to discuss and provide guidance on our strategy, business plan and other topics related to company health and progression. The group have a wealth of experience of public and private sector work, as well as being friends of dxw that share our values.
 
 ## Working at dxw
 
@@ -266,21 +266,21 @@ behind a shared vision and goals for the project.
 
 At a high level, we believe the purpose of each phase is:
 
-**Inception**: Establish a single, multi-displinary team with the client. Bring
+**Inception**: Establish a single, multi-disciplinary team with the client. Bring
 everyone together for a kick-off session to agree principles for how we'll work
 together. Run a roadmapping workshop to define a set of goals and vision for
 the project. The roadmap also clearly defines dependencies and risks, and a
-list of things to learn or prove to form the basis of a user research plan
+list of things to learn or prove to form the basis of a user research plan.
 
 **Discovery**: Carry out research to define users and understand their needs.
 Document findings, user needs and user journeys. Sometimes this phase also
 involves conducting technical discovery work to look at different technologies
-and solutions that might meet users' needs
+and solutions that might meet users' needs.
 
 **Alpha**: Translate user needs into prototypes. Test prototypes with users and
 iterate them based on feedback. We also use the alpha phase to carry out
 technical spikes and experiments, and to make initial technology and service
-design decisions
+design decisions.
 
 **Beta**: Build a working version of the service, based on what we learnt in
 alpha. Carry out regular usability testing of the service with users, and
@@ -293,7 +293,7 @@ new features to meet them.
 
 **Retirement**: Work out how user needs will be met without your service.
 Provide help and guidance, archiving, and links to other services. Don't leave
-people in the lurch; never let a link die
+people in the lurch; never let a link die.
 
 We don't always do all these phases for every client. Often, we'll only be
 involved in a couple. But we can help with all or any of them, depending on our
@@ -432,12 +432,12 @@ stage a given story is in.
     the second developer who leaves feedback if the pull request is not ready to
     be merged and needs further work
 * **dxw/client review**: The two developers
-    have finished the review and the story is now merged and pushed to staging. It
+    have finished the review and the story has been merged and pushed to staging. It
     is ready for a delivery lead and the client to review against its
     acceptance criteria
 * **Accepted**: The client has accepted the story and it's
   ready to deploy to production
-* **Done**: The story is deployed to production
+* **Done**: The story has been deployed to production
 
 ### Managing delivery
 
@@ -616,7 +616,7 @@ Product managers at dxw follow these principles.
 
    Being available to the team to discuss the unexpected and share in the decision making is central to building empowered and protected teams.
 
-   Product Managers should regularly and actively communicate, review and defend our decisions - especially the unplanned or unexpected ones.
+   Product managers should regularly and actively communicate, review and defend our decisions - especially the unplanned or unexpected ones.
 
 1. **Maintain a focus on outcomes**
 
@@ -888,7 +888,7 @@ We are the team that enables and encourages dxw to achieve its mission(s) and up
 
 1. The unit of delivery is always the team, so we ensure staff wellbeing by providing a safe and inclusive environment. We also support our people to thrive in all stages of their careers, ensuring they have chance to continually learn, as well as excellent facilities and the right tools to enable them to succeed in their careers.
 
-1. We ensure dxw is compliant with all the relevant company and employment regulations, ensuring we have ISO27001 accreditation, abide by GDPR guidelines and insurance.
+1. We ensure dxw is compliant with all the relevant company and employment regulations, ensuring we have ISO 27001 accreditation, abide by GDPR guidelines and insurance.
 
 1. Commercial and business operations can be thankless, but to manage expectations we remain resilient and take responsibility for our work by effectively communicating about what we do and why we do it.
 
@@ -1223,7 +1223,7 @@ But there are some limitations. Under the support service, we do not:
   Directory and suggest one, which we can then check and install.
 * Fix complex problems that come up after a plugin or WordPress core update is
   applied. Exactly what constitutes a complex problem is at our discretion. But
-  if we've spent a couple of hours on an updated-related bug and it's still not fixed,
+  if we've spent a couple of hours on an update-related bug and it's still not fixed,
   we're probably dealing with one.
 * From time to time, we may make an exception to these restrictions. If you
   think that might be appropriate, ask a delivery lead. In all the
@@ -1326,7 +1326,7 @@ is, based on the information we have.
 
 Where we don't think we could do what the client needs within their budget, we
 explore alternative options with them that are more affordable. Sometimes this
-works out, sometimes not. That's ok. Where it does, it tends to be because we've
+works out, sometimes not. That's OK. Where it does, it tends to be because we've
 made a good case that it's better to have a small feature set that works really
 well than a large one that's slightly disappointing.
 
@@ -1425,7 +1425,7 @@ with the detailed feedback.
 
 ### Administration
 
-There's quite a lot of work involved in given sale, as it moves through the
+There's quite a lot of work involved in a given sale, as it moves through the
 stages of the pipeline. To help manage this, we have tasks in PipelineDeals that
 are automatically created when leads' statuses change. We can all do things to
 help this process flow smoothly. Some of us are responsible for particular
@@ -1441,10 +1441,10 @@ We use [Workable](https://dxw.workable.com) for recruitment, to help us stay
 organised and keep in touch with candidates.
 
 Each candidate moves through a number of stages before being offered a job or
-declined: a screening interview via skype or phone, an interview and a work day.
+declined: a screening interview via Skype or phone, an interview and a work day.
 The work day includes another interview.
 
-We feel strongly that it's important to be respectful of candidates time and
+We feel strongly that it's important to be respectful of candidates' time and
 interest in us, and that their attention is valuable. So we do our best to be
 responsive, human and open. It's particularly important to give unsuccessful
 candidates good, thorough feedback about why we haven't made them an offer.
@@ -1453,7 +1453,7 @@ candidates good, thorough feedback about why we haven't made them an offer.
 
 Before we decide to advertise a new job, we write a job description. This helps
 us make sure we all agree on what we need, and helps candidates to know if their
-skills are a good for for the job. A good job description has three parts:
+skills are a good fit for the job. A good job description has three parts:
 
 1. A description of what the person in this job will do
 1. A list of their responsibilities
@@ -1475,7 +1475,7 @@ know. Everyone who is willing tweets about the job and shares it on Facebook and
 other social networks.
 
 The second way we find people is by advertising. We advertise jobs on
-StackOverflow, Github, WorkInStartups and Unicorn Hunt. Not all jobs go on all
+Stack Overflow, GitHub, WorkInStartups and Unicorn Hunt. Not all jobs go on all
 of these boards - we pick whatever seems most appropriate for the job.
 
 The third way we find people is by making sure we're regularly blogging about
@@ -1522,7 +1522,7 @@ broach the topic, leave it to the end. When you're about to finish the call, you
 can say something like:
 
 "Thanks for talking to me. Before we finish, please could you give me an idea
-the salary you'd like?"
+of the salary you'd like?"
 
 If the candidate suggests a number that is unexpectedly high or low, it's also
 worth asking what they are paid in their current role.
@@ -1637,7 +1637,7 @@ hours by arrangement. Anyone is free to do that as long as their hours of work
 don't make it hard for other people to get things done. For example, many people
 arrive earlier than 10:00 and leave earlier, which is generally fine.
 
-Each team has a short stand-up every morning, where we each tell the whole team about
+Each team has a short standup every morning, where we each tell the whole team about
 a single thing we will get done that day. If you think you're going to be late, you should
 let everyone know in the project Slack channel.
 
@@ -1653,7 +1653,7 @@ life at dxw.
 
 Sending emails or posting in Slack outside of working hours can be a good way to get things off your mind,
 but it can create an unintended sense of urgency for the people who receive your message. Try to avoid creating
-that urgency when it’s not necessary. For example, by specifically saying that you don’t expect am immediate response.
+that urgency when it’s not necessary. For example, by specifically saying that you don’t expect an immediate response.
 
 Unless they are actually urgent, you can ignore messages you receive
 outside of working hours and handle them when you are back at work.
@@ -1702,7 +1702,7 @@ For example, when working a 4 day week, the pro rata leave allowance will be 20 
 
 Everybody is expected to work seven hours a day. Normal office hours are 10am–6pm.
 
-If you’d prefer to start a little earlier and finish a little earlier (say 9am–5pm), this is definitely ok and can happen without any formal discussion for all roles.
+If you’d prefer to start a little earlier and finish a little earlier (say 9am–5pm), this is definitely OK and can happen without any formal discussion for all roles.
 
 If you’d prefer your working hours to start after 10am or finish before 5pm (still keeping to seven hours), we’re happy to discuss this and either **might** be possible. The impact of this would be less for internal facing roles than for client facing roles, but both would require a discussion.
 
@@ -1722,7 +1722,7 @@ Generally, we work either at our office or at client sites.
 
 We’re happy to support working from home from a logistical or well-being related perspective. While we don’t support fully-remote roles (legacy arrangements being the exception), we can look at anything from 1–3 days per week following a discussion.
 
-If you need to work from home for a one-off thing then that doesn’t require contractual arrangement – just talk about it with your team before the day, make sure you note it in your calendar and include it in your stand up note that day.
+If you need to work from home for a one-off thing then that doesn’t require contractual arrangement – just talk about it with your team before the day, make sure you note it in your calendar and include it in your standup note that day.
 
 #### Requesting a change of working arrangement
 
@@ -1868,7 +1868,7 @@ There is a category, "WFH", for this purpose.
 
 #### Facilities/Purchasing/Technical Support
 
-Anytime you need to order something, notice a problem in the office (eg. a broken chair or dripping tap) or you need some help with your laptop or the printer - there is a Slack channel for it. If in doubt, please speak to the Business Operations team and they’ll point you in the right direction.
+Anytime you need to order something, notice a problem in the office (e.g. a broken chair or dripping tap) or you need some help with your laptop or the printer - there is a Slack channel for it. If in doubt, please speak to the Business Operations team and they’ll point you in the right direction.
 
 ```
 #dxw-facilities
@@ -1892,7 +1892,7 @@ Once you have passed your 4 month probation, we would like you to choose a buddy
 
 We recommend this person **doesn’t** work directly with you, someone in a different role and that you don’t work closely with on projects, as this will give you a second pair of ears and a whole new set of experiences to draw on.
 
-This is not mandatory, just recommended and similarly not everyone may wish to be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t have to be.  Also, if you feel that a change of buddy would benefit you for whatever reason or that you’re no longer able to be a buddy - this should also not be an awkward situation. If you have any concerns, have a chat with the People Manager.
+This is not mandatory, just recommended and similarly not everyone may wish to be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t have to be.  Also, if you feel that a change of buddy would benefit you for whatever reason or that you’re no longer able to be a buddy, this should also not be an awkward situation. If you have any concerns, have a chat with the People Manager.
 
 If you want to know more about how the buddy system works, how often to meet and suggested discussion topics, see the buddy [crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing). This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet up.
 
@@ -1915,7 +1915,7 @@ The list is not exhaustive but some topics might include:
 * Working patterns/locations
 * Training and career progression
 * Diversity
-* Stress Management
+* Stress management
 * Interpersonal issues
 * Bereavement
 * Grievance and disciplinary matters
@@ -1925,7 +1925,7 @@ Bookable slots are available on Wednesdays and Fridays at 11am but the People Ma
 
 #### Delivery Lead
 
-There will be opportunities within the delivery team to raise any issues or concerns you might have e.g retrospectives or planning sessions. As well as this, or if you’d prefer to talk one on one the delivery lead working on the project will be available to provide support and guidance.
+There will be opportunities within the delivery team to raise any issues or concerns you might have e.g. retrospectives or planning sessions. As well as this, or if you’d prefer to talk one on one the delivery lead working on the project will be available to provide support and guidance.
 
 #### Heads of
 
@@ -1933,13 +1933,13 @@ All members of the Heads-of team are here to help answer any questions you might
 
 #### Our MD, Dave
 
-At dxw, all doors are open if you need to raise a concern of just have a chat - this includes our MD. Dave is always available to discuss any questions you have about the company and its future. Equally, if you feel you need to escalate anything to him, don’t hesitate to get in touch. If he’s not around, talk to Farrah so she can arrange some time with him.
+At dxw, all doors are open if you need to raise a concern or just have a chat - this includes our MD. Dave is always available to discuss any questions you have about the company and its future. Equally, if you feel you need to escalate anything to him, don’t hesitate to get in touch. If he’s not around, talk to Farrah so she can arrange some time with him.
 
 ### Data protection
 
 Though dxw doesn't control much personal data, our clients generally do. And
 some of it may be held on sites that we host. Everyone at dxw has a
-responsibility to keep that data safe, and process it in accordance to the [data
+responsibility to keep that data safe, and process it in accordance with the [data
 protection
 principles](https://www.gov.uk/data-protection/the-data-protection-act).
 
@@ -2119,7 +2119,7 @@ facing. It's not line management, so it's not the right place to talk about
 holiday, salary, sickness, absence or anything disciplinary. If you need to talk
 about those things, talk to the People Manager.
 
-There are a two main ideas that underpin this system.
+There are two main ideas that underpin this system.
 
 #### We are each responsible for our own improvement
 
@@ -2207,7 +2207,7 @@ discussions about client work.
 
 Exactly the same controls apply to this information as detailed under
 Management-in-confidence, with the exception that Company Confidential
-information can be shared within the dxw as required.
+information can be shared within dxw as required.
 
 #### Client Confidential or Commercial in Confidence
 
@@ -2317,7 +2317,7 @@ No restrictions regarding the type of event or where, as long as it’s within
 budget. If appropriate, it’d be great if you would talk about your experience in
 a blog post.
 
-It's ok for members of the team to go together, but Head of Delivery gets final
+It's OK for members of the team to go together, but Head of Delivery gets final
 say if there's an impact on work, as with any other leave.
 
 You can book your perk through BreatheHR as a training request, with weblinks and an estimate of the
@@ -2413,7 +2413,7 @@ spend our dxw time writing.
 
 The process for writing a new post is:
 
-* Write the post and save in Google drive
+* Write the post and save in Google Drive
 * Have peers review your post and suggest changes (if required)
 * When you're happy with the post, ask the Marketing team to sign it off
 * Send the post to CommsCrowd to see if they might want to pitch it to publications
