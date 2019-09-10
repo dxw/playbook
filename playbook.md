@@ -1933,7 +1933,7 @@ All members of the Heads-of team are here to help answer any questions you might
 
 #### Our MD, Dave
 
-At dxw, all doors are open if you need to raise a concern or just have a chat - this includes our MD. Dave is always available to discuss any questions you have about the company and its future. Equally, if you feel you need to escalate anything to him, don’t hesitate to get in touch. If he’s not around, talk to Farrah so she can arrange some time with him.
+At dxw, all doors are open if you need to raise a concern or just have a chat - this includes our MD. Dave is always available to discuss any questions you have about the company and its future. Equally, if you feel you need to escalate anything to him, don’t hesitate to get in touch. Dave's diary is open and you can see it on Google Calendar. If you would like to schedule some time with him, please feel free to book something.
 
 ### Data protection
 
