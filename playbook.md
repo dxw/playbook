@@ -1010,12 +1010,12 @@ For these reasons, we do not do any work on a client website or service unless
 we are working on a development sprint or on a relevant ticket. We think this
 is really important.
 
-#### Support sprints
+#### Support rota
 
-We work on tickets by having a developer on a support sprint. Developers are
-assigned to support for two weeks at a time and work on tickets for the
-duration of the sprint. If there is a ticket they need another developer to
-help with, this work is scheduled.
+We work on tickets by having a developer on support according to a rota.
+Developers are assigned to support for one week at a time and work on tickets
+for the whole week. If there is a ticket they need another developer to help
+with, this work is scheduled.
 
 #### Client experience (AKA: ticket principles)
 
