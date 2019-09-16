@@ -146,9 +146,9 @@ Outside office hours, the expected response depends on the severity of the
 incident. We have a set of factors that determine the severity of an incident,
 and have included these in our [Service Level Agreement].
 
-[GovPress hosting]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/432689933684667
-[container hosting]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/510310707257680
-[blogging platform]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/713027320503110
-[campaign multisites]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/800359660030984
+[GovPress hosting]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/930612236449495
+[container hosting]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/754953588860938
+[blogging platform]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/355674790119695
+[campaign multisites]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/691308552308120
 [Service Level Agreement]: https://contracts.dxw.com/service_level_agreement.md.html
 [run-books]: https://git.govpress.com/ops/docs
