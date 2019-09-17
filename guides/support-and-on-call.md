@@ -55,7 +55,7 @@ person will work on first line support for a week at a time, inside office
 hours.
 
 There are lots of details about [our approach to first line support in the
-playbook](https://playbook.dxw.com/#/?id=tickets).
+playbook](https://playbook.dxw.com/#/?id=hosting-and-supporting-services).
 
 ### Which things are my responsibility when I am on first line support?
 
@@ -65,7 +65,7 @@ responding to them or delegating to colleagues as appropriate.
 #### Alerts
 
 We use monitoring and alerts to notify you when an issue occurs, and provide
-[run-books] to help you respond to events and restore service for our clients.
+[runbooks] to help you respond to events and restore service for our clients.
 
 #### Tickets
 
@@ -137,7 +137,7 @@ While on call, your responsibility is making sure all the services we support
 are running correctly and effectively.
 
 As with in-hours support, we use monitoring and alerts to notify you an issue
-occurs and provide [run-books] to help you respond. The difference to in-hours
+occurs and provide [runbooks] to help you respond. The difference to in-hours
 support is that you’ll only be alerted when [a high-severity
 issue](https://docs.google.com/document/d/1Y_uhCQEKyyFyDI_oM-FhAf4LyvFIziTfOtwPfi8LqOs/edit)
 occurs, and you aren’t expected to take action out of hours unless alerted.
@@ -146,9 +146,9 @@ Outside office hours, the expected response depends on the severity of the
 incident. We have a set of factors that determine the severity of an incident,
 and have included these in our [Service Level Agreement].
 
-[GovPress hosting]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/432689933684667
-[container hosting]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/510310707257680
-[blogging platform]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/713027320503110
-[campaign multisites]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/800359660030984
+[GovPress hosting]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/930612236449495
+[container hosting]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/754953588860938
+[blogging platform]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/355674790119695
+[campaign multisites]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/691308552308120
 [Service Level Agreement]: https://contracts.dxw.com/service_level_agreement.md.html
-[run-books]: https://git.govpress.com/ops/docs
+[runbooks]: https://git.govpress.com/ops/docs
