@@ -1718,7 +1718,7 @@ We are happy to have a discussion about compressed hours for internal-facing rol
 
 35 hours in 3 days, for example, is a no across all roles. It goes against our encouragement of [sustainable pace](#sustainable-pace).
 
-To address annual leave and bank holidays – a holiday day is 7 hours, so holiday entitlement should be considered as 175 hours and split accordingly given the compressed working day is 8 hours 45 minutes. We prefer that no member of the team should work on a bank holiday and the non working day be scheduled as such.
+For working patterns with the same number of hours each day, holiday allowance can be treated the same as for [part-time roles](#part-time-working). For working patterns with varied hours, the annual allowance for both holiday and bank holidays should be counted in hours (231 hours per year) and bank holidays that fall on working days must be booked as leave.
 
 #### Remote working/location
 
