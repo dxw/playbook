@@ -1710,7 +1710,11 @@ Salary and holiday allowances would remain the same.
 
 #### Compressed hours
 
-If you’d like to work compressed hours, for example; 35 hours in 4 days, 9.30am–6.45pm we would support a discussion for both internal facing roles and client facing roles but cannot guarantee this would be an option. The latter would require further consideration due to the impact on active synchronous collaboration.
+Compressed hours involves working your full hours in fewer days. For example: 35 hours in 4 days, 9.30am–6.45pm.
+
+We don't offer compressed hours for client-facing roles due to the complications for the way we bill our time and present our services to clients.
+
+We are happy to have a discussion about compressed hours for internal-facing roles but cannot guarantee this would be an option.
 
 35 hours in 3 days, for example, is a no across all roles. It goes against our encouragement of [sustainable pace](#sustainable-pace).
 
