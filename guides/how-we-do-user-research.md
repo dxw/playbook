@@ -118,7 +118,7 @@ For each one write out:
 * What you are trying to learn
 * For an interview topic, the starter questions you’ll ask along with likely follow up topics
 * For a task, the steps to do, and any instructions and explanations for participants
-* How long the topic or task is likely take
+* How long the topic or task is likely to take
 * The priority - is this topic or task essential, or could you leave it out if you’re short of time
 
 #### Wrap up
