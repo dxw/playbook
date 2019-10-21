@@ -109,16 +109,16 @@ Describe anything the researcher needs to have or do, to prepare for the session
 #### Welcome
 Set out the things you'll say to the participant to let them them know what’s going on and make sure they feel comfortable. It can be helpful to write this out word for word, so you have something to fall back on when you’re tired, or get interrupted or distracted.
 
-The welcome should include things like:
-* **Thank you** - Start off by letting the participant know you appreciate them offering their time (incentivised or not)
-* **Introduce yourself** - Name, role, company and who you are working for
-* We are **independent researchers**, working on behalf of a client
-* **Research purpose** - Explain what you’re trying to find out, eg We’re interested in how you recruit teachers for your school
+In your welcome you should:
+* **Say thank you** - Start off by letting the participant know you appreciate them offering their time (incentivised or not)
+* **Introduce yourself** - Let them know your name, role, company and who you are working for
+* **State your relationship to the client** - We are **independent researchers**, working on behalf of a client
+* **Summarise the research purpose** - Explain what you’re trying to find out, eg We’re interested in how you recruit teachers for your school
 * **Remind them it is voluntary** - They can choose to stop at any time
-* **No right or wrong answers** - We’re interested in how the participant thinks and what influences that
-* **Be honest** - As researchers we won’t be offended by any comments, we just want to find out what people really think about a service and how it might be improved
-* **Session set up** - Let the participant know who is taking notes or observing, how you are recording the session, how long the session will take, and what you’ll be doing in that time, so the participant knows what to expect
-* **Consent and non-disclosure** - Has this been done? Any questions?
+* **Reassure tham that there are no right or wrong answers** - We’re interested in how the participant thinks and what influences that
+* **Ask them to be honest** - As researchers we won’t be offended by any comments, we just want to find out what people really think about a service and how it might be improved
+* **Describe how the session will go** - Let the participant know who is taking notes or observing, how you are recording the session, how long the session will take, and what you’ll be doing in that time, so the participant knows what to expect
+* **Check consent and non-disclosure** - Has this been done? Do they have any questions?
 
 #### Topics, tasks and activities
 Have a section in your guide for each of the main interview topics, test tasks or workshop activities.
