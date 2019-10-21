@@ -110,15 +110,14 @@ Describe anything the researcher needs to have or do, to prepare for the session
 Set out the things you'll say to the participant to let them them know what’s going on and make sure they feel comfortable. It can be helpful to write this out word for word, so you have something to fall back on when you’re tired, or get interrupted or distracted.
 
 The welcome should include things like:
-* **Thank you** - start off by letting the participant know you appreciate them offering their time (incentivised or not)
-* **Introduce yourself** - name, role, company and who you are working for
+* **Thank you** - Start off by letting the participant know you appreciate them offering their time (incentivised or not)
+* **Introduce yourself** - Name, role, company and who you are working for
 * We are **independent researchers**, working on behalf of a client
 * **Research purpose** - Explain what you’re trying to find out, eg We’re interested in how you recruit teachers for your school
-* **Remind them it is voluntary** - they can choose to stop at any time
-* **No right or wrong answers**, we’re only interested in what the participant thinks and the influences behind that
-* **Be honest** - as researchers we won’t be offended by any comments, we just want to find out what people really think about a service and how it might be improved
-* **Session set up** - who is taking notes or observing, how you are recording the session, how long the session will take, what we’ll be doing in that time, so that participants know what to expect
-* **Talk aloud as you go** - easier said than done, but this is incredibly important when testing prototypes of existing services
+* **Remind them it is voluntary** - They can choose to stop at any time
+* **No right or wrong answers** - We’re interested in how the participant thinks and what influences that
+* **Be honest** - As researchers we won’t be offended by any comments, we just want to find out what people really think about a service and how it might be improved
+* **Session set up** - Let the participant know who is taking notes or observing, how you are recording the session, how long the session will take, and what you’ll be doing in that time, so the participant knows what to expect
 * **Consent and non-disclosure** - Has this been done? Any questions?
 
 #### Topics, tasks and activities
@@ -127,7 +126,9 @@ Have a section in your guide for each of the main interview topics, test tasks o
 For each one write out:
 * What you are trying to learn
 * For an interview topic, the starter questions you’ll ask along with likely follow ups
-* For a test task or workshop activity, the steps to do, and any instructions and explanations for participants
+* For a test task or workshop activity
+  - the steps to do
+  - explanations and instructions for participants, such asking them to think out loud during a test so you can understand what’s happening
 * How long the topic, task or activity is likely to take
 * The priority - is this essential, or could you leave it out if you’re short of time
 
