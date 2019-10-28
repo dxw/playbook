@@ -1736,7 +1736,7 @@ If you have an alternative working arrangement, you should make sure it’s refl
 
 #### TOIL
 
-Where possible we try to keep a sustainable pace of work and avoid working outside normal hours occasionally this might not be possible. If this is the case then we offer TOIL to ensure that you get the extra time back.
+Where possible we try to keep a sustainable pace of work and avoid working outside normal hours; occasionally this might not be possible.
 
 ##### How is TOIL calculated?
 
