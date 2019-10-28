@@ -1688,7 +1688,7 @@ The list is not exhaustive but some topics might include:
 * Grievance and disciplinary matters
 * Facilitation/scheduling of conversations with Directors/heads-of, such as Salary Reviews
 
-Bookable slots are available on Wednesdays and Fridays at 11am but the People & HR Manager’s door is always open.
+Bookable slots are available on Wednesdays and Fridays at 11am but the People Manager’s door is always open.
 
 #### Delivery Lead (for those on client work)
 
