@@ -1734,6 +1734,22 @@ If you would like to discuss a change to the standard working pattern, you can e
 
 If you have an alternative working arrangement, you should make sure it’s reflected in your calendar so the rest of the team can be confident in knowing when you are and aren’t around.
 
+#### TOIL
+
+Where possible we try to keep a sustainable pace of work and avoid working outside normal hours occasionally this might not be possible. If this is the case then we offer TOIL to ensure that you get the extra time back.
+
+**How is TOIL calculated?**
+
+TOIL (time off in lieu) is awarded when you work over and above your contracted working hours continuously for a period of time or when you attend/travel to an event outside of your contracted working hours. TOIL should be agreed with your delivery lead or line manager ahead of doing the extra work.
+
+We encourage you to use your TOIL within the two weeks of extra work or event attended as it's meant to be for resting and making up for working  at a sustainable pace.  We know this may not be feasible in every case so please speak to your Line Manager or a member of the HR team if you have any questions. 
+
+There are two options of how to use your TOIL, you can calculate the amount of hours you have accrued (ie half a day) and take it off at once or take a couple of hours a day spread over a period of time. Planning when you’ll take TOIL is important, particularly if you’re working on a billable project so please speak to your Delivery Lead before doing any overtime and arrange when you’ll be able to take the time back. 
+
+**How to request TOIL?**
+
+Using BreatheHR similar to the way that you request holiday there is a TOIL drop down, please write a note as to why you are requesting the leave and this will be approved by a member of the HR team. Please note this will not deduct from your holiday allowance shown on your BreatheHR dashboard. 
+
 ### Remuneration
 
 dxw will institute a cost of living raise each year on 1st April. The percentage
