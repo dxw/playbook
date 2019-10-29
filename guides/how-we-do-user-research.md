@@ -36,7 +36,7 @@ These are the things that user researchers usually do on projects.
 
    This is the most obvious and visible part of our work. We choose research activities that provide strong evidence and reliable answers, for the least time, effort and cost. And we choose activities that help our teams and different kinds of users to participate.
 
-   We record what we do and how we do it to for those who come after us.
+   We record what we do and how we do it, for each other, and for those who come after us.
 
    This helps teams to embed regular research into their agile practices and get the best results from the effort they put in.
 
