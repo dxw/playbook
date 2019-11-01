@@ -1682,6 +1682,7 @@ The list is not exhaustive but some topics might include:
 * Working patterns/locations
 * Training and career progression
 * Diversity
+* Inclusivity
 * Stress management
 * Interpersonal issues
 * Bereavement
@@ -1692,7 +1693,7 @@ Bookable slots are available on Wednesdays and Fridays at 11am but the People Ma
 
 #### Delivery Lead (for those on client work)
 
-There will be opportunities within the delivery team to raise any issues or concerns you might have e.g. retrospectives or planning sessions. As well as this, or if you’d prefer to talk one on one the delivery lead working on the project will be available to provide support and guidance.
+There will be opportunities within the delivery team to raise any issues or concerns you might have e.g. retrospectives or planning sessions. As well as this, or if you’d prefer to talk one on one, the delivery lead working on the project will be available to provide support and guidance.
 
 #### Line Managers
 
@@ -1730,7 +1731,7 @@ Line managers look out for the health and wellbeing of the team. They are respon
 
 All members of the Directors and heads-of team are here to help answer any questions you might have. Your own Director and/or Head-of profession or location is there to provide support on matters relating to dxw and your career with us, as well as profession specific questions. Similarly, they are here if you need to escalate any job-related concerns.
 
-#### Our MD, Dave
+#### Our Managing Director, Dave
 
 At dxw, all doors are open if you need to raise a concern or just have a chat - this includes our MD. Dave is always available to discuss any questions you have about the company and its future. Equally, if you feel you need to escalate anything to him, don’t hesitate to get in touch. Dave's diary is open and you can see it on Google Calendar. If you would like to schedule some time with him, please feel free to book something.
 
