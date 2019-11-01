@@ -1630,6 +1630,111 @@ If you think this might be for you, please apply through our jobs page.
 
 ## Working arrangements
 
+### dxw Support Structures
+
+#### Practical day to day support
+
+Anytime you need to order something, notice a problem in the office (e.g. a broken chair or dripping tap) or you need some help with your laptop or the printer - there is a Slack channel for it. If in doubt, please speak to the Commercial Operations team and they’ll point you in the right direction.
+
+```
+#dxw-facilities
+#dxw-purchasing
+#dxw-travel
+#dxw-techsupport
+```
+
+#### Helpers
+
+When you join dxw you will be assigned a helper. This person will work closely with you for at least your first 4 months. They will do a similar job to you, help you meet members of the wider team, catch up with you on at least a 3/6/12 week basis to ensure you are receiving everything you need, and will NEVER get bored of your questions!
+
+If you feel that you’re not getting as much time with your helper as you’d like, please speak to the People Manager.
+
+As a helper, you will be vital in ensuring you have the regular catch ups - if you are finding it hard to schedule them, please do talk to Bus Ops.
+
+For more information on being a helper, please see the [checklist](https://docs.google.com/document/d/1Dc3IRZ_ze7QzMQTHO70ZC6hU8cig5ds7LN2MoHmPBe8/edit) or speak to the People Manager.
+
+#### Buddies
+
+Once you have passed your 4 month probation, we would like you to choose a buddy within the company to support you.
+
+We recommend this person **doesn’t** work directly with you, someone in a different role and that you don’t work closely with on projects, as this will give you a second pair of ears and a whole new set of experiences to draw on.
+
+This is not mandatory, just recommended and similarly not everyone may wish to be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t have to be.  Also, if you feel that a change of buddy would benefit you for whatever reason or that you’re no longer able to be a buddy, this should also not be an awkward situation. If you have any concerns, have a chat with the People Manager.
+
+If you want to know more about how the buddy system works, how often to meet and suggested discussion topics, see the buddy [crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing). This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet up.
+
+#### HR
+
+The bi-weekly HR surgeries are there to give an opportunity for members of the team to discuss matters they might not feel able to raise with buddies/delivery leads/line managers or that are specialist to the HR function in dxw.
+
+The list is not exhaustive but some topics might include:
+
+* Holiday
+* Sickness
+* Pay
+* Expenses
+* Parental Leave
+* Accessibility
+* Probation
+* Pensions
+* Occupational health issues
+* Contractual matters
+* Working patterns/locations
+* Training and career progression
+* Diversity
+* Inclusivity
+* Stress management
+* Interpersonal issues
+* Bereavement
+* Grievance and disciplinary matters
+* Facilitation/scheduling of conversations with Directors/heads-of, such as Salary Reviews
+
+Bookable slots are available on Wednesdays and Fridays at 11am but the People Manager’s door is always open.
+
+#### Delivery Lead (for those on client work)
+
+There will be opportunities within the delivery team to raise any issues or concerns you might have e.g. retrospectives or planning sessions. As well as this, or if you’d prefer to talk one on one, the delivery lead working on the project will be available to provide support and guidance.
+
+#### Line Managers
+
+Line management at dxw is not about hierarchy, it’s about providing professional guidance and support.
+
+Line managers ensure that team members are clear about their roles and responsibilities at dxw, and how well they are doing at achieving them.
+
+Individuals should be proactive in taking responsibility for their own development, but line managers will provide advice and support to help team members meet their agreed short and long term goals.
+
+HR support line managers with advice and guidance on recruitment, onboarding, probation, performance, sickness and any other specialist knowledge.
+
+You can find out who your line manager is in BreatheHR on the summary section of your profile page.
+
+##### Line management principles  
+
+###### Communicate clearly
+Communication is a two-way process and it is important to check understanding and confidence, and value the other person in decision-making. Explaining the task and its objectives clearly means people know what’s expected of them and the part they play. It empowers them to take responsibility and own how they approach the work.
+
+###### Recognise achievement and celebrate success
+A simple ‘thank you’ shows someone that what they have done is appreciated, and is hugely motivating. Celebrating major, and minor, achievements is an important part of our culture at dxw. It builds team spirit and morale.
+
+###### Guard our values
+Lead by example. The actions and behaviours of line managers must always demonstrate our dxw values. We should always hold ourselves accountable to our values, and encourage the same in all of our colleagues, including those we line manage.
+
+###### Continuous constructive feedback
+Find out how each of your team members prefers to receive feedback, and develop an approach which reflects that.  Ongoing positive and constructive feedback is essential if someone is to feel valued, learn from their experiences and become better at what they do.
+
+###### Be honest
+Being honest means telling the truth and being consistent in what you say and who you say it to. Telling things as they are, while being sensitive to the situation and individual, ensures that people know where they stand and will help to build mutual trust and respect.
+
+###### Wellbeing
+Line managers look out for the health and wellbeing of the team. They are responsible for carrying out dxw's duty of care to its people.
+
+#### Directors & heads-of
+
+All members of the Directors and heads-of team are here to help answer any questions you might have. Your own Director and/or Head-of profession or location is there to provide support on matters relating to dxw and your career with us, as well as profession specific questions. Similarly, they are here if you need to escalate any job-related concerns.
+
+#### Our Managing Director, Dave
+
+At dxw, all doors are open if you need to raise a concern or just have a chat - this includes our MD. Dave is always available to discuss any questions you have about the company and its future. Equally, if you feel you need to escalate anything to him, don’t hesitate to get in touch. Dave's diary is open and you can see it on Google Calendar. If you would like to schedule some time with him, please feel free to book something.
+
 ### Time
 
 Our working hours are 10:00-18:00, Monday to Friday. Some people work different
@@ -1883,77 +1988,6 @@ communicative.
 
 If you are working from home, you must record this as an absence in BreatheHR.
 There is a category, "WFH", for this purpose.
-
-### dxw Support Structures
-
-#### Facilities/Purchasing/Technical Support
-
-Anytime you need to order something, notice a problem in the office (e.g. a broken chair or dripping tap) or you need some help with your laptop or the printer - there is a Slack channel for it. If in doubt, please speak to the Business Operations team and they’ll point you in the right direction.
-
-```
-#dxw-facilities
-#dxw-purchasing
-#dxw-techsupport
-```
-
-#### Helpers
-
-When you join dxw you will be assigned a helper. This person will work closely with you for at least your first 4 months. They will do a similar job to you, help you meet members of the wider team, catch up with you on at least a 3/6/12 week basis to ensure you are receiving everything you need, and will NEVER get bored of your questions!
-
-If you feel that you’re not getting as much time with your helper as you’d like, please speak to the People Manager.
-
-As a helper, you will be vital in ensuring you have the regular catch ups - if you are finding it hard to schedule them, please do talk to Bus Ops.
-
-For more information on being a helper, please see the [checklist](https://docs.google.com/document/d/1Dc3IRZ_ze7QzMQTHO70ZC6hU8cig5ds7LN2MoHmPBe8/edit) or speak to the People Manager.
-
-#### Buddies
-
-Once you have passed your 4 month probation, we would like you to choose a buddy within the company to support you.
-
-We recommend this person **doesn’t** work directly with you, someone in a different role and that you don’t work closely with on projects, as this will give you a second pair of ears and a whole new set of experiences to draw on.
-
-This is not mandatory, just recommended and similarly not everyone may wish to be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t have to be.  Also, if you feel that a change of buddy would benefit you for whatever reason or that you’re no longer able to be a buddy, this should also not be an awkward situation. If you have any concerns, have a chat with the People Manager.
-
-If you want to know more about how the buddy system works, how often to meet and suggested discussion topics, see the buddy [crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing). This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet up.
-
-#### HR
-
-The bi-weekly HR surgeries are there to give an opportunity for members of the team to discuss matters they might not feel able to raise with buddies/delivery leads or that are specialist to the HR function in dxw.
-
-The list is not exhaustive but some topics might include:
-
-* Holiday
-* Sickness
-* Pay
-* Expenses
-* Parental Leave
-* Accessibility
-* Probation
-* Pensions
-* Occupational health issues
-* Contractual matters
-* Working patterns/locations
-* Training and career progression
-* Diversity
-* Stress management
-* Interpersonal issues
-* Bereavement
-* Grievance and disciplinary matters
-* Facilitation/scheduling of conversations with Heads of, such as Salary Reviews
-
-Bookable slots are available on Wednesdays and Fridays at 11am but the People Manager’s door is always open.
-
-#### Delivery Lead
-
-There will be opportunities within the delivery team to raise any issues or concerns you might have e.g. retrospectives or planning sessions. As well as this, or if you’d prefer to talk one on one the delivery lead working on the project will be available to provide support and guidance.
-
-#### Heads of
-
-All members of the Heads-of team are here to help answer any questions you might have. Your own Head-of profession or location is there to provide support on matters relating to dxw and your career with us, as well as profession specific questions. Similarly, they are here if you need to escalate any job-related concerns to.
-
-#### Our MD, Dave
-
-At dxw, all doors are open if you need to raise a concern or just have a chat - this includes our MD. Dave is always available to discuss any questions you have about the company and its future. Equally, if you feel you need to escalate anything to him, don’t hesitate to get in touch. Dave's diary is open and you can see it on Google Calendar. If you would like to schedule some time with him, please feel free to book something.
 
 ### Data protection
 
