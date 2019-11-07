@@ -7,7 +7,7 @@ section of the Playbook](https://playbook.dxw.com/#expenses).
 We create expenses using Xero. There is an Expenses section on the page after
 you log in where you can see details of your expenses. If you're expensing
 something new, you can go [straight to the
-form](https://go.xero.com/Expenses/EditReceipt.aspx).
+form](https://expenses.xero.com/!wrUP-/detail/create-new).
 
 To create an expense, you add all the receipts related to it to Xero, and submit
 them together as a claim. If you don't have receipts, you'll need to talk to
