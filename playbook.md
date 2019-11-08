@@ -811,7 +811,7 @@ Designers at dxw follow these principles:
    Explain the changes you’re making to code through your commit messages and
    pull requests. Explain the decisions you’re making about technology through
    architecture decision records. Explain the tradeoffs you’re making in
-   planning and show and tells. 
+   planning and show and tells.
 
    Use straightforward language, even when you’re dealing with complex technical
    issues. Prefer to write it down over speaking it out, to ensure a lasting
@@ -820,7 +820,7 @@ Designers at dxw follow these principles:
 1. **Be humble, supportive and open minded**
 
    Assume other people on your team know things you don’t. Feel comfortable
-   saying “I don’t know”. 
+   saying “I don’t know”.
 
    Assume you know things other people on your team don’t, but be prepared to be
    wrong. Ask questions rather than giving instructions. Share your opinions and
@@ -1707,7 +1707,7 @@ HR support line managers with advice and guidance on recruitment, onboarding, pr
 
 You can find out who your line manager is in BreatheHR on the summary section of your profile page.
 
-##### Line management principles  
+##### Line management principles
 
 ###### Communicate clearly
 Communication is a two-way process and it is important to check understanding and confidence, and value the other person in decision-making. Explaining the task and its objectives clearly means people know what’s expected of them and the part they play. It empowers them to take responsibility and own how they approach the work.
@@ -1847,13 +1847,13 @@ Where possible we try to keep a sustainable pace of work and avoid working outsi
 
 TOIL (time off in lieu) is awarded when you work over and above your contracted working hours continuously for a period of time or when you attend/travel to an event outside of your contracted working hours. TOIL should be agreed with your delivery lead or line manager ahead of doing the extra work.
 
-We encourage you to use your TOIL within the two weeks of extra work or event attended as it's meant to be for resting and making up for working  at a sustainable pace.  We know this may not be feasible in every case so please speak to your Line Manager or a member of the HR team if you have any questions. 
+We encourage you to use your TOIL within the two weeks of extra work or event attended as it's meant to be for resting and making up for working  at a sustainable pace.  We know this may not be feasible in every case so please speak to your Line Manager or a member of the HR team if you have any questions.
 
-There are two options of how to use your TOIL, you can calculate the amount of hours you have accrued (ie half a day) and take it off at once or take a couple of hours a day spread over a period of time. Planning when you’ll take TOIL is important, particularly if you’re working on a billable project so please speak to your Delivery Lead before doing any overtime and arrange when you’ll be able to take the time back. 
+There are two options of how to use your TOIL, you can calculate the amount of hours you have accrued (ie half a day) and take it off at once or take a couple of hours a day spread over a period of time. Planning when you’ll take TOIL is important, particularly if you’re working on a billable project so please speak to your Delivery Lead before doing any overtime and arrange when you’ll be able to take the time back.
 
 ##### How to request TOIL?
 
-Using BreatheHR similar to the way that you request holiday there is a TOIL drop down, please write a note as to why you are requesting the leave and this will be approved by a member of the HR team. Please note this will not deduct from your holiday allowance shown on your BreatheHR dashboard. 
+Using BreatheHR similar to the way that you request holiday there is a TOIL drop down, please write a note as to why you are requesting the leave and this will be approved by a member of the HR team. Please note this will not deduct from your holiday allowance shown on your BreatheHR dashboard.
 
 ### Remuneration
 
@@ -2124,7 +2124,7 @@ the [guide on claiming expenses](/guides/claiming-expenses)
 
 Everyone who works on a client project at dxw digital is responsible for reporting the time they spend on projects. We usually work with our clients on a [time and materials basis](https://www.gov.uk/guidance/how-to-pay-for-digital-outcomes-and-specialists-services#time-and-materials), so it’s important we can accurately track and report how our time is spent on client projects.
 
-We use [10,000ft](https://app.10000ft.com/) to schedule our work, which helps us to forecast our capacity over future weeks and months in a reliable way. 
+We use [10,000ft](https://app.10000ft.com/) to schedule our work, which helps us to forecast our capacity over future weeks and months in a reliable way.
 
 Our Commercial Operations team update the schedule to reflect any planned leave, which helps us to look ahead - this is recorded as “Out of office". Each member of our delivery team uses the tool to record the days they work on client projects on a weekly basis.
 
