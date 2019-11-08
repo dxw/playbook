@@ -1,7 +1,7 @@
 extends: substitution
 message: '%s'
 link: https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid
-level: warning
+level: suggestion
 ignorecase: true
 swap:
   agenda: Avoid using 'agenda', unless it's for a meeting 

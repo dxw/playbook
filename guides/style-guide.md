@@ -1,3 +1,4 @@
+<!-- vale off -->
 # Style guide
 
 ## General
@@ -48,7 +49,6 @@ that they usually aren't. Some of these are cribbed from the
 ### Tired idioms
 
 Do not use:
-
 * in terms of (very rarely actually used to describe one thing in terms of
   another and is often a verbal tick which can usually just be omitted)
 * look to
