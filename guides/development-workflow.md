@@ -11,6 +11,7 @@
 - [Code style](#code-style)
 - [Pull requests](#pull-requests)
 - [Versioning releases](#versioning-releases)
+- [Tracking changes](#tracking-changes)
 
 ## Introduction
 
@@ -103,6 +104,7 @@ guidelines.
    ```
 
 1. meet the acceptance criteria
+1. update the [changelog](#tracking-changes)
 1. [commit](#committing) your code
 
 ### Submit your story for code review
@@ -197,6 +199,7 @@ This is the only time a branch should be based off of `master` instead of
    ```
 
 1. move the card on Trello into 'Deployed to production'
+1. update the [changelog](#tracking-changes)
 
 ---
 
@@ -227,6 +230,7 @@ To deploy:
 
 1. review what work is currently awaiting deployment by looking at Trello, if
    there are any unaccepted stories then you should hold off
+1. update the [changelog](#tracking-changes)
 1. let the team know you're deploying to Production
 
    ```
@@ -238,6 +242,7 @@ To deploy:
    ```
 
 1. verify the deployment has been successful
+1. tag the merge commit with the version matching the [changelog](#tracking-changes)
 1. update Trello with all the cards that have now been deployed
 
 ---
@@ -400,6 +405,7 @@ we make sure that:
 - the story has been implemented clearly and maintainably
 - the code contains well-written commits that help us to understand the changes
 - the code follows code style guides
+- the [changelog](#tracking-changes) has been updated is the change was significant
 
 It is not important that a story be implemented exactly how you would have done
 it. Only that it meets the criteria above. When we find problems, we give
@@ -453,6 +459,7 @@ A good pull request should:
 - include appropriate detail to assist the reviewer, this includes links to
   relevant content and a duplication of anything of note in the commit
   descriptions
+- update the [changelog](#tracking-changes) if it's a significant change
 
 ```
 # Poor
@@ -479,5 +486,32 @@ Versioning should follow the [Semantic Versioning](https://semver.org) standard,
 Releases should be created by:
 
 - updating the version appropriately in package metadata and committing to git
+- updating the [changelog](#tracking-changes) to draw a line under changes and attribute them to a version
 - tagging that commit using a tag of the form `vX.Y.Z`
 - building the appropriate release package from that tag
+
+---
+
+## Tracking changes
+
+If a project is not continuously released, and has staged releases, we want to
+track what goes into those releases, so we can be confident about what we're shipping,
+know when we shipped it, and share what we've done with our clients (and maybe beyond).
+
+Including a `CHANGELOG.md` file in the root of a repository is a standard for
+tracking these changes against versions, but the only work if they are updated.
+When introducing a significant change to a project, we should be recording that
+change at the time we make it, while the issue is fresh in our minds.
+
+We follow the [Keep a Changelog 1.0.0](https://keepachangelog.com/en/1.0.0/)
+format for the changelogs we keep. This means integrating updating the changelog
+into the release process for the project. This also means
+[versioning](#versioning-releases) the project.
+
+If the team decides that a changelog is not appropriate for a project, you should
+document that decision as an [Architectural Decision Record (ADR)](https://adr.github.io/),
+so future maintainers and contributors understand the reasoning for not
+doing so.
+
+See [Tech Team RFC-019](https://github.com/dxw/tech-team-rfcs/blob/master/rfc-019-use-changelogs-to-track-changes.md)
+for more context around this decision.
