@@ -1,4 +1,3 @@
-<!-- vale off -->
 # Style guide
 
 ## General
@@ -46,6 +45,7 @@ Do this:
 It's fine to use these if they really are the best words to use, but be mindful
 that they usually aren't. Some of these are cribbed from the
 
+<!-- vale Dxw.TiredIdioms = NO -->
 ### Tired idioms
 
 Do not use:
@@ -55,6 +55,8 @@ Do not use:
 * with regards to
 * separate out (the 'out' is redundant)
 * we will aim to... (are we doing it or not?)
+
+<!-- vale Dxw.TiredIdioms = YES -->
 
 ## A-Z
 
