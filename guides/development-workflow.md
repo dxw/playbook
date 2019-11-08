@@ -3,7 +3,7 @@
 - [Development principles](#development-principles)
 - [Introduction](#introduction)
 - [The lifecycle of a story](#the-lifecycle-of-a-story)
-- [Working on a ticket](#working-on-a-ticket)
+- [Working on a support ticket](#working-on-a-support-ticket)
 - [Deploying](#deploying)
 - [Branching](#branching)
 - [Committing](#committing)
@@ -39,7 +39,8 @@ this will mean we:
 
 #### Everything is tracked
 
-All code we write is represented in Trello so that:
+All code we write is represented in Trello (or another ticketing system as
+required by the client) so that:
 
 - the client can easily visualise how we're doing and what needs their attention
 - the team can see and react to bottle necks
@@ -88,10 +89,13 @@ Bad signs:
 
 ## The lifecycle of a story
 
+Different projects have small variations to this process, but here are some general
+guidelines.
+
 ### Start work on a new story
 
 1. assign yourself to the Trello card
-1. move the card to Trello's 'in progress' column
+1. move the card to Trello's 'In progress' column
 1. [make a new branch](#how-to-make-a-branch) off of `develop`
 
    ```
@@ -110,7 +114,7 @@ Bad signs:
    ```
 
 1. create a [pull request](#pull-requests) into the `develop` branch
-1. Link the Trello card to the new pull request, linking directly or by using
+1. link the Trello card to the new pull request, linking directly or by using
    the Trello [power up](https://help.trello.com/article/1021-integrating-trello-with-zendesk)
 1. move the Trello card into the 'Awaiting review column'
 
@@ -129,9 +133,9 @@ Bad signs:
 
 ---
 
-## Working on a ticket
+## Working on a support ticket
 
-Tickets can fall into two types of work flow depending on their severity.
+Support tickets can fall into two types of work flow depending on their severity.
 
 Most commonly tickets will simply fall into the same [story
 process](#the-lifecycle-of-a-story), where fixes will go through `develop` and
@@ -158,7 +162,7 @@ An emergency for instance would be when:
 1. production is unusable - users are directly affected
 1. a serious vulnerability has been discovered and is currently exploitable
 
-### Issue a hotfix
+#### Issue a hotfix
 
 When the decision to make a hotfix is made it's important to communicate well.
 Involve the rest of the team at this point and discuss the plan of action,
@@ -178,12 +182,12 @@ This is the only time a branch should be based off of `master` instead of
 1. make a [pull request](#pull-requests) into `master`
 1. move the Trello card into 'Awaiting review'
 
-### Review and deploy a hotfix
+#### Review and deploy a hotfix
 
 1. review the code
-1. check the fix is tested locally if possible
+1. check the fix has been tested locally if possible
 1. merge the pull request
-1. manually merge the pull request back into develop
+1. manually merge the pull request back into `develop`
 
    ```
    git checkout develop
@@ -201,8 +205,9 @@ This is the only time a branch should be based off of `master` instead of
 Our approach is one of [continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery)
 meaning we build, test and deploy as frequently as possible.
 
-We do this by using services such as Chef or Codeship which are configured to
-listen for Git pushes and then initiate the correct deployment.
+We do this by using services such as Chef, TravisCI or GitHub Actions which
+are configured to listen for Git pushes and then initiate the correct
+deployment.
 
 ### Staging
 
@@ -210,7 +215,7 @@ Staging deployments are automatic and should be initiated when each pull
 request is merged. When you click merge the changes are immediately deployed to
 the Staging environment.
 
-Remember to move the card/s along on Trello.
+Remember to move the card(s) along on Trello.
 
 ### Production
 
@@ -223,7 +228,6 @@ To deploy:
 1. review what work is currently awaiting deployment by looking at Trello, if
    there are any unaccepted stories then you should hold off
 1. let the team know you're deploying to Production
-   deploy
 
    ```
    git fetch
@@ -272,15 +276,18 @@ Having a convention allows for:
 - Feature
 
   A branch that adds a new feature, as defined by the specified story
+
 - Fix
 
   A branch that corrects a problem in a feature already merged into
   `develop`
+
 - Chore
 
   Chore branches are used for routine tasks for maintaining the
   application like package upgrades, they don't provide a new feature or fix an
   existing one
+
 - Hotfix
 
   A branch that adds an urgent fix to a problem that affects
@@ -303,10 +310,10 @@ chore/1934729239-reduce-caching-for-contact-details
 hotfix/253947623-remove-breaking-change-to-repair-creation
 ```
 
-### Update your branch with the latest changes on develop (rebasing)
+### Update your branch with the latest changes on `develop` (rebasing)
 
-When working in a team other pull requests will often get merged in before yours
-is finished  It's important to make sure you're developing against the latest
+When working in a team, other pull requests will often get merged in before yours
+is finished. It's important to make sure you're developing against the latest
 version of the code base as much as possible.
 
 You can do this by rebasing your work on top of the `develop` branch.
@@ -317,7 +324,7 @@ git rebase origin/develop
 git push --force-with-lease
 ```
 
-During the rebase there may be conflicts which should be resolved at this point.
+During the rebase there may be conflicts which should be resolved at that point.
 If in doubt talk to the other developer who you're conflicting with and reason
 out what the correct state should be.
 
@@ -384,9 +391,9 @@ Upgrade widget to v1.2.1
 
 ## Code review
 
-We believe that Code reviews are important. They help us to learn from each
+We believe that code reviews are important. They help us to learn from each
 other, to maintain consistency in the code we write, and to ensure we push
-well-reasoned and bug-free code to production. When performing a code review,
+well-reasoned and bug-free code to Production. When performing a code review,
 we make sure that:
 
 - we cannot see any code that could give rise to a security vulnerability
@@ -458,6 +465,8 @@ A new registration form and fix a bug with contacts
 - Passwords are encrypted using BCrypt, so I've taken this opportunity to
   increase the default rounds from 8 to 12
 ```
+
+---
 
 ## Versioning releases
 
