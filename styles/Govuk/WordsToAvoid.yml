@@ -1,10 +1,10 @@
 extends: substitution
 message: '%s'
 link: https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid
-level: warning
+level: suggestion
 ignorecase: true
 swap:
-  agenda: Avoid using 'agenda', unless it's for a meeting 
+  agenda: Avoid using 'agenda', unless it's for a meeting
   advancing: Avoid using 'advancing'
   collaborate: Use 'working with' instead of 'collaborate'
   combating: Avoid using 'combating'
@@ -12,27 +12,26 @@ swap:
   deliver: >
     Avoid using 'deliver'. Pizzas, post and services are delivered; not abstract concepts like improvements or priorities
   deploy: Avoid using 'deploy', unless it's military or software
-  dialogue: Avoid using 'dialogue', unless we speak to people 
+  dialogue: Avoid using 'dialogue', unless we speak to people
   disincentivise: Avoid using 'disincentivise'
   empower: Avoid using 'empower'
   facilitate: Avoid using 'facilitate', say something specific about how you're helping
   focusing: Avoid using 'focusing'
-  foster: Avoid using 'foster', unless it's children 
-  impact: Do not use 'impact' as a synonym for have an effect on, or influence 
+  foster: Avoid using 'foster', unless it's children
+  impact: Do not use 'impact' as a synonym for have an effect on, or influence
   initiate: Avoid using 'initiate'
   key: Avoid using 'key', unless it unlocks something
-  land: Only use 'land' as a verb if you're talking about aircraft 
-  leverage: Avoid using 'leverage', unless in the financial sense 
+  land: Only use 'land' as a verb if you're talking about aircraft
+  leverage: Avoid using 'leverage', unless in the financial sense
   liaise: Avoid using 'liaise'
   overarching: Avoid using 'overarching'
   pledge: Avoid using 'pledge' - we're either doing something or we're not
-  progress: Do not use 'progress' as a verb 
-  promote: Avoid using 'promote', unless you're talking about a marketing promotion 
+  progress: Do not use 'progress' as a verb
+  promote: Avoid using 'promote', unless you're talking about a marketing promotion
   robust: Avoid using 'robust'
-  slimming down: Avoid using 'slimming down', processes do not diet 
+  slimming down: Avoid using 'slimming down', processes do not diet
   streamline: Avoid using 'streamline'
-  strengthening: Avoid using 'strengthening', unless it's bridges or other structures 
-  tackling: Avoid using 'tackling', unless it's a sport 
-  transforming: Avoid using 'transforming', what are you actually doing to change it? 
-  utilise: Avoid using 'utilise' 
-  
+  strengthening: Avoid using 'strengthening', unless it's bridges or other structures
+  tackling: Avoid using 'tackling', unless it's a sport
+  transforming: Avoid using 'transforming', what are you actually doing to change it?
+  utilise: Avoid using 'utilise'

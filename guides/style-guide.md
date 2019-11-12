@@ -45,10 +45,10 @@ Do this:
 It's fine to use these if they really are the best words to use, but be mindful
 that they usually aren't. Some of these are cribbed from the
 
+<!-- vale Dxw.TiredIdioms = NO -->
 ### Tired idioms
 
 Do not use:
-
 * in terms of (very rarely actually used to describe one thing in terms of
   another and is often a verbal tick which can usually just be omitted)
 * look to
@@ -56,35 +56,65 @@ Do not use:
 * separate out (the 'out' is redundant)
 * we will aim to... (are we doing it or not?)
 
+<!-- vale Dxw.TiredIdioms = YES -->
+
 ## A-Z
 
 In addition to the list below, we also follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style).
 This gives lots of information about words and phrases specific to the public
 sector.
 
+<!-- vale Dxw.DigitalMarketplace = NO -->
+
 **Digital Marketplace**: the government procurement website should be
 capitalised as it is a proper noun to distinguish it from other digital
 marketplaces (like eBay).
 
+<!-- vale Dxw.DigitalMarketplace = YES -->
+
+<!-- vale Dxw.Dxw = NO -->
+
 **dxw**: in client-facing/public-facing documents, dxw should be lowercase.
+
+<!-- vale Dxw.Dxw = YES -->
+
+<!-- vale Dxw.GCloud = NO -->
 
 **G-Cloud**: formatted thusly with hyphen and capital letters. Never 'G-cloud'
 or 'g-cloud' or 'G Cloud' or 'GCloud'.
 
+<!-- vale Dxw.GCloud = YES -->
+
+<!-- vale Dxw.GovPress = NO -->
+
 **GovPress**: not 'Govpress' or 'Gov Press'
+
+<!-- vale Dxw.GovPress = YES -->
+
+<!-- vale Dxw.Multisite = NO -->
 
 **multisite**: if referring to the feature directly, "Multisite" should be
 capitalised. If referring to an multisite WordPress setup, "multisite". Never
 "multi site" or "multi-site".
 
+<!-- vale Dxw.Multisite = YES -->
+
 **open source**: always lower case.
 
+<!-- vale Dxw.Plugin = NO -->
+
 **plugin**: not 'plug in' or 'plug-in'.
+
+<!-- vale Dxw.Plugin = YES -->
 
 **Rails**: for the Ruby framework, always upcase. Lower case is fine for the
 things trains run on.
 
+<!-- vale Dxw.WordPress = NO -->
+
 **WordPress**: not 'Word Press', 'Wordpress' or 'WP'.
+
+<!-- vale Dxw.WordPress = YES -->
 
 ### Words to avoid
 
