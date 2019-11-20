@@ -318,13 +318,13 @@ Here we provide additional, specific guidance for researchers at dxw.
 
    Note that if the participant refuses all recording, including note taking, you may want to abandon the session.
 
-2. **Keep your notes and recordings secure**
+1. **Keep your notes and recordings secure**
 
    As soon as possible after the session, transfer any notes and recordings from other devices to your dxw provided laptop. And from your laptop to the dxw Google Drive or the client’s research store.
 
    Store only anonymised notes, quotes and images in tools like Miro and Tello.
 
-3. **Do not use your personal devices**
+1. **Do not use your personal devices**
 
    Always use your dxw provided device, rather than your personal device, when taking notes and photos, or making recordings.
 
