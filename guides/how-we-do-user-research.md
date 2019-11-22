@@ -300,7 +300,7 @@ To capture what happens in our research sessions we take notes and photos, make 
 
 We use these notes, photos and recordings during analysis to make sure we produce valid findings. And we use extracted quotes, images and clips to illustrate the findings we share.
 
-There is broad guidance on [Taking notes and recording user research sessions](https://www.gov.uk/service-manual/user-research/taking-notes-and-recording-user-research-sessions) in the Service Manual, and more good advice on [Capturing User Research](https://www.uxmatters.com/mt/archives/2012/04/capturing-user-research.php) on UX Matters.
+There is good guidance on [Taking notes and recording user research sessions](https://www.gov.uk/service-manual/user-research/taking-notes-and-recording-user-research-sessions) in the Service Manual, and on [Capturing User Research](https://www.uxmatters.com/mt/archives/2012/04/capturing-user-research.php) in UX Matters.
 
 Here we provide additional, specific guidance for researchers at dxw.
 
@@ -311,6 +311,12 @@ Here we provide additional, specific guidance for researchers at dxw.
    Good user research practice, and good privacy practice, is to capture only the data you believe you need. For example, don’t make a screen or video recording, ‘just in case’, if you’ll only ever need a transcript of what the participant says.
 
    Make sure that anything you capture during a session is covered by the consent you’ve collected. If a participant changes their mind about what they consent to, be prepared to not make, or to delete recordings you no longer have consent for.
+
+1. **Do not use your personal devices**
+
+   Always use a dxw provided device, rather than your personal device, when taking notes and photos, or making recordings.
+
+   Using our own devices in research means that personal data about research participants can be mixed into our personal data stores, like cloud photo libraries. And also runs the risk of participants, client staff and colleagues seeing our personal messages and  images.
 
 1. **Keep your notes and recordings secure**
 
@@ -329,12 +335,6 @@ Here we provide additional, specific guidance for researchers at dxw.
     - Your note taker, assistant or observer may not be able to join the session, so be prepared to take notes and recordings yourself
 
    Note that if the participant refuses all recording, including note taking, you may want to abandon the session.
-
-1. **Do not use your personal devices**
-
-   Always use your dxw provided device, rather than your personal device, when taking notes and photos, or making recordings.
-
-   Using our own devices in research means that personal data about research participants can be mixed into our personal data stores, like cloud photo libraries. And also runs the risk of participants, client staff and colleagues seeing our personal messages and  images.
 
 ### Using your dxw provided laptop
 
