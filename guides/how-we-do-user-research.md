@@ -347,6 +347,8 @@ With your laptop you can:
  - record video using an external camera and Quicktime
  - record your laptop screen using Quicktime or Screenshot
 
+If research participants might use your laptop or see your screen during a research session, it’s a good idea to create a separate ‘research’ user account on your laptop with things like notifications and browser autofill turned off.
+
 ### Using a dxw provided phone or tablet
 
 Use a dxw provided phone or tablet, rather than your personal device, to take photos and short videos during interviews, visits and workshops.
