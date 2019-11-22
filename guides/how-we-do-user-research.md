@@ -306,13 +306,17 @@ Here we provide additional, specific guidance for researchers at dxw.
 
 ### Good practices to follow
 
-1. **Capture only what you need**
+1. **Capture only what you need and have consent for**
 
    Good user research practice, and good privacy practice, is to capture only the data you believe you need. For example, don’t make a screen or video recording, ‘just in case’, if you’ll only ever need a transcript of what the participant says.
 
-1. **Capture only what you have consent for**
-
    Make sure that anything you capture during a session is covered by the consent you’ve collected. If a participant changes their mind about what they consent to, be prepared to not make, or to delete recordings you no longer have consent for.
+
+1. **Keep your notes and recordings secure**
+
+   As soon as possible after the session, transfer any notes and recordings from paper and other devices to your dxw provided laptop. And from your laptop to the dxw Google Drive or to the client’s research store.
+
+   Keep only anonymised notes, quotes and images in tools like Miro and Tello.
 
 1. **Have a fall back**
 
@@ -320,35 +324,17 @@ Here we provide additional, specific guidance for researchers at dxw.
 
    For example:
 
-    - The participant may decide they don’t want to be recorded in a particular way
-    - Your preferred device, app or service may not be working properly
-    - Your note taker, assistant or observer may not be able to join the session
+    - The participant may decide they don’t want to be recorded in a particular way, so be prepared to switch from video to an audio-only recording, or to just take notes
+    - Your preferred device, app or service may not be working properly, so have an alternative like a paper notebook
+    - Your note taker, assistant or observer may not be able to join the session, so be prepared to take notes and recordings yourself
 
    Note that if the participant refuses all recording, including note taking, you may want to abandon the session.
-
-1. **Keep your notes and recordings secure**
-
-   As soon as possible after the session, transfer any notes and recordings from other devices to your dxw provided laptop. And from your laptop to the dxw Google Drive or the client’s research store.
-
-   Store only anonymised notes, quotes and images in tools like Miro and Tello.
 
 1. **Do not use your personal devices**
 
    Always use your dxw provided device, rather than your personal device, when taking notes and photos, or making recordings.
 
    Using our own devices in research means that personal data about research participants can be mixed into our personal data stores, like cloud photo libraries. And also runs the risk of participants, client staff and colleagues seeing our personal messages and  images.
-
-### Using the notes template
-
-We have a [template for a Google Sheet](https://drive.google.com/open?id=1r6xtVgHBFTDxbFGSqk3wXFDy_5JDwkBpGBHibnLKuwM) you can use to take notes during a research session.
-
-You can make a copy of the sheet for each research session, or make a copy for each batch of research and create tabs within the sheet for each research session.
-
-### Using a dxw provided camera
-
-Use a dxw provided camera to take photos and short videos during interviews, visits and workshops.
-
-Transfer the photos and recordings to your laptop and delete them from the camera as soon as possible.
 
 ### Using your dxw provided laptop
 
@@ -361,6 +347,26 @@ With your laptop you can:
  - record video using an external camera and Quicktime
  - record your laptop screen using Quicktime or Screenshot
 
+### Using a dxw provided phone or tablet
+
+Use a dxw provided phone or tablet, rather than your personal device, to take photos and short videos during interviews, visits and workshops.
+
+Remember to delete the photos and recordings from the device once you have transfered them to your laptop or to Google Drive.
+
+### Using the notes template
+
+We have a [template for a Google Sheet](https://drive.google.com/open?id=1r6xtVgHBFTDxbFGSqk3wXFDy_5JDwkBpGBHibnLKuwM) you can use to take notes during a research session.
+
+You can make a copy of the sheet for each research session, or make a copy for each batch of research and create tabs within the sheet for each research session.
+
+### Using sticky notes and paper worksheets
+
+We often use sticky notes and paper worksheets to capture information during research sessions, for example when [researching users’ experiences](https://www.gov.uk/service-manual/user-research/researching-user-experiences).
+
+Avoid capturing personally identifiable information about participants on sticky notes or paper. If you capture any sensitive informaton on sticky notes or paper, make sure to use a shredder to dispose of it.
+
+Use a dxw provided phone or tablet, rather than your personal device, to capture the contents of sticky notes and paper worksheets.
+
 ### Using a video conferencing service
 
 Our preferred service for recording remote screen sharing sessions is [GoToMeeting](https://docs.google.com/document/d/1KiaXHr-VCX8T6K9YWPnmHHiAChJda_gH4av03N4pDrg/). Setup GoToMeeting so that the recorded video is saved onto your dxw provided laptop. And then transfer the video to Google Drive as soon as possible.
@@ -369,8 +375,4 @@ Depending on the client, we may need to use their preferred video conferencing s
 
 ### Using third-party facilities
 
-If you are using a third party facility like a usability lab:
-
- - use your dxw provided laptop to take notes
- - use a dxw provided camera for incidental photos
- - transfer any recordings made by the lab to your dxw provided laptop as soon as possible after the sessions are complete
+If you are using a third party facility like a usability lab, transfer any recordings made by the lab to your dxw provided laptop as soon as possible after the sessions are complete.
