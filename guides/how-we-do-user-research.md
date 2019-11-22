@@ -365,6 +365,8 @@ You can make a copy of the sheet for each research session, or make a copy for e
 
 We often use sticky notes and paper worksheets to capture information during research sessions, for example when [researching users’ experiences](https://www.gov.uk/service-manual/user-research/researching-user-experiences).
 
+Design paper worksheets, and give people advice on [writing sticky notes](https://www.gov.uk/service-manual/user-research/taking-notes-and-recording-user-research-sessions#using-sticky-notes), so you can easily use the information recorded.
+
 Avoid capturing personally identifiable information about participants on sticky notes or paper. If you capture any sensitive informaton on sticky notes or paper, make sure to use a shredder to dispose of it.
 
 Use a dxw provided phone or tablet, rather than your personal device, to capture the contents of sticky notes and paper worksheets.
