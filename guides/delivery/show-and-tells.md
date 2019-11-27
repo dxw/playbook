@@ -48,4 +48,4 @@ During your presentation make sure that you:
 - Check in with remote participants to ensure that they can hear and are able to follow the discussion.
 
 ## Examples of show and tells 
-- [Southwark Council discovery final show & tell] (https://docs.google.com/presentation/d/1zOX1Kfe_SVzf5fnIANroXPhgUlOd6gEtatg2kJkMVc0/edit#slide=id.g5fe190064c_6_403)
+- [Southwark Council discovery final show & tell](https://docs.google.com/presentation/d/1zOX1Kfe_SVzf5fnIANroXPhgUlOd6gEtatg2kJkMVc0/edit#slide=id.g5fe190064c_6_403)
