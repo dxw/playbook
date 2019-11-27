@@ -1,12 +1,5 @@
 # Show and tells
 
-[What are they?](##what-are-they?)
-[Who should be invited](##who-should-be-invited)
-[Who should present](##who-should-present)
-[Preparing and running your show and tell](##preparing-and-running-your-show-and-tell)
-[Examples of show and tells](##examples-of-show-and-tells)
-
-
 ## What are they? 
 Show and tells are regular meetings that we run at the end of each sprint to demonstrate what we’ve been working on. They are an opportunity to get feedback, ask questions and celebrate successes.
 
