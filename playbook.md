@@ -982,8 +982,7 @@ We also offer support for services that aren't built in WordPress. We are able t
 
 ### Support helpdesk
 
-The dxw Technical Operations team build, manage and run GovPress, as well as
-providing first-line support for our clients on tailored support plans.
+The dxw Technical Operations team build, manage and run GovPress, as well as provide first-line support.
 
 We use [Zendesk](https://dxw.zendesk.com) to manage support requests. Any
 incidents, requests for us to fix a problem or make a change to a site must
