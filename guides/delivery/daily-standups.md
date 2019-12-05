@@ -7,7 +7,7 @@
 [Other tips](##other-tips)
 
 ## What are they?
-A short and focused meeting for the team to check in on progress. They shouldn’t last any longer than 15 minutes; doing them standing up helps keep this focus. 
+A short and focused meeting for the team to check in on progress. They shouldn’t last any longer than 15 minutes. 
 Standups help team members keep up-to-date with what others are doing.  They are also an opportunity to flag when blockers are in the way, so that Delivery Leads (and others) try and remove them. 
 Aside from what is actually being discussed, standups are also a good opportunity to gauge the mood in the team.   
 
