@@ -49,7 +49,7 @@ Below is a checklist of things that you/your delivery lead should complete when 
 - Meet the team / client representative
 
 ## When a member of your sprint team is on support
-We’ve [changed the way we handle support] (http://playbook.dxw.com/#/guides/support-and-on-call), to ensure that there’s always a developer dedicated to support, and that the responsibility cycles round everyone on the development team at dxw.
+We’ve [changed the way we handle support](http://playbook.dxw.com/#/guides/support-and-on-call), to ensure that there’s always a developer dedicated to support, and that the responsibility cycles round everyone on the development team at dxw.
 
 This has implications for project sprints and client work, which delivery leads will need to manage.
 
@@ -57,7 +57,7 @@ During a developer’s week on support, they won’t be participating in the spr
 
 The support week runs from Wednesday to Tuesday to enable the team to adjust sprint ceremonies where necessary so the developer can join them.
 
-[There’s a rota] (https://docs.google.com/spreadsheets/d/1IGjo7oEndLkU0PKQChgzPvj8fgvMdIc34mG_uFNepAU/edit) which is set for at least one month in advance. Variation to the rota is possible, and is expected to be done by developers voluntarily trading slots to suit the schedule of their projects or their plans for annual leave.
+[There’s a rota](https://docs.google.com/spreadsheets/d/1IGjo7oEndLkU0PKQChgzPvj8fgvMdIc34mG_uFNepAU/edit) which is set for at least one month in advance. Variation to the rota is possible, and is expected to be done by developers voluntarily trading slots to suit the schedule of their projects or their plans for annual leave.
 
 If you have a good reason to need a change but are unable to arrange one, then we’ll make sure we can accommodate the change. A good reason might be if you have a service assessment and the named developer is participating. Having lots of work on the backlog won’t usually be a valid reason.
 
