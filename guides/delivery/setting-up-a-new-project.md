@@ -76,13 +76,13 @@ Use the kick-off to introduce everyone to each other. It might be a good idea to
 It shouldn’t just be about people’s names, but roles and what each person will be doing on the project. Some further ideas:
 - Highlight people’s experience and expertise, particularly if it’s going to benefit the project or subject matter you’re working on
 - It is also important to say if any of the team members have worked on a previous phase of the same project/product/service
-make sure to point out who is full time/part time or if there is any different working pattern (such as compressed hours, any days they are not working, etc…)
-- Prep the client what the day will look like and set expectations. For example who the client should bring and what the agenda should be.
+- Make sure to point out who is full time/part time or if there is any different working pattern (such as compressed hours, any days they are not working, etc…)
+- Prep the client about what the day will look like and set expectations. For example who they should bring and what the agenda should be.
 
 ### Get to a shared understanding of what the work and priorities are
 There are a number of outcomes you should look to get out of a kick-off. This is important especially if we are working with that client for the first time and there are areas that are not very clear to us, or to them. You can structure a kick-off in the way that works best for you, but some frameworks that will help you get the outcomes you need are below:
-- [Good questions to kick off a discovery] (https://www.dxw.com/2019/06/good-questions-to-kick-off-a-discovery/)
-- [Running a roadmapping workshop] (http://playbook.dxw.com/#/guides/running-a-roadmapping-workshop)
+- [Good questions to kick off a discovery](https://www.dxw.com/2019/06/good-questions-to-kick-off-a-discovery/)
+- [Running a roadmapping workshop](http://playbook.dxw.com/#/guides/running-a-roadmapping-workshop)
 
 Aim to reach a shared understanding of what’s desired and what’s possible. This can be a Sprint goal, a high level vision, or going through the requirements and getting clarity on each of these points. The scope is flexible, and it varies from project to project, but the main outcome is to make sure the team and the client understand what will be done. You should:
 
