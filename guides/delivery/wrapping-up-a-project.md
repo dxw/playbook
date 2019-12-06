@@ -22,6 +22,7 @@ Finally, this is also a good opportunity to reflect on how the project has gone 
 When (roughly, based on a ~3 month project) | What 
 ------------------------------------------- | ---- 
 Penultimate sprint (or earlier) | Revisit the scope and make sure you’ve done everything you needed to
+Penultimate sprint (or earlier) | If a support contract is in place, make sure project docs are in place for support developers, set up service monitoring systems, and ensure that error reports are automatically raised in Zendesk.
 Final sprint | Run a whole project retro
 Final sprint | Check client has access to any documents or key pieces of information that they might need in the future. Make this tidy to help them find things later on. e.g. user research outputs or technical documentation
 Final week | Write a note to everyone who worked on the project. Use this to celebrate the work that has been done, and to look forward to what happens next. 
