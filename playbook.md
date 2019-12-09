@@ -1147,7 +1147,6 @@ With the development of dxw digital’s strategy team, we are increasingly  targ
 
 We also help clients host some of the services that we build, and by selling subscription-based products that are related to the rest of our work.
 
-
 ### Opportunities
 
 We bid on opportunities through a range of channels.
