@@ -1139,105 +1139,62 @@ The person you assign the ticket to will then treat it as a
 
 ### Typical projects
 
-We make most of our money by researching, designing and building web sites and
-apps. These are always for public sector organisations. Broadly speaking, they
-are either informational services ([corporate
-websites](https://www.judiciary.gov.uk),
-[campaigns](https://www.greatbusiness.gov.uk), intranets) or transactional
-services ([making payments, bookings, reporting
-things](https://www.youtube.com/watch?v=NN5B9rL_Hxs)). Sometimes they're a bit
-of both.
+Most of our projects are to  research, design , build and support  digital services for the public sector and organisations focused on work for ‘public good’. Broadly speaking, they are usually transactional services ([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs) or informational services ([corporate websites](https://www.judiciary.uk/), [campaigns](https://firekills.campaign.gov.uk), intranets) . Sometimes they're a bit of both.
 
-In so doing, we try to make sure that the organisations we're working with will
-be able to operate their new services well and sustainably. This sometimes
-involves work that an agency might not normally do, like advising an
-organisation's leaders on how their teams could be restructured, or on what
-their digital strategy could be.
+In so doing, we try to make sure that the organisations we're working with will be able to operate their new services well and sustainably. This sometimes involves work that an agency might not normally do, like advising an organisation's leaders on how their teams could be restructured, or on what their digital strategy could be.
 
-More directly, we earn money by scheduling people to work on solving problems,
-finding things out, or building things. We charge for this work by the day, and
-sell it in batches of days. Everyone is billed at the same day rate.
+With the development of dxw digital’s strategy team, we are increasingly  targeting more strategy-shaped opportunities, to help our clients prepare for, or improve the delivery of digital projects.
 
-We also make some of our money by hosting some of the services that we build,
-and by selling subscription-based products that are related to the rest of our
-work.
+We also help clients host some of the services that we build, and by selling subscription-based products that are related to the rest of our work.
 
-### Leads
 
-Most of our leads arrive via email as a result of recommendations and
-word-of-mouth. Some arrive via more formal channels like framework agreements or
-helpdesk tickets. Leads might arrive to anyone's email account. We try to make
-sure things arrive in the sales email account wherever we can.
+### Opportunities
 
-When any lead arrives, we record it in
-[PipelineDeals](https://www.pipelinedeals.com/home) as a *Deal*. However, we
-also use PipelineDeals to record information about projects we have sold. So, we
-don't refer to anything in PipelineDeals as a "Deal". We either call it a
-*lead*, or after it's sold, an *order*.
+We bid on opportunities through a range of channels.
 
-We record as much information as we can about leads when they arrive. A lead
-should always be described in enough detail that someone else in the team could
-pick it up and work on it if needs be. That means that we always record a
-sensible name, the details of the organisation and the contact information of
-the person we're talking to. If they have provided any documents, we upload
-those into PipelineDeals as well.
+Some  of our opportunities  arrive directly, often via email, as a result of recommendations, word-of-mouth or through our active engagement and networking in the digital and public sector community. 
 
-Leads go through several stages during their life, to show whether we're waiting
-for more information, waiting for a meeting, writing a proposal and so on.
+We also take on work that is received for existing services via helpdesk tickets.
 
-When the process ends, a lead will either be [won](#winning-work) or
-[lost](#losing-work).
+Most of the larger opportunities we bid on  arrive via more formal channels like public sector framework agreements such as the Digital Marketplace. 
+
+When any opportunity arrives, we record it in our CRM tool, Hubspot.  This happens automatically for  opportunities published on the Digital Marketplace Outcomes and Specialists framework. Other opportunities are entered individually into Hubspot if they arrive to a specific person. 
+
+We record as much information as we can about opportunities when they arrive. An opportunity should be described in enough detail that someone else in the team could pick it up and work on it if needs be. That means that we always record a sensible name, the details of the organisation and where possible, we associate the opportunity to the Hubspot contact and company record of the person we're talking to. If they have provided any documents, we upload those into Hubspot as well.
+
+Opportunities go through several stages during their life, to show whether we're waiting for more information, waiting for a meeting, writing a proposal and so on. For opportunities that we’re bidding on via the Digital Marketplace, our process mirrors the timelines buyers publish in alignment with these standard procurement rules.
+
+When the process ends, a lead will either be [won](#winning-work) or [lost](#losing-work).
 
 ### Qualifying a lead
 
-Before we spend too much time thinking about or working on a lead, we need to
-make sure that the work and the client are a good fit for us, and that we're a
-good fit for them.
+As we work in the open, we share new opportunities amongst our team using Slack, so that people can give their perspective on whether we should bid for a piece of work.
+
+Before we spend too much time working on an opportunity, we need to make sure that the work and the client are a good fit for us, and that we're a good fit for them.
 
 To do this, we:
 
 * Ensure that we understand what they need, and what their vision is
-* Ensure that there are no overt signs that they are not able to work in an
-  agile way. Check explicitly, if an opportunity arises
+* Ensure that there are no overt signs that they are not able to work in an agile way.
 * If possible, check that their budget is enough for the work they need
 * Make sure the work that they need is something we can do
-* Check that we'd be able to complete the work in time for whatever deadlines
-  they have
+* Check that we'd be able to complete the work in time for whatever deadlines they have
 
-When we mark a deal as Qualified, we update the summary to ensure that it
-accurately reflects the client's user needs and vision.
+When we mark an opportunity  as Potential, we update the summary to ensure that it accurately reflects the client's user needs and vision.
 
 ### Budgets
 
-Clients won't always be happy to talk about their budgets, but [we do need to
-know](https://medium.com/@monteiro/why-i-need-to-know-your-budget-a61ec864c898).
-If they absolutely can't tell us, we do our best to guess at what it probably
-is, based on the information we have.
+Clients aren’t always able to talk about their budgets, but [we do need to know](https://medium.com/@monteiro/why-i-need-to-know-your-budget-a61ec864c898). If they absolutely can't tell us, we do our best to estimate at what it probably is, based on the information we have.
 
-Where we don't think we could do what the client needs within their budget, we
-explore alternative options with them that are more affordable. Sometimes this
-works out, sometimes not. That's OK. Where it does, it tends to be because we've
-made a good case that it's better to have a small feature set that works really
-well than a large one that's slightly disappointing.
+Where we don't think we could do what the client needs within their budget, we explore alternative options with them that are more affordable. Sometimes this works out, sometimes not. That's ok. Where it does, it tends to be because we've made a good case that it's better to have a small feature set that works really well than a large one that's slightly disappointing.
 
-Where clients have a larger budget than we think they need, we say that too.
-This usually means explaining why we're able to do the work for less than they
-thought. We also think about what extra things we could do to improve their
-chances of success, and suggest extra work they could do.
+Where clients have a larger budget than we think they need, we say that too. This usually means explaining why we're able to do the work for less than they thought. We also think about what extra things we could do to improve their chances of success and suggest extra work they could do.
 
-Where a budget is disclosed that's more than we think is necessary, we usually
-propose a piece of work that uses that budget fully. But we're always open, and
-tell them that we've done this, and that we'd be delivering more than the
-minimum. And we're always happy to win a smaller bit of work than the client
-thought they'd need. We try to structure these proposals so that the extra work
-is easy to remove.
+Where a budget is disclosed that's more than we think is necessary, we usually propose a piece of work that uses that budget fully. But we're always open, and tell them that we've done this, and that we'd be delivering more than the minimum. And we're always happy to win a smaller bit of work than the client thought they'd need. We try to structure these proposals so that the extra work is easy to remove.
 
 ### Sales meetings
 
-Wherever possible, we meet prospective clients before writing a proposal. This
-is because face-to-face conversation is the most efficient way to communicate,
-and the projects we bid for are often complex. Often, this meeting is the way we
-qualify a lead.
+Wherever possible, we meet prospective clients before writing a proposal. This is because face-to-face conversation is the most efficient way to communicate, and the projects we bid for are often complex. Sometimes, this meeting is the way we qualify an opportunity.
 
 By the end of this meeting, we should make sure that we understand:
 
@@ -1251,8 +1208,8 @@ By the end of this meeting, we should make sure that we understand:
 
 This meeting usually involves quite a bit of discussion about the project. In
 those discussions, we speak freely and openly, offering advice where appropriate
-and making any suggestions we might have. Be as [helpful](#helpful),
-[positive](#positive) and [creative](#creative) as you can.
+and making any suggestions we might have. We always try to be as [helpful](#helpful),
+[positive](#positive) and [creative](#creative) as we can.
 
 It's important that we use this meeting to find out the information that we need
 to write a good proposal. But it's just as important to prove our expertise, to
@@ -1260,68 +1217,48 @@ deliver value early and to leave the client with a positive first impression.
 
 ### Proposals and tenders
 
-If the project is being tendered via a fixed process (like the Digital Services
-Framework) we'll respond by filling in a form that the client provides. These
-forms are not all the same, and the questions vary. If you're involved in this,
-have a good conversation with someone who's done it before first.
+If the project is being tendered via a fixed process (such as the Digital Marketplace, ) we'll respond by following the process  that the client requests.
 
-If we're writing a proposal following our own format, you'll have a proposal
-template to start from. The main things you'll need to write are:
+Bid writing is a team sport at dxw, so it’s important to involve the potential delivery team in the planning, writing and reviewing of the bid. This is important as it helps to set the team up for a successful pitch (if we need to do one) and eventual delivery if we win the work.
 
-* A description of the project's background. How did they get to the point
-  they're at now?
+Whilst the process tends to be similar, not all opportunities are exactly the same, for example, sometimes we’ll be provided will a form to complete, and other times we’ll have more flexibility on the format of our proposal. 
+
+If we're writing a proposal following our own format, we often start from a proposal template. The main things we’ll often need to write are:
+
+* A description of the project's background. How did they get to the point they're at now?
 * A description of the client's vision. What are they trying to do?
-* An initial set of epics. How does the client believe their vision will be met?
-* A cost for the work. How many sprints do we estimate we will we need to
-  deliver the work?
-* Details of any other work we'll do, like user research or
-  usability testing.
-* A rough timeline for when the sprints and other work will
-  happen.
+* An initial set of user needs. How does the client believe their service or project will make things better for these people?
+* Details of how we’ll approach the work 
+* A proposed team to do the work, their roles and profiles.
+* How many sprints we estimate we will we need to deliver the work.
+* A timeline for when we expect the sprints and other work will happen.
+* A cost for the work.
 
-There are lots of examples of these proposals that anyone can read if they like.
+There are lots of examples of these proposals that anyone at dxw can read if they like.
 
 ### The shape of a good project
 
-There aren't any strict rules about what projects we take on, except that the
-ultimate client must be a public sector organisation. But there are things that
-make some projects better for us than others. Good projects generally:
+There aren't any strict rules about what projects we take on, except that the client must be working at a public sector organisation, or an organisation focused on doing things for the public good. But there are things that make some projects better for us than others. Good projects generally:
 
-* Require 6 weeks of development work or more, so that there's time for at least
-  3 sprints
-* Are for clients who understand agile processes or are keen to learn them
+* Are with clients who understand agile processes or are keen to learn them
 * Include a reasonable amount of user research and usability testing
-* In the case of central government clients, are ones which have gone through
-  [spend controls](https://www.gov.uk/service-manual/technology/spending-controls.html)
-  and will be [service assessed](https://www.gov.uk/service-manual/digital-by-default/assessments-at-gds.html)
+* In the case of central government clients, are ones which have gone through [spend controls](https://www.gov.uk/service-manual/technology/spending-controls.html) and will be [service assessed](https://www.gov.uk/service-manual/digital-by-default/assessments-at-gds.html)
 * Have a budget sufficient to complete the work to a high standard
+* If we’re building a service, a general rule of thumb is that we usually suggest 6 weeks of development work or more, so that there's time for at least 3 sprints
 
 ### Winning work
 
-When we win work, we mark it as Won in PipelineDeals. We amend the budget,
-closing date and services sold if necessary. We write to the client to thank
-them and ask them for a convenient time to meet and start the work. We create
-invoices in Xero and save them as drafts, so we don't forget to bill them. And
-we add the project's sprints and other work to Forecast, so that the team can
-see who's working on what.
+When we win work, we mark it as Won in Hubspot. We amend the budget, closing date and services sold if necessary. We write to the client to thank them and ask them for a convenient time to meet and talk about how and when we’ll start the work. We talk to the scheduling team and add the project's sprints and other work to our scheduling tool 10000ft, so that the team can see who's working on what. And we talk to the finance team so that invoices can be created as drafts in our finance system Xero, so we don't forget to bill them. 
 
 ### Losing work
 
-When we lose work, we mark it as Lost in PipelineDeals. We write to the client
-to thank them for their interest and ask them for any feedback they might have.
-We usually also say that we'd be happy to talk about any future work they might
-have. We record the main reason we didn't win the work in PipelineDeals along
-with the detailed feedback.
+We don’t always win work we bid for, particularly when it is run via a competitive tendering process, such as on the Digital Outcomes and Specialists framework. 
 
-### Administration
+When we lose work, we mark it as Lost in Hubspot. We write to the client to thank them for their interest and ask them for any feedback they might have. We usually also say that we'd be happy to talk about any future work they might have. We record the main reason we didn't win the work in Hubspot along with the detailed feedback.
 
-There's quite a lot of work involved in a given sale, as it moves through the
-stages of the pipeline. To help manage this, we have tasks in PipelineDeals that
-are automatically created when leads' statuses change. We can all do things to
-help this process flow smoothly. Some of us are responsible for particular
-tasks, which it's important to complete on time. Others will just be in a
-position to help when they notice an incorrect field, a missing contact or a
-missing file. We always correct these things when we can.
+We do our best to incorporate this feedback into future bids.
+
+Some opportunities, upon review with the team or following discussions with the client, turn out not to be dxw-shaped things. This could be for lots of reasons - capacity, capability, location and so on. This is okay. When this happens, we update the client as soon as we can, explaining the reasons for our decision.  We mark these opportunities as No bid in Hubspot, recording the main reason we made this decision, along with any context.
 
 ## Recruitment
 
