@@ -1,10 +1,10 @@
 # Daily standups
 
-[What are they?](##what-are-they?)
-[Who should join?](##who-should-join?)
-[What does a good standup cover?](##what-does-a-good-standup-cover?)
-[Getting the most out of standups](##getting-the-most-out-of-standups)
-[Other tips](##other-tips)
+- [What are they?](##what-are-they?)
+- [Who should join?](##who-should-join?)
+- [What does a good standup cover?](##what-does-a-good-standup-cover?)
+- [Getting the most out of standups](##getting-the-most-out-of-standups)
+- [Other tips](##other-tips)
 
 ## What are they?
 A short and focused meeting for the team to check in on progress. They shouldn’t last any longer than 15 minutes. 
