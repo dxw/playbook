@@ -38,7 +38,6 @@ Activities in discovery include:
 - Findings about current processes or the existing service.
 - Estimated scale and costs for developing a new service.
 
-
 ## Alpha
 After committing to building a new service, we need to understand how it will work for users and how it will integrate with existing processes and systems. **This is alpha.**
 
@@ -55,7 +54,6 @@ Activities in alpha include:
 - A roadmap and plan for a beta phase.
 - Metrics to measure performance.
 - Research findings in the form of user stories and journey maps.
-
 
 ## Beta
 With a clear scope, user needs, and technical approach in place, we are ready to build a working version of the service. **This is beta.**
@@ -76,7 +74,6 @@ Activities in beta include:
 - A backlog of development tasks for ongoing iterations
 - An approach for security
 
-
 ## Live
 Once a service is being used for real transactions, continuous improvements can be made based on feedback, research and data. **This is live.**
 
@@ -94,7 +91,6 @@ Activities in live include:
 - A backlog of development tasks for ongoing iterations
 - Security tests
 
-
 ## Adapting our approach
 Clients have different ways of working. They may not be familiar with the Service Manual. Or they may have a slightly different approach to agile to us. 
 
@@ -105,16 +101,3 @@ We can support our clients by:
 - Helping them understand terminology such as “sprint ceremonies” 
 - Coaching them to think about user needs, lead ceremonies, or work openly
 - Helping them to apply the principles of the Service Manual in their own context
-
-
-
-
-
-
-
-
-
-
-
-
-
