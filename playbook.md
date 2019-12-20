@@ -2016,7 +2016,7 @@ Everyone who works on a client project at dxw digital is responsible for reporti
 
 We use [10,000ft](https://app.10000ft.com/) to schedule our work, which helps us to forecast our capacity over future weeks and months in a reliable way.
 
-Our Commercial Operations team update the schedule to reflect any planned leave, which helps us to look ahead - this is recorded as “Out of office". Each member of our delivery team uses the tool to record the days they work on client projects on a weekly basis.
+When your planned leave has been approved, update the schedule in 10,000ft to reflect this. This helps us to look ahead and is recorded as “Out of office". Each member of our delivery team uses the tool to record the days they work on client projects on a weekly basis.
 
 We track our time at the same level of granularity that we bill it – for almost everyone in the team, that’s half days or whole days.
 
