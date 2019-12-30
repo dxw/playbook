@@ -1763,23 +1763,23 @@ as of 1st April each year.
 
 If you want to take time off:
 
-* **Discuss the dates with your team**: this gives them a chance to think about
-  the impact it will have on the team and the project
-* **Request the holiday through BreatheHR**: we use BreatheHR to track who's
-  off when so we can plan for it
-* **Add your holiday to your calendar**: if someone is trying to find out where
-  you are or when you're available the first thing they'll check is your
-  calendar
+1. Discuss the dates with your team and delivery lead
 
-For client-facing roles, you may also need to add your holiday to a shared or team calendar. Check with your delivery lead.
+   This gives them a chance to manage any impact it might have on the wider team and the project.
+   
+1. Request the holiday through BreatheHR
 
-We try very hard to make sure that all holiday requests are granted,
-irrespective of when they are made. But it's much easier for delivery leads
-to plan ahead when they have lots of notice, so please don't leave your requests
-to the last minute.
+   We use BreatheHR to track who's off and when, so we can plan for it. Your line manager can then see and approve your request.
 
-There is more information about dxw's holiday arrangements in your contract of
-employment.
+1. Add your holiday to your Google calendar
+
+   If someone is trying to find out where you are, or when you're available, the first thing they'll check is your calendar.
+
+   When you are on a client project, you may also need to add your holiday to a shared or team calendar. Check with your delivery lead.
+
+Your line manager will normally approve requests that are for 10 days or less and made at least 4 weeks in advance. Anything longer or requested with less notice will need to be managed to understand its impact on client, team or personal work.
+
+There is more information about dxw's holiday arrangements in your contract of employment.
 
 ### Sickness
 
@@ -1815,6 +1815,12 @@ give consideration to your possible dismissal.
 
 We will always only consider dismissal after we have exhausted all other
 reasonable options.
+
+### Compassionate leave 
+
+If you need to take compassionate leave, let your line manager and a member of the HR team know, so we can support you in the right way. If you are on a project, we can then work with your delivery lead to manage the impact on the team.
+
+To record the compassionate leave in BreatheHR, choose Other as the Type of Leave, and choose Compassionate as the Reason.
 
 ### Parental leave
 
