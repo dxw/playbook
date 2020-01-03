@@ -1165,21 +1165,28 @@ Opportunities go through several stages during their life, to show whether we're
 
 When the process ends, a lead will either be [won](#winning-work) or [lost](#losing-work).
 
-### Qualifying a lead
+### Screening potential projects
 
-As we work in the open, we share new opportunities amongst our team using Slack, so that people can give their perspective on whether we should bid for a piece of work.
+At dxw our mission is to help create public services that improve people’s lives. Whether we achieve this depends a lot on the work we choose to do. 
+We encourage an open and honest discussion about which work we take on. And we actively seek different perspectives, both inside and outside of dxw.
 
-Before we spend too much time working on an opportunity, we need to make sure that the work and the client are a good fit for us, and that we're a good fit for them.
+To decide whether a potential project is ethical and supports our mission, we consider:
+* **Value**
 
-To do this, we:
+  The work is beneficial to the public, the client and dxw.
+  
+* **Practicality**
 
-* Ensure that we understand what they need, and what their vision is
-* Ensure that there are no overt signs that they are not able to work in an agile way.
-* If possible, check that their budget is enough for the work they need
-* Make sure the work that they need is something we can do
-* Check that we'd be able to complete the work in time for whatever deadlines they have
+  We can produce a great result within the likely constraints.
 
-When we mark an opportunity  as Potential, we update the summary to ensure that it accurately reflects the client's user needs and vision.
+* **Culture**
+  
+  We can work together with the client, the users and other stakeholders in ways that support our [values](#values) and [principles](#principles).
+  
+### Matching people to projects
+
+We understand that members of staff may have ethical, religious or other concerns about working on a particular project.
+If you do have concerns about a project, please raise them with your line manager or head of profession.
 
 ### Budgets
 
@@ -1234,16 +1241,6 @@ If we're writing a proposal following our own format, we often start from a prop
 * A cost for the work.
 
 There are lots of examples of these proposals that anyone at dxw can read if they like.
-
-### The shape of a good project
-
-There aren't any strict rules about what projects we take on, except that the client must be working at a public sector organisation, or an organisation focused on doing things for the public good. But there are things that make some projects better for us than others. Good projects generally:
-
-* Are with clients who understand agile processes or are keen to learn them
-* Include a reasonable amount of user research and usability testing
-* In the case of central government clients, are ones which have gone through [spend controls](https://www.gov.uk/service-manual/technology/spending-controls.html) and will be [service assessed](https://www.gov.uk/service-manual/digital-by-default/assessments-at-gds.html)
-* Have a budget sufficient to complete the work to a high standard
-* If we’re building a service, a general rule of thumb is that we usually suggest 6 weeks of development work or more, so that there's time for at least 3 sprints
 
 ### Winning work
 
