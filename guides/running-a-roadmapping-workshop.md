@@ -47,15 +47,15 @@ After the workshop, the roadmap becomes a living part of the project documentati
 
 **About the service**
 
-3. Who are the users?
+4. Who are the users?
 
    Are they members of the public, professionals or staff? What different groups, circumstances and behaviours might be important? Are they current or potential users?
 
-3. What are we operating?
+4. What are we operating?
 
    What digital and physical components will the service be made up of? What people will be involved in operating the service? How will we roll out the service? 
 
-3. What capabilities do we need?
+4. What capabilities do we need?
    What capabilities will we need to build and operate the service? What do we already have? What is new? What is well understood and what is novel?
 
 **About the context**
