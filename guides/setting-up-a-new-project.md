@@ -81,7 +81,7 @@ It shouldn’t just be about people’s names, but roles and what each person wi
 
 ### Get to a shared understanding of what the work and priorities are
 There are a number of outcomes you should look to get out of a kick-off. This is important especially if we are working with that client for the first time and there are areas that are not very clear to us, or to them. You can structure a kick-off in the way that works best for you, but some frameworks that will help you get the outcomes you need are below:
-- [Good questions to kick off a discovery](https://www.dxw.com/2019/06/good-questions-to-kick-off-a-discovery/)
+- [Running a discovery kick-off workshop](http://playbook.dxw.com/#/guides/running-a-discovery-kick-off-workshop)
 - [Running a roadmapping workshop](http://playbook.dxw.com/#/guides/running-a-roadmapping-workshop)
 
 Aim to reach a shared understanding of what’s desired and what’s possible. This can be a Sprint goal, a high level vision, or going through the requirements and getting clarity on each of these points. The scope is flexible, and it varies from project to project, but the main outcome is to make sure the team and the client understand what will be done. You should:
