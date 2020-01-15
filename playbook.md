@@ -2198,7 +2198,7 @@ Attending conferences and events that are not related to your role, is a taxable
 
 ##### How it works
 
-The allowance will be available to everyone once they have completed their probation period, within the dxw financial year which runs from the start of July to end June. It will be pro-rata for staff who work part-time. If you don’t spend your allowance within the financial year, it cannot be carried over.  We will start afresh each year, as part of our annual budgeting cycle.
+The allowance will be available to everyone once they have completed their probation period, within the dxw financial year which runs from the start of July to end June. It will be pro-rata for staff who work part-time. If you don’t spend your allowance within the financial year, it cannot be carried over.  We will start afresh each year, as part of our annual budgeting cycle. Your allowance is counted as being spent at the time of purchase rather than at time of use; for example, if you buy a conference ticket in May for an event in July the same year, the deduction will be made to the budget for the financial year that May falls within.
 
 Any events (paid, free, speaking, etc) you attend should be logged in BreatheHR as a training request. If they do require payment, please include weblinks and an estimate of the ticket, accommodation and travel costs (up to the maximum of £750, though you are welcome to pay the difference for more expensive events). This helps manage the annual budget and will give you a great view of what you have attended in the year.
 
