@@ -13,7 +13,6 @@
   - [Playbook style guide](guides/style-guide.md)
   - [Plugin advisories](guides/plugin-advisories.md)
   - [Plugin reviews](guides/plugin-reviews.md)
-  - [Plugin updates](guides/plugin-updates.md)
   - [Running a discovery kick-off workshop](guides/running-a-discovery-kick-off-workshop.md)
   - [Running a roadmapping workshop](guides/running-a-roadmapping-workshop.md)
   - [Setting up a new project](guides/setting-up-a-new-project.md)
