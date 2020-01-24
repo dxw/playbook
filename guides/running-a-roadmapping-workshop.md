@@ -40,9 +40,11 @@ After the workshop, the roadmap becomes a living part of the project documentati
    What are the overall goals for the project and service? What intermediate outcomes do we want to achieve?  How might we measure them?
 
 1. What are we assuming?
+
    What ideas and beliefs are our goals and outcomes based on? How confident are we that they are true? That they won’t change?
 
 1. What are we trying to learn or prove?
+
    What do we need to know to make good decisions? What might the organisation already know? What risky assumptions should we be testing? What will we need to prove to validate our work?
 
 **About the service**
@@ -56,6 +58,7 @@ After the workshop, the roadmap becomes a living part of the project documentati
    What digital and physical components will the service be made up of? What people will be involved in operating the service? How will we roll out the service? 
 
 4. What capabilities do we need?
+
    What capabilities will we need to build and operate the service? What do we already have? What is new? What is well understood and what is novel?
 
 **About the context**
