@@ -712,41 +712,49 @@ The guide starts with the user research workflow, which describes the things tha
 
 Designers at dxw follow these principles:
 
-1. **Have faith in your instinct and experience**
+1. **Democratise the design process**
 
-   Don’t throw away your gut instinct, but do filter decisions through the lens of research and data.
+   Take into account, and value highly, the input of others in the design process. While we are ultimately responsible for design in a delivery team, we don’t work in isolation.
 
-1. **Be contagiously optimistic**
+1. **Value clarity in everything we do**
 
-   Help others to see what’s possible. Share your excitement. Spread enthusiasm.
+   Use plain language in interfaces, writing and conversation.
 
-1. **Embrace the overlap**
+1. **Overlap with other disciplines**
 
-   Good work happens in the spaces between disciplines. A difference of opinion is a good thing. Bring others along on the journey.
+   Work closely with people that have different skills to you, in the knowledge that different perspectives make our decisions stronger and elevate our work.
 
-1. **Simple is better**
+1. **Communicate constantly**
 
-   We do the hard work to make things simple. We aim for simplicity and clarity in the things we design, and the ways in which we design them.
+   Never go missing. Our teammates always understand what we’re doing and why, because we’re all aiming for the same outcome.
 
-1. **Don’t be afraid to try, and to share**
+1. **Know we are not the user**
 
-   Every time something is not quite right, it’s an opportunity to learn and adapt.
+   Don’t assume to know how users of our services think or act. We acknowledge that things such as genetics, upbringing, religious and geographical culture, and past experiences make us all different. We work closely with our user researchers to gain understanding and insight about the people that use the things we design. _“One accurate measurement is worth more than a thousand expert opinions.”_ ~ Grace Hopper
 
-1. **Interrogate everything to understand the user and their needs**
+1. **Be educators**
 
-   Be constantly curious. Never stop asking questions. We can never be too empathetic.
+   Know that being open about our work, and helping others to understand our decisions and why we make them, benefits everybody.
 
-1. **Communicate constantly and confidently**
+1. **Be kind**
 
-   Record decisions so we can learn from them. Share them. Make design a team sport.
+   Be tolerant, understanding, empathetic and compassionate. Look for opportunities to help and care for others. Putting people at the centre of everything will help you be a better designer.
 
-1. **Use the right tools and methods for the desired outcome**
+1. **Embrace questions**
 
-   It might be pen and paper, software, or a conversation. Choose the appropriate fidelity for the given task.
+   Understand that when people ask questions and give feedback it is to make something better. If we can’t articulate our decisions then we may not have made the best choice.
 
-1. **Good design is never finished**
+1. **Ask questions**
 
-   There is always room for improvement. Design can always be made better. There is a difference between ‘done’ and ‘finished’.
+   Always ask questions and seek the truth;  when we understand the problem we can solve it. When things seem muddy take a step back and try and find the original intent or gaps of understanding. _“If I had an hour to solve a problem I’d spend 55 minutes thinking about the problem and five minutes thinking about solutions.”_ ~ Albert Einstein
+
+1. **Always assume the best intent**
+
+   We are passionate about what we do, but we are a team. When you have difficult conversations or feedback we should always assume that it is coming from a good place.
+
+1. **Tell stories**
+
+   When we talk about our work and why we do what we do, don’t just state the facts. Inject some humanity into it; turn it into a story with a beginning, a middle,  and an end.
 
 ### Development
 
@@ -1151,13 +1159,13 @@ We also help clients host some of the services that we build, and by selling sub
 
 We bid on opportunities through a range of channels.
 
-Some  of our opportunities  arrive directly, often via email, as a result of recommendations, word-of-mouth or through our active engagement and networking in the digital and public sector community. 
+Some  of our opportunities  arrive directly, often via email, as a result of recommendations, word-of-mouth or through our active engagement and networking in the digital and public sector community.
 
 We also take on work that is received for existing services via helpdesk tickets.
 
-Most of the larger opportunities we bid on  arrive via more formal channels like public sector framework agreements such as the Digital Marketplace. 
+Most of the larger opportunities we bid on  arrive via more formal channels like public sector framework agreements such as the Digital Marketplace.
 
-When any opportunity arrives, we record it in our CRM tool, Hubspot.  This happens automatically for  opportunities published on the Digital Marketplace Outcomes and Specialists framework. Other opportunities are entered individually into Hubspot if they arrive to a specific person. 
+When any opportunity arrives, we record it in our CRM tool, Hubspot.  This happens automatically for  opportunities published on the Digital Marketplace Outcomes and Specialists framework. Other opportunities are entered individually into Hubspot if they arrive to a specific person.
 
 We record as much information as we can about opportunities when they arrive. An opportunity should be described in enough detail that someone else in the team could pick it up and work on it if needs be. That means that we always record a sensible name, the details of the organisation and where possible, we associate the opportunity to the Hubspot contact and company record of the person we're talking to. If they have provided any documents, we upload those into Hubspot as well.
 
@@ -1167,22 +1175,22 @@ When the process ends, a lead will either be [won](#winning-work) or [lost](#los
 
 ### Screening potential projects
 
-At dxw our mission is to help create public services that improve people’s lives. Whether we achieve this depends a lot on the work we choose to do. 
+At dxw our mission is to help create public services that improve people’s lives. Whether we achieve this depends a lot on the work we choose to do.
 We encourage an open and honest discussion about which work we take on. And we actively seek different perspectives, both inside and outside of dxw.
 
 To decide whether a potential project is ethical and supports our mission, we consider:
 * **Value**
 
   The work is beneficial to the public, the client and dxw.
-  
+
 * **Practicality**
 
   We can produce a great result within the likely constraints.
 
 * **Culture**
-  
+
   We can work together with the client, the users and other stakeholders in ways that support our [values](#values) and [principles](#principles).
-  
+
 ### Matching people to projects
 
 We understand that members of staff may have ethical, religious or other concerns about working on a particular project.
@@ -1227,14 +1235,14 @@ If the project is being tendered via a fixed process (such as the Digital Market
 
 Bid writing is a team sport at dxw, so it’s important to involve the potential delivery team in the planning, writing and reviewing of the bid. This is important as it helps to set the team up for a successful pitch (if we need to do one) and eventual delivery if we win the work.
 
-Whilst the process tends to be similar, not all opportunities are exactly the same, for example, sometimes we’ll be provided will a form to complete, and other times we’ll have more flexibility on the format of our proposal. 
+Whilst the process tends to be similar, not all opportunities are exactly the same, for example, sometimes we’ll be provided will a form to complete, and other times we’ll have more flexibility on the format of our proposal.
 
 If we're writing a proposal following our own format, we often start from a proposal template. The main things we’ll often need to write are:
 
 * A description of the project's background. How did they get to the point they're at now?
 * A description of the client's vision. What are they trying to do?
 * An initial set of user needs. How does the client believe their service or project will make things better for these people?
-* Details of how we’ll approach the work 
+* Details of how we’ll approach the work
 * A proposed team to do the work, their roles and profiles.
 * How many sprints we estimate we will we need to deliver the work.
 * A timeline for when we expect the sprints and other work will happen.
@@ -1244,11 +1252,11 @@ There are lots of examples of these proposals that anyone at dxw can read if the
 
 ### Winning work
 
-When we win work, we mark it as Won in Hubspot. We amend the budget, closing date and services sold if necessary. We write to the client to thank them and ask them for a convenient time to meet and talk about how and when we’ll start the work. We talk to the scheduling team and add the project's sprints and other work to our scheduling tool 10000ft, so that the team can see who's working on what. And we talk to the finance team so that invoices can be created as drafts in our finance system Xero, so we don't forget to bill them. 
+When we win work, we mark it as Won in Hubspot. We amend the budget, closing date and services sold if necessary. We write to the client to thank them and ask them for a convenient time to meet and talk about how and when we’ll start the work. We talk to the scheduling team and add the project's sprints and other work to our scheduling tool 10000ft, so that the team can see who's working on what. And we talk to the finance team so that invoices can be created as drafts in our finance system Xero, so we don't forget to bill them.
 
 ### Losing work
 
-We don’t always win work we bid for, particularly when it is run via a competitive tendering process, such as on the Digital Outcomes and Specialists framework. 
+We don’t always win work we bid for, particularly when it is run via a competitive tendering process, such as on the Digital Outcomes and Specialists framework.
 
 When we lose work, we mark it as Lost in Hubspot. We write to the client to thank them for their interest and ask them for any feedback they might have. We usually also say that we'd be happy to talk about any future work they might have. We record the main reason we didn't win the work in Hubspot along with the detailed feedback.
 
@@ -1699,7 +1707,7 @@ If you want to take time off:
 1. Discuss the dates with your team and delivery lead
 
    This gives them a chance to manage any impact it might have on the wider team and the project.
-   
+
 1. Request the holiday through BreatheHR
 
    We use BreatheHR to track who's off and when, so we can plan for it. Your line manager can then see and approve your request.
@@ -1749,7 +1757,7 @@ give consideration to your possible dismissal.
 We will always only consider dismissal after we have exhausted all other
 reasonable options.
 
-### Compassionate leave 
+### Compassionate leave
 
 If you need to take compassionate leave, let your line manager and a member of the HR team know, so we can support you in the right way. If you are on a project, we can then work with your delivery lead to manage the impact on the team.
 
