@@ -754,7 +754,7 @@ Designers at dxw follow these principles:
 
 1. **Tell stories**
 
-   When we talk about our work and why we do what we do, don’t just state the facts. Inject some humanity into it; turn it into a story with a beginning, a middle,  and an end.
+   When we talk about our work and why we do what we do, do not just state the facts. Inject some humanity into it; turn it into a story with a beginning, a middle,  and an end.
 
 ### Development
 
