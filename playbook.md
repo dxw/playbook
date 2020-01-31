@@ -730,7 +730,7 @@ Designers at dxw follow these principles:
 
 1. **Know we are not the user**
 
-   Don’t assume to know how users of our services think or act. We acknowledge that things such as genetics, upbringing, religious and geographical culture, and past experiences make us all different. We work closely with our user researchers to gain understanding and insight about the people that use the things we design. _“One accurate measurement is worth more than a thousand expert opinions.”_ ~ Grace Hopper
+   Do not assume to know how users of our services think or act. We acknowledge that things such as genetics, upbringing, religious and geographical culture, and past experiences make us all different. We work closely with our user researchers to gain understanding and insight about the people that use the things we design. _“One accurate measurement is worth more than a thousand expert opinions.”_ ~ Grace Hopper
 
 1. **Be educators**
 
