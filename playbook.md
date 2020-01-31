@@ -742,7 +742,7 @@ Designers at dxw follow these principles:
 
 1. **Embrace questions**
 
-   Understand that when people ask questions and give feedback it is to make something better. If we can’t articulate our decisions then we may not have made the best choice.
+   Understand that when people ask questions and give feedback it is to make something better. If we can not articulate our decisions then we may not have made the best choice.
 
 1. **Ask questions**
 
