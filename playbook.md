@@ -746,7 +746,7 @@ Designers at dxw follow these principles:
 
 1. **Ask questions**
 
-   Always ask questions and seek the truth;  when we understand the problem we can solve it. When things seem muddy take a step back and try and find the original intent or gaps of understanding. _“If I had an hour to solve a problem I’d spend 55 minutes thinking about the problem and five minutes thinking about solutions.”_ ~ Albert Einstein
+   Always ask questions and seek the truth;  when we understand the problem we can solve it. When things seem muddy take a step back and try and find the original intent or gaps in understanding. _“If I had an hour to solve a problem I’d spend 55 minutes thinking about the problem and five minutes thinking about solutions.”_ ~ Albert Einstein
 
 1. **Always assume the best intent**
 
