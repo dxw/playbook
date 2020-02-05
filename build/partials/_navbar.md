@@ -6,6 +6,7 @@
   - [Claiming expenses](guides/claiming-expenses.md)
   - [Contributing to the Playbook](contributing.md)
   - [Daily standups](guides/daily-standups.md)
+  - [Design career progression framework](guides/design-career-progression-framework.md)
   - [Development workflow](guides/development-workflow.md)
   - [How we do pitches](guides/how-we-do-pitches.md)
   - [How we do user research](guides/how-we-do-user-research.md)
