@@ -14,8 +14,8 @@ We use 10kft to schedule client work, across all three business units: delivery,
 *There are many aspects to scheduling, these predominantly are:*
 
 1.  future work we could win
-2.  current work being extended or amended
-3.  team shape changing
+1.  current work being extended or amended
+1.  team shape changing
 
 Before the weekly scheduling meeting, 10kft should reflect:
 
