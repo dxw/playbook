@@ -1,0 +1,67 @@
+# Team and project scheduling
+
+***If there are any questions about anything mentioned in this guide, put a message in the #scheduling slack channel - most people in this channel have a good level of knowledge of 10kft and should be able to offer clarification.***
+
+- [What we use 10kft for and why](## What we use 10kft for and why)
+ 
+## What we use 10kft for and why
+
+### Forecasting for sales
+Our sales team secure us new work, and so need to be able to use 10kft to understand team availability and capacity. They also need to know the skill shapes we have available. This helps us to match people to projects.**
+
+### Scheduling work
+
+We use 10kft to schedule client work, across all three business units: delivery, strategy and technical operations. The scheduling team, a combination of sales, delivery and strategy team members, meet weekly to talk through team availability and the gaps we have in our schedule. Actions and decisions are noted in the #scheduling slack channel.
+
+*There are many aspects to scheduling, these predominantly are:*
+
+1.  future work we could win
+2.  current work being extended or amended
+3.  team shape changing
+
+Before the weekly scheduling meeting, 10kft should reflect:
+
+-   project needs: changes to existing projects
+-   sales needs: confirmed and potential new work
+
+Before each weekly meeting, the person responsible for the project or new sales lead ensures 10kft is updated. We use placeholders to reflect needs.
+
+During the meeting we use these placeholders to have discussions around the needs of the project: what the skill shape is and whether that matches up with the gaps in the schedule and the team members we have available.
+
+We base our scheduling conversation around placeholders. If a project or sales need isn’t added ahead of the scheduling meeting, it could be another week before needs are discussed.
+
+Tentative placeholders then get reassigned during the meeting once confirmed.
+
+### Sales opportunities - a bit more detail
+
+Tentative placeholders should be added to 10ft as soon as an opportunity reaches the pitch stage of a bid, to be discussed at scheduling.
+
+Each sales opportunity has a “sales lead”. This person is responsible for coming to scheduling to give the latest update and share the likelihood of a win, so we can assess against a project needing a similar skill set. This is compulsory. We undermine our own process if we do not have the latest information.
+
+The **sales lead** should:
+
+-   describe and explain the new opportunity in the #scheduling slack channel. Including nature of work, proposed team shape, possible scheduling challenges & potential start date
+-   add a tentative placeholder to 10kft. Go to the “How to…” sections for details of how to do this
+-   leave notes in scheduling channel with latest information
+  
+Once a sales opportunity is realised, this is handed over to the “project lead”, assigned to that work.
+
+The **project lead** should:
+
+-   ensure all tentative placeholders are accurate in 10kft    
+-   speak with the team assigned to the work to discuss next steps
+-   review and amend where needed the project set up in 10kft
+
+### Reporting our time
+
+Every team member working on a client or named project is responsible for reporting their time, as mentioned [here](http://playbook.dxw.com/#/?id=reporting-our-time) in the playbook. More on how to do this in the “how to” section.
+
+### Reporting against the business plan
+
+Every month, we use the data reported in 10kft to understand things like billing and utilisation numbers. This helps us see if we’re where we thought we’d be, if this matches up to our projections and if not, why.  
+
+Some reasons why this is helpful for us as a business:
+
+-   It helps us understand if we need to schedule more work or if we’re over capacity. This means we can better predict if we need to grow the team or take a pause on recruitment.
+-  We can see who is free for dxw days. So we can use this information to try and schedule/plan an internal project. Especially useful if this is not on a Friday.    
+-   Similarly, we can use this information in compiling reports to reflect the value of dxw days.
