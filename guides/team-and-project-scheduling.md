@@ -1,13 +1,11 @@
 # Team and project scheduling
 
 ***If there are any questions about anything mentioned in this guide, put a message in the #scheduling slack channel - most people in this channel have a good level of knowledge of 10kft and should be able to offer clarification.***
-
-- [What we use 10kft for and why](## What we use 10kft for and why)
  
 ## What we use 10kft for and why
 
 ### Forecasting for sales
-Our sales team secure us new work, and so need to be able to use 10kft to understand team availability and capacity. They also need to know the skill shapes we have available. This helps us to match people to projects.**
+Our sales team secure us new work, and so need to be able to use 10kft to understand team availability and capacity. They also need to know the skill shapes we have available. This helps us to match people to projects.
 
 ### Scheduling work
 
@@ -54,7 +52,7 @@ The **project lead** should:
 
 ### Reporting our time
 
-Every team member working on a client or named project is responsible for reporting their time, as mentioned [here](http://playbook.dxw.com/#/?id=reporting-our-time) in the playbook. More on how to do this in the “how to” section.
+Every team member working on a client or named project is responsible for reporting their time, as mentioned [in the playbook](http://playbook.dxw.com/#/?id=reporting-our-time). More on how to do this in the “how to” section.
 
 ### Reporting against the business plan
 
