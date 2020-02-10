@@ -46,20 +46,21 @@ There is some overlap between practitioner and manager at the senior level, wher
 
 Getting up and running won’t be straightforward, but we’ll be designing people’s careers — not just for those here now, but for those to join in the future.
 
-## Tracking progression
-
-At regular intervals throughout the year, your usual 1:1 with your manager will be substituted for a meeting where together you’ll review your progression as measured against the framework. These meetings will be scheduled for 90 minutes. These meetings can be quite intensive, so we’ll have the opportunity for a half-time break.
-
-In these meetings you’ll choose with your manager the proficiencies you’d like to concentrate on over the following three months. Narrowing it down to a handful will enable you to focus more deeply on each proficiency.
-We’ll also occasionally look retrospectively at levels of proficiency you’ve already achieved, to make sure they’re still an active element in your day-to-day work.
-
 ## The Framework
 
 The framework content – levels and proficiencies – is kept as a single-source-of-truth in a Google Sheet (shared internally at dxw only, for now).
 
-Every member of the team also has their own Sheet, with a tab dated for each formal review, for tracking progression and gathering examples for review meetings.
-
 It’s entirely down to team members how they gather examples to use as discussion pieces for review meetings. You might use Google Docs or Sheets, or Trello, or Miro. Whatever works best for you is fine, but you will need to be able to paste links to whatever you’ve collected into your tracking GSheet at review time.
+
+## Tracking progression: review meetings
+
+At regular intervals throughout the year, your usual 1:1 with your manager will be substituted for a meeting where together you’ll review your progression as measured against the framework.
+
+Review meeting dates should be flexible and set by the design team members in consultation with their manager — but with the condition that they must be no less than three months apart, and no more than six months apart. These meetings will be scheduled for 90 minutes; they can be quite intensive, so we’ll have the opportunity for a half-time break.
+
+In these meetings you’ll review progress on your chosen proficiencies over the time since your last review. You’ll also choose the proficiencies you’d like to concentrate on in the time before your next review. Narrowing it down to a handful will enable you to focus more deeply on each proficiency. You’ll also occasionally look retrospectively at levels of proficiency you’ve already achieved, to make sure they’re still an active element in your day-to-day work.
+
+Every member of the team has their own Google Sheet, with a tab dated for each formal review, where levels of proficiency are tracked and displayed as charts. These sheets are the single source of truth for an individual's progression, and they're filled out with your manager in the review meeting.
 
 ## Where did the framework come from?
 
