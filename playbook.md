@@ -966,6 +966,43 @@ The sales and marketing teams at dxw digital follow these principles:
 
    We’re open about our values and the way we work in dxw digital. We give our team members a voice because we’re proud of our diverse and inclusive culture.
 
+## Meetings with your manager
+
+### One-to-ones
+
+#### Purpose
+
+For your manager to help you with your professional development, with your wellbeing as a person, and to build a trusting relationship between the two of you.
+
+#### Overview
+
+These meetings are about you; ideally you will feel happy driving the meeting. If you’re not confident doing this, or are unsure how best to approach it, your manager will help you to get there.
+
+#### Agenda and topics
+
+Coming to your 1:1s with a list of things you’d like to discuss will help you make the most of the time. Some things you might find productive to talk about include:
+
+- **Your career and growth goals:** Don’t assume your manager knows all your aspirations. Bring them up in your 1:1s. Your manager understands you won’t work for them forever and they want you to have a happy, fulfilling career — whatever that means to you. Tip: if you want to talk about your long-term goals but feel uneasy about it, ask your manager to do the same.
+- **Team improvement:** Have an idea that will help your team to work better? Use your manager as a sounding board to help you refine and implement your suggestion.
+- **Self improvement:** Got a specific thing you’d like some help, coaching or feedback on? A technical skill or a soft skill? Your 1:1 is the place to bring it up. Remember that you can use the 1:1s that fall between career progression reviews to discuss any of the proficiencies you’re currently trying to level up on.
+- **Personal issues:** Anything going on outside of work that’s affecting your wellbeing? Physical or mental illness, bereavement, family issues, stress? The more you can tell your manager, the more they can try to help, and make accommodations for you at work.
+- **Interpersonal issues:** Having problems with a coworker? Your manager can help mediate or coach you through how to deal with the issue.
+- **Retrospection:** If at any time you feel like your 1:1s aren’t particularly productive or helpful, or you’d like to change something about them, don’t hesitate to bring this up with your manager.
+
+#### Frequency
+
+1:1s will be in your calendar every other week. Where possible they’ll be face-to-face, either in the office or out for a walk, or a coffee. Where that’s not possible, remote is perfectly fine. There’ll always be a Google Meet link in the calendar invite.
+
+If you need to reschedule your 1:1, let your manager know at the earliest opportunity.
+
+#### Meeting length
+
+An hour or so, at least once every two weeks, is a good standard to aim for. 
+
+#### Additional resources
+
+Here’s a great article on 7 ways to prepare for an effective one-on-one meeting with your manager.
+
 ## Hosting and supporting services
 
 ### GovPress
