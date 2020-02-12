@@ -62,6 +62,8 @@ In these meetings you’ll review progress on your chosen proficiencies over the
 
 Every member of the team has their own Google Sheet, with a tab dated for each formal review, where levels of proficiency are tracked and displayed as charts. These sheets are the single source of truth for an individual's progression, and they're filled out with your manager in the review meeting.
 
+If you and your manager can't reach agreement about something in a progression review, or your progression in general, either of you have the option of involving a third party — colleagues from dxw, or someone external to the business.
+
 ## Where did the framework come from?
 
 We’ve borrowed from others who’ve got established frameworks, and added our own dxw specifics. Our framework borrows elements and approaches from those in use at places such as Clearleft, Monzo, Buzzfeed, the Financial Times, and GDS. It’s then been refined and customised to suit how we actually work and practice design at dxw.
