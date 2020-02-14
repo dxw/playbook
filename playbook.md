@@ -2331,6 +2331,6 @@ In our offices we recycle waste where possible and are in the process of switchi
 
 We are aware that digital services have a significant environmental impact. We are finding ways to reduce our contribution to that. This will involve hosting where possible with renewable energy and building our products efficiently. 
 
-### Our Behaviors
+### Our Behaviours
 
 Whenever possible we opt for rail travel. Due to client needs this isn’t always possible but we’re investigating how offset our carbon footprint in future. We often work remotely which reduces the need for travel. We’re exploring ways to lower our own individual environmental impact. 
