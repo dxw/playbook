@@ -109,5 +109,5 @@ npm run lint
 To run the prose linter:
 
 ```
-vale [fileYouWantToLint].md
+npm run vale
 ```

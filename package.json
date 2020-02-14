@@ -4,7 +4,8 @@
   "description": "dxw Playbook",
   "scripts": {
     "start": "docsify serve .",
-    "lint": "remark ."
+    "lint": "remark .",
+    "vale": "~/go/bin/vale */*.md *.md"
   },
   "dependencies": {
     "docsify": "^4.5.5",
