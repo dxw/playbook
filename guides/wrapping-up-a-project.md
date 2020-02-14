@@ -1,6 +1,5 @@
 # Wrapping up a project
 
-
 ## Why is this important?
 
 We often only work with a client for a short period of time. But they may rely on the things that we deliver long after we have moved on. This applies to work we deliver during Discovery and Alpha (other teams and suppliers may need to build on our work) or Beta and Live (services that we have helped launch will need to be maintained).  
@@ -9,13 +8,11 @@ Wrapping up a project well also helps us keep a good relationship with people an
 
 Finally, this is also a good opportunity to reflect on how the project has gone as a whole. How successful have we been at achieving the outcomes we wanted to? What do we want to build on or change for future projects? 
 
-
 ## What do you need to think about? 
 
 - What needs to be handed over or maintained? Where are you in the project life-cycle?
 - Does the team need to create anything as part of the wrap-up?
 - Who is going to be the owner for this work once you leave? Who are you handing things over to?
-
 
 ## Checklist 
 

@@ -1,7 +1,7 @@
 # Setting up a new project
 
-At dxw we frequently start new projects and work with clients we haven’t worked with before. 
-Delivery leads at dxw are responsible for setting up projects and ensuring all the right things are in place for when the team starts work. 
+At dxw we frequently start new projects and work with clients we haven’t worked with before.
+Delivery leads at dxw are responsible for setting up projects and ensuring all the right things are in place for when the team starts work.
 
 We often find that time is limited and transitioning between projects can be a challenge, for delivery leads and the wider team.
 
@@ -9,14 +9,13 @@ This guide provides advice and tips, as well as a checklist for delivery leads a
 
 ## Before a project starts
 
-In most cases, there’s not a very long lead time between winning a piece of work and starting it. We sometimes have a number of days, rather than weeks, for the team to get everything in place. This includes things like contracts, scheduling a team to do the work and making a plan for the first few days. 
+In most cases, there’s not a very long lead time between winning a piece of work and starting it. We sometimes have a number of days, rather than weeks, for the team to get everything in place. This includes things like contracts, scheduling a team to do the work and making a plan for the first few days.
 
 We’re lucky if the same delivery lead has been involved in the sales work that led to the project being won, because there’s always other work in flight. It’s important that knowledge is shared and the necessary introductions made so we can get the work off to a good start.
 
-It is however worth remembering that most of our sales proposals are produced with limited information about the project, and it’s only once we start that we get a better idea of what the work is and what skills we’ll need to do it. 
+It is however worth remembering that most of our sales proposals are produced with limited information about the project, and it’s only once we start that we get a better idea of what the work is and what skills we’ll need to do it.
 
 There are several things that delivery leads should do first, regardless of the shape of the project:
-
 
 ### Do some reading
 
@@ -67,7 +66,7 @@ While the project is being set up, and before it starts, a kick off should happe
 - We realise our priorities so we have an initial plan
 - We discuss ways of working
 
-You should have everyone working on the project in this meeting (even if they’re part-time). 
+You should have everyone working on the project in this meeting (even if they’re part-time).
 
 ### Introductions
 
@@ -103,23 +102,21 @@ Give an overview of how dxw works. Don’t assume that everyone in the client te
 - dxw days, that is 9 days in a 10 day sprint
 - invoicing and finances, we invoice the first day after the end of each sprint, based on the number of days each specialist in the team worked. We might also add travel costs, or research incentives, and other admin costs as per the commercial agreement we have with the client
 
-It is also important to mention that we work with roadmaps, which might change over time as we know more about the project. This is fundamental in an agile project, so that we can react to change as quickly as possible. Therefore, we do have plans, but they are not set in stone.  
+It is also important to mention that we work with roadmaps, which might change over time as we know more about the project. This is fundamental in an agile project, so that we can react to change as quickly as possible. Therefore, we do have plans, but they are not set in stone.
 
 Tell the client that if, at any point, they have an issue with the way we are working, or with any team member, the first point of contact for them is the dxw Delivery Lead. If the DL is the problem area or if they are a contractor, the Director of Delivery is then the next point of contact.
 
-
 ### Discuss how the team want to work
 
-Clients will have their own way of working on projects and if they’ve used agile approaches before, it may be a different flavour of agile to what the dxw team are used to. Ask the client team to talk about how they’re used to working on projects and agree some principles for how the single team will work together. For example, do they typically follow the GDS Service Manual? 
+Clients will have their own way of working on projects and if they’ve used agile approaches before, it may be a different flavour of agile to what the dxw team are used to. Ask the client team to talk about how they’re used to working on projects and agree some principles for how the single team will work together. For example, do they typically follow the GDS Service Manual?
 
 Explain how most dxw teams work, and communicate to the client that we’ve done this successfully with different clients over the years. However, be accommodating and suggest we “test and iterate” approaches. The retros are a perfect avenue to explore these.
 
 There’s always something to discuss here.  For example, how will week notes be written and who should they be sent to? Who needs to be invited to show and tells? How will user stories be written? Is there a story template the team want to use, and will developers estimate them?
 
-
 ### Talk about co-location
 
-If you’re going to be co-located with the client, ask to visit the office space and have a look around. Make sure that the team have access to the site (do they need passes) and that you have space to work. This includes space to run sprint meetings and show and tells. Work with the Commercial Operations team to order any equipment or things the team will need. It’s also worth agreeing which days will be spent co-lo and which at dxw in this meeting. Take the teams working patterns into account. 
+If you’re going to be co-located with the client, ask to visit the office space and have a look around. Make sure that the team have access to the site (do they need passes) and that you have space to work. This includes space to run sprint meetings and show and tells. Work with the Commercial Operations team to order any equipment or things the team will need. It’s also worth agreeing which days will be spent co-lo and which at dxw in this meeting. Take the teams working patterns into account.
 
 When the team are going to be in different locations, think about technology and how to make sure each team member is able to join meetings and work with others. It might be useful to buy some extra microphones, good headphones or additional screens for the team. Chat to Olivia if you have any questions.
 
