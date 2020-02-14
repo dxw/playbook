@@ -111,3 +111,9 @@ To run the prose linter:
 ```
 npm run vale
 ```
+
+This will only show errors and warnings by default. If you want extra suggestions for better writing, run:
+
+```
+npm run vale-suggestions
+```

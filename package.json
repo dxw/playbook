@@ -5,7 +5,8 @@
   "scripts": {
     "start": "docsify serve .",
     "lint": "remark .",
-    "vale": "~/go/bin/vale */*.md *.md"
+    "vale": "~/go/bin/vale */*.md *.md",
+    "vale-suggestions": "~/go/bin/vale --minAlertLevel suggestion */*.md *.md "
   },
   "dependencies": {
     "docsify": "^4.5.5",
