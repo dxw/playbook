@@ -12,7 +12,7 @@ For a discovery, we run a [discovery kick-off workshop](http://playbook.dxw.com/
 
 A roadmap is a strategy tool. It sets out the direction for a product or service and outlines how we’ll achieve our objectives.
 
-Roadmaps should: 
+Roadmaps should:
 
 - Set clear, agreed goals
 - Be related to outcomes, rather than specific outputs and dates or releases
@@ -49,29 +49,29 @@ After the workshop, the roadmap becomes a living part of the project documentati
 
 **About the service**
 
-4. Who are the users?
+1. Who are the users?
 
    Are they members of the public, professionals or staff? What different groups, circumstances and behaviours might be important? Are they current or potential users?
 
-4. What are we operating?
+1. What are we operating?
 
-   What digital and physical components will the service be made up of? What people will be involved in operating the service? How will we roll out the service? 
+   What digital and physical components will the service be made up of? What people will be involved in operating the service? How will we roll out the service?
 
-4. What capabilities do we need?
+1. What capabilities do we need?
 
    What capabilities will we need to build and operate the service? What do we already have? What is new? What is well understood and what is novel?
 
 **About the context**
 
-7. Who are our stakeholders?
+1. Who are our stakeholders?
 
    What is their relationship to the work? How closely might they be involved? How might they help?
 
-7. What are our dependencies?
+1. What are our dependencies?
 
    What other work or organisations will the project and service depend on? Who is depending on us? How will we manage those dependencies?
 
-7. What do we need to communicate?
+1. What do we need to communicate?
 
    What meetings, governance and other processes do we need to feed into? What communications might we expect to create? For who? How will we share them?
 
@@ -87,7 +87,7 @@ To help ground the discussion, you can give a timeframe to the Now and Next. Thi
 
 We recommend prioritising as you ask each question, rather than waiting until the end. This will involve some iteration as the answers to later questions influence previous thoughts about priorities.
 
-You might not have time to prioritise everything. But the conversations about priority should help set the direction and scope of your first sprint. 
+You might not have time to prioritise everything. But the conversations about priority should help set the direction and scope of your first sprint.
 
 ## Planning the workshop
 

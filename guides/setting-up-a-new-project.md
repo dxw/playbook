@@ -17,7 +17,6 @@ It is however worth remembering that most of our sales proposals are produced wi
 
 There are several things that delivery leads should do first, regardless of the shape of the project:
 
-
 ### Do some reading
 
 Get hold of any background materials, such as proposal documents, meeting notes, project documents or email chains. Familiarise yourself with the brief and conversations that have taken place so far.
@@ -107,7 +106,6 @@ It is also important to mention that we work with roadmaps, which might change o
 
 Tell the client that if, at any point, they have an issue with the way we are working, or with any team member, the first point of contact for them is the dxw Delivery Lead. If the DL is the problem area or if they are a contractor, the Director of Delivery is then the next point of contact.
 
-
 ### Discuss how the team want to work
 
 Clients will have their own way of working on projects and if they’ve used agile approaches before, it may be a different flavour of agile to what the dxw team are used to. Ask the client team to talk about how they’re used to working on projects and agree some principles for how the single team will work together. For example, do they typically follow the GDS Service Manual?
@@ -115,7 +113,6 @@ Clients will have their own way of working on projects and if they’ve used agi
 Explain how most dxw teams work, and communicate to the client that we’ve done this successfully with different clients over the years. However, be accommodating and suggest we “test and iterate” approaches. The retros are a perfect avenue to explore these.
 
 There’s always something to discuss here.  For example, how will week notes be written and who should they be sent to? Who needs to be invited to show and tells? How will user stories be written? Is there a story template the team want to use, and will developers estimate them?
-
 
 ### Talk about co-location
 

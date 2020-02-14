@@ -1,6 +1,5 @@
 # Sprint Planning
 
-
 ## What is it?
 Sprint planning meetings take place at the start of every sprint. They are used by the team to agree what work to deliver for that given sprint.
 
