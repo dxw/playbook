@@ -91,21 +91,21 @@ or 'g-cloud' or 'G Cloud' or 'GCloud'.
 
 <!-- vale Dxw.GovPress = YES -->
 
-<!-- vale Dxw.Multisite = NO -->
+<!-- vale Dxw.multisite = NO -->
 
 **multisite**: if referring to the feature directly, "Multisite" should be
 capitalised. If referring to an multisite WordPress setup, "multisite". Never
 "multi site" or "multi-site".
 
-<!-- vale Dxw.Multisite = YES -->
+<!-- vale Dxw.multisite = YES -->
 
 **open source**: always lower case.
 
-<!-- vale Dxw.Plugin = NO -->
+<!-- vale Dxw.plugin = NO -->
 
 **plugin**: not 'plug in' or 'plug-in'.
 
-<!-- vale Dxw.Plugin = YES -->
+<!-- vale Dxw.plugin = YES -->
 
 **Rails**: for the Ruby framework, always upcase. Lower case is fine for the
 things trains run on.

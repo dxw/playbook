@@ -109,5 +109,11 @@ npm run lint
 To run the prose linter:
 
 ```
-vale [fileYouWantToLint].md
+npm run vale
+```
+
+This will only show errors and warnings by default. If you want extra suggestions for better writing, run:
+
+```
+npm run vale-suggestions
 ```
