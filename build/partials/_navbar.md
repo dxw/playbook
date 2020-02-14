@@ -20,6 +20,7 @@
   - [Show and tells](guides/show-and-tells.md)
   - [Sprint planning](guides/sprint-planning.md)
   - [Support and on call](guides/support-and-on-call.md)
+  - [Team and project scheduling](guides/team-and-project-scheduling.md)
   - [Team changes and handovers](guides/team-changes-and-handovers.md)
   - [Web analytics](guides/web-analytics.md)
   - [Weeknotes](guides/week-notes.md)
