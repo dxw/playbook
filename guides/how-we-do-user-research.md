@@ -322,7 +322,7 @@ Here we provide additional, specific guidance for researchers at dxw.
 
    As soon as possible after the session, transfer any notes and recordings from paper and other devices to your dxw provided laptop. And from your laptop to the dxw Google Drive or to the client’s research store.
 
-   Keep only anonymised notes, quotes and images in tools like Miro and Tello.
+   Keep only anonymised notes, quotes and images in tools like Miro and Trello.
 
 1. **Have a fall back**
 
