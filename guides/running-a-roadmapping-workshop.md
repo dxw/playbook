@@ -65,7 +65,7 @@ After the workshop, the roadmap becomes a living part of the project documentati
 
 1. Who are our stakeholders?
 
-   What is their relationship to the work? How closely might they be involved? How might they help?
+   What is their relationship to the work? What expectations and concerns might they have? How closely might they be involved? How might they help?
 
 1. What are our dependencies?
 
