@@ -10,8 +10,6 @@ We continually update the principles and guides in our Playbook. Because we’re
 to get things done. What’s written here is the way we do things now. Until we find something better, and
 write that down.
 
-dxw now encompasses dxw digital and dxw cyber. Many of the values and ways of working are the same across both businesses. So we have one Playbook for both, with any differences marked.
-
 This Playbook was originally inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
 
 ### Updating the Playbook
@@ -60,8 +58,6 @@ that it can spend more on education, healthcare, policing and welfare. We
 believe that it is possible to use technology and agile principles to help
 government become something recognisably, radically better: and we want to help
 make it happen.
-
-We established dxw cyber in late 2017 to bring the same perspective to security and assurance work as we have with our dxw digital work. Our practice is grounded in high-value penetration testing, and wrapped with practical, hands-on support for front-line teams and pragmatic, focussed consultancy for leaders.
 
 dxw helps public sector teams to make good technology decisions and build better
 services.
@@ -133,11 +129,9 @@ them down.
 
 #### Balance openness and confidentiality
 
-##### dxw digital
+dxw believes it's best to be open about what we're doing. We encourage our clients to do the same, as does the [service manual](https://www.gov.uk/service-manual). We talk, blog and write about what we're doing, and we are open about as much as we can.
 
-dxw digital believe it's best to be open about what we're doing. We encourage our clients to do the same, as does the [service manual](https://www.gov.uk/service-manual). We talk, blog and write about what we're doing, and we are open about as much as we can.
-
-At dxw digital, we release [code](https://www.github.com/dxw), publish our
+At dxw, we release [code](https://www.github.com/dxw), publish our
 [contracts](https://www.github.com/dxw/contracts) and things like this playbook
 and talk with people about what we're up to because we believe that we'll
 ultimately have more opportunities to work, grow and improve than if we kept
@@ -151,25 +145,9 @@ However, there are some things that we must keep private.
 * Information about work that is currently being procured (whether we are bidding or not) and any other information that could damage the commercial interests of a client or supplier
 * Anything to do with the work of dxw cyber: see below.
 
-##### dxw cyber
+#### Diversity and inclusion statement
 
-dxw cyber's work is usually more sensitive than dxw digital's. We still value openness and believe that it is important, but we have less freedom to talk about our work. Our clients expect us to keep almost everything about our work with them private.
-
-As with dxw digital, we also release [code](https://www.github.com/dxwcyber), publish our [contracts](https://www.github.com/dxw/contracts) and use this playbook. But we must tread with more care, to ensure that we maintain our obligations to clients not to release information that could compromise their systems or cause them embarassment.
-
-As a result, we take the opposite approach to dxw digital. We treat everything about our work as private and confidential, with these exceptions:
-
-* General discussions about tools, techniques, approaches and methodologies
-* The nature of our roles and day-to-day work
-* The purpose, mission, vision and values for dxw cyber, and the ways we get things done
-
-However, even with these exceptions, there is an overriding principle that client information must be kept confidential. For example, if talking about a particular attack technique could allow someone to infer the identity of a client, we would not discuss it in public.
-
-In addition, we take measures to ensure that we don't accidentally expose confidential information. For more information about this, talk to your team lead.
-
-#### Diversity and inclusion statement (dxw digital)
-
-At dxw digital, we value people and want them to feel free to be themselves.
+At dxw, we value people and want them to feel free to be themselves.
 
 We embrace each other's differences, in gender, religion, beliefs, ethnicity,
 disability, age, sexual orientation, neurotype,
@@ -702,7 +680,7 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 
 #### User research guidance
 
-The Playbook includes detailed guidance on [how we do user research at dxw digital](https://playbook.dxw.com/#/guides/how-we-do-user-research).
+The Playbook includes detailed guidance on [how we do user research at dxw](https://playbook.dxw.com/#/guides/how-we-do-user-research).
 
 The guide starts with the user research workflow, which describes the things that user researchers usually do on projects, and then provides further guidance and links to resources for specific topics.
 
@@ -922,7 +900,7 @@ We are the team that enables and encourages dxw to achieve its mission(s) and up
 
 #### Sales and marketing team principles
 
-The sales and marketing teams at dxw digital follow these principles:
+The sales and marketing teams at dxw follow these principles:
 
 1. **Start from solid foundations**
 
@@ -942,7 +920,7 @@ The sales and marketing teams at dxw digital follow these principles:
 
 1. **Find the right work**
 
-   We welcome new opportunities, and actively seek input from the dxw team to help us decide whether an opportunity is ‘dxw digital shaped’.
+   We welcome new opportunities, and actively seek input from the dxw team to help us decide whether an opportunity is ‘dxw shaped’.
 
    We consider the ethical implications of the work - does it help to create better digital public services that make people’s lives better?
 
@@ -1438,7 +1416,7 @@ TODO. This section to cover:
 
 ### Returners' programme
 
-dxw digital is proud to offer return to work opportunities for experienced hires who are looking to re-enter the workplace after an extended period of time away.
+dxw is proud to offer return to work opportunities for experienced hires who are looking to re-enter the workplace after an extended period of time away.
 We’re running a pilot to begin with to see how this works for us and the people joining us. We’ll start by taking on one or two people for 3 to 6 months - depending on the role and circumstances. There’s potential to become a permanent member of the team at the end of the placement, but this isn’t guaranteed.
 Initially this opportunity will only be offered within our London team, with a view to including our Leeds office as the team there grows.
 
@@ -1959,7 +1937,7 @@ the [guide on claiming expenses](/guides/claiming-expenses)
 
 ### Reporting our time
 
-Everyone who works on a client project at dxw digital is responsible for reporting the time they spend on projects. We usually work with our clients on a [time and materials basis](https://www.gov.uk/guidance/how-to-pay-for-digital-outcomes-and-specialists-services#time-and-materials), so it’s important we can accurately track and report how our time is spent on client projects.
+Everyone who works on a client project at dxw is responsible for reporting the time they spend on projects. We usually work with our clients on a [time and materials basis](https://www.gov.uk/guidance/how-to-pay-for-digital-outcomes-and-specialists-services#time-and-materials), so it’s important we can accurately track and report how our time is spent on client projects.
 
 We use [10,000ft](https://app.10000ft.com/) to schedule our work, which helps us to forecast our capacity over future weeks and months in a reliable way.
 
@@ -2133,8 +2111,6 @@ is not subject to any specific restrictions.
 
 ### Email Signature
 
-#### dxw digital
-
 Name<br>
 Job Title<br>
 name@dxw.com<br>
@@ -2142,14 +2118,6 @@ Twitter handle - if you’re comfortable to share<br>
 Mobile - if you’re comfortable to share<br>
 
 www.dxw.com :: 0345 2577520 :: @dxw :: creating better digital public services
-
-#### dxw cyber
-
-Name<br>
-Job Title<br>
-name@dxw.com<br>
-
-www.dxwcyber.com :: 0345 2577520 :: @dxwcyber
 
 ### Email Autoresponder
 
