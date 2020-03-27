@@ -997,7 +997,7 @@ If you need to reschedule your 1:1, let your manager know at the earliest opport
 
 #### Meeting length
 
-An hour or so, at least once every two weeks, is a good standard to aim for. 
+An hour or so, at least once every two weeks, is a good standard to aim for. If you meet weekly, a little shorter is fine.
 
 #### Additional resources
 
