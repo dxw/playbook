@@ -991,7 +991,7 @@ Coming to your 1:1s with a list of things you’d like to discuss will help you 
 
 #### Frequency
 
-1:1s will be in your calendar every other week. Where possible they’ll be face-to-face, either in the office or out for a walk, or a coffee. Where that’s not possible, remote is perfectly fine. There’ll always be a Google Meet link in the calendar invite.
+1:1s should happen at least once per fortnight. Where possible they’ll be face-to-face, either in the office or out for a walk, or a coffee. Where that’s not possible, remote is perfectly fine. There’ll always be a Google Meet link in the calendar invite.
 
 If you need to reschedule your 1:1, let your manager know at the earliest opportunity.
 
