@@ -1001,7 +1001,7 @@ An hour or so, at least once every two weeks, is a good standard to aim for. If 
 
 #### Additional resources
 
-Here’s a great article on 7 ways to prepare for an effective one-on-one meeting with your manager.
+Here’s a great article on [7 ways to prepare for an effective one-on-one meeting with your manager.](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
 
 ## Hosting and supporting services
 
