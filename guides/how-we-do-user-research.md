@@ -349,9 +349,9 @@ With your laptop you can:
 
 If research participants might use your laptop or see your screen during a research session, it’s a good idea to create a separate ‘research’ user account on your laptop with things like notifications and browser autofill turned off.
 
-### Using a dxw provided phone or tablet
+### Using a dxw provided handheld device
 
-Use a dxw provided phone or tablet, rather than your personal device, to take photos and short videos during interviews, visits and workshops.
+Use a dxw provided handheld device, rather than own phone or tablet, to take photos and short videos during interviews, visits and workshops.
 
 Remember to delete the photos and recordings from the device once you have transfered them to your laptop or to Google Drive.
 
