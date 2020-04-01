@@ -950,7 +950,7 @@ The sales and marketing teams at dxw follow these principles:
 
 #### Purpose
 
-For your manager to help you with your professional development, with your wellbeing as a person, and to build a trusting relationship between the two of you.
+For your manager to help you with your personal and professional development, your wellbeing, and to build a trusting relationship between the two of you.
 
 #### Overview
 
@@ -2253,19 +2253,19 @@ dxw will pay for the equipment needed to enable you to work comfortably and safe
 
 We all go to work-related events and conferences, sometimes for work and
 sometimes in our personal time. No matter what capacity you're attending an
-event in, you are a representative of dxw. What you say and do will influence the way people think about the company. It's important that you make a positive impression. 
+event in, you are a representative of dxw. What you say and do will influence the way people think about the company. It's important that you make a positive impression.
 
 We encourage everyone to network and talk about dxw's work. Remember to tell people if we're hiring and point them to our careers page on the dxw website.
 
 #### Speaking at events
 
-Speaking at events is a great opportunity to represent dxw. 
+Speaking at events is a great opportunity to represent dxw.
 
 If it’s an event around your personal speciality (front-end development, sysops,
 UX etc), feel free to stick to any personal “branding”, slides, or talk style
 you might have already developed. At the start of your talk however, please
 introduce yourself as being from dxw, talk about what the company does, and what
-you do here. 
+you do here.
 
 If it’s an event more around dxw’s focus (public sector events, dxw projects,
 public-sector specific topic etc) you should use dxw's branding and
@@ -2283,15 +2283,15 @@ At dxw, we encourage people to blog regularly.
 We blog because we want to share what we're doing and what we're learning with the public sector digital community. When we're hiring, we also want
 potential new staff to be able to to get to know us beforehand. We work in the open and are
 keen to share our knowledge, express our values and get people thinking about
-how to improve services for the public sector. 
+how to improve services for the public sector.
 
 We record ideas for blog posts and the schedule for publishing on a Trello board. This is managed by the marketing team, who can offer you help and advice on ideas and support with writing if you need it. They will also manage the final sign off and publishing of posts.
 
 ### Twitter
 
-The marketing team run dxw's official Twitter account. We encourage people to work openly and to tweet about the work they're doing, their learning and ideas from their own accounts. You should be careful not to share any confidential information and check that people are content before using any pictures of them. Remember that you are representing dxw whether or not you identify yourself as working here in your Twitter profile. 
+The marketing team run dxw's official Twitter account. We encourage people to work openly and to tweet about the work they're doing, their learning and ideas from their own accounts. You should be careful not to share any confidential information and check that people are content before using any pictures of them. Remember that you are representing dxw whether or not you identify yourself as working here in your Twitter profile.
 
-## Sustainability 
+## Sustainability
 
 We at dxw are working towards becoming a more environmentally sustainable company. We are focusing on three main areas to reduce our impact:
 
@@ -2301,8 +2301,8 @@ In our offices we recycle waste where possible and are in the process of switchi
 
 ### Our Products
 
-We are aware that digital services have a significant environmental impact. We are finding ways to reduce our contribution to that. This will involve hosting where possible with renewable energy and building our products efficiently. 
+We are aware that digital services have a significant environmental impact. We are finding ways to reduce our contribution to that. This will involve hosting where possible with renewable energy and building our products efficiently.
 
 ### Our Behaviours
 
-Whenever possible we opt for rail travel. Due to client needs this isn’t always possible but we’re investigating how offset our carbon footprint in future. We often work remotely which reduces the need for travel. We’re exploring ways to lower our own individual environmental impact. 
+Whenever possible we opt for rail travel. Due to client needs this isn’t always possible but we’re investigating how offset our carbon footprint in future. We often work remotely which reduces the need for travel. We’re exploring ways to lower our own individual environmental impact.
