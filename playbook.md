@@ -26,7 +26,7 @@ To update the Playbook, follow the [guide to Contributing to the Playbook](https
 
 ## Advisory Council
 
-dxw digital and dxw cyber do not have external investors or shareholders. To help keep us honest, we are very lucky to have a voluntary advisory council, made up of a small group of senior figures, who meet quarterly to discuss and provide guidance on our strategy, business plan and other topics related to company health and progression. The group have a wealth of experience of public and private sector work, as well as being friends of dxw that share our values.
+dxw does not have external investors or shareholders. To help keep us honest, we are very lucky to have a voluntary advisory council, made up of a small group of senior figures, who meet quarterly to discuss and provide guidance on our strategy, business plan and other topics related to company health and progression. The group have a wealth of experience of public and private sector work, as well as being friends of dxw that share our values.
 
 ## Working at dxw
 
@@ -143,7 +143,6 @@ However, there are some things that we must keep private.
 * We also hold some personal data about and/or on behalf of our clients. We never share any of this data, including contact details. See also: [data protection](#data-protection).
 * We are sometimes sent documents that are [protectively marked](#protective-marking-scheme), and we have a scheme of our own. Information in these documents is confidential.
 * Information about work that is currently being procured (whether we are bidding or not) and any other information that could damage the commercial interests of a client or supplier
-* Anything to do with the work of dxw cyber: see below.
 
 #### Diversity and inclusion statement
 
@@ -1470,7 +1469,7 @@ For client-facing roles we’ll start billing your time back to the client when 
 
 #### Internal facing roles
 
-We’re also offering internal facing roles, for example, in our busy commercial and marketing teams who also support our sister company, dxw cyber. These roles are not billed back to our clients.
+We’re also offering internal facing roles, for example, in our busy commercial and marketing teams who also support our sister company, Tradecraft. These roles are not billed back to our clients.
 
 If you think this might be for you, please apply through our jobs page.
 
