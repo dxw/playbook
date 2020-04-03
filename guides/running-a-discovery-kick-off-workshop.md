@@ -24,15 +24,15 @@ that [Will Myddelton](https://twitter.com/myddelton) described, along with some 
 
 1. **What organisations and stakeholders are involved?**
 
-   What is their relationship to the work? How closely might they be involved? How might they help?
+   What is their relationship to the work? What expectations and concerns might they have? How closely might they be involved? How might they help?
 
 1. **What outcomes will users get?**
 
-   What do we know about their intentions? What’s working that we might we build on? What problems might we solve?
+   What do we know about their intentions? What’s working that we might we build on? What problems might we solve? What unintended consequences might we create?
 
 1. **What outcomes are we looking for?**
 
-   What is the client organisation trying to achieve? What problems are they trying to solve? What are the other organisations and stakeholders looking to get?
+   What is the client organisation trying to achieve? What problems are they trying to solve? What are the other organisations and stakeholders looking to get? What external costs and impacts should we consider?
 
 1. **What do we need to learn or prove?**
 
@@ -46,7 +46,7 @@ that [Will Myddelton](https://twitter.com/myddelton) described, along with some 
 
    What has been done before, or is being done now? What can we learn from each other? What should we share? How do we stay aligned with that work?
 
-1. **What difficulties might we expect?**
+1. **What difficulties might we face?**
 
    How might we be blocked? What rabbit holes could we fall down?
 
