@@ -2,8 +2,6 @@
 
 ## Who we are
 
-### Why we're here
-
 The web has revolutionised the way society works. Most of society has reaped the
 benefits of digital technology, but most public services lag behind. As a
 result, they are often expensive to build and run, and hard for people to use.
