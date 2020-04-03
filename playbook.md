@@ -1,36 +1,8 @@
 # dxw’s Playbook
 
-## Purpose
+## Who we are
 
-This Playbook is our reference for who we are and the way we do things. Something canonical that tells us what the current “right way” to do things is.
-
-If you’re a current or potential client, this Playbook is also for you. To help you understand us and how we can work together.
-
-We continually update the principles and guides in our Playbook. Because we’re always exploring better ways
-to get things done. What’s written here is the way we do things now. Until we find something better, and
-write that down.
-
-This Playbook was originally inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
-
-### Updating the Playbook
-
-This Playbook is a collaborative effort. Anyone at dxw can and should edit it. So if you spot something that's wrong, feel free to hop in and correct it.
-
-But remember that this Playbook is the result of our conversations about how we should do things, not a substitute for
-one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
-
-This document is also public, because there is very little about our process that cannot be open. But there will be
-some things that should be private. So don't forget that changes here get published to the world.
-
-To update the Playbook, follow the [guide to Contributing to the Playbook](https://playbook.dxw.com/#/contributing) and the [dxw style guide](https://playbook.dxw.com/#/guides/style-guide).
-
-## Advisory Council
-
-dxw does not have external investors or shareholders. To help keep us honest, we are very lucky to have a voluntary advisory council, made up of a small group of senior figures, who meet quarterly to discuss and provide guidance on our strategy, business plan and other topics related to company health and progression. The group have a wealth of experience of public and private sector work, as well as being friends of dxw that share our values.
-
-## Working at dxw
-
-### Why we are here
+### Why we're here
 
 The web has revolutionised the way society works. Most of society has reaped the
 benefits of digital technology, but most public services lag behind. As a
@@ -62,13 +34,13 @@ make it happen.
 dxw helps public sector teams to make good technology decisions and build better
 services.
 
-### Values
+### Our values
 
 We think that it's very important to have a talented team if we're going to
 succeed. But just as important as raw talent is our ability to work well
 together. These are the values that we aspire to, and help each other to
 achieve.
-
+     
 #### Helpful
 
 We are helpful, useful and expert. We give practical and pragmatic advice to
@@ -101,9 +73,9 @@ ways to solve problems.
 We are determined, discerning and motivated. We believe in high standards, we
 enjoy doing things properly, and we're loath to settle for less.
 
-### Principles
+### Our principles
 
-These principles help us live up to our [values](#values), and guide our behaviour and decision making in all the things we do at dxw.
+These principles help us live up to our [values](#our-values), and guide our behaviour and decision making in all the things we do at dxw.
 
 #### Keep an agile mindset
 
@@ -167,6 +139,34 @@ We’re committed to being transparent with our diversity information and
 regularly assessing the impact of all our policies and practices.
 
 Thank you for being you - it makes us better.
+
+### Advisory Council
+
+dxw does not have external investors or shareholders. To help keep us honest, we are very lucky to have a voluntary advisory council, made up of a small group of senior figures, who meet quarterly to discuss and provide guidance on our strategy, business plan and other topics related to company health and progression. The group have a wealth of experience of public and private sector work, as well as being friends of dxw that share our values.
+
+### This Playbook
+
+This Playbook is our reference for who we are and the way we do things. Something canonical that tells us what the current “right way” to do things is.
+
+If you’re a current or potential client, this Playbook is also for you. To help you understand us and how we can work together.
+
+We continually update the principles and guides in our Playbook. Because we’re always exploring better ways
+to get things done. What’s written here is the way we do things now. Until we find something better, and
+write that down.
+
+This Playbook was originally inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
+
+#### Updating the Playbook
+
+This Playbook is a collaborative effort. Anyone at dxw can and should edit it. So if you spot something that's wrong, feel free to hop in and correct it.
+
+But remember that this Playbook is the result of our conversations about how we should do things, not a substitute for
+one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
+
+This document is also public, because there is very little about our process that cannot be open. But there will be
+some things that should be private. So don't forget that changes here get published to the world.
+
+To update the Playbook, follow the [guide to Contributing to the Playbook](https://playbook.dxw.com/#/contributing) and the [dxw style guide](https://playbook.dxw.com/#/guides/style-guide).
 
 ## The work we do
 
@@ -1249,7 +1249,7 @@ The sales and marketing teams at dxw follow these principles:
 
 #### Purpose
 
-For your manager to help you with your professional development, with your wellbeing as a person, and to build a trusting relationship between the two of you.
+For your manager to help you with your personal and professional development, your wellbeing, and to build a trusting relationship between the two of you.
 
 #### Overview
 
@@ -1278,7 +1278,9 @@ An hour or so, at least once every two weeks, is a good standard to aim for. If 
 
 #### Additional resources
 
-Here’s a great article on [7 ways to prepare for an effective one-on-one meeting with your manager.](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
+Here's [a template for helping to prepare for a 1:1, and making notes during it.](https://docs.google.com/document/d/1rCoFGtvbBI2FYhp-4EYMRokB--E8RHs_BleQqNwD0Rk/edit#) Feel free to make a copy and alter it according to your own needs.
+
+And here’s a great article on [7 ways to prepare for an effective one-on-one meeting with your manager.](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
 
 ## Recruitment
 
@@ -2254,19 +2256,19 @@ dxw will pay for the equipment needed to enable you to work comfortably and safe
 
 We all go to work-related events and conferences, sometimes for work and
 sometimes in our personal time. No matter what capacity you're attending an
-event in, you are a representative of dxw. What you say and do will influence the way people think about the company. It's important that you make a positive impression. 
+event in, you are a representative of dxw. What you say and do will influence the way people think about the company. It's important that you make a positive impression.
 
 We encourage everyone to network and talk about dxw's work. Remember to tell people if we're hiring and point them to our careers page on the dxw website.
 
 #### Speaking at events
 
-Speaking at events is a great opportunity to represent dxw. 
+Speaking at events is a great opportunity to represent dxw.
 
 If it’s an event around your personal speciality (front-end development, sysops,
 UX etc), feel free to stick to any personal “branding”, slides, or talk style
 you might have already developed. At the start of your talk however, please
 introduce yourself as being from dxw, talk about what the company does, and what
-you do here. 
+you do here.
 
 If it’s an event more around dxw’s focus (public sector events, dxw projects,
 public-sector specific topic etc) you should use dxw's branding and
@@ -2284,15 +2286,15 @@ At dxw, we encourage people to blog regularly.
 We blog because we want to share what we're doing and what we're learning with the public sector digital community. When we're hiring, we also want
 potential new staff to be able to to get to know us beforehand. We work in the open and are
 keen to share our knowledge, express our values and get people thinking about
-how to improve services for the public sector. 
+how to improve services for the public sector.
 
 We record ideas for blog posts and the schedule for publishing on a Trello board. This is managed by the marketing team, who can offer you help and advice on ideas and support with writing if you need it. They will also manage the final sign off and publishing of posts.
 
 ### Twitter
 
-The marketing team run dxw's official Twitter account. We encourage people to work openly and to tweet about the work they're doing, their learning and ideas from their own accounts. You should be careful not to share any confidential information and check that people are content before using any pictures of them. Remember that you are representing dxw whether or not you identify yourself as working here in your Twitter profile. 
+The marketing team run dxw's official Twitter account. We encourage people to work openly and to tweet about the work they're doing, their learning and ideas from their own accounts. You should be careful not to share any confidential information and check that people are content before using any pictures of them. Remember that you are representing dxw whether or not you identify yourself as working here in your Twitter profile.
 
-## Sustainability 
+## Sustainability
 
 We at dxw are working towards becoming a more environmentally sustainable company. We are focusing on three main areas to reduce our impact:
 
@@ -2302,8 +2304,8 @@ In our offices we recycle waste where possible and are in the process of switchi
 
 ### Our Products
 
-We are aware that digital services have a significant environmental impact. We are finding ways to reduce our contribution to that. This will involve hosting where possible with renewable energy and building our products efficiently. 
+We are aware that digital services have a significant environmental impact. We are finding ways to reduce our contribution to that. This will involve hosting where possible with renewable energy and building our products efficiently.
 
 ### Our Behaviours
 
-Whenever possible we opt for rail travel. Due to client needs this isn’t always possible but we’re investigating how offset our carbon footprint in future. We often work remotely which reduces the need for travel. We’re exploring ways to lower our own individual environmental impact. 
+Whenever possible we opt for rail travel. Due to client needs this isn’t always possible but we’re investigating how offset our carbon footprint in future. We often work remotely which reduces the need for travel. We’re exploring ways to lower our own individual environmental impact.
