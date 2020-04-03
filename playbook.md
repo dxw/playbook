@@ -1,36 +1,8 @@
 # dxw’s Playbook
 
-## Purpose
+## Who we are
 
-This Playbook is our reference for who we are and the way we do things. Something canonical that tells us what the current “right way” to do things is.
-
-If you’re a current or potential client, this Playbook is also for you. To help you understand us and how we can work together.
-
-We continually update the principles and guides in our Playbook. Because we’re always exploring better ways
-to get things done. What’s written here is the way we do things now. Until we find something better, and
-write that down.
-
-This Playbook was originally inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
-
-### Updating the Playbook
-
-This Playbook is a collaborative effort. Anyone at dxw can and should edit it. So if you spot something that's wrong, feel free to hop in and correct it.
-
-But remember that this Playbook is the result of our conversations about how we should do things, not a substitute for
-one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
-
-This document is also public, because there is very little about our process that cannot be open. But there will be
-some things that should be private. So don't forget that changes here get published to the world.
-
-To update the Playbook, follow the [guide to Contributing to the Playbook](https://playbook.dxw.com/#/contributing) and the [dxw style guide](https://playbook.dxw.com/#/guides/style-guide).
-
-## Advisory Council
-
-dxw does not have external investors or shareholders. To help keep us honest, we are very lucky to have a voluntary advisory council, made up of a small group of senior figures, who meet quarterly to discuss and provide guidance on our strategy, business plan and other topics related to company health and progression. The group have a wealth of experience of public and private sector work, as well as being friends of dxw that share our values.
-
-## Working at dxw
-
-### Why we are here
+### Why we're here
 
 The web has revolutionised the way society works. Most of society has reaped the
 benefits of digital technology, but most public services lag behind. As a
@@ -62,13 +34,13 @@ make it happen.
 dxw helps public sector teams to make good technology decisions and build better
 services.
 
-### Values
+### Our values
 
 We think that it's very important to have a talented team if we're going to
 succeed. But just as important as raw talent is our ability to work well
 together. These are the values that we aspire to, and help each other to
 achieve.
-
+     
 #### Helpful
 
 We are helpful, useful and expert. We give practical and pragmatic advice to
@@ -101,9 +73,9 @@ ways to solve problems.
 We are determined, discerning and motivated. We believe in high standards, we
 enjoy doing things properly, and we're loath to settle for less.
 
-### Principles
+### Our principles
 
-These principles help us live up to our [values](#values), and guide our behaviour and decision making in all the things we do at dxw.
+These principles help us live up to our [values](#our-values), and guide our behaviour and decision making in all the things we do at dxw.
 
 #### Keep an agile mindset
 
@@ -167,6 +139,34 @@ We’re committed to being transparent with our diversity information and
 regularly assessing the impact of all our policies and practices.
 
 Thank you for being you - it makes us better.
+
+### Advisory Council
+
+dxw does not have external investors or shareholders. To help keep us honest, we are very lucky to have a voluntary advisory council, made up of a small group of senior figures, who meet quarterly to discuss and provide guidance on our strategy, business plan and other topics related to company health and progression. The group have a wealth of experience of public and private sector work, as well as being friends of dxw that share our values.
+
+### This Playbook
+
+This Playbook is our reference for who we are and the way we do things. Something canonical that tells us what the current “right way” to do things is.
+
+If you’re a current or potential client, this Playbook is also for you. To help you understand us and how we can work together.
+
+We continually update the principles and guides in our Playbook. Because we’re always exploring better ways
+to get things done. What’s written here is the way we do things now. Until we find something better, and
+write that down.
+
+This Playbook was originally inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
+
+#### Updating the Playbook
+
+This Playbook is a collaborative effort. Anyone at dxw can and should edit it. So if you spot something that's wrong, feel free to hop in and correct it.
+
+But remember that this Playbook is the result of our conversations about how we should do things, not a substitute for
+one. So don't make changes unless they reflect our shared agreement about how things are going to be done.
+
+This document is also public, because there is very little about our process that cannot be open. But there will be
+some things that should be private. So don't forget that changes here get published to the world.
+
+To update the Playbook, follow the [guide to Contributing to the Playbook](https://playbook.dxw.com/#/contributing) and the [dxw style guide](https://playbook.dxw.com/#/guides/style-guide).
 
 ## Building services
 
