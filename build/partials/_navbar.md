@@ -16,6 +16,7 @@
   - [Plugin reviews](guides/plugin-reviews.md)
   - [Running a discovery kick-off workshop](guides/running-a-discovery-kick-off-workshop.md)
   - [Running a roadmapping workshop](guides/running-a-roadmapping-workshop.md)
+  - [Service design at dxw](guides/service-design-at-dxw.md)
   - [Setting up a new project](guides/setting-up-a-new-project.md)
   - [Show and tells](guides/show-and-tells.md)
   - [Sprint planning](guides/sprint-planning.md)
