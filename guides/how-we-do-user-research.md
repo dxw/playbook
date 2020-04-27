@@ -77,12 +77,12 @@ These are the things that user researchers usually do on projects.
 It’s important that team members and stakeholders know they have the right research plan, discussion guide or other research document.
 
 So we give our documents consistent file names like:
- * YYYY MM DD - CLIENT - PROJECT - TYPE - RESEARCH ACTIVITY (if needed for clarity)
- * For example, 2019 10 01 - Southwark - Affordable homes monitoring alpha - User research plan
+ * YYYY MM DD - TYPE - CLIENT - PROJECT - RESEARCH ACTIVITY (if needed for clarity)
+ * For example, 2019 10 01 - User research plan - Southwark - Affordable homes monitoring alpha
 
 And a consistent front cover with:
- * Client and dxw digital logos
- * Client and project
+ * Client and dxw logos
+ * Client and project names
  * Document type
  * Date
  * Main contact (who wrote it)
