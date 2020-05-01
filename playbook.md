@@ -1951,6 +1951,30 @@ At the end of each financial year we will review our financial position with the
 
 If you have any questions, please contact the HR team.
 
+#### Private Slack channels
+
+We encourage everyone at dxw to be open about their identities and the
+challenges they experience at work, but sometimes we want to only talk to people
+whose experiences more closely resemble our own. To enable that, we have created
+a number of private channels:
+
+- #identity-lgbtqia-plus (contact a member of @identity-lgbtqia-plus-admins to
+  join)
+- #identity-gender-minority (contact a member of
+  @identity-gender-minority-admins to join)
+
+Anyone can create a new one by creating the private channel, creating a user
+group with at least one volunteer (or asking a Slack admin to do it for you),
+and adding it to this list. It's probably a good idea to share that you've
+created it in #general.
+
+The membership of those channels is also private to protect those people, and
+members of a channel are expected to keep everything in those channels private.
+
+We don't police membership of these channels, and trust everyone to be honest
+about their  identities. **Don't invite anyone without first asking them if they
+want to be invited.**
+
 #### Book purchase
 
 If there is a book relevant to your work that you would like to read, make a request through the #help-purchasing slack channel and the Bus Ops team will buy it for the library.
