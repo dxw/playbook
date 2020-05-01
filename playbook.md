@@ -1513,7 +1513,7 @@ The buddy system is there to help us all improve, to make sure we're doing the r
 
 If you want to know more about how the buddy system works, how often to meet and suggested discussion topics, see the buddy [crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing). This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet up.
 
-##### Your delivery Lead (for those on client work)
+##### Your delivery lead (for those on client work)
 
 There will be opportunities within the delivery team to raise any issues or concerns you might have e.g. retrospectives or planning sessions. As well as this, or if you’d prefer to talk one on one, the delivery lead working on the project will be available to provide support and guidance.
 
