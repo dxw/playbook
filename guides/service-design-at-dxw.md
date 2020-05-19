@@ -7,15 +7,17 @@ experience of applying service design to projects at dxw.
 ## 1. Clarify the problem and set the direction
 
 - As part of the project kickoff, service designers interrogate the brief set by
-  the client. We facilitate a **problem framing** session to identify the
-  intended outcomes of the work (though not their expected solutions), alongside
+  the client. Following an inception workshop, we might facilitate a 
+  **problem framing** session to identify the intended outcomes of the 
+  work (though not their expected solutions), alongside
   the recognised needs and problems that have initiated the project. This
   session happens early in the inception phase so that the outcomes can inform
-  the project roadmap.
+  the project roadmap. We may use this [problem framing template](https://docs.google.com/spreadsheets/d/1ygq9oF97XI5VebbchAP422oLo6SigkK_Ts__0TaS0-Y/edit?usp=sharing) 
+  to help structure the discussion with stakeholders.
 - Problem framing results in a clear and careful articulation of the problem and
   the **measurable impact** that will result from the project. Arriving at this
-  statement together with the client helps the project team **align on a clear
-  scope**, and serves as a guide throughout the decision-making stages of the
+  statement together with the client helps the project team **align on a clear scope**, 
+  and serves as a guide throughout the decision-making stages of the
   design process.
 - We work with user researchers to **develop a project plan** outlining the
   activities and methods that are appropriate to the project. At this stage, we
@@ -43,14 +45,14 @@ experience of applying service design to projects at dxw.
   long term**, considering opportunities for change in both timeframes.
 - When we **visualise the insights** gathered throughout the exploration, it
   helps us to think through the problem at different **levels of zoom**, moving
-  between the abstract and concrete. We keep a holistic view by **mapping the
-  service**, particularly the ecosystem, stakeholders and current state. But we
+  between the abstract and concrete. We keep a holistic view by **mapping the service**, 
+  particularly the ecosystem, stakeholders and current state. But we
   also dig deep into the details and visually capture the more technical aspects
   such as the behaviours, data, systems and processes involved.
 - This process **highlights opportunities** to improve service experiences and
   helps us to communicate them to others.
 
-## 3. Creating a service strategy
+## 3. Create a service strategy
 
 - Service designers aim to **preserve clarity in the scope** throughout the
   process and evolve the problem statement that was created at the beginning of
@@ -65,12 +67,12 @@ experience of applying service design to projects at dxw.
 
 ## 4. Imagine new service experiences
 
-- Service designers help the team transition **from research insights to service
-  concepts**. We plan and facilitate workshops and other design activities.
+- Service designers help the team transition **from research insights to service concepts**. 
+  We plan and facilitate workshops and other design activities.
   There are a number of methods that we may use at this stage, but all of them
   link concepts directly to value creation for both the user and the
   organisation.
-- **Co-design** is the gold-standard method to use during this ideation phase.
+- **Co-design** is the gold-standard method to use during this exploratory phase.
   We bring together stakeholders, subject matter experts, designers and where
   possible end users to generate and discuss design ideas.
 - As part of ideation sessions, service designers can facilitate the
@@ -85,9 +87,9 @@ experience of applying service design to projects at dxw.
 
 ## 5. Prototype the service
 
-- Before any prototyping begins, service designers may test the basis of the
-  value proposition to ensure that the service works in theory. This check
-  ensures it offers value to the end users/customers as well as the business.
+- Before any prototyping begins, service designers test the proposition 
+  with customers to understand if it will offer value to the 
+  end-users/customers as well as the business.
 - Service designers **prototype and test service elements** that fall outside of
   a screen context, for example experiential prototypes of a physical space.
 - Service designers consider wider factors relevant to service success such as
@@ -112,8 +114,8 @@ experience of applying service design to projects at dxw.
   presentation that explains how the problems identified at the start of the
   project have the potential to be resolved through the proposed service,
   explaining the rationale for the design decisions along the way.
-- Service designers consider factors that contribute to the service’s **future
-  success**. We can create guides to support its implementation, prepare
+- Service designers consider factors that contribute to the service’s **future success**. 
+  We can create guides to support its implementation, prepare
   training that staff may need in order to deliver the service, and recommend
   organisational structures to ensure it will be properly managed in the future.
 - We also consider factors that could limit the success of the service and help
@@ -125,8 +127,11 @@ experience of applying service design to projects at dxw.
 ## 7. Beta, live and beyond...
 
 - Service designers like to be involved throughout the beta and live phases of a
-  new service to help ensure that **performance is tracked and outcomes
-  measured**. We help service teams set up Key Performance Indicators and the
+  new service to help ensure that **performance is tracked and outcomes measured**. 
+  We help service teams set up Key Performance Indicators and the
   data streams required to track them.
 - In a similar way we can also **support teams running existing services** to
   identify and implement improvements.
+- When those services require transformation of an existing service the 
+  service designer plays an important role helping to **define channel shift strategies** 
+  for transitioning to a digital service.
