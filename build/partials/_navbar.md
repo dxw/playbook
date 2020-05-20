@@ -28,5 +28,5 @@
   - [Wrapping up a project](guides/wrapping-up-a-project.md)
 
 <div class="logo">
-  <img src="build/assets/img/dxw-marker.svg" height="32px">
+  <img src="build/assets/img/dmark.png" height="32">
 </div>
