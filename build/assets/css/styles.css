@@ -1,13 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Cardo:400,400i&display=swap');
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Cardo', -apple-system, serif;
   font-size: 15pt;
-  color: #393b44;
+  color: #243746;
   line-height: 1.5;
   margin: 0;
   padding: 0;
-  background: #FAFDFE;
+  background: #f9f8f5;
 }
 .markdown-section ol, .markdown-section p, .markdown-section ul {
   line-height: 1.5;
@@ -16,14 +17,14 @@ body {
   border-left-color: #858585;
 }
 .sidebar, .sidebar input {
-  background: #006998;
-  color: #fafafa;
+  background: #243746;
+  color: #f9f8f5;
 }
 .sidebar input::placeholder {
-  color: #f1f1f1c4;
+  color: #f9f8f5c4;
 }
 .sidebar ul li a {
-  color: #fafafa;  
+  color: #f9f8f5;
 }
 .sidebar {
   z-index: 3;
@@ -32,12 +33,12 @@ body {
   border-bottom: 1px solid #f1f1f175 !important;
 }
 .search .search-keyword {
-  color: white;
+  color: #f9f8f5;
   text-decoration: underline;
 }
 
 h1,h2,h3,h4,h5 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 700;
 }
 .markdown-section h1:not(:first-of-type) {
@@ -45,7 +46,6 @@ h1,h2,h3,h4,h5 {
 }
 
 b,strong {
-  font-family: 'Lato', sans-serif;
   font-weight: 700;
 }
 .app-nav {
@@ -61,14 +61,10 @@ b,strong {
   z-index: 99;
 }
 article p a, article li a {
-  color: #006998;
-  text-decoration: none;
-  border-bottom: 3px solid rgba(28,164,222,0.2);
-  transition: all 0.2s ease-in-out;
+  color: inherit;
 }
 article p a:hover, article li a:hover {
-  color: #00344c;
-  border-bottom-color: rgba(0,52,76,0.4);
+  text-decoration-color: #17212c;
 }
 .markdown-section > :first-child a {
   border-bottom: none;
@@ -78,18 +74,11 @@ article p a:hover, article li a:hover {
   line-height: 1.6;
 }
 .sidebar ul li.active > a {
-  font-family: 'Lato', sans-serif;
-  color: #fafafa;  
+  color: #f9f8f5;
   border-right: 4px solid;
 }
 .search a:hover {
-  color: #fafafa; 
-}
-.sidebar-nav > ul > li {
-  font-family: 'Lato', sans-serif;
-}
-.sidebar-nav > ul > li > ul li {
-  font-family: 'Lato', sans-serif;
+  color: #f9f8f5;
 }
 article li {
   margin-bottom: 10px;
@@ -103,7 +92,7 @@ article li {
 
 @media screen and (max-width: 768px) {
   .sidebar-toggle {
-    background-color: rgba(255,255,255,0.8);
+    background-color: #f9f8f5;
     padding: 20px;
   }
   .content {
@@ -140,7 +129,7 @@ a.skip:hover {
   height: auto; 
   overflow: visible;
   z-index: 10;
-  background: #FAFDFE;
+  background: #f9f8f5;
   padding: 5px;
   display: inline-block;
 }
