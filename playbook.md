@@ -130,7 +130,7 @@ We recognise individual needs and aim to provide a work environment that is
 accessible, welcoming, and empowering for all. We want everyone to feel
 supported and included in our wider community.
 
-Our [values](#values) are more than just words on a page - it’s about constant action and
+Our [values](#our-values) are more than just words on a page - it’s about constant action and
 holding ourselves to account.
 
 We’re committed to being transparent with our diversity information and
@@ -214,7 +214,7 @@ To decide whether a potential project is ethical and supports our mission, we co
 
 * **Culture**
 
-  We can work together with the client, the users and other stakeholders in ways that support our [values](#values) and [principles](#principles).
+  We can work together with the client, the users and other stakeholders in ways that support our [values](#our-values) and [principles](#our-principles).
 
 #### Matching people to projects
 
@@ -248,7 +248,7 @@ By the end of this meeting, we should make sure that we understand:
 This meeting usually involves quite a bit of discussion about the project. In
 those discussions, we speak freely and openly, offering advice where appropriate
 and making any suggestions we might have. We always try to be as [helpful](#helpful),
-[positive](#positive) and [creative](#creative) as we can.
+[positive](#positive) and [creative](#curious) as we can.
 
 It's important that we use this meeting to find out the information that we need
 to write a good proposal. But it's just as important to prove our expertise, to
@@ -627,7 +627,7 @@ It is doubly bad to fail to meet a commitment and not say anything about it. Res
 
 ##### Make a good impression
 
-In tickets as in all things, we are mindful of dxw's [values](#values).
+In tickets as in all things, we are mindful of dxw's [values](#our-values).
 
 Most clients' routine contact with us is via support tickets, so it's vital that our clients' experience of the support system is a good one, and also that they have a positive experience with us personally.
 
@@ -1251,7 +1251,7 @@ We don't offer compressed hours for client-facing roles due to the complications
 
 We are happy to have a discussion about compressed hours for internal-facing roles but cannot guarantee this would be an option.
 
-35 hours in 3 days, for example, is a no across all roles. It goes against our encouragement of [sustainable pace](#sustainable-pace).
+35 hours in 3 days, for example, is a no across all roles. It goes against our encouragement of [sustainable pace](#work-at-a-sustainable-pace).
 
 For working patterns with the same number of hours each day, holiday allowance can be treated the same as for [part-time roles](#part-time-working). For working patterns with varied hours, the annual allowance for both holiday and bank holidays should be counted in hours (231 hours per year) and bank holidays that fall on working days must be booked as leave.
 
@@ -1572,7 +1572,7 @@ of these boards - we pick whatever seems most appropriate for the job.
 
 The third way we find people is by making sure we're regularly blogging about
 what we're doing, and being open about our culture, work and process. We accept
-[general applications](https://www.dxw.com/jobs/general-application/) from
+[general applications](https://www.dxw.com/careers/general-application/) from
 people who are interested in dxw but who don't fit an open job.
 
 #### Review applications
@@ -1601,9 +1601,9 @@ Try to keep the conversation quite high-level, and avoid going into too much
 technical detail. This part of the process is more about experience and personal
 qualities than about skills. Things to keep in mind:
 
-* Does this person seem likely to embody our [values](#values)?
+* Does this person seem likely to embody our [values](#our-values)?
 * Does this person have an interest in our [mission](#why-are-we-all-here)?
-* Does this person have experience working in [agile environments](#agile-mindset)?
+* Does this person have experience working in [agile environments](#keep-an-agile-mindset)?
 
 If you can find out how they heard about the job, that's useful for us to know.
 
