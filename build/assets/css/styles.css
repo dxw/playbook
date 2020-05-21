@@ -21,9 +21,14 @@ body {
 .markdown-section blockquote p, .markdown-section em {
   color: #243746;
 }
-.sidebar, .sidebar input {
+.sidebar {
   background: #09615D;
   color: #FFB259;
+}
+
+.sidebar input {
+  background: inherit;
+  color: #f9f8f5;
 }
 .sidebar input::placeholder {
   color: #f9f8f5c4;
@@ -46,7 +51,9 @@ body {
 .sidebar ul li.active > a,
 .app-nav ul li a:hover,
 .app-nav ul li a:focus,
-.app-nav ul li a.active {
+.app-nav ul li a.active,
+.search h2:hover,
+.search h2:focus {
   text-decoration: none;
   border-bottom: 2px solid #FFB259;
 }
@@ -55,10 +62,18 @@ body {
   z-index: 3;
 }
 .search {
+  background-color: rgba(0,0,0,0.25);
   border-bottom: 1px solid #f1f1f175 !important;
-}
-.search .search-keyword {
   color: #f9f8f5;
+}
+.search h2 {
+  display: inline;
+}
+
+.search .results-panel.show { padding-top: 5px; }
+.search .matching-post { margin-bottom: 5px }
+.search .search-keyword {
+  color: #ffb259;
   text-decoration: underline;
 }
 
