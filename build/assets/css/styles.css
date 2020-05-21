@@ -22,15 +22,35 @@ body {
   color: #243746;
 }
 .sidebar, .sidebar input {
-  background: #243746;
-  color: #f9f8f5;
+  background: #09615D;
+  color: #FFB259;
 }
 .sidebar input::placeholder {
   color: #f9f8f5c4;
 }
+.sidebar ul li {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.sidebar ul li a, .app-nav ul li a {
+  font-family: Poppins, sans-serif;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  display: inline;
+}
 .sidebar ul li a {
   color: #f9f8f5;
 }
+.sidebar ul li a:hover,
+.sidebar ul li a:focus,
+.sidebar ul li.active > a,
+.app-nav ul li a:hover,
+.app-nav ul li a:focus,
+.app-nav ul li a.active {
+  text-decoration: none;
+  border-bottom: 2px solid #FFB259;
+}
+
 .sidebar {
   z-index: 3;
 }
@@ -45,6 +65,10 @@ body {
 h1,h2,h3,h4,h5 {
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
+}
+.app-nav {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
 }
 .markdown-section h1:not(:first-of-type) {
   margin-top: 2em;
@@ -62,6 +86,9 @@ b,strong {
 .app-nav li ul li, .sidebar ul li a {
   font-size: 13pt;
 }
+.sidebar ul ul ul li a {
+  font-size: 11pt;
+}
 .app-nav li ul {
   z-index: 99;
 }
@@ -76,11 +103,12 @@ article p a:hover, article li a:hover {
   font-size: 13pt;
 }
 .sidebar li {
-  line-height: 1.6;
+  line-height: 1.5;
+  margin: 0;
 }
 .sidebar ul li.active > a {
   color: #f9f8f5;
-  border-right: 4px solid;
+  border-right: 0;
 }
 .search a:hover {
   color: #f9f8f5;
