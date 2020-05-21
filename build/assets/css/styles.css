@@ -12,34 +12,78 @@ body {
 }
 .markdown-section ol, .markdown-section p, .markdown-section ul {
   line-height: 1.5;
+  word-spacing: 0;
 }
 .markdown-section blockquote {
   border-left-color: #858585;
+  color: #243746;
 }
-.sidebar, .sidebar input {
-  background: #243746;
+.markdown-section blockquote p, .markdown-section em {
+  color: #243746;
+}
+.sidebar {
+  background: #09615D;
+  color: #FFB259;
+}
+
+.sidebar input {
+  background: inherit;
   color: #f9f8f5;
 }
 .sidebar input::placeholder {
   color: #f9f8f5c4;
 }
+.sidebar ul li {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.sidebar ul li a, .app-nav ul li a {
+  font-family: Poppins, sans-serif;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  display: inline;
+}
 .sidebar ul li a {
   color: #f9f8f5;
 }
+.sidebar ul li a:hover,
+.sidebar ul li a:focus,
+.sidebar ul li.active > a,
+.app-nav ul li a:hover,
+.app-nav ul li a:focus,
+.app-nav ul li a.active,
+.search h2:hover,
+.search h2:focus {
+  text-decoration: none;
+  border-bottom: 2px solid #FFB259;
+}
+
 .sidebar {
   z-index: 3;
 }
 .search {
+  background-color: rgba(0,0,0,0.25);
   border-bottom: 1px solid #f1f1f175 !important;
-}
-.search .search-keyword {
   color: #f9f8f5;
+}
+.search h2 {
+  display: inline;
+}
+
+.search .results-panel.show { padding-top: 5px; }
+.search .matching-post { margin-bottom: 5px }
+.search .search-keyword {
+  color: #ffb259;
   text-decoration: underline;
 }
 
 h1,h2,h3,h4,h5 {
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
+}
+.app-nav {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
 }
 .markdown-section h1:not(:first-of-type) {
   margin-top: 2em;
@@ -57,6 +101,9 @@ b,strong {
 .app-nav li ul li, .sidebar ul li a {
   font-size: 13pt;
 }
+.sidebar ul ul ul li a {
+  font-size: 11pt;
+}
 .app-nav li ul {
   z-index: 99;
 }
@@ -71,11 +118,12 @@ article p a:hover, article li a:hover {
   font-size: 13pt;
 }
 .sidebar li {
-  line-height: 1.6;
+  line-height: 1.5;
+  margin: 0;
 }
 .sidebar ul li.active > a {
   color: #f9f8f5;
-  border-right: 4px solid;
+  border-right: 0;
 }
 .search a:hover {
   color: #f9f8f5;
