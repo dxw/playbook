@@ -1572,7 +1572,7 @@ of these boards - we pick whatever seems most appropriate for the job.
 
 The third way we find people is by making sure we're regularly blogging about
 what we're doing, and being open about our culture, work and process. We accept
-[general applications](https://www.dxw.com/jobs/general-application/) from
+[general applications](https://www.dxw.com/careers/general-application/) from
 people who are interested in dxw but who don't fit an open job.
 
 #### Review applications
