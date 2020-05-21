@@ -12,9 +12,14 @@ body {
 }
 .markdown-section ol, .markdown-section p, .markdown-section ul {
   line-height: 1.5;
+  word-spacing: 0;
 }
 .markdown-section blockquote {
   border-left-color: #858585;
+  color: #243746;
+}
+.markdown-section blockquote p, .markdown-section em {
+  color: #243746;
 }
 .sidebar, .sidebar input {
   background: #243746;
