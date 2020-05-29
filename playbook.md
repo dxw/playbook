@@ -75,6 +75,14 @@ enjoy doing things properly, and we're loath to settle for less.
 
 These principles help us live up to our [values](#our-values), and guide our behaviour and decision making in all the things we do at dxw.
 
+#### Start with people and their needs
+
+At dxw we want to create public services that work well for everyone who depends on them.
+
+We start by understanding the different people who will use and be affected by a service. Wherever possible we work with them to design and test the things they will use.
+
+We actively consider the intended and unintended consequences of our work on people, communities and the planet.
+
 #### Keep an agile mindset
 
 At dxw, we think that agile is a mindset that’s accepting of change, curious
