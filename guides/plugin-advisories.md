@@ -1,3 +1,5 @@
+---
+---
 # Plugin Advisories
 
 ## Workflow

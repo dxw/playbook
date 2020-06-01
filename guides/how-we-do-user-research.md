@@ -1,3 +1,5 @@
+---
+---
 # How we do user research
 
 ## Introduction
@@ -31,7 +33,7 @@ These are the things that user researchers usually do on projects.
    Researchers recruit appropriate participants for research activities. Finding the right participants at the right time is always challenging, so we start recruiting as soon as we can and use a variety of approaches to reach everyone we need. We keep track of who participates in our research, so we can be confident that we’re including the right people.
 
    This helps teams to learn about all their users and produce services that work well for everyone.
-   
+
    [How we get informed consent for user research](http://playbook.dxw.com/#/guides/how-we-do-user-research?id=how-we-get-informed-consent-for-user-research)
    [When and how we give incentives to research participants](http://playbook.dxw.com/#/guides/how-we-do-user-research?id=when-and-how-we-give-incentives-to-research-participants)
 
@@ -42,7 +44,7 @@ These are the things that user researchers usually do on projects.
    We record what we do and how we do it, for each other, and for those who come after us.
 
    This helps teams to embed regular research into their agile practices and get the best results from the effort they put in.
-   
+
    [How we write and use discussion guides](http://playbook.dxw.com/#/guides/how-we-do-user-research?id=how-we-write-and-use-discussion-guides)
    [How we take notes and record research sessions](http://playbook.dxw.com/#/guides/how-we-do-user-research?id=how-we-take-notes-and-record-research-sessions)
 
@@ -69,7 +71,7 @@ These are the things that user researchers usually do on projects.
    Researchers know it’s important to manage research data carefully.  We follow our [privacy policy](https://www.dxw.com/privacy-statement/) and [ISO27001 certification](https://www.itgovernance.co.uk/iso27001) when collecting, processing and storing research data to make sure we comply with that [General Data Protection Regulation](https://www.gov.uk/government/publications/guide-to-the-general-data-protection-regulation).
 
    This helps teams to get the most from the research data they collect, while protecting the privacy of the people taking part.
-   
+
    [How we take notes and record research sessions](http://playbook.dxw.com/#/guides/how-we-do-user-research?id=how-we-take-notes-and-record-research-sessions)
 
 ## How we name and identify documents

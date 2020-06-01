@@ -1,3 +1,5 @@
+---
+---
 # Team and project scheduling
 
 ***If anything in this guide is unclear, put a message in the #scheduling slack channel - most people in this channel have a good level of knowledge of 10kft and should be able to offer clarification. We can then make an update to this guide.***
@@ -9,7 +11,7 @@ This guide can be used to find out what 10kft is for, as well as called upon whe
 **Schedulers:** mostly project leads (in delivery, product or strategy) or sales leads
 
 **Admins:** mostly project leads and the commercial team
- 
+
 ## What we use 10kft for and why
 
 ### Forecasting for sales
@@ -50,14 +52,14 @@ The **sales lead** should:
 -   describe and explain new opportunities in the #scheduling slack channel. Including the nature of work, proposed team shape and start dates, along with any scheduling challenges
 -   add tentative placeholders to 10kft (go to the [adding a placeholder](http://playbook.dxw.com/#/guides/team-and-project-scheduling?id=adding-a-placeholder) section of this guide for details on how to do this)
 -   leave notes in the #scheduling channel with the latest information
-  
+
 Once a sales opportunity is realised, this is handed over to a “project lead”, assigned to that work.
 
 The **project lead** should:
 
--   ensure all tentative placeholders are accurate in 10kft    
+-   ensure all tentative placeholders are accurate in 10kft
 -   speak with the team assigned to the work to discuss next steps
--   review the project set up in 10kft and amend where needed 
+-   review the project set up in 10kft and amend where needed
 
 ### Reporting our time
 
@@ -65,7 +67,7 @@ Every team member working on a client or named project is responsible for report
 
 ### Reporting against the business plan
 
-We use data reported in 10kft to help us understand if we’re where we thought we’d be and if this matches up to our projections. 
+We use data reported in 10kft to help us understand if we’re where we thought we’d be and if this matches up to our projections.
 
 Some reasons why this is helpful for us as a business are:
 
@@ -87,7 +89,7 @@ Scroll to the bottom of the schedule view, where there will be a list of placeho
 
 ![Image of 10kft schedule placeholder view](http://playbook.dxw.com/guides/Image%20of%2010kft%20schedule%20placeholder%20view.png)
 
-Click on a space that is relevant to the placeholder and select ‘New Assignment’. For example, service designer in the week commencing would look something like: 
+Click on a space that is relevant to the placeholder and select ‘New Assignment’. For example, service designer in the week commencing would look something like:
 
 ![Image of 10kft schedule view new assignment](http://playbook.dxw.com/guides/Image%20of%2010kft%20schedule%20view%20new%20assignment.png)
 
@@ -107,7 +109,7 @@ This will need to be done for all roles within a project that need to be schedul
 
 Every team member working on a client or named internal project is responsible for reporting their time. For guidance on this, visit the [reporting our time](http://playbook.dxw.com/#/?id=reporting-our-time) section of the playbook. For how to do this, see the step by step below.
 
-### Step by Step 
+### Step by Step
 
 Click on your name in the top banner of 10kft. Then click on the “Time & Expenses” tab as seen below.
 
@@ -121,7 +123,7 @@ Once confirmed the view will become **bold**, with a tick:
 
 ![Image of confirmed time in 10kft](http://playbook.dxw.com/guides/Image%20of%20confirmed%20time%20in%2010kft.png)
 
-If what was worked on isn’t shown, click on the 'Report Time for Something Else' option, to search and find the project that’s been worked on. If this happens, make it known to the project lead. 
+If what was worked on isn’t shown, click on the 'Report Time for Something Else' option, to search and find the project that’s been worked on. If this happens, make it known to the project lead.
 
 ![Image of time tracking option in 10kft](http://playbook.dxw.com/guides/Image%20of%20time%20tracking%20option%20in%2010kft.png)
 
@@ -133,7 +135,7 @@ Contractors are added for purposes of utilisation and billing. **Contractors do 
 
 A contractor’s time on a client project must be reported and confirmed. Just like when reporting and confirming our own time on client work. Only Admins of 10kft can confirm a contractor's time. All project leads will have admin access.
 
-To report a contractor’s time, search their name in 10kft. If there’s a contractor working on a team, but are not yet represented in 10kft, go to the [setting up an account](http://playbook.dxw.com/#/guides/team-and-project-scheduling?id=setting-up-an-account) section of this guide. 
+To report a contractor’s time, search their name in 10kft. If there’s a contractor working on a team, but are not yet represented in 10kft, go to the [setting up an account](http://playbook.dxw.com/#/guides/team-and-project-scheduling?id=setting-up-an-account) section of this guide.
 
 ### Adding a new team member
 
@@ -141,7 +143,7 @@ Not everyone at dxw needs access to 10kft, so we use our judgement as to who sho
 
 #### dxw digital is made up of three core functions
 
-These functions are delivery, strategy and technical operations. Generally all team members are set up in a similar way, with project and people tags, as well as target utilisation, which varies per team member. 
+These functions are delivery, strategy and technical operations. Generally all team members are set up in a similar way, with project and people tags, as well as target utilisation, which varies per team member.
 
 ### Who sets up access?
 
@@ -157,7 +159,7 @@ The delivery, strategy and technical operations team members. As well as members
 
 ### Which function does a team member sit within?
 
-When referencing the delivery, strategy or technical operations teams, we mean multiple disciplines working under one of three functions at dxw digital. 
+When referencing the delivery, strategy or technical operations teams, we mean multiple disciplines working under one of three functions at dxw digital.
 
 Team members who work within the **delivery function**, sit within one of the following disciplines:
 
@@ -201,7 +203,7 @@ The following information needs to be set:
 
 We ignore the input fields for phone numbers and employee codes - this information isn’t something we record in 10kft.
 
-#### If the team member is a contractor, working with dxw 
+#### If the team member is a contractor, working with dxw
 
 Setting up a contractor account must be done by the commercial team, at the point of receiving a signed work outline.
 
@@ -220,11 +222,11 @@ We ignore the input fields for email address, phone number and employee codes, a
 Project leads will have administrator permission levels. Team members who are billable members of the team, but don’t lead on projects will have 'team member' permissions. There are six different types of permission levels on 10kft. We use the following four:
 
 **Administrator:** People with Administrator level access can change company account settings, alter schedules, adjust bill rates, add/remove people and projects, reset passwords, and confirm others’ time.
- 
+
 **Scheduler:** The Scheduler permission level is meant for people who make day-to-day changes to the Schedule, but should not have access to the project’s settings. They have all the permissions of the Project Manager, except the ability to create/edit projects, add/invite people, edit account settings, edit people profiles, and confirm others’ time.
- 
+
 **Team Member:** The Team Member permission level allows the person to see information on all projects and people within the organization, including budgets and other financial details. However, Team Members cannot edit assignments.
- 
+
 **Contractor:** These people can only view their personal page for time tracking and projects they’re assigned to. Contractors can account for time only on projects that they’ve been assigned to by an Administrator or Project Manager.
 
 We use our judgement to assign a permission level for a new user. If you’re not sure, ask in the #scheduling slack channel.
@@ -237,7 +239,7 @@ We don't actively assign team members the following permission settings:
 
 #### Availability
 
-By default, those working on billed client work, within the delivery and technical operations functions, should all be set to a part time working pattern. We work a 4 day client week, meaning although team members work on Fridays, they are not typically assigned to client work. 
+By default, those working on billed client work, within the delivery and technical operations functions, should all be set to a part time working pattern. We work a 4 day client week, meaning although team members work on Fridays, they are not typically assigned to client work.
 
 Team member availability is set at 7 hours per working day, from Monday to Thursday.
 
@@ -262,7 +264,7 @@ A weekly working pattern that differs from the default should be set by the Comm
 - add the users ‘First day of work’
 - under the button that asks to ‘add part-time availability’, there will be an option to enter in a team member’s availability
 
-Typically, this will need to be set by adding 7 into the boxes across Monday - Thursday and putting a zero in the box for Friday. This reflects the seven hour day a team member works on a project. 
+Typically, this will need to be set by adding 7 into the boxes across Monday - Thursday and putting a zero in the box for Friday. This reflects the seven hour day a team member works on a project.
 
 ***Although dxw bill clients in days, we track time in 10kft on an hourly basis, due to the way 10kft is set up.***
 
@@ -299,7 +301,7 @@ Team members with “Scheduler” or “Admin” permissions can add projects to
 
 #### What qualifies as a project?
 
-All billable work under our delivery, strategy and technical operations functions count as projects we need to be tracking. 
+All billable work under our delivery, strategy and technical operations functions count as projects we need to be tracking.
 
 If a team is working on an internal project we treat similarly to billed work, this should be added to reflect our investment.
 
@@ -317,7 +319,7 @@ Once signed in, go to the **projects** tab in the navigation. On the right hand 
 
 ![Image of projects tab in navigation on 10kft](http://playbook.dxw.com/guides/Image%20of%20projects%20tab%20in%20navigation%20on%2010kft.png)
 
-Then complete the following project information. If a project is tentative, we try and fill in as much detail as possible. If any section is unknown, this can be left blank, until it has been confirmed. 
+Then complete the following project information. If a project is tentative, we try and fill in as much detail as possible. If any section is unknown, this can be left blank, until it has been confirmed.
 
 **When a project is won and a project lead is assigned, they are responsible for ensuring the project set up has been completed accurately.**
 
@@ -329,13 +331,13 @@ When adding a project, all of the settings will be set to the default. Unless th
 
 ![Image of project tags example in 10kft](http://playbook.dxw.com/guides/Image%20of%20project%20tags%20example%20in%2010kft.png)
 
-We track projects against six project tags: cyber, delivery, dxwNorth, Hybrid, Ops & Strategy. Tags are used to filter projects and pull reports. Add at least one, representing the function the project sits within (delivery, strategy or technical operations). 
+We track projects against six project tags: cyber, delivery, dxwNorth, Hybrid, Ops & Strategy. Tags are used to filter projects and pull reports. Add at least one, representing the function the project sits within (delivery, strategy or technical operations).
 
 ### Things to do once a project has been confirmed
 
 #### Confirm the working pattern of your team
 
-When setting up a project it’s important to confirm the working patterns of the team members assigned to the project. Whilst most team members work a 5 day week, some of our colleagues have differing working patterns. This could mean that their day rates might be different or they aren’t available to work some of the days when other team members can. 
+When setting up a project it’s important to confirm the working patterns of the team members assigned to the project. Whilst most team members work a 5 day week, some of our colleagues have differing working patterns. This could mean that their day rates might be different or they aren’t available to work some of the days when other team members can.
 
 Working patterns can be confirmed by speaking to a team members' line manager. This might change the way we bill for this person’s time. Speak to a Director who will be able to confirm this for you.
 

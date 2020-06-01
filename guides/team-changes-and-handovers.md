@@ -1,3 +1,5 @@
+---
+---
 # Team changes and handovers
 
 ## Introduction
@@ -8,7 +10,7 @@ Projects inevitably undergo team member changes. This can be for a number of rea
 - Ensure an effective transfer of knowledge
 - Work well in the context of other ongoing dxw projects
 
-The following guidance is intended to outline the standard steps that can be taken by anyone moving to a new project. 
+The following guidance is intended to outline the standard steps that can be taken by anyone moving to a new project.
 
 ## People joining and leaving projects
 ### Before the change
@@ -23,7 +25,7 @@ Your new delivery lead should arrange a catch up before you start work on the ne
 Some of the team you’ll likely have worked with before, there may be others you haven’t. The sooner this happens the better. Take the time to speak with everyone in the team to understand what they are working on. The delivery lead will have confirmed with the team any personnel changes. The delivery lead/relevant Head Of should also confirm to the organisation about the team member change.
 
 #### Familiarise yourself with how the current project is set up
-You can speak with the delivery lead (or outgoing delivery lead if relevant) to understand which ceremonies happen and when. You should also make sure you know of any particular arrangements the team have, for example, remote working arrangements, the working patterns of team members and so on. Make sure you’re clear on what the client expectations are for this. Your delivery lead should ensure you are added to all the relevant calendar invites. 
+You can speak with the delivery lead (or outgoing delivery lead if relevant) to understand which ceremonies happen and when. You should also make sure you know of any particular arrangements the team have, for example, remote working arrangements, the working patterns of team members and so on. Make sure you’re clear on what the client expectations are for this. Your delivery lead should ensure you are added to all the relevant calendar invites.
 
 #### Meet the client
 As you’re onboarded to the new project, you should be introduced to whoever is the client representative. It’s important they know who you are and what role you do. How formal this process needs to be will depend on the nature of the project.
@@ -38,7 +40,7 @@ Below is a checklist of things that you/your delivery lead should complete when 
 - Know what roles and responsibilities you’ll be taking on
 - Get added to the regular ceremonies:
   - Standup
-  – Sprint planning meetings 
+  – Sprint planning meetings
   - Retrospectives
   - Show and tells
 - Get added to relevant Slack channels

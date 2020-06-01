@@ -1,3 +1,5 @@
+---
+---
 # Weeknotes
 
 ## What are weeknotes?
