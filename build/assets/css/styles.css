@@ -135,6 +135,10 @@ article li {
 .sidebar-toggle {
   background-color: transparent;
 }
+.content {
+  scroll-behavior: smooth;
+  overflow: scroll;
+}
 
 @media screen and (max-width: 768px) {
   .sidebar-toggle {
@@ -166,13 +170,13 @@ article li {
   overflow: hidden;
 }
 
-a.skip:active, 
-a.skip:focus, 
+a.skip:active,
+a.skip:focus,
 a.skip:hover {
-  left: 0; 
+  left: 0;
   top: 0;
-  width: auto; 
-  height: auto; 
+  width: auto;
+  height: auto;
   overflow: visible;
   z-index: 10;
   background: #f9f8f5;
