@@ -138,9 +138,9 @@ regularly assessing the impact of all our policies and practices.
 
 Thank you for being you - it makes us better.
 
-### Advisory Council
+### Our Advisory Council
 
-dxw does not have external investors or shareholders. To help keep us honest, we are very lucky to have a voluntary advisory council, made up of a small group of senior figures, who meet quarterly to discuss and provide guidance on our strategy, business plan and other topics related to company health and progression. The group have a wealth of experience of public and private sector work, as well as being friends of dxw that share our values.
+dxw does not have external investors or shareholders. To help keep us honest, we are very lucky to have a voluntary Advisory Council, made up of a small group of senior figures, who meet quarterly to discuss and provide guidance on our strategy, business plan and other topics related to company health and progression. The group have a wealth of experience of public and private sector work, as well as being friends of dxw that share our values.
 
 ### This Playbook
 
