@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # dxw’s Playbook
 
 ## Who we are
@@ -38,7 +41,7 @@ We think that it's very important to have a talented team if we're going to
 succeed. But just as important as raw talent is our ability to work well
 together. These are the values that we aspire to, and help each other to
 achieve.
-     
+
 #### Helpful
 
 We are helpful, useful and expert. We give practical and pragmatic advice to
