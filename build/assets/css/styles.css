@@ -48,7 +48,7 @@ body {
 }
 .sidebar ul li a:hover,
 .sidebar ul li a:focus,
-.sidebar ul li.active > a,
+.sidebar ul li > a.active,
 .app-nav ul li a:hover,
 .app-nav ul li a:focus,
 .app-nav ul li a.active,
