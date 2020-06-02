@@ -8,6 +8,9 @@
   var scrollToLink = function(element) {
     locationID = element.getAttribute("data-target")
     document.getElementById(locationID).scrollIntoView({ behavior: 'smooth' })
+    if (window.innerWidth < 768) {
+      document.querySelector("body").classList.remove("close")
+    }
     history.pushState({}, "", "#" + locationID)
   }
 
