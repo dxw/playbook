@@ -21,7 +21,7 @@ module Jekyll
       <<-EOS
       <ul>
         <li>
-          <a href="##{heading[:id]}">#{heading[:text]}</a>
+          <a href="##{heading[:id]}" data-target="#{heading[:id]}">#{heading[:text]}</a>
         </li>
         #{render_subheadings(heading[:subheadings])}
       </ul>

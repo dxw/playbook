@@ -135,10 +135,6 @@ article li {
 .sidebar-toggle {
   background-color: transparent;
 }
-.content {
-  scroll-behavior: smooth;
-  overflow: scroll;
-}
 
 @media screen and (max-width: 768px) {
   .sidebar-toggle {
