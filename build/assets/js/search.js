@@ -12,8 +12,9 @@
     var content = result.dataset.content
     var searchIndex = content.search(new RegExp(query, "i"))
     var queryLength = query.length
+    var excerpt = content.slice(searchIndex - 20, (searchIndex + queryLength) + 20)
 
-    return content.slice(searchIndex - 20, (searchIndex + queryLength) + 20)
+    return excerpt.replace(query, "<em class='search-keyword'>"+ query +"</em>")
   }
 
   searchBox.addEventListener("input", function(event) {
@@ -30,7 +31,7 @@
         clone = template.content.cloneNode(true);
         clone.querySelector("h2").textContent = result.dataset.title
         clone.querySelector("a").setAttribute("href", result.querySelector("a").getAttribute("href"))
-        clone.querySelector("p").textContent = getExcerpt(result, query)
+        clone.querySelector("p").innerHTML = getExcerpt(result, query)
 
         resultsPanel.appendChild(clone)
       })
