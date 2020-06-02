@@ -1,6 +1,5 @@
-(function () {
+var sidebarNavigation = function(links) {
   'use strict';
-  var links = document.querySelectorAll(".sidebar-nav li a");
   var locationID
   var setActiveState = function(element) {
     element.setAttribute("class", "active")
@@ -24,4 +23,8 @@
       event.preventDefault()
     })
   })
-}());
+}
+
+var links = document.querySelectorAll(".sidebar-nav li a");
+
+sidebarNavigation(links);

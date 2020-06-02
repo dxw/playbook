@@ -7,6 +7,7 @@
   var template = document.getElementById("matching-post")
   var results
   var clone
+  var links
 
   var getExcerpt = function(result, query) {
     var content = result.dataset.content
@@ -31,12 +32,16 @@
         clone = template.content.cloneNode(true);
         clone.querySelector("h2").textContent = result.dataset.title
         clone.querySelector("a").setAttribute("href", result.querySelector("a").getAttribute("href"))
+        clone.querySelector("a").dataset.target = result.querySelector("a").dataset.target
         clone.querySelector("p").innerHTML = getExcerpt(result, query)
 
         resultsPanel.appendChild(clone)
       })
 
       resultsPanel.classList.add("show")
+      links = resultsPanel.querySelectorAll("a")
+
+      sidebarNavigation(links)
     }
   })
 
