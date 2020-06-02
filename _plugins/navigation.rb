@@ -4,8 +4,8 @@ module Jekyll
   class NavigationGenerator < Liquid::Tag
     def render(context)
       current_page = page(context)
-      doc = Nokogiri::HTML(current_page.content)
-      headings = doc.xpath("//*[self::h1 or self::h2 or self::h3 or self::h4]")
+      @doc = Nokogiri::HTML(current_page.content)
+      headings = @doc.xpath("//*[self::h1 or self::h2 or self::h3 or self::h4]")
       get_headings_and_subheadings(headings, 1).map { |heading|
         render_list(heading)
       }.join.to_s
@@ -20,7 +20,7 @@ module Jekyll
     def render_list(heading)
       <<-EOS
       <ul>
-        <li>
+        <li data-title="#{heading[:text]}" data-content="#{heading[:content]}">
           <a href="##{heading[:id]}" data-target="#{heading[:id]}">#{heading[:text]}</a>
         </li>
         #{render_subheadings(heading[:subheadings])}
@@ -40,9 +40,16 @@ module Jekyll
         {
           text: heading.text,
           id: heading.attributes["id"].value,
+          content: get_content(heading),
           subheadings: get_headings_and_subheadings(headings, level + 1)
         }
       end
+    end
+
+    def get_content(heading)
+      current_heading_selector = "#{heading.name}[@id='#{heading.attributes['id']}']"
+      following_content = @doc.xpath("//#{current_heading_selector}/following-sibling::*")
+      following_content.slice_before { |s| s.name.match(/h/) }.first.map(&:text).join
     end
   end
 end
