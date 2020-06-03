@@ -1,3 +1,7 @@
 remark:
   enabled: true
   config_file: .remarkrc
+jshint:
+  enabled: false
+rubocop:
+  enabled: false
