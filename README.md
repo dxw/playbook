@@ -81,8 +81,14 @@ structure.
 
 ## Development
 
-To make changes to the playbook theme, you will need to install the
-dependencies:
+To make changes to the playbook theme, you must have the following installed
+on your local machine:
+
+* Ruby >= 2.6
+* Node.js >= 12
+* Go >= 1.13
+
+Assuming this is sorted, you can install the dependencies:
 
 ```
 script/bootstrap
@@ -95,7 +101,24 @@ script/server
 ```
 
 You can now visit [localhost:4000](http://localhost:4000) to see your local
-playbook. Theme files live in the `/build` directory
+playbook. CSS files live in the `build/css` directory, while Javascript
+lives in the `_javascripts` directory.
+
+While the server is running, Webpack watches the JavaScript files for
+changes, and compiles them into the `dist` directory.
+
+To build the Javascript manually, run the following command:
+
+```
+script/build
+```
+
+By default, this builds in `development` mode, which makes debugging
+easier. To build production-ready (minified) JavaScript, you can run:
+
+```
+script/build production
+```
 
 ### Linting
 
