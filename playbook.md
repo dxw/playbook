@@ -146,6 +146,16 @@ regularly assessing the impact of all our policies and practices.
 
 Thank you for being you - it makes us better.
 
+#### Reduce our impact on the environment
+
+At dxw we are working to become a more environmentally sustainable company.
+
+We are focusing on three main areas to reduce our impact:
+
+* In our **offices** we recycle waste where possible. We are switching to environmentally friendly office supplies and refreshments, and changing to renewable energy suppliers.
+* We are aware that the **digital services** we provide have a significant environmental impact. We are finding ways to reduce our contribution by building our products efficiently and using renewable energy for hosting.
+* Whenever possible we **travel** by public transport, and we often work remotely to reduce the need for travel. Due to client needs this isn’t always possible but we’re investigating how to offset our carbon footprint.
+
 ### Our Advisory Council
 
 dxw does not have external investors or shareholders. To help keep us honest, we are very lucky to have a voluntary Advisory Council, made up of a small group of senior figures, who meet quarterly to discuss and provide guidance on our strategy, business plan and other topics related to company health and progression. The group have a wealth of experience of public and private sector work, as well as being friends of dxw that share our values.
@@ -1778,22 +1788,6 @@ For client-facing roles we’ll start billing your time back to the client when 
 We’re also offering internal facing roles, for example, in our busy commercial and marketing teams who also support our sister company, Tradecraft. These roles are not billed back to our clients.
 
 If you think this might be for you, please apply through our jobs page.
-
-## Sustainability
-
-We at dxw are working towards becoming a more environmentally sustainable company. We are focusing on three main areas to reduce our impact:
-
-### Our Offices
-
-In our offices we recycle waste where possible and are in the process of switching to environmentally friendly office supplies & refreshments. We are also in the process of changing to renewable energy suppliers.
-
-### Our Products
-
-We are aware that digital services have a significant environmental impact. We are finding ways to reduce our contribution to that. This will involve hosting where possible with renewable energy and building our products efficiently.
-
-### Our Behaviours
-
-Whenever possible we opt for rail travel. Due to client needs this isn’t always possible but we’re investigating how offset our carbon footprint in future. We often work remotely which reduces the need for travel. We’re exploring ways to lower our own individual environmental impact.
 
 ## Our professions
 
