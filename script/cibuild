@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
 
+gem install bundler
 BUNDLE_PATH=vendor/bundle script/bootstrap
 script/test
