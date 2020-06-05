@@ -5,4 +5,5 @@ npm run markdown:lint
 npm run js:lint
 npm run vale
 npm run prettier
+bundle exec standardrb
 npm test

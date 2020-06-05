@@ -12,7 +12,7 @@ module Jekyll
     end
 
     def page(context)
-      context.registers[:site].pages.detect { |p| p.path==context['page']['path'] }
+      context.registers[:site].pages.detect { |p| p.path == context["page"]["path"] }
     end
 
     private
@@ -47,11 +47,11 @@ module Jekyll
     end
 
     def get_content(heading)
-      current_heading_selector = "#{heading.name}[@id='#{heading.attributes['id']}']"
+      current_heading_selector = "#{heading.name}[@id='#{heading.attributes["id"]}']"
       following_content = @doc.xpath("//#{current_heading_selector}/following-sibling::*")
       following_content.slice_before { |s| s.name.match(/h/) }.first.map(&:text).join
     end
   end
 end
 
-Liquid::Template.register_tag('sidebar_nav', Jekyll::NavigationGenerator)
+Liquid::Template.register_tag("sidebar_nav", Jekyll::NavigationGenerator)
