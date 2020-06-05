@@ -1,7 +1,7 @@
 <!-- _navbar -->
 
 - [Playbook](/)
-- Guides
+- [Guides](/guides)
   - [Agile phases](/guides/agile-delivery-phases)
   - [Claiming expenses](/guides/claiming-expenses)
   - [Contributing to the Playbook](contributing)

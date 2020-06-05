@@ -108,6 +108,21 @@ b,strong {
 }
 .app-nav li ul {
   z-index: 99;
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  white-space: nowrap; /* added line */
+}
+
+.app-nav li:hover ul,
+.app-nav li:focus-within ul {
+  height: auto;
+  width: auto;
+  clip: auto;
+  display: block;
 }
 
 article p a, article li a {
