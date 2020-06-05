@@ -22,8 +22,8 @@ module Jekyll
       <ul>
         <li data-title="#{heading[:text]}" data-content="#{heading[:content]}">
           <a href="##{heading[:id]}" data-target="#{heading[:id]}">#{heading[:text]}</a>
+          #{render_subheadings(heading[:subheadings])}
         </li>
-        #{render_subheadings(heading[:subheadings])}
       </ul>
       EOS
     end

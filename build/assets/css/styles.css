@@ -77,10 +77,15 @@ body {
   text-decoration: underline;
 }
 
-h1,h2,h3,h4,h5 {
+h1,h2,h3,h4,h5,h6 {
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
 }
+
+.markdown-section h6 {
+  color: #2c3e50;
+}
+
 .app-nav {
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
@@ -181,33 +186,26 @@ a.skip:hover {
 }
 
 /* Hide <h1> level in sidebar */
-.sidebar-nav > ul > li {
+.sidebar-nav > ul > li > a {
   display: none;
   margin-left: 0;
 }
 
-/* Sidebar overrides - playbook page */
-/* First level */
-body[data-page="playbook.md"] .sidebar ul > ul > li { padding-top: 15px }
-body[data-page="playbook.md"] .sidebar ul > ul > li a { font-weight: 700; font-size: 13pt; }
+.sidebar-nav > ul > li > ul {
+  margin: 15px 0 15px 15px;
+}
 
-/* Second level */
-body[data-page="playbook.md"] .sidebar ul > ul > ul { margin-left: 0; }
+.sidebar-nav > ul > li > ul > li > a {
+  font-weight: 700;
+}
 
-/* Undo changes in subsequent levels */
-body[data-page="playbook.md"] .sidebar ul > ul > ul li { padding-top: 0; }
-body[data-page="playbook.md"] .sidebar ul > ul > ul li a { font-weight: 400; font-size: 11pt; }
-body[data-page="playbook.md"] .sidebar ul > ul > ul > ul { margin-left: 15px }
+.sidebar-nav > ul > li > ul > li > ul {
+  margin-left: 0;
+}
 
-/* Sidebar overrides - guides page */
-/* First level */
-body:not([data-page="playbook.md"]) .sidebar ul > li { padding-top: 15px }
-body:not([data-page="playbook.md"]) .sidebar ul > li a { font-weight: 700; font-size: 13pt; }
+.sidebar-nav > ul > li > ul > li > ul li  a {
+  font-weight: 400;
+  font-size: 11pt;
+}
 
-/* Second level */
-body:not([data-page="playbook.md"]) .sidebar ul > ul { margin-left: 0; }
 
-/* Undo changes in subsequent levels */
-body:not([data-page="playbook.md"]) .sidebar ul > ul > ul li { padding-top: 0; }
-body:not([data-page="playbook.md"]) .sidebar ul > ul > ul li a { font-weight: 400; font-size: 11pt; }
-body:not([data-page="playbook.md"]) .sidebar ul > ul > ul > ul { margin-left: 15px }
