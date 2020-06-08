@@ -248,11 +248,11 @@ strong {
         text-decoration: none;
         border-bottom: 2px solid transparent;
         display: inline;
-      }
 
-      &:hover, &:focus, &:active {
-        text-decoration: none;
-        border-bottom: 2px solid $accent-colour;
+        &:hover, &:focus, &:active {
+          text-decoration: none;
+          border-bottom: 2px solid $accent-colour;
+        }
       }
 
       ul {
@@ -272,6 +272,7 @@ strong {
           width: auto;
           clip: auto;
           display: block;
+          overflow-y: scroll;
         }
       }
     }
