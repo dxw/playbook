@@ -1,5 +1,5 @@
 extends: substitution
-message: '%s'
+message: "%s"
 link: https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid
 level: suggestion
 ignorecase: true

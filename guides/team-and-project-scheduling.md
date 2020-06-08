@@ -1,8 +1,9 @@
 ---
 ---
+
 # Team and project scheduling
 
-***If anything in this guide is unclear, put a message in the #scheduling slack channel - most people in this channel have a good level of knowledge of 10kft and should be able to offer clarification. We can then make an update to this guide.***
+**_If anything in this guide is unclear, put a message in the #scheduling slack channel - most people in this channel have a good level of knowledge of 10kft and should be able to offer clarification. We can then make an update to this guide._**
 
 This guide can be used to find out what 10kft is for, as well as called upon when we’re not sure how to do something, as a team member, scheduler or administrator of 10kft. This guide is split into sections depending on the audience, to help navigate. We've defined the audience as:
 
@@ -22,7 +23,7 @@ Our sales team secure us new work. They need to be able to use 10kft to understa
 
 We use 10kft to schedule client work, across all three business units: delivery, strategy and technical operations. The scheduling team meet weekly to talk through team availability and the gaps we have in our schedule. Actions and decisions are noted in the #scheduling slack channel.
 
-*There are many aspects to scheduling, these predominantly are:*
+_There are many aspects to scheduling, these predominantly are:_
 
 1.  future work we could win
 1.  current work being extended or amended
@@ -30,8 +31,8 @@ We use 10kft to schedule client work, across all three business units: delivery,
 
 Before the weekly scheduling meeting, 10kft must reflect:
 
--   project needs: changes to existing projects
--   sales needs: confirmed and potential new work
+- project needs: changes to existing projects
+- sales needs: confirmed and potential new work
 
 Before each scheduling meeting, the project lead or sales lead ensures 10kft is updated. We use placeholders to reflect needs.
 
@@ -49,17 +50,17 @@ Each sales opportunity has a “sales lead”. This person is responsible for at
 
 The **sales lead** should:
 
--   describe and explain new opportunities in the #scheduling slack channel. Including the nature of work, proposed team shape and start dates, along with any scheduling challenges
--   add tentative placeholders to 10kft (go to the [adding a placeholder](http://playbook.dxw.com/#/guides/team-and-project-scheduling?id=adding-a-placeholder) section of this guide for details on how to do this)
--   leave notes in the #scheduling channel with the latest information
+- describe and explain new opportunities in the #scheduling slack channel. Including the nature of work, proposed team shape and start dates, along with any scheduling challenges
+- add tentative placeholders to 10kft (go to the [adding a placeholder](http://playbook.dxw.com/#/guides/team-and-project-scheduling?id=adding-a-placeholder) section of this guide for details on how to do this)
+- leave notes in the #scheduling channel with the latest information
 
 Once a sales opportunity is realised, this is handed over to a “project lead”, assigned to that work.
 
 The **project lead** should:
 
--   ensure all tentative placeholders are accurate in 10kft
--   speak with the team assigned to the work to discuss next steps
--   review the project set up in 10kft and amend where needed
+- ensure all tentative placeholders are accurate in 10kft
+- speak with the team assigned to the work to discuss next steps
+- review the project set up in 10kft and amend where needed
 
 ### Reporting our time
 
@@ -147,7 +148,7 @@ These functions are delivery, strategy and technical operations. Generally all t
 
 ### Who sets up access?
 
-Setting up access to 10kft is part of our onboarding procedure. New team members are set up by the Commercial Operations team. Contractors are typically added - ***with restricted access*** - by the Commercial Operations team, at the point of a new work outline being signed.
+Setting up access to 10kft is part of our onboarding procedure. New team members are set up by the Commercial Operations team. Contractors are typically added - **_with restricted access_** - by the Commercial Operations team, at the point of a new work outline being signed.
 
 #### If you think you need an account but don’t have one
 
@@ -187,7 +188,7 @@ By selecting ‘People’ in the left hand column of the admin panel, a list of 
 
 Select ‘Add Licensed User’. To see the full account set up, click ‘Show more’. This view is needed to be able to allocate the correct settings for team members.
 
-Note: We add contractors who are employed by dxw as ‘licensed users’. *We don’t provide contractors with access to sign in, but the account must be set up as a licensed account, so that we can track their time*.
+Note: We add contractors who are employed by dxw as ‘licensed users’. _We don’t provide contractors with access to sign in, but the account must be set up as a licensed account, so that we can track their time_.
 
 A page similar to this image will be visible. This section is a walk through of how to set up a team member correctly, based on their role, permission level and availability.
 
@@ -266,7 +267,7 @@ A weekly working pattern that differs from the default should be set by the Comm
 
 Typically, this will need to be set by adding 7 into the boxes across Monday - Thursday and putting a zero in the box for Friday. This reflects the seven hour day a team member works on a project.
 
-***Although dxw bill clients in days, we track time in 10kft on an hourly basis, due to the way 10kft is set up.***
+**_Although dxw bill clients in days, we track time in 10kft on an hourly basis, due to the way 10kft is set up._**
 
 It’s important to set this correctly, as it displays a team member's availability to take on new work in the schedule view of 10kft.
 
@@ -293,7 +294,7 @@ Finally, add tags for team members. These should describe the team member in a w
 
 If the team member is an employee that doesn’t sit within the three business functions (delivery, strategy and technical operations), assign the tags ‘unbillable’ and ‘permanent’.
 
-***After the above sections are updated, click ‘Add’, which completes the account set up.***
+**_After the above sections are updated, click ‘Add’, which completes the account set up._**
 
 ### Adding a new project
 

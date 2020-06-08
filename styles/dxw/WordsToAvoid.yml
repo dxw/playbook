@@ -1,5 +1,5 @@
 extends: substitution
-message: '%s'
+message: "%s"
 link: https://playbook.dxw.com/#/guides/style-guide
 level: warning
 ignorecase: true

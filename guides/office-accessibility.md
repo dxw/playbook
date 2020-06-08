@@ -1,5 +1,6 @@
 ---
 ---
+
 # Office accessibility
 
 ## 8-9 Hoxton Square, dxw digital London
@@ -15,10 +16,11 @@ Buses: 55, 243, 149, 67.
 ### Building
 
 General notes:
-  * No hearing loop
-  * No Braille signage except for the lift buttons
-  * No step-free access (details below)
-  * No wheelchair accessible toilets (details below)
+
+- No hearing loop
+- No Braille signage except for the lift buttons
+- No step-free access (details below)
+- No wheelchair accessible toilets (details below)
 
 All toilets are gender neutral and have pedal bins. Sanitary products (tampons and pads) are available for free in all the toilets.
 

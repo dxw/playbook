@@ -1,5 +1,6 @@
 ---
 ---
+
 # How we do pitches
 
 Pitching is an opportunity to demonstrate our expertise, showcase our work and demonstrate our values. Sometimes, we have plenty of notice and time to prepare, other times we have to turn pitches around quickly. To give ourselves the best possible chance, we should follow the steps outlined below.
@@ -10,9 +11,9 @@ When we find out we are pitching, the first thing to do is assemble the pitch te
 
 When we receive an invitation to a pitch, send a prompt reply back to thank the buyer for the invitation and give them any information they need (such as names of attendees).
 
-Think about the logistics. Look at all the emails or any notes from conversations with  the buyer and pull out any deadlines and important dates. Put the dates into the pitch members’ calendars and set reminders in Slack so we are all clear when the deadline is.
+Think about the logistics. Look at all the emails or any notes from conversations with the buyer and pull out any deadlines and important dates. Put the dates into the pitch members’ calendars and set reminders in Slack so we are all clear when the deadline is.
 
-Factor in time to rehearse the pitch, ideally a day before to give us time to make any last minute changes or more time to practice. Whoever is co-ordinating the pitch should make sure this happens.  As well as the bid team members, invite others to attend the run-through to act as an audience.
+Factor in time to rehearse the pitch, ideally a day before to give us time to make any last minute changes or more time to practice. Whoever is co-ordinating the pitch should make sure this happens. As well as the bid team members, invite others to attend the run-through to act as an audience.
 
 Prepare some good questions for the assessment panel. There is usually an opportunity at the end of the pitch to ask some questions to the buyer.
 
@@ -38,7 +39,7 @@ Allow up to two minutes per slide.
 
 The deck must look the best it possibly can. Use one of the slide deck templates as the basis of your slides. Look at the brand book and get help from a designer if you need it (use the #helpmedesign Slack channel). Pay attention to details. They matter as the audience’s eyes are always drawn to mistakes and inconsistencies. Proof-read the words and proof them again. Spelling mistakes and typos do matter, they undermine the credibility of the deck. Share the slides with people that aren’t working on them to get a fresh set of eyes on them.
 
-Make sure you use relevant imagery, ideally images or visuals  that tell a story or are relatable to the point you’re trying to make.
+Make sure you use relevant imagery, ideally images or visuals that tell a story or are relatable to the point you’re trying to make.
 
 Test the slides in a variety of screen resolutions. You could be giving the pitch with a state of the art monitor or a decades old projector. Think about people who may be a distance from the screen. There’s often no way of knowing in advance, so prepare for all eventualities (including back up paper copies!)
 
@@ -46,7 +47,7 @@ Test the slides in a variety of screen resolutions. You could be giving the pitc
 
 We always allow time for practice. You’ll find that until you read through the slides, you have no idea how the pitch is going to sound. It’s also important to test out the words you’re saying so you can avoid any difficult phrasing and make sure the pitch flows.
 
-Arrange to have a group to practice in front of, who can comment and give feedback. If you’re not used to presenting, it’s good to practice in front of large groups so you can try out the techniques you plan to use for giving the talk. Practice making eye contact with people, and reading the notes with a human voice so you don’t sound like you’re reading verbatim.  Make sure you are aware of your pace - you need to speak clearly and slowly. Try not to rush, and take regular pauses between sentences or points.
+Arrange to have a group to practice in front of, who can comment and give feedback. If you’re not used to presenting, it’s good to practice in front of large groups so you can try out the techniques you plan to use for giving the talk. Practice making eye contact with people, and reading the notes with a human voice so you don’t sound like you’re reading verbatim. Make sure you are aware of your pace - you need to speak clearly and slowly. Try not to rush, and take regular pauses between sentences or points.
 
 Practice the hand-overs between different presenters so these are natural and don’t disrupt the flow. Decide in advance who is doing the introductions for each section so we look like a unified team.
 

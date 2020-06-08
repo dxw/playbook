@@ -1,5 +1,6 @@
 ---
 ---
+
 # dxw’s Playbook
 
 ## Who we are
@@ -119,10 +120,10 @@ everything to ourselves.
 
 However, there are some things that we must keep private.
 
-* Our clients trust us to host content that is not public, like upcoming announcements and discussions made as part of formulating new policy. This is not our information to be open about, and it's very important to keep it confidential.
-* We also hold some personal data about and/or on behalf of our clients. We never share any of this data, including contact details. See also: [data protection](#data-protection).
-* We are sometimes sent documents that are [protectively marked](#protective-marking-scheme), and we have a scheme of our own. Information in these documents is confidential.
-* Information about work that is currently being procured (whether we are bidding or not) and any other information that could damage the commercial interests of a client or supplier
+- Our clients trust us to host content that is not public, like upcoming announcements and discussions made as part of formulating new policy. This is not our information to be open about, and it's very important to keep it confidential.
+- We also hold some personal data about and/or on behalf of our clients. We never share any of this data, including contact details. See also: [data protection](#data-protection).
+- We are sometimes sent documents that are [protectively marked](#protective-marking-scheme), and we have a scheme of our own. Information in these documents is confidential.
+- Information about work that is currently being procured (whether we are bidding or not) and any other information that could damage the commercial interests of a client or supplier
 
 #### Diversity and inclusion statement
 
@@ -192,11 +193,11 @@ To update the Playbook, follow the [guide to Contributing to the Playbook](https
 
 #### Typical projects
 
-Most of our projects are to  research, design , build and support  digital services for the public sector and organisations focused on work for ‘public good’. Broadly speaking, they are usually transactional services ([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs) or informational services ([corporate websites](https://www.judiciary.uk/), [campaigns](https://firekills.campaign.gov.uk), intranets) . Sometimes they're a bit of both.
+Most of our projects are to research, design , build and support digital services for the public sector and organisations focused on work for ‘public good’. Broadly speaking, they are usually transactional services ([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs) or informational services ([corporate websites](https://www.judiciary.uk/), [campaigns](https://firekills.campaign.gov.uk), intranets) . Sometimes they're a bit of both.
 
 In so doing, we try to make sure that the organisations we're working with will be able to operate their new services well and sustainably. This sometimes involves work that an agency might not normally do, like advising an organisation's leaders on how their teams could be restructured, or on what their digital strategy could be.
 
-With the development of dxw digital’s strategy team, we are increasingly  targeting more strategy-shaped opportunities, to help our clients prepare for, or improve the delivery of digital projects.
+With the development of dxw digital’s strategy team, we are increasingly targeting more strategy-shaped opportunities, to help our clients prepare for, or improve the delivery of digital projects.
 
 We also help clients host some of the services that we build, and by selling subscription-based products that are related to the rest of our work.
 
@@ -204,13 +205,13 @@ We also help clients host some of the services that we build, and by selling sub
 
 We bid on opportunities through a range of channels.
 
-Some  of our opportunities  arrive directly, often via email, as a result of recommendations, word-of-mouth or through our active engagement and networking in the digital and public sector community.
+Some of our opportunities arrive directly, often via email, as a result of recommendations, word-of-mouth or through our active engagement and networking in the digital and public sector community.
 
 We also take on work that is received for existing services via helpdesk tickets.
 
-Most of the larger opportunities we bid on  arrive via more formal channels like public sector framework agreements such as the Digital Marketplace.
+Most of the larger opportunities we bid on arrive via more formal channels like public sector framework agreements such as the Digital Marketplace.
 
-When any opportunity arrives, we record it in our CRM tool, Hubspot.  This happens automatically for  opportunities published on the Digital Marketplace Outcomes and Specialists framework. Other opportunities are entered individually into Hubspot if they arrive to a specific person.
+When any opportunity arrives, we record it in our CRM tool, Hubspot. This happens automatically for opportunities published on the Digital Marketplace Outcomes and Specialists framework. Other opportunities are entered individually into Hubspot if they arrive to a specific person.
 
 We record as much information as we can about opportunities when they arrive. An opportunity should be described in enough detail that someone else in the team could pick it up and work on it if needs be. That means that we always record a sensible name, the details of the organisation and where possible, we associate the opportunity to the Hubspot contact and company record of the person we're talking to. If they have provided any documents, we upload those into Hubspot as well.
 
@@ -224,15 +225,16 @@ At dxw our mission is to help create public services that improve people’s liv
 We encourage an open and honest discussion about which work we take on. And we actively seek different perspectives, both inside and outside of dxw.
 
 To decide whether a potential project is ethical and supports our mission, we consider:
-* **Value**
+
+- **Value**
 
   The work is beneficial to the public, the client and dxw.
 
-* **Practicality**
+- **Practicality**
 
   We can produce a great result within the likely constraints.
 
-* **Culture**
+- **Culture**
 
   We can work together with the client, the users and other stakeholders in ways that support our [values](#our-values) and [principles](#our-principles).
 
@@ -257,13 +259,13 @@ Wherever possible, we meet prospective clients before writing a proposal. This i
 
 By the end of this meeting, we should make sure that we understand:
 
-* Who the client's users are
-* The user needs the client is trying to meet
-* Their current vision for how those needs will be met
-* Any notable technical requirements
-* What the project's budget and deadlines are
-* How many suppliers are likely to be bidding
-* When they need to receive our proposal by
+- Who the client's users are
+- The user needs the client is trying to meet
+- Their current vision for how those needs will be met
+- Any notable technical requirements
+- What the project's budget and deadlines are
+- How many suppliers are likely to be bidding
+- When they need to receive our proposal by
 
 This meeting usually involves quite a bit of discussion about the project. In
 those discussions, we speak freely and openly, offering advice where appropriate
@@ -276,7 +278,7 @@ deliver value early and to leave the client with a positive first impression.
 
 #### Proposals and tenders
 
-If the project is being tendered via a fixed process (such as the Digital Marketplace, ) we'll respond by following the process  that the client requests.
+If the project is being tendered via a fixed process (such as the Digital Marketplace, ) we'll respond by following the process that the client requests.
 
 Bid writing is a team sport at dxw, so it’s important to involve the potential delivery team in the planning, writing and reviewing of the bid. This is important as it helps to set the team up for a successful pitch (if we need to do one) and eventual delivery if we win the work.
 
@@ -284,14 +286,14 @@ Whilst the process tends to be similar, not all opportunities are exactly the sa
 
 If we're writing a proposal following our own format, we often start from a proposal template. The main things we’ll often need to write are:
 
-* A description of the project's background. How did they get to the point they're at now?
-* A description of the client's vision. What are they trying to do?
-* An initial set of user needs. How does the client believe their service or project will make things better for these people?
-* Details of how we’ll approach the work
-* A proposed team to do the work, their roles and profiles.
-* How many sprints we estimate we will we need to deliver the work.
-* A timeline for when we expect the sprints and other work will happen.
-* A cost for the work.
+- A description of the project's background. How did they get to the point they're at now?
+- A description of the client's vision. What are they trying to do?
+- An initial set of user needs. How does the client believe their service or project will make things better for these people?
+- Details of how we’ll approach the work
+- A proposed team to do the work, their roles and profiles.
+- How many sprints we estimate we will we need to deliver the work.
+- A timeline for when we expect the sprints and other work will happen.
+- A cost for the work.
 
 There are lots of examples of these proposals that anyone at dxw can read if they like.
 
@@ -307,7 +309,7 @@ When we lose work, we mark it as Lost in Hubspot. We write to the client to than
 
 We do our best to incorporate this feedback into future bids.
 
-Some opportunities, upon review with the team or following discussions with the client, turn out not to be dxw-shaped things. This could be for lots of reasons - capacity, capability, location and so on. This is okay. When this happens, we update the client as soon as we can, explaining the reasons for our decision.  We mark these opportunities as No bid in Hubspot, recording the main reason we made this decision, along with any context.
+Some opportunities, upon review with the team or following discussions with the client, turn out not to be dxw-shaped things. This could be for lots of reasons - capacity, capability, location and so on. This is okay. When this happens, we update the client as soon as we can, explaining the reasons for our decision. We mark these opportunities as No bid in Hubspot, recording the main reason we made this decision, along with any context.
 
 ### Building services
 
@@ -464,7 +466,7 @@ sprint planning is much more useful when the stories are written in advance.
 During this session, developers discuss the effort required to finish each
 story. We discuss effort so we know whether we have a reasonable amount of
 stories to work on and we’re confident as a team that we can get through the
-stories in the backlog.  Sometimes we will estimate stories. We do this based on
+stories in the backlog. Sometimes we will estimate stories. We do this based on
 complexity, not the time we think it will take to finish it.
 
 Once estimated, stories are prioritised by the client and put into the backlog
@@ -505,7 +507,7 @@ to meet the needs of a particular kind of user. They are usually structured into
 a sentence, of the form:
 
 > As a [kind of user], so that I can [meet a need], I want [a feature in the
-product]
+> > product]
 
 Breaking everything down into user stories allows us to be confident that
 everything we develop is meeting [user
@@ -519,7 +521,7 @@ story, by rearranging it to reflect the new state of the system after the work
 is complete. For example:
 
 > As an administrator, so that I can ensure I don't publish defamatory comments,
-I want to be able to review and approve comments before they are shown.
+> I want to be able to review and approve comments before they are shown.
 
 Might have a title of:
 
@@ -542,20 +544,20 @@ There are several states that a story has to go through in order to be deployed
 to production. We use Trello and physical story boards to keep track of which
 stage a given story is in.
 
-* **In progress**: A developer has started working on the story, making changes
+- **In progress**: A developer has started working on the story, making changes
   to the product to ensure that each acceptance criterion is met
-* **Awaiting review**: The developer has finished the story and is ready for a second
-    developer to review the technical aspects of the story in a pull request
-* **Code review**: The story is being reviewed by
-    the second developer who leaves feedback if the pull request is not ready to
-    be merged and needs further work
-* **dxw/client review**: The two developers
-    have finished the review and the story has been merged and pushed to staging. It
-    is ready for a delivery lead and the client to review against its
-    acceptance criteria
-* **Accepted**: The client has accepted the story and it's
+- **Awaiting review**: The developer has finished the story and is ready for a second
+  developer to review the technical aspects of the story in a pull request
+- **Code review**: The story is being reviewed by
+  the second developer who leaves feedback if the pull request is not ready to
+  be merged and needs further work
+- **dxw/client review**: The two developers
+  have finished the review and the story has been merged and pushed to staging. It
+  is ready for a delivery lead and the client to review against its
+  acceptance criteria
+- **Accepted**: The client has accepted the story and it's
   ready to deploy to production
-* **Done**: The story has been deployed to production
+- **Done**: The story has been deployed to production
 
 #### Managing delivery
 
@@ -607,20 +609,20 @@ incidents, requests for us to fix a problem or make a change to a site must
 come to us via Zendesk as a ticket. We use tickets to manage requests in order
 to:
 
-* Keep track of all the things we need to do, and what state they're in, for us and our clients
-* Have a record of the changes we're asked to make
-* Ensure that we only accept change requests from people who are authorised
-* Generate data about how much staff time is spent on each client's issues.
+- Keep track of all the things we need to do, and what state they're in, for us and our clients
+- Have a record of the changes we're asked to make
+- Ensure that we only accept change requests from people who are authorised
+- Generate data about how much staff time is spent on each client's issues.
 
 If a client asks us to do something in person, on the phone or via email, we
 ask them to visit the [dxw Zendesk](https://dxw.zendesk.com/),
 and submit a ticket there. This is so that:
 
-* We can keep track of the issue from report to solution, and ensure that it's
+- We can keep track of the issue from report to solution, and ensure that it's
   assigned to the right person;
-* We don't risk misunderstanding the problem by writing it down based on a
+- We don't risk misunderstanding the problem by writing it down based on a
   verbal explanation
-* We can formally track the changes that people ask for, by documenting them in
+- We can formally track the changes that people ask for, by documenting them in
   tickets that we can look at later if we need to
 
 For these reasons, we do not do any work on a client website or service unless
@@ -655,10 +657,10 @@ We are always considerate, and think about what style of response is best. For e
 
 In general:
 
-* We are personable, friendly and helpful
-* If things look like they're going to get difficult or the client seems unhappy, we are honest and assume good faith
-* If we screw something up, we take responsibility and apologise. If the client seems very upset, we let a delivery lead know.
-* If we do become annoyed or frustrated by a ticket, we respond later or speak to a delivery lead about reassigning it.
+- We are personable, friendly and helpful
+- If things look like they're going to get difficult or the client seems unhappy, we are honest and assume good faith
+- If we screw something up, we take responsibility and apologise. If the client seems very upset, we let a delivery lead know.
+- If we do become annoyed or frustrated by a ticket, we respond later or speak to a delivery lead about reassigning it.
 
 ##### Don't over-deliver
 
@@ -719,25 +721,25 @@ the best out of their site.
 
 But there are some limitations. Under the support service, we do not:
 
-* Add any new functionality requiring anything beyond extremely trivial
+- Add any new functionality requiring anything beyond extremely trivial
   development. This does not generally include installing plugins: checking and
   installing plugins is allowed
-* Alter the source code of a plugin or library maintained by a third party
-* Do things that the client can do for themselves in the WordPress
+- Alter the source code of a plugin or library maintained by a third party
+- Do things that the client can do for themselves in the WordPress
   administration area. In this situation, help them by letting them know the
   steps to take to achieve whatever they're trying to do.
-* Other than by prior arrangement, communicate on the client's behalf with the
+- Other than by prior arrangement, communicate on the client's behalf with the
   operators of third-party services that the site uses
-* Install a plugin that fails an inspection
-* Do research to identify plugins to solve a particular
+- Install a plugin that fails an inspection
+- Do research to identify plugins to solve a particular
   problem. It's fine to recommend something that we already know of, but in this
   situation, we usually ask the client to do some searches on the WordPress
   Directory and suggest one, which we can then check and install.
-* Fix complex problems that come up after a plugin or WordPress core update is
+- Fix complex problems that come up after a plugin or WordPress core update is
   applied. Exactly what constitutes a complex problem is at our discretion. But
   if we've spent a couple of hours on an update-related bug and it's still not fixed,
   we're probably dealing with one.
-* From time to time, we may make an exception to these restrictions. If you
+- From time to time, we may make an exception to these restrictions. If you
   think that might be appropriate, ask a delivery lead. In all the
   above cases, we can offer to quote for the required work.
 
@@ -868,13 +870,13 @@ We track our time at the same level of granularity that we bill it – for almos
 
 When reporting our time, we follow these guidelines:
 
-* If what was scheduled matches reality, simply confirm this time.
-* If you worked on a named project (client or internal including "dxw Support"), that differs from the schedule, record your time as that.
-* If you worked on something else, leave the time blank or zero out what you were scheduled to work on.
-* If you were away on planned leave, confirm your time as "Out of office".
-* If you were off sick, record your time as "Sick".
-* If you had unplanned leave, record your time as "Out of office".
-* If you were away due to a regular day off, as part of your working pattern, leave the time blank or zero out what you were scheduled to work on.
+- If what was scheduled matches reality, simply confirm this time.
+- If you worked on a named project (client or internal including "dxw Support"), that differs from the schedule, record your time as that.
+- If you worked on something else, leave the time blank or zero out what you were scheduled to work on.
+- If you were away on planned leave, confirm your time as "Out of office".
+- If you were off sick, record your time as "Sick".
+- If you had unplanned leave, record your time as "Out of office".
+- If you were away due to a regular day off, as part of your working pattern, leave the time blank or zero out what you were scheduled to work on.
 
 If you’re not doing client work, then unless you’re working on one of a handful of named internal projects or support, you don’t need to record your time against any other piece of work – the assumption is you’re doing valuable work, whether it’s learning, helping with recruitment or improving our tooling and processes, and we don’t need itemised time tracking to justify that.
 
@@ -892,20 +894,21 @@ Anytime you need to order something, notice a problem in the office (e.g. a brok
 #help-travel
 #help-techsupport
 ```
+
 #### Claiming expenses
 
 From time to time, some of us spend our own money at work. Most often, this is
 things like:
 
-* Train fares for unexpected travel
-* Refreshments purchased for meetings with clients
-* Stationery/materials, especially for workshops or events
+- Train fares for unexpected travel
+- Refreshments purchased for meetings with clients
+- Stationery/materials, especially for workshops or events
 
 dxw will always pay expenses which are:
 
-* __Necessary__: We only expense things we need in order to be able to complete
+- **Necessary**: We only expense things we need in order to be able to complete
   our work
-* __Proportionate__: The total expense should be proportionate to the
+- **Proportionate**: The total expense should be proportionate to the
   work at hand. In general, we try to avoid spending lots of money. For example,
   unless you have a good reason, don't get a cab to a meeting when you could get
   a train.
@@ -949,14 +952,14 @@ password.
 Exactly what security measures are prudent may vary depending on the device and
 what you're using it for. Some good practice examples are:
 
-* Configuring screens to lock after a period of inactivity
-* Ensuring that
+- Configuring screens to lock after a period of inactivity
+- Ensuring that
   work-related data on the device is regularly backed up
-* Encrypting storage
-* Using good passwords and changing defaults
-* Avoiding connecting devices to untrustworthy networks (internet cafes,
+- Encrypting storage
+- Using good passwords and changing defaults
+- Avoiding connecting devices to untrustworthy networks (internet cafes,
   security conferences, unencrypted (open) wifi networks, etc)
-* Disposing of your device securely when you no longer need it
+- Disposing of your device securely when you no longer need it
 
 If you need to use a personal device but cannot take these sorts of measures,
 you should get permission first.
@@ -977,11 +980,11 @@ principles](https://www.gov.uk/data-protection/the-data-protection-act).
 
 In particular, we:
 
-* Only process personal data as part of work on the service that we're
+- Only process personal data as part of work on the service that we're
   contracted to provide to a client
-* Don't access personal data unless we need to in order to do our jobs: don't
+- Don't access personal data unless we need to in order to do our jobs: don't
   read people's personal data or private communications without good reason
-* We do not ever disclose people's personal data to anyone outside dxw unless
+- We do not ever disclose people's personal data to anyone outside dxw unless
   specifically instructed, and are satisfied that it is legal to do so
 
 If you have any questions about data protection, talk to Harry.
@@ -993,15 +996,15 @@ scheme so that everyone understands how to handle this material, and who they're
 allowed to disclose it to. All of the documents and data we hold will fall into
 one of the categories below.
 
-* __Management-in-Confidence__: internal documents whose circulation within dxw
+- **Management-in-Confidence**: internal documents whose circulation within dxw
   needs to be restricted.
-* __Company Confidential__: information owned by dxw
+- **Company Confidential**: information owned by dxw
   which would be of value to those outside the company, such as competitors, and
   whose loss or theft would potentially damage the company.
-* __Client Confidential__ or __Commercial in Confidence__: information owned by
+- **Client Confidential** or **Commercial in Confidence**: information owned by
   dxw or its clients, which needs to remain confidential between dxw and the
   client.
-* __Unclassified__: information, which would not be of significant commercial
+- **Unclassified**: information, which would not be of significant commercial
   value to those outside dxw.
 
 Some of our clients also have protective marking schemes. For example, all
@@ -1027,14 +1030,14 @@ or external to dxw.
 
 This information:
 
-* Must be clearly labelled or described as "Management-in-confidence"
-* When printed
-  * Stored only in a locked container
-  * Transported only via courier, recorded delivery or personally by dxw staff
-  * Destroyed by cross-cut shredding when no longer required
-* When digital
-  * Stored in an encrypted format
-  * Communicated only when encrypted or via an encrypted connection, unless emailed from one dxw.com address to another
+- Must be clearly labelled or described as "Management-in-confidence"
+- When printed
+  - Stored only in a locked container
+  - Transported only via courier, recorded delivery or personally by dxw staff
+  - Destroyed by cross-cut shredding when no longer required
+- When digital
+  - Stored in an encrypted format
+  - Communicated only when encrypted or via an encrypted connection, unless emailed from one dxw.com address to another
 
 ##### Company Confidential
 
@@ -1058,12 +1061,12 @@ falls into this category.
 
 This information:
 
-* Must be clearly labelled or described as "Client Confidential" or "Commercial in Confidence"
-* When printed:
-  * Stored out of sight
-  * Destroyed by cross-cut shredding when no longer required
-* When digital:
-  * Stored in an encrypted format when on exchangeable media or a mobile device
+- Must be clearly labelled or described as "Client Confidential" or "Commercial in Confidence"
+- When printed:
+  - Stored out of sight
+  - Destroyed by cross-cut shredding when no longer required
+- When digital:
+  - Stored in an encrypted format when on exchangeable media or a mobile device
 
 As a rule of thumb, label a document as Client Confidential if it mostly
 contains the client's confidential information, or Commercial in Confidence if
@@ -1111,13 +1114,13 @@ dxw will institute a cost of living raise each year on 1st April. The percentage
 will be set by the [CPI Index](https://www.ons.gov.uk/economy/inflationandpriceindices)
 as of 1st April each year.
 
-* If you have passed your probation, you will receive your raise in the April payroll.
-* For those team members who joined prior to 1st April of that year, but haven't yet
+- If you have passed your probation, you will receive your raise in the April payroll.
+- For those team members who joined prior to 1st April of that year, but haven't yet
   passed probation, you will receive your raise in the month you successfully complete it
   and it will be the same percentage as of 1st April CPI that year.
-* If you joined on or after 1st April (that year), you will not be eligible for a cost
+- If you joined on or after 1st April (that year), you will not be eligible for a cost
   of living raise until the following April.
-* If you are leaving during April you will not receive the cost of living raise.
+- If you are leaving during April you will not receive the cost of living raise.
 
 #### Pensions
 
@@ -1131,8 +1134,7 @@ dxw will match any contribution up to 5%.
 Your contribution will be relief at source, with 0.8 deducted from your monthly
 salary and the additional 0.2 added from tax relief.
 
-For more details on Relief at Source, please visit the [Aviva website](
-https://www.aviva.co.uk/retirement/news-views/report/making-sense-of-tax-relief-on-pension-payments/).
+For more details on Relief at Source, please visit the [Aviva website](https://www.aviva.co.uk/retirement/news-views/report/making-sense-of-tax-relief-on-pension-payments/).
 
 #### Holiday
 
@@ -1166,7 +1168,7 @@ Where possible we try to keep a sustainable pace of work and avoid working outsi
 
 TOIL (time off in lieu) is awarded when you work over and above your contracted working hours continuously for a period of time or when you attend/travel to an event outside of your contracted working hours. TOIL should be agreed with your delivery lead or line manager ahead of doing the extra work.
 
-We encourage you to use your TOIL within the two weeks of extra work or event attended as it's meant to be for resting and making up for working  at a sustainable pace.  We know this may not be feasible in every case so please speak to your Line Manager or a member of the HR team if you have any questions.
+We encourage you to use your TOIL within the two weeks of extra work or event attended as it's meant to be for resting and making up for working at a sustainable pace. We know this may not be feasible in every case so please speak to your Line Manager or a member of the HR team if you have any questions.
 
 There are two options of how to use your TOIL, you can calculate the amount of hours you have accrued (ie half a day) and take it off at once or take a couple of hours a day spread over a period of time. Planning when you’ll take TOIL is important, particularly if you’re working on a billable project so please speak to your Delivery Lead before doing any overtime and arrange when you’ll be able to take the time back.
 
@@ -1367,13 +1369,13 @@ if the matter is serious enough that a verbal warning is not appropriate, we may
 hold a disciplinary meeting at which you may be accompanied or represented by a
 colleague or trade union official. Following this meeting, we may:
 
-* Conclude that no misconduct has taken place, or that there is no poor performance
-* Issue you with a written warning, which will explain:
-  * The nature of the misconduct or poor performance
-  * The change to your behaviour or performance that you need to make
-  * The time within which the change needs to be made
-  * The consequences of not making the change (for example, dismissal)
-* In cases of gross misconduct, dismiss you without notice
+- Conclude that no misconduct has taken place, or that there is no poor performance
+- Issue you with a written warning, which will explain:
+  - The nature of the misconduct or poor performance
+  - The change to your behaviour or performance that you need to make
+  - The time within which the change needs to be made
+  - The consequences of not making the change (for example, dismissal)
+- In cases of gross misconduct, dismiss you without notice
 
 If you disagree with the outcome of this hearing, you may appeal against the
 decision. You must do this in writing. If you do so, your appeal and the
@@ -1391,25 +1393,25 @@ The bi-weekly HR surgeries are there to give an opportunity for members of the t
 
 The list is not exhaustive but some topics might include:
 
-* Holiday
-* Sickness
-* Pay
-* Expenses
-* Parental Leave
-* Accessibility
-* Probation
-* Pensions
-* Occupational health issues
-* Contractual matters
-* Working patterns/locations
-* Training and career progression
-* Diversity
-* Inclusivity
-* Stress management
-* Interpersonal issues
-* Bereavement
-* Grievance and disciplinary matters
-* Facilitation/scheduling of conversations with Directors/heads-of, such as Salary Reviews
+- Holiday
+- Sickness
+- Pay
+- Expenses
+- Parental Leave
+- Accessibility
+- Probation
+- Pensions
+- Occupational health issues
+- Contractual matters
+- Working patterns/locations
+- Training and career progression
+- Diversity
+- Inclusivity
+- Stress management
+- Interpersonal issues
+- Bereavement
+- Grievance and disciplinary matters
+- Facilitation/scheduling of conversations with Directors/heads-of, such as Salary Reviews
 
 Bookable slots are available on Wednesdays and Fridays at 11am but the People Manager’s door is always open.
 
@@ -1428,21 +1430,27 @@ You can find out who your line manager is in BreatheHR on the summary section of
 ##### Line management principles
 
 ###### Communicate clearly
+
 Communication is a two-way process and it is important to check understanding and confidence, and value the other person in decision-making. Explaining the task and its objectives clearly means people know what’s expected of them and the part they play. It empowers them to take responsibility and own how they approach the work.
 
 ###### Recognise achievement and celebrate success
+
 A simple ‘thank you’ shows someone that what they have done is appreciated, and is hugely motivating. Celebrating major, and minor, achievements is an important part of our culture at dxw. It builds team spirit and morale.
 
 ###### Guard our values
+
 Lead by example. The actions and behaviours of line managers must always demonstrate our dxw values. We should always hold ourselves accountable to our values, and encourage the same in all of our colleagues, including those we line manage.
 
 ###### Continuous constructive feedback
-Find out how each of your team members prefers to receive feedback, and develop an approach which reflects that.  Ongoing positive and constructive feedback is essential if someone is to feel valued, learn from their experiences and become better at what they do.
+
+Find out how each of your team members prefers to receive feedback, and develop an approach which reflects that. Ongoing positive and constructive feedback is essential if someone is to feel valued, learn from their experiences and become better at what they do.
 
 ###### Be honest
+
 Being honest means telling the truth and being consistent in what you say and who you say it to. Telling things as they are, while being sensitive to the situation and individual, ensures that people know where they stand and will help to build mutual trust and respect.
 
 ###### Wellbeing
+
 Line managers look out for the health and wellbeing of the team. They are responsible for carrying out dxw's duty of care to its people.
 
 #### One-to-ones with your line manager
@@ -1495,7 +1503,7 @@ Attending conferences and events that are not related to your role, is a taxable
 
 ##### How it works
 
-The allowance will be available to everyone once they have completed their probation period, within the dxw financial year which runs from the start of July to end June. It will be pro-rata for staff who work part-time. If you don’t spend your allowance within the financial year, it cannot be carried over.  We will start afresh each year, as part of our annual budgeting cycle. Your allowance is counted as being spent at the time of purchase rather than at time of use; for example, if you buy a conference ticket in May for an event in July the same year, the deduction will be made to the budget for the financial year that May falls within.
+The allowance will be available to everyone once they have completed their probation period, within the dxw financial year which runs from the start of July to end June. It will be pro-rata for staff who work part-time. If you don’t spend your allowance within the financial year, it cannot be carried over. We will start afresh each year, as part of our annual budgeting cycle. Your allowance is counted as being spent at the time of purchase rather than at time of use; for example, if you buy a conference ticket in May for an event in July the same year, the deduction will be made to the budget for the financial year that May falls within.
 
 Any events (paid, free, speaking, etc) you attend should be logged in BreatheHR as a training request. If they do require payment, please include weblinks and an estimate of the ticket, accommodation and travel costs (up to the maximum of £750, though you are welcome to pay the difference for more expensive events). This helps manage the annual budget and will give you a great view of what you have attended in the year.
 
@@ -1530,7 +1538,7 @@ The membership of those channels is also private to protect those people, and
 members of a channel are expected to keep everything in those channels private.
 
 We don't police membership of these channels, and trust everyone to be honest
-about their  identities. **Don't invite anyone without first asking them if they
+about their identities. **Don't invite anyone without first asking them if they
 want to be invited.**
 
 #### Book purchase
@@ -1573,7 +1581,7 @@ Once you have passed your 4 month probation, we would like you to choose a buddy
 
 We recommend this person **doesn’t** work directly with you, someone in a different role and that you don’t work closely with on projects, as this will give you a second pair of ears and a whole new set of experiences to draw on.
 
-This is not mandatory, just recommended and similarly not everyone may wish to be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t have to be.  Also, if you feel that a change of buddy would benefit you for whatever reason or that you’re no longer able to be a buddy, this should also not be an awkward situation. If you have any concerns, have a chat with the People Manager.
+This is not mandatory, just recommended and similarly not everyone may wish to be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t have to be. Also, if you feel that a change of buddy would benefit you for whatever reason or that you’re no longer able to be a buddy, this should also not be an awkward situation. If you have any concerns, have a chat with the People Manager.
 
 The buddy system is there to help us all improve, to make sure we're doing the right kind of work and to check that we're dealing with practical problems we're facing. It's not line management, so it's not the right place to talk about holiday, salary, sickness, absence or anything disciplinary. If you need to talk about those things, talk to the People Manager.
 
@@ -1667,9 +1675,9 @@ Try to keep the conversation quite high-level, and avoid going into too much
 technical detail. This part of the process is more about experience and personal
 qualities than about skills. Things to keep in mind:
 
-* Does this person seem likely to embody our [values](#our-values)?
-* Does this person have an interest in our [mission](#why-are-we-all-here)?
-* Does this person have experience working in [agile environments](#keep-an-agile-mindset)?
+- Does this person seem likely to embody our [values](#our-values)?
+- Does this person have an interest in our [mission](#why-are-we-all-here)?
+- Does this person have experience working in [agile environments](#keep-an-agile-mindset)?
 
 If you can find out how they heard about the job, that's useful for us to know.
 
@@ -1701,11 +1709,11 @@ hour long with two members of the team.
 
 Before going to an interview, make sure you have:
 
-* Set aside enough time for the interview. You should leave half an hour each
+- Set aside enough time for the interview. You should leave half an hour each
   side in case the candidate is early or the interview goes long.
-* Read the job description
-* Read the candidate's CV
-* Read the questions for the interview, and thought about whether they are the
+- Read the job description
+- Read the candidate's CV
+- Read the questions for the interview, and thought about whether they are the
   right things to ask
 
 dxw interviews are informal. They are a semi-structured conversation, rather
@@ -1744,24 +1752,24 @@ the first hour of the work day.
 
 TODO. This section to cover:
 
-* Principles for a good work day
-* Preparing a work day activity
-* Letting the candidate know if they need to bring anything and how much time
+- Principles for a good work day
+- Preparing a work day activity
+- Letting the candidate know if they need to bring anything and how much time
   we'll need
-* Making sure there is a printed or emailed explanation for what they need to do
-* Discussing the results
-* Offer if we are sure they are right
+- Making sure there is a printed or emailed explanation for what they need to do
+- Discussing the results
+- Offer if we are sure they are right
 
 #### Offer, joining and probation
 
 TODO. This section to cover:
 
-* Salary negotiation, notice periods and start date
-* Eligibility to work in the UK, documentation that we need
-* Background check
-* Starters checklist
-* The probation period, meeting and expectations
-* ...more things.
+- Salary negotiation, notice periods and start date
+- Eligibility to work in the UK, documentation that we need
+- Background check
+- Starters checklist
+- The probation period, meeting and expectations
+- ...more things.
 
 #### Returners' programme
 
@@ -2079,7 +2087,7 @@ Designers at dxw follow these principles:
 
 1. **Ask questions**
 
-   Always ask questions and seek the truth;  when we understand the problem we can solve it. When things seem muddy take a step back and try and find the original intent or gaps in understanding. _“If I had an hour to solve a problem I’d spend 55 minutes thinking about the problem and five minutes thinking about solutions.”_ ~ Albert Einstein
+   Always ask questions and seek the truth; when we understand the problem we can solve it. When things seem muddy take a step back and try and find the original intent or gaps in understanding. _“If I had an hour to solve a problem I’d spend 55 minutes thinking about the problem and five minutes thinking about solutions.”_ ~ Albert Einstein
 
 1. **Always assume the best intent**
 
@@ -2087,7 +2095,7 @@ Designers at dxw follow these principles:
 
 1. **Tell stories**
 
-   When we talk about our work and why we do what we do, do not just state the facts. Inject some humanity into it; turn it into a story with a beginning, a middle,  and an end.
+   When we talk about our work and why we do what we do, do not just state the facts. Inject some humanity into it; turn it into a story with a beginning, a middle, and an end.
 
 ### Development
 
@@ -2259,7 +2267,7 @@ The sales and marketing teams at dxw follow these principles:
 
 1. **Start from solid foundations**
 
-   We work with potential and current clients to understand their needs and how we can deliver value - seeking out   opportunities for mutual growth.
+   We work with potential and current clients to understand their needs and how we can deliver value - seeking out opportunities for mutual growth.
 
    We support our clients to make the right buying decisions, ensuring we focus on positive outcomes for users and making the most of the resources available.
 
@@ -2271,7 +2279,7 @@ The sales and marketing teams at dxw follow these principles:
 
    We remain responsible and accountable to both our delivery teams and clients, ensuring that we represent them in the right way and can deliver on our commitments.
 
-   We give our clients the opportunity and platform to talk openly about their experience of working with us.  We listen to what they’re telling us - about what’s going well and what we need to do differently - and constantly work to improve things.
+   We give our clients the opportunity and platform to talk openly about their experience of working with us. We listen to what they’re telling us - about what’s going well and what we need to do differently - and constantly work to improve things.
 
 1. **Find the right work**
 

@@ -1,5 +1,6 @@
 ---
 ---
+
 # Support and on call
 
 We have service definitions for [GovPress hosting], [container hosting] and
@@ -22,22 +23,22 @@ with faster response targets.
 
 We provide support for clients and users of these services in three ways:
 
-* Clients and users of these services can raise a **ticket** with us about
+- Clients and users of these services can raise a **ticket** with us about
   usability issues, errors or faults. Sometimes what they’re asking for is a
   larger feature request, which needs separate handling.
-* We do proactive **maintenance** for our client’s sites and services, for
+- We do proactive **maintenance** for our client’s sites and services, for
   example by applying security updates.
-* We have monitoring systems for our services that continually check whether
+- We have monitoring systems for our services that continually check whether
   they are operating correctly, and whether there are any warning signs of
   problems. When problems are detected they raise an **alert** for the team to
   investigate and resolve.
 
 That support is handled by the team in two ways:
 
-* We provide in-hours (10.00–18.00) support for all our clients, resolving
+- We provide in-hours (10.00–18.00) support for all our clients, resolving
   tickets and alerts and doing maintenance. We call this **first line
   support**, and it’s staffed by a developer and an ops engineer on rota.
-* We provide out-of-hours (24/7) support for some of our clients, responding
+- We provide out-of-hours (24/7) support for some of our clients, responding
   only to critical alerts and emergency tickets. We call this **on call**, and
   it’s staffed by a developer or an ops engineer through an opt-in rota.
 
@@ -153,9 +154,9 @@ Outside office hours, the expected response depends on the severity of the
 incident. We have a set of factors that determine the severity of an incident,
 and have included these in our [Service Level Agreement].
 
-[GovPress hosting]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/930612236449495
+[govpress hosting]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/930612236449495
 [container hosting]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/754953588860938
 [blogging platform]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/355674790119695
 [campaign multisites]: https://www.digitalmarketplace.service.gov.uk/g-cloud/services/691308552308120
-[Service Level Agreement]: https://contracts.dxw.com/service_level_agreement.md.html
+[service level agreement]: https://contracts.dxw.com/service_level_agreement.md.html
 [runbooks]: https://git.govpress.com/ops/docs

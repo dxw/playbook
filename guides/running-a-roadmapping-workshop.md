@@ -1,5 +1,6 @@
 ---
 ---
+
 # Running a roadmapping workshop
 
 For an alpha or beta, or for a significant update to a live service, we run an initial roadmapping workshop during inception.
@@ -39,7 +40,7 @@ After the workshop, the roadmap becomes a living part of the project documentati
 
 1. What are our goals and outcomes?
 
-   What are the overall goals for the project and service? What intermediate outcomes do we want to achieve?  How might we measure them?
+   What are the overall goals for the project and service? What intermediate outcomes do we want to achieve? How might we measure them?
 
 1. What are we assuming?
 
@@ -112,7 +113,7 @@ Before the workshop:
 During the workshop:
 
 - Start with the goals. Work to make them clear, then break them down into more specific outcomes with potential measures
-Work through the rest of the questions, one by one
+  Work through the rest of the questions, one by one
 - For each question, ask participants to write items on paper or digital sticky notes
 - Ask participants to talk about their items, to clarify and improve any unclear items, and to make sure you include everyone’s thoughts
 - Group or stack similar items

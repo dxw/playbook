@@ -5,36 +5,35 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@master
-    - name: Set language versions
-      run: |
-        echo "::set-env name=RUBY_VERSION::$(cat .ruby-version)"
-        echo "::set-env name=GO_VERSION::$(cat .go-version)"
-        echo "::set-env name=NODE_VERSION::$(cat .node-version)"
-    - uses: actions/setup-node@v1
-      with:
-        node-version: ${{ env.NODE_VERSION }}
-    - uses: actions/setup-go@v2
-      with:
-        go-version: ${{ env.GO_VERSION }}
-    - uses: actions/setup-ruby@v1
-      with:
-        ruby-version: ${{ env.RUBY_VERSION }}
-    - name: Cache Rubygems
-      uses: actions/cache@v2
-      with:
-        path: vendor/bundle
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-
-    - name: Cache Node packages
-      uses: actions/cache@v2
-      with:
-        path: ~/.npm
-        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-        restore-keys: |
-          ${{ runner.os }}-node-
-    - name: 'Run tests'
-      run: script/cibuild
-
+      - name: Checkout
+        uses: actions/checkout@master
+      - name: Set language versions
+        run: |
+          echo "::set-env name=RUBY_VERSION::$(cat .ruby-version)"
+          echo "::set-env name=GO_VERSION::$(cat .go-version)"
+          echo "::set-env name=NODE_VERSION::$(cat .node-version)"
+      - uses: actions/setup-node@v1
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+      - uses: actions/setup-go@v2
+        with:
+          go-version: ${{ env.GO_VERSION }}
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: ${{ env.RUBY_VERSION }}
+      - name: Cache Rubygems
+        uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: Cache Node packages
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - name: "Run tests"
+        run: script/cibuild

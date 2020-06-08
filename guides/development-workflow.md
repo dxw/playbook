@@ -276,7 +276,7 @@ Having a convention allows for:
   interpret a commit's title
 - encourages small and concise commits which keeps the focus on the type of
   change being made. If you are adding a new feature and fix something along the
-  way, that *should* be 2 commits instead of 1
+  way, that _should_ be 2 commits instead of 1
 
 #### Convention
 

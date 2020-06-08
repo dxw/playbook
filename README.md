@@ -83,9 +83,9 @@ structure.
 
 ### Prerequisites
 
-* Ruby 2.6.6 (Defined in `.ruby-version` for use with [rbenv](https://github.com/rbenv/rbenv))
-* Node.js 12.13.0 (Defined in `.node-version` for use with [nodenv](https://github.com/nodenv/nodenvv))
-* Go 1.14 (Defined in `go-version` for use with [goenv](https://github.com/syndbg/goenv))
+- Ruby 2.6.6 (Defined in `.ruby-version` for use with [rbenv](https://github.com/rbenv/rbenv))
+- Node.js 12.13.0 (Defined in `.node-version` for use with [nodenv](https://github.com/nodenv/nodenvv))
+- Go 1.14 (Defined in `go-version` for use with [goenv](https://github.com/syndbg/goenv))
 
 ### Running locally
 

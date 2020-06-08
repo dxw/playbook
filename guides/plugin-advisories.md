@@ -1,5 +1,6 @@
 ---
 ---
+
 # Plugin Advisories
 
 ## Workflow
@@ -64,7 +65,7 @@ Description:
 or maybe:
 
 > If an attacker is able to convince a logged-in admin user to follow a link
-(phishing emails can be made to look very convincing), then ...
+> (phishing emails can be made to look very convincing), then ...
 
 Proof of concept:
 
@@ -81,7 +82,7 @@ the server
 
 Description:
 
-If there are classes with methods like __destruct() that have certain properties,
+If there are classes with methods like \_\_destruct() that have certain properties,
 the attacker can ...
 
 ### Mitigations
@@ -101,13 +102,13 @@ In order to publish advisories responsibly there are a number of steps which
 must be followed:
 
 - [ ] Ensure you're happy with the text of the findings and the title
-  (see previous sections)
+      (see previous sections)
 - [ ] Ensure that the mitigations section says something like
-  'Disable the plugin until a new version is released that fixes this bug'
+      'Disable the plugin until a new version is released that fixes this bug'
 - [ ] Ensure that the 'Timeline' section includes the date that the
-  vulnerability was discovered
+      vulnerability was discovered
 - [ ] Publish the advisory privately (Publish > Visibility > Edit) - Make sure
-  it doesn't get tweeted!
+      it doesn't get tweeted!
 - [ ] Publish the associated inspection privately in the same way
 
 Note:
@@ -124,12 +125,12 @@ to request an encrypted email connection for these communications.
 In all other cases, normal email is fine.
 
 - [ ] On the (privately) published page, under "Text version for reports" click
-  the "Click for a blank email with the right subject" link
+      the "Click for a blank email with the right subject" link
 - [ ] Copy the email text from "Text version for reports"
 - [ ] Find contact details for the plugin author
 - [ ] Add a humanising intro and send to the plugin author
 - [ ] Add a note to the timeline, mentioning the method - e.g.
-  2014-01-02: Reported to vendor by email
+      2014-01-02: Reported to vendor by email
 - [ ] At the bottom of the page, set the status to "Reported"
 
 As an example of a humanising intro:
@@ -189,7 +190,7 @@ If the issue is fixed:
 
 - [ ] Ensure that there's a note in the timeline of when the vendor first replied.
 - [ ] Update the timeline as appropriate, e.g. 2014-01-02: Vendor reported issue
-  fixed in version 1.2.3
+      fixed in version 1.2.3
 - [ ] Update the timeline as appropriate, e.g. 2014-01-05: Advisory published
 - [ ] Mark the advisory from 'Reported' to 'Fixed'
 - [ ] Update the 'mitigation' section to say 'Upgrade to version X or later'
@@ -197,16 +198,16 @@ If the issue is fixed:
 If the issue is NOT fixed:
 
 - [ ] Update the timeline as appropriate, e.g. 2014-01-02: Vendor could not be
-  contacted
+      contacted
 - [ ] Update the timeline as appropriate, e.g. 2014-01-05: Published
 - [ ] Leave the status as 'Reported'
 - [ ] Update the 'mitigation' section to say 'Disable: the plugin has been
-  removed from the plugins directory and no fixed version is known.'
+      removed from the plugins directory and no fixed version is known.'
 
 If the plugin was removed from the directory:
 
 - [ ] Update the timeline as appropriate, e.g. 2014-01-02: Plugin has been
-  removed from the WordPress directory
+      removed from the WordPress directory
 - [ ] Update the timeline as appropriate, e.g. 2014-01-05: Published
 - [ ] Leave the status as 'Reported'
 - [ ] Update the 'mitigation' section to say 'Disable: no fixed version is known.'
@@ -215,10 +216,10 @@ If the plugin was removed from the directory:
 
 - [ ] Set the Tweet status to 'Tweet'
 - [ ] Amend the published date to today (otherwise it will show with the
-  privately published date)
+      privately published date)
 - [ ] Publish the advisory
 - [ ] While logged in, view the published advisory and hit the Full Disclosure,
-  WP Scan and dxw WP Security buttons
+      WP Scan and dxw WP Security buttons
 
 Once the advisory has been published the associated inspection can also be
 published:
@@ -226,7 +227,7 @@ published:
 - [ ] Add a link to the advisory
 - [ ] Set the Tweet status to 'Do not tweet'
 - [ ] Amend the published date to today (otherwise it will show with the
-  privately published date)
+      privately published date)
 - [ ] Publish the inspection
 
 Once it's published we can alert upstream:

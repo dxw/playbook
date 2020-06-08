@@ -32,7 +32,7 @@ of the existing ones.
 
 ## Instructions
 
-1. Prepare category cards for each participant. *Write categories on cards for a
+1. Prepare category cards for each participant. \*Write categories on cards for a
    closed sort. You might have identified these through a quantitative/automated
    sorting, through discussion/design sprint or in previous card sort sessions.
 1. Prepare some content cards for each category (a set for each participant)
@@ -41,7 +41,7 @@ of the existing ones.
    into categories you’ve prepared. *A variation of ‘other pile’ and allowing
    participants to amend and create new categories are often useful particularly
    in the first round of sorting
-1. Discuss why they grouped the cards the way they did. *This part is where the
+1. Discuss why they grouped the cards the way they did. \*This part is where the
    notetaker/observer must really listen for comments, reasoning and questions.
    Equally, the notetaker should take notes of comments and questions that arise
    as poeple work on the groupings.

@@ -1,5 +1,6 @@
 ---
 ---
+
 # Setting up a new project
 
 At dxw we frequently start new projects and work with clients we haven’t worked with before.
@@ -57,12 +58,13 @@ Before the project starts there’s also a number of tasks, mostly administrativ
 - Set up a video-call for standups so that anyone working remotely or from another location can join. We like to use appear.in and talky.io.
 - Create a week notes document, using the template.
 - Organise a kick-off meeting with the client, either a few days before the first sprint or on the first day. The whole team should attend this.
-- Check that commercial tasks have been done. It’s worth checking there’s a signed order summary (this should be shared with you ahead of time) and this matches the schedule in 10,000ft.  Check invoices have been created in Xero and you know where to find them. Also check 10,000ft early so you’re aware of any upcoming holiday being taken by the team.
+- Check that commercial tasks have been done. It’s worth checking there’s a signed order summary (this should be shared with you ahead of time) and this matches the schedule in 10,000ft. Check invoices have been created in Xero and you know where to find them. Also check 10,000ft early so you’re aware of any upcoming holiday being taken by the team.
 - Create a spreadsheet to track days worked against the order summary. This will show you how money is being spent against the forecasted budget, and help you in any conversations with the client about team changes, extending the project or issues with budget.
 
 ## Kick off meeting
 
 While the project is being set up, and before it starts, a kick off should happen. This ensures:
+
 - The team get introduced to each other & discuss and agree how they want to work
 - The team and client know and understand what the work is all about
 - We realise our priorities so we have an initial plan
@@ -75,13 +77,16 @@ You should have everyone working on the project in this meeting (even if they’
 Use the kick-off to introduce everyone to each other. It might be a good idea to give team members a bit of advance notice about this, so that they can already think and prepare their own intros tailored to this project.
 
 It shouldn’t just be about people’s names, but roles and what each person will be doing on the project. Some further ideas:
+
 - Highlight people’s experience and expertise, particularly if it’s going to benefit the project or subject matter you’re working on
 - It is also important to say if any of the team members have worked on a previous phase of the same project/product/service
 - Make sure to point out who is full time/part time or if there is any different working pattern (such as compressed hours, any days they are not working, etc…)
 - Prep the client about what the day will look like and set expectations. For example who they should bring and what the agenda should be.
 
 ### Get to a shared understanding of what the work and priorities are
+
 There are a number of outcomes you should aim to get out of a kick-off. This is important especially if we are working with that client for the first time and there are areas that are not very clear to us, or to them. You can structure a kick-off in the way that works best for you, but some frameworks that will help you get the outcomes you need are below:
+
 - [Running a discovery kick-off workshop](http://playbook.dxw.com/#/guides/running-a-discovery-kick-off-workshop)
 - [Running a roadmapping workshop](http://playbook.dxw.com/#/guides/running-a-roadmapping-workshop)
 
@@ -93,6 +98,7 @@ Aim to reach a shared understanding of what’s desired and what’s possible. T
 ### Talk about dxw ways of working
 
 Give an overview of how dxw works. Don’t assume that everyone in the client team has read the original proposal or visited the dxw website. Explain how we work:
+
 - agile mindset
 - culture
 - our approach to delivery
@@ -114,7 +120,7 @@ Clients will have their own way of working on projects and if they’ve used agi
 
 Explain how most dxw teams work, and communicate to the client that we’ve done this successfully with different clients over the years. However, be accommodating and suggest we “test and iterate” approaches. The retros are a perfect avenue to explore these.
 
-There’s always something to discuss here.  For example, how will week notes be written and who should they be sent to? Who needs to be invited to show and tells? How will user stories be written? Is there a story template the team want to use, and will developers estimate them?
+There’s always something to discuss here. For example, how will week notes be written and who should they be sent to? Who needs to be invited to show and tells? How will user stories be written? Is there a story template the team want to use, and will developers estimate them?
 
 ### Talk about co-location
 

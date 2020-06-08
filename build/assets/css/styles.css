@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap");
-@import url('https://fonts.googleapis.com/css?family=Cardo:400,400i&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Cardo:400,400i&display=swap");
 
 body {
-  font-family: 'Cardo', -apple-system, serif;
+  font-family: "Cardo", -apple-system, serif;
   font-size: 15pt;
   color: #243746;
   line-height: 1.5;
@@ -10,7 +10,9 @@ body {
   padding: 0;
   background: #f9f8f5;
 }
-.markdown-section ol, .markdown-section p, .markdown-section ul {
+.markdown-section ol,
+.markdown-section p,
+.markdown-section ul {
   line-height: 1.5;
   word-spacing: 0;
 }
@@ -18,12 +20,13 @@ body {
   border-left-color: #858585;
   color: #243746;
 }
-.markdown-section blockquote p, .markdown-section em {
+.markdown-section blockquote p,
+.markdown-section em {
   color: #243746;
 }
 .sidebar {
-  background: #09615D;
-  color: #FFB259;
+  background: #09615d;
+  color: #ffb259;
 }
 
 .sidebar input {
@@ -37,7 +40,8 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.sidebar ul li a, .app-nav ul li a {
+.sidebar ul li a,
+.app-nav ul li a {
   font-family: Poppins, sans-serif;
   text-decoration: none;
   border-bottom: 2px solid transparent;
@@ -55,14 +59,14 @@ body {
 .search h2:hover,
 .search h2:focus {
   text-decoration: none;
-  border-bottom: 2px solid #FFB259;
+  border-bottom: 2px solid #ffb259;
 }
 
 .sidebar {
   z-index: 3;
 }
 .search {
-  background-color: rgba(0,0,0,0.25);
+  background-color: rgba(0, 0, 0, 0.25);
   border-bottom: 1px solid #f1f1f175 !important;
   color: #f9f8f5;
 }
@@ -70,15 +74,24 @@ body {
   display: inline;
 }
 
-.search .results-panel.show { padding-top: 5px; }
-.search .matching-post { margin-bottom: 5px }
+.search .results-panel.show {
+  padding-top: 5px;
+}
+.search .matching-post {
+  margin-bottom: 5px;
+}
 .search .search-keyword {
   color: #ffb259;
   text-decoration: underline;
 }
 
-h1,h2,h3,h4,h5,h6 {
-  font-family: 'Poppins', sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
 }
 
@@ -87,14 +100,15 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .app-nav {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
 .markdown-section h1:not(:first-of-type) {
   margin-top: 2em;
 }
 
-b,strong {
+b,
+strong {
   font-weight: 700;
 }
 .app-nav {
@@ -103,7 +117,8 @@ b,strong {
 .app-nav a {
   font-size: 15pt;
 }
-.app-nav li ul li, .sidebar ul li a {
+.app-nav li ul li,
+.sidebar ul li a {
   font-size: 13pt;
 }
 .app-nav li ul {
@@ -125,10 +140,12 @@ b,strong {
   display: block;
 }
 
-article p a, article li a {
+article p a,
+article li a {
   color: inherit;
 }
-article p a:hover, article li a:hover {
+article p a:hover,
+article li a:hover {
   text-decoration-color: #17212c;
 }
 .markdown-section > :first-child a {
@@ -150,7 +167,9 @@ article li {
   margin-bottom: 10px;
 }
 .logo {
-  float:right; margin-left:20px; margin-top: 5px;
+  float: right;
+  margin-left: 20px;
+  margin-top: 5px;
 }
 .sidebar-toggle {
   background-color: transparent;
@@ -218,9 +237,7 @@ a.skip:hover {
   margin-left: 0;
 }
 
-.sidebar-nav > ul > li > ul > li > ul li  a {
+.sidebar-nav > ul > li > ul > li > ul li a {
   font-weight: 400;
   font-size: 11pt;
 }
-
-
