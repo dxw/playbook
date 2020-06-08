@@ -70,7 +70,7 @@ or maybe:
 Proof of concept:
 
 > If a logged-in administrator user clicks the submit button on this form, a
-> JavaScript alert will display on {{A SPECIFIC PAGE}} (In a real attack the form
+> JavaScript alert will display on \[A Specific Page\] (In a real attack the form
 > can be made to auto-submit using JavaScript).”
 
 ### Unserialize
