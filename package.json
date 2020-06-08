@@ -10,7 +10,8 @@
     "build": "webpack -p --mode=production",
     "watch": "webpack --mode=development --watch",
     "js:lint": "eslint '_javascripts/src/**/*.js'",
-    "js:lint:fix": "eslint '_javascripts/src/**/*.js' --fix"
+    "js:lint:fix": "eslint '_javascripts/src/**/*.js' --fix",
+    "test": "jest"
   },
   "dependencies": {
     "@babel/core": "^7.10.2",
@@ -18,6 +19,7 @@
     "babel": "^6.23.0",
     "babel-loader": "^8.1.0",
     "core-js": "^3.6.5",
+    "jest": "^26.0.1",
     "marked": "^1.0.0",
     "prismjs": "^1.9.0",
     "remark-cli": "^8.0.0",
@@ -34,5 +36,14 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ],
+    "globals": [
+      "Event",
+      "history"
+    ]
   }
 }
