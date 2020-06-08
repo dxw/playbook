@@ -1,0 +1,16 @@
+{
+  "presets": [
+    ["@babel/preset-env", {
+      "targets": {
+        "browsers": [
+          "> 5%",
+          "last 2 versions",
+          "IE 11"
+        ],
+        "uglify": true
+      },
+      "debug": true,
+      "useBuiltIns": "entry"
+    }]
+  ]
+}
