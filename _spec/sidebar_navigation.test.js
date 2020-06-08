@@ -45,4 +45,14 @@ describe("sidebarNavigation", () => {
     link.click();
     expect(pushStateMock).toBeCalledWith({}, "", "#foo");
   });
+
+  it("collapses the navigation on smaller viewports", () => {
+    window.innerWidth = 500;
+    document.querySelector("body").classList.add("close");
+
+    var link = document.querySelector("a[data-target='foo']");
+    link.click();
+
+    expect(document.querySelector("body").classList).not.toContain("close");
+  });
 });
