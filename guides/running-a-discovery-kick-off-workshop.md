@@ -1,7 +1,6 @@
 ---
+title: Running a discovery kick-off workshop
 ---
-
-# Running a discovery kick-off workshop
 
 This guide explains how we run a kick-off workshop for a discovery project at dxw digital.
 

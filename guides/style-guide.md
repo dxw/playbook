@@ -1,7 +1,6 @@
 ---
+title: Style guide
 ---
-
-# Style guide
 
 ## General
 

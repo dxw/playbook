@@ -1,7 +1,6 @@
 ---
+title: Sprint Planning
 ---
-
-# Sprint Planning
 
 ## What is it?
 

@@ -1,7 +1,6 @@
 ---
+title: Plugin Advisories
 ---
-
-# Plugin Advisories
 
 ## Workflow
 

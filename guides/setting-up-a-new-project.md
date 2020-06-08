@@ -1,7 +1,6 @@
 ---
+title: Setting up a new project
 ---
-
-# Setting up a new project
 
 At dxw we frequently start new projects and work with clients we haven’t worked with before.
 Delivery leads at dxw are responsible for setting up projects and ensuring all the right things are in place for when the team starts work.

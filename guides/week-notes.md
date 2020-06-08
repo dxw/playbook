@@ -1,7 +1,6 @@
 ---
+title: Weeknotes
 ---
-
-# Weeknotes
 
 ## What are weeknotes?
 

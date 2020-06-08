@@ -1,7 +1,6 @@
 ---
+title: Daily standups
 ---
-
-# Daily standups
 
 ## What are they?
 

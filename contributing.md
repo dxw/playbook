@@ -1,6 +1,6 @@
 ---
+title: Contributing to the Playbook
 ---
-# Contributing to the Playbook
 
 ## What you will need
 

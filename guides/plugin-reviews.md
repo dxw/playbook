@@ -1,7 +1,6 @@
 ---
+title: Plugin Reviews
 ---
-
-# Plugin Reviews
 
 ## Workflow
 

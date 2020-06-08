@@ -1,7 +1,6 @@
 ---
+title: Show and tells
 ---
-
-# Show and tells
 
 ## What are they?
 

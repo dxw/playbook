@@ -1,7 +1,6 @@
 ---
+title: How we do user research
 ---
-
-# How we do user research
 
 ## Introduction
 

@@ -1,8 +1,6 @@
 ---
+title: Claiming expenses
 ---
-
-# Claiming expenses
-
 This guide gives details on the information you need to provide to claim an
 expense. For more general information about expenses, visit the [Expenses
 section of the Playbook](https://playbook.dxw.com/#expenses).

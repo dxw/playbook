@@ -1,7 +1,6 @@
 ---
+title: Support and on call
 ---
-
-# Support and on call
 
 We have service definitions for [GovPress hosting], [container hosting] and
 secure WordPress hosting for our [blogging platform] and [campaign multisites]

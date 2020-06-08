@@ -1,7 +1,6 @@
 ---
+title: Team changes and handovers
 ---
-
-# Team changes and handovers
 
 ## Introduction
 

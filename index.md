@@ -1,7 +1,6 @@
 ---
+title: dxw’s Playbook
 ---
-
-# dxw’s Playbook
 
 ## Who we are
 
