@@ -102,11 +102,11 @@ script/server
 ```
 
 You can now visit [localhost:4000](http://localhost:4000) to see your local
-playbook. CSS files live in the `build/css` directory, while Javascript
+playbook. SCSS files live in the `_stylesheets` directory, while Javascript
 lives in the `_javascripts` directory.
 
-While the server is running, Webpack watches the JavaScript files for
-changes, and compiles them into the `dist` directory.
+While the server is running, Webpack watches the JavaScript and SCSS files
+for changes, and compiles them into the `dist` directory.
 
 To build the Javascript manually, run the following command:
 

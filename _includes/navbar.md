@@ -30,6 +30,6 @@
 
 <div class="logo">
   <a href="/" title="Back to playbook home page">
-    <img src="/build/assets/img/dmark.png" alt="" width="32" height="32">
+    <img src="/dist/dmark.png" alt="" width="32" height="32">
   </a>
 </div>

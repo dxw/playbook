@@ -1,0 +1,378 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cardo:400,400i&display=swap');
+
+@mixin small-screen {
+  @media screen and (max-width: 768px) {
+    @content;
+  }
+}
+
+$body-colour: #243746;
+$accent-colour: #ffb259;
+$off-white: #f9f8f5;
+
+body {
+  font-family: 'Cardo', -apple-system, serif;
+  font-size: 15pt;
+  color: $body-colour;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  background: $off-white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+b,
+strong {
+  font-weight: 700;
+}
+
+.app-name.hide,
+.sidebar-nav.hide {
+  display: none;
+}
+
+.markdown-section {
+  ol, p, ul {
+    line-height: 1.5;
+    word-spacing: 0;
+  }
+
+  em {
+    color: $body-colour;
+  }
+
+  blockquote {
+    border-left-color: #858585;
+    color: $body-colour;
+
+    p {
+      color: $body-colour;
+    }
+  }
+
+  h1:not(:first-of-type) {
+    margin-top: 2em;
+  }
+
+  h6 {
+    color: #2c3e50;
+  }
+
+  & > :first-child a {
+    border-bottom: none;
+    font-size: 13pt;
+  }
+}
+
+.sidebar {
+  background: #09615d;
+  color: $accent-colour;
+  z-index: 3;
+  padding-top: 0;
+
+  input {
+    background: inherit;
+    color: $off-white;
+
+    &::placeholder {
+      color: transparentize($off-white, 0.33);
+    }
+  }
+
+  ul {
+    li {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      line-height: 1.5;
+      margin: 0;
+
+      &:active {
+        > a {
+          color: $off-white;
+          border-right: 0;
+        }
+      }
+
+      a {
+        font-family: Poppins, sans-serif;
+        text-decoration: none;
+        border-bottom: 2px solid transparent;
+        display: inline;
+        color: $off-white;
+        font-size: 13pt;
+
+        &:hover, &:focus, > a.active {
+          text-decoration: none;
+          border-bottom: 2px solid $accent-colour;
+        }
+      }
+    }
+  }
+
+  .search {
+    background-color: rgba(0, 0, 0, 0.25);
+    border-bottom: 1px solid #f1f1f175 !important;
+    color: $off-white;
+    margin-bottom: 20px;
+    padding: 6px;
+    border-bottom: 1px solid #eee;
+
+    input {
+      outline: none;
+      border: none;
+      width: 100%;
+      padding: 0 7px;
+      line-height: 36px;
+      font-size: 14px;
+      border: 1px solid transparent;
+
+      &:focus {
+        box-shadow: 0 0 5px $body-colour;
+        border: 1px solid $body-colour;
+      }
+
+      &::-webkit-search-decoration, &::-webkit-search-cancel-button, input {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+      }
+    }
+
+    h2 {
+      font-size: 17px;
+      margin: 10px 0;
+    }
+
+    .clear-button {
+      width: 36px;
+      text-align: right;
+      display: none;
+
+      &.show {
+        display: block;
+      }
+
+      svg {
+        transform: scale(0.5);
+      }
+    }
+
+    .input-wrap {
+      display: flex;
+      align-items: center;
+    }
+
+    .matching-post {
+      border-bottom: 1px solid #eee;
+
+      &:last-child {
+        border-bottom: 0;
+      }
+    }
+
+    p {
+      font-size: 14px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+
+      &.empty {
+        text-align: center;
+      }
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit;
+      &:hover {
+        color: $off-white;
+      }
+    }
+
+    h2 {
+      display: inline;
+
+      &:hover, &:focus {
+        text-decoration: none;
+        border-bottom: 2px solid $accent-colour;
+      }
+    }
+
+    .results-panel {
+      display: none;
+
+      &.show {
+        display: block;
+        padding-top: 5px;
+      }
+
+      .matching-post {
+        margin-bottom: 5px;
+      }
+
+      .search-keyword {
+        color: $accent-colour;
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+.app-nav {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  left: 25%;
+
+  @include small-screen {
+    left: 0;
+  }
+
+  a {
+    font-size: 15pt;
+  }
+
+  ul {
+    li {
+      font-size: 13pt;
+      a {
+        font-family: Poppins, sans-serif;
+        text-decoration: none;
+        border-bottom: 2px solid transparent;
+        display: inline;
+      }
+
+      &:hover, &:focus, &:active {
+        text-decoration: none;
+        border-bottom: 2px solid $accent-colour;
+      }
+
+      ul {
+        z-index: 99;
+        position: absolute !important;
+        height: 1px;
+        width: 1px;
+        overflow: hidden;
+        clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+        clip: rect(1px, 1px, 1px, 1px);
+        white-space: nowrap; /* added line */
+      }
+
+      &:hover, &focus-within {
+        ul {
+          height: auto;
+          width: auto;
+          clip: auto;
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+article {
+  p {
+    a {
+      color: inherit;
+
+      &:hover {
+        text-decoration-color: #17212c;
+      }
+    }
+  }
+
+  li {
+    margin-bottom: 10px;
+    a {
+      color: inherit;
+
+      &:hover {
+        text-decoration-color: #17212c;
+      }
+    }
+  }
+}
+
+.logo {
+  float: right;
+  margin-left: 20px;
+  margin-top: 5px;
+
+  @include small-screen {
+    float: left;
+    position: absolute;
+    top: 10px;
+    left: 0;
+  }
+}
+
+.sidebar-toggle {
+  background-color: transparent;
+
+  @include small-screen {
+    background-color: $off-white;
+    padding: 20px;
+  }
+}
+
+.content {
+  @include small-screen {
+    position: relative;
+    padding-top: 70px;
+  }
+}
+
+.skip {
+  position: absolute;
+  top: -1000px;
+  left: -1000px;
+  height: 1px;
+  width: 1px;
+  text-align: left;
+  overflow: hidden;
+
+  &:active, &:focus, &:hover {
+    left: 0;
+    top: 0;
+    width: auto;
+    height: auto;
+    overflow: visible;
+    z-index: 10;
+    background: $off-white;
+    padding: 5px;
+    display: inline-block;
+  }
+}
+
+.sidebar-nav {
+  /* Hide <h1> level in sidebar */
+  > ul > li > a {
+    display: none;
+    margin-left: 0;
+  }
+
+  > ul > li > ul {
+    margin: 15px 0 15px 15px;
+  }
+
+  > ul > li > ul > li > a {
+    font-weight: 700;
+  }
+
+  > ul > li > ul > li > ul {
+    margin-left: 0;
+  }
+
+  > ul > li > ul > li > ul li a {
+    font-weight: 400;
+    font-size: 11pt;
+  }
+}
