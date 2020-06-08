@@ -11,6 +11,8 @@
     "watch": "webpack --mode=development --watch",
     "js:lint": "eslint '_javascripts/src/**/*.js'",
     "js:lint:fix": "eslint '_javascripts/src/**/*.js' --fix",
+    "prettier": "prettier --check '_javascripts/src/**/*.js' '_spec/*.js'",
+    "prettier:fix": "prettier --write '_javascripts/src/**/*.js' '_spec/*.js'",
     "test": "jest"
   },
   "dependencies": {
@@ -21,6 +23,7 @@
     "core-js": "^3.6.5",
     "jest": "^26.0.1",
     "marked": "^1.0.0",
+    "prettier": "^2.0.5",
     "prismjs": "^1.9.0",
     "remark-cli": "^8.0.0",
     "remark-lint": "^7.0.0",

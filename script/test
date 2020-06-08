@@ -4,4 +4,5 @@ set -e
 npm run markdown:lint
 npm run js:lint
 npm run vale
+npm run prettier
 npm test

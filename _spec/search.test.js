@@ -1,6 +1,6 @@
-import search from '../_javascripts/src/lib/search'
+import search from "../_javascripts/src/lib/search";
 
-describe('search', () => {
+describe("search", () => {
   const body = `
     <input type="search" name="search"/>
     <div class="clear-button"></div>
@@ -15,19 +15,21 @@ describe('search', () => {
         </li>
       </ul>
     </div>
-  `
+  `;
 
   beforeEach(() => {
-    document.body.innerHTML = body
-    search()
-  })
+    document.body.innerHTML = body;
+    search();
+  });
 
-  it('returns search results', () => {
-    const searchBox = document.querySelector("input[type='search']")
-    searchBox.value = 'text'
-    searchBox.dispatchEvent(new Event('input'))
+  it("returns search results", () => {
+    const searchBox = document.querySelector("input[type='search']");
+    searchBox.value = "text";
+    searchBox.dispatchEvent(new Event("input"));
 
-    const results = document.querySelector('.results-panel').innerHTML.replace(/\s+/g, '')
+    const results = document
+      .querySelector(".results-panel")
+      .innerHTML.replace(/\s+/g, "");
     const expectedResults = `
       <div class="matching-post">
         <a href="#foo" data-target="foo">
@@ -35,8 +37,8 @@ describe('search', () => {
           <p><em class="search-keyword">text</em> goes here</p>
         </a>
       </div>
-    `.replace(/\s+/g, '')
+    `.replace(/\s+/g, "");
 
-    expect(results).toEqual(expectedResults)
-  })
-})
+    expect(results).toEqual(expectedResults);
+  });
+});
