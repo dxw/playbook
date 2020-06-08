@@ -16,6 +16,7 @@
     ["lint-definition-case", false],
     ["lint-strong-marker", false],
     ["lint-emphasis-marker", false],
-    ["lint-no-emphasis-as-heading", false]
+    ["lint-no-emphasis-as-heading", false],
+    ["lint-heading-style", false]
   ]
 }

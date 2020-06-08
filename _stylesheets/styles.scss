@@ -353,26 +353,25 @@ article {
 }
 
 .sidebar-nav {
-  /* Hide <h1> level in sidebar */
-  > ul > li > a {
-    display: none;
-    margin-left: 0;
-  }
+  margin: 30px 15px;
 
-  > ul > li > ul {
+  > ul {
     margin: 15px 0 15px 15px;
-  }
+    > li {
+      > a {
+        font-weight: 700;
+        font-size: 13pt;
+      }
 
-  > ul > li > ul > li > a {
-    font-weight: 700;
-  }
-
-  > ul > li > ul > li > ul {
-    margin-left: 0;
-  }
-
-  > ul > li > ul > li > ul li a {
-    font-weight: 400;
-    font-size: 11pt;
+      > ul {
+        margin-left: 0;
+        > li {
+          a {
+            font-weight: 400;
+            font-size: 11pt;
+          }
+        }
+      }
+    }
   }
 }

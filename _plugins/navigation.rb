@@ -5,8 +5,8 @@ module Jekyll
     def render(context)
       current_page = page(context)
       @doc = Nokogiri::HTML(current_page.content)
-      headings = @doc.xpath("//*[self::h1 or self::h2 or self::h3 or self::h4]")
-      get_headings_and_subheadings(headings, 1).map { |heading|
+      headings = @doc.xpath("//*[self::h2 or self::h3 or self::h4]")
+      get_headings_and_subheadings(headings).map { |heading|
         render_list(heading)
       }.join.to_s
     end
@@ -34,14 +34,14 @@ module Jekyll
       }.join.to_s
     end
 
-    def get_headings_and_subheadings(headings, level)
-      headings.slice_before { |h| h.name == "h#{level}" }.map do |headings|
+    def get_headings_and_subheadings(headings, heading_level = 2)
+      headings.slice_before { |h| h.name == "h#{heading_level}" }.map do |headings|
         heading = headings.shift
         {
           text: heading.text,
           id: heading.attributes["id"].value,
           content: get_content(heading),
-          subheadings: get_headings_and_subheadings(headings, level + 1)
+          subheadings: get_headings_and_subheadings(headings, heading_level + 1)
         }
       end
     end
