@@ -81,22 +81,23 @@ structure.
 
 ## Development
 
-To make changes to the playbook theme, you must have the following installed
-on your local machine:
+### Prerequisites
 
-* Ruby >= 2.6
-* Node.js >= 12
-* Go >= 1.13
+* Ruby 2.6.6 (Defined in `.ruby-version` for use with [rbenv](https://github.com/rbenv/rbenv))
+* Node.js 12.13.0 (Defined in `.node-version` for use with [nodenv](https://github.com/nodenv/nodenvv))
+* Go 1.14 (Defined in `go-version` for use with [goenv](https://github.com/syndbg/goenv))
 
-Assuming this is sorted, you can install the dependencies:
+### Running locally
 
-```
+Install the dependencies:
+
+```bash
 script/bootstrap
 ```
 
 Then to start a local development server run:
 
-```
+```bash
 script/server
 ```
 
@@ -109,14 +110,14 @@ changes, and compiles them into the `dist` directory.
 
 To build the Javascript manually, run the following command:
 
-```
+```bash
 script/build
 ```
 
 By default, this builds in `development` mode, which makes debugging
 easier. To build production-ready (minified) JavaScript, you can run:
 
-```
+```bash
 script/build production
 ```
 
@@ -124,13 +125,13 @@ script/build production
 
 Check your changes for markdown, JavaScript and prose errors:
 
-```
+```bash
 script/test
 ```
 
 The prose linter will only show errors and warnings by default. If you want
 extra suggestions for better writing, run:
 
-```
+```bash
 npm run vale-suggestions
 ```
