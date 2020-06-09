@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+
+script/bootstrap
+npm run build:dev

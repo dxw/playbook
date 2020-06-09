@@ -85,34 +85,28 @@ To make changes to the playbook theme, you will need to install the
 dependencies:
 
 ```
-npm install
-go get github.com/errata-ai/vale
+script/bootstrap
 ```
 
 Then to start a local development server run:
 
 ```
-npm start
+script/server
 ```
 
-You can now visit [localhost:3000](http://localhost:3000) to see your local
+You can now visit [localhost:4000](http://localhost:4000) to see your local
 playbook. Theme files live in the `/build` directory
 
 ### Linting
 
-Check your changes for markdown errors:
+Check your changes for markdown, JavaScript and prose errors:
 
 ```
-npm run lint
+script/test
 ```
 
-To run the prose linter:
-
-```
-npm run vale
-```
-
-This will only show errors and warnings by default. If you want extra suggestions for better writing, run:
+The prose linter will only show errors and warnings by default. If you want
+extra suggestions for better writing, run:
 
 ```
 npm run vale-suggestions

@@ -1,0 +1,12 @@
+#!/bin/bash
+set -e
+
+echo "Installing Ruby dependencies..."
+bundle install
+
+echo "Installing JavaScript dependencies..."
+npm install
+
+echo "Installing Vale"
+go get github.com/errata-ai/vale
+

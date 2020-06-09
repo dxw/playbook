@@ -8,6 +8,7 @@
     "vale-suggestions": "~/go/bin/vale --minAlertLevel suggestion */*.md *.md ",
     "build:dev": "webpack --mode=development",
     "build": "webpack -p --mode=production",
+    "watch": "webpack --mode=development --watch",
     "js:lint": "eslint '_javascripts/src/**/*.js'",
     "js:lint:fix": "eslint '_javascripts/src/**/*.js' --fix"
   },

@@ -1,0 +1,18 @@
+#!/bin/bash
+set -e
+
+script/bootstrap
+
+ENVIRONMENT_NAME=$1
+
+if [ "$ENVIRONMENT_NAME" == "production" ]; then
+  echo "Building JavaScript in production mode"
+  npm run build
+else
+  echo "Building JavaScript in development mode"
+  npm run build:dev
+fi
+
+echo "Building Jekyll Site..."
+bundle exec jekyll build
+
