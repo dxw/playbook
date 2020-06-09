@@ -4,3 +4,6 @@
 # dependencies
 node_modules/
 npm-debug.log
+# build artefacts
+/_site
+/.jekyll-cache
