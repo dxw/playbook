@@ -36,8 +36,8 @@ isn't of general interest, so it gets its own section.
 ## Contributing to the playbook
 
 There is a guide to editing the playbook, and creating new content, in
-[contributing](contributing.md). This is also available
-on [the published playbook](https://playbook.dxw.com/#/contributing).
+[contributing](guides/contributing.md). This is also available
+on [the published playbook](https://playbook.dxw.com/guides/contributing).
 
 ## Style
 
