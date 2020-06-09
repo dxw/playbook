@@ -39,6 +39,11 @@ That support is handled by the team in two ways:
   only to critical alerts and emergency tickets. We call this **on call**, and
   it’s staffed by a developer or an ops engineer through an opt-in rota.
 
+Being able to do support effectively requires access to most of our production
+systems, so you'll be added to the support rotas once you've completed your
+vetting. You might shadow someone else on support before your vetting is
+completed.
+
 ## Being on first line support
 
 Support tickets come in from clients and users every day. These tickets could
