@@ -1,0 +1,31 @@
+name: Testing
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+    - uses: actions/setup-node@v1
+    - uses: actions/setup-go@v2
+      with:
+        go-version: 1.14.x
+    - uses: actions/setup-ruby@v1
+    - name: Cache Rubygems
+      uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+    - name: Cache Node packages
+      uses: actions/cache@v2
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
+    - name: 'Run tests'
+      run: script/cibuild
+

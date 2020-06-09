@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+
+BUNDLE_PATH=vendor/bundle script/bootstrap
+script/test
