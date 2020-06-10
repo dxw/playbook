@@ -66,8 +66,8 @@ The owners of each section are:
  - Clare Young - [The work we do > Building services](https://playbook.dxw.com/#/?id=building-services)
  - Dominic Baggott - [The work we do > Hosting and supporting services](https://playbook.dxw.com/#/?id=hosting-and-supporting-services)
  - Wendy Coello - [The work we do > Sharing our expertise](https://playbook.dxw.com/#/?id=sharing-our-expertise)
- - Poss Apostolou - [Working here]()
- - Coca Rivas - [Our professions]()
+ - Poss Apostolou - [Working here](https://playbook.dxw.com/#/?id=working-here)
+ - Coca Rivas - [Our professions](https://playbook.dxw.com/#/?id=our-professions)
 
 ### Workflow
 
@@ -76,7 +76,7 @@ For smaller corrections and updates to the Playbook, staff should consult with r
 
 For more significant additions and changes to the Playbook, the steps are:
 
- - the owner of the section and the author agree the need for update
+ - the owner of the section and the author agree the need for the update
  - the author drafts and reviews the update with appropriate colleagues
  - the author follows the [guide to contributing to the Playbook](https://playbook.dxw.com/#/contributing)
  - the owner and colleagues review and approve the changes
