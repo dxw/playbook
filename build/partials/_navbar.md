@@ -10,6 +10,7 @@
   - [Development workflow](guides/development-workflow.md)
   - [How we do pitches](guides/how-we-do-pitches.md)
   - [How we do user research](guides/how-we-do-user-research.md)
+  - [Managing the Playbook](managing.md)
   - [Office accessibility](guides/office-accessibility.md)
   - [Playbook style guide](guides/style-guide.md)
   - [Plugin advisories](guides/plugin-advisories.md)
