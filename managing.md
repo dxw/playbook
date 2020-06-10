@@ -1,0 +1,135 @@
+# Managing the Playbook
+
+This is the content strategy for dxw Playbook.
+
+It describes the purpose and users of the Playbook, the kinds of material it contains,
+how we manage and update the Playbook, and its current intended structure.
+
+## Playbook purpose and users
+
+### Agreed ways of working
+
+The primary purpose of the Playbook is to document our current, agreed ways of working.
+
+This purpose also defines the primary audience and users of the Playbook - people currently working at dxw. The Playbook should help them work together efficiently and effectively.
+Secondary audiences and users of the Playbook are people working at actual or potential clients, and people who are thinking about coming to work at dxw. The Playbook should help them understand what it might be like to work with us.
+
+We also know that people in other organisations look at the Playbook. Although we don’t create any content specifically for them, the Playbook should leave like-minded people with a good impression of us.
+
+### Staff policies
+
+The Playbook is also where we publish pay, benefits and other staff policy information.
+
+This primary audience for this information is people currently working at dxw. A secondary audience is people who are thinking about coming to work at dxw.
+
+## Playbook content
+
+We divide the Playbook into Topic overviews, Guides and Policies.
+
+### Topic overview
+
+Each section of the Playbook should have some overview material that describes important values and principles, and lists relevant guides.
+
+We write overview content so that it can be understood by anyone who is likely to look at the Playbook.
+
+### Guide
+
+A guide describes our current agreement on how we do something. Each guide should be aimed at a specific group of people and explain how to do a specific activity.
+
+We write guides to meet the needs of their specific audience and users. While guides should be clear and simple, they can use subject specific language that we are confident is understood by the intended audience and users.
+
+### Policy
+
+A policy describes an official company policy and any associated procedures.
+
+We write policies so that they can be easily found, understood and acted on by all the staff who need to follow them.
+
+## Playbook governance and workflow
+
+### Ownership
+
+The Playbook as a whole is the responsibility of [a person or team?].
+
+They own this content strategy. And have the overall responsibility to make sure that Playbook content is findable, readable, understandable and actionable.
+
+Each section of the Playbook has an identified owner, most likely the director of the relevant part of the business, or the head of the relevant profession.
+
+The owner is responsible for making sure that a section of the Playbook:
+
+ - continues to reflect our current ways of working and policies
+ - is findable, readable, understandable and actionable by its intended audience and users
+
+The owners of each section are:
+
+ - David Mann - [Who we are](https://playbook.dxw.com/#/?id=who-we-are)
+ - Adam Maddison - [The work we do > Sales](https://playbook.dxw.com/#/?id=sales)
+ - Clare Young - [The work we do > Building services](https://playbook.dxw.com/#/?id=building-services)
+ - Dominic Baggott - [The work we do > Hosting and supporting services](https://playbook.dxw.com/#/?id=hosting-and-supporting-services)
+ - Wendy Coello - [The work we do > Sharing our expertise](https://playbook.dxw.com/#/?id=sharing-our-expertise)
+ - Poss Apostolou - [Working here]()
+ - Coca Rivas - [Our professions]()
+
+### Workflow
+
+For smaller corrections and updates to the Playbook, staff should consult with relevant colleagues and follow the
+[guide to contributing to the Playbook](https://playbook.dxw.com/#/contributing).
+
+For more significant additions and changes to the Playbook, the steps are:
+
+ - the owner of the section and the author agree the need for update
+ - the author drafts and reviews the update with appropriate colleagues
+ - the author follows the [guide to contributing to the Playbook](https://playbook.dxw.com/#/contributing)
+ - the owner and colleagues review and approve the changes
+
+### Regular review
+
+The owner of each section of the Playbook should lead a review of the sections they own at least every quarter.
+
+To help facilitate regular review, we should aim for Playbook content to include last updated and last reviewed dates.
+
+## Playbook style
+
+The Playbook should follow the [dxw Brand Toolkit](https://v-df7640e636dddb2c9710.brand.madebyfieldwork.com/).
+
+## Playbook structure
+
+This is the current intended structure of the Playbook.
+
+ - Who we are
+   - Why we’re here (dxw’s mission)
+   - Our values
+   - Our principles
+   - Our advisory board
+   - Our brand - style, tone, templates and assets
+   - This Playbook - purpose, content strategy, guide to editing
+ - The work we do
+   - Working with our clients
+     - Client experience and relationships, finding opportunities, bidding and pitching, setting up projects, project communications, support 
+   - Building services
+     - Phases, kick offs, sprints, stories, show and tells, ... 
+   - Hosting and supporting services
+     - GovPress and other products and services
+     - Tickets, helpdesk, plugins
+   - Sharing our expertise
+     - Writing articles, blog posts, …
+     - Running dxw events, Attending and presenting at events
+ - Working here
+   - Managing your day to day work
+     - Managing and recording time
+     - Using devices, data, tools, requesting equipment
+     - Our offices, client offices, home, travel, accommodation
+     - Using payment cards, claiming expenses
+   - Your pay, pension and other benefits
+     - Pay, pension, holiday, sickness, parental leave
+     - Part time and flexible working
+     - Grievances, disciplinary
+   - Supporting your development and wellbeing
+     - Support structures
+     - Learning and development budget, books and library, cycle to work, eyecare vouchers, childcare vouchers
+   - Hiring new people
+     - How we hire, guidance for hiring staff, question sets, work day simulation exercises
+     - Programmes like returners
+     - Guidance for candidates
+ - Our professions
+   - Principles, practices and specific guidance for each profession
+   - Leadership, Strategy, Delivery management, Product management, User research, Design, Development, Commercial operations, Sales and marketing
