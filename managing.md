@@ -48,16 +48,12 @@ We write policies so that they can be easily found, understood and acted on by a
 
 ### Ownership
 
-The Playbook as a whole is the responsibility of [a person or team?].
+Each section of the Playbook has an identified owner, typically either the director of the relevant part of the business, or the head of the relevant profession.
 
-They own this content strategy. And have the overall responsibility to make sure that Playbook content is findable, readable, understandable and actionable.
+The owner is responsible for making sure that their parts of the Playbook:
 
-Each section of the Playbook has an identified owner, most likely the director of the relevant part of the business, or the head of the relevant profession.
-
-The owner is responsible for making sure that a section of the Playbook:
-
- - continues to reflect our current ways of working and policies
- - is findable, readable, understandable and actionable by its intended audience and users
+ - continue to reflect our current ways of working and policies
+ - are findable, readable, understandable and actionable by its intended audience and users
 
 The owners of each section are:
 
@@ -81,11 +77,15 @@ For more significant additions and changes to the Playbook, the steps are:
  - the author follows the [guide to contributing to the Playbook](https://playbook.dxw.com/#/contributing)
  - the owner and colleagues review and approve the changes
 
-### Regular review
+### Review
 
 The owner of each section of the Playbook should lead a review of the sections they own at least every quarter.
 
 To help facilitate regular review, we should aim for Playbook content to include last updated and last reviewed dates.
+
+### Coordination
+
+We use the [#dxw-playbook](https://dxw.slack.com/archives/CK5HUK6SE) Slack channel to colaborate on the Playbook.
 
 ## Playbook style
 
