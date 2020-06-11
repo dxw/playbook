@@ -1,4 +1,4 @@
-# Tone of voice guidelines
+# Tone of voice
 
 This is an overview of how we write and should apply to all the writing we do in dxw. It’s an important part of how we present ourselves to the outside world, alongside our new dxw brand. You can find the brand guidelines and all the assets you need in our brand toolkit in the `#dxw-brand` Slack channel.
 
@@ -54,7 +54,7 @@ Your writing will be more readable if you use active sentences rather than passi
 
 For example, “a decision was made to change the name of the service” is passive. “We decided to change the name of the service” is active and also uses fewer words. 
 
- A good way to check if you’ve used passive language is to add  “by monkeys” to the end of the sentence. It won’t make sense if the sentence is active. We’ve borrowed this from [Monzo’s tone of voice guidance](https://monzo.com/tone-of-voice/). 
+A good way to check if you’ve used passive language is to add  “by monkeys” to the end of the sentence. It won’t make sense if the sentence is active. We’ve borrowed this from [Monzo’s tone of voice guidance](https://monzo.com/tone-of-voice/). 
 
 ## The shorter the better
 
@@ -71,6 +71,28 @@ For example: "a little used-car" is different from "a little-used car" so using 
 A couple more words to avoid:
 * platform (unless it’s a train platform)
 * portal (unless it’s to another dimension)
+
+## Specific names and technical terms
+
+We use these names and technical terms quite a lot. So be sure to get them right.
+
+**Digital Marketplace**: the government procurement website should be capitalised as it is a proper noun to distinguish it from other digital marketplaces (like eBay).
+
+**dxw**: in client-facing and public-facing documents, dxw should be lowercase.
+
+**G-Cloud**: never 'G-cloud' or 'g-cloud' or 'G Cloud' or 'GCloud'.
+
+**GovPress**: not 'Govpress' or 'Gov Press'
+
+**multisite**: if referring to the feature directly, "Multisite" should be capitalised. If referring to a multisite WordPress setup, "multisite". Never "multi site" or "multi-site".
+
+**open source**: always lower case.
+
+**plugin**: not 'plug in' or 'plug-in'.
+
+**Rails**: for the Ruby framework, always upcase. Lower case is fine for the things trains run on.
+
+**WordPress**: not 'Word Press', 'Wordpress' or 'WP'.
 
 Happy writing! And remember that the comms and marketing team are here to help you.
 
