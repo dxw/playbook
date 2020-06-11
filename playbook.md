@@ -166,9 +166,9 @@ This Playbook is our reference for who we are and the way we do things. Somethin
 
 If you’re a current or potential client, this Playbook is also for you. To help you understand us and how we can work together.
 
-We continually update the principles and guides in our Playbook. Because we’re always exploring better ways
-to get things done. What’s written here is the way we do things now. Until we find something better, and
-write that down.
+We [continually update](https://playbook.dxw.com/#/guides/managing) the principles and guides in our Playbook.
+Because we’re always exploring better ways to get things done. What’s written here is the way we do things now.
+Until we find something better, and write that down. 
 
 This Playbook was originally inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
 
@@ -182,7 +182,7 @@ one. So don’t make changes unless they reflect our shared agreement about how 
 This document is also public, because there is very little about our process that cannot be open. But there will be
 some things that should be private. So don't forget that changes here get published to the world.
 
-To update the Playbook, follow the [guide to Contributing to the Playbook](https://playbook.dxw.com/#/contributing) and use [dxw tone of voice](https://playbook.dxw.com/#/guides/tone-of-voice).
+To update the Playbook, follow the [guide to Contributing to the Playbook](https://playbook.dxw.com/#/contributing) and use [dxw Tone of voice](https://playbook.dxw.com/#/guides/tone-of-voice).
 
 ## The work we do
 
