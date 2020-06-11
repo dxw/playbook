@@ -85,11 +85,11 @@ To help facilitate regular review, we should aim for Playbook content to include
 
 ### Coordination
 
-We use the [#dxw-playbook](https://dxw.slack.com/archives/CK5HUK6SE) Slack channel to colaborate on the Playbook.
+We use the [#dxw-playbook](https://dxw.slack.com/archives/CK5HUK6SE) Slack channel to collaborate on the Playbook.
 
 ## Playbook style
 
-The Playbook should follow the [dxw Brand Toolkit](https://v-df7640e636dddb2c9710.brand.madebyfieldwork.com/).
+The Playbook should follow the dxw [Brand Toolkit](https://v-df7640e636dddb2c9710.brand.madebyfieldwork.com/) and use the dxw [Tone of voice](https://playbook.dxw.com/#/guides/tone-of-voice).
 
 ## Playbook structure
 
@@ -111,16 +111,16 @@ This section covers things like managing and recording time, getting and paying 
 
 #### Your pay, pension and other benefits
 
-This sections covers formal benefits like pay, pension and leave. It covers part time and flexible working. And also grievances and disciplinary procedures.
+This section covers formal benefits like pay, pension and leave. It covers part time and flexible working. And also grievances and disciplinary procedures.
 
 #### Supporting your development and wellbeing
 
-This sections covers support structures, learning and development and wellbeing benefits.
+This section covers support structures, learning and development and wellbeing benefits.
 
 #### Hiring new people
 
-This sections covers how we hire people and programmes like returners.
+This section covers how we hire people and programmes like returners.
 
 ### Our professions
 
-This section contains principles, practices and specific guidance for each profession.
+This section contains principles, practices and specific guidance for each of our professions.
