@@ -49,7 +49,7 @@ In addition:
 
 ## Development
 
-To make changes to the playbook theme, you will need to install the
+To make changes to the Playbook theme, you will need to install the
 dependencies:
 
 ```
