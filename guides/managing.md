@@ -95,41 +95,32 @@ The Playbook should follow the [dxw Brand Toolkit](https://v-df7640e636dddb2c971
 
 This is the current intended structure of the Playbook.
 
- - Who we are
-   - Why we’re here (dxw’s mission)
-   - Our values
-   - Our principles
-   - Our advisory board
-   - Our brand - style, tone, templates and assets
-   - This Playbook - purpose, content strategy, guide to editing
- - The work we do
-   - Working with our clients
-     - Client experience and relationships, finding opportunities, bidding and pitching, setting up projects, project communications, support 
-   - Building services
-     - Phases, kick offs, sprints, stories, show and tells, ... 
-   - Hosting and supporting services
-     - GovPress and other products and services
-     - Tickets, helpdesk, plugins
-   - Sharing our expertise
-     - Writing articles, blog posts, …
-     - Running dxw events, Attending and presenting at events
- - Working here
-   - Managing your day to day work
-     - Managing and recording time
-     - Using devices, data, tools, requesting equipment
-     - Our offices, client offices, home, travel, accommodation
-     - Using payment cards, claiming expenses
-   - Your pay, pension and other benefits
-     - Pay, pension, holiday, sickness, parental leave
-     - Part time and flexible working
-     - Grievances, disciplinary
-   - Supporting your development and wellbeing
-     - Support structures
-     - Learning and development budget, books and library, cycle to work, eyecare vouchers, childcare vouchers
-   - Hiring new people
-     - How we hire, guidance for hiring staff, question sets, work day simulation exercises
-     - Programmes like returners
-     - Guidance for candidates
- - Our professions
-   - Principles, practices and specific guidance for each profession
-   - Leadership, Strategy, Delivery management, Product management, User research, Design, Development, Commercial operations, Sales and marketing
+### Who we are
+
+This section provides in introduction to dxw and the Playbook. It sets out our mission, values and principles. It covers aspects of our governance. It describes our brand and shows where to find brand materials. And it covers the Playbook itself.
+
+### The work we do
+
+This section covers the different kinds of work we do for our clients. From how we find and sell that work, and how we carry it out, to how we share and promote our expertise and experience.
+
+### Working here
+
+#### Managing your day to day work
+
+This section covers things like managing and recording time, getting and paying for things, using devices, data and tools, and working locations, travel and accommodation.
+
+#### Your pay, pension and other benefits
+
+This sections covers formal benefits like pay, pension and leave. It covers part time and flexible working. And also grievances and disciplinary procedures.
+
+#### Supporting your development and wellbeing
+
+This sections covers support structures, learning and development and wellbeing benefits.
+
+#### Hiring new people
+
+This sections covers how we hire people and programmes like returners.
+
+### Our professions
+
+This section contains principles, practices and specific guidance for each profession.
