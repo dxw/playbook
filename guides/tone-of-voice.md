@@ -1,6 +1,6 @@
 # Tone of voice
 
-This is an overview of how we write and should apply to all the writing we do in dxw. It’s an important part of how we present ourselves to the outside world, alongside our new dxw brand. You can find the brand guidelines and all the assets you need in our brand toolkit in the `#dxw-brand` Slack channel.
+This is an overview of how we write and should apply to all the writing we do in dxw. It’s an important part of how we present ourselves to the outside world, alongside our new dxw brand. You can find the brand guidelines and all the assets you need in our brand toolkit in the [#dxw-brand](https://dxw.slack.com/archives/C013ZEQ8XEW) Slack channel.
 
 Our tone of voice is important because it will have a big influence on how someone reading our content will feel.  This isn’t a set of rules as good writing shouldn’t feel like a tick-box exercise. 
 
