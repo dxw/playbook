@@ -1,0 +1,71 @@
+name: Test
+
+on:
+  - pull_request
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+      - name: Set language versions
+        run: |
+          echo "::set-env name=GO_VERSION::$(cat .go-version)"
+          echo "::set-env name=NODE_VERSION::$(cat .node-version)"
+          echo "::set-env name=RUBY_VERSION::$(cat .ruby-version)"
+
+      - uses: actions/setup-go@v2
+        with:
+          go-version: ${{ env.GO_VERSION }}
+
+      - uses: actions/setup-node@v1
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: ${{ env.RUBY_VERSION }}
+
+      - name: Install ShellCheck
+        run: |
+          sudo apt-get install -y shellcheck
+
+      - name: Set up Bundler
+        run: |
+          gem install bundler
+          bundle config path vendor/bundle
+
+      - name: Cache Ruby dependencies
+        uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - name: Cache Node dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Run cibuild
+        id: cibuild
+        run: |
+          script/cibuild
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        if:
+          failure() && github.event_name == 'pull_request' &&
+          steps.cibuild.outcome == 'failure'
+        with:
+          commit_message: Apply automatic fixes
+          commit_user_name: GitHub Actions
+          commit_user_email: actions@github.com
+          commit_author: GitHub Actions <actions@github.com>

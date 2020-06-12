@@ -10,7 +10,30 @@ cd "$(dirname "$0")/.."
 [ -z "$DEBUG" ] || set -x
 
 echo "==> Linting..."
-npm run lint
+if [ -n "$CI" ]; then
+  set +e
+
+  npm run format
+  FORMAT_SUCCESS=$?
+
+  npm run lint:js:fix
+  JS_SUCCESS=$?
+
+  npm run lint:ruby:fix
+  RUBY_SUCCESS=$?
+
+  npm run lint:shell
+  SHELL_SUCCESS=$?
+
+  set -e
+
+  [ $FORMAT_SUCCESS = "0" ]
+  [ $JS_SUCCESS = "0" ]
+  [ $RUBY_SUCCESS = "0" ]
+  [ $SHELL_SUCCESS = "0" ]
+else
+  npm run lint
+fi
 
 echo "==> Testing..."
 npm test
