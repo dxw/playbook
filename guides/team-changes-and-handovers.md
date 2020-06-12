@@ -84,7 +84,8 @@ you’re moving on to a new project:
 - Meet with the delivery lead
 - Know what roles and responsibilities you’ll be taking on
 - Get added to the regular ceremonies:
-  - Standup – Sprint planning meetings
+  - Standup
+  - Sprint planning meetings
   - Retrospectives
   - Show and tells
 - Get added to relevant Slack channels
@@ -98,9 +99,8 @@ you’re moving on to a new project:
 
 ## When a member of your sprint team is on support
 
-We’ve
-[changed the way we handle support](http://playbook.dxw.com/#/guides/support-and-on-call),
-to ensure that there’s always a developer dedicated to support, and that the
+We’ve [changed the way we handle support](/guides/support-and-on-call), to
+ensure that there’s always a developer dedicated to support, and that the
 responsibility cycles round everyone on the development team at dxw.
 
 This has implications for project sprints and client work, which delivery leads

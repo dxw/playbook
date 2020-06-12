@@ -1,4 +1,6 @@
-# Card sorting
+---
+title: Card sorting
+---
 
 **Things you'll need:** Index cards, post-it notes, pens, a large table, 3-5
 participants, an observer/note taker, a smartphone for pictures.
@@ -32,22 +34,31 @@ of the existing ones.
 
 ## Instructions
 
-1. Prepare category cards for each participant. \*Write categories on cards for
-   a closed sort. You might have identified these through a
-   quantitative/automated sorting, through discussion/design sprint or in
-   previous card sort sessions.
+1. Prepare category cards for each participant
+
+   - Write categories on cards for a closed sort. You might have identified
+     these through a quantitative/automated sorting, through discussion/design
+     sprint or in previous card sort sessions.
+
 1. Prepare some content cards for each category (a set for each participant)
+
 1. Ask participants to group the cards in the way that makes sense to them and
-   give the groups names. *For a closed sort participants move content cards
-   into categories you’ve prepared. *A variation of ‘other pile’ and allowing
-   participants to amend and create new categories are often useful particularly
-   in the first round of sorting
-1. Discuss why they grouped the cards the way they did. \*This part is where the
-   notetaker/observer must really listen for comments, reasoning and questions.
-   Equally, the notetaker should take notes of comments and questions that arise
-   as poeple work on the groupings.
+   give the groups names
+
+   - For a closed sort participants move content cards into categories you’ve
+     prepared
+   - A variation of ‘other pile’ and allowing participants to amend and create
+     new categories are often useful particularly in the first round of sorting
+
+1. Discuss why they grouped the cards the way they did
+
+   - This part is where the notetaker/observer must really listen for comments,
+     reasoning and questions. Equally, the notetaker should take notes of
+     comments and questions that arise as poeple work on the groupings.
+
 1. If there too many categories and time allows, you can try to get participants
    to reach a consensus
+
 1. Repeat
 
 ## Things to remember

@@ -4,7 +4,7 @@ title: Claiming expenses
 
 This guide gives details on the information you need to provide to claim an
 expense. For more general information about expenses, visit the
-[Expenses section of the Playbook](https://playbook.dxw.com/#expenses).
+[Expenses section of the Playbook](/#expenses).
 
 We create expenses using Xero. There is an Expenses section on the page after
 you log in where you can see details of your expenses. If you're expensing
@@ -21,7 +21,7 @@ Each receipt requires the following details:
 - **Date**: The date on the receipt (ie, the date the expense was incurred, not
   the date you're adding it)
 - **Reference**: The invoice or receipt number, or some other unique identifier
-- **Total\_**: Leave this as 0.00: Xero will calculate it for you.
+- **Total**: Leave this as 0.00: Xero will calculate it for you.
 - **Copy of receipt**:: Just above the Total field, you should see a small file
   icon. Use this to upload a photograph or scan of your receipt. If you upload a
   photograph, make sure it's legible.

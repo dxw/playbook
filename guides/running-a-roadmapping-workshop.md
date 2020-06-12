@@ -13,7 +13,7 @@ Our roadmapping workshops are developed from the
 described by Jamie Arnold.
 
 For a discovery, we run a
-[discovery kick-off workshop](http://playbook.dxw.com/#/guides/running-a-discovery-kick-off-workshop).
+[discovery kick-off workshop](/guides/running-a-discovery-kick-off-workshop).
 
 ## Why we have a roadmap
 

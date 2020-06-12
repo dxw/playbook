@@ -2,10 +2,10 @@
 title: Team and project scheduling
 ---
 
-**_If anything in this guide is unclear, put a message in the #scheduling slack
+**If anything in this guide is unclear, put a message in the #scheduling slack
 channel - most people in this channel have a good level of knowledge of 10kft
 and should be able to offer clarification. We can then make an update to this
-guide._**
+guide.**
 
 This guide can be used to find out what 10kft is for, as well as called upon
 when we’re not sure how to do something, as a team member, scheduler or
@@ -75,8 +75,8 @@ The **sales lead** should:
   Including the nature of work, proposed team shape and start dates, along with
   any scheduling challenges
 - add tentative placeholders to 10kft (go to the
-  [adding a placeholder](http://playbook.dxw.com/#/guides/team-and-project-scheduling?id=adding-a-placeholder)
-  section of this guide for details on how to do this)
+  [adding a placeholder](#adding-a-placeholder) section of this guide for
+  details on how to do this)
 - leave notes in the #scheduling channel with the latest information
 
 Once a sales opportunity is realised, this is handed over to a “project lead”,
@@ -91,11 +91,9 @@ The **project lead** should:
 ### Reporting our time
 
 Every team member working on a client or named project is responsible for
-reporting their time, as mentioned
-[in the Playbook](http://playbook.dxw.com/#/?id=reporting-our-time). More on how
-to do this in the
-[reporting time](http://playbook.dxw.com/#/guides/team-and-project-scheduling?id=reporting-time)
-section of this guide.
+reporting their time, as mentioned [in the Playbook](/#reporting-your-time).
+More on how to do this in the [reporting time](#reporting-time) section of this
+guide.
 
 ### Reporting against the business plan
 
@@ -118,8 +116,8 @@ Some reasons why this is helpful for us as a business are:
 
 A project will need to exist in order to assign a placeholder for it. If a
 project hasn’t been added yet, go to the
-[adding a project](http://playbook.dxw.com/#/guides/team-and-project-scheduling?id=adding-a-new-project)
-section of this guide. Return here once the project has been added.
+[adding a project](#adding-a-new-project) section of this guide. Return here
+once the project has been added.
 
 To assign a placeholder, go to the schedule view of 10kft, via the navigation
 bar. The schedule will need to be filtered under ‘Everyone’.
@@ -156,8 +154,8 @@ scheduled.
 
 Every team member working on a client or named internal project is responsible
 for reporting their time. For guidance on this, visit the
-[reporting our time](http://playbook.dxw.com/#/?id=reporting-our-time) section
-of the Playbook. For how to do this, see the step by step below.
+[reporting our time](/#reporting-your-time) section of the Playbook. For how to
+do this, see the step by step below.
 
 ### Step by Step
 
@@ -196,8 +194,7 @@ like when reporting and confirming our own time on client work. Only Admins of
 
 To report a contractor’s time, search their name in 10kft. If there’s a
 contractor working on a team, but are not yet represented in 10kft, go to the
-[setting up an account](http://playbook.dxw.com/#/guides/team-and-project-scheduling?id=setting-up-an-account)
-section of this guide.
+[setting up an account](#setting-up-an-account) section of this guide.
 
 ### Adding a new team member
 
@@ -216,8 +213,8 @@ as target utilisation, which varies per team member.
 
 Setting up access to 10kft is part of our onboarding procedure. New team members
 are set up by the Commercial Operations team. Contractors are typically added -
-**_with restricted access_** - by the Commercial Operations team, at the point
-of a new work outline being signed.
+**with restricted access** - by the Commercial Operations team, at the point of
+a new work outline being signed.
 
 #### If you think you need an account but don’t have one
 
@@ -372,10 +369,10 @@ Friday, which they then confirm.
 
 Most team members at dxw work a 5 day / 35 hour week.
 
-dxw provides [flexible working](http://playbook.dxw.com/#/?id=flexible-working).
-This means that not everyone works the same hours week on week. Team members
-working patterns need to be applied during their account set up, so that it
-accurately represents availability to work on billed projects.
+dxw provides [flexible working](/#flexible-working). This means that not
+everyone works the same hours week on week. Team members working patterns need
+to be applied during their account set up, so that it accurately represents
+availability to work on billed projects.
 
 More information can be found about an individual team members working patterns,
 by speaking with their line manager. This can be via the #hr-non-confidential
@@ -400,8 +397,8 @@ Typically, this will need to be set by adding 7 into the boxes across Monday -
 Thursday and putting a zero in the box for Friday. This reflects the seven hour
 day a team member works on a project.
 
-**_Although dxw bill clients in days, we track time in 10kft on an hourly basis,
-due to the way 10kft is set up._**
+**Although dxw bill clients in days, we track time in 10kft on an hourly basis,
+due to the way 10kft is set up.**
 
 It’s important to set this correctly, as it displays a team member's
 availability to take on new work in the schedule view of 10kft.
@@ -440,8 +437,8 @@ If the team member is an employee that doesn’t sit within the three business
 functions (delivery, strategy and technical operations), assign the tags
 ‘unbillable’ and ‘permanent’.
 
-**_After the above sections are updated, click ‘Add’, which completes the
-account set up._**
+**After the above sections are updated, click ‘Add’, which completes the account
+set up.**
 
 ### Adding a new project
 
