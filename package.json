@@ -1,15 +1,6 @@
 {
   "name": "dxw-playbook",
-  "version": "1.0.0",
-  "description": "dxw Playbook",
-  "scripts": {
-    "start": "docsify serve .",
-    "lint": "remark .",
-    "vale": "~/go/bin/vale */*.md *.md",
-    "vale-suggestions": "~/go/bin/vale --minAlertLevel suggestion */*.md *.md",
-    "format": "prettier --check '**/*'",
-    "format:fix": "prettier --write '*/**'"
-  },
+  "private": true,
   "dependencies": {
     "docsify": "^4.5.5",
     "docsify-cli": "^4.1.12",
@@ -19,5 +10,15 @@
     "remark-cli": "^8.0.0",
     "remark-lint": "^7.0.0",
     "remark-preset-lint-markdown-style-guide": "^3.0.0"
+  },
+  "scripts": {
+    "start": "docsify serve .",
+    "lint": "npm run lint:prose && npm run format && npm run lint:shell",
+    "lint:fix": "npm run lint:prose && npm run format:fix && npm run lint:shell",
+    "lint:prose": "goenv exec vale .",
+    "lint:prose:suggestions": "npm run lint:prose -- --minAlertLevel suggestion",
+    "lint:shell": "shellcheck script/*",
+    "format": "prettier --check '**/*'",
+    "format:fix": "prettier --write '**/*'"
   }
 }
