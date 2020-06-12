@@ -8,8 +8,7 @@ through a step-by-step of how to set up a new repo on Github and what to do with
 the deployment repo on GovPress.
 
 For more information on deploying using the new repository setup, see the
-[deploying
-guide](https://github.com/dxw/playbook/blob/master/guides/deploying.md).
+[deploying guide](https://github.com/dxw/playbook/blob/master/guides/deploying.md).
 
 ## Create the new repo
 
@@ -71,8 +70,8 @@ git push origin --delete production testing
 
 1. Settings > Branches > Choose a branch > “master” > Protect this branch > Save
    changes
-1. Settings > Collaborators & teams > Add a team > WordPress devs > and
-   set permission level to write too
+1. Settings > Collaborators & teams > Add a team > WordPress devs > and set
+   permission level to write too
 
 ## Don’t forget
 

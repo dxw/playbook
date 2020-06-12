@@ -2,4 +2,4 @@ defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
-      title: dxw's playbook
+      title: dxw's Playbook

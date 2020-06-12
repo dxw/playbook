@@ -1,0 +1,15 @@
+/*
+!/*/
+!/*.json
+/*.lock.json
+!/*.md
+!/*.yml
+!/.github
+!/.prettierrc
+/_site/**/*
+/.jekyll-cache/**/*
+/script/**/*
+/vendor/**/*
+*.png
+*.svg
+*.ico

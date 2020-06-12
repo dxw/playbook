@@ -62,9 +62,10 @@ the okay from the author. This will hopefully allow us to:
 
 #### Do the smallest amount of good work
 
-We aspire to regularly ship [good code](https://robots.thoughtbot.com/what-is-good-code)
-and deliver it to the users as often as possible. Doing so efficiently requires
-a balanced approach to development.
+We aspire to regularly ship
+[good code](https://robots.thoughtbot.com/what-is-good-code) and deliver it to
+the users as often as possible. Doing so efficiently requires a balanced
+approach to development.
 
 Good signs:
 
@@ -92,8 +93,8 @@ Bad signs:
 
 ## The lifecycle of a story
 
-Different projects have small variations to this process, but here are some general
-guidelines.
+Different projects have small variations to this process, but here are some
+general guidelines.
 
 ### Start work on a new story
 
@@ -119,14 +120,16 @@ guidelines.
 
 1. create a [pull request](#pull-requests) into the `develop` branch
 1. link the Trello card to the new pull request, linking directly or by using
-   the Trello [power up](https://help.trello.com/article/1021-integrating-trello-with-zendesk)
+   the Trello
+   [power up](https://help.trello.com/article/1021-integrating-trello-with-zendesk)
 1. move the Trello card into the 'Awaiting review column'
 
 ### Reviewing another developer's pull request
 
 - move the Trello card into the 'Under code review' column
 - find and read the Trello card's acceptance criteria
-- find and read through the pull request, carrying out a [code review](#code-review)
+- find and read through the pull request, carrying out a
+  [code review](#code-review)
   - if it is ready:
     - press the merge button
     - delete the leftover branch
@@ -139,11 +142,12 @@ guidelines.
 
 ## Working on a support ticket
 
-Support tickets can fall into two types of work flow depending on their severity.
+Support tickets can fall into two types of work flow depending on their
+severity.
 
-Most commonly tickets will simply fall into the same [story
-process](#the-lifecycle-of-a-story), where fixes will go through `develop` and
-Staging for review and acceptance.
+Most commonly tickets will simply fall into the same
+[story process](#the-lifecycle-of-a-story), where fixes will go through
+`develop` and Staging for review and acceptance.
 
 They can however be sometimes when there's an emergency which requires a change
 to production ASAP. This is when we reach for a [hotfix](#hotfix).
@@ -158,8 +162,8 @@ We think of hotfixes in the same way as
 
 and also
 
-> A hotfix is a change deemed critical enough that it cannot be held off until
-> a regular content patch.
+> A hotfix is a change deemed critical enough that it cannot be held off until a
+> regular content patch.
 
 An emergency for instance would be when:
 
@@ -207,18 +211,18 @@ This is the only time a branch should be based off of `master` instead of
 
 ## Deploying
 
-Our approach is one of [continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery)
-meaning we build, test and deploy as frequently as possible.
+Our approach is one of
+[continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery) meaning
+we build, test and deploy as frequently as possible.
 
-We do this by using services such as Chef, TravisCI or GitHub Actions which
-are configured to listen for Git pushes and then initiate the correct
-deployment.
+We do this by using services such as Chef, TravisCI or GitHub Actions which are
+configured to listen for Git pushes and then initiate the correct deployment.
 
 ### Staging
 
-Staging deployments are automatic and should be initiated when each pull
-request is merged. When you click merge the changes are immediately deployed to
-the Staging environment.
+Staging deployments are automatic and should be initiated when each pull request
+is merged. When you click merge the changes are immediately deployed to the
+Staging environment.
 
 Remember to move the card(s) along on Trello.
 
@@ -244,7 +248,8 @@ To deploy:
    ```
 
 1. verify the deployment has been successful
-1. tag the merge commit with the version matching the [changelog](#tracking-changes)
+1. tag the merge commit with the version matching the
+   [changelog](#tracking-changes)
 1. update Trello with all the cards that have now been deployed
 
 ---
@@ -276,7 +281,7 @@ Having a convention allows for:
   interpret a commit's title
 - encourages small and concise commits which keeps the focus on the type of
   change being made. If you are adding a new feature and fix something along the
-  way, that *should* be 2 commits instead of 1
+  way, that _should_ be 2 commits instead of 1
 
 #### Convention
 
@@ -286,20 +291,18 @@ Having a convention allows for:
 
 - Fix
 
-  A branch that corrects a problem in a feature already merged into
-  `develop`
+  A branch that corrects a problem in a feature already merged into `develop`
 
 - Chore
 
-  Chore branches are used for routine tasks for maintaining the
-  application like package upgrades, they don't provide a new feature or fix an
-  existing one
+  Chore branches are used for routine tasks for maintaining the application like
+  package upgrades, they don't provide a new feature or fix an existing one
 
 - Hotfix
 
-  A branch that adds an urgent fix to a problem that affects
-  production. These branches are based on `master` and do not go via `develop`,
-  so must be also be merged into `develop` when deployed
+  A branch that adds an urgent fix to a problem that affects production. These
+  branches are based on `master` and do not go via `develop`, so must be also be
+  merged into `develop` when deployed
 
 ```
 feature/{STORY ID}-{CONCISE TITLE}
@@ -319,9 +322,9 @@ hotfix/253947623-remove-breaking-change-to-repair-creation
 
 ### Update your branch with the latest changes on `develop` (rebasing)
 
-When working in a team, other pull requests will often get merged in before yours
-is finished. It's important to make sure you're developing against the latest
-version of the code base as much as possible.
+When working in a team, other pull requests will often get merged in before
+yours is finished. It's important to make sure you're developing against the
+latest version of the code base as much as possible.
 
 You can do this by rebasing your work on top of the `develop` branch.
 
@@ -400,24 +403,25 @@ Upgrade widget to v1.2.1
 
 We believe that code reviews are important. They help us to learn from each
 other, to maintain consistency in the code we write, and to ensure we push
-well-reasoned and bug-free code to Production. When performing a code review,
-we make sure that:
+well-reasoned and bug-free code to Production. When performing a code review, we
+make sure that:
 
 - we cannot see any code that could give rise to a security vulnerability
 - the story has been implemented clearly and maintainably
 - the code contains well-written commits that help us to understand the changes
 - the code follows code style guides
-- the [changelog](#tracking-changes) has been updated is the change was significant
+- the [changelog](#tracking-changes) has been updated is the change was
+  significant
 
 It is not important that a story be implemented exactly how you would have done
 it. Only that it meets the criteria above. When we find problems, we give
 feedback to the developer who implemented the story, not fix things ourselves
 inline with our principle of ['Own your code'](#own-your-code).
 
-It’s also important that code reviews have a constructive, amicable tone.
-To this end, we bear in mind the [Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
-code review guide, which contains good rules for keeping things positive
-and useful.
+It’s also important that code reviews have a constructive, amicable tone. To
+this end, we bear in mind the
+[Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review) code
+review guide, which contains good rules for keeping things positive and useful.
 
 ---
 
@@ -436,18 +440,21 @@ investment of time. It's important that a consistent style is adopted, but
 mostly unimportant which specific style it is. So rather than having our own, we
 have chosen the following existing style guides for our work:
 
-- PHP - [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
-- Ruby - [Ruby community style guide](https://github.com/bbatsov/ruby-style-guide)
-- Sass - [Sass Guidelines - Syntax and formatting](https://sass-guidelin.es/#syntax--formatting)
+- PHP -
+  [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+- Ruby -
+  [Ruby community style guide](https://github.com/bbatsov/ruby-style-guide)
+- Sass -
+  [Sass Guidelines - Syntax and formatting](https://sass-guidelin.es/#syntax--formatting)
 - JavaScript - [Standard](https://standardjs.com/)
 
 ---
 
 ## Pull requests
 
-When we have finished a piece of work on a branch, we [make a pull
-request](https://help.github.com/articles/using-pull-requests/) using the
-project's GitHub/GitLab page.
+When we have finished a piece of work on a branch, we
+[make a pull request](https://help.github.com/articles/using-pull-requests/)
+using the project's GitHub/GitLab page.
 
 We prefix pull request titles with the Story ID to make it easy to find the
 story and the acceptance criteria that should be met.
@@ -479,16 +486,24 @@ A new registration form and fix a bug with contacts
 
 ## Versioning releases
 
-We don't use explicit versioning for application code; rather we operate a continuous deployment approach as described in the [deploying](#deploying) section.
+We don't use explicit versioning for application code; rather we operate a
+continuous deployment approach as described in the [deploying](#deploying)
+section.
 
-However, when building libraries, APIs, or other software components designed for reuse, versioning is important. All reusable components should have properly versioned releases. This includes Wordpress plugins and themes, Ruby gems, and so on, whether open source or otherwise.
+However, when building libraries, APIs, or other software components designed
+for reuse, versioning is important. All reusable components should have properly
+versioned releases. This includes Wordpress plugins and themes, Ruby gems, and
+so on, whether open source or otherwise.
 
-Versioning should follow the [Semantic Versioning](https://semver.org) standard, and projects that use them should specify their requirements so that the appropriate versions are used.
+Versioning should follow the [Semantic Versioning](https://semver.org) standard,
+and projects that use them should specify their requirements so that the
+appropriate versions are used.
 
 Releases should be created by:
 
 - updating the version appropriately in package metadata and committing to git
-- updating the [changelog](#tracking-changes) to draw a line under changes and attribute them to a version
+- updating the [changelog](#tracking-changes) to draw a line under changes and
+  attribute them to a version
 - tagging that commit using a tag of the form `vX.Y.Z`
 - building the appropriate release package from that tag
 
@@ -497,8 +512,9 @@ Releases should be created by:
 ## Tracking changes
 
 If a project is not continuously released, and has staged releases, we want to
-track what goes into those releases, so we can be confident about what we're shipping,
-know when we shipped it, and share what we've done with our clients (and maybe beyond).
+track what goes into those releases, so we can be confident about what we're
+shipping, know when we shipped it, and share what we've done with our clients
+(and maybe beyond).
 
 Including a `CHANGELOG.md` file in the root of a repository is a standard for
 tracking these changes against versions, but the only work if they are updated.
@@ -510,10 +526,11 @@ format for the changelogs we keep. This means integrating updating the changelog
 into the release process for the project. This also means
 [versioning](#versioning-releases) the project.
 
-If the team decides that a changelog is not appropriate for a project, you should
-document that decision as an [Architectural Decision Record (ADR)](https://adr.github.io/),
-so future maintainers and contributors understand the reasoning for not
-doing so.
+If the team decides that a changelog is not appropriate for a project, you
+should document that decision as an
+[Architectural Decision Record (ADR)](https://adr.github.io/), so future
+maintainers and contributors understand the reasoning for not doing so.
 
-See [Tech Team RFC-019](https://github.com/dxw/tech-team-rfcs/blob/master/rfc-019-use-changelogs-to-track-changes.md)
+See
+[Tech Team RFC-019](https://github.com/dxw/tech-team-rfcs/blob/master/rfc-019-use-changelogs-to-track-changes.md)
 for more context around this decision.
