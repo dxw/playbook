@@ -11,9 +11,6 @@
     "node-sass": "^4.14.1",
     "prettier": "^2.0.5",
     "prismjs": "^1.9.0",
-    "remark-cli": "^8.0.0",
-    "remark-lint": "^7.0.0",
-    "remark-preset-lint-markdown-style-guide": "^3.0.0",
     "sass-loader": "^8.0.2",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
