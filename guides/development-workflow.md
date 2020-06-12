@@ -1,4 +1,6 @@
-# Development workflow
+---
+title: Development workflow
+---
 
 - [Development principles](#development-principles)
 - [Introduction](#introduction)

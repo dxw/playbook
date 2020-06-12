@@ -1,4 +1,6 @@
-# Office accessibility
+---
+title: Office accessibility
+---
 
 ## 8-9 Hoxton Square, dxw digital London
 

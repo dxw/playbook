@@ -1,4 +1,6 @@
-# Wrapping up a project
+---
+title: Wrapping up a project
+---
 
 ## Why is this important?
 

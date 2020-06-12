@@ -1,3 +1,7 @@
+---
+title: Managing the Playbook
+---
+
 # Managing the Playbook
 
 This is the content strategy for dxw Playbook.

@@ -1,4 +1,6 @@
-# Project weeknotes
+---
+title: Project weeknotes
+---
 
 ## What are weeknotes?
 

@@ -1,4 +1,6 @@
-# Design career progression framework
+---
+title: Design career progression framework
+---
 
 ## Why do we have a career progression framework?
 

@@ -1,4 +1,6 @@
-# Agile delivery phases
+---
+title: Agile delivery phases
+---
 
 In 2011, the UK government established the Government Digital Service (GDS) to implement the ‘Digital by Default’ strategy proposed by Martha Lane Fox. GDS and the ‘Digital by Default’ strategy intended to revolutionise the way citizens interact with public services and government departments. Central to GDS’ approach is the Service Manual. 
 The Service Manual provides guidance and support to public sector organisations for creating and running better digital services.
