@@ -1,0 +1,20 @@
+{% assign pages = site.pages | sort: "title" %}
+
+<ul>
+  <li><a href="/">Playbook</a></li>
+  <li>
+    <a href="/guides">Guides</a>
+    <ul>
+      {% for p in pages %}{% if p.path contains 'guides/' and p.path !=
+      page.path %}
+      <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+      {% endif %}{% endfor %}
+    </ul>
+  </li>
+</ul>
+
+<div class="logo">
+  <a href="/" title="Back to playbook home page">
+    <img src="/dist/dmark.png" alt="" width="32" height="32" />
+  </a>
+</div>
