@@ -124,28 +124,28 @@ section of this guide. Return here once the project has been added.
 To assign a placeholder, go to the schedule view of 10kft, via the navigation
 bar. The schedule will need to be filtered under ‘Everyone’.
 
-![Image of 10kft schedule view](http://playbook.dxw.com/guides/Image%20of%2010kft%20schedule%20view.png)
+![Image of 10kft schedule view](/dist/guides/Image%20of%2010kft%20schedule%20view.png)
 
 Scroll to the bottom of the schedule view, where there will be a list of
 placeholder role types.
 
-![Image of 10kft schedule placeholder view](http://playbook.dxw.com/guides/Image%20of%2010kft%20schedule%20placeholder%20view.png)
+![Image of 10kft schedule placeholder view](/dist/guides/Image%20of%2010kft%20schedule%20placeholder%20view.png)
 
 Click on a space that is relevant to the placeholder and select ‘New
 Assignment’. For example, service designer in the week commencing would look
 something like:
 
-![Image of 10kft schedule view new assignment](http://playbook.dxw.com/guides/Image%20of%2010kft%20schedule%20view%20new%20assignment.png)
+![Image of 10kft schedule view new assignment](/dist/guides/Image%20of%2010kft%20schedule%20view%20new%20assignment.png)
 
 Search for a project via the search bar.
 
-![Image of 10kft schedule view placeholder search](http://playbook.dxw.com/guides/Image%20of%2010kft%20schedule%20view%20placeholder%20search.png)
+![Image of 10kft schedule view placeholder search](/dist/guides/Image%20of%2010kft%20schedule%20view%20placeholder%20search.png)
 
 Select the project that the placeholder needs to be assigned to. Once a
 placeholder has been created, project details can be adjusted by clicking on the
 newly entered placeholder. A pop up for adjustments will look like this:
 
-![Image of 10kft placeholder adjustment options](http://playbook.dxw.com/guides/Image%20of%2010kft%20placeholder%20adjustment%20options.png)
+![Image of 10kft placeholder adjustment options](/dist/guides/Image%20of%2010kft%20placeholder%20adjustment%20options.png)
 
 This will need to be done for all roles within a project that need to be
 scheduled.
@@ -164,23 +164,23 @@ of the Playbook. For how to do this, see the step by step below.
 Click on your name in the top banner of 10kft. Then click on the “Time &
 Expenses” tab as seen below.
 
-![Image of 10kft time and expenses tab](http://playbook.dxw.com/guides/Image%20of%2010kft%20time%20and%20expenses%20tab.png)
+![Image of 10kft time and expenses tab](/dist/guides/Image%20of%2010kft%20time%20and%20expenses%20tab.png)
 
 If the projected time on a project is correct, select the ‘confirm’ button to
 report the time. Time is recorded in the number of hours per day - this could be
 a full or a half day.
 
-![Image of unconfirmed time in 10kft](http://playbook.dxw.com/guides/Image%20of%20unconfirmed%20time%20in%2010kft.png)
+![Image of unconfirmed time in 10kft](/dist/guides/Image%20of%20unconfirmed%20time%20in%2010kft.png)
 
 Once confirmed the view will become **bold**, with a tick:
 
-![Image of confirmed time in 10kft](http://playbook.dxw.com/guides/Image%20of%20confirmed%20time%20in%2010kft.png)
+![Image of confirmed time in 10kft](/dist/guides/Image%20of%20confirmed%20time%20in%2010kft.png)
 
 If what was worked on isn’t shown, click on the 'Report Time for Something Else'
 option, to search and find the project that’s been worked on. If this happens,
 make it known to the project lead.
 
-![Image of time tracking option in 10kft](http://playbook.dxw.com/guides/Image%20of%20time%20tracking%20option%20in%2010kft.png)
+![Image of time tracking option in 10kft](/dist/guides/Image%20of%20time%20tracking%20option%20in%2010kft.png)
 
 ## Intended Audience - Admins
 
@@ -278,7 +278,7 @@ A page similar to this image will be visible. This section is a walk through of
 how to set up a team member correctly, based on their role, permission level and
 availability.
 
-![Image of setting up an account in 10kft](http://playbook.dxw.com/guides/Image%20of%20setting%20up%20an%20account%20in%2010kft.png)
+![Image of setting up an account in 10kft](/dist/guides/Image%20of%20setting%20up%20an%20account%20in%2010kft.png)
 
 #### If the team member is a permanent employee of dxw
 
@@ -471,7 +471,7 @@ This is so it can be discussed in scheduling.
 Once signed in, go to the **projects** tab in the navigation. On the right hand
 side click the ‘New Project’ button.
 
-![Image of projects tab in navigation on 10kft](http://playbook.dxw.com/guides/Image%20of%20projects%20tab%20in%20navigation%20on%2010kft.png)
+![Image of projects tab in navigation on 10kft](/dist/guides/Image%20of%20projects%20tab%20in%20navigation%20on%2010kft.png)
 
 Then complete the following project information. If a project is tentative, we
 try and fill in as much detail as possible. If any section is unknown, this can
@@ -482,13 +482,13 @@ ensuring the project set up has been completed accurately.**
 
 Until a project is won, the ‘Project Type’ is set as ‘tentative’.
 
-![Image of adding project information in 10kft](http://playbook.dxw.com/guides/Image%20of%20adding%20project%20information%20in%2010kft.png)
+![Image of adding project information in 10kft](/dist/guides/Image%20of%20adding%20project%20information%20in%2010kft.png)
 
 When adding a project, all of the settings will be set to the default. Unless
 this information varies, we leave as the default setting, aside from 'project
 tags'.
 
-![Image of project tags example in 10kft](http://playbook.dxw.com/guides/Image%20of%20project%20tags%20example%20in%2010kft.png)
+![Image of project tags example in 10kft](/dist/guides/Image%20of%20project%20tags%20example%20in%2010kft.png)
 
 We track projects against six project tags: cyber, delivery, dxwNorth, Hybrid,
 Ops & Strategy. Tags are used to filter projects and pull reports. Add at least
