@@ -10,84 +10,66 @@ It’s dxw’s Playbook. It explains how we get things done.
 ## Changes
 
 The Playbook documents how the Playbook gets changed. See the
-[changes to this document](https://github.com/dxw/playbook/blob/master/index.md#changes-to-this-document)
+[changes to this document](https://playbook.dxw.com/#changes-to-this-document)
 section for more information.
 
 ## Licence
 
-dxw's Playbook is released under a
+The contents of dxw's Playbook is released under a
 [Creative Commons Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/2.0/uk/)
 licence. You are free to reuse and adapt this content with credit, for
 non-commercial purposes.
 
-## Structure of the repo
-
-### playbook.md
-
-This is the main Playbook. Unless there’s a good reason, we should record all
-process and policy here.
-
-### guides
-
-This section contains more detailed documentation on how to do things. It's
-mostly aimed at developers, but can contain any detailed documentation on a
-specific task or subject. Like research activities, this is quite detailed and
-isn't of general interest, so it gets its own section.
-
-## Contributing to the Playbook
-
-There is a guide to editing the Playbook, and creating new content, in
-[contributing](contributing.md). This is also available on
-[the published playbook](https://playbook.dxw.com/#/contributing).
-
-The content of the Playbook should use the
-[dxw tone of voice](https://playbook.dxw.com/#/guides/tone-of-voice.md).
-
-In addition:
-
-- The Playbook should mostly talk about what “we” do. Unless you’re telling
-  someone what “you” need to do in a given circumstance.
-- Include lots of link, both to relevant content within the Playbook and to
-  useful things on the web.
-- Use second level headings for main sections, with third for subsections and
-  fourth level ones if you need to.
-
 ## Development
 
-To make changes to the Playbook theme, you will need to install the
-dependencies:
+### Running locally
 
-```
-npm install
-go get github.com/errata-ai/vale
-```
+If this is your first time running the setup, or you want to start from scratch,
+run
 
-Then to start a local development server run:
-
-```
-npm start
+```sh
+script/setup
 ```
 
-You can now visit [localhost:3000](http://localhost:3000) to see your local
-Playbook. Theme files live in the `/build` directory
+If you're coming back and want to update the dependencies, run
 
-### Linting
-
-Check your changes for markdown errors:
-
-```
-npm run lint
+```sh
+script/update
 ```
 
-To run the prose linter:
+To start a local development server run
 
-```
-npm run vale
+```sh
+script/server
 ```
 
-This will only show errors and warnings by default. If you want extra
-suggestions for better writing, run:
+and visit [localhost:4000](http://localhost:4000) to see your local Playbook.
+Changes to the source should be automatically picked up while the server is
+running.
 
+To build the site manually in development mode, run
+
+```sh
+script/build
 ```
-npm run vale-suggestions
+
+To build the site manually in production mode, run
+
+```sh
+script/build production
+```
+
+### Testing & linting
+
+Check your changes for any issues in the code, formatting, and prose:
+
+```sh
+script/test
+```
+
+The prose linter will only show "errors" and "warnings" by default. If you want
+extra suggestions for better writing, run:
+
+```sh
+npm run lint:prose:suggestions
 ```
