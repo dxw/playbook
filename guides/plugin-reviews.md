@@ -1,4 +1,4 @@
-# Plugin Reviews
+# GovPress plugin reviews
 
 ## Workflow
 
