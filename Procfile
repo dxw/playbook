@@ -1,2 +1,2 @@
-web: bin/rails server -p $PORT -e $RAILS_ENV
-worker:
+jekyll: bundle exec jekyll serve
+webpack: npm run build:dev:watch
