@@ -624,8 +624,8 @@ A user story is a succinct explanation of some work that will be done in order
 to meet the needs of a particular kind of user. They are usually structured into
 a sentence, of the form:
 
-> As a [kind of user], so that I can [meet a need], I want [a feature in the >
-> product]
+> As a \[kind of user\], so that I can \[meet a need\], I want \[a feature in
+> the product\]
 
 Breaking everything down into user stories allows us to be confident that
 everything we develop is meeting

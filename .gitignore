@@ -8,3 +8,4 @@ npm-debug.log
 # build artefacts
 /.jekyll-cache/
 /_site/
+/dist/

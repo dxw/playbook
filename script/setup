@@ -13,5 +13,6 @@ rm -rf node_modules
 echo "==> Removing build artefacts..."
 rm -rf _site
 rm -rf .jekyll-cache
+rm -rf dist
 
 script/bootstrap
