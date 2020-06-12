@@ -4,3 +4,17 @@ defaults:
     values:
       layout: default
       title: dxw's Playbook
+exclude:
+  - .github/
+  - node_modules/
+  - script/
+  - babel.config.js
+  - Brewfile
+  - Brewfile.lock.json
+  - CNAME
+  - CONTRIBUTING.md
+  - package-lock.json
+  - package.json
+  - Procfile
+  - README.md
+  - webpack.config.js
