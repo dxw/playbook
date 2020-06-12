@@ -1,3 +1,2 @@
 remark:
-  enabled: true
-  config_file: .remarkrc
+  enabled: false
