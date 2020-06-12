@@ -1,5 +1,6 @@
 /*
 !/*/
+!/*.js
 !/*.json
 /*.lock.json
 !/*.md
@@ -8,6 +9,7 @@
 !/.prettierrc
 /_site/**/*
 /.jekyll-cache/**/*
+/dist/**/*
 /script/**/*
 /vendor/**/*
 *.png

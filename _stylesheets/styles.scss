@@ -1,0 +1,443 @@
+@import "~docsify/lib/themes/vue.css";
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Cardo:400,400i&display=swap");
+
+@mixin small-screen {
+  @media screen and (max-width: 768px) {
+    @content;
+  }
+}
+
+$navy: #243746;
+$ivory: #f9f8f5;
+
+$orange-light: #ffb259;
+$teal: #09615d;
+
+body {
+  font-family: Cardo, -apple-system, serif;
+  font-size: 15pt;
+  color: $navy;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  background: $ivory;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Poppins, sans-serif;
+  font-weight: 700;
+}
+
+b,
+strong {
+  font-weight: 700;
+}
+
+.app-name.hide,
+.sidebar-nav.hide {
+  display: none;
+}
+
+.markdown-section {
+  ol,
+  p,
+  ul {
+    line-height: 1.5;
+    word-spacing: 0;
+  }
+
+  em {
+    color: $navy;
+  }
+
+  blockquote {
+    border-left-color: $teal;
+    color: $navy;
+
+    p {
+      color: $navy;
+    }
+  }
+
+  h1:not(:first-of-type) {
+    margin-top: 2em;
+  }
+
+  a {
+    color: $navy;
+    text-decoration-line: underline;
+    text-decoration-color: $orange-light;
+    text-decoration-thickness: 0.1em;
+    font-weight: 400;
+  }
+
+  code,
+  pre {
+    background-color: $navy;
+    color: $ivory;
+  }
+}
+
+.sidebar {
+  background: $teal;
+  color: $orange-light;
+  z-index: 3;
+  padding-top: 0;
+
+  input {
+    background: inherit;
+    color: $ivory;
+
+    &::placeholder {
+      color: transparentize($ivory, 0.33);
+    }
+  }
+
+  ul {
+    li {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      line-height: 1.5;
+      margin-bottom: 0.3em;
+
+      a {
+        font-family: Poppins, sans-serif;
+        color: $ivory;
+        font-size: 13pt;
+
+        &:hover,
+        &:focus,
+        > a.active {
+          text-decoration-line: underline;
+          text-decoration-color: $orange-light;
+          text-decoration-thickness: 0.1em;
+        }
+      }
+    }
+  }
+
+  .search {
+    background-color: rgba(0, 0, 0, 0.25);
+    color: $ivory;
+    margin-bottom: 20px;
+    padding: 6px;
+
+    input {
+      outline: none;
+      width: 100%;
+      padding: 0 7px;
+      line-height: 36px;
+      font-size: 14px;
+      border: 1px solid transparent;
+
+      &:focus {
+        box-shadow: 0 0 5px $navy;
+        border: 1px solid $navy;
+      }
+
+      &::-webkit-search-decoration,
+      &::-webkit-search-cancel-button,
+      input {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+      }
+    }
+
+    h2 {
+      font-size: 17px;
+      margin: 10px 0;
+    }
+
+    .clear-button {
+      width: 36px;
+      text-align: right;
+      display: none;
+
+      &.show {
+        display: block;
+      }
+
+      svg {
+        transform: scale(0.5);
+      }
+    }
+
+    .input-wrap {
+      display: flex;
+      align-items: center;
+    }
+
+    .matching-post {
+      border-bottom: 1px solid $teal;
+
+      &:last-child {
+        border-bottom: 0;
+      }
+
+      a {
+        text-decoration-line: none;
+      }
+
+      &:hover,
+      &:focus {
+        a {
+          h1,
+          h2,
+          h3,
+          h4,
+          h5,
+          h6 {
+            text-decoration-line: underline;
+            text-decoration-color: $orange-light;
+            text-decoration-thickness: 0.1em;
+          }
+        }
+      }
+    }
+
+    p {
+      font-size: 14px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+
+      &.empty {
+        text-align: center;
+      }
+    }
+
+    a {
+      text-decoration-line: none;
+      color: inherit;
+
+      &:hover {
+        color: $ivory;
+      }
+    }
+
+    h2 {
+      display: inline;
+
+      &:hover,
+      &:focus {
+        text-decoration-line: underline;
+        text-decoration-color: $orange-light;
+        text-decoration-thickness: 0.1em;
+      }
+    }
+
+    .results-panel {
+      display: none;
+
+      &.show {
+        display: block;
+        padding-top: 5px;
+      }
+
+      .matching-post {
+        margin-bottom: 5px;
+      }
+
+      .search-keyword {
+        color: $orange-light;
+        text-decoration-line: underline;
+        text-decoration-thickness: 0.1em;
+      }
+    }
+  }
+}
+
+.app-nav {
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  left: 25%;
+
+  @include small-screen {
+    left: 0;
+  }
+
+  a {
+    font-size: 15pt;
+    text-decoration-line: underline;
+    text-decoration-thickness: 0.1em;
+  }
+
+  ul {
+    li {
+      font-size: 13pt;
+
+      a {
+        font-family: Poppins, sans-serif;
+        text-decoration-line: none;
+        transition: none;
+
+        &:hover,
+        &:focus,
+        &:active {
+          color: $orange-light;
+        }
+      }
+
+      ul {
+        z-index: 99;
+        position: absolute !important;
+        height: 1px;
+        width: 1px;
+        overflow: hidden;
+        clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+        clip: rect(1px, 1px, 1px, 1px);
+        white-space: nowrap; /* added line */
+      }
+
+      &:hover,
+      &.focus-within {
+        ul {
+          height: auto;
+          width: auto;
+          clip: auto;
+          display: block;
+          overflow-y: scroll;
+        }
+      }
+    }
+  }
+}
+
+article {
+  p {
+    a {
+      color: inherit;
+
+      &:hover {
+        text-decoration-line: underline;
+        text-decoration-color: $navy;
+        text-decoration-thickness: 0.1em;
+      }
+    }
+  }
+
+  li {
+    margin-bottom: 10px;
+
+    a {
+      color: inherit;
+
+      &:hover {
+        text-decoration-line: underline;
+        text-decoration-color: $navy;
+        text-decoration-thickness: 0.1em;
+      }
+    }
+  }
+}
+
+.logo {
+  float: right;
+  margin-left: 20px;
+  margin-top: 5px;
+
+  @include small-screen {
+    float: left;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    margin-top: 0;
+  }
+}
+
+.sidebar-toggle {
+  background-color: transparent;
+
+  @include small-screen {
+    padding: 20px;
+  }
+
+  span {
+    background-color: $orange-light;
+    transition: background-color 0.3s 0.25s;
+
+    @include small-screen {
+      background-color: $teal;
+    }
+  }
+}
+
+body.close .sidebar-toggle {
+  background-color: transparent;
+  transition: background-color 0.3s 0.25s;
+
+  @include small-screen {
+    background-color: $teal;
+    padding: 20px;
+  }
+
+  span {
+    background-color: $teal;
+
+    @include small-screen {
+      background-color: $orange-light;
+    }
+  }
+}
+
+.content {
+  @include small-screen {
+    position: relative;
+    padding-top: 70px;
+  }
+}
+
+.skip {
+  position: absolute;
+  top: -1000px;
+  left: -1000px;
+  height: 1px;
+  width: 1px;
+  text-align: left;
+  overflow: hidden;
+
+  &:active,
+  &:focus,
+  &:hover {
+    left: 0;
+    top: 0;
+    width: auto;
+    height: auto;
+    overflow: visible;
+    z-index: 10;
+    background: $ivory;
+    padding: 5px;
+    display: inline-block;
+  }
+}
+
+.sidebar-nav {
+  margin: 30px 15px;
+
+  > ul {
+    margin: 15px 0 15px 15px;
+    > li {
+      > a {
+        font-weight: 700;
+        font-size: 13pt;
+      }
+
+      > ul {
+        margin-left: 0;
+        > li {
+          a {
+            font-weight: 400;
+            font-size: 11pt;
+          }
+        }
+      }
+    }
+  }
+}

@@ -2,14 +2,20 @@
   "name": "dxw-playbook",
   "private": true,
   "dependencies": {
+    "css-loader": "^3.5.3",
     "docsify": "^4.5.5",
     "docsify-cli": "^4.1.12",
     "marked": "^1.0.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "node-sass": "^4.14.1",
     "prettier": "^2.0.5",
     "prismjs": "^1.9.0",
     "remark-cli": "^8.0.0",
     "remark-lint": "^7.0.0",
-    "remark-preset-lint-markdown-style-guide": "^3.0.0"
+    "remark-preset-lint-markdown-style-guide": "^3.0.0",
+    "sass-loader": "^8.0.2",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
   },
   "scripts": {
     "start": "docsify serve .",
