@@ -1,1 +1,1 @@
-window.location = 'https://github.com/dxw/playbook/blob/master/playbook.md';
+window.location = "https://github.com/dxw/playbook/blob/master/playbook.md";

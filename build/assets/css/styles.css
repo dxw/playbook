@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap");
-@import url('https://fonts.googleapis.com/css?family=Cardo:400,400i&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Cardo:400,400i&display=swap");
 
 body {
-  font-family: 'Cardo', -apple-system, serif;
+  font-family: "Cardo", -apple-system, serif;
   font-size: 15pt;
   color: #243746;
   line-height: 1.5;
@@ -10,7 +10,9 @@ body {
   padding: 0;
   background: #f9f8f5;
 }
-.markdown-section ol, .markdown-section p, .markdown-section ul {
+.markdown-section ol,
+.markdown-section p,
+.markdown-section ul {
   line-height: 1.5;
   word-spacing: 0;
 }
@@ -18,12 +20,13 @@ body {
   border-left-color: #858585;
   color: #243746;
 }
-.markdown-section blockquote p, .markdown-section em {
+.markdown-section blockquote p,
+.markdown-section em {
   color: #243746;
 }
 .sidebar {
-  background: #09615D;
-  color: #FFB259;
+  background: #09615d;
+  color: #ffb259;
 }
 
 .sidebar input {
@@ -37,7 +40,8 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.sidebar ul li a, .app-nav ul li a {
+.sidebar ul li a,
+.app-nav ul li a {
   font-family: Poppins, sans-serif;
   text-decoration: none;
   border-bottom: 2px solid transparent;
@@ -55,14 +59,14 @@ body {
 .search h2:hover,
 .search h2:focus {
   text-decoration: none;
-  border-bottom: 2px solid #FFB259;
+  border-bottom: 2px solid #ffb259;
 }
 
 .sidebar {
   z-index: 3;
 }
 .search {
-  background-color: rgba(0,0,0,0.25);
+  background-color: rgba(0, 0, 0, 0.25);
   border-bottom: 1px solid #f1f1f175 !important;
   color: #f9f8f5;
 }
@@ -70,26 +74,35 @@ body {
   display: inline;
 }
 
-.search .results-panel.show { padding-top: 5px; }
-.search .matching-post { margin-bottom: 5px }
+.search .results-panel.show {
+  padding-top: 5px;
+}
+.search .matching-post {
+  margin-bottom: 5px;
+}
 .search .search-keyword {
   color: #ffb259;
   text-decoration: underline;
 }
 
-h1,h2,h3,h4,h5 {
-  font-family: 'Poppins', sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
 }
 .app-nav {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
 .markdown-section h1:not(:first-of-type) {
   margin-top: 2em;
 }
 
-b,strong {
+b,
+strong {
   font-weight: 700;
 }
 .app-nav {
@@ -98,17 +111,20 @@ b,strong {
 .app-nav a {
   font-size: 15pt;
 }
-.app-nav li ul li, .sidebar ul li a {
+.app-nav li ul li,
+.sidebar ul li a {
   font-size: 13pt;
 }
 .app-nav li ul {
   z-index: 99;
 }
 
-article p a, article li a {
+article p a,
+article li a {
   color: inherit;
 }
-article p a:hover, article li a:hover {
+article p a:hover,
+article li a:hover {
   text-decoration-color: #17212c;
 }
 .markdown-section > :first-child a {
@@ -130,7 +146,9 @@ article li {
   margin-bottom: 10px;
 }
 .logo {
-  float:right; margin-left:20px; margin-top: 5px;
+  float: right;
+  margin-left: 20px;
+  margin-top: 5px;
 }
 .sidebar-toggle {
   background-color: transparent;
@@ -166,13 +184,13 @@ article li {
   overflow: hidden;
 }
 
-a.skip:active, 
-a.skip:focus, 
+a.skip:active,
+a.skip:focus,
 a.skip:hover {
-  left: 0; 
+  left: 0;
   top: 0;
-  width: auto; 
-  height: auto; 
+  width: auto;
+  height: auto;
   overflow: visible;
   z-index: 10;
   background: #f9f8f5;
@@ -188,26 +206,54 @@ a.skip:hover {
 
 /* Sidebar overrides - playbook page */
 /* First level */
-body[data-page="playbook.md"] .sidebar ul > ul > li { padding-top: 15px }
-body[data-page="playbook.md"] .sidebar ul > ul > li a { font-weight: 700; font-size: 13pt; }
+body[data-page="playbook.md"] .sidebar ul > ul > li {
+  padding-top: 15px;
+}
+body[data-page="playbook.md"] .sidebar ul > ul > li a {
+  font-weight: 700;
+  font-size: 13pt;
+}
 
 /* Second level */
-body[data-page="playbook.md"] .sidebar ul > ul > ul { margin-left: 0; }
+body[data-page="playbook.md"] .sidebar ul > ul > ul {
+  margin-left: 0;
+}
 
 /* Undo changes in subsequent levels */
-body[data-page="playbook.md"] .sidebar ul > ul > ul li { padding-top: 0; }
-body[data-page="playbook.md"] .sidebar ul > ul > ul li a { font-weight: 400; font-size: 11pt; }
-body[data-page="playbook.md"] .sidebar ul > ul > ul > ul { margin-left: 15px }
+body[data-page="playbook.md"] .sidebar ul > ul > ul li {
+  padding-top: 0;
+}
+body[data-page="playbook.md"] .sidebar ul > ul > ul li a {
+  font-weight: 400;
+  font-size: 11pt;
+}
+body[data-page="playbook.md"] .sidebar ul > ul > ul > ul {
+  margin-left: 15px;
+}
 
 /* Sidebar overrides - guides page */
 /* First level */
-body:not([data-page="playbook.md"]) .sidebar ul > li { padding-top: 15px }
-body:not([data-page="playbook.md"]) .sidebar ul > li a { font-weight: 700; font-size: 13pt; }
+body:not([data-page="playbook.md"]) .sidebar ul > li {
+  padding-top: 15px;
+}
+body:not([data-page="playbook.md"]) .sidebar ul > li a {
+  font-weight: 700;
+  font-size: 13pt;
+}
 
 /* Second level */
-body:not([data-page="playbook.md"]) .sidebar ul > ul { margin-left: 0; }
+body:not([data-page="playbook.md"]) .sidebar ul > ul {
+  margin-left: 0;
+}
 
 /* Undo changes in subsequent levels */
-body:not([data-page="playbook.md"]) .sidebar ul > ul > ul li { padding-top: 0; }
-body:not([data-page="playbook.md"]) .sidebar ul > ul > ul li a { font-weight: 400; font-size: 11pt; }
-body:not([data-page="playbook.md"]) .sidebar ul > ul > ul > ul { margin-left: 15px }
+body:not([data-page="playbook.md"]) .sidebar ul > ul > ul li {
+  padding-top: 0;
+}
+body:not([data-page="playbook.md"]) .sidebar ul > ul > ul li a {
+  font-weight: 400;
+  font-size: 11pt;
+}
+body:not([data-page="playbook.md"]) .sidebar ul > ul > ul > ul {
+  margin-left: 15px;
+}

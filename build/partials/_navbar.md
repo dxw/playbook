@@ -30,7 +30,7 @@
   - [Wrapping up a project](guides/wrapping-up-a-project.md)
 
 <div class="logo">
-  <a href="/" title="Back to playbook home page">
+  <a href="/" title="Back to Playbook home page">
     <img src="build/assets/img/dmark.png" height="32">
   </a>
 </div>

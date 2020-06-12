@@ -32,16 +32,17 @@ of the existing ones.
 
 ## Instructions
 
-1. Prepare category cards for each participant. *Write categories on cards for a
-   closed sort. You might have identified these through a quantitative/automated
-   sorting, through discussion/design sprint or in previous card sort sessions.
+1. Prepare category cards for each participant. \*Write categories on cards for
+   a closed sort. You might have identified these through a
+   quantitative/automated sorting, through discussion/design sprint or in
+   previous card sort sessions.
 1. Prepare some content cards for each category (a set for each participant)
 1. Ask participants to group the cards in the way that makes sense to them and
    give the groups names. *For a closed sort participants move content cards
    into categories you’ve prepared. *A variation of ‘other pile’ and allowing
    participants to amend and create new categories are often useful particularly
    in the first round of sorting
-1. Discuss why they grouped the cards the way they did. *This part is where the
+1. Discuss why they grouped the cards the way they did. \*This part is where the
    notetaker/observer must really listen for comments, reasoning and questions.
    Equally, the notetaker should take notes of comments and questions that arise
    as poeple work on the groupings.
@@ -51,27 +52,23 @@ of the existing ones.
 
 ## Things to remember
 
-- **Quantitative vs. qualitative sorts**
-  An automated quantitative sort online can be a good start to identify
-  categories. They can also be used to test your sort on a larger scale after
-  the in-person sessions.
-- **Granularity is important**
-  Pieces of content selected for the cards can be from individual pages,
-  functionality, small groups of pages, or whole sections of the site. Be
-  consistent with the groups you are working with otherwise participants will
-  struggle and there will be a lot of inconditency between groupings.
-- **People get tired**
-  Avoid the temptation to sort everything in one go. Limit the number to 30-40
-  cards
-- **Consider the loudest voices**
-  When discussing the reasons for groupings and moving things around to reach a
-  consensus, be mindful of the loudest people in the room and how this affects
-  results
-- **Randomise**
-  When giving participants a stack of content cards, make sure to randomise the
-  order they’re in
-- **Take lots of pictures**
-  Clearly mark these with the participant, date and number
-- **Take notes in a way that is easy to analyse**
-  For tips on how to take notes for agile analysis see
+- **Quantitative vs. qualitative sorts** An automated quantitative sort online
+  can be a good start to identify categories. They can also be used to test your
+  sort on a larger scale after the in-person sessions.
+- **Granularity is important** Pieces of content selected for the cards can be
+  from individual pages, functionality, small groups of pages, or whole sections
+  of the site. Be consistent with the groups you are working with otherwise
+  participants will struggle and there will be a lot of inconditency between
+  groupings.
+- **People get tired** Avoid the temptation to sort everything in one go. Limit
+  the number to 30-40 cards
+- **Consider the loudest voices** When discussing the reasons for groupings and
+  moving things around to reach a consensus, be mindful of the loudest people in
+  the room and how this affects results
+- **Randomise** When giving participants a stack of content cards, make sure to
+  randomise the order they’re in
+- **Take lots of pictures** Clearly mark these with the participant, date and
+  number
+- **Take notes in a way that is easy to analyse** For tips on how to take notes
+  for agile analysis see
   [How we capture research data for agile analysis](https://www.dxw.com/2016/12/how-we-capture-research-data-for-agile-analysis)

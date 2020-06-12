@@ -11,7 +11,7 @@ title: Contributing to the Playbook
 ## Why GitHub?
 
 We are all encouraged to help shape dxw and help it grow. The decisions we make
-are represented in the playbook so it's important to have an open and
+are represented in the Playbook so it's important to have an open and
 collaborative means to evolve it.
 
 GitHub allows us to:
@@ -23,9 +23,9 @@ GitHub allows us to:
 
 ---
 
-## Decide if new content is for the playbook
+## Decide if new content is for the Playbook
 
-### It’s in the playbook if
+### It’s in the Playbook if
 
 - it’s a principle explained in plain english.
 - it’s something we want to/are comfortable to share outside of dxw.
@@ -81,8 +81,8 @@ GitHub allows us to:
 ## Merging pull requests
 
 When the create or edit steps are followed the result is a pull request, which
-is essentially a request for a change to be added to the playbook. Merging a
-pull request means accepting a change into the playbook.
+is essentially a request for a change to be added to the Playbook. Merging a
+pull request means accepting a change into the Playbook.
 
 Anyone who is part of the staff team on Github can approve and merge pull
 requests.
@@ -94,10 +94,10 @@ requests.
    ones are `Conversation` and `Files changed`. Take the time to read the pull
    request description (in the `Conversation` tab) to understand why this change
    was made, and any futher comments on this page.
-1. Click on `Files changed` to see the actual changes made to the playbook.
+1. Click on `Files changed` to see the actual changes made to the Playbook.
    Lines removed will be marked in red, and lines added marked in green. If you
    want to see the changes in context, click on `View file` (top right) to see
-   the amended playbook as a whole.
+   the amended Playbook as a whole.
 1. If you are happy with the changes, click on the green `Review changes` button
    in the top right. Select the `Approve` radio button and add any comments you
    have about the changes. Then click `Submit review`.
