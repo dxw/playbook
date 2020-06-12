@@ -25,7 +25,7 @@
   - [Team changes and handovers](guides/team-changes-and-handovers.md)
   - [Tone of voice](guides/tone-of-voice.md)
   - [Web analytics](guides/web-analytics.md)
-  - [Weeknotes](guides/week-notes.md)
+  - [Project weeknotes](guides/week-notes.md)
   - [Working remotely](guides/working-remotely.md)
   - [Wrapping up a project](guides/wrapping-up-a-project.md)
 
