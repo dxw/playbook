@@ -1,6 +1,6 @@
 extends: substitution
-message: '%s'
-link: https://playbook.dxw.com/#/guides/style-guide
+message: "%s"
+link: https://playbook.dxw.com/guides/style-guide
 level: warning
 ignorecase: true
 swap:
