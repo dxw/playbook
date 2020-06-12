@@ -1,4 +1,4 @@
-# GovPress plugin Advisories
+# GovPress plugin advisories
 
 ## Workflow
 
