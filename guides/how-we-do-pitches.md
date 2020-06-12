@@ -1,4 +1,6 @@
-# How we do pitches
+---
+title: How we do pitches
+---
 
 Pitching is an opportunity to demonstrate our expertise, showcase our work and demonstrate our values. Sometimes, we have plenty of notice and time to prepare, other times we have to turn pitches around quickly. To give ourselves the best possible chance, we should follow the steps outlined below.
 

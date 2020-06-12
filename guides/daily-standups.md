@@ -1,4 +1,6 @@
-# Daily standups
+---
+title: Daily standups
+---
 
 ## What are they?
 A short and focused meeting for the team to check in on progress. They shouldn’t last any longer than 15 minutes. 

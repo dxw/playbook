@@ -1,4 +1,6 @@
-# Team and project scheduling
+---
+title: Team and project scheduling
+---
 
 ***If anything in this guide is unclear, put a message in the #scheduling slack channel - most people in this channel have a good level of knowledge of 10kft and should be able to offer clarification. We can then make an update to this guide.***
 

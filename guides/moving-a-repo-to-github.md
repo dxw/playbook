@@ -1,4 +1,6 @@
-# Transferring a repo from git.dxw.net to github
+---
+title: Transferring a repo from git.dxw.net to github
+---
 
 To allow better access to our code, for us to do code reviews, and run tests,
 we’re now switching most of our repos to be on Github. This guide will take you

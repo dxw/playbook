@@ -1,4 +1,6 @@
-# Working remotely
+---
+title: Working remotely
+---
 
 When a delivery team aren't all in the same place, it's important that we
 continue to communicate and collaborate as well as we can. This guide contains

@@ -1,4 +1,6 @@
-# Team changes and handovers
+---
+title: Team changes and handovers
+---
 
 ## Introduction
 Projects inevitably undergo team member changes. This can be for a number of reasons. If a project has been running for a long time, it is often beneficial to introduce some new ideas to the team, and to give incumbent team members a chance to experience, and be challenged by, something different. Alternately, the scope of the project might change, requiring a different set of skills to those provided by the existing team. It’s normal that changes need to happen.  Whatever the reason, it’s critical that we ensure personnel changes and handovers:

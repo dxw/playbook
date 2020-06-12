@@ -1,4 +1,6 @@
-# Running a roadmapping workshop
+---
+title: Running a roadmapping workshop
+---
 
 For an alpha or beta, or for a significant update to a live service, we run an initial roadmapping workshop during inception.
 
