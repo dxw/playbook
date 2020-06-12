@@ -70,7 +70,7 @@ or maybe:
 Proof of concept:
 
 > If a logged-in administrator user clicks the submit button on this form, a
-> JavaScript alert will display on {{A SPECIFIC PAGE}} (In a real attack the
+> JavaScript alert will display on \{\{A SPECIFIC PAGE\}\} (In a real attack the
 > form can be made to auto-submit using JavaScript).”
 
 ### Unserialize
@@ -82,7 +82,7 @@ server
 
 Description:
 
-If there are classes with methods like \_\_destruct() that have certain
+If there are classes with methods like `__destruct()` that have certain
 properties, the attacker can ...
 
 ### Mitigations

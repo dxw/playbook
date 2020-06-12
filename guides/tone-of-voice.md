@@ -34,8 +34,8 @@ your writing. But remember it’s just a guide.
 
 ## Overall tone of voice
 
-Our [values](https://playbook.dxw.com/#/?id=values) should guide how we do
-things, and how we communicate.  So our writing should show dxw as:
+Our [values](/#values) should guide how we do things, and how we communicate. 
+So our writing should show dxw as:
 
 - helpful - we explain our work openly and clearly
 - positive - with a focus on how we helped others and what we learned

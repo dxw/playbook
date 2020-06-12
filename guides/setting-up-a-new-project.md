@@ -151,8 +151,8 @@ there are areas that are not very clear to us, or to them. You can structure a
 kick-off in the way that works best for you, but some frameworks that will help
 you get the outcomes you need are below:
 
-- [Running a discovery kick-off workshop](http://playbook.dxw.com/#/guides/running-a-discovery-kick-off-workshop)
-- [Running a roadmapping workshop](http://playbook.dxw.com/#/guides/running-a-roadmapping-workshop)
+- [Running a discovery kick-off workshop](/guides/running-a-discovery-kick-off-workshop)
+- [Running a roadmapping workshop](/guides/running-a-roadmapping-workshop)
 
 Aim to reach a shared understanding of what’s desired and what’s possible. This
 can be a Sprint goal, a high level vision, or going through the requirements and

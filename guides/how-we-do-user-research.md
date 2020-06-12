@@ -10,8 +10,7 @@ The guidance applies to all user researchers employed by dxw digital, both staff
 and contractors.
 
 The guidance builds on our user research
-[principles](https://playbook.dxw.com/#/?id=user-research-principles). It also
-builds on the
+[principles](/#user-research-principles). It also builds on the
 [guidance for user research in the GDS Service Manual](https://www.gov.uk/service-manual/user-research)
 so we can help teams meet the Government
 [Service Standard](https://www.gov.uk/service-manual/service-standard).
@@ -54,8 +53,8 @@ These are the things that user researchers usually do on projects.
    This helps teams to learn about all their users and produce services that
    work well for everyone.
 
-   [How we get informed consent for user research](http://playbook.dxw.com/#/guides/how-we-do-user-research?id=how-we-get-informed-consent-for-user-research)
-   [When and how we give incentives to research participants](http://playbook.dxw.com/#/guides/how-we-do-user-research?id=when-and-how-we-give-incentives-to-research-participants)
+   [How we get informed consent for user research](#how-we-get-informed-consent-for-user-research)
+   [When and how we give incentives to research participants](#when-and-how-we-give-incentives-to-research-participants)
 
 1. **Plan and do research activities**
 
@@ -70,8 +69,8 @@ These are the things that user researchers usually do on projects.
    This helps teams to embed regular research into their agile practices and get
    the best results from the effort they put in.
 
-   [How we write and use discussion guides](http://playbook.dxw.com/#/guides/how-we-do-user-research?id=how-we-write-and-use-discussion-guides)
-   [How we take notes and record research sessions](http://playbook.dxw.com/#/guides/how-we-do-user-research?id=how-we-take-notes-and-record-research-sessions)
+   [How we write and use discussion guides](#how-we-write-and-use-discussion-guides)
+   [How we take notes and record research sessions](#how-we-take-notes-and-record-research-sessions)
 
 1. **Analyse research and produce findings**
 
@@ -115,7 +114,7 @@ These are the things that user researchers usually do on projects.
    This helps teams to get the most from the research data they collect, while
    protecting the privacy of the people taking part.
 
-   [How we take notes and record research sessions](http://playbook.dxw.com/#/guides/how-we-do-user-research?id=how-we-take-notes-and-record-research-sessions)
+   [How we take notes and record research sessions](#how-we-take-notes-and-record-research-sessions)
 
 ## How we name and identify documents
 

@@ -2,13 +2,19 @@
 title: Support and on call
 ---
 
-We have service definitions for [GovPress hosting], [container hosting] and
-secure WordPress hosting for our [blogging platform] and [campaign multisites]
+We have service definitions for
+[GovPress hosting](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/930612236449495),
+[container hosting](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/754953588860938)
+and secure WordPress hosting for our
+[blogging platform](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/355674790119695)
+and
+[campaign multisites](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/691308552308120)
 through G-Cloud.
 
 We have agreed service levels for each client we provide support for. Our
 standard terms, including prioritisation definitions and response times, are
-detailed in our [Service Level Agreement].
+detailed in our
+[Service Level Agreement](https://contracts.dxw.com/service_level_agreement.md.html).
 
 With our default support plan we will manage all code, maintenance, updates and
 uptime monitoring and provide security event monitoring intended to detect and
@@ -61,7 +67,7 @@ In order to make sure all tickets are effectively dealt with, a dedicated person
 will work on first line support for a week at a time, inside office hours.
 
 There are lots of details about
-[our approach to first line support in the Playbook](https://playbook.dxw.com/#/?id=hosting-and-supporting-services).
+[our approach to first line support in the Playbook](/#hosting-and-supporting-services).
 
 ### Which things are my responsibility when I am on first line support?
 
@@ -71,7 +77,8 @@ responding to them or delegating to colleagues as appropriate.
 #### Alerts
 
 We use monitoring and alerts to notify you when an issue occurs, and provide
-[runbooks] to help you respond to events and restore service for our clients.
+[runbooks](https://git.govpress.com/ops/docs) to help you respond to events and
+restore service for our clients.
 
 #### Tickets
 
@@ -143,23 +150,12 @@ While on call, your responsibility is making sure all the services we support
 are running correctly and effectively.
 
 As with in-hours support, we use monitoring and alerts to notify you an issue
-occurs and provide [runbooks] to help you respond. The difference to in-hours
-support is that you’ll only be alerted when
+occurs and provide [runbooks](https://git.govpress.com/ops/docs) to help you
+respond. The difference to in-hours support is that you’ll only be alerted when
 [a high-severity issue](https://docs.google.com/document/d/1Y_uhCQEKyyFyDI_oM-FhAf4LyvFIziTfOtwPfi8LqOs/edit)
 occurs, and you aren’t expected to take action out of hours unless alerted.
 
 Outside office hours, the expected response depends on the severity of the
 incident. We have a set of factors that determine the severity of an incident,
-and have included these in our [Service Level Agreement].
-
-[govpress hosting]:
-  https://www.digitalmarketplace.service.gov.uk/g-cloud/services/930612236449495
-[container hosting]:
-  https://www.digitalmarketplace.service.gov.uk/g-cloud/services/754953588860938
-[blogging platform]:
-  https://www.digitalmarketplace.service.gov.uk/g-cloud/services/355674790119695
-[campaign multisites]:
-  https://www.digitalmarketplace.service.gov.uk/g-cloud/services/691308552308120
-[service level agreement]:
-  https://contracts.dxw.com/service_level_agreement.md.html
-[runbooks]: https://git.govpress.com/ops/docs
+and have included these in our
+[Service Level Agreement](https://contracts.dxw.com/service_level_agreement.md.html).

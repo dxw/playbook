@@ -81,29 +81,28 @@ The owner is responsible for making sure that their parts of the Playbook:
 
 The owners of each section are:
 
-- David Mann - [Who we are](https://playbook.dxw.com/#/?id=who-we-are)
-- Adam Maddison - [The work we do > Sales](https://playbook.dxw.com/#/?id=sales)
-- Clare Young -
-  [The work we do > Building services](https://playbook.dxw.com/#/?id=building-services)
+- David Mann - [Who we are](/#who-we-are)
+- Adam Maddison - [The work we do > Sales](/#sales)
+- Clare Young - [The work we do > Building services](/#building-services)
 - Dominic Baggott -
-  [The work we do > Hosting and supporting services](https://playbook.dxw.com/#/?id=hosting-and-supporting-services)
+  [The work we do > Hosting and supporting services](/#hosting-and-supporting-services)
 - Wendy Coello -
-  [The work we do > Sharing our expertise](https://playbook.dxw.com/#/?id=sharing-our-expertise)
-- Poss Apostolou - [Working here](https://playbook.dxw.com/#/?id=working-here)
-- Coca Rivas - [Our professions](https://playbook.dxw.com/#/?id=our-professions)
+  [The work we do > Sharing our expertise](/#sharing-our-expertise)
+- Poss Apostolou - [Working here](/#working-here)
+- Coca Rivas - [Our professions](/#our-professions)
 
 ### Workflow
 
 For smaller corrections and updates to the Playbook, staff should consult with
 relevant colleagues and follow the
-[guide to contributing to the Playbook](https://playbook.dxw.com/#/contributing).
+[guide to contributing to the Playbook](/guides/contributing).
 
 For more significant additions and changes to the Playbook, the steps are:
 
 - the owner of the section and the author agree the need for the update
 - the author drafts and reviews the update with appropriate colleagues
 - the author follows the
-  [guide to contributing to the Playbook](https://playbook.dxw.com/#/contributing)
+  [guide to contributing to the Playbook](/guides/contributing)
 - the owner and colleagues review and approve the changes
 
 ### Review
@@ -123,7 +122,7 @@ channel to collaborate on the Playbook.
 
 The Playbook should follow the dxw
 [Brand Toolkit](https://v-df7640e636dddb2c9710.brand.madebyfieldwork.com/) and
-use the dxw [Tone of voice](https://playbook.dxw.com/#/guides/tone-of-voice).
+use the dxw [Tone of voice](/guides/tone-of-voice).
 
 ## Playbook structure
 

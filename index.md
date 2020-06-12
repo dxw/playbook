@@ -198,10 +198,10 @@ Something canonical that tells us what the current “right way” to do things 
 If you’re a current or potential client, this Playbook is also for you. To help
 you understand us and how we can work together.
 
-We [continually update](https://playbook.dxw.com/#/guides/managing) the
-principles and guides in our Playbook. Because we’re always exploring better
-ways to get things done. What’s written here is the way we do things now. Until
-we find something better, and write that down.
+We [continually update](/guides/managing) the principles and guides in our
+Playbook. Because we’re always exploring better ways to get things done. What’s
+written here is the way we do things now. Until we find something better, and
+write that down.
 
 This Playbook was originally inspired by
 [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks,
@@ -221,8 +221,8 @@ that cannot be open. But there will be some things that should be private. So
 don't forget that changes here get published to the world.
 
 To update the Playbook, follow the
-[guide to Contributing to the Playbook](https://playbook.dxw.com/#/contributing)
-and use [dxw Tone of voice](https://playbook.dxw.com/#/guides/tone-of-voice).
+[guide to Contributing to the Playbook](/guides/contributing) and use
+[dxw Tone of voice](/guides/tone-of-voice).
 
 ## The work we do
 
@@ -2599,7 +2599,7 @@ and working with, not for our clients.
 #### User research guidance
 
 The Playbook includes detailed guidance on
-[how we do user research at dxw](https://playbook.dxw.com/#/guides/how-we-do-user-research).
+[how we do user research at dxw](/guides/how-we-do-user-research).
 
 The guide starts with the user research workflow, which describes the things
 that user researchers usually do on projects, and then provides further guidance
