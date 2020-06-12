@@ -937,17 +937,19 @@ people if we’re hiring and point them to our careers page on the dxw website.
 Speaking at events is a great opportunity to represent dxw.
 
 If it’s an event around your personal speciality (front-end development, sysops,
-UX etc), feel free to stick to any personal “branding”, slide format, or talk
+UX etc), feel free to stick to any personal branding, slide format, or talk
 style you might have already developed. At the start of your talk however,
 please introduce yourself as being from dxw, talk about what the company does,
 and what you do here.
 
 If it’s an event more around dxw’s focus (public sector events, dxw projects,
-public-sector specific topic etc) you should use dxw’s branding and slides.
+public-sector specific topic etc) you should use
+[dxw’s branding and slide templates](https://v-df7640e636dddb2c9710.brand.madebyfieldwork.com/).
 Introduce the company in full and what your role is.
 
 It takes time to prepare talks that work well. If you need help or advice please
-ask for it in the #dxw-marketing channel on Slack.
+ask for it in the [#dxw-marketing](https://dxw.slack.com/archives/C0K5DRKU6)
+channel on Slack.
 
 It’s also good to blog after the event, to share the content or to talk about
 your experience and what you learned.
@@ -957,7 +959,8 @@ delivery lead and see what’s possible.
 
 #### Our blog
 
-At dxw, we encourage people to blog regularly.
+At dxw, we encourage people to blog regularly. Both on the
+[dxw blog](https://www.dxw.com/blog/), and on personal and community blogs.
 
 We blog because we want to share what we’re doing and what we’re learning with
 the public sector digital community. We work in the open and are keen to share
@@ -967,15 +970,22 @@ services for the public sector.
 When we’re hiring, we also want potential new staff to be able to to get to know
 us beforehand.
 
-We record ideas for blog posts and the schedule for publishing on a Trello
-board. This is managed by the marketing team, who can offer you help and advice
-on ideas and support with writing if you need it. They will also manage the
-final sign off and publishing of posts. Get in touch through the #dxw-marketing
-channel on Slack.
+When we blog we use the dxw [tone of voice](/guides/tone-of-voice).
+
+We record ideas for blog posts and the schedule for publishing on
+[a Trello board](https://trello.com/b/otR1Mmjv/dxw-blogging-and-case-studies-schedule).
+This is managed by the marketing team, who can offer you help and advice on
+ideas and support with writing if you need it. They will also manage the final
+sign off and publishing of posts. Get in touch through the
+[#dxw-marketing](https://dxw.slack.com/archives/C0K5DRKU6) channel on Slack.
 
 #### Twitter
 
-The marketing team run dxw’s official Twitter account.
+The marketing team run dxw’s
+[official Twitter account](https://twitter.com/dxw).
+
+When we tweet we use the dxw
+[tone of voice](https://playbook.dxw.com/#/guides/tone-of-voice).
 
 We encourage people to work openly and to tweet about the work they’re doing,
 their learning and ideas from their own accounts. You should be careful not to
