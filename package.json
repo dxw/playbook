@@ -2,6 +2,7 @@
   "name": "dxw-playbook",
   "private": true,
   "dependencies": {
+    "copy-webpack-plugin": "^6.0.2",
     "css-loader": "^3.5.3",
     "docsify": "^4.5.5",
     "docsify-cli": "^4.1.12",
@@ -18,7 +19,9 @@
     "webpack-cli": "^3.3.11"
   },
   "scripts": {
-    "start": "docsify serve .",
+    "build": "webpack -p --mode=production",
+    "build:dev": "webpack --mode=development",
+    "build:dev:watch": "npm run build:dev -- --watch",
     "lint": "npm run lint:prose && npm run format && npm run lint:shell",
     "lint:fix": "npm run lint:prose && npm run format:fix && npm run lint:shell",
     "lint:prose": "goenv exec vale .",
