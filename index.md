@@ -2109,7 +2109,7 @@ technical detail. This part of the process is more about experience and personal
 qualities than about skills. Things to keep in mind:
 
 - Does this person seem likely to embody our [values](#our-values)?
-- Does this person have an interest in our [mission](#why-are-we-all-here)?
+- Does this person have an interest in our [mission](#who-we-are)?
 - Does this person have experience working in
   [agile environments](#keep-an-agile-mindset)?
 
