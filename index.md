@@ -1059,9 +1059,6 @@ task. If you're working apart from your team, it is essential that you remain
 contactable and productive, and the onus is on you to be especially
 communicative.
 
-If you are working from home, you must record this as an absence in BreatheHR.
-There is a category, "WFH", for this purpose.
-
 #### Reporting your time
 
 Everyone who works on a client project at dxw is responsible for reporting the
