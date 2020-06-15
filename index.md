@@ -916,7 +916,7 @@ a delivery lead or someone from the client services team with an explanation.
 It is good to try to think of alternative approaches that we could do under our
 support service before taking this step - seek advice if you're unsure.
 
-The person you assign the ticket to will then treat it as a [lead](#leads), and
+The person you assign the ticket to will then treat it as a [lead](#sales), and
 contact the client to make a plan.
 
 ### Sharing our expertise
