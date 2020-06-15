@@ -13,7 +13,7 @@ echo "==> Linting..."
 if [ -n "$CI" ]; then
   set +e
 
-  npm run format
+  npm run format:fix
   FORMAT_SUCCESS=$?
 
   npm run lint:js:fix
