@@ -22,22 +22,34 @@ if [ -f "Brewfile" ] && [ "$(uname -s)" = "Darwin" ]; then
   fi
 fi
 
-if command -v rbenv >/dev/null 2>&1 && [ -z "$(rbenv version-name 2>/dev/null)" ]; then
-  echo "==> Installing Ruby..."
-  rbenv install --skip-existing
-  rbenv rehash
+if command -v rbenv >/dev/null 2>&1; then
+  eval "$(rbenv init -)"
+
+  if [ -z "$(rbenv version-name 2>/dev/null)" ]; then
+    echo "==> Installing Ruby..."
+    rbenv install --skip-existing
+    rbenv rehash
+  fi
 fi
 
-if command -v nodenv >/dev/null 2>&1 && [ -z "$(nodenv version-name 2>/dev/null)" ]; then
-  echo "==> Installing Node..."
-  nodenv install --skip-existing
-  nodenv rehash
+if command -v nodenv >/dev/null 2>&1; then
+  eval "$(nodenv init -)"
+
+  if [ -z "$(nodenv version-name 2>/dev/null)" ]; then
+    echo "==> Installing Node..."
+    nodenv install --skip-existing
+    nodenv rehash
+  fi
 fi
 
-if command -v goenv >/dev/null 2>&1 && [ -z "$(goenv version-name 2>/dev/null)" ]; then
-  echo "==> Installing Go..."
-  goenv install --skip-existing
-  goenv rehash
+if command -v goenv >/dev/null 2>&1; then
+  eval "$(goenv init -)"
+
+  if [ -z "$(goenv version-name 2>/dev/null)" ]; then
+    echo "==> Installing Go..."
+    goenv install --skip-existing
+    goenv rehash
+  fi
 fi
 
 which bundle >/dev/null 2>&1 || {
