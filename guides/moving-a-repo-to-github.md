@@ -8,7 +8,7 @@ through a step-by-step of how to set up a new repo on Github and what to do with
 the deployment repo on GovPress.
 
 For more information on deploying using the new repository setup, see the
-[deploying guide](https://github.com/dxw/playbook/blob/master/guides/deploying.md).
+[deploying guide](/guides/development-workflow#deploying).
 
 ## Create the new repo
 
