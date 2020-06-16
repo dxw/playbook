@@ -54,6 +54,7 @@ These are the things that user researchers usually do on projects.
    work well for everyone.
 
    [How we get informed consent for user research](#how-we-get-informed-consent-for-user-research)
+
    [When and how we give incentives to research participants](#when-and-how-we-give-incentives-to-research-participants)
 
 1. **Plan and do research activities**
@@ -70,6 +71,7 @@ These are the things that user researchers usually do on projects.
    the best results from the effort they put in.
 
    [How we write and use discussion guides](#how-we-write-and-use-discussion-guides)
+
    [How we take notes and record research sessions](#how-we-take-notes-and-record-research-sessions)
 
 1. **Analyse research and produce findings**
