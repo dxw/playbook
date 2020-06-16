@@ -6,7 +6,7 @@
     "babel-loader": "^8.1.0",
     "copy-webpack-plugin": "^6.0.2",
     "core-js": "^3.6.5",
-    "css-loader": "^3.5.3",
+    "css-loader": "^3.6.0",
     "docsify": "^4.5.5",
     "eslint": "^7.2.0",
     "eslint-config-prettier": "^6.11.0",
