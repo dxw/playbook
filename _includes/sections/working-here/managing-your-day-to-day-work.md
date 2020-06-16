@@ -242,7 +242,7 @@ one of the categories below.
 
 Some of our clients also have protective marking schemes. For example, all
 central government bodies will apply the
-[Government Protective Marking System (GPMS)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/251480/Government-Security-Classifications-April-2014.pdf).
+[Government Protective Marking System (GPMS)](https://www.gov.uk/government/publications/government-security-classifications).
 If you are in possession of materials that are protectively marked using other
 schemes, treat them as company confidential.
 
