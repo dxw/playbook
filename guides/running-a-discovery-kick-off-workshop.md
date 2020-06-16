@@ -76,7 +76,7 @@ To prepare for the workshop:
    Miro board, or column on a Trello board.
 1. Get the people you need together in a room or on a video call.
 
-For each question sheet:
+For each question:
 
 1. Ask the question to get a discussion started.
 1. Write bullet points on the appropriate sheet, or on sticky notes or cards to
@@ -98,7 +98,7 @@ question.
 This method works well for groups up to 10 and typically takes 2 to 3 hours
 depending on the breadth and complexity of the work.
 
-## Getting the right people to come
+## Getting the right people together
 
 When you invite stakeholders to the workshop, aim to get a good mix of senior
 decision makers with a broad understanding of context and outcomes, together
