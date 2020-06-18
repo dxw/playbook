@@ -431,6 +431,12 @@ article {
   }
 }
 
+.guides {
+  li {
+    list-style: none;
+  }
+}
+
 body.close {
   .app-nav {
     @include small-screen {
