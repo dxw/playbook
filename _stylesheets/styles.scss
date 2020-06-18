@@ -79,7 +79,8 @@ strong {
   }
 
   code,
-  pre {
+  pre,
+  pre > code {
     background-color: $navy;
     color: $ivory;
   }
