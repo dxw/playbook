@@ -258,6 +258,7 @@ strong {
   font-family: Poppins, sans-serif;
   font-weight: 600;
   position: fixed;
+  top: 0;
   left: 300px;
   margin: 0;
   padding: 25px;
@@ -265,6 +266,7 @@ strong {
 
   @include small-screen {
     left: 0;
+    transition: top 0.25s ease-out;
   }
 
   a {
@@ -373,20 +375,29 @@ article {
   }
 }
 
-body.close .sidebar-toggle {
-  background-color: transparent;
-  transition: background-color 0.3s 0.25s;
-
-  @include small-screen {
-    background-color: $teal;
-    padding: 20px;
+body.close {
+  .app-nav {
+    @include small-screen {
+      display: block;
+      top: -95px;
+    }
   }
 
-  span {
-    background-color: $teal;
+  .sidebar-toggle {
+    background-color: transparent;
+    transition: background-color 0.3s 0.25s;
 
     @include small-screen {
-      background-color: $orange-light;
+      background-color: $teal;
+      padding: 20px;
+    }
+
+    span {
+      background-color: $teal;
+
+      @include small-screen {
+        background-color: $orange-light;
+      }
     }
   }
 }
