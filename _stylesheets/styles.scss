@@ -1,7 +1,7 @@
 @import "~docsify/lib/themes/vue.css";
 
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Cardo:400,400i&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Cardo:400,700&display=swap");
 
 @mixin small-screen {
   @media screen and (max-width: 768px) {
@@ -10,13 +10,18 @@
 }
 
 $navy: #243746;
+$cream: #f3f1e9;
 $ivory: #f9f8f5;
 
-$orange-light: #ffb259;
-$teal: #09615d;
+$yellow-light: #fcd672;
+$blue-light: #73c3d5;
+
+$accent-a: $yellow-light;
+$accent-b: $blue-light;
 
 body {
   font-family: Cardo, -apple-system, serif;
+  font-weight: 400;
   font-size: 15pt;
   color: $navy;
   line-height: 1.5;
@@ -32,7 +37,8 @@ h4,
 h5,
 h6 {
   font-family: Poppins, sans-serif;
-  font-weight: 700;
+  font-weight: 600;
+  color: $navy;
 }
 
 b,
@@ -40,9 +46,23 @@ strong {
   font-weight: 700;
 }
 
+.guides {
+  li {
+    list-style: none;
+  }
+}
+
 .app-name.hide,
 .sidebar-nav.hide {
   display: none;
+}
+
+.content {
+  padding-top: 95px;
+
+  @include small-screen {
+    position: relative;
+  }
 }
 
 .markdown-section {
@@ -58,7 +78,7 @@ strong {
   }
 
   blockquote {
-    border-left-color: $teal;
+    border-left-color: $accent-b;
     color: $navy;
 
     p {
@@ -66,247 +86,31 @@ strong {
     }
   }
 
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $navy;
+  }
+
   h1:not(:first-of-type) {
     margin-top: 2em;
+  }
+
+  h5 {
+    font-size: 1.15rem;
   }
 
   a {
     color: $navy;
     text-decoration-line: underline;
-    text-decoration-color: $orange-light;
+    text-decoration-color: $accent-b;
     text-decoration-thickness: 0.1em;
     font-weight: 400;
   }
 
-  code,
-  pre,
-  pre > code {
-    background-color: $navy;
-    color: $ivory;
-  }
-}
-
-.sidebar {
-  background: $teal;
-  color: $orange-light;
-  z-index: 3;
-  padding-top: 0;
-
-  input {
-    background: inherit;
-    color: $ivory;
-
-    &::placeholder {
-      color: transparentize($ivory, 0.33);
-    }
-  }
-
-  ul {
-    li {
-      overflow: hidden;
-      text-overflow: ellipsis;
-      line-height: 1.5;
-      margin-bottom: 0.3em;
-
-      a {
-        font-family: Poppins, sans-serif;
-        color: $ivory;
-        font-size: 13pt;
-
-        &:hover,
-        &:focus,
-        > a.active {
-          text-decoration-line: underline;
-          text-decoration-color: $orange-light;
-          text-decoration-thickness: 0.1em;
-        }
-      }
-    }
-  }
-
-  .search {
-    background-color: rgba(0, 0, 0, 0.25);
-    color: $ivory;
-    margin-bottom: 20px;
-    padding: 6px;
-
-    input {
-      outline: none;
-      width: 100%;
-      padding: 0 7px;
-      line-height: 36px;
-      font-size: 14px;
-      border: 1px solid transparent;
-
-      &:focus {
-        box-shadow: 0 0 5px $navy;
-        border: 1px solid $navy;
-      }
-
-      &::-webkit-search-decoration,
-      &::-webkit-search-cancel-button,
-      input {
-        -webkit-appearance: none;
-        -moz-appearance: none;
-        appearance: none;
-      }
-    }
-
-    h2 {
-      font-size: 17px;
-      margin: 10px 0;
-    }
-
-    .input-wrap {
-      display: flex;
-      align-items: center;
-    }
-
-    .matching-post {
-      border-bottom: 1px solid $teal;
-
-      &:last-child {
-        border-bottom: 0;
-      }
-
-      a {
-        text-decoration-line: none;
-      }
-
-      &:hover,
-      &:focus {
-        a {
-          h1,
-          h2,
-          h3,
-          h4,
-          h5,
-          h6 {
-            text-decoration-line: underline;
-            text-decoration-color: $orange-light;
-            text-decoration-thickness: 0.1em;
-          }
-        }
-      }
-    }
-
-    p {
-      font-size: 14px;
-      overflow: hidden;
-      text-overflow: ellipsis;
-
-      &.empty {
-        text-align: center;
-      }
-    }
-
-    a {
-      text-decoration-line: none;
-      color: inherit;
-
-      &:hover {
-        color: $ivory;
-      }
-    }
-
-    h2 {
-      display: inline;
-
-      &:hover,
-      &:focus {
-        text-decoration-line: underline;
-        text-decoration-color: $orange-light;
-        text-decoration-thickness: 0.1em;
-      }
-    }
-
-    .results-panel {
-      display: none;
-
-      &.show {
-        display: block;
-        padding-top: 5px;
-      }
-
-      .matching-post {
-        margin-bottom: 5px;
-      }
-
-      .search-keyword {
-        color: $orange-light;
-        text-decoration-line: underline;
-        text-decoration-thickness: 0.1em;
-      }
-    }
-  }
-}
-
-.app-nav {
-  font-family: Poppins, sans-serif;
-  font-weight: 600;
-  position: fixed;
-  top: 0;
-  left: 300px;
-  margin: 0;
-  padding: 25px;
-  background-color: $orange-light;
-
-  @include small-screen {
-    left: 0;
-    transition: top 0.25s ease-out;
-  }
-
-  a {
-    font-size: 15pt;
-    text-decoration-line: underline;
-    text-decoration-thickness: 0.1em;
-  }
-
-  ul {
-    li {
-      font-size: 13pt;
-
-      a {
-        font-family: Poppins, sans-serif;
-        text-decoration-line: none;
-        transition: none;
-
-        &:hover,
-        &:focus,
-        &:active {
-          text-decoration-line: underline;
-          text-decoration-color: $teal;
-          text-decoration-thickness: 0.1em;
-          color: $navy;
-        }
-      }
-
-      ul {
-        z-index: 99;
-        position: absolute !important;
-        height: 1px;
-        width: 1px;
-        overflow: hidden;
-        clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
-        clip: rect(1px, 1px, 1px, 1px);
-        white-space: nowrap; /* added line */
-      }
-
-      &:hover,
-      &.focus-within {
-        ul {
-          height: auto;
-          width: auto;
-          clip: auto;
-          display: block;
-          overflow-y: scroll;
-        }
-      }
-    }
-  }
-}
-
-article {
   p {
     a {
       color: inherit;
@@ -332,40 +136,301 @@ article {
       }
     }
   }
+
+  code,
+  pre,
+  pre > code {
+    background-color: $navy;
+    color: $ivory;
+  }
 }
 
-.logo {
-  float: right;
-  margin-left: 20px;
-  margin-top: 5px;
+.sidebar {
+  background: $cream;
+  color: $navy;
+  z-index: 3;
+  padding-top: 0;
+  border-right: 0;
+
+  ul {
+    li {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      line-height: 1.5;
+      margin-bottom: 0.3em;
+
+      a {
+        color: $navy;
+        font-family: Poppins, sans-serif;
+        font-size: 13pt;
+
+        &:hover,
+        &:focus,
+        > a.active {
+          text-decoration-line: underline;
+          text-decoration-color: $accent-b;
+          text-decoration-thickness: 0.1em;
+        }
+      }
+    }
+  }
+
+  > h1 a {
+    &:hover,
+    &:focus,
+    &:active {
+      text-decoration-line: underline;
+      text-decoration-color: $accent-b;
+      text-decoration-thickness: 0.1em;
+    }
+  }
+
+  .search {
+    background-color: $accent-a;
+    color: $navy;
+    margin-bottom: 20px;
+    padding: 6px;
+
+    input {
+      background: inherit;
+      color: $navy;
+      outline: none;
+      width: 100%;
+      padding: 0 7px;
+      line-height: 36px;
+      font-family: Poppins, sans-serif;
+      font-size: 13pt;
+      border-width: 1px;
+      border-style: solid;
+      border-color: transparent;
+
+      &::placeholder {
+        color: transparentize($navy, 0.1);
+      }
+
+      &:focus {
+        box-shadow: 0 0 5px $navy;
+        border-color: $navy;
+      }
+
+      &::-webkit-search-decoration,
+      &::-webkit-search-cancel-button,
+      input {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+      }
+    }
+
+    .input-wrap {
+      display: flex;
+      align-items: center;
+    }
+
+    .matching-post {
+      margin-bottom: 5px;
+      border-bottom: 1px solid $cream;
+
+      &:last-child {
+        border-bottom: 0;
+      }
+
+      a {
+        text-decoration-line: none;
+      }
+
+      .search-keyword {
+        color: inherit;
+        text-decoration-line: underline;
+        text-decoration-color: $accent-b;
+        text-decoration-thickness: 0.1em;
+      }
+
+      &:hover,
+      &:focus {
+        a {
+          h1,
+          h2,
+          h3,
+          h4,
+          h5,
+          h6 {
+            text-decoration-line: underline;
+            text-decoration-color: $accent-b;
+            text-decoration-thickness: 0.1em;
+          }
+        }
+      }
+    }
+
+    h2 {
+      font-size: 13pt;
+      margin: 0.5em 0;
+    }
+
+    p {
+      font-size: 13pt;
+      margin: 0.5em 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+
+      &.empty {
+        text-align: center;
+      }
+    }
+
+    a {
+      text-decoration-line: none;
+      color: inherit;
+    }
+
+    .results-panel {
+      display: none;
+
+      &.show {
+        display: block;
+      }
+    }
+  }
+
+  .sidebar-nav {
+    padding-bottom: 0;
+    margin: 30px 15px;
+
+    > ul {
+      margin: 15px 0 15px 15px;
+
+      > li {
+        > a {
+          font-weight: 700;
+          font-size: 15pt;
+        }
+
+        > ul {
+          margin-left: 0;
+
+          > li {
+            a {
+              font-weight: 400;
+              font-size: 13pt;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.app-nav {
+  background-color: $accent-b;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  position: fixed;
+  top: 0;
+  left: 300px;
+  margin: 0;
+  padding: 25px;
 
   @include small-screen {
-    float: left;
-    margin-left: 0;
+    left: 0;
+    transition: top 0.25s ease-out;
+  }
+
+  a {
+    font-size: 15pt;
+    text-decoration-line: underline;
+    text-decoration-thickness: 0.1em;
+  }
+
+  > ul {
+    > li {
+      a {
+        font-family: Poppins, sans-serif;
+        text-decoration-line: none;
+        transition: none;
+
+        &:hover,
+        &:focus,
+        &:active {
+          text-decoration-line: underline;
+          text-decoration-color: $accent-a;
+          text-decoration-thickness: 0.1em;
+          color: $navy;
+        }
+      }
+
+      > ul {
+        display: none;
+        background-color: $cream;
+        padding: 0;
+        border: none;
+        border-radius: 0;
+        overflow: hidden;
+
+        a {
+          &:hover,
+          &:focus,
+          &:active {
+            text-decoration-line: underline;
+            text-decoration-color: $accent-b;
+            text-decoration-thickness: 0.1em;
+          }
+        }
+      }
+
+      &:hover,
+      &:focus,
+      &:active,
+      &.focus-within {
+        > ul {
+          display: block;
+          max-height: 80vh;
+          overflow-y: scroll;
+        }
+      }
+    }
+  }
+
+  .logo {
+    float: right;
+    margin-left: 20px;
+    margin-top: 5px;
+
+    @include small-screen {
+      float: left;
+      margin-left: 0;
+    }
   }
 }
 
 .sidebar-toggle {
   background-color: transparent;
+  width: auto;
 
   @include small-screen {
     padding: 20px;
   }
 
-  span {
-    background-color: $orange-light;
-    transition: background-color 0.3s 0.25s;
+  .sidebar-toggle-button {
+    span {
+      background-color: $accent-b;
 
-    @include small-screen {
-      background-color: $teal;
+      &:last-child {
+        margin-bottom: 0;
+      }
     }
   }
-}
 
-.content {
-  @include small-screen {
-    position: relative;
-    padding-top: 70px;
+  &:hover,
+  &:focus,
+  &:active {
+    .sidebar-toggle-button {
+      opacity: 1;
+
+      span {
+        background-color: $navy;
+      }
+    }
   }
 }
 
@@ -393,36 +458,6 @@ article {
   }
 }
 
-.sidebar-nav {
-  margin: 30px 15px;
-
-  > ul {
-    margin: 15px 0 15px 15px;
-    > li {
-      > a {
-        font-weight: 700;
-        font-size: 13pt;
-      }
-
-      > ul {
-        margin-left: 0;
-        > li {
-          a {
-            font-weight: 400;
-            font-size: 11pt;
-          }
-        }
-      }
-    }
-  }
-}
-
-.guides {
-  li {
-    list-style: none;
-  }
-}
-
 body.close {
   .app-nav {
     @include small-screen {
@@ -436,16 +471,13 @@ body.close {
     transition: background-color 0.3s 0.25s;
 
     @include small-screen {
-      background-color: $teal;
+      background-color: $accent-a;
+      width: 300px;
       padding: 20px;
     }
 
     span {
-      background-color: $teal;
-
-      @include small-screen {
-        background-color: $orange-light;
-      }
+      background-color: $accent-b;
     }
   }
 }
