@@ -14,7 +14,7 @@ through G-Cloud.
 We have agreed service levels for each client we provide support for. Our
 standard terms, including prioritisation definitions and response times, are
 detailed in our
-[Service Level Agreement](https://contracts.dxw.com/service_level_agreement.md.html).
+[Service Level Agreement](https://contracts.dxw.com/service_level_agreement.md).
 
 With our default support plan we will manage all code, maintenance, updates and
 uptime monitoring and provide security event monitoring intended to detect and
@@ -158,4 +158,4 @@ occurs, and you aren’t expected to take action out of hours unless alerted.
 Outside office hours, the expected response depends on the severity of the
 incident. We have a set of factors that determine the severity of an incident,
 and have included these in our
-[Service Level Agreement](https://contracts.dxw.com/service_level_agreement.md.html).
+[Service Level Agreement](https://contracts.dxw.com/service_level_agreement.md).
