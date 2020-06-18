@@ -187,7 +187,7 @@ iterations means for the users.
 ##### User stories
 
 We document development work that needs to be completed by writing
-[user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html).
+[user stories](https://www.gov.uk/service-manual/agile/writing-user-stories).
 
 A user story is a succinct explanation of some work that will be done in order
 to meet the needs of a particular kind of user. They are usually structured into
@@ -198,7 +198,7 @@ a sentence, of the form:
 
 Breaking everything down into user stories allows us to be confident that
 everything we develop is meeting
-[user needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html).
+[user needs](https://www.gov.uk/service-manual/user-centred-design/user-needs).
 By using this story format, we directly associate a feature or piece of
 functionality we're building with the group of users who want it and the needs
 that they have.
@@ -252,7 +252,7 @@ stage a given story is in.
 > obstacles, or blockers to progress, constantly helping the team become more
 > self organising. They enable the work a team does rather than impose how it’s
 > done."
-> --<cite>[Government Digital Service](https://www.gov.uk/service-manual/the-team/delivery-manager.html)</cite>
+> --<cite>[Government Digital Service](https://www.gov.uk/service-manual/the-team/delivery-manager)</cite>
 
 At dxw, delivery leads ensure that sprints go smoothly and that the team remain
 productive. They are generally the client's first and main point of contact, and
