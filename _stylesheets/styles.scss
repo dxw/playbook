@@ -330,6 +330,7 @@ strong {
   left: 300px;
   margin: 0;
   padding: 25px;
+  transition: left 0.25s ease-out;
 
   @include small-screen {
     left: 0;
@@ -460,6 +461,8 @@ strong {
 
 body.close {
   .app-nav {
+    left: 0;
+
     @include small-screen {
       display: block;
       top: -95px;
