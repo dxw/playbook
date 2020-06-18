@@ -352,10 +352,7 @@ article {
 
   @include small-screen {
     float: left;
-    position: absolute;
-    top: 10px;
-    left: 0;
-    margin-top: 0;
+    margin-left: 0;
   }
 }
 
