@@ -376,33 +376,6 @@ article {
   }
 }
 
-body.close {
-  .app-nav {
-    @include small-screen {
-      display: block;
-      top: -95px;
-    }
-  }
-
-  .sidebar-toggle {
-    background-color: transparent;
-    transition: background-color 0.3s 0.25s;
-
-    @include small-screen {
-      background-color: $teal;
-      padding: 20px;
-    }
-
-    span {
-      background-color: $teal;
-
-      @include small-screen {
-        background-color: $orange-light;
-      }
-    }
-  }
-}
-
 .content {
   @include small-screen {
     position: relative;
@@ -453,6 +426,33 @@ body.close {
             font-size: 11pt;
           }
         }
+      }
+    }
+  }
+}
+
+body.close {
+  .app-nav {
+    @include small-screen {
+      display: block;
+      top: -95px;
+    }
+  }
+
+  .sidebar-toggle {
+    background-color: transparent;
+    transition: background-color 0.3s 0.25s;
+
+    @include small-screen {
+      background-color: $teal;
+      padding: 20px;
+    }
+
+    span {
+      background-color: $teal;
+
+      @include small-screen {
+        background-color: $orange-light;
       }
     }
   }
