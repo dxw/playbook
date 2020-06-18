@@ -2,8 +2,6 @@
 title: Managing the Playbook
 ---
 
-# Managing the Playbook
-
 This is the content strategy for dxw Playbook.
 
 It describes the purpose and users of the Playbook, the kinds of material it

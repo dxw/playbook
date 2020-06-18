@@ -2,8 +2,6 @@
 title: Tone of voice
 ---
 
-# Tone of voice
-
 This is an overview of how we write and should apply to all the writing we do in
 dxw. It’s an important part of how we present ourselves to the outside world,
 alongside our new dxw brand. You can find the brand guidelines and all the
