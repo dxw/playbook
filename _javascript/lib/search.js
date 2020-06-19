@@ -4,7 +4,6 @@ export default () => {
   const searchBox = document.querySelector("input[type='search']");
   const sidebarData = document.querySelectorAll(".sidebar-nav ul li");
   const resultsPanel = document.querySelector(".results-panel");
-  const clearButton = document.querySelector(".clear-button");
 
   const getExcerpt = (result, query) => {
     const content = result.dataset.content;
@@ -25,7 +24,6 @@ export default () => {
     const query = searchBox.value;
 
     resultsPanel.innerHTML = "";
-    clearButton.classList.add("show");
 
     if (query.length > 3) {
       const results = Array.from(sidebarData).filter((element) => {
@@ -58,10 +56,5 @@ export default () => {
 
       sidebarNavigation(links);
     }
-  });
-
-  clearButton.addEventListener("click", () => {
-    searchBox.value = "";
-    resultsPanel.innerHTML = "";
   });
 };
