@@ -58,10 +58,11 @@ strong {
 }
 
 .content {
-  padding-top: 95px;
+  padding-top: 65px;
 
   @include small-screen {
     position: relative;
+    padding-top: 95px;
   }
 }
 
@@ -149,8 +150,13 @@ strong {
   background: $cream;
   color: $navy;
   z-index: 3;
+  margin-top: 65px;
   padding-top: 0;
   border-right: 0;
+
+  @include small-screen {
+    margin-top: 0;
+  }
 
   ul {
     li {
@@ -325,15 +331,15 @@ strong {
   background-color: $accent-b;
   font-family: Poppins, sans-serif;
   font-weight: 600;
+  text-align: right;
   position: fixed;
   top: 0;
-  left: 300px;
+  left: 0;
   margin: 0;
-  padding: 25px;
-  transition: left 0.25s ease-out;
+  padding: 10px;
 
   @include small-screen {
-    left: 0;
+    padding: 25px;
     transition: top 0.25s ease-out;
   }
 
@@ -393,12 +399,11 @@ strong {
   }
 
   .logo {
-    float: right;
-    margin-left: 20px;
+    float: left;
+    margin-left: 10px;
     margin-top: 5px;
 
     @include small-screen {
-      float: left;
       margin-left: 0;
     }
   }
