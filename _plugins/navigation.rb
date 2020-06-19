@@ -4,11 +4,15 @@ module Jekyll
   class NavigationGenerator < Liquid::Tag
     def render(context)
       current_page = page(context)
+      title = current_page.data["title"]
       @doc = Nokogiri::HTML(current_page.content)
       headings = @doc.xpath("//*[self::h2 or self::h3 or self::h4]")
-      get_headings_and_subheadings(headings).map { |heading|
+      title = render_page_title(title)
+      nav = get_headings_and_subheadings(headings).map { |heading|
         render_list(heading)
-      }.join.to_s
+      }.join
+
+      title + nav
     end
 
     def page(context)
@@ -16,6 +20,12 @@ module Jekyll
     end
 
     private
+
+    def render_page_title(title = "dxw's Playbook")
+      <<-EOS
+      <h1 class="page-title">#{title}</h1>
+      EOS
+    end
 
     def render_list(heading)
       <<-EOS
@@ -31,7 +41,7 @@ module Jekyll
     def render_subheadings(subheadings)
       subheadings.map { |subheading|
         render_list(subheading)
-      }.join.to_s
+      }.join
     end
 
     def get_headings_and_subheadings(headings, heading_level = 2)

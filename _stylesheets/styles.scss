@@ -52,11 +52,6 @@ strong {
   }
 }
 
-.app-name.hide,
-.sidebar-nav.hide {
-  display: none;
-}
-
 .content {
   padding-top: 95px;
 
@@ -175,16 +170,6 @@ strong {
     }
   }
 
-  > h1 a {
-    &:hover,
-    &:focus,
-    &:active {
-      text-decoration-line: underline;
-      text-decoration-color: $accent-b;
-      text-decoration-thickness: 0.1em;
-    }
-  }
-
   .search {
     background-color: $accent-a;
     color: $navy;
@@ -296,6 +281,13 @@ strong {
   .sidebar-nav {
     padding-bottom: 0;
     margin: 30px 15px;
+
+    > h1 {
+      margin: 30px 20px;
+      font-size: 17pt;
+      font-weight: 400;
+      text-align: center;
+    }
 
     > ul {
       margin: 15px 0 15px 15px;
