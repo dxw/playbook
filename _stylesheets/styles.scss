@@ -157,20 +157,6 @@ strong {
       margin: 10px 0;
     }
 
-    .clear-button {
-      width: 36px;
-      text-align: right;
-      display: none;
-
-      &.show {
-        display: block;
-      }
-
-      svg {
-        transform: scale(0.5);
-      }
-    }
-
     .input-wrap {
       display: flex;
       align-items: center;

@@ -4,7 +4,6 @@ describe("search", () => {
   beforeEach(() => {
     document.body.innerHTML = `
       <input type="search" name="search"/>
-      <div class="clear-button"></div>
       <div class="results-panel"></div>
       <div class="sidebar-nav">
         <ul>
