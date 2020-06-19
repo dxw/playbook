@@ -149,8 +149,6 @@ strong {
 
   ul {
     li {
-      overflow: hidden;
-      text-overflow: ellipsis;
       line-height: 1.5;
       margin-bottom: 0.3em;
 
@@ -296,6 +294,10 @@ strong {
         > a {
           font-weight: 700;
           font-size: 15pt;
+          text-indent: -20px;
+          padding-left: 20px;
+          overflow: auto;
+          white-space: unset;
         }
 
         > ul {
@@ -305,6 +307,10 @@ strong {
             a {
               font-weight: 400;
               font-size: 13pt;
+              text-indent: -40px;
+              padding-left: 40px;
+              overflow: auto;
+              white-space: unset;
             }
           }
         }
