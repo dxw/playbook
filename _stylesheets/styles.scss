@@ -52,11 +52,6 @@ strong {
   }
 }
 
-.app-name.hide,
-.sidebar-nav.hide {
-  display: none;
-}
-
 .content {
   padding-top: 65px;
 
@@ -160,8 +155,6 @@ strong {
 
   ul {
     li {
-      overflow: hidden;
-      text-overflow: ellipsis;
       line-height: 1.5;
       margin-bottom: 0.3em;
 
@@ -178,16 +171,6 @@ strong {
           text-decoration-thickness: 0.1em;
         }
       }
-    }
-  }
-
-  > h1 a {
-    &:hover,
-    &:focus,
-    &:active {
-      text-decoration-line: underline;
-      text-decoration-color: $accent-b;
-      text-decoration-thickness: 0.1em;
     }
   }
 
@@ -303,6 +286,13 @@ strong {
     padding-bottom: 0;
     margin: 30px 15px;
 
+    > h1 {
+      margin: 30px 20px;
+      font-size: 17pt;
+      font-weight: 400;
+      text-align: center;
+    }
+
     > ul {
       margin: 15px 0 15px 15px;
 
@@ -310,6 +300,10 @@ strong {
         > a {
           font-weight: 700;
           font-size: 15pt;
+          text-indent: -20px;
+          padding-left: 20px;
+          overflow: auto;
+          white-space: unset;
         }
 
         > ul {
@@ -319,6 +313,10 @@ strong {
             a {
               font-weight: 400;
               font-size: 13pt;
+              text-indent: -40px;
+              padding-left: 40px;
+              overflow: auto;
+              white-space: unset;
             }
           }
         }
