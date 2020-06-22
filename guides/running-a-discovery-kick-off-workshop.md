@@ -70,17 +70,17 @@ of the roadmapping questions.
 
 ## Asking the questions
 
-To prepare the room:
+To prepare for the workshop:
 
-1. Write each question on a separate sheet of paper or at the top of a piece of
-   flip chart paper.
-1. Stick them up on a wall so that everyone can see them.
+1. Write each question on a separate sheet of paper on a wall, or frame on a
+   Miro board, or column on a Trello board.
+1. Get the people you need together in a room or on a video call.
 
-For each question sheet:
+For each question:
 
 1. Ask the question to get a discussion started.
-1. Write bullet points on the appropriate sheet or on sticky notes to summarise
-   what people say.
+1. Write bullet points on the appropriate sheet, or on sticky notes or cards to
+   summarise what people say.
 1. Ask follow up questions to clarify what you hear and to make sure you include
    everyone’s thoughts.
 1. Ask about priority and scope. What’s essential? And what’s out of scope?
@@ -92,13 +92,13 @@ For each question sheet:
 It’s best to put all the questions up together. The things people say in the
 discussion will often relate to more than one question – for example, people
 often mention outcomes for the organisation when they talk about why we’re doing
-the work. With all the sheets up you can add bullet points to the appropriate
-sheet.
+the work. With all the questions up you can place items under the appropriate
+question.
 
-This method works well for groups up to 10 and typically takes 90 minutes to 2
-hours.
+This method works well for groups up to 10 and typically takes 2 to 3 hours
+depending on the breadth and complexity of the work.
 
-## Managing the session
+## Getting the right people together
 
 When you invite stakeholders to the workshop, aim to get a good mix of senior
 decision makers with a broad understanding of context and outcomes, together
@@ -118,6 +118,8 @@ I always say that we haven’t got long for the discovery. We want to hear from
 everyone, to make sure we’re focussing on the right things, so they get the most
 out of the work.
 
+## Managing the session
+
 During the session, most people will be happy to talk – this is something
 they’re interested in and know loads about. So you’ll need to manage the session
 closely to make sure you get through all the questions in a reasonable amount of
@@ -132,9 +134,10 @@ something more coherent.
 
 ## Using the workshop outputs
 
-The question sheets create ready-made outputs from the workshop. You can
-transcribe the points you collect into a document, or into another tool like
-Trello or Miro.
+The question sheets, sticky notes or cards create ready-made outputs from the
+workshop. You can transcribe points from paper sheets or sticky notes into
+another document or tool like Trello or Miro. And you can sort related items
+into groups under each question.
 
 From there you can use the answers to:
 
