@@ -52,21 +52,30 @@ if command -v goenv >/dev/null 2>&1; then
   fi
 fi
 
-which bundle >/dev/null 2>&1 || {
+if ! command -v bundle >/dev/null 2>&1; then
   echo "==> Installing Bundler..."
   gem install bundler
-  rbenv rehash
-}
 
-bundle check >/dev/null 2>&1 || {
+  if command -v rbenv >/dev/null 2>&1; then
+    rbenv rehash
+  fi
+fi
+
+if ! bundle check >/dev/null 2>&1; then
   echo "==> Installing Ruby dependencies..."
   bundle install
-}
+fi
 
 echo "==> Installing Node dependencies..."
 npm install
 
-goenv which vale >/dev/null 2>&1 || {
+set +e
+
+if ! goenv which vale >/dev/null 2>&1; then
+  set -e
+
   echo "==> Installing Vale..."
   go get github.com/errata-ai/vale
-}
+fi
+
+set -e
