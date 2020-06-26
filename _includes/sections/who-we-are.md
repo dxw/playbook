@@ -1,34 +1,29 @@
 ## Who we are
 
-The web has revolutionised the way society works. Most of society has reaped the
-benefits of digital technology, but most public services lag behind. As a
-result, they are often expensive to build and run, and hard for people to use.
+dxw is an independent digital agency that works with the public and third 
+sectors.
 
-Since dxw was founded in 2008, a lot of things have become better. The
-Government Digital Service has changed the conversation about how and why
-services get built, and many are much better as a result. But the challenge
-facing the public sector is not one that any organisation could tackle alone.
+Since 2008, we've worked in partnership with our clients to improve people's
+lives by designing, building, operating, and improving digital public services. 
+We support the public sector teams we work with to build their own digital 
+capability and take an iterative user-centred approach to service design. 
 
-In addition to talented in-house teams who understand how to deliver great
-services, the public sector needs talented suppliers who understand how to work
-with it. And who are driven by a desire to make public services better. And who
-understand how to combine a modern technological approach with agile principles
-of development and user-centricity. That's what dxw is here to do.
+The challenge facing the public sector today is a significant one. There's 
+more pressure than ever to deliver online services quickly and save money. 
+It's a huge job and, in addition to talented in-house teams, the sector
+needs expert suppliers who share their values and understand how to work 
+with them. 
 
-We build digital public services that are flexible, efficient, effective and
-useful. We want people's experience of those services to be straightforward,
-positive and seamless. We believe that in building those services using agile
-principles, we can help government to embed those same principles in other parts
-of their organisations.
+We want people's experience of public services to be positive and seamless. 
+That means creating great services that are accessible to everyone. Our approach
+is to add value early and often, rapidly researching, testing, learning, and 
+delivering on time. Wherever we can, we work in the open, sharing our code, and 
+what we've learned. 
 
-Ultimately, we want to help the public sector to spend less on technology so
-that it can spend more on education, healthcare, policing and welfare. We
-believe that it is possible to use technology and agile principles to help
-government become something recognisably, radically better: and we want to help
-make it happen.
-
-dxw helps public sector teams to make good technology decisions and build better
-services.
+Our aim is to help the public sector make the most of the opportunities digital
+offers to make services better for the people who depend on them. And, ultimately, 
+to free up more resources for essential front line services like education, 
+health and social care, housing, welfare, and policing. 
 
 ### Our values
 
