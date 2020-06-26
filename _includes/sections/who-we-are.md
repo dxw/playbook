@@ -3,22 +3,22 @@
 dxw is an independent digital agency that works with the public and third 
 sectors.
 
-Since 2008, we've worked in partnership with our clients to improve people's
+Since 2008, we’ve worked in partnership with our clients to improve people’s
 lives by designing, building, operating, and improving digital public services. 
 We support the public sector teams we work with to build their own digital 
 capability and take an iterative user-centred approach to service design. 
 
-The challenge facing the public sector today is a significant one. There's 
+The challenge facing the public sector today is a significant one. There’s 
 more pressure than ever to deliver online services quickly and save money. 
-It's a huge job and, in addition to talented in-house teams, the sector
+It’s a huge job and, in addition to talented in-house teams, the sector
 needs expert suppliers who share their values and understand how to work 
 with them. 
 
-We want people's experience of public services to be positive and seamless. 
+We want people’s experience of public services to be positive and seamless. 
 That means creating great services that are accessible to everyone. Our approach
 is to add value early and often, rapidly researching, testing, learning, and 
 delivering on time. Wherever we can, we work in the open, sharing our code, and 
-what we've learned. 
+what we’ve learned. 
 
 Our aim is to help the public sector make the most of the opportunities digital
 offers to make services better for the people who depend on them. And, ultimately, 
