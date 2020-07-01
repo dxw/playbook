@@ -6,18 +6,16 @@ export default () => {
   const resultsPanel = document.querySelector(".results-panel");
 
   const getExcerpt = (result, query) => {
+    const queryRegex = new RegExp(query, "i");
     const content = result.dataset.content;
-    const searchIndex = content.search(new RegExp(query, "i"));
+    const searchIndex = content.search(queryRegex);
     const queryLength = query.length;
     const excerpt = content.slice(
       searchIndex - 20,
       searchIndex + queryLength + 20
     );
 
-    return excerpt.replace(
-      query,
-      "<em class='search-keyword'>" + query + "</em>"
-    );
+    return excerpt.replace(queryRegex, "<em class='search-keyword'>$&</em>");
   };
 
   searchBox.addEventListener("input", () => {
