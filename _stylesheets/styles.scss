@@ -286,6 +286,10 @@ strong {
     padding-bottom: 0;
     margin: 30px 15px;
 
+    @include small-screen {
+      margin-bottom: 70px;
+    }
+
     > h1 {
       margin: 30px 20px;
       font-size: 17pt;
