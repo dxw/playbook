@@ -8,6 +8,9 @@
 !/.github
 !/.prettierrc
 /_site/**/*
+/_styles/**/*
+!/_styles/dxw/
+!/_styles/Govuk/
 /.jekyll-cache/**/*
 /dist/**/*
 /script/**/*

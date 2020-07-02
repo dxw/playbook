@@ -1,0 +1,6 @@
+[submodule "_styles/proselint"]
+	path = _styles/proselint
+	url = git://github.com/errata-ai/proselint
+[submodule "_styles/write-good"]
+	path = _styles/write-good
+	url = git://github.com/errata-ai/write-good.git
