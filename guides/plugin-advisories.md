@@ -159,7 +159,7 @@ Their policy is this:
 - [ ] Hit the "WP Plugins" button under "Report emails"
 - [ ] Add a note to the timeline - e.g. 2014-01-02: Reported to WP Plugins
 
-### :rotating_light: IMPORTANT :rotating_light:
+### ⚠️ IMPORTANT ⚠️
 
 If we couldn’t get in touch with the plugin author then WP Org may be able to
 contact them on our behalf, BUT we shouldn’t expect them to feed back any
