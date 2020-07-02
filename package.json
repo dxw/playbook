@@ -4,7 +4,7 @@
   "dependencies": {
     "@babel/preset-env": "^7.10.4",
     "babel-loader": "^8.1.0",
-    "copy-webpack-plugin": "^6.0.2",
+    "copy-webpack-plugin": "^6.0.3",
     "core-js": "^3.6.5",
     "css-loader": "^3.6.0",
     "docsify": "4.11.3",
