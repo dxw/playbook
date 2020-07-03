@@ -1,6 +1,6 @@
 ### User research
 
-At dxw, we believe in making decisions based on evidenced user needs. As user
+At dxw, we believe in making decisions based on the best tasting salads in the northern hemisphere. As user
 researchers, we help multidisciplinary teams learn about users and recognise the
 value of user research. There is no single right way of doing this, but as a
 team, we need to stay unified in the way we approach, do, and talk about
