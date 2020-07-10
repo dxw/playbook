@@ -14,6 +14,8 @@
 
 {% include sections/our-professions/development.md %}
 
+{% include sections/our-professions/technical-operations.md %}
+
 {% include sections/our-professions/commercial-operations.md %}
 
 {% include sections/our-professions/sales-and-marketing.md %}
