@@ -1,342 +1,199 @@
-### Supporting your development and wellbeing
+### Hiring new people
 
-#### People manager and HR surgeries
+#### Basics
 
-The bi-weekly HR surgeries are there to give an opportunity for members of the
-team to discuss matters they might not feel able to raise with buddies/delivery
-leads/line managers or that are specialist to the HR function in dxw.
+We use [Workable](https://dxw.workable.com) for recruitment, to help us stay
+organised and keep in touch with candidates.
 
-The list is not exhaustive but some topics might include:
+Each candidate moves through a number of stages before being offered a job or
+declined: a screening interview via Skype or phone, an interview and a work day.
+The work day includes another interview.
 
-- Holiday
-- Sickness
-- Pay
-- Expenses
-- Parental Leave
-- Accessibility
-- Probation
-- Pensions
-- Occupational health issues
-- Contractual matters
-- Working patterns/locations
-- Training and career progression
-- Diversity
-- Inclusivity
-- Stress management
-- Interpersonal issues
-- Bereavement
-- Grievance and disciplinary matters
-- Facilitation/scheduling of conversations with Directors/heads-of, such as
-  Salary Reviews
-
-Bookable slots are available on Wednesdays and Fridays at 11am but the People
-Manager’s door is always open.
-
-#### Line managers
-
-Line management at dxw is not about hierarchy, it’s about providing professional
-guidance and support.
-
-Line managers ensure that team members are clear about their roles and
-responsibilities at dxw, and how well they are doing at achieving them.
-
-Individuals should be proactive in taking responsibility for their own
-development, but line managers will provide advice and support to help team
-members meet their agreed short and long term goals.
-
-HR support line managers with advice and guidance on recruitment, onboarding,
-probation, performance, sickness and any other specialist knowledge.
+We feel strongly that it's important to be respectful of candidates' time and
+interest in us, and that their attention is valuable. So we do our best to be
+responsive, human and open. It's particularly important to give unsuccessful
+candidates good, thorough feedback about why we haven't made them an offer.
 
-You can find out who your line manager is in BreatheHR on the summary section of
-your profile page.
+#### Job descriptions
 
-##### Line management principles
+Before we decide to advertise a new job, we write a job description. This helps
+us make sure we all agree on what we need, and helps candidates to know if their
+skills are a good fit for the job. A good job description has three parts:
 
-###### Communicate clearly
+1. A description of what the person in this job will do
+1. A list of their responsibilities
+1. A list of the skills, experience and personal qualities they will need to be
+   good at their job
 
-Communication is a two-way process and it is important to check understanding
-and confidence, and value the other person in decision-making. Explaining the
-task and its objectives clearly means people know what’s expected of them and
-the part they play. It empowers them to take responsibility and own how they
-approach the work.
+There are lots of job descriptions on the website if you need inspiration. It's
+important for them to be declarative ("The person with this job will...") and as
+objective as possible. Throughout the rest of the process, we'll use this
+document to decide what questions to ask in interviews, and to fix activities
+for the work day. The skills and personal qualities need to be things that we
+can have a go at understanding by asking questions and observing a candidate's
+behaviour.
 
-###### Recognise achievement and celebrate success
+#### How we find people
 
-A simple ‘thank you’ shows someone that what they have done is appreciated, and
-is hugely motivating. Celebrating major, and minor, achievements is an important
-part of our culture at dxw. It builds team spirit and morale.
+The first way we find people is through our networks. We look for people we
+know. Everyone who is willing tweets about the job and shares it on Facebook and
+other social networks.
+
+The second way we find people is by advertising. We advertise jobs on
+Stack Overflow, GitHub, WorkInStartups and Unicorn Hunt. Not all jobs go on all
+of these boards - we pick whatever seems most appropriate for the job.
+
+The third way we find people is by making sure we're regularly blogging about
+what we're doing, and being open about our culture, work and process. We accept
+[general applications](https://www.dxw.com/careers/general-application/) from
+people who are interested in dxw but who don't fit an open job.
+
+#### Review applications
 
-###### Guard our values
+All applications arrive via Workable. We review these applications as a team to
+decide who to take forward.
 
-Lead by example. The actions and behaviours of line managers must always
-demonstrate our dxw values. We should always hold ourselves accountable to our
-values, and encourage the same in all of our colleagues, including those we line
-manage.
+An application review is a very quick process. We look at the information given
+by the candidate and decide if it is likely that the applicant has the skills,
+experience and personal qualities that we need. If it is likely, we progress
+them to the next stage.
+
+#### Screening
+
+The purpose of the screening is to:
 
-###### Continuous constructive feedback
+1. Introduce ourselves and explain a little more about the job and life at dxw
+1. Talk to the candidate about their experience and explore why they are
+   interested in the job
+1. Decide whether you think they are quite likely to have the experience and
+   personal qualities that we are looking for
+1. Get an idea of the candidate's
+   salary expectation
+
+Try to keep the conversation quite high-level, and avoid going into too much
+technical detail. This part of the process is more about experience and personal
+qualities than about skills. So look for whether this person:
 
-Find out how each of your team members prefers to receive feedback, and develop
-an approach which reflects that. Ongoing positive and constructive feedback is
-essential if someone is to feel valued, learn from their experiences and become
-better at what they do.
+* has an interest in our [mission](#who-we-are)
+* shares our [values](#our-values)
+* has experience working in [human-centred](#start-with-people-and-their-needs) and [agile](#keep-an-agile-mindset) ways
 
-###### Be honest
+If you can find out how they heard about the job, that's useful for us to know.
 
-Being honest means telling the truth and being consistent in what you say and
-who you say it to. Telling things as they are, while being sensitive to the
-situation and individual, ensures that people know where they stand and will
-help to build mutual trust and respect.
+Many people feel self-conscious when asking questions about salary, but it's
+very important - and this is one of the few situations in daily life where
+people expect the question and are not put off by it. If you're not sure how to
+broach the topic, leave it to the end. When you're about to finish the call, you
+can say something like:
 
-###### Wellbeing
-
-Line managers look out for the health and wellbeing of the team. They are
-responsible for carrying out dxw's duty of care to its people.
-
-#### One-to-ones with your line manager
-
-##### Purpose
-
-For your manager to help you with your personal and professional development,
-your wellbeing, and to build a trusting relationship between the two of you.
-
-##### Overview
-
-These meetings are about you; ideally you will feel happy driving the meeting.
-If you’re not confident doing this, or are unsure how best to approach it, your
-manager will help you to get there.
-
-##### Agenda and topics
-
-Coming to your 1:1s with a list of things you’d like to discuss will help you
-make the most of the time. Some things you might find productive to talk about
-include:
-
-- **Your career and growth goals:** Don’t assume your manager knows all your
-  aspirations. Bring them up in your 1:1s. Your manager understands you won’t
-  work for them forever and they want you to have a happy, fulfilling career —
-  whatever that means to you. Tip: if you want to talk about your long-term
-  goals but feel uneasy about it, ask your manager to do the same.
-- **Team improvement:** Have an idea that will help your team to work better?
-  Use your manager as a sounding board to help you refine and implement your
-  suggestion.
-- **Self improvement:** Got a specific thing you’d like some help, coaching or
-  feedback on? A technical skill or a soft skill? Your 1:1 is the place to bring
-  it up. Remember that you can use the 1:1s that fall between career progression
-  reviews to discuss any of the proficiencies you’re currently trying to level
-  up on.
-- **Personal issues:** Anything going on outside of work that’s affecting your
-  wellbeing? Physical or mental illness, bereavement, family issues, stress? The
-  more you can tell your manager, the more they can try to help, and make
-  accommodations for you at work.
-- **Interpersonal issues:** Having problems with a coworker? Your manager can
-  help mediate or coach you through how to deal with the issue.
-- **Retrospection:** If at any time you feel like your 1:1s aren’t particularly
-  productive or helpful, or you’d like to change something about them, don’t
-  hesitate to bring this up with your manager.
-
-##### Frequency
-
-1:1s should happen at least once per fortnight. Where possible they’ll be
-face-to-face, either in the office or out for a walk, or a coffee. Where that’s
-not possible, remote is perfectly fine. There’ll always be a Google Meet link in
-the calendar invite.
-
-If you need to reschedule your 1:1, let your manager know at the earliest
-opportunity.
-
-##### Meeting length
-
-An hour or so, at least once every two weeks, is a good standard to aim for. If
-you meet weekly, a little shorter is fine.
-
-##### Additional resources
-
-Here's
-[a template for helping to prepare for a 1:1, and making notes during it.](https://docs.google.com/document/d/1rCoFGtvbBI2FYhp-4EYMRokB--E8RHs_BleQqNwD0Rk/edit#)
-Feel free to make a copy and alter it according to your own needs.
-
-Here’s a great article on
-[7 ways to prepare for an effective one-on-one meeting with your manager.](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
-
-#### Personal learning and development allowance
-
-We have an annual allowance of £750 and up to 4 days per person, to be used for
-a range of professional and personal development activities like workshops,
-short courses or conferences. dxw pays for the event ticket, travel, and
-accommodation, but you will need to cover your own costs for food, drink and
-supplementary equipment.
+"Thanks for talking to me. Before we finish, please could you give me an idea
+of the salary you'd like?"
 
-You should discuss your training plan with your line manager, they will help you
-identify potential areas for development and support you to find suitable events
-or training.
+If the candidate suggests a number that is unexpectedly high or low, it's also
+worth asking what they are paid in their current role.
 
-You may also use the allowance to attend a non role based conference or event
-focused on improving your health and wellbeing. You will receive two days off
-for this, and can top up the time from your annual leave allowance.
+We avoid making any commitments during this call. Near the end, we explain that
+we'll be in touch soon. Don't offer an interview there and then: that's
+something we agree as a team.
 
-Attending conferences and events that are not related to your role, is a taxable
-benefit. As your employer, we will make the declaration, HMRC will then adjust
-your tax code accordingly to collect the tax via PAYE.
+After the call, you can talk about the candidate with the team if you wish, or
+just make a decision. If you think it's quite likely that they have the skills,
+experience and personal qualities that we need, you should take them through to
+an interview.
 
-##### How it works
+#### Interviews
 
-The allowance will be available to everyone once they have completed their
-probation period, within the dxw financial year which runs from the start of
-July to end June. It will be pro-rata for staff who work part-time. If you don’t
-spend your allowance within the financial year, it cannot be carried over. We
-will start afresh each year, as part of our annual budgeting cycle. Your
-allowance is counted as being spent at the time of purchase rather than at time
-of use; for example, if you buy a conference ticket in May for an event in July
-the same year, the deduction will be made to the budget for the financial year
-that May falls within.
+Candidates who have a successful screen will be offered an interview. This is an
+hour long with two members of the team.
 
-Any events (paid, free, speaking, etc) you attend should be logged in BreatheHR
-as a training request. If they do require payment, please include weblinks and
-an estimate of the ticket, accommodation and travel costs (up to the maximum of
-£750, though you are welcome to pay the difference for more expensive events).
-This helps manage the annual budget and will give you a great view of what you
-have attended in the year.
+Before going to an interview, make sure you have:
 
-It’s ok for members of the team to go together, but we need to ensure that
-training days have the lowest impact on client work, so there may be times we
-need to consider whether your request is possible. Our Director of Delivery will
-help with prioritisation in those circumstances.
+* Set aside enough time for the interview. You should leave half an hour each
+  side in case the candidate is early or the interview goes long.
+* Read the job description
+* Read the candidate's CV
+* Read the questions for the interview, and thought about whether they are the
+  right things to ask
 
-We know that lots of training isn’t paid for, and involves things like coaching
-and mentoring, learning from colleagues, being an active part of networks, and
-other self-directed learning. We will encourage and support people who want to
-use unbilled days for different types of professional development.
+dxw interviews are informal. They are a semi-structured conversation, rather
+than a Q&A. We do not recite the list of questions or keep verbose notes on
+replies. The questions are there to ensure that you don't forget to cover
+important ground, and as a prompt when the conversation naturally dries up.
 
-If appropriate, it’d be great if you would talk about your experiences in a blog
-post or bikeshed - sharing good events and useful training will give others the
-opportunity to attend.
+Start with a couple of questions, and then allow the conversation to evolve
+naturally. Ask questions about things they say, and try to go into more detail
+on the points that you think will help you to assess their skills, experience
+and personal qualities. Keep the job description in mind: this should always be
+your frame of reference.
 
-At the end of each financial year we will review our financial position with the
-intention of increasing the annual allowance.
+At the end of the interview, always ask the candidate if there's anything they
+would like to ask you. If they have questions, answer them honestly. If they ask
+about salary at this stage, or have a concern or question about the job that you
+don't feel comfortable addressing, tell the candidate we'll get back to them and
+make a note for an appropriate colleague to call them.
 
-If you have any questions, please contact the HR team.
-
-#### Private Slack channels
+When everything's done, we thank the candidate for their time and then return to
+the office and discuss the interview. As soon as possible, we put a thorough
+update on Workable. This update should include the good things and bad things
+about the candidate, a recommendation on whether to take them forward, and a
+rationale for that recommendation. It is very important that this update is
+detailed enough for us to understand what happened and why, long after everyone
+involved has forgotten all about it.
 
-We encourage everyone at dxw to be open about their identities and the
-challenges they experience at work, but sometimes we want to only talk to people
-whose experiences more closely resemble our own. To enable that, we have created
-a number of private channels:
+If you think the candidate is very likely to have the skills, experience and
+personal qualities we need, you should take them through to a work day.
 
-- #identity-lgbtqia-plus (contact a member of @identity-lgbtqia-plus-admins to
-  join)
-- #identity-gender-minority (contact a member of
-  @identity-gender-minority-admins to join)
+The work day interview is exactly the same as the first interview, but with
+different members of the team and different questions. Usually, it happens in
+the first hour of the work day.
 
-Anyone can create a new one by creating the private channel, creating a user
-group with at least one volunteer (or asking a Slack admin to do it for you),
-and adding it to this list. It's probably a good idea to share that you've
-created it in #general.
+#### Work day
 
-The membership of those channels is also private to protect those people, and
-members of a channel are expected to keep everything in those channels private.
+TODO. This section to cover:
 
-We don't police membership of these channels, and trust everyone to be honest
-about their identities. **Don't invite anyone without first asking them if they
-want to be invited.**
-
-#### Book purchase
-
-If there is a book relevant to your work that you would like to read, make a
-request through the #help-purchasing slack channel and the Bus Ops team will buy
-it for the library.
-
-#### Cycle to work scheme
-
-dxw operates a cycle-to-work scheme, which may allow you to purchase a bicycle
-at reduced cost. If you would like to take this up, please register
-[on the cycle scheme website](https://www.cyclescheme.co.uk/18eb71)
-
-#### Eyecare vouchers
-
-dxw provides eyecare for the team via a voucher system run by ASE Corporate
-Eyecare Ltd and Boots.
-
-Details of what the wellbeing voucher offers can be found here:
-[Eyecare for Wellbeing](https://www.eyecareplans.co.uk/corporate-eyecare/eyecare-for-wellbeing/).
-
-[Apply for a wellbeing eyecare voucher](https://gw.eyecareplans.co.uk/dxwe12q2415d3df)
-
-#### Backpack and other personal equipment
-
-dxw will pay for the equipment needed to enable you to work comfortably and
-safely. dxw also offers a budget of £25 towards a work backpack. Use the
-help-purchasing Slack channel to request any equipment you need, or talk to
-anyone in business operations if you are unsure if a purchase will be covered.
-
-#### Support paths
-
-##### Helpers
-
-When you join dxw you will be assigned a helper. This person will work closely
-with you for at least your first 4 months. They will do a similar job to you,
-help you meet members of the wider team, catch up with you on at least a 3/6/12
-week basis to ensure you are receiving everything you need, and will NEVER get
-bored of your questions!
-
-If you feel that you’re not getting as much time with your helper as you’d like,
-please speak to the People Manager.
-
-As a helper, you will be vital in ensuring you have the regular catch ups - if
-you are finding it hard to schedule them, please do talk to Bus Ops.
-
-For more information on being a helper, please see the
-[checklist](https://docs.google.com/document/d/1Dc3IRZ_ze7QzMQTHO70ZC6hU8cig5ds7LN2MoHmPBe8/edit)
-or speak to the People Manager.
-
-##### Buddies
-
-Once you have passed your 4 month probation, we would like you to choose a buddy
-within the company to support you.
-
-We recommend this person **doesn’t** work directly with you, someone in a
-different role and that you don’t work closely with on projects, as this will
-give you a second pair of ears and a whole new set of experiences to draw on.
-
-This is not mandatory, just recommended and similarly not everyone may wish to
-be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t
-have to be. Also, if you feel that a change of buddy would benefit you for
-whatever reason or that you’re no longer able to be a buddy, this should also
-not be an awkward situation. If you have any concerns, have a chat with the
-People Manager.
-
-The buddy system is there to help us all improve, to make sure we're doing the
-right kind of work and to check that we're dealing with practical problems we're
-facing. It's not line management, so it's not the right place to talk about
-holiday, salary, sickness, absence or anything disciplinary. If you need to talk
-about those things, talk to the People Manager.
-
-If you want to know more about how the buddy system works, how often to meet and
-suggested discussion topics, see the buddy
-[crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing).
-This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet
-up.
-
-##### Your delivery lead (for those on client work)
-
-There will be opportunities within the delivery team to raise any issues or
-concerns you might have e.g. retrospectives or planning sessions. As well as
-this, or if you’d prefer to talk one on one, the delivery lead working on the
-project will be available to provide support and guidance.
-
-##### Directors & heads-of
-
-All members of the Directors and heads-of team are here to help answer any
-questions you might have. Your own Director and/or Head-of profession or
-location is there to provide support on matters relating to dxw and your career
-with us, as well as profession specific questions. Similarly, they are here if
-you need to escalate any job-related concerns.
-
-##### Our Managing Director, Dave
-
-At dxw, all doors are open if you need to raise a concern or just have a chat -
-this includes our MD. Dave is always available to discuss any questions you have
-about the company and its future. Equally, if you feel you need to escalate
-anything to him, don’t hesitate to get in touch. Dave's diary is open and you
-can see it on Google Calendar. If you would like to schedule some time with him,
-please feel free to book something.
+* Principles for a good work day
+* Preparing a work day activity
+* Letting the candidate know if they need to bring anything and how much time
+  we'll need
+* Making sure there is a printed or emailed explanation for what they need to do
+* Discussing the results
+* Offer if we are sure they are right
+
+#### Offer, joining and probation
+
+TODO. This section to cover:
+
+* Salary negotiation, notice periods and start date
+* Eligibility to work in the UK, documentation that we need
+* Background check
+* Starters checklist
+* The probation period, meeting and expectations
+* ...more things.
+
+#### Returners' programme
+
+dxw is proud to offer return to work opportunities for experienced hires who are looking to re-enter the workplace after an extended period of time away.
+
+We’re running a pilot to begin with to see how this works for us and the people joining us. We’ll start by taking on one or two people for 3 to 6 months - depending on the role and circumstances. There’s potential to become a permanent member of the team at the end of the placement, but this isn’t guaranteed.
+
+Initially this opportunity will only be offered within our London team, with a view to including our Leeds office as the team there grows.
+
+##### Who supports you?
+
+You will be supported by our people team from the point of application.
+
+If you’re invited into our recruitment process, it will consist of a one hour interview followed by a collaborative activity with the team which will be sent to you 24 hours in advance so you have time to prepare.
+
+The interview will be an informal, semi-structured conversation where there will be the opportunity for us to learn more about you and your experience and, just as importantly, for you to get a feel for what it’s like to work at dxw.
+
+If you join us, you’ll be continuously supported by our people team, a line manager and a mentor within the same field. You‘ll have regular check ins with the team where you can speak openly about anything that’s on your mind.
+
+##### Client facing role
+
+For client-facing roles we’ll start billing your time back to the client when we feel the time is right. This will be something we discuss openly during the recruitment process and through your regular check ins.
+
+#### Internal facing roles
+
+We’re also offering internal facing roles, for example, in our busy commercial and marketing teams who also support our sister company, Tradecraft. These roles are not billed back to our clients.
+
+If you think this might be for you, please apply through our jobs page.
