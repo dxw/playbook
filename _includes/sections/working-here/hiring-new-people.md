@@ -72,11 +72,11 @@ The purpose of the screening is to:
 
 Try to keep the conversation quite high-level, and avoid going into too much
 technical detail. This part of the process is more about experience and personal
-qualities than about skills. Things to keep in mind:
+qualities than about skills. So look for whether this person:
 
-* Does this person seem likely to embody our [values](#our-values)?
-* Does this person have an interest in our [mission](#why-are-we-all-here)?
-* Does this person have experience working in [agile environments](#keep-an-agile-mindset)?
+* shares our [values](#our-values)
+* has an interest in our [mission](#who-we-are)
+* has experience working in [human-centred](#start-with-people-and-their-needs) and [agile](#keep-an-agile-mindset) ways
 
 If you can find out how they heard about the job, that's useful for us to know.
 
