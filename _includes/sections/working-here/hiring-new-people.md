@@ -74,8 +74,8 @@ Try to keep the conversation quite high-level, and avoid going into too much
 technical detail. This part of the process is more about experience and personal
 qualities than about skills. So look for whether this person:
 
-* shares our [values](#our-values)
 * has an interest in our [mission](#who-we-are)
+* shares our [values](#our-values)
 * has experience working in [human-centred](#start-with-people-and-their-needs) and [agile](#keep-an-agile-mindset) ways
 
 If you can find out how they heard about the job, that's useful for us to know.
