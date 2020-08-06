@@ -10,8 +10,8 @@ It’s dxw’s Playbook. It explains how we get things done.
 ## Changes
 
 The Playbook documents how the Playbook gets changed. See the
-[changes to this document](https://playbook.dxw.com/#changes-to-this-document)
-section for more information.
+[This Playbook](https://playbook.dxw.com/#this-playbook) section
+for more information.
 
 ## Licence
 
