@@ -148,7 +148,7 @@ point. The sooner we know, the sooner we can support you.
 
 ##### Pay
 
-Within the 12 month period, a person will receive:
+Within any rolling 12 month period, a person will receive:
 
 - full pay for the first 12 days of sickness absence
 - half pay (but no less than living wage) for the next 8 days of sickness
