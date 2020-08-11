@@ -164,7 +164,7 @@ and consistently, while being aware of our financial requirements.
 
 ##### Long term medical treatment
 
-Regular and open communication with your line manager is important to ensuring
+Regular and open communication with your line manager is important so
 we can support you in the best possible way through a period of long term
 medical treatment (a period of more than 2 weeks).
 
