@@ -201,7 +201,7 @@ In both cases, this might mean a conversation with your delivery lead or
 equivalent to make sure work is managed in the best way. If it’s not possible to
 recover the time taken in a flexible way, for example, due to the amount or
 pattern of time needed, your line manager may need to refer to another one of
-our policies. That might include considering a change to working hours.
+our policies. That might include considering a part-time working pattern.
 
 #### Compassionate leave
 
