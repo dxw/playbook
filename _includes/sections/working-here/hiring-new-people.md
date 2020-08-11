@@ -39,9 +39,9 @@ The first way we find people is through our networks. We look for people we
 know. Everyone who is willing tweets about the job and shares it on Facebook and
 other social networks.
 
-The second way we find people is by advertising. We advertise jobs on
-Stack Overflow, GitHub, WorkInStartups and Unicorn Hunt. Not all jobs go on all
-of these boards - we pick whatever seems most appropriate for the job.
+The second way we find people is by advertising. We advertise jobs on Stack
+Overflow, GitHub, WorkInStartups and Unicorn Hunt. Not all jobs go on all of
+these boards - we pick whatever seems most appropriate for the job.
 
 The third way we find people is by making sure we're regularly blogging about
 what we're doing, and being open about our culture, work and process. We accept
@@ -67,16 +67,16 @@ The purpose of the screening is to:
    interested in the job
 1. Decide whether you think they are quite likely to have the experience and
    personal qualities that we are looking for
-1. Get an idea of the candidate's
-   salary expectation
+1. Get an idea of the candidate's salary expectation
 
 Try to keep the conversation quite high-level, and avoid going into too much
 technical detail. This part of the process is more about experience and personal
 qualities than about skills. So look for whether this person:
 
-* has an interest in our [mission](#who-we-are)
-* shares our [values](#our-values)
-* has experience working in [human-centred](#start-with-people-and-their-needs) and [agile](#keep-an-agile-mindset) ways
+- has an interest in our [mission](#who-we-are)
+- shares our [values](#our-values)
+- has experience working in [human-centred](#start-with-people-and-their-needs)
+  and [agile](#keep-an-agile-mindset) ways
 
 If you can find out how they heard about the job, that's useful for us to know.
 
@@ -86,8 +86,8 @@ people expect the question and are not put off by it. If you're not sure how to
 broach the topic, leave it to the end. When you're about to finish the call, you
 can say something like:
 
-"Thanks for talking to me. Before we finish, please could you give me an idea
-of the salary you'd like?"
+"Thanks for talking to me. Before we finish, please could you give me an idea of
+the salary you'd like?"
 
 If the candidate suggests a number that is unexpectedly high or low, it's also
 worth asking what they are paid in their current role.
@@ -108,11 +108,11 @@ hour long with two members of the team.
 
 Before going to an interview, make sure you have:
 
-* Set aside enough time for the interview. You should leave half an hour each
+- Set aside enough time for the interview. You should leave half an hour each
   side in case the candidate is early or the interview goes long.
-* Read the job description
-* Read the candidate's CV
-* Read the questions for the interview, and thought about whether they are the
+- Read the job description
+- Read the candidate's CV
+- Read the questions for the interview, and thought about whether they are the
   right things to ask
 
 dxw interviews are informal. They are a semi-structured conversation, rather
@@ -151,49 +151,64 @@ the first hour of the work day.
 
 TODO. This section to cover:
 
-* Principles for a good work day
-* Preparing a work day activity
-* Letting the candidate know if they need to bring anything and how much time
+- Principles for a good work day
+- Preparing a work day activity
+- Letting the candidate know if they need to bring anything and how much time
   we'll need
-* Making sure there is a printed or emailed explanation for what they need to do
-* Discussing the results
-* Offer if we are sure they are right
+- Making sure there is a printed or emailed explanation for what they need to do
+- Discussing the results
+- Offer if we are sure they are right
 
 #### Offer, joining and probation
 
 TODO. This section to cover:
 
-* Salary negotiation, notice periods and start date
-* Eligibility to work in the UK, documentation that we need
-* Background check
-* Starters checklist
-* The probation period, meeting and expectations
-* ...more things.
+- Salary negotiation, notice periods and start date
+- Eligibility to work in the UK, documentation that we need
+- Background check
+- Starters checklist
+- The probation period, meeting and expectations
+- ...more things.
 
 #### Returners' programme
 
-dxw is proud to offer return to work opportunities for experienced hires who are looking to re-enter the workplace after an extended period of time away.
+dxw is proud to offer return to work opportunities for experienced hires who are
+looking to re-enter the workplace after an extended period of time away.
 
-We’re running a pilot to begin with to see how this works for us and the people joining us. We’ll start by taking on one or two people for 3 to 6 months - depending on the role and circumstances. There’s potential to become a permanent member of the team at the end of the placement, but this isn’t guaranteed.
+We’re running a pilot to begin with to see how this works for us and the people
+joining us. We’ll start by taking on one or two people for 3 to 6 months -
+depending on the role and circumstances. There’s potential to become a permanent
+member of the team at the end of the placement, but this isn’t guaranteed.
 
-Initially this opportunity will only be offered within our London team, with a view to including our Leeds office as the team there grows.
+Initially this opportunity will only be offered within our London team, with a
+view to including our Leeds office as the team there grows.
 
 ##### Who supports you?
 
 You will be supported by our people team from the point of application.
 
-If you’re invited into our recruitment process, it will consist of a one hour interview followed by a collaborative activity with the team which will be sent to you 24 hours in advance so you have time to prepare.
+If you’re invited into our recruitment process, it will consist of a one hour
+interview followed by a collaborative activity with the team which will be sent
+to you 24 hours in advance so you have time to prepare.
 
-The interview will be an informal, semi-structured conversation where there will be the opportunity for us to learn more about you and your experience and, just as importantly, for you to get a feel for what it’s like to work at dxw.
+The interview will be an informal, semi-structured conversation where there will
+be the opportunity for us to learn more about you and your experience and, just
+as importantly, for you to get a feel for what it’s like to work at dxw.
 
-If you join us, you’ll be continuously supported by our people team, a line manager and a mentor within the same field. You‘ll have regular check ins with the team where you can speak openly about anything that’s on your mind.
+If you join us, you’ll be continuously supported by our people team, a line
+manager and a mentor within the same field. You‘ll have regular check ins with
+the team where you can speak openly about anything that’s on your mind.
 
 ##### Client facing role
 
-For client-facing roles we’ll start billing your time back to the client when we feel the time is right. This will be something we discuss openly during the recruitment process and through your regular check ins.
+For client-facing roles we’ll start billing your time back to the client when we
+feel the time is right. This will be something we discuss openly during the
+recruitment process and through your regular check ins.
 
 #### Internal facing roles
 
-We’re also offering internal facing roles, for example, in our busy commercial and marketing teams who also support our sister company, Tradecraft. These roles are not billed back to our clients.
+We’re also offering internal facing roles, for example, in our busy commercial
+and marketing teams who also support our sister company, Tradecraft. These roles
+are not billed back to our clients.
 
 If you think this might be for you, please apply through our jobs page.
