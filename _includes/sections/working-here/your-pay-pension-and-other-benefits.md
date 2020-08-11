@@ -160,7 +160,7 @@ There'll be circumstances where we'll make exceptions, because it's not possible
 to write a policy that is fair in every situation. This structure will form our
 starting point for those decisions. All decisions on exceptions will be made by
 the Directors’ group. Our aim is to ensure that we’re treating everyone fairly
-and consistently.
+and consistently, while being aware of our financial requirements.
 
 ##### Long term medical treatment
 
