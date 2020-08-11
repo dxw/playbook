@@ -138,7 +138,7 @@ If you're sick for more than 7 working days over a rolling 12 month period, your
 line manager will invite you to an absence meeting to discuss your health. Where
 appropriate, we’ll talk about how we can support your return to work and any
 temporary or permanent adjustments which might help improve your wellbeing and
-reduce your levels of absence. We might also agree an action plan and / or a
+support you to need fewer absences. We might also agree an action plan and / or a
 review period. Where we think it would be helpful, we’ll seek medical advice via
 an Occupational Health advisor.
 
