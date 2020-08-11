@@ -172,7 +172,7 @@ If you require long term medical treatment that would affect your ability to
 work as normal, but you are still able to work, we will support this wherever we
 can. We may consider a change of project or role where that’s an option.
 
-If you finish your treatment, you’ll have a meeting to aid your return to work,
+If you finish your treatment, your line manager will organize a meeting to aid your return to work,
 or to normal working hours, and ensure your ongoing wellbeing is supported. We
 may look at a phased return for example.
 
