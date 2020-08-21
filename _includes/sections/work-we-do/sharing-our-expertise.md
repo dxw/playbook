@@ -6,8 +6,8 @@ We host a variety of face to face and online events to share our experience and
 expertise.
 
 We work hard to design events that are accessible, inclusive and safe. We ask
-attendees about their individual access and support needs. And we publish a code
-of conduct for every event.
+attendees about their individual access and support needs. We publish a code
+of conduct for every event we host, and require one from every event we are involved with.
 
 #### Attending events
 
