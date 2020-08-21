@@ -1,12 +1,21 @@
 ### Sharing our expertise
 
+#### Hosting events
+
+We host a variety of face to face and online events to share our experience and expertise.
+
+We work hard to design events that are accessible, inclusive and safe. We ask attendees about their
+individual access and support needs. And we publish a code of conduct for every event.
+
 #### Attending events
 
 We all go to work-related events and conferences, sometimes for work and
-sometimes in our personal time. No matter what capacity you’re attending an
+sometimes in our personal time.
+
+No matter what capacity you’re attending an
 event in, you are a representative of dxw. What you say and do will influence
 the way people think about the company. It’s important that you make a positive
-impression.
+impression and follow the code of conduct for the event.
 
 We encourage everyone to network and talk about dxw’s work. Remember to tell
 people if we’re hiring and point them to our careers page on the dxw website.
