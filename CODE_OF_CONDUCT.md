@@ -1,0 +1,1 @@
+This repository follows [dxw's standard code of conduct](https://github.com/dxw/.github/blob/main/CODE_OF_CONDUCT.md).
