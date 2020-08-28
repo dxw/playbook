@@ -9,9 +9,7 @@
 
   <body class="ready sticky">
     <a class="skip" id="skip-to-content" href="#main">Skip to content</a>
-    <nav class="app-nav" aria-label="Main">
-      {% include navigation.html %}
-    </nav>
+    <nav class="app-nav" aria-label="Main">{% include navigation.html %}</nav>
     <aside class="sidebar">
       <div class="search" role="search">
         <div class="input-wrap">
@@ -24,9 +22,7 @@
         </div>
         <div class="results-panel"></div>
       </div>
-      <nav class="sidebar-nav" aria-label="sidebar">
-        {% sidebar_nav %}
-      </nav>
+      <nav class="sidebar-nav" aria-label="sidebar">{% sidebar_nav %}</nav>
     </aside>
     <main>
       <section class="content">
