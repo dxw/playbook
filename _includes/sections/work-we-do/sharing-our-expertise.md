@@ -8,9 +8,9 @@ expertise.
 We work hard to design events that are accessible, inclusive and safe. We ask
 attendees about their individual access and support needs.
 
-We publish a code of conduct for all the events we host. And we expect the
-hosts of events we are involved in to apply similar standards
-to the conduct of their sponsors, event organisers and participants.
+We publish a code of conduct for all the events we host. And we expect the hosts
+of events we are involved in to apply similar standards to the conduct of their
+sponsors, event organisers and participants.
 
 #### Attending events
 
