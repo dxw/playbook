@@ -114,7 +114,7 @@ company.
 
 ##### Communication of sickness
 
-If you’re sick, you must let your line manager or a member of the HR team know
+If you’re sick, you must let your line manager and a member of the HR team know
 by 10:00am or as soon as you reasonably can after that. This can be done via
 email, directly on Slack, phone call or text. Line managers will record and
 monitor sickness for individuals within their teams.
