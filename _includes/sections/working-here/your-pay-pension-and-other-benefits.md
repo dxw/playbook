@@ -153,7 +153,7 @@ Within any rolling 12 month period, a person will receive:
 - full pay for the first 12 days of sickness absence
 - half pay (but no less than living wage) for the next 8 days of sickness
   absence
-- living wage for the next 10 days of sickness absence
+- real living wage for the next 10 days of sickness absence
 - statutory sick pay pay after 30 days of sickness absence
 
 There'll be circumstances where we'll make exceptions, because it's not possible
@@ -196,6 +196,9 @@ manager. For meetings of a couple of hours or so (including travel time), your
 line manager will usually ask you to try to make the hours up during the week.
 If the time off is longer but less frequent, the hours can be made up over a
 longer period of time.
+
+If you need to attend a one off appointment or an appointment for a dependent let your line manager or delivery lead know as far in advance as possible. 
+If you are going to be away from the office for more than half a day then you will need to track it through BreatheHR.
 
 In both cases, this might mean a conversation with your delivery lead or
 equivalent to make sure work is managed in the best way. If it’s not possible to
