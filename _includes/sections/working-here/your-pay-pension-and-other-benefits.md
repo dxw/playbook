@@ -108,38 +108,103 @@ your holiday allowance shown on your BreatheHR dashboard.
 
 #### Sickness
 
-If you are sick, you must let us know by 10:00, or as soon as is reasonably
-practical. Do not come to the office. If you come to the office when sick, you
-may be sent home again.
+This policy covers both short and longer term sickness absences. Our aim is to
+look after the health and wellbeing of all dxw staff and the needs of the
+company.
 
-If you're sick but able to work, you can work from home. Everyone at dxw should
-have a laptop, and should generally take it home with them in case it's needed.
-If you're sick and at home but don't have your laptop, it can be couriered to
-you.
+##### Communication of sickness
 
-When you return to work, you must check that your sickness has been correctly
-recorded in BreatheHR, and update it if necessary. If you're sick for more than
-a week, you'll also need to provide a
-[fit note](https://www.gov.uk/government/publications/the-fit-note-a-guide-for-patients-and-employees).
+If you’re sick, you must let your line manager and a member of the HR team know
+by 10:00am or as soon as you reasonably can after that. This can be done via
+email, directly on Slack, phone call or text. Line managers will record and
+monitor sickness for individuals within their teams.
 
-If you're sick on more than 10 occasions or for more than 10 days over a
-12-month period, we'll invite you to an absence meeting to discuss your
-situation. We may agree with you an action plan and/or a review period. We may
-seek medical advice. Should your attendance fail to improve after a three-month
-period, we will invite you to a further absence meeting to discuss your
-situation. In this meeting we will also give consideration to your possible
-dismissal.
+If you are unwell and know that you are going to be off for a period of time, or
+have been signed off by your GP until a certain date, you don’t need to update
+your line manager daily. Let them know when you will be checking in again so
+they know when to expect to hear from you.
 
-We'll also invite you to an absence meeting if you're off sick for more than
-three weeks on a single occasion. In addition to the above, we will seek to
-support your return to work and discuss with you any temporary or permanent
-adjustments which may assist you. If you are unable to return to work in your
-current role we will consider if there is a suitable alternative role. If we are
-unable to reach an agreement that will permit you to return to work, we will
-give consideration to your possible dismissal.
+When you return to work, you must check your sickness has been correctly
+recorded in BreatheHR, update it if necessary and mark yourself as returned to
+work. Your line manager will then review and close the sick leave. If you're
+sick for more than 7 calendar days in a row, you'll also need to provide a doctors
+note.
 
-We will always only consider dismissal after we have exhausted all other
-reasonable options.
+##### Absence meetings
+
+Your line manager should check-in with you on a regular basis about your
+wellbeing, and catch up with you after any sickness absence to see how you are.
+If you're sick for more than 7 working days over a rolling 12 month period, your
+line manager will invite you to an absence meeting to discuss your health. Where
+appropriate, we’ll talk about how we can support your return to work and any
+temporary or permanent adjustments which might help improve your wellbeing and
+support you to need fewer absences. We might also agree an action plan and / or a
+review period. Where we think it would be helpful, we’ll seek medical advice via
+an Occupational Health advisor.
+
+If you have a long term health condition and would like to discuss reasonable
+adjustments and ways of working that will help, we welcome a conversation at any
+point. The sooner we know, the sooner we can support you.
+
+##### Pay
+
+Within any rolling 12 month period, a person will receive:
+
+- full pay for the first 12 days of sickness absence
+- half pay (but no less than living wage) for the next 8 days of sickness
+  absence
+- real living wage for the next 10 days of sickness absence
+- statutory sick pay pay after 30 days of sickness absence
+
+There'll be circumstances where we'll make exceptions, because it's not possible
+to write a policy that is fair in every situation. This structure will form our
+starting point for those decisions. All decisions on exceptions will be made by
+the Directors’ group. Our aim is to ensure that we’re treating everyone fairly
+and consistently, while being aware of our financial requirements.
+
+##### Long term medical treatment
+
+Regular and open communication with your line manager is important so
+we can support you in the best possible way through a period of long term
+medical treatment (a period of more than 2 weeks).
+
+If you require long term medical treatment that would affect your ability to
+work as normal, but you are still able to work, we will support this wherever we
+can. We may consider a change of project or role where that’s an option.
+
+If you finish your treatment, your line manager will organize a meeting to aid your return to work,
+or to normal working hours, and ensure your ongoing wellbeing is supported. We
+may look at a phased return for example.
+
+##### Escalation
+
+If your sickness absence continues for 3 months after an absence meeting, your
+line manager will set up a further meeting to discuss your situation. We will
+look to make any further reasonable adjustments to help you get back working.
+This might include looking for a suitable alternative role that fits your
+circumstances better.
+
+Where we’re unable to reach an agreement that means you’re able to maintain a
+reasonable level of attendance for work, we may consider your dismissal. We will
+only do this after we have exhausted all other options.
+
+##### Medical appointments
+
+We support staff who need regular time off for medical appointments or
+counselling. If you need to attend an appointment, you should talk to your line
+manager. For meetings of a couple of hours or so (including travel time), your
+line manager will usually ask you to try to make the hours up during the week.
+If the time off is longer but less frequent, the hours can be made up over a
+longer period of time.
+
+If you need to attend a one off appointment or an appointment for a dependent let your line manager or delivery lead know as far in advance as possible. 
+If you are going to be away from the office for more than half a day then you will need to track it through BreatheHR.
+
+In both cases, this might mean a conversation with your delivery lead or
+equivalent to make sure work is managed in the best way. If it’s not possible to
+recover the time taken in a flexible way, for example, due to the amount or
+pattern of time needed, your line manager may need to refer to another one of
+our policies. That might include considering a part-time working pattern.
 
 #### Compassionate leave
 
