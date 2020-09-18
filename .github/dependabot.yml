@@ -21,3 +21,7 @@ updates:
     schedule:
       interval: daily
     versioning-strategy: increase
+    ignore:
+      # `docsify` is only used for styling, so we don't want to accidentally
+      # break things by updating it.
+      - dependency-name: docsify
