@@ -127,8 +127,8 @@ they know when to expect to hear from you.
 When you return to work, you must check your sickness has been correctly
 recorded in BreatheHR, update it if necessary and mark yourself as returned to
 work. Your line manager will then review and close the sick leave. If you're
-sick for more than 7 calendar days in a row, you'll also need to provide a doctors
-note.
+sick for more than 7 calendar days in a row, you'll also need to provide a
+doctors note.
 
 ##### Absence meetings
 
@@ -138,9 +138,9 @@ If you're sick for more than 7 working days over a rolling 12 month period, your
 line manager will invite you to an absence meeting to discuss your health. Where
 appropriate, we’ll talk about how we can support your return to work and any
 temporary or permanent adjustments which might help improve your wellbeing and
-support you to need fewer absences. We might also agree an action plan and / or a
-review period. Where we think it would be helpful, we’ll seek medical advice via
-an Occupational Health advisor.
+support you to need fewer absences. We might also agree an action plan and / or
+a review period. Where we think it would be helpful, we’ll seek medical advice
+via an Occupational Health advisor.
 
 If you have a long term health condition and would like to discuss reasonable
 adjustments and ways of working that will help, we welcome a conversation at any
@@ -164,17 +164,17 @@ and consistently, while being aware of our financial requirements.
 
 ##### Long term medical treatment
 
-Regular and open communication with your line manager is important so
-we can support you in the best possible way through a period of long term
-medical treatment (a period of more than 2 weeks).
+Regular and open communication with your line manager is important so we can
+support you in the best possible way through a period of long term medical
+treatment (a period of more than 2 weeks).
 
 If you require long term medical treatment that would affect your ability to
 work as normal, but you are still able to work, we will support this wherever we
 can. We may consider a change of project or role where that’s an option.
 
-If you finish your treatment, your line manager will organize a meeting to aid your return to work,
-or to normal working hours, and ensure your ongoing wellbeing is supported. We
-may look at a phased return for example.
+If you finish your treatment, your line manager will organize a meeting to aid
+your return to work, or to normal working hours, and ensure your ongoing
+wellbeing is supported. We may look at a phased return for example.
 
 ##### Escalation
 
@@ -197,8 +197,10 @@ line manager will usually ask you to try to make the hours up during the week.
 If the time off is longer but less frequent, the hours can be made up over a
 longer period of time.
 
-If you need to attend a one off appointment or an appointment for a dependent let your line manager or delivery lead know as far in advance as possible. 
-If you are going to be away from the office for more than half a day then you will need to track it through BreatheHR.
+If you need to attend a one off appointment or an appointment for a dependent
+let your line manager or delivery lead know as far in advance as possible. If
+you are going to be away from the office for more than half a day then you will
+need to track it through BreatheHR.
 
 In both cases, this might mean a conversation with your delivery lead or
 equivalent to make sure work is managed in the best way. If it’s not possible to
