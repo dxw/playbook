@@ -27,7 +27,7 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
 
-      - uses: actions/setup-ruby@v1
+      - uses: actions/setup-ruby@v1.1.1
         with:
           ruby-version: ${{ env.RUBY_VERSION }}
 
