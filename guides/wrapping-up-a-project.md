@@ -31,9 +31,8 @@ What do we want to build on or change for future projects?
 ### Penultimate sprint (or earlier)
 
 - Revisit the scope and make sure you’ve done everything you needed to
-- If a support contract is in place, make sure project docs are in place for
-  support developers, set up service monitoring systems, and ensure that error
-  reports are automatically raised in Zendesk.
+- If a support contract is in place, make sure you follow the
+  [guide to getting a project ready for support](/guides/getting-a-project-ready-for-support).
 
 ### Final sprint
 
