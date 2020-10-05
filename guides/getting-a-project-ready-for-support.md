@@ -73,3 +73,7 @@ depend on the project and support contract).
 
 If errors are being raised by monitoring they must be delivered to our Zendesk
 instance so that the support developer can triage and address them.
+
+You should consider if alerts being raised are actionable by whoever is on
+support; if there is nothing that can be done about it then the alert will only
+be creating extra noise.
