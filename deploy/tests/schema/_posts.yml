@@ -1,0 +1,9 @@
+title: "String"
+
+config:
+  path: "guides"
+  ignore:
+  - "README.md"
+  - ..
+  - .
+  - .DS_Store
