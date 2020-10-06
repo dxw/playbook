@@ -3,7 +3,7 @@ title: "String"
 config:
   path: "guides"
   ignore:
-  - "README.md"
-  - ..
-  - .
-  - .DS_Store
+    - "README.md"
+    - ..
+    - .
+    - .DS_Store
