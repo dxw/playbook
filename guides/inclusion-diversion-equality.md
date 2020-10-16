@@ -2,7 +2,7 @@
 title: Inclusion, diversity and equal opportunities policy
 ---
 
-# Equal opportunities statement
+## Equal opportunities statement
 
 At dxw, we value people and believe that having a team of individuals with different backgrounds, views and experience makes us a better company. dxw is committed to retaining and recruiting people who are passionate about ‘doing public good’. We build, design and create for a diverse range of people and aim for our staff to reflect that diversity.
 
@@ -10,7 +10,7 @@ Staff and candidates will receive equal treatment regardless of age, disability,
 
 When we talk about inclusion at dxw we are referring to our staff being treated fairly and respectfully, having equal opportunities, and removing perceived or tangible barriers to being part of our organization and progressing within it to ensure greater equity. We aim to provide a work environment that is accessible, welcoming, and empowering for all. 
 
-# About this policy
+## About this policy
 
 This policy sets out our approach to equal opportunities and the avoidance of discrimination at work. It applies to all aspects of employment with us, including recruitment, pay and conditions, holiday, sickness, training, appraisals, promotion, conduct at work, disciplinary and grievance procedures, and termination of employment.
 
@@ -20,7 +20,7 @@ This policy covers all levels and types of staff, including leadership, employee
 
 This policy does not form part of any employee's contract of employment and we may amend it at any time upon any learnings.
 
-# Who is responsible for this policy?
+## Who is responsible for this policy?
 
 Directors and the HR Manager have overall responsibility for the effective operation of this policy and for ensuring compliance with discrimination law. Day-to-day operational responsibility for this policy, including regular review of it, has been delegated to the HR Manager.
 
@@ -34,7 +34,7 @@ This policy is reviewed annually by the HR Manager and directors in consultation
 
 Staff and contractors are invited to comment on this policy and suggest ways in which it might be improved by contacting a director or the HR Manager. 
 
-# Discrimination
+## Discrimination
 
 Discrimination against, or harassment of anyone  in or outside of the workplace is prohibited. 
 
@@ -45,7 +45,7 @@ The following forms of discrimination are prohibited under this policy and are u
  - Harassment: this includes sexual harassment and other unwanted conduct related to a Protected Characteristic, which has the purpose or effect of violating someone's dignity or creating an intimidating, hostile, degrading, humiliating, or offensive environment for them. 
  - Victimisation: retaliation against someone who has complained or has supported someone else's complaint about discrimination or harassment.
 
-# Recruitment and selection
+## Recruitment and selection
 
 Recruitment, promotion, and other selection exercises such as redundancy selection will be conducted on the basis of merit and against objective criteria that aim to avoid discrimination. Shortlisting should be done by more than one person and with the involvement of the commercial operations team. Our recruitment procedures must be reviewed at least annually including the Diversity and Inclusion Group to ensure that individuals are treated on the basis of their relevant merits and abilities.
 
@@ -63,7 +63,7 @@ We are required by law to ensure that all employees are entitled to work in the 
 
 To ensure that this policy is operating effectively, and to identify groups that may be underrepresented or disadvantaged in our organisation, we will ask job applicants  they apply about their ethnic group, gender, disability, sexual orientation, religion and age. Provision of this information is voluntary and it will not adversely affect an individual's chances of recruitment or any other decision related to their employment. The information is kept in an anonymised format, disconnected from the person it refers to, solely for the purposes stated in this policy. Analysing this data helps us take appropriate steps to avoid discrimination and improve equality and diversity.
 
-# Training, promotion, and conditions of service
+## Training, promotion, and conditions of service
 
 Training needs will be identified through regular conversations between line managers and their reports. All employees will be given appropriate access to training to enable them to progress within the organisation.  If training needs are identified then your Line Manager will work out the best to pay for this. This may be part of your Learning and Development, or something you, dxw or a third party pay for.
 
@@ -71,13 +71,13 @@ Workforce composition and promotions will be monitored to ensure equality of opp
 
 Our conditions of service, benefits, and facilities are reviewed to ensure that they are available to all and that there are no unlawful or discriminatory obstacles to accessing them.
 
-# Termination of employment
+## Termination of employment
 
 We will ensure that redundancy criteria and procedures are fair and objective and are not directly or indirectly discriminatory. Demonstrated through independent consultation, sharing criteria openly and demonstrating our workings.
 
 We will ensure that disciplinary procedures and penalties are applied without discrimination, whether they result in disciplinary warnings, dismissal, or other disciplinary action.  There is a right of appeal to a dxw director or line manager not directly involved in the case.
 
-# Disabilities
+## Disabilities
 
 If you are disabled or become disabled, we encourage, but do not require, you to tell us about your condition so that we can support you as appropriate.
 
@@ -85,11 +85,11 @@ If you experience difficulties at work because of your disability, you may wish 
 
 We will monitor the physical features of our premises to consider whether they might place anyone with a disability and take all reasonable steps to improve access.  
 
-# Part-time and fixed-term work
+## Part-time and fixed-term work
 
 Part-time and fixed-term staff should be treated the same as comparable full-time or permanent staff and enjoy no less favourable terms and conditions (on a pro-rata basis where appropriate).
 
-# Breaches of this policy
+## Breaches of this policy
 
 We take a strict approach to breaches of this policy, which will be dealt with in accordance with our Disciplinary Procedure. Serious cases may amount to gross misconduct resulting in dismissal.
 
