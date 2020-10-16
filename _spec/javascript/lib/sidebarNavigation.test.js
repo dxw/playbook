@@ -1,16 +1,17 @@
 import sidebarNavigation from "../../../_javascript/lib/sidebarNavigation";
 
 describe("sidebarNavigation", () => {
-  let scrollIntoViewMock;
+  let scrollToMock;
   let links;
 
   beforeEach(() => {
-    scrollIntoViewMock = jest.fn();
-    window.HTMLElement.prototype.scrollIntoView = scrollIntoViewMock;
+    scrollToMock = jest.fn();
+    window.scrollTo = scrollToMock;
 
     jest.spyOn(history, "pushState");
 
     document.body.innerHTML = `
+      <nav class="app-nav"></nav>
       <a href="#bar" data-target="bar" class="active"></a>
       <a href="#foo" data-target="foo"></a>
       <div id="foo"></div>
@@ -51,7 +52,7 @@ describe("sidebarNavigation", () => {
 
     link.click();
 
-    expect(scrollIntoViewMock).toHaveBeenCalled();
+    expect(scrollToMock).toHaveBeenCalled();
   });
 
   it("adds the link to the pushState", () => {

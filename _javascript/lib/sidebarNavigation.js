@@ -3,10 +3,21 @@ export default (links) => {
     element.classList.add("active");
   };
 
+  const getElementLocation = (element) => {
+    const navElement = document.querySelector(".app-nav");
+    const yOffset = navElement.offsetHeight;
+
+    return element.getBoundingClientRect().top + window.pageYOffset - yOffset;
+  };
+
   const scrollToLink = (element) => {
     const locationID = element.getAttribute("data-target");
+    const targetElement = document.getElementById(locationID);
 
-    document.getElementById(locationID).scrollIntoView({ behavior: "smooth" });
+    window.scrollTo({
+      top: getElementLocation(targetElement),
+      behavior: "smooth",
+    });
 
     if (window.innerWidth < 768) {
       const body = document.querySelector("body");
