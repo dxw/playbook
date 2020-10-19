@@ -9,6 +9,7 @@ describe("sidebarNavigation", () => {
     window.scrollTo = scrollToMock;
 
     jest.spyOn(history, "pushState");
+    jest.useFakeTimers();
 
     document.body.innerHTML = `
       <nav class="app-nav"></nav>
@@ -62,6 +63,8 @@ describe("sidebarNavigation", () => {
 
     link.click();
 
+    jest.runAllTimers();
+
     expect(history.pushState).toHaveBeenCalledWith({}, "", "#foo");
   });
 
@@ -75,6 +78,8 @@ describe("sidebarNavigation", () => {
     const link = document.querySelector("a[data-target='foo']");
 
     link.click();
+
+    jest.runAllTimers();
 
     expect(document.querySelector("body").classList).not.toContain("close");
   });

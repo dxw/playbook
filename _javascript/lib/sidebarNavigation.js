@@ -10,22 +10,38 @@ export default (links) => {
     return element.getBoundingClientRect().top + window.pageYOffset - yOffset;
   };
 
-  const scrollToLink = (element) => {
-    const locationID = element.getAttribute("data-target");
+  const scrollToLink = (link) => {
+    const locationID = link.getAttribute("data-target");
     const targetElement = document.getElementById(locationID);
+    const y = getElementLocation(targetElement);
 
     window.scrollTo({
-      top: getElementLocation(targetElement),
+      top: y,
       behavior: "smooth",
     });
 
-    if (window.innerWidth < 768) {
-      const body = document.querySelector("body");
+    const intervalID = setInterval(function () {
+      // Check if the Y Offset has got within 10 pixels of the target
+      // it's not always going to be exact, so make sure we're roughly
+      // there
+      if (Math.abs(y - window.pageYOffset) < 5) {
+        link.blur();
+        // Set focus on the target element. Because it's not an anchor
+        // or form element, we need to give it a tabindex first
+        targetElement.setAttribute("tabindex", "-1");
+        targetElement.focus();
 
-      body.classList.remove("close");
-    }
+        if (window.innerWidth < 768) {
+          const body = document.querySelector("body");
 
-    history.pushState({}, "", "#" + locationID);
+          body.classList.remove("close");
+        }
+
+        history.pushState({}, "", "#" + locationID);
+
+        clearInterval(intervalID);
+      }
+    }, 300);
   };
 
   for (const link of links) {
