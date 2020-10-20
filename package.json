@@ -21,7 +21,7 @@
     "webpack-cli": "^4.1.0"
   },
   "scripts": {
-    "build": "webpack -p --mode=production",
+    "build": "webpack --mode=production",
     "build:dev": "webpack --mode=development",
     "build:dev:watch": "npm run build:dev -- --watch",
     "test": "jest",
