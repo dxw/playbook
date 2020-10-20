@@ -155,7 +155,7 @@ We’re committed to being transparent with our diversity information and
 regularly assessing the impact of all our policies and practices.
 
 Our approach is set out in our
-[Inclusion, diversity and equal opportunities policy](https://playbook.dxw.com/guides/inclusion-diversity-equality.html).
+[Inclusion, diversity and equal opportunities policy](/guides/inclusion-diversity-equality.html).
 
 Thank you for being you - it makes us better.
 
