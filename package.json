@@ -18,7 +18,7 @@
     "prettier": "^2.1.2",
     "sass-loader": "^10.0.3",
     "webpack": "^4.44.2",
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^4.1.0"
   },
   "scripts": {
     "build": "webpack -p --mode=production",
