@@ -37,5 +37,8 @@ else
   npm run lint
 fi
 
+echo "==> Checking for required frontmatter..."
+bundle exec jekyll test
+
 echo "==> Testing..."
 npm test
