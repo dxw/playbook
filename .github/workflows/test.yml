@@ -14,9 +14,8 @@ jobs:
 
       - name: Set language versions
         run: |
-          echo "::set-env name=GO_VERSION::$(cat .go-version)"
-          echo "::set-env name=NODE_VERSION::$(cat .node-version)"
-          echo "::set-env name=RUBY_VERSION::$(cat .ruby-version)"
+          echo "GO_VERSION=$(cat .go-version)" >> $GITHUB_ENV
+          echo "NODE_VERSION=$(cat .node-version)" >> $GITHUB_ENV
 
       - uses: actions/setup-go@v2
         with:
@@ -26,9 +25,7 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
 
-      - uses: actions/setup-ruby@v1.1.2
-        with:
-          ruby-version: ${{ env.RUBY_VERSION }}
+      - uses: ruby/setup-ruby@v1
 
       - name: Install ShellCheck
         run: |
