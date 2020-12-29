@@ -220,7 +220,8 @@ In particular, we:
 - We do not ever disclose people's personal data to anyone outside dxw unless
   specifically instructed, and are satisfied that it is legal to do so
 
-If you have any questions about data protection, talk to Harry.
+If you have any questions about data protection, talk to the Data Protection
+Officer, Gurps.
 
 #### Protective marking scheme
 
