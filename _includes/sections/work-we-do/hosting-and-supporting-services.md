@@ -1,73 +1,38 @@
-### Hosting and supporting services
+### Supporting services
 
-#### GovPress
-
-GovPress is dxw's hosting platform which hosts the WordPress websites we build
-for the public sector.
-
-We built GovPress because our clients were frequently asking us for secure,
-scalable and highly available hosting, but didn't have enough budget to be able
-to build an appropriate hosting platform for their service. This is fair enough,
-because they shouldn't have to. We built GovPress to meet this need, and it is
-now used by most of our clients.
-
-We offer
-[managed hosting and support](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/930612236449495)
-for WordPress websites, as well as
-[blogging](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/355674790119695)
-and
-[campaigns](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/691308552308120)
-platforms, through the G-Cloud framework, configured to our client's branding
-requirements, all on our GovPress hosting platform.
-
-You can read more about GovPress at
-[www.govpress.com](https://www.govpress.com).
-
-#### Tailored support
-
-We also offer support for services that aren't built in WordPress. We are able
-to host and support services with our
-[tailored support plan for cloud applications](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/393702576050692),
-even if your service isn't hosted with us.
+The technology team supports some of our client services. We split our support
+into two units: GovPress and non-GovPress.
 
 #### Support helpdesk
 
-The dxw Technical Operations team build, manage and run GovPress, as well as
-provide first-line support.
+For both units we use [Zendesk](https://dxw.zendesk.com) to manage support
+requests. All incidents and requests for us to fix a problem or make a change to
+a site we support come to us via Zendesk as a ticket. We use tickets to manage
+requests in order to:
 
-We use [Zendesk](https://dxw.zendesk.com) to manage support requests. Any
-incidents, requests for us to fix a problem or make a change to a site must come
-to us via Zendesk as a ticket. We use tickets to manage requests in order to:
-
-- Keep track of all the things we need to do, and what state they're in, for us
+- keep track of all the things we need to do and what state they're in, for us
   and our clients
-- Have a record of the changes we're asked to make
-- Ensure that we only accept change requests from people who are authorised
-- Generate data about how much staff time is spent on each client's issues.
+- have a record of the changes we're asked to make
+- ensure that we only accept change requests from people who are authorised
 
-If a client asks us to do something in person, on the phone or via email, we ask
-them to visit the [dxw Zendesk](https://dxw.zendesk.com/), and submit a ticket
-there. This is so that:
+If a client asks us to do something via any other channel, we ask them to email
+the request to support@dxw.com, which opens a ticket in Zendesk, or open a
+ticket directly.
 
-- We can keep track of the issue from report to solution, and ensure that it's
-  assigned to the right person;
-- We don't risk misunderstanding the problem by writing it down based on a
-  verbal explanation
-- We can formally track the changes that people ask for, by documenting them in
-  tickets that we can look at later if we need to
-
-For these reasons, we do not do any work on a client website or service unless
-we are working during scheduled development time or on a relevant ticket. We
-think this is really important.
+It's important that we do not do any work on a client website or service unless
+we are working during scheduled development time or on a relevant ticket.
 
 ##### Support rota
 
-We work on tickets by having a developer on support according to a rota.
-Developers are assigned to support for one week at a time and work on tickets
-for the whole week. If there is a ticket they need another developer to help
-with, this work is scheduled.
+We work on tickets by having a developer from the delivery team and another
+developer from the GovPress team on support according to a rota, supported by an
+operations engineer.
 
-#### Client experience (AKA: ticket principles)
+Delivery team developers are assigned to support for one week at a time and work
+on tickets for the whole week. They are responsible for the non-GovPress support
+requests.
+
+#### Support principles
 
 ##### Be responsive
 
@@ -77,15 +42,15 @@ sometimes busy, and they understand that some issues are complex and require
 long investigations.
 
 The thing most clients value above all else is being kept informed of what is
-going on. The first quality of a good ticket experience is responsiveness: we
+going on. The first quality of a good ticket experience is responsiveness. We
 keep clients informed of what we're doing, even if there hasn't been much
 progress.
 
 ##### Stick to your commitments
 
-It's really important that we do what we say we'll do, and don't promise things
-we can't deliver. If we're unable to deal with a ticket in good time and leave
-an update saying we'll work on it tomorrow, we must meet that commitment.
+It's important that we do what we say we'll do, and don't promise things we
+can't deliver. If we're unable to deal with a ticket in good time and leave an
+update saying we'll work on it tomorrow, we must meet that commitment.
 
 It is doubly bad to fail to meet a commitment and not say anything about it.
 Responsiveness is always the priority. So if for some reason we couldn't do what
@@ -95,23 +60,18 @@ we said we'd do, we always respond to say so.
 
 In tickets as in all things, we are mindful of dxw's [values](#our-values).
 
-Most clients' routine contact with us is via support tickets, so it's vital that
-our clients' experience of the support system is a good one, and also that they
-have a positive experience with us personally.
-
-We are always considerate, and think about what style of response is best. For
-example, technical clients may appreciate short, information-dense responses,
-while non-technical clients might perceive that style as rude or dismissive.
+Many clients' only routine contact with us is via support tickets, so it's vital
+that their experience of the support system is a good one, and that they have a
+positive experience with us personally.
 
 In general:
 
-- We are personable, friendly and helpful
-- If things look like they're going to get difficult or the client seems
+- we are personable, friendly, and helpful
+- if things look like they're going to get difficult or the client seems
   unhappy, we are honest and assume good faith
-- If we screw something up, we take responsibility and apologise. If the client
-  seems very upset, we let a delivery lead know.
-- If we do become annoyed or frustrated by a ticket, we respond later or speak
-  to a delivery lead about reassigning it.
+- if we make a mistake, we take responsibility and apologise, and if the client
+  seems very upset, we let the account manager know
+- if we do become annoyed or frustrated by a ticket, we come back to it later
 
 ##### Don't over-deliver
 
@@ -121,21 +81,20 @@ service for another client - or that we never get to their issue, because we're
 too busy gold-plating the solution to someone else's.
 
 While we do everything we can to make sure the client is happy with our
-solution, we are also mindful of what's practical. We don't do serious bits of
+solution, we are also mindful of what's practical. We don't do extensive
 development work on tickets, or trial new approaches. We don't play with new
-tools or sink hours into interesting bugs. We set those things aside, and do
-them later.
+tools or sink hours into interesting bugs. We set those things aside, and
+schedule time to do them later.
 
 The main purpose of a ticket is to take some action that solves the problem, as
 quickly as possible. Generally speaking, we do the most time-efficient thing
-that we can. Of several potential solutions that solve the problem, assuming
-none is a bad one, we do the one which can be implemented the most quickly.
+that we can. Of several potential, acceptable solutions that solve the problem,
+we do the one which can be implemented the most quickly.
 
 #### Deciding what to work on
 
-Developers on support are free to work on whichever tickets they are assigned to
-and think is most important. But there are some important things to bear in
-mind.
+People on support are free to work on whichever tickets they are assigned to and
+think is most important. But there are some important things to bear in mind.
 
 ##### Triage
 
@@ -151,6 +110,12 @@ more urgent tickets before less urgent ones.
 Each ticket's priority should be reviewed regularly: whenever we update a
 ticket, we check the priority to make sure it's still right.
 
+##### Time since last response
+
+Our clients expect to be kept in the loop. If a ticket hasn't had any activity
+for a while, it might be a sign that it needs following up on. This might mean
+taking over where another person on support left off.
+
 #### Initial investigation
 
 It's important that we don't make changes unless we thoroughly understand what
@@ -162,7 +127,9 @@ approved of the implications of the change.
 If the issue is a bug, we replicate the behaviour the client has reported before
 working on a fix. It's important that we can reliably and repeatably create the
 conditions necessary for the bug to arise before we start working on it. If we
-don't do this, we can't tell whether we've fixed the problem.
+don't do this, we can't tell whether we've fixed the problem. If we don't have
+enough information to do this, we ask the client to provide it before
+continuing.
 
 ##### Ensure the client has understood and approved the change
 
@@ -180,37 +147,26 @@ when we can.
 
 Clients can use the support service to ask for help with any aspect of the
 service we provide, including help with using the admin panel and advice on
-getting the best out of their site.
+getting the best out of their site. But there are some limitations. Under the
+support service, we do not:
 
-But there are some limitations. Under the support service, we do not:
-
-- Add any new functionality requiring anything beyond extremely trivial
-  development. This does not generally include installing plugins: checking and
-  installing plugins is allowed
-- Alter the source code of a plugin or library maintained by a third party
-- Do things that the client can do for themselves in the WordPress
-  administration area. In this situation, help them by letting them know the
-  steps to take to achieve whatever they're trying to do.
-- Other than by prior arrangement, communicate on the client's behalf with the
+- add any new functionality requiring anything beyond extremely trivial
+  development or plugin integration
+- alter the source code of a plugin or library maintained by a third party
+- do things that the client can do for themselves, letting them know how to do
+  it themselves instead
+- other than by prior arrangement, communicate on the client's behalf with the
   operators of third-party services that the site uses
-- Install a plugin that fails an inspection
-- Do research to identify plugins to solve a particular problem. It's fine to
-  recommend something that we already know of, but in this situation, we usually
-  ask the client to do some searches on the WordPress Directory and suggest one,
-  which we can then check and install.
-- Fix complex problems that come up after a plugin or WordPress core update is
-  applied. Exactly what constitutes a complex problem is at our discretion. But
-  if we've spent a couple of hours on an update-related bug and it's still not
-  fixed, we're probably dealing with one.
-- From time to time, we may make an exception to these restrictions. If you
-  think that might be appropriate, ask a delivery lead. In all the above cases,
-  we can offer to quote for the required work.
+
+From time to time, we may make an exception to these restrictions. If you think
+that might be appropriate, ask the account manager for the client.
 
 #### Charging for ticket work
 
-If you decide that a ticket asks for work to be done which falls outside this
-scope, then the work is chargeable. In this situation, we reassign the ticket to
-a delivery lead or someone from the client services team with an explanation.
+If you decide that a ticket asks for work to be done which falls outside the
+scope for support, then the work is chargeable. In this situation, we reassign
+the ticket to the account manager with an explanation of why the work is
+chargeable and a rough idea of how much work the client is asking for.
 
 It is good to try to think of alternative approaches that we could do under our
 support service before taking this step - seek advice if you're unsure.
