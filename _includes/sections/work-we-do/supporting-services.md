@@ -32,6 +32,9 @@ Delivery team developers are assigned to support for one week at a time and work
 on tickets for the whole week. They are responsible for the non-GovPress support
 requests.
 
+If you're on support, take a look at the
+[guide on how we handle support](/guides/support-and-on-call.html).
+
 #### Support principles
 
 ##### Be responsive
@@ -90,86 +93,3 @@ The main purpose of a ticket is to take some action that solves the problem, as
 quickly as possible. Generally speaking, we do the most time-efficient thing
 that we can. Of several potential, acceptable solutions that solve the problem,
 we do the one which can be implemented the most quickly.
-
-#### Deciding what to work on
-
-People on support are free to work on whichever tickets they are assigned to and
-think is most important. But there are some important things to bear in mind.
-
-##### Triage
-
-We all have limited time. We try to spend it wisely. All other things being
-equal, it is better to spend half an hour solving each of four tickets than to
-spend two hours on one issue.
-
-##### Priority
-
-The priority of tickets is important, and we must be biased towards dealing with
-more urgent tickets before less urgent ones.
-
-Each ticket's priority should be reviewed regularly: whenever we update a
-ticket, we check the priority to make sure it's still right.
-
-##### Time since last response
-
-Our clients expect to be kept in the loop. If a ticket hasn't had any activity
-for a while, it might be a sign that it needs following up on. This might mean
-taking over where another person on support left off.
-
-#### Initial investigation
-
-It's important that we don't make changes unless we thoroughly understand what
-we're being asked to do, and are confident that the client understands and has
-approved of the implications of the change.
-
-##### Replicate the bug
-
-If the issue is a bug, we replicate the behaviour the client has reported before
-working on a fix. It's important that we can reliably and repeatably create the
-conditions necessary for the bug to arise before we start working on it. If we
-don't do this, we can't tell whether we've fixed the problem. If we don't have
-enough information to do this, we ask the client to provide it before
-continuing.
-
-##### Ensure the client has understood and approved the change
-
-When presented with a problem, clients don't always ask us to do the most
-appropriate thing to fix it. Sometimes we can think of a better solution.
-Sometimes the change the client asks for has some implication that they haven't
-considered.
-
-Our helpdesk service is advisory, so we're not afraid to suggest alternative
-approaches and ideas if we have them - including where there's a better
-solution, but [at a cost](#charging-for-ticket-work). We always give options
-when we can.
-
-#### Scope
-
-Clients can use the support service to ask for help with any aspect of the
-service we provide, including help with using the admin panel and advice on
-getting the best out of their site. But there are some limitations. Under the
-support service, we do not:
-
-- add any new functionality requiring anything beyond extremely trivial
-  development or plugin integration
-- alter the source code of a plugin or library maintained by a third party
-- do things that the client can do for themselves, letting them know how to do
-  it themselves instead
-- other than by prior arrangement, communicate on the client's behalf with the
-  operators of third-party services that the site uses
-
-From time to time, we may make an exception to these restrictions. If you think
-that might be appropriate, ask the account manager for the client.
-
-#### Charging for ticket work
-
-If you decide that a ticket asks for work to be done which falls outside the
-scope for support, then the work is chargeable. In this situation, we reassign
-the ticket to the account manager with an explanation of why the work is
-chargeable and a rough idea of how much work the client is asking for.
-
-It is good to try to think of alternative approaches that we could do under our
-support service before taking this step - seek advice if you're unsure.
-
-The person you assign the ticket to will then treat it as a [lead](#sales), and
-contact the client to make a plan.

@@ -97,32 +97,22 @@ you’re moving on to a new project:
 - Get access to any technical resources or bespoke software the team are using
 - Meet the team / client representative
 
-## When a member of your sprint team is on support
+## When a member of your sprint team is going onto support
 
-We’ve [changed the way we handle support](/guides/support-and-on-call), to
-ensure that there’s always a developer dedicated to support, and that the
-responsibility cycles round everyone on the development team at dxw.
+In order to support our clients, we ensure there is always a developer dedicated
+to working on support, and that the responsibility cycles around every developer
+at dxw. This has implications for project sprints and client work, which
+delivery leads will need to manage.
 
-This has implications for project sprints and client work, which delivery leads
-will need to manage.
+During a developer's time on support, they won't be participating in the sprint
+for their current project team. That means that whilst the project should
+continue as normal, their work on your current project will pause whilst they
+are on support.
 
-During a developer’s week on support, they won’t be participating in the sprint
-for their current project team. That means that whilst the project will continue
-as normal, their work on your current project will pause whilst they are on
-support.
+[There's a rota](https://github.com/dxw/support-rota) which is set at least
+three months in advance. The rota is also (eventually) automatically reflected
+in 10,000ft. The support week runs from Wednesday to Tuesday to align with our
+standard sprint cycles.
 
-The support week runs from Wednesday to Tuesday to enable the team to adjust
-sprint ceremonies where necessary so the developer can join them.
-
-[There’s a rota](https://docs.google.com/spreadsheets/d/1IGjo7oEndLkU0PKQChgzPvj8fgvMdIc34mG_uFNepAU/edit)
-which is set for at least one month in advance. Variation to the rota is
-possible, and is expected to be done by developers voluntarily trading slots to
-suit the schedule of their projects or their plans for annual leave.
-
-If you have a good reason to need a change but are unable to arrange one, then
-we’ll make sure we can accommodate the change. A good reason might be if you
-have a service assessment and the named developer is participating. Having lots
-of work on the backlog won’t usually be a valid reason.
-
-Some notice for changes like this is important, ideally of at least a couple of
-weeks.
+See the [support guide](/guides/support-and-on-call) for more details on how
+support scheduling works, and how you can feed into that.
