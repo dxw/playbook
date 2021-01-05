@@ -300,6 +300,8 @@ flexible as the delivery needs listed above are not relevant.
 
 The normal working pattern is 5 days per week, Monday–Friday.
 
+###### Weekly or fortnightly working patterns
+
 **Client facing**: We’re happy to talk about a 4-day week, on the basis of a
 fortnightly pattern to accommodate our Monday–Thursday billing week and
 attending some Fridays. It may be possible for some roles to work a 3 day week
@@ -316,12 +318,41 @@ roughly 4 hours a day, may be possible for internal facing roles after
 discussion, but is likely a no for client facing roles.
 
 Salary and holiday allowances (including bank holidays) will be prorated for
-part time roles.
+part time roles following a weekly or fortnightly pattern.
 
 For example, when working a 4 day week, the pro rata leave allowance will be 20
 days per year of annual leave and 6.5 bank holiday days, giving a total leave
 allowance of 26.5 days. Bank holidays that don’t fall on a non-working day must
 be booked as annual leave.
+
+###### Working patterns over longer period
+
+As an alternative to a working pattern that reduces your days in a week, we’re
+happy to talk about working patterns that involve a regular number of weeks
+working full-time, followed by a number of full weeks off.
+
+For example, you might work 4 weeks full-time, and have your fifth week off, and
+repeat that on a 5 week cycle: 4 weeks on, 1 week off, 4 weeks on, 1 week of,
+etc. Alternatively, you might, for example, work during school term times, and
+take all of the school holidays off.
+
+This pattern works by reducing your salary and borrowing from the pro rata
+holiday and bank holiday allowance, increasing your total time off, but reducing
+your freely placed holiday allowance. Your annual free holiday allowance might
+vary year by year depending on how the weeks and bank holidays land in the year,
+so the pattern must have enough free holiday to cover the maximum number of days
+you would need off while still allowing you to take some ad hoc holidays
+throughout the year.
+
+As a rough guide on how your salary would be impacted:
+
+- 7 weeks on, 1 week off: 90-95% FTE salary
+- 6 weeks on, 1 week off: 85-90% FTE salary
+- 5 weeks on, 1 week off: 85-90% FTE salary
+- 4 weeks on, 1 week off: 80-85% FTE salary
+- school term on, school holidays off: 70% FTE salary
+
+We are happy to discuss the details and work out the best pattern for you.
 
 ##### Core and non-core hours
 
