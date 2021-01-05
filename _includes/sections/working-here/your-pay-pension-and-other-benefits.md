@@ -403,14 +403,13 @@ If you need to work from home for a one-off thing then that doesn’t require
 contractual arrangement – just talk about it with your team before the day, make
 sure you note it in your calendar and include it in your standup note that day.
 
-##### Requesting a change of working arrangement
+##### Changing your working arrangement
 
 If you would like to discuss a change to the standard working pattern, you can
-either speak to your Head-of directly, or, contact the People Team to facilitate
-and support this conversation by phone, email, slack or in one of our bi-weekly
-HR surgeries. In this initial conversation, we will discuss your request, look
-at the impact on the team and your work, agree the best time for this
-arrangement to begin and how it will be communicated to those necessary.
+either speak to your line manager or the HR Manager. In this initial
+conversation, we will discuss your request, look at the impact on the team and
+your work, agree the best time for this arrangement to begin and how it will be
+communicated to those necessary.
 
 If you have an alternative working arrangement, you should make sure it’s
 reflected in your calendar so the rest of the team can be confident in knowing
