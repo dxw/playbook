@@ -300,13 +300,15 @@ flexible as the delivery needs listed above are not relevant.
 
 The normal working pattern is 5 days per week, Monday–Friday.
 
+###### Weekly or fortnightly working patterns
+
 **Client facing**: We’re happy to talk about a 4-day week, on the basis of a
 fortnightly pattern to accommodate our Monday–Thursday billing week and
 attending some Fridays. It may be possible for some roles to work a 3 day week
 due to the nature of the role potentially not being full-time on a single
-project, this would be dependent on a number of contextual factors and
-discussion with the team. We’re unable to support a 3-day (or fewer) week for
-all other roles due to the overheads for scheduling.
+project. This would depend on a number of contextual factors and discussion with
+the team. We’re unable to support a 3-day (or fewer) week for all other roles
+due to the overheads for scheduling.
 
 **Internal facing**: We’re happy to talk about part time working for any number
 of days, dependent on the role.
@@ -316,12 +318,41 @@ roughly 4 hours a day, may be possible for internal facing roles after
 discussion, but is likely a no for client facing roles.
 
 Salary and holiday allowances (including bank holidays) will be prorated for
-part time roles.
+part time roles following a weekly or fortnightly pattern.
 
 For example, when working a 4 day week, the pro rata leave allowance will be 20
 days per year of annual leave and 6.5 bank holiday days, giving a total leave
 allowance of 26.5 days. Bank holidays that don’t fall on a non-working day must
 be booked as annual leave.
+
+###### Working patterns over longer period
+
+As an alternative to a working pattern that reduces your days in a week, we’re
+happy to talk about working patterns that involve a regular number of weeks
+working full-time, followed by a number of full weeks off.
+
+For example, you might work 4 weeks full-time, and have your fifth week off, and
+repeat that on a 5 week cycle: 4 weeks on, 1 week off, 4 weeks on, 1 week of,
+etc. Alternatively, you might, for example, work during school term times, and
+take all of the school holidays off.
+
+This pattern works by reducing your salary and borrowing from the pro rata
+holiday and bank holiday allowance, increasing your total time off, but reducing
+your freely placed holiday allowance. Your annual free holiday allowance might
+vary year by year depending on how the weeks and bank holidays land in the year,
+so the pattern must have enough free holiday to cover the maximum number of days
+you would need off while still allowing you to take some ad hoc holidays
+throughout the year.
+
+As a rough guide on how your salary would be impacted:
+
+- 7 weeks on, 1 week off: 90-95% FTE salary
+- 6 weeks on, 1 week off: 85-90% FTE salary
+- 5 weeks on, 1 week off: 85-90% FTE salary
+- 4 weeks on, 1 week off: 80-85% FTE salary
+- school term on, school holidays off: 70% FTE salary
+
+We are happy to discuss the details and work out the best pattern for you.
 
 ##### Core and non-core hours
 
@@ -372,14 +403,13 @@ If you need to work from home for a one-off thing then that doesn’t require
 contractual arrangement – just talk about it with your team before the day, make
 sure you note it in your calendar and include it in your standup note that day.
 
-##### Requesting a change of working arrangement
+##### Changing your working arrangement
 
 If you would like to discuss a change to the standard working pattern, you can
-either speak to your Head-of directly, or, contact the People Team to facilitate
-and support this conversation by phone, email, slack or in one of our bi-weekly
-HR surgeries. In this initial conversation, we will discuss your request, look
-at the impact on the team and your work, agree the best time for this
-arrangement to begin and how it will be communicated to those necessary.
+either speak to your line manager or the HR Manager. In this initial
+conversation, we will discuss your request, look at the impact on the team and
+your work, agree the best time for this arrangement to begin and how it will be
+communicated to those necessary.
 
 If you have an alternative working arrangement, you should make sure it’s
 reflected in your calendar so the rest of the team can be confident in knowing
