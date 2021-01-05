@@ -306,9 +306,9 @@ The normal working pattern is 5 days per week, Monday–Friday.
 fortnightly pattern to accommodate our Monday–Thursday billing week and
 attending some Fridays. It may be possible for some roles to work a 3 day week
 due to the nature of the role potentially not being full-time on a single
-project, this would be dependent on a number of contextual factors and
-discussion with the team. We’re unable to support a 3-day (or fewer) week for
-all other roles due to the overheads for scheduling.
+project. This would depend on a number of contextual factors and discussion with
+the team. We’re unable to support a 3-day (or fewer) week for all other roles
+due to the overheads for scheduling.
 
 **Internal facing**: We’re happy to talk about part time working for any number
 of days, dependent on the role.
