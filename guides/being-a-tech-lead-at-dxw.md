@@ -31,8 +31,8 @@ service needs to be:
 
 - maintainable with minimal effort
 - reliable, as there's no standing team to respond to issues
-- feature-complete enough that their users can do everything they need without
-  significant frustration
+- feature-complete enough and with a good enough user experience to meet their
+  service users' core needs
 
 Getting your software into that state is no mean feat, but knowing that's the
 end state can help your prioritisation from the start.
