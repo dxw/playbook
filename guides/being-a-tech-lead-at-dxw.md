@@ -64,6 +64,15 @@ care about, and make sure your team is in a good position to satisfy them. Often
 those people you build relationships with will be happy to help if you involve
 them early enough!
 
+Sometimes the amount of governance we need to go through takes an unexpected
+amount of effort, particularly when the drive for governance comes from a
+different place to the drive for delivery. We do our best to meet all the
+governance needs but when that effort starts to risk delivery, we present those
+risks, along with alternatives, to the client. Ultimately, it's up to them what
+risk they're prepared to carry. We often have to do some amount of mediation in
+that case (usually biased towards delivery - it's what we're there for after
+all).
+
 ### ...for public services
 
 The public sector has a history of abdicating digital and technology decisions
