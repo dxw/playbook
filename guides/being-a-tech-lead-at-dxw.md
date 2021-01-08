@@ -136,15 +136,21 @@ A tech lead's job is to:
 
 - translate the problems to be solved into pieces of technical work for the team
   to pick up
+- advocate for building software that meets user needs
 - make sure the rest of the developers understand the domain and the work, and
   aren't blocked from doing it
 - encourage people to pair together on tricky work or to build team knowledge
+- teach other members of the team, directly and by example, encouraging them to
+  make sure their work is clear and maintainable
+- make sure that the team has the opportunity to learn
 - keep an eye on the development processes of the team, and address issues (e.g.
   stories continually taking much longer than expected, people being blocked by
   PRs not being reviewed, lots of time spent chasing down bugs)
 - be a technical representative for the team - taking (necessary) meetings and
   answering questions on behalf of the whole team, allowing them to focus on
   development work
+- be responsible for the team learning from failure and for incident reviews
+  happening when something goes wrong
 
 You will often, but not always, be the most experienced developer on the team.
 When you are you'll also be expected to make clear and informed architectural
