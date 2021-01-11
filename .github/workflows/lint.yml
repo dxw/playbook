@@ -9,6 +9,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: errata-ai/vale-action@v1.3.0
+      - uses: errata-ai/vale-action@master
+        with:
+          styles: |
+            https://github.com/errata-ai/proselint/releases/latest/download/proselint.zip
+            https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
