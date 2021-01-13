@@ -9,6 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: errata-ai/vale-action@v1.3.0
+      - uses: errata-ai/vale-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
