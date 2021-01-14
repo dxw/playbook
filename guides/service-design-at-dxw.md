@@ -126,7 +126,7 @@ experience of applying service design to projects at dxw.
   with the technology and processes that surround them. Service designers help
   manage these **technical and non-technical interfaces**.
 
-## 7. Beta, live and beyond...
+## 7. Beta, live and beyond…
 
 - Service designers like to be involved throughout the beta and live phases of a
   new service to help ensure that **performance is tracked and outcomes
