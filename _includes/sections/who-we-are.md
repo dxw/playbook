@@ -206,12 +206,12 @@ Thoughtbot!
 This Playbook is a collaborative effort. Anyone at dxw can and should edit it.
 So if you spot something that’s wrong, feel free to hop in and correct it.
 
-But remember that this Playbook is the result of our conversations about how we
+Remember that this Playbook is the result of our conversations about how we
 should do things, not a substitute for one. So don’t make changes unless they
 reflect our shared agreement about how things are going to be done.
 
 This document is also public, because there is little about our process
-that cannot be open. But there will be some things that should be private. So
+that cannot be open; but there will be some things that should be private. So
 don't forget that changes here get published to the world.
 
 To update the Playbook, follow the
