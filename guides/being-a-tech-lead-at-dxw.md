@@ -2,9 +2,9 @@
 title: Being a tech lead at dxw
 ---
 
-## Being a tech lead...
+## Being a tech lead…
 
-### ...at an agency
+### …at an agency
 
 Our work with a client is always temporary. Sometimes we know the end before we
 start, and sometimes it seems like it will go on forever. But eventually the
@@ -73,7 +73,7 @@ risk they're prepared to carry. We often have to do some amount of mediation in
 that case (usually biased towards delivery - it's what we're there for after
 all).
 
-### ...for public services
+### …for public services
 
 The public sector has a history of abdicating digital and technology decisions
 to suppliers. That's caused a loss of the expertise needed even to make sound
@@ -102,7 +102,7 @@ short tenure for those technologists they do manage to hire. But it also means
 you'll often be working with folks who are motivated more by doing public good
 than they are by chasing money.
 
-### ...at the intersection of the two
+### …at the intersection of the two
 
 When building a public service, it can be hard to ever call it done. Especially
 when much of your team's time is spent dealing with broken foundations (lack of

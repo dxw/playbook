@@ -26,7 +26,7 @@ skills are a good fit for the job. A good job description has three parts:
    good at their job
 
 There are lots of job descriptions on the website if you need inspiration. It's
-important for them to be declarative ("The person with this job will...") and as
+important for them to be declarative ("The person with this job will…") and as
 objective as possible. Throughout the rest of the process, we'll use this
 document to decide what questions to ask in interviews, and to fix activities
 for the work day. The skills and personal qualities need to be things that we
@@ -168,7 +168,7 @@ TODO. This section to cover:
 - Background check
 - Starters checklist
 - The probation period, meeting and expectations
-- ...more things.
+- …more things.
 
 #### Returners' programme
 

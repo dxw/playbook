@@ -65,7 +65,7 @@ Description:
 or maybe:
 
 > If an attacker is able to convince a logged-in admin user to follow a link
-> (phishing emails can be made to look extremely convincing), then ...
+> (phishing emails can be made to look extremely convincing), then …
 
 Proof of concept:
 
@@ -83,7 +83,7 @@ server
 Description:
 
 If there are classes with methods like `__destruct()` that have certain
-properties, the attacker can ...
+properties, the attacker can …
 
 ### Mitigations
 
