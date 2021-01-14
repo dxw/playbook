@@ -77,7 +77,7 @@ all).
 
 The public sector has a history of abdicating digital and technology decisions
 to suppliers. That's caused a loss of the expertise needed even to make sound
-decisions about those suppliers. That's slowly changing, but it's still very
+decisions about those suppliers. That's slowly changing, but it's still
 normal to be working with (passionate, driven, experienced) civil servants who
 haven't worked in an agile way, who don't know how software is built, and who
 don't know how much software costs.
@@ -129,7 +129,7 @@ architect) to help, and call on the wider dxw team when you need it.
 ## What our tech leads do inside teams
 
 The role of a tech lead at dxw is to lead the technical work of the team. Given
-software is built by and for people, that means it's very much at the squishy
+software is built by and for people, that means it's at the squishy
 intersection of technical expertise and people skills.
 
 A tech lead's job is to:
@@ -158,7 +158,7 @@ decisions, and communicate those with the team and stakeholders.
 
 A lot of those points overlap to various degrees with things a delivery lead or
 product manager do. The relationship between the tech lead and the people in
-those roles is very important. Addressing issues with team processes is a lot
+those roles is important. Addressing issues with team processes is a lot
 easier when done together with the delivery lead. Ensuring the team understands
 the domain and that developers are included early enough in story planning
 should be done with the help of the product manager.

@@ -26,13 +26,13 @@ Each receipt requires the following details:
   icon. Use this to upload a photograph or scan of your receipt. If you upload a
   photograph, make sure it's legible.
 - **Description, quantity and unit price**:: Add the the description of the line
-  item on the receipt. If that text is not very descriptive, though, consider
+  item on the receipt. If that text is not descriptive, though, consider
   elaborating. Add the quantity and the price of an individual item.
 - **Account**:: See below.
 - **Tax rate**:: The tax rate will be set automatically from the account you
   select, however you must check that it is correct. Check your receipt to see
   what VAT, if any, was charged. If you cannot see a reference to VAT, select No
-  VAT in this field. It is very important to get this right as this data feeds
+  VAT in this field. It is important to get this right as this data feeds
   directly into our VAT returns.
 - **Products**:: If the expense relates to a particular area of work (at the
   time of writing: Agency, Hosting or Citrulu), select the applicable product.

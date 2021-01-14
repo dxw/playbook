@@ -84,7 +84,7 @@ main room and 1.9 m in the back room.
 
 The floors on the ground level are laminated wood.
 
-Very little natural light. The lighting is provided by white LED spotlights on
+Little natural light. The lighting is provided by white LED spotlights on
 ceiling and wall lights, and yellow lightbulb fixures on the ceiling.
 
 2 of the desks are easily adjustable for height. There are ergonomic chairs.

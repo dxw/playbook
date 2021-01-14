@@ -16,7 +16,7 @@ few weeks long.
 
 ## Before a project starts
 
-In most cases, there’s not a very long lead time between winning a piece of work
+In most cases, there’s not a long lead time between winning a piece of work
 and starting it. We sometimes have a number of days, rather than weeks, for the
 team to get everything in place. This includes things like contracts, scheduling
 a team to do the work and making a plan for the first few days.
@@ -147,7 +147,7 @@ be doing on the project. Some further ideas:
 
 There are a number of outcomes you should aim to get out of a kick-off. This is
 important especially if we are working with that client for the first time and
-there are areas that are not very clear to us, or to them. You can structure a
+there are areas that are not clear to us, or to them. You can structure a
 kick-off in the way that works best for you, but some frameworks that will help
 you get the outcomes you need are below:
 

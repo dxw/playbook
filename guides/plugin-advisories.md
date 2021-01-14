@@ -65,7 +65,7 @@ Description:
 or maybe:
 
 > If an attacker is able to convince a logged-in admin user to follow a link
-> (phishing emails can be made to look very convincing), then ...
+> (phishing emails can be made to look extremely convincing), then ...
 
 Proof of concept:
 

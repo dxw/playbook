@@ -73,7 +73,7 @@ In general:
 - if things look like they're going to get difficult or the client seems
   unhappy, we are honest and assume good faith
 - if we make a mistake, we take responsibility and apologise, and if the client
-  seems very upset, we let the account manager know
+  seems upset, we let the account manager know
 - if we do become annoyed or frustrated by a ticket, we come back to it later
 
 ##### Don't over-deliver

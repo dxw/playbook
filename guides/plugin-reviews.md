@@ -69,7 +69,7 @@ they represent real issues.
 If the plugin is large (around 15,000 or more lines of code), start with a line
 like this:
 
-> At over 26,000 lines of PHP this is a very large plugin, which makes it
+> At over 26,000 lines of PHP this is a large plugin, which makes it
 > difficult to thoroughly assess
 
 ### Recommendations

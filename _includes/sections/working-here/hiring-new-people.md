@@ -53,7 +53,7 @@ people who are interested in dxw but who don't fit an open job.
 All applications arrive via Workable. We review these applications as a team to
 decide who to take forward.
 
-An application review is a very quick process. We look at the information given
+An application review is a quick process. We look at the information given
 by the candidate and decide if it is likely that the applicant has the skills,
 experience and personal qualities that we need. If it is likely, we progress
 them to the next stage.
@@ -81,7 +81,7 @@ qualities than about skills. So look for whether this person:
 If you can find out how they heard about the job, that's useful for us to know.
 
 Many people feel self-conscious when asking questions about salary, but it's
-very important - and this is one of the few situations in daily life where
+important - and this is one of the few situations in daily life where
 people expect the question and are not put off by it. If you're not sure how to
 broach the topic, leave it to the end. When you're about to finish the call, you
 can say something like:
@@ -136,11 +136,11 @@ When everything's done, we thank the candidate for their time and then return to
 the office and discuss the interview. As soon as possible, we put a thorough
 update on Workable. This update should include the good things and bad things
 about the candidate, a recommendation on whether to take them forward, and a
-rationale for that recommendation. It is very important that this update is
+rationale for that recommendation. It is important that this update is
 detailed enough for us to understand what happened and why, long after everyone
 involved has forgotten all about it.
 
-If you think the candidate is very likely to have the skills, experience and
+If you think the candidate is likely to have the skills, experience and
 personal qualities we need, you should take them through to a work day.
 
 The work day interview is exactly the same as the first interview, but with

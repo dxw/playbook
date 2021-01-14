@@ -26,7 +26,7 @@ education, health and social care, housing, welfare, and policing.
 
 ### Our values
 
-We think that it's very important to have a talented team if we're going to
+We think that it's important to have a talented team if we're going to
 succeed. But just as important as raw talent is our ability to work well
 together. These are the values that we aspire to, and help each other to
 achieve.
@@ -121,7 +121,7 @@ However, there are some things that we must keep private.
 
 - Our clients trust us to host content that is not public, like upcoming
   announcements and discussions made as part of formulating new policy. This is
-  not our information to be open about, and it's very important to keep it
+  not our information to be open about, and it's important to keep it
   confidential.
 - We also hold some personal data about and/or on behalf of our clients. We
   never share any of this data, including contact details. See also:
@@ -178,7 +178,7 @@ We are focusing on three main areas to reduce our impact:
 ### Our Advisory Council
 
 dxw does not have external investors or shareholders. To help keep us honest, we
-are very lucky to have a voluntary Advisory Council, made up of a small group of
+are lucky to have a voluntary Advisory Council, made up of a small group of
 senior figures, who meet quarterly to discuss and provide guidance on our
 strategy, business plan and other topics related to company health and
 progression. The group have a wealth of experience of public and private sector
@@ -210,7 +210,7 @@ But remember that this Playbook is the result of our conversations about how we
 should do things, not a substitute for one. So don’t make changes unless they
 reflect our shared agreement about how things are going to be done.
 
-This document is also public, because there is very little about our process
+This document is also public, because there is little about our process
 that cannot be open. But there will be some things that should be private. So
 don't forget that changes here get published to the world.
 
