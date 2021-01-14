@@ -16,10 +16,10 @@ few weeks long.
 
 ## Before a project starts
 
-In most cases, there’s not a long lead time between winning a piece of work
-and starting it. We sometimes have a number of days, rather than weeks, for the
-team to get everything in place. This includes things like contracts, scheduling
-a team to do the work and making a plan for the first few days.
+In most cases, there’s not a long lead time between winning a piece of work and
+starting it. We sometimes have a number of days, rather than weeks, for the team
+to get everything in place. This includes things like contracts, scheduling a
+team to do the work and making a plan for the first few days.
 
 We’re lucky if the same delivery lead has been involved in the sales work that
 led to the project being won, because there’s always other work in flight. It’s

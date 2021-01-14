@@ -14,12 +14,11 @@ late, you should let everyone know in the project Slack channel.
 Most developers have maintenance responsibilities, which they do during their
 [support rotation](#support-rota).
 
-We do our best to
-[work at a sustainable pace](#work-at-a-sustainable-pace). But sometimes, when
-we're approaching a firm deadline or a launch, or a client is having an
-emergency, we work longer hours than normal. From time to time, there's an
-emergency that means we have to work during unsociable hours to solve the
-problem. Neither of these happen often, but they are a normal part of life
+We do our best to [work at a sustainable pace](#work-at-a-sustainable-pace). But
+sometimes, when we're approaching a firm deadline or a launch, or a client is
+having an emergency, we work longer hours than normal. From time to time,
+there's an emergency that means we have to work during unsociable hours to solve
+the problem. Neither of these happen often, but they are a normal part of life
 at dxw.
 
 Sending emails or posting in Slack outside of working hours can be a good way to

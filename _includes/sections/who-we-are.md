@@ -26,10 +26,9 @@ education, health and social care, housing, welfare, and policing.
 
 ### Our values
 
-We think that it's important to have a talented team if we're going to
-succeed. But just as important as raw talent is our ability to work well
-together. These are the values that we aspire to, and help each other to
-achieve.
+We think that it's important to have a talented team if we're going to succeed.
+But just as important as raw talent is our ability to work well together. These
+are the values that we aspire to, and help each other to achieve.
 
 #### Helpful
 
@@ -210,9 +209,9 @@ Remember that this Playbook is the result of our conversations about how we
 should do things, not a substitute for one. So don’t make changes unless they
 reflect our shared agreement about how things are going to be done.
 
-This document is also public, because there is little about our process
-that cannot be open; but there will be some things that should be private. So
-don't forget that changes here get published to the world.
+This document is also public, because there is little about our process that
+cannot be open; but there will be some things that should be private. So don't
+forget that changes here get published to the world.
 
 To update the Playbook, follow the
 [guide to Contributing to the Playbook](/guides/contributing) and use
