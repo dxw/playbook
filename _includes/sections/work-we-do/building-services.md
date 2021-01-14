@@ -89,7 +89,7 @@ iterate them based on feedback. We also use the alpha phase to carry out
 technical spikes and experiments, and to make initial technology and service
 design decisions.
 
-**Beta**: Build a working version of the service, based on what we learnt in
+**Beta**: Build a working version of the service, based on what we learned in
 alpha. Carry out regular usability testing of the service with users, and launch
 a minimum viable product. Make plans for supporting the service and continue
 iterating it.
