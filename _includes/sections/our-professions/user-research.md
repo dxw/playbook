@@ -47,9 +47,9 @@ and working with, not for our clients.
    quality of our methods. We use tried and tested methods, and take time to
    reflect and continually improve our practice.
 
-   We also understand that context is important. So we use the best approach
-   for the question at hand and adapt our ways of working to fit the client and
-   the project.
+   We also understand that context is important. So we use the best approach for
+   the question at hand and adapt our ways of working to fit the client and the
+   project.
 
 1. **Learn, share and adapt**
 
