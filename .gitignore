@@ -2,6 +2,9 @@
 .DS_Store
 
 # dependencies
+_styles/proselint/
+_styles/write-good/
+.bundle/
 node_modules/
 vendor/
 npm-debug.log
@@ -10,3 +13,4 @@ npm-debug.log
 /.jekyll-cache/
 /_site/
 /dist/
+/tmp/
