@@ -11,6 +11,7 @@
 /_styles/**/*
 !/_styles/dxw/
 !/_styles/Govuk/
+/.bundle/**/*
 /.jekyll-cache/**/*
 /dist/**/*
 /script/**/*
