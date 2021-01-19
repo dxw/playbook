@@ -149,7 +149,7 @@ the first hour of the work day.
 
 #### Work day
 
-TODO. This section to cover:
+To be added. This section to cover:
 
 - Principles for a good work day
 - Preparing a work day activity
@@ -161,7 +161,7 @@ TODO. This section to cover:
 
 #### Offer, joining and probation
 
-TODO. This section to cover:
+To be added. This section to cover:
 
 - Salary negotiation, notice periods and start date
 - Eligibility to work in the UK, documentation that we need
