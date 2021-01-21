@@ -284,67 +284,70 @@ For more information, please speak to the People Manager.
 
 #### Flexible working
 
-Our policy is informed by the way we work and the way we charge clients for our
-time.
+We aim to offer flexibility for people looking for a part-time role or a role
+with flexible hours. Our policy is informed by the way we work and the way we
+charge clients for our time.
 
-##### Overall requirements
+If you have an alternative working arrangement, you should make sure it’s
+reflected in your calendar so the rest of the team can be confident in knowing
+when you are and aren’t around.
 
-**Client facing**: Any working arrangement needs to allow you to participate in
-most Fridays and be around for the important start-of- and end-of-sprint
-ceremonies.
+##### Requesting a change of working arrangement
 
-**Internal facing**: Working arrangements for these roles are slightly more
-flexible as the delivery needs listed above are not relevant.
+If you would like to discuss a change to your working pattern, you can either
+speak to your line manager or the HR Manager. We will discuss your request, and
+look at the impact on the team and your work.
+
+Any changes to working patterns are agreed at our discretion and your line
+manager should review them with you from time to time.
+
+If you would like to discuss a flexible working pattern not covered by the
+options here, or a variation on any of them, please talk to your line manager or
+the HR manager.
+
+##### Normal working pattern
+
+The normal working pattern is 5 days per week, Monday to Friday, and 7 hours per
+day (excluding a break for lunch).
 
 ##### Part time working
 
-The normal working pattern is 5 days per week, Monday–Friday.
-
 ###### Weekly or fortnightly working patterns
 
-**Client facing**: We’re happy to talk about a 4-day week, on the basis of a
-fortnightly pattern to accommodate our Monday–Thursday billing week and
-attending some Fridays. It may be possible for some roles to work a 3 day week
-due to the nature of the role potentially not being full-time on a single
-project. This would depend on a number of contextual factors and discussion with
-the team. We’re unable to support a 3-day (or fewer) week for all other roles
-due to the overheads for scheduling.
+We’re happy to talk about a 3 or 4 day week, a 9 day fortnight, or a shorter
+working day, where it makes sense for your role. This will depend on the nature
+of your role, client, and dxw needs, and the impact on other team members.
 
-**Internal facing**: We’re happy to talk about part time working for any number
-of days, dependent on the role.
-
-Part time hours spread over 5 days, e.g. working 21 hours across a full week, or
-roughly 4 hours a day, may be possible for internal facing roles after
-discussion, but is likely a no for client facing roles.
-
-Salary and holiday allowances (including bank holidays) will be prorated for
-part time roles following a weekly or fortnightly pattern.
+Part time roles have their salary and holiday allowances (including bank
+holidays) prorated.
 
 For example, when working a 4 day week, the pro rata leave allowance will be 20
 days per year of annual leave and 6.5 bank holiday days, giving a total leave
-allowance of 26.5 days. Bank holidays that don’t fall on a non-working day must
-be booked as annual leave.
+allowance of 26.5 days.
 
-###### Working patterns over longer period
+Note that you must book bank holidays that don’t fall on a non-working day as
+annual leave in BreatheHR when following this working pattern.
 
-As an alternative to a working pattern that reduces your days in a week, we’re
-happy to talk about working patterns that involve a regular number of weeks
-working full-time, followed by a number of full weeks off.
+###### Working patterns over longer periods
 
-For example, you might work 4 weeks full-time, and have your fifth week off, and
-repeat that on a 5 week cycle: 4 weeks on, 1 week off, 4 weeks on, 1 week of,
-etc. Alternatively, you might, for example, work during school term times, and
-take all of the school holidays off.
+As an alternative to a working pattern that reduces your days or hours in a
+week, we’re happy to talk about working patterns that involve a regular number
+of weeks working full-time, followed by some full weeks off.
+
+For example, you might work 4 weeks full-time and have your fifth week off, and
+repeat that on a 5 week cycle: 4 weeks on, 1 week off, 4 weeks on, 1 week off,
+etc. Alternatively, you might work during school term times, and take the school
+holidays off.
 
 This pattern works by reducing your salary and borrowing from the pro rata
-holiday and bank holiday allowance, increasing your total time off, but reducing
+holiday and bank holiday allowance, increasing your total time off but reducing
 your freely placed holiday allowance. Your annual free holiday allowance might
 vary year by year depending on how the weeks and bank holidays land in the year,
 so the pattern must have enough free holiday to cover the maximum number of days
 you would need off while still allowing you to take some ad hoc holidays
 throughout the year.
 
-As a rough guide on how your salary would be impacted:
+As a rough guide on how different patterns would impact your salary:
 
 - 7 weeks on, 1 week off: 90-95% FTE salary
 - 6 weeks on, 1 week off: 85-90% FTE salary
@@ -354,41 +357,28 @@ As a rough guide on how your salary would be impacted:
 
 We are happy to discuss the details and work out the best pattern for you.
 
-##### Core and non-core hours
-
-Everybody is expected to work seven hours a day. Normal office hours are
-10am–6pm.
-
-If you’d prefer to start a little earlier and finish a little earlier (say
-9am–5pm), this is definitely OK and can happen without any formal discussion for
-all roles.
-
-If you’d prefer your working hours to start after 10am or finish before 5pm
-(still keeping to seven hours), we’re happy to discuss this and either **might**
-be possible. The impact of this would be less for internal facing roles than for
-client facing roles, but both would require a discussion.
-
-Salary and holiday allowances would remain the same.
-
 ##### Compressed hours
 
-Compressed hours involves working your full hours in fewer days. For example: 35
-hours in 4 days, 9.30am–6.45pm.
+Working with compressed hours involves working your full hours in fewer days.
+For example, 35 hours in 4 days, from 09:30 to 18:45.
 
-We don't offer compressed hours for client-facing roles due to the complications
-for the way we bill our time and present our services to clients.
+We are happy to discuss compressed hours for all roles but cannot guarantee this
+will always be an option. Arrangements must be
+[sustainable](#work-at-a-sustainable-pace) for your wellbeing and productivity
+and the needs of the role.
 
-We are happy to have a discussion about compressed hours for internal-facing
-roles but cannot guarantee this would be an option.
+For working patterns with an equal number of hours every day, holiday allowance
+will be prorated in the same way as for
+[part-time roles](#weekly-or-fortnightly-working-patterns). Working patterns
+with varied daily hours have annual leave prorated and calculated in hours (231
+hours per year). You must book bank holidays that fall on working days as leave
+in BreatheHR.
 
-35 hours in 3 days, for example, is a no across all roles. It goes against our
-encouragement of [sustainable pace](#work-at-a-sustainable-pace).
+##### Returners’ programme
 
-For working patterns with the same number of hours each day, holiday allowance
-can be treated the same as for [part-time roles](#part-time-working). For
-working patterns with varied hours, the annual allowance for both holiday and
-bank holidays should be counted in hours (231 hours per year) and bank holidays
-that fall on working days must be booked as leave.
+We offer a [returners’ programme](#returners-program) for people who are
+returning to work after a prolonged break. As part of this, we’re able to offer
+a phased return to work. If this interests you, please talk to us when applying.
 
 ##### Remote working/location
 
