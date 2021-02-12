@@ -109,5 +109,5 @@ requests.
    green `Merge pull request` button on the `Conversation` tab.
 
 The Playbook is hosted on [GitHub Pages](https://pages.github.com), and it's
-tracking the `master` branch. This means changes will be published automatically
+tracking the `main` branch. This means changes will be published automatically
 when a pull request is merged.
