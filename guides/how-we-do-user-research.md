@@ -450,16 +450,17 @@ incentive, apologise and contact the agency to let them know.
 Where we are paying the incentive, we use shopping vouchers. Normally from
 [Love2shop](https://www.highstreetvouchers.com/gifts/love2shop-gift-vouchers).
 
-Request the amount of vouchers you need through the 
-[#help-purchasing](https://dxw.slack.com/archives/C8ZGR2Y8Z) Slack channel and 
-[purchasing form](https://docs.google.com/forms/d/e/1FAIpQLSdz8-Z-fcootRS6UyceXbxdSdbO4-2jIyRrHHiI-3VH4LyRrw/viewform). 
+Request the amount of vouchers you need through the
+[#help-purchasing](https://dxw.slack.com/archives/C8ZGR2Y8Z) Slack channel and
+[purchasing form](https://docs.google.com/forms/d/e/1FAIpQLSdz8-Z-fcootRS6UyceXbxdSdbO4-2jIyRrHHiI-3VH4LyRrw/viewform).
 They should be in £5 and £10 denominations so they are easier to spend.
 
 In a face-to-face research session, give the vouchers to the participant and
-have them [sign a receipt](https://drive.google.com/open?id=1-O9Qvp4kgs4t0JfQTIQF9dkiexv5mZtPNJfcxtmODZ0).
+have them
+[sign a receipt](https://drive.google.com/open?id=1-O9Qvp4kgs4t0JfQTIQF9dkiexv5mZtPNJfcxtmODZ0).
 
-For a remote research session, ask for the vouchers to be posted or emailed to the participant.
-When posting vouchers, enclose the vouchers with a signed
+For a remote research session, ask for the vouchers to be posted or emailed to
+the participant. When posting vouchers, enclose the vouchers with a signed
 [thank you sheet](https://drive.google.com/open?id=142Sf1QYH9wcySPf6GIOskv5qyJlc9phGZSeoCsxCoeU).
 
 ### Other ways to pay incentives
