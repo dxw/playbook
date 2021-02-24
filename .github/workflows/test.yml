@@ -52,7 +52,7 @@ jobs:
         run: |
           script/cibuild
 
-      - uses: stefanzweifel/git-auto-commit-action@v4.8.0
+      - uses: stefanzweifel/git-auto-commit-action@v4.9.1
         if:
           failure() && github.event_name == 'pull_request' &&
           steps.cibuild.outcome == 'failure'
