@@ -429,6 +429,13 @@ On previous project we have paid:
   need assisted digital support
 - £100 cash for 45 minute research session with small businesses
 
+### Confirming incentives at the start of the research session
+
+Handle the incentive at the start of the research session - either giving the
+incentive, or confirming that the incentive will be sent. This avoids any
+suggestion that participants have to ‘earn’ their incentive. It also means you
+don’t have to deal with the incentive if you want to stop a problematic session.
+
 ### Paying incentives through a recruitment agency
 
 If you are using a recruitment agency, ask them to pay the incentive to the
@@ -443,21 +450,18 @@ incentive, apologise and contact the agency to let them know.
 Where we are paying the incentive, we use shopping vouchers. Normally from
 [Love2shop](https://www.highstreetvouchers.com/gifts/love2shop-gift-vouchers).
 
-Request the amount of vouchers you need through the #dxw-purchasing Slack
-channel. They should be in £5 and £10 denominations so they are easier to spend.
+Request the amount of vouchers you need through the
+[#help-purchasing](https://dxw.slack.com/archives/C8ZGR2Y8Z) Slack channel and
+[purchasing form](https://docs.google.com/forms/d/e/1FAIpQLSdz8-Z-fcootRS6UyceXbxdSdbO4-2jIyRrHHiI-3VH4LyRrw/viewform).
+They should be in £5 and £10 denominations so they are easier to spend.
 
 In a face-to-face research session, give the vouchers to the participant and
 have them
 [sign a receipt](https://drive.google.com/open?id=1-O9Qvp4kgs4t0JfQTIQF9dkiexv5mZtPNJfcxtmODZ0).
 
-For a remote research session, use the #dxw-purchasing Slack channel to ask for
-the vouchers to be posted to the participant. Enclose the vouchers in a signed
+For a remote research session, ask for the vouchers to be posted or emailed to
+the participant. When posting vouchers, enclose the vouchers with a signed
 [thank you sheet](https://drive.google.com/open?id=142Sf1QYH9wcySPf6GIOskv5qyJlc9phGZSeoCsxCoeU).
-
-Handle the incentive at the start of the research session - either giving the
-incentive, or confirming that the incentive will be sent. This avoids any
-suggestion that participants have to ‘earn’ their incentive. It also means you
-don’t have to deal with the incentive if you want to stop a problematic session.
 
 ### Other ways to pay incentives
 
