@@ -39,12 +39,12 @@ We charge clients “time and materials” for the work we do, based on a
 [per person day rate](https://assets.digitalmarketplace.service.gov.uk/g-cloud-10/documents/92768/432689933684667-sfia-rate-card-2018-05-23-1413.pdf).
 
 We generally schedule team members to work on particular projects for a whole
-two week sprint at a time, and track and bill that time in half days and whole days.
-Delivery leads work with the finance team to track and invoice the time of the
-team; having regularly patterned working helps the process to run as smoothly as
-possible, without confusion and without taking more time than needed. Any
-working arrangement needs to make it straightforward to track, report and
-invoice for your time.
+two week sprint at a time, and track and bill that time in half days and whole
+days. Delivery leads work with the finance team to track and invoice the time of
+the team; having regularly patterned working helps the process to run as
+smoothly as possible, without confusion and without taking more time than
+needed. Any working arrangement needs to make it straightforward to track,
+report and invoice for your time.
 
 When working on a project we work as a single multi-disciplinary team. We’re
 often working on phases of projects where there’s a lot of unknowns and a lot of
@@ -55,16 +55,16 @@ arrangement needs to support active synchronous collaboration with the team.
 
 ##### Internal teams
 
-Internal facing roles, in which time is not billable to a
-client, have a more regularly structured full- or part-time working week.
+Internal facing roles, in which time is not billable to a client, have a more
+regularly structured full- or part-time working week.
 
-We encourage people in internal facing roles to take part in dxw time activities 
+We encourage people in internal facing roles to take part in dxw time activities
 to contribute to our culture and to improve our ways of working.
 
 ##### dxw time
 
-We regularly come together to work on our own projects and
-processes, most often on a Friday.
+We regularly come together to work on our own projects and processes, most often
+on a Friday.
 
 This dxw time is important for us to maintain our strong culture and identity,
 and to imporve our practices, separate from the clients we work for.
