@@ -8,7 +8,7 @@
     "core-js": "^3.9.1",
     "css-loader": "^5.1.0",
     "docsify": "4.11.3",
-    "eslint": "^7.20.0",
+    "eslint": "^7.21.0",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-prettier": "^3.3.1",
     "husky": "^4.3.8",
