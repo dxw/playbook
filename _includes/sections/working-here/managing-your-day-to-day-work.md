@@ -33,18 +33,18 @@ working hours and handle them when you are back at work.
 
 #### Working days
 
-##### Monday to Thursday
+##### Client days
 
-**Client facing**: We charge clients “time and materials” for the work we do,
-based on a
+We charge clients “time and materials” for the work we do, based on a
 [per person day rate](https://assets.digitalmarketplace.service.gov.uk/g-cloud-10/documents/92768/432689933684667-sfia-rate-card-2018-05-23-1413.pdf).
+
 We generally schedule team members to work on particular projects for a whole
-sprint at a time, and track and bill that time in half days and whole days.
-Delivery leads work with the finance team to track and invoice the time of the
-team; having regularly patterned working helps the process to run as smoothly as
-possible, without confusion and without taking more time than needed. Any
-working arrangement needs to make it straightforward to track, report and
-invoice for your time.
+two week sprint at a time, and track and bill that time in half days and whole
+days. Delivery leads work with the finance team to track and invoice the time of
+the team; having regularly patterned working helps the process to run as
+smoothly as possible, without confusion and without taking more time than
+needed. Any working arrangement needs to make it straightforward to track,
+report and invoice for your time.
 
 When working on a project we work as a single multi-disciplinary team. We’re
 often working on phases of projects where there’s a lot of unknowns and a lot of
@@ -53,16 +53,21 @@ together on problems. That’s often easier when co-located, particularly when
 working with clients, pairing, or participating in workshops. Any working
 arrangement needs to support active synchronous collaboration with the team.
 
-**Internal facing**: Internal facing roles, in which time is not billable to a
-client, have a more regularly structured five day working week. Everybody is
-encouraged to take part in Friday work, at least occasionally.
+##### Internal teams
 
-##### dxw days
+Internal facing roles, in which time is not billable to a client, have a more
+regularly structured full- or part-time working week.
 
-We regularly come back together as a team to work on our own projects and
-processes, normally each Friday. These dxw days are important for us to maintain
-our strong culture and identity, separate from the clients we work for. Our
-sprints start on a Wednesday and end on the Tuesday two weeks later.
+We encourage people in internal facing roles to take part in dxw time activities
+to contribute to our culture and to improve our ways of working.
+
+##### dxw time
+
+We regularly come together to work on our own projects and processes, most often
+on a Friday.
+
+This dxw time is important for us to maintain our strong culture and identity,
+and to imporve our practices, separate from the clients we work for.
 
 #### Working from home
 
