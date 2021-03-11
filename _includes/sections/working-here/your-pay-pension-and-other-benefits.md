@@ -10,20 +10,23 @@ details or banking details change.
 
 #### Cost of living raise
 
-dxw will institute a cost of living raise each year on 1st April. The percentage
-will be set by the
+dxw will institute a cost of living raise each year on 1st October. The
+percentage will be set by the
 [CPI Index](https://www.ons.gov.uk/economy/inflationandpriceindices) as of 1st
-April each year.
+October each year.
 
-- If you have passed your probation, you will receive your raise in the April
+- The raise will be conditional upon the company meeting financial targets
+  during the financial year ending in June.
+- If you have passed your probation, you will receive your raise in the October
   payroll.
-- For those team members who joined prior to 1st April of that year, but haven't
-  yet passed probation, you will receive your raise in the month you
-  successfully complete it and it will be the same percentage as of 1st April
+- For those team members who joined prior to 1st October of that year, but
+  haven't yet passed probation, you will receive your raise in the month you
+  successfully complete it and it will be the same percentage as of 1st October
   CPI that year.
-- If you joined on or after 1st April (that year), you will not be eligible for
-  a cost of living raise until the following April.
-- If you are leaving during April you will not receive the cost of living raise.
+- If you joined on or after 1st October (that year), you will not be eligible
+  for a cost of living raise until the following October.
+- If you are leaving during October you will not receive the cost of living
+  raise.
 
 #### Pensions
 
