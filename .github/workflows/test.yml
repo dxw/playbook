@@ -28,7 +28,7 @@ jobs:
 
       - name: Set up Bundler
         run: |
-          gem install bundler
+          gem install bundler:2.1.4
           bundle config path vendor/bundle
 
       - name: Cache Ruby dependencies
