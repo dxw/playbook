@@ -68,6 +68,8 @@ of extensions you can install on your browser for automated testing include:
   for Chrome, Firefox and Edge which you can use to test for accessibility
   defects. This identifies defects in relation to their user impact level as
   well as any corresponding WCAG guidelines.
+- [axe cli](https://github.com/dequelabs/axe-core-npm/tree/develop/packages/cli)
+  is a command line interface for axe to run quick accessibility tests.
 
 ### Manual testing
 
@@ -75,10 +77,19 @@ Manual testing needs to identify whether a website is accessible with or without
 use of assistive technologies. In your testing you need to identify any traps,
 barriers or challenges which make a website hard or impossible to access.
 
+#### Guides manual testing
+
+There are a couple of helpful tools available for performing manual testing.
+These provide visual helpers to help your assessment and keep a track of all
+completed or outstanding tests.
+
+- [Microsoft Accessibility Insights](https://accessibilityinsights.io/)
+- [axe DevTools Pro](https://www.deque.com/axe/devtools/) (subscription
+  required)
+
 Prepare to spend anything upwards of one day, to a week, to perform manual
-testing comprehensively depending on the size of your project or task. You
-should try to test with real devices, as opposed to emulators, for this part of
-testing that should include:
+testing comprehensively depending on the size of your project or task. Try to
+test with real devices, as opposed to emulators, where possible including:
 
 - Phone or tablet running iOS
 - Phone or tablet running Android
@@ -132,11 +143,7 @@ Ultimately you should be looking to resolve all accessibility issues. Where
 there's time and budgetary constraints, then prioritise those which have the
 highest level of user impact, such as critical or serious. Add any unresolved
 issues to an accessibility statement with explanation for when you anticipate
-they will be fixed.
-
-In an agile project every release must be accessibility tested. In a waterfall
-project make sure you account for accessibility in the process before committing
-to a completion schedule and budget.
+they will be fixed. Every release must be accessibility tested.
 
 ### Assignment
 
@@ -150,3 +157,4 @@ accessibility in decision-making at all stages.
 - [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
 - [Making online public services accessible](https://accessibility.campaign.gov.uk/)
 - [Authoring Tool Accessibility Guidelines overview](https://www.w3.org/WAI/standards-guidelines/atag/)
+- [GDS Empathy Lab](https://gds.blog.gov.uk/2018/06/20/creating-the-uk-governments-accessibility-empathy-lab/)
