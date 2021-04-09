@@ -225,20 +225,25 @@ Leave, and choose Compassionate as the Reason.
 
 While many terms around parental leave are gendered, gender is not a factor in what leave you are entitled to. What matters is whether you are undergoing fertility treatment, pregnant, adopting, having a baby through surrogacy or your partner is pregnant.
 
-#### If you’re having IVF or another fertility treatment
+##### If you’re having IVF or another fertility treatment
 
 If you share with us that you are undergoing fertility treatment you will be supported in the same way as other longer term medical treatment. Regular, open and confidential communication with your line manager will be important, so we can support you in the best possible way.
 
-#### If you’re pregnant
+##### If you’re pregnant
 
 If you’re pregnant, you’ll probably be entitled to [Statutory Maternity Leave (SML) and Statutory Maternity Pay (SMP)](https://www.gov.uk/maternity-pay-leave/leave).  Statutory Maternity Leave entitles you to 52 weeks leave, made up of Ordinary Maternity Leave - the first 26 weeks and Additional Maternity Leave - the last 26 weeks. Statutory Maternity Pay is funded by the government. They will pay you 90% of your normal salary for the first six weeks of your leave.
+
 Assuming you are entitled to SMP (almost everyone is), dxw will also pay you 90% of your salary for the second six weeks of your leave. This contribution is called Occupational Maternity Pay (OMP). Taken together, this means that you’ll have twelve weeks of leave on 90% of your normal salary. 
+
 Your pay will then reduce to the government statutory rate of £151.20 per week for the following 27 weeks.
+
 If you’d like support working out your anticipated maternity pay and you have your due date, there’s an [online calculator](https://www.gov.uk/pay-leave-for-parents) or if you’re ready to share the news, speak to your line manager and the finance team for a breakdown.
+
 To be eligible for OMP, on returning to work you will need to stay at dxw for at least three months full time (or proportionately longer if working part-time). If you decide not to, you will have to repay any OMP you received.
+
 When you know you are pregnant please do tell us as soon as you are comfortable, so we can check that your working arrangements are safe for you and also ensure you are paid for time off for antenatal appointments.
 
-#### If you’re adopting or having baby through surrogacy
+##### If you’re adopting or having baby through surrogacy
 
 If you are adopting, or you are having a baby through surrogacy, you’ll probably be eligible for [Statutory Adoption Leave and Statutory Adoption Pay](https://www.gov.uk/adoption-pay-leave). 
 Assuming you are entitled to Statutory Adoption Leave, this entitles you to 52 weeks of leave, made up of 26 weeks of Ordinary Adoption Leave and 26 weeks of Additional Adoption Leave.
@@ -246,17 +251,18 @@ Statutory Adoption Pay is paid for up to 39 weeks. The government will pay you 9
 Only 1 person in a couple can take adoption leave. The other partner could get paternity leave instead.
 If you get adoption leave, you can also get paid time off work to attend 5 adoption appointments after you’ve been matched with a child.
 
-#### If your partner or surrogate is pregnant or you are adopting 
+##### If your partner or surrogate is pregnant or you are adopting 
 
 If your partner is pregnant, you are adopting, or you are having a baby through surrogacy, you’ll probably be eligible for [Statutory Paternity Leave (SPL) and Statutory Paternity Pay (SPP)](https://www.gov.uk/paternity-pay-leave) or [Statutory Adoption Leave and Statutory Adoption Pay](https://www.gov.uk/adoption-pay-leave). 
+
 SPL may be taken for one or two consecutive weeks, between the date of birth and 56 days afterwards. SPP is £145.18 per week.
 If you qualify for SPL and SPP, dxw will instead pay you your normal salary for three weeks of paternity leave. If you want to take more than three weeks of leave you can use shared parental leave.
 
-#### Shared parental leave
+##### Shared parental leave
 
 If you’re having a baby, adopting a child, or having a baby through surrogacy, you may be eligible for [Shared Parental Leave and Pay](https://www.gov.uk/shared-parental-leave-and-pay). If you’re interested in taking this up, please talk to the People Manager.
 
-#### Keep in touch (KIT) days
+##### Keep in touch (KIT) days
 
 You have 10 paid KIT days to take during your parental leave if you wish to come in for departmental meetings, events or just to spend some time in the office.
 You will continue to accrue holiday while you are on parental leave and any bank holidays that you miss will be added to your holiday entitlement when you return to work. You can choose to use your annual leave before or after your parental leave, or have it paid out during your parental leave.
