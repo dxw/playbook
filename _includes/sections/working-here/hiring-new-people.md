@@ -1,174 +1,144 @@
 ### Hiring new people
 
-#### Basics
+#### Process
 
-We use [Workable](https://dxw.workable.com) for recruitment, to help us stay
-organised and keep in touch with candidates.
+##### Making a plan for hiring
 
-Each candidate moves through a number of stages before being offered a job or
-declined: a screening interview via Skype or phone, an interview and a work day.
-The work day includes another interview.
+The hiring lead works with HR to create a plan for hiring using
+[the hiring doc template](https://docs.google.com/document/d/1oN961FE41BWPyrVrPbHCES2D78eB0nbVp7dxZzHkMb8/edit).
+This includes planning for each stage of recruitment by doing the following;
 
-We feel strongly that it's important to be respectful of candidates' time and
-interest in us, and that their attention is valuable. So we do our best to be
-responsive, human and open. It's particularly important to give unsuccessful
-candidates good, thorough feedback about why we haven't made them an offer.
+- set up the roles in [Applied](https://www.beapplied.com/) where we manage the
+  hiring process
+- write our sifting and interview questions, and their review guides
+- work out who will be part of the hiring team and try to make sure that
+  interview panels are diverse
 
-#### Job descriptions
+##### Writing a job description
 
-Before we decide to advertise a new job, we write a job description. This helps
-us make sure we all agree on what we need, and helps candidates to know if their
-skills are a good fit for the job. A good job description has three parts:
+Before deciding to advertise a new job, we try to write an inclusive job
+description. The hiring lead will work with heads of professions, the hiring
+team, and the HR team to make sure that they’ve gathered what they need and to
+get feedback on it. We’ve written about our approach to job descriptions here
+[on our blog](https://www.dxw.com/2021/01/how-to-write-inclusive-job-descriptions/).
 
-1. A description of what the person in this job will do
-1. A list of their responsibilities
-1. A list of the skills, experience and personal qualities they will need to be
-   good at their job
+We always include a salary band in the job description.
 
-There are lots of job descriptions on the website if you need inspiration. It's
-important for them to be declarative ("The person with this job will…") and as
-objective as possible. Throughout the rest of the process, we'll use this
-document to decide what questions to ask in interviews, and to fix activities
-for the work day. The skills and personal qualities need to be things that we
-can have a go at understanding by asking questions and observing a candidate's
-behaviour.
+Once the hiring lead has a first draft they will put the job description through
+[The Gender Decoder](http://gender-decoder.katmatfield.com/) and make relevant
+changes before sharing with the Diversity and Inclusion group for a final
+review.
 
-#### How we find people
+We then publish the job advert on
+[our careers page](https://www.dxw.com/careers/).
 
-The first way we find people is through our networks. We look for people we
-know. Everyone who is willing tweets about the job and shares it on Facebook and
-other social networks.
+##### Finding people
 
-The second way we find people is by advertising. We advertise jobs on Stack
-Overflow, GitHub, WorkInStartups and Unicorn Hunt. Not all jobs go on all of
-these boards - we pick whatever seems most appropriate for the job.
+We sometimes find people through our networks, and share our jobs on Twitter and
+LinkedIn.
 
-The third way we find people is by making sure we're regularly blogging about
-what we're doing, and being open about our culture, work and process. We accept
-[general applications](https://www.dxw.com/careers/general-application/) from
-people who are interested in dxw but who don't fit an open job.
+We also always advertise on specialist jobs boards as relevant. We have a budget
+to advertise roles and encourage hiring leads to think about how they could use
+this to attract more diverse applicants. We use the following job boards:
 
-#### Review applications
+- [Hustle Crew](https://www.hustlecrew.co/)
+- [Coding Black Females](https://codingblackfemales.com/)
+- [Ada's List](https://www.adaslist.co/)
+- [Escape the City](https://www.escapethecity.org/)
 
-All applications arrive via Workable. We review these applications as a team to
-decide who to take forward.
+We typically don’t use recruiters.
 
-An application review is a very quick process. We look at the information given
-by the candidate and decide if it is likely that the applicant has the skills,
-experience and personal qualities that we need. If it is likely, we progress
-them to the next stage.
+We always welcome general applications if there’s not an open vacancy.
 
-#### Screening
+##### Reviewing applications
 
-The purpose of the screening is to:
+The hiring lead and the hiring team review applications to decide who to take
+forward.
 
-1. Introduce ourselves and explain a little more about the job and life at dxw
-1. Talk to the candidate about their experience and explore why they are
-   interested in the job
-1. Decide whether you think they are quite likely to have the experience and
-   personal qualities that we are looking for
-1. Get an idea of the candidate's salary expectation
+We check whether applicants might be able to carry out the job description, and
+decide whether to take them to the next stage.
 
-Try to keep the conversation quite high-level, and avoid going into too much
-technical detail. This part of the process is more about experience and personal
-qualities than about skills. So look for whether this person:
+We always inform candidates if they are not being taken to the next stage.
 
-- has an interest in our [mission](#who-we-are)
-- shares our [values](#our-values)
-- has experience working in [human-centred](#start-with-people-and-their-needs)
-  and [agile](#keep-an-agile-mindset) ways
+##### Sifting questions
 
-If you can find out how they heard about the job, that's useful for us to know.
+All candidates are required to answer sifting questions as part of their
+application. These questions are written by the hiring team and are a chance for
+candidates to explain their skillset by answering role specific questions.
 
-Many people feel self-conscious when asking questions about salary, but it's
-very important - and this is one of the few situations in daily life where
-people expect the question and are not put off by it. If you're not sure how to
-broach the topic, leave it to the end. When you're about to finish the call, you
-can say something like:
+##### Interviewing
 
-"Thanks for talking to me. Before we finish, please could you give me an idea of
-the salary you'd like?"
+Interviews are an hour long with two members of the team. Candidates have a
+choice of google hangouts or Zoom as their platform to interview on.
 
-If the candidate suggests a number that is unexpectedly high or low, it's also
-worth asking what they are paid in their current role.
+dxw interviews are informal. They are a semi-structured conversation. We use
+competency-based questions, and look for answers that describe a candidate’s own
+experience.
 
-We avoid making any commitments during this call. Near the end, we explain that
-we'll be in touch soon. Don't offer an interview there and then: that's
-something we agree as a team.
+Interviewers should take notes during the interview.
 
-After the call, you can talk about the candidate with the team if you wish, or
-just make a decision. If you think it's quite likely that they have the skills,
-experience and personal qualities that we need, you should take them through to
-an interview.
+We include time in interviews for candidates to ask questions, whether about
+dxw,the role, or the process. We will always try to answer, but we will check
+things if we need to and get back to them.
 
-#### Interviews
+Directly after an interview, the interviewers will add their notes to Applied
+without discussing the candidate first. Once all of the interviews are
+completed, the hiring team will meet to discuss who will progress to the next
+stage.
 
-Candidates who have a successful screen will be offered an interview. This is an
-hour long with two members of the team.
+If a candidate is not being taken to the next stage, we will provide detailed
+feedback from the interview.
 
-Before going to an interview, make sure you have:
+##### Simulating a work day [some roles only]
 
-- Set aside enough time for the interview. You should leave half an hour each
-  side in case the candidate is early or the interview goes long.
-- Read the job description
-- Read the candidate's CV
-- Read the questions for the interview, and thought about whether they are the
-  right things to ask
+A simulated work day is a 2-3 hour activity based on a real world problem or
+task. We use this to make sure that a candidate is capable of taking on a role.
+We also find out about how a candidate approaches their work. It also gives the
+candidate the chance to meet more people they would be working with and to
+understand more about the role, how we work, and the expectations of the job
+itself.
 
-dxw interviews are informal. They are a semi-structured conversation, rather
-than a Q&A. We do not recite the list of questions or keep verbose notes on
-replies. The questions are there to ensure that you don't forget to cover
-important ground, and as a prompt when the conversation naturally dries up.
+The activity itself will be variable dependent on role - for technical roles,
+this might involve pairing with one of our developers, or for delivery roles,
+running a planning session for a team. The activity will always involve working
+in conjunction with someone in a similar role to the one the candidate is
+applying for.
 
-Start with a couple of questions, and then allow the conversation to evolve
-naturally. Ask questions about things they say, and try to go into more detail
-on the points that you think will help you to assess their skills, experience
-and personal qualities. Keep the job description in mind: this should always be
-your frame of reference.
+We send candidates the task and an explanation at least 24 hours before the work
+day, so that they have a chance to read and understand the scope of the
+activity, to prepare anything they need to, or to pull out if they don’t feel
+like they are a good fit.
 
-At the end of the interview, always ask the candidate if there's anything they
-would like to ask you. If they have questions, answer them honestly. If they ask
-about salary at this stage, or have a concern or question about the job that you
-don't feel comfortable addressing, tell the candidate we'll get back to them and
-make a note for an appropriate colleague to call them.
+At the end of a work day, we ask the candidate to briefly and informally present
+their activity to a small group.
 
-When everything's done, we thank the candidate for their time and then return to
-the office and discuss the interview. As soon as possible, we put a thorough
-update on Workable. This update should include the good things and bad things
-about the candidate, a recommendation on whether to take them forward, and a
-rationale for that recommendation. It is very important that this update is
-detailed enough for us to understand what happened and why, long after everyone
-involved has forgotten all about it.
+After all work days are completed, the hiring team will meet. For candidates who
+have not been successful, we will provide detailed feedback from the interview
+and work day.
 
-If you think the candidate is very likely to have the skills, experience and
-personal qualities we need, you should take them through to a work day.
+##### Offering the job
 
-The work day interview is exactly the same as the first interview, but with
-different members of the team and different questions. Usually, it happens in
-the first hour of the work day.
+When we are ready to offer a job, the HR manager will call and email the
+candidate with the details of the offer, including salary and a proposed start
+date. If the candidate accepts the offer, we start the onboarding process. If
+they have queries, the HR manager will discuss them with them and make
+adjustments where possible and appropriate.
 
-#### Work day
+Offers are subject to successfully completing eligibility to work in the UK
+checks and a background check including BPSS and BS7858. We need to do this
+vetting due to restrictions in our client contracts.
 
-To be added. This section to cover:
+##### Onboarding and probation
 
-- Principles for a good work day
-- Preparing a work day activity
-- Letting the candidate know if they need to bring anything and how much time
-  we'll need
-- Making sure there is a printed or emailed explanation for what they need to do
-- Discussing the results
-- Offer if we are sure they are right
+New starters are subject to a probation period of 4 months with dxw having the
+option to extend by 2 months. Probationary periods go both ways, it is also a
+chance for a new employee to find their feet and dxws way of working. In your
+probation meeting your line manager will share feedback that they have gathered
+from those you have worked with closely.
 
-#### Offer, joining and probation
-
-To be added. This section to cover:
-
-- Salary negotiation, notice periods and start date
-- Eligibility to work in the UK, documentation that we need
-- Background check
-- Starters checklist
-- The probation period, meeting and expectations
-- …more things.
+Onboarding will vary by role and experience. New starters have a checklist they
+follow to guide them through their first few weeks. New starters will be paired
+with a [helper](https://playbook.dxw.com/#support-paths) from their first day.
 
 #### Returners' programme
 
