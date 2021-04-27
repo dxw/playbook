@@ -147,18 +147,6 @@ The work day interview is exactly the same as the first interview, but with
 different members of the team and different questions. Usually, it happens in
 the first hour of the work day.
 
-#### Work day
-
-To be added. This section to cover:
-
-- Principles for a good work day
-- Preparing a work day activity
-- Letting the candidate know if they need to bring anything and how much time
-  we'll need
-- Making sure there is a printed or emailed explanation for what they need to do
-- Discussing the results
-- Offer if we are sure they are right
-
 #### Offer, joining and probation
 
 To be added. This section to cover:
