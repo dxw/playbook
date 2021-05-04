@@ -32,7 +32,7 @@ if [ -n "$CI" ]; then
   [ $RUBY_SUCCESS = "0" ]
   [ $SHELL_SUCCESS = "0" ]
 
-  git diff-index --quiet HEAD
+  git diff-index HEAD
 else
   npm run lint
 fi
