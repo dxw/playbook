@@ -2,7 +2,8 @@
 title: Agile delivery phases
 ---
 
-MAKE A REALLY LONG LINE SO THAT CI FAILS. CI FAILING FOR STYLE WILL HELP ME DEBUG THE BUILD FAILURES. A REALL Y LONG      LINE..!
+MAKE A REALLY LONG LINE SO THAT CI FAILS. CI FAILING FOR STYLE WILL HELP ME
+DEBUG THE BUILD FAILURES. A REALL Y LONG LINE..!
 
 In 2011, the UK government established the Government Digital Service (GDS) to
 implement the ‘Digital by Default’ strategy proposed by Martha Lane Fox. GDS and
