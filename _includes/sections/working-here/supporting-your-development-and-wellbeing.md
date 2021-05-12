@@ -216,7 +216,7 @@ intention of increasing the annual allowance.
 
 If you have any questions, please contact the HR team.
 
-### Support for professional qualifications
+#### Support for professional qualifications
 
 We may pay for a qualification or training that exceeds the annual £750
 individual learning and development allowance, when that course is relevant and
@@ -361,7 +361,7 @@ concerns you might have e.g. retrospectives or planning sessions. As well as
 this, or if you’d prefer to talk one on one, the delivery lead working on the
 project will be available to provide support and guidance.
 
-##### Directors & heads-of
+##### Directors and heads-of
 
 All members of the Directors and heads-of team are here to help answer any
 questions you might have. Your own Director and/or Head-of profession or
