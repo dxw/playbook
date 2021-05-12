@@ -11,7 +11,6 @@ jobs:
 
       - uses: errata-ai/vale-action@master
         with:
-          onlyAnnotateModifiedLines: true
           styles: |
             https://github.com/errata-ai/proselint/releases/latest/download/proselint.zip
             https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip
