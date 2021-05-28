@@ -51,55 +51,86 @@ the roadmap are just as, if not more, important than the document itself.
 
 1. What are our goals and outcomes?
 
-   What are the overall goals for the project and service? What intermediate
-   outcomes do we want to achieve? How might we measure them?
+   What are the overall goals for the project and service?
+
+   What intermediate outcomes do we want to achieve? How might we measure them?
+
+   What standards and codes must we meet, for service, accessibility, equality,
+   technology?
 
 1. What are we assuming?
 
    What ideas and beliefs are our goals and outcomes based on? How confident are
    we that they are true? That they won’t change?
 
+   What biases and blind spots might we have? What unintended consequences might
+   there be?
+
 1. What are we trying to learn or prove?
 
    What do we need to know to make good decisions? What might the organisation
-   already know? What risky assumptions should we be testing? What will we need
+   already know?
+
+   What risky assumptions should we be testing? What will we need
    to prove to validate our work?
 
 **About the service**
 
 1. Who are the users?
 
-   Are they members of the public, professionals or staff? What different
-   groups, circumstances and behaviours might be important? Are they current or
+   Are they members of the public, professionals or staff? Are they current or
    potential users?
+   
+   What different groups, job roles, circumstances, environments, access needs
+   and support needs might be important? Who might currently be worst served 
+   and most likely to experience barriers?
+
+   How will we engage and involve the different people we need to work with?
 
 1. What are we operating?
 
    What digital and physical components will the service be made up of? What
-   people will be involved in operating the service? How will we roll out the
-   service?
+   people will be involved in operating the service?
+
+   What digital and offline channels and support routes might there be?
+
+   How will we roll out the service to all the people who might need to use it?
 
 1. What capabilities do we need?
 
-   What capabilities will we need to build and operate the service? What do we
-   already have? What is new? What is well understood and what is novel?
+   What capabilities will we need to build and operate the service?
+
+   What do we already have? What is new? What is well understood and
+   what is novel?
 
 **About the context**
 
 1. Who are our stakeholders?
+
+   Are they colleagues from our organisation or other public sector bodies?
+   What community, civil society, professional and advocacy groups might
+   be important?
 
    What is their relationship to the work? What expectations and concerns might
    they have? How closely might they be involved? How might they help?
 
 1. What are our dependencies?
 
-   What other work or organisations will the project and service depend on? Who
-   is depending on us? How will we manage those dependencies?
+   What other work or organisations will the project and service depend on?
+   What other work might be an enabler or blocker for us?
+
+   Who is depending on us?
+
+   How will we manage those dependencies?
 
 1. What do we need to communicate?
 
-   What meetings, governance and other processes do we need to feed into? What
-   communications might we expect to create? For who? How will we share them?
+   What meetings, governance and other processes do we need to feed into?
+
+   What communications might we expect to create? Why and for who?
+
+   How will we share information? How will we make our communications
+   accessible and inclusive?
 
 ## Using Now, Next and Later to prioritise
 
@@ -117,6 +148,13 @@ smaller project.
 We recommend prioritising as you ask each question, rather than waiting until
 the end. This will involve some iteration as the answers to later questions
 influence previous thoughts about priorities.
+
+Be careful not to always prioritise the largest groups and most common needs.
+Consider prioritising people who are currently worst served and who experience
+the most barriers.
+
+And be careful not to leave work on accessibility and inclusion until Later.
+You can and should be working on these from your first sprint.
 
 You might not have time to prioritise everything. But the conversations about
 priority should help set the direction and scope of your first sprint.
@@ -136,7 +174,7 @@ The product owner and delivery or transformation lead normally lead the
 workshop. And you should aim to have a broad set of participants to represent
 the views of both the delivery team and the wider client organisation.
 
-From the client organisation aim to include people from service and product
+From the client organisation, aim to include people from service and product
 management, policy, operations, and technology, along with specific subject
 matter experts.
 
