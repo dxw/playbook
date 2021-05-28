@@ -40,26 +40,28 @@ of the roadmapping questions.
 
 1. **What organisations and stakeholders are involved?**
 
-   Are they colleagues from our organisation or other public sector bodies? What 
-   community, civil society, professional and advocacy groups might be important?
+   Are they colleagues from our organisation or other public sector bodies? What
+   community, civil society, professional and advocacy groups might be
+   important?
 
    What is their relationship to the work? What expectations and concerns might
    they have? How closely might they be involved? How might they help?
 
 1. **What outcomes will users get?**
 
-   What do we know about their intentions? What problems might we solve for them?
+   What do we know about their intentions? What problems might we solve for
+   them?
 
-   What’s working that we might we build on? What unintended consequences might we
-   create?
+   What’s working that we might we build on? What unintended consequences might
+   we create?
 
 1. **What outcomes are we looking for?**
 
    What are we trying to achieve? What problems are we trying to solve? What
    decisions are we trying to make?
 
-   What are the other organisations and stakeholders looking to get? What external
-   costs and impacts should we consider?
+   What are the other organisations and stakeholders looking to get? What
+   external costs and impacts should we consider?
 
    What standards and codes are relevant, for service, accessibility, equality,
    technology?
@@ -69,8 +71,8 @@ of the roadmapping questions.
    What questions are we trying to answer? What do we need to know to make good
    decisions? What might we already know?
 
-   What assumptions should we be exploring and testing? What might we need to prove
-   to validate our work?
+   What assumptions should we be exploring and testing? What might we need to
+   prove to validate our work?
 
 1. **What do we need to communicate?**
 
@@ -84,9 +86,9 @@ of the roadmapping questions.
 1. **What other work relates to this?**
 
    What has been done before, or is being done now?
-   
-   What can we learn from each other? What should we share? How do we stay aligned
-   with that work?
+
+   What can we learn from each other? What should we share? How do we stay
+   aligned with that work?
 
 1. **What difficulties might we face?**
 
