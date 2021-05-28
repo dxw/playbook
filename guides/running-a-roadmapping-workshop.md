@@ -71,8 +71,8 @@ the roadmap are just as, if not more, important than the document itself.
    What do we need to know to make good decisions? What might the organisation
    already know?
 
-   What risky assumptions should we be testing? What will we need
-   to prove to validate our work?
+   What risky assumptions should we be testing? What will we need to prove to
+   validate our work?
 
 **About the service**
 
@@ -80,10 +80,10 @@ the roadmap are just as, if not more, important than the document itself.
 
    Are they members of the public, professionals or staff? Are they current or
    potential users?
-   
+
    What different groups, job roles, circumstances, environments, access needs
-   and support needs might be important? Who might currently be worst served 
-   and most likely to experience barriers?
+   and support needs might be important? Who might currently be worst served and
+   most likely to experience barriers?
 
    How will we engage and involve the different people we need to work with?
 
@@ -100,24 +100,24 @@ the roadmap are just as, if not more, important than the document itself.
 
    What capabilities will we need to build and operate the service?
 
-   What do we already have? What is new? What is well understood and
-   what is novel?
+   What do we already have? What is new? What is well understood and what is
+   novel?
 
 **About the context**
 
 1. Who are our stakeholders?
 
-   Are they colleagues from our organisation or other public sector bodies?
-   What community, civil society, professional and advocacy groups might
-   be important?
+   Are they colleagues from our organisation or other public sector bodies? What
+   community, civil society, professional and advocacy groups might be
+   important?
 
    What is their relationship to the work? What expectations and concerns might
    they have? How closely might they be involved? How might they help?
 
 1. What are our dependencies?
 
-   What other work or organisations will the project and service depend on?
-   What other work might be an enabler or blocker for us?
+   What other work or organisations will the project and service depend on? What
+   other work might be an enabler or blocker for us?
 
    Who is depending on us?
 
@@ -129,8 +129,8 @@ the roadmap are just as, if not more, important than the document itself.
 
    What communications might we expect to create? Why and for who?
 
-   How will we share information? How will we make our communications
-   accessible and inclusive?
+   How will we share information? How will we make our communications accessible
+   and inclusive?
 
 ## Using Now, Next and Later to prioritise
 
@@ -153,8 +153,8 @@ Be careful not to always prioritise the largest groups and most common needs.
 Consider prioritising people who are currently worst served and who experience
 the most barriers.
 
-And be careful not to leave work on accessibility and inclusion until Later.
-You can and should be working on these from your first sprint.
+And be careful not to leave work on accessibility and inclusion until Later. You
+can and should be working on these from your first sprint.
 
 You might not have time to prioritise everything. But the conversations about
 priority should help set the direction and scope of your first sprint.
