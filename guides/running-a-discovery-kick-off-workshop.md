@@ -23,46 +23,70 @@ of the roadmapping questions.
 
 1. **Why are we doing this work?**
 
-   What is the motivation? What are we trying to do or decide? And why now? What
-   is the trigger?
+   What is the motivation? What are we trying to do or decide?
+
+   And why now? What is the trigger?
 
 1. **Who are the users?**
 
-   Are they members of the public, professionals or staff? What different
-   groups, circumstances and behaviours might be important? Are they current or
+   Are they members of the public, professionals or staff? Are they current or
    potential users?
 
+   What different groups, job roles, circumstances, environments, access needs
+   and support needs might be important? Who might currently be worst served and
+   most likely to experience barriers?
+
+   How will we engage and involve the different people we need to work with?
+
 1. **What organisations and stakeholders are involved?**
+
+   Are they colleagues from our organisation or other public sector bodies? What 
+   community, civil society, professional and advocacy groups might be important?
 
    What is their relationship to the work? What expectations and concerns might
    they have? How closely might they be involved? How might they help?
 
 1. **What outcomes will users get?**
 
-   What do we know about their intentions? What’s working that we might we build
-   on? What problems might we solve? What unintended consequences might we
+   What do we know about their intentions? What problems might we solve for them?
+
+   What’s working that we might we build on? What unintended consequences might we
    create?
 
 1. **What outcomes are we looking for?**
 
-   What is the client organisation trying to achieve? What problems are they
-   trying to solve? What are the other organisations and stakeholders looking to
-   get? What external costs and impacts should we consider?
+   What are we trying to achieve? What problems are we trying to solve? What
+   decisions are we trying to make?
+
+   What are the other organisations and stakeholders looking to get? What external
+   costs and impacts should we consider?
+
+   What standards and codes are relevant, for service, accessibility, equality,
+   technology?
 
 1. **What do we need to learn or prove?**
 
    What questions are we trying to answer? What do we need to know to make good
-   decisions? What assumptions should we be testing? What might we already know?
+   decisions? What might we already know?
+
+   What assumptions should we be exploring and testing? What might we need to prove
+   to validate our work?
 
 1. **What do we need to communicate?**
 
-   What meetings, governance and other processes do we need to feed into? What
-   outputs might we expect to create? For who? How will we share them?
+   What meetings, governance and other processes do we need to feed into?
+
+   What outputs might we expect to create? Why and for who?
+
+   How will we share information? How will we make our communications accessible
+   and inclusive?
 
 1. **What other work relates to this?**
 
-   What has been done before, or is being done now? What can we learn from each
-   other? What should we share? How do we stay aligned with that work?
+   What has been done before, or is being done now?
+   
+   What can we learn from each other? What should we share? How do we stay aligned
+   with that work?
 
 1. **What difficulties might we face?**
 
