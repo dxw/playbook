@@ -63,8 +63,8 @@ the roadmap are just as, if not more, important than the document itself.
    What ideas and beliefs are our goals and outcomes based on? How confident are
    we that they are true? That they won’t change?
 
-   What biases and blind spots might we have? What unintended consequences might
-   there be?
+   What biases and gaps in understanding might we have? What unintended
+   consequences might there be?
 
 1. What are we trying to learn or prove?
 
@@ -92,7 +92,8 @@ the roadmap are just as, if not more, important than the document itself.
    What digital and physical components will the service be made up of? What
    people will be involved in operating the service?
 
-   What digital and offline channels and support routes might there be?
+   What digital and offline channels and support routes might there be? Which
+   channels might different groups need and use?
 
    How will we roll out the service to all the people who might need to use it?
 
