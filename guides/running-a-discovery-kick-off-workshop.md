@@ -68,11 +68,13 @@ of the roadmapping questions.
 
 1. **What do we need to learn or prove?**
 
-   What questions are we trying to answer? What do we need to know to make good
-   decisions? What might we already know?
+   What questions are we trying to answer? What do we need to know to make
+   good decisions? What might we already know?
 
-   What assumptions should we be exploring and testing? What might we need to
-   prove to validate our work?
+   What assumptions should we be exploring and testing? What biases and gaps
+   in understanding might we have?
+
+   What might we need to show for our conclusions to be accepted?
 
 1. **What do we need to communicate?**
 
