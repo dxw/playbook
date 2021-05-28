@@ -52,8 +52,8 @@ of the roadmapping questions.
    What do we know about their intentions? What problems might we solve for
    them?
 
-   What’s working that we might build on? What unintended consequences might
-   we create?
+   What’s working that we might build on? What unintended consequences might we
+   create?
 
 1. **What outcomes are we looking for?**
 
