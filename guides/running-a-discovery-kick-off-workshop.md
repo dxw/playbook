@@ -149,9 +149,9 @@ out of the work.
 ## Managing the session
 
 During the session, most people will be happy to talk – this is something
-they’re interested in and know loads about. So you’ll need to manage the session
-closely to make sure you get through all the questions in a reasonable amount of
-time.
+they’re interested in and know loads about. You’ll need to manage the amount of
+discussion to make sure you get through all the questions in a reasonable
+amount of time.
 
 The questions and workshop format are good for uncovering different opinions,
 conflicting objectives, unrealistic expectations, etc. It’s good to note those
