@@ -69,6 +69,8 @@ These are the things that user researchers usually do on projects.
 
    This helps teams to embed regular research into their agile practices and get
    the best results from the effort they put in.
+   
+   [How we create and use research plans](#how-we-create-and-use-research-plans)
 
    [How we write and use discussion guides](#how-we-write-and-use-discussion-guides)
 
