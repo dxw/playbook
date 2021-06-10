@@ -151,18 +151,18 @@ For example:
 
 ## How we create and use research plans
 
-It’s important that we carefully plan the research we do.
-
 ### Planning research activities
 
-We help our teams create the best services when our research activities provide
-reliable answers to the most important questions. And when we do research in
-ethical, inclusive and sustainable ways.
+It’s important that we carefully plan the research we do.
 
-We want to involve our colleagues and other stakeholders in creating our plans,
-so they understand and can contribute to our research activities.
+Teams create the best services when research activities provide
+reliable answers to their most important questions. And we do our best research when
+we do it in ethical, inclusive and sustainable ways.
 
-And we want to create plans that all us to
+We want to involve our colleagues and other stakeholders in creating research plans,
+so they understand and can contribute to research activities.
+
+And we want to create plans that allow us to
 [learn, share and adapt](https://playbook.dxw.com/#user-research-principles) as
 we go.
 
@@ -177,7 +177,7 @@ everyone aligned. And to address any concerns that clients and stakeholders may
 have.
 
 We have a
-[template research plan](https://docs.google.com/document/d/11olKOHluGXL8OA-XKIvSXXsCxQ3dvOUgSUgJSw0qLm4/)
+[research plan template](https://docs.google.com/document/d/11olKOHluGXL8OA-XKIvSXXsCxQ3dvOUgSUgJSw0qLm4/)
 that you can use as a starting point. But feel free to adapt it and add sections
 that may be important for your project.
 
