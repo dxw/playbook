@@ -1,6 +1,4 @@
----
-title: Technical Operations
----
+### Technical Operations
 
 #### Technical Operations team principles
 

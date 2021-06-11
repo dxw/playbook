@@ -1,6 +1,4 @@
----
-title: Product management
----
+### Product management
 
 #### Product management principles
 

@@ -1,6 +1,4 @@
----
-title: Redundancy Policy
----
+### Redundancy Policy
 
 The coronavirus pandemic has caused us to look at some of our HR policies - or
 more pertinently, the lack of them. It comes at a time where we have grown as a

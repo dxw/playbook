@@ -1,6 +1,4 @@
----
-title: Your pay, pension and other benefits
----
+### Your pay, pension and other benefits
 
 All perks and benefits are available to the dxw team after the successful
 passing of their probationary period.

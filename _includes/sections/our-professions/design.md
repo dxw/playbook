@@ -1,6 +1,4 @@
----
-title: Design
----
+### Design
 
 #### Design team principles
 

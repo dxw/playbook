@@ -1,6 +1,4 @@
----
-title: Sales
----
+### Sales
 
 #### Typical projects
 

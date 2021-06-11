@@ -1,6 +1,4 @@
----
-title: Managing your day to day work
----
+### Managing your day to day work
 
 #### Working hours
 

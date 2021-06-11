@@ -1,6 +1,4 @@
----
-title: Leadership
----
+### Leadership
 
 At dxw, we believe that great teams need great leaders.
 

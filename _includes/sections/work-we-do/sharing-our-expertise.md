@@ -1,6 +1,4 @@
----
-title: Sharing our expertise
----
+### Sharing our expertise
 
 #### Hosting events
 

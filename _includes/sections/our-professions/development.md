@@ -1,6 +1,4 @@
----
-title: Development
----
+### Development
 
 #### Development team principles
 

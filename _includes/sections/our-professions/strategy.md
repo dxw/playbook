@@ -1,6 +1,4 @@
----
-title: Strategy
----
+### Strategy
 
 We create the conditions and in-house capability our clients need to deliver and
 keep improving great services.

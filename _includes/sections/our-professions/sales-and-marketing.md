@@ -1,6 +1,4 @@
----
-title: Sales and marketing
----
+### Sales and marketing
 
 #### Sales and marketing team principles
 
