@@ -1,4 +1,6 @@
-### User research
+---
+title: User research
+---
 
 At dxw, we believe in making decisions based on evidenced user needs. As user
 researchers, we help multidisciplinary teams learn about users and recognise the

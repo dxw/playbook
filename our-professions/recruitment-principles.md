@@ -1,4 +1,6 @@
-### Recruitment
+---
+title: Recruitment
+---
 
 #### Recruitment Principles
 

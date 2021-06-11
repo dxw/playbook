@@ -1,4 +1,6 @@
-### Supporting your development and wellbeing
+---
+title: Supporting your development and wellbeing
+---
 
 #### People manager and HR surgeries
 

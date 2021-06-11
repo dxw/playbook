@@ -1,4 +1,7 @@
-## Who we are
+---
+title: Who we are
+hide_title: true
+---
 
 dxw is an independent digital agency that works with the public and third
 sectors.

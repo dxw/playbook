@@ -1,4 +1,6 @@
-### Commercial operations
+---
+title: Commercial operations
+---
 
 We are the team that enables and encourages dxw to achieve its mission(s) and
 uphold its values.

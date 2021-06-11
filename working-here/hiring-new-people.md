@@ -1,4 +1,6 @@
-### Hiring new people
+---
+title: Hiring new people
+---
 
 #### Process
 

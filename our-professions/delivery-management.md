@@ -1,4 +1,6 @@
-### Delivery management
+---
+title: Delivery management
+---
 
 #### Delivery management principles
 

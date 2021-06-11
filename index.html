@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+{% assign pages = site.pages | sort: "title" %}
+
+{% include section.html pages=pages section_name="who-we-are" title="Who we are" %}
+{% include section.html pages=pages section_name="work-we-do" title="Work we do" %}
+{% include section.html pages=pages section_name="working-here" title="Working here" %}
+{% include section.html pages=pages section_name="our-professions" title="Our professions" %}

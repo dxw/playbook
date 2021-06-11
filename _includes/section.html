@@ -1,0 +1,5 @@
+<h2 id="{{ include.title | slugify }}">{{ include.title }}</h2>
+{% for p in include.pages %} {% if p.path contains include.section_name %} {%
+unless p.hide_title %}
+<h3 id="{{ p.title | slugify }}">{{ p.title }}</h3>
+{% endunless %} {{ p.content| markdownify }} {% endif %} {% endfor %}
