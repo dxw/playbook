@@ -19,46 +19,56 @@ title: Development workflow
 
 ### Development principles
 
-As part of regular retrospectives we evolve our principles by identifying what
-works well. When we try something that helps with a particular pattern of
-problem the team can acknowledge the benefits it brings and introduce it as a
-principle.
-
 #### Communicate frequently
 
-- space to learn from each other
+- learn from each other
 - make shared decisions
 - prevent duplication
 - solve problems quicker
 
 #### Two pairs of eyes
 
-All code we write needs be reviewed by another developer. We hope that doing
-this will mean we:
+All code we write should be reviewed by at least one peer to:
 
-- ship better quality code
-- get the opportunity to learn new skills
-- increase the shared knowledge of our products
+- build shared understanding
+- build shared knowledge of code bases
+- ship safer and higher quality code
+- learn new skills and techniques
 
-#### Everything is tracked
+#### Share our progress
 
-All code we write is represented in Trello (or another ticketing system as
-required by the client) so that:
+Code written by teams sprinting on client work is represented in Trello (or
+similar) so that we can:
 
-- the client can easily visualise how we're doing and what needs their attention
-- the team can see and react to bottle necks
-- delivery managers can see what cards have been lingering
-- developers can be confident what they are deploying
+- visualise progress
+- be confident what we should be working on
+- react to blockers and bottlenecks
+- see what each other is responsible for and opportunities to help or avoid
+  duplicating effort
+- document our progress to the wider team
+- reference commits back to their original user needs
+
+When on support we use Zendesk tickets.
 
 #### Own your code
 
-Having the opportunity to see a piece of work through to completion is a great
-way to for developers to grow. To encourage this we ask reviewers to leave their
-feedback, ask questions and discuss the code but not to make any changes without
-the okay from the author. This will hopefully allow us to:
+We presume that the author of a piece of work is responsible for it from start
+to finish. From writing the code, soliciting feedback, committing follow-up
+changes to merging it in. Finally, the author should be responsible for
+addressing issues or helping navigate conflicts that arise post-merge.
 
-- learn from our mistakes
-- create personal achievements from seeing work through to production
+We do not expect other contributors to make changes to work that has already
+been started by someone else, for example adding commits to an open pull
+request. Though, you can ask permission to do so if you believe that would be
+mutually beneficial.
+
+The author should still be free to hand over full or partial responsibility of a
+piece of work.
+
+- creates a more stable working environment
+- releasing a change to live is an achievement that should be felt
+- gives us opportunity to learn from others so that we make the changes
+  ourselves
 
 #### Do the smallest amount of good work
 
@@ -67,27 +77,24 @@ We aspire to regularly ship
 the users as often as possible. Doing so efficiently requires a balanced
 approach to development.
 
-Good signs:
+Solving many problems at once can lead to large pull requests and large commits.
+This work tends to take a lot longer to understand, code review, amend and ship
+safely. It makes work hard to parallelise as it may block other dependant work
+from starting. It also tends to introduce more bugs that require more follow-up
+fixes.
 
-- the code is easy to read and understand
-- the code didn't take too long to write
-- the code is relatively easy to change
+Breaking down our work into small isolated chunks helps address these problems.
 
-Bad signs:
-
-- spending too much time over engineering (gold plating) our code
-- delivering too quickly at the cost of any code quality
-
-#### The twenty-minute rules
+#### The twenty-minute rule
 
 1. being helpful is one of our values and this extends to development. If after
    spending 20 minutes on a problem you haven't made progress, invoke the
    twenty-minute rule with another developer and get their advice
-1. discussions that go on for twenty-minutes or more can be a time sink. If an
+1. discussions that go on for twenty minutes or more can be a time sink. If an
    agreement on how to progress cannot be found after 20 minutes, mentioning
-   this rule provides a pre-agreed way to acknowledge the problem and get to a
-   resolution as quickly as possible. Rate your concern for the issue out of 10
-   and a next step should naturally emerge
+   this rule provides a pre-agreed way to acknowledge the deadlock. Use this as
+   an opportunity to rate how concerned we each are about the issue or escalate
+   to another peer who could help break the deadlock
 
 ---
 
@@ -99,14 +106,9 @@ general guidelines.
 ### Start work on a new story
 
 1. assign yourself to the Trello card
-1. move the card to Trello's 'In progress' column
-1. [make a new branch](#how-to-make-a-branch) off of `develop`
-
-   ```
-   git checkout -b <branch-name> origin/develop
-   ```
-
-1. meet the acceptance criteria
+1. move the card to indicate you've started work
+1. [make a new branch from the active development branch](#how-to-make-a-branch)
+1. write tested code that meets the acceptance criteria
 1. update the [changelog](#tracking-changes)
 1. [commit](#committing) your code
 
@@ -118,25 +120,39 @@ general guidelines.
    git push origin <branch-name>
    ```
 
-1. create a [pull request](#pull-requests) into the `develop` branch
+1. create a [pull request](#pull-requests) into the active development branch
 1. link the Trello card to the new pull request, linking directly or by using
    the Trello
    [power up](https://help.trello.com/article/1021-integrating-trello-with-zendesk)
-1. move the Trello card into the 'Awaiting review column'
+1. update the card to indicate it's now ready for review by a peer
 
 ### Reviewing another developer's pull request
 
-- move the Trello card into the 'Under code review' column
-- find and read the Trello card's acceptance criteria
+- update the Trello card to indicate you're now looking at it
+- find and read the Trello card's user need or acceptance criteria
 - find and read through the pull request, carrying out a
   [code review](#code-review)
-  - if it is ready:
-    - press the merge button
-    - delete the leftover branch
-    - move the Trello card into 'Deployed to Staging'
-  - if it's not ready:
-    - leave feedback
-    - mention the author so they're aware
+  - if you think it's ready:
+    - leave your feedback (positive comments are great to receive)
+    - approve the pull request
+  - if you think it's not ready:
+    - leave your feedback
+    - consider letting the author know by Slack that it's back with them
+
+GitHub offers us a number of options when finalising a review. These may be
+interpreted and used differently depending on style but a good rule of thumb to
+get started could be:
+
+- Approve - I am confident that this pull request can safely be merged in. I MAY
+  also leave optional suggestions which the reviewer MAY want to consider
+- Comment - I may not be confident in the change, in which case I should explain
+  why this SHOULD NOT be merged yet and what SHOULD be considered. Alternatively
+  I might not feel confident enough to approve this pull request but MAY have
+  suggestions that SHOULD be considered
+- Request changes (not available on GitLab) - This may be used to further
+  indicate that this pull request SHOULD NOT be merged. It may contain severe
+  issues such as security concerns or bugs which might have a serious impact.
+  This option is used to explicitly nullify any other review that chose approval
 
 ---
 
@@ -216,41 +232,34 @@ Our approach is one of
 we build, test and deploy as frequently as possible.
 
 We do this by using services such as Chef, TravisCI or GitHub Actions which are
-configured to listen for Git pushes and then initiate the correct deployment.
+configured to listen for Git pushes and then initiate an automatic deployment.
+
+Whilst these deployments should be automatic it should be noted that they can
+take a short time to run.
 
 ### Staging
 
 Staging deployments are automatic and should be initiated when each pull request
-is merged. When you click merge the changes are immediately deployed to the
-Staging environment.
-
-Remember to move the card(s) along on Trello.
+is merged to the working branch, usually `develop`.
 
 ### Production
 
-Production deployments are done by manually merging `develop` into `master`.
-Since everything on `develop` has been through a pull request with CI tests, we
-can be confident in the quality and stability.
+Production deployments are triggered manually by merging into `main`.
 
-To deploy:
+We do not have a standard release process though recent services follow a
+process such as
+[this example](https://github.com/DFE-Digital/buy-for-your-school/blob/develop/doc/release-process.md).
+
+A basic process:
 
 1. review what work is currently awaiting deployment by looking at Trello, if
    there are any unaccepted stories then you should hold off
 1. update the [changelog](#tracking-changes)
 1. let the team know you're deploying to Production
-
-   ```
-   git fetch
-   git checkout master
-   git pull
-   git merge origin/develop
-   git push
-   ```
-
-1. verify the deployment has been successful
 1. tag the merge commit with the version matching the
    [changelog](#tracking-changes)
-1. update Trello with all the cards that have now been deployed
+1. verify the deployment has been successful with smoke tests
+1. update Trello cards to indicate that they have now been deployed
 
 ---
 
@@ -262,65 +271,58 @@ Create the branch off of `develop`:
 
 ```
 git fetch
-git checkout develop
-git branch <branch-name>
-git checkout <branch-name>
-
-# or the shorthand
-
 git checkout -b <branch-name> origin/develop
 ```
 
-#### Naming the branch
+### Naming the branch
 
-Having a convention allows for:
+Having a convention means:
 
 - all branches connected to a story or ticket are easily connected now and in
   the future
 - others can easily identify the intent of the contents without having to
-  interpret a commit's title
-- encourages small and concise commits which keeps the focus on the type of
-  change being made. If you are adding a new feature and fix something along the
-  way, that _should_ be 2 commits instead of 1
+  interpret a branch name
+- small and concise branches which keep the focus on the type of change being
+  made are encouraged
 
-#### Convention
+#### Branch prefixes
 
-- Feature
+- **Feature**
 
   A branch that adds a new feature, as defined by the specified story
 
-- Fix
+  Example: `feature/523797477-add-logging-to-registration`
 
-  A branch that corrects a problem in a feature already merged into `develop`
+- **Fix**
 
-- Chore
+  A branch that corrects a problem in a feature already merged into the
+  development branch
+
+  Example: `fix/423797477-logging-happens-in-both-environments`
+
+- **Chore**
 
   Chore branches are used for routine tasks for maintaining the application like
   package upgrades, they don't provide a new feature or fix an existing one
 
-- Hotfix
+  Example: `chore/1934729239-reduce-caching-for-contact-details`
+
+- **Refactor**
+
+  Refactor branches only include changes that do not change the systems outward
+  behaviour or interface.
+
+  Example: `refactor/243234-api-serves-response-more-efficiently`
+
+- **Hotfix**
 
   A branch that adds an urgent fix to a problem that affects production. These
-  branches are based on `master` and do not go via `develop`, so must be also be
-  merged into `develop` when deployed
+  branches are based on the production branch and do not go via the development
+  branch, so must be also be merged into the latter when deployed
 
-```
-feature/{STORY ID}-{CONCISE TITLE}
-fix/{STORY/TICKET ID}-{CONCISE TITLE}
-chore/{STORY ID}-{CONCISE TITLE}
-hotfix/{TICKET ID}-{CONCISE TITLE}
-```
+  Example: `hotfix/253947623-remove-breaking-change-to-repair-creation`
 
-#### Examples
-
-```
-feature/523797477-add-logging-to-registration
-fix/423797477-logging-happens-in-both-environments
-chore/1934729239-reduce-caching-for-contact-details
-hotfix/253947623-remove-breaking-change-to-repair-creation
-```
-
-### Update your branch with the latest changes on `develop` (rebasing)
+### Update your branch with the latest changes (rebasing)
 
 When working in a team, other pull requests will often get merged in before
 yours is finished. It's important to make sure you're developing against the
@@ -346,23 +348,52 @@ additions.
 
 ## Committing
 
-Taking the time to write good commits is as valuable as writing good code. They
-record the story of each project, line by line, which makes it possible to
-understand now and in the future.
+Good commits are small, focused and self-contained.
 
-Ask yourself these questions:
+Code is written once, changed occasionally but read frequently. By taking the
+time to document what we've built and why, we enable others to build their
+shared understanding of the codebase too. Once we have a stronger shared
+understanding we are able to make more informed decisions, avoid repeated
+effort, receive more valuable feedback and spot new opportunities.
+
+### What to include
+
+Helpful questions to ask yourself when organising the content of your commit:
+
+- is the code focused on a single problem? Commits should be small and focused
+  rather than trying to do multiple things at once
+- is the code refactoring existing behaviour or introducing a behavioural
+  change? Refactorings can often be noisy and make it hard to see the new
+  changes within. Split commits based on the the type of change
+- are the unit tests included? Each new commit should keep the test suite green
+- is a
+  [changelog entry](https://github.com/dxw/tech-team-rfcs/blob/main/rfc-019-use-changelogs-to-track-changes.md)
+  or architecture decision record necessary?
+
+### What to write
+
+Taking the time to write good commits is as valuable as writing good code. They
+record the story of each repository, line by line, which makes it possible to
+reason about now and in the future.
+
+Helpful questions to ask yourself when writing a commit message:
 
 - what is the **new** behaviour of the application?
 - have I written down **why** I chose this approach over the others?
-- are there relevant links I could include to help the next person?
+- are there relevant links I could include to help the next person understand?
+- have I documented any risks, foreseen pitfalls or potential consequences?
+- are there relevant links I could include to help the reader get the same
+  information I had when making my decision?
+- have I called out any subtleties in the implementation that are worth drawing
+  attention to or explaining?
 
-### Examples
+#### Examples
 
 ```
-# Poor
-Added repairs
+# Before
+Add job postings
 
-# Great
+# After
 Job postings are now displayed on the landing page
 
 - Getting the Job postings out of the external API proved difficult but I think
@@ -371,10 +402,10 @@ Job postings are now displayed on the landing page
 ```
 
 ```
-# Poor
+# Before
 Fixed the form
 
-# Great
+# After
 Food order form works with special characters
 
 - Previously the form failed to send if the starter value included any of the
@@ -386,10 +417,10 @@ Food order form works with special characters
 ```
 
 ```
-# Poor
+# Before
 Gem upgrade
 
-# Great
+# After
 Upgrade widget to v1.2.1
 
 - This widget now includes a patch that improves resilience: <link>
@@ -401,27 +432,88 @@ Upgrade widget to v1.2.1
 
 ## Code review
 
-We believe that code reviews are important. They help us to learn from each
-other, to maintain consistency in the code we write, and to ensure we push
-well-reasoned and bug-free code to Production. When performing a code review, we
-make sure that:
+Code reviews help us ship better quality code and provide an opportunity to
+learn from each other.
 
-- we cannot see any code that could give rise to a security vulnerability
-- the story has been implemented clearly and maintainably
-- the code contains well-written commits that help us to understand the changes
-- the code follows code style guides
-- the [changelog](#tracking-changes) has been updated is the change was
-  significant
+### How to begin
+
+To help review code changes you can
+[enable split review within GitHub](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-comparing-branches-in-pull-requests#diff-view-options).
+
+Pull requests include a lot buttons and information that are all competing for
+our attention. There are several ways we can view the information so having a
+plan can be helpful. Here is an example of what a good and thorough review looks
+like:
+
+1. read the description to help you understand what we are doing and why. If
+   it's unclear, stopping to find out will likely lead to a more valuable review
+1. check the status is "Open" and that all "Checks" have passed. If this isn't
+   the case it may not be ready for a review. We want to review a stable set of
+   changes that aren't still being worked on. Ask the author if in doubt
+1. scan through the "Files changed" tab briefly to peak at the new state of the
+   system to get your bearings, we are looking at the general size of the change
+   as well as the different entities involved (optional)
+1. first pass (read) - Go to the the "Commit" tab, here we will see all the
+   individual commits with the oldest at the top. Go into the oldest commit and
+   start navigating using the "Next" button. Read the description and the
+   contents with the aim of understanding each change and its rationale. Make
+   quick notes to yourself for areas of interest you'd like to come back to, the
+   trick is to make these low cost so we can maintain focus. Writing thoughtful
+   feedback takes time and we may even find that the situation changes in later
+   commits, making the feedback redundant
+1. second pass (review) - Now is the time to leave feedback. Go back to the
+   oldest commit and this time as you go through think about the following,
+   leaving comments on the nearest line where appropriate:
+   - did you have a note for this commit? Now is the time to explore and test
+     any alternative ideas before making recommendations
+   - use the [following checklist](#what-to-look-for) to help assess the
+     contents
+1. submit your review and let the author know
+
+Tip: You can add `?w=1` to the end of the URL to strip out noisy whitespace.
+
+### What to look for
+
+When performing a code review we:
+
+- check the pull request is descriptive, explains the story and doesn't assume
+  knowledge. Some templates ask for screenshots to help illustrate the change
+  before and after
+- check the code is safe
+  ([OWASP top ten](https://owasp.org/www-project-top-ten/)) (Brakeman should be
+  checking for obvious issues automatically)
+- check the code follows a consistent style (Standard should be checking this
+  automatically)
+- check the code is readable (did you find it easy to build an understanding?)
+- check the code for maintainability
+  ([SOLID principles](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design))
+- check the code is tested (Test suites and Coverage tools should check
+  automatically)
+- check the code is unlikely to introduce future bugs (this is tricky to do and
+  it's okay if you don't find any as we fail fast and fix)
+- check the commits are reasonably small and focused towards making one change.
+  They should not include unexpected or unrelated changes
+- check the commits messages are descriptive
+- check the [changelog](#tracking-changes) has been updated
+
+### Writing feedback
 
 It is not important that a story be implemented exactly how you would have done
-it. Only that it meets the criteria above. When we find problems, we give
-feedback to the developer who implemented the story, not fix things ourselves
-inline with our principle of ['Own your code'](#own-your-code).
+it, only that it meets the acceptance criteria. When we find problems we give
+feedback to the author rather than fix things ourselves inline with our
+principle of ['Own your code'](#own-your-code).
 
-It’s also important that code reviews have a constructive, amicable tone. To
-this end, we bear in mind the
-[Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review) code
-review guide, which contains good rules for keeping things positive and useful.
+It’s important that code reviews have a constructive and amicable tone. A
+helpful mindset is one of assuming good intent. Be mindful that you might not
+have all the information and so ask questions such as "Why did you do this like
+X?" rather than "You should do it this like Y!".
+
+Summarise your feedback. Be clear on which points require further action and
+which are advisory. You should both feel confident about what's necessary and
+what to expect in order to move forward.
+
+[Thoughtbot's](https://github.com/thoughtbot/guides/tree/master/code-review)
+code review guide contains good rules for keeping the tone positive.
 
 ---
 
@@ -431,14 +523,7 @@ We write our code in a consistent way to ensure it is well-structured and easy
 to follow for the rest of the team. Similar to the guidelines laid out in
 [Thoughtbot’s style guide](https://playbook.thoughtbot.com/#style-guide),
 approach this guidance as a way to code on present and future projects, not
-something to retroactively add to existing projects. When working on existing
-projects or joining a project, make sure to follow the code style that is
-already in place.
-
-While it can be tempting to write a new style guide, it's not a worthwhile
-investment of time. It's important that a consistent style is adopted, but
-mostly unimportant which specific style it is. So rather than having our own, we
-have chosen the following existing style guides for our work:
+something to retroactively add to existing projects.
 
 - PHP -
   [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
@@ -448,6 +533,9 @@ have chosen the following existing style guides for our work:
   [Sass Guidelines - Syntax and formatting](https://sass-guidelin.es/#syntax--formatting)
 - JavaScript - [Standard](https://standardjs.com/)
 
+When joining an existing code base we suggest following any existing code style
+rather than changing it.
+
 ---
 
 ## Pull requests
@@ -456,31 +544,46 @@ When we have finished a piece of work on a branch, we
 [make a pull request](https://help.github.com/articles/using-pull-requests/)
 using the project's GitHub/GitLab page.
 
-We prefix pull request titles with the Story ID to make it easy to find the
-story and the acceptance criteria that should be met.
+We link each pull request with the related Trello card to make it easier to
+find. We could prefix the card number to the pull request title or link to the
+card directly within the description or a comment.
 
 A good pull request should:
 
-- be created by the authoring developer
-- meet all of the acceptance criteria on the associated story
-- focus on the single problem at hand, not doing so will usually increase the
-  time taken to get it merged
-- include appropriate detail to assist the reviewer, this includes links to
-  relevant content and a duplication of anything of note in the commit
-  descriptions
-- update the [changelog](#tracking-changes) if it's a significant change
+- link to the Trello card for extra context, but not rely on Trello cards alone
+  as they can be easily removed or moved
+- describe the problem without assuming the reader has existing context
+- highlight the changes being made
+- describe and bring attention to particular difficulties or areas that you
+  particularly want the opinion of the reviewer
+- include screenshots for user facing changes (following the pull request
+  template prompts)
+- be clear which acceptance criteria are being met and which aren't if there is
+  follow up work to do
+- explain if a task is being broken down into multiple pull requests and what
+  the review order should be
+- describe any follow up work or steps that need to be done to complete the task
+- be focused on a single problem, preferring to split additional problems into
+  other pull requests - the smaller the pull request, the easier it is to be
+  reviewed and the quicker it is likely to be merged
+- describe any consequences of the work
+- update the [changelog](#tracking-changes)
 
-```
-# Poor
-A new registration form and fix a bug with contacts
+Real examples:
 
-# Great
-[123456789] New users can now register for an account
-
-- This has been rate limited, would like your feedback on the values I've chosen
-- Passwords are encrypted using BCrypt, so I've taken this opportunity to
-  increase the default rounds from 8 to 12
-```
+- [Cristina](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/pull/1094)
+- [Dom](https://github.com/dxw/judiciary-middleware/pull/497)
+- [Ed](https://github.com/dxw/judiciary-middleware/pull/631)
+- [George](https://github.com/dxw/mind-side-by-side/pull/307)
+- [James C](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/pull/1155)
+- [Laura](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/pull/665)
+- [Lawrence](https://github.com/dxw/mind-side-by-side/pull/229)
+- [Leeky](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/pull/1130)
+- [Lorna](https://github.com/DFE-Digital/buy-for-your-school/pull/318)
+- [Meyric](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/pull/1149)
+- [Nick](https://github.com/DFE-Digital/buy-for-your-school/pull/188)
+- [Robbie](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/pull/1087)
+- [Stuart](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/pull/1121)
 
 ---
 
