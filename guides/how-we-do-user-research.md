@@ -70,6 +70,8 @@ These are the things that user researchers usually do on projects.
    This helps teams to embed regular research into their agile practices and get
    the best results from the effort they put in.
 
+   [How we create and use research plans](#how-we-create-and-use-research-plans)
+
    [How we write and use discussion guides](#how-we-write-and-use-discussion-guides)
 
    [How we take notes and record research sessions](#how-we-take-notes-and-record-research-sessions)
@@ -146,6 +148,38 @@ For example:
 - (Draft)
 - 1 October 2019
 - John Waterworth
+
+## How we create and use research plans
+
+### Planning research activities
+
+It’s important that we carefully plan the research we do.
+
+Teams create the best services when research activities provide reliable answers
+to their most important questions. And we do our best research when we do it in
+ethical, inclusive and sustainable ways.
+
+We want to involve our colleagues and other stakeholders in creating research
+plans, so they understand and can contribute to research activities.
+
+And we want to create plans that allow us to
+[learn, share and adapt](https://playbook.dxw.com/#user-research-principles) as
+we go.
+
+The guide to
+[planning user research for your service](https://www.gov.uk/service-manual/user-research/plan-user-research-for-your-service)
+in the Service Manual sets out a good approach to creating a plan.
+
+### Research plan template
+
+Creating and sharing a short research plan document is a great way to get
+everyone aligned. And to address any concerns that clients and stakeholders may
+have.
+
+We have a
+[research plan template](https://docs.google.com/document/d/11olKOHluGXL8OA-XKIvSXXsCxQ3dvOUgSUgJSw0qLm4/)
+that you can use as a starting point. But feel free to adapt it and add sections
+that may be important for your project.
 
 ## How we write and use discussion guides
 
