@@ -49,6 +49,9 @@
    standards and conventions, and document our decisions. The things we build
    should be set to thrive after we leave.
 
+   All code we write should be reviewed by at least one peer. This helps us ship
+   safer and higher quality code.
+
 1. **Improve with each iteration**
 
    Always leave the codebase in a slightly better place than when you found it.
@@ -66,6 +69,23 @@
    Use straightforward language, even when you’re dealing with complex technical
    issues. Prefer to write it down over speaking it out, to ensure a lasting
    record.
+
+   Becoming stuck when solving problems for long periods of time can be
+   frustrating and unproductive. We invite each other to ask for our help when
+   these situations happen as a second pair of eyes with a fresh perspective
+   often unlocks a problem relatively quickly.
+
+   Code written by teams sprinting on client work is represented in Trello (or
+   similar) and when on support we use Zendesk tickets. Tracking our work help
+   us to:
+
+   - visualise our progress
+   - document and share progress with clients and stakeholders
+   - be confident what we should be working on
+   - react to blockers and bottlenecks
+   - see what each other is responsible for and opportunities to help or avoid
+     duplicating effort
+   - reference commits back to their original user needs
 
 1. **Be humble, supportive and open minded**
 
@@ -91,11 +111,20 @@
    Share what you learn on a project with the whole team so we can reuse
    knowledge across projects. Encourage others in their learning.
 
+   All code we write should be reviewed by at least one peer. This helps us
+   learn new skills and build shared understanding.
+
 1. **Do the smallest amount of good work**
 
    We aspire to regularly ship good code, and deliver it to the users as often
    as possible. Delivering impact fast by shipping something real has a big
    impact on the morale of the team and happiness of our clients and users.
+
+   Solving many problems at once can lead to large pull requests and large
+   commits. This work tends to take a lot longer to understand, code review,
+   amend and then ship safely. Additionally it can make work hard to parallelise
+   as it may block other dependant work from starting. It also tends to
+   introduce more bugs that require more follow-up fixes.
 
    Where you can, do less and deliver it sooner. Break down work into smaller
    pieces. Descope anything that isn’t critical for a first version. Do a
