@@ -70,10 +70,9 @@ and made at least 4 weeks in advance. Anything longer or requested with less
 notice will need to be managed to understand its impact on client, team or
 personal work.
 
-When your planned leave has been approved, update the schedule in 10,000ft to
-reflect this. This helps us to look ahead and is recorded as “Out of office".
-Each member of our delivery team uses the tool to record the days they work on
-client projects on a weekly basis.
+When your planned leave has been approved, it will be automatically added to
+Productive. Each member of our delivery team uses the tool to record the days
+they work on client projects on a weekly basis.
 
 There is more information about dxw's holiday arrangements in your contract of
 employment.

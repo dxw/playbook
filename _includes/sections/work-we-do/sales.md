@@ -176,9 +176,9 @@ When we win work, we mark it as Won in Hubspot. We amend the budget, closing
 date and services sold if necessary. We write to the client to thank them and
 ask them for a convenient time to meet and talk about how and when we’ll start
 the work. We talk to the scheduling team and add the project's sprints and other
-work to our scheduling tool 10000ft, so that the team can see who's working on
-what. And we talk to the finance team so that invoices can be created as drafts
-in our finance system Xero, so we don't forget to bill them.
+work to our scheduling tool, Productive, so that the team can see who's working
+on what. And we talk to the finance team so that invoices can be created as
+drafts in our finance system Xero, so we don't forget to bill them.
 
 #### Losing work
 

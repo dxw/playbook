@@ -85,8 +85,9 @@ time they spend on projects. We usually work with our clients on a
 so it’s important we can accurately track and report how our time is spent on
 client projects.
 
-We use [10,000ft](https://app.10000ft.com/) to schedule our work, which helps us
-to forecast our capacity over future weeks and months in a reliable way.
+We use [Productive](https://app.productive.com/) to schedule our work, which
+helps us to forecast our capacity over future weeks and months in a reliable
+way.
 
 We track our time at the same level of granularity that we bill it – for almost
 everyone in the team, that’s half days or whole days.
@@ -100,9 +101,8 @@ When reporting our time, we follow these guidelines:
   that differs from the schedule, record your time as that.
 - If you worked on something else, leave the time blank or zero out what you
   were scheduled to work on.
-- If you were away on planned leave, confirm your time as "Out of office".
-- If you were off sick, record your time as "Sick".
-- If you had unplanned leave, record your time as "Out of office".
+- If you were off sick or on leave, make sure this is recorded on BreatheHR and
+  it should be automatically copied across to Productive.
 - If you were away due to a regular day off, as part of your working pattern,
   leave the time blank or zero out what you were scheduled to work on.
 
