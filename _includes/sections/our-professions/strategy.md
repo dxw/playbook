@@ -10,7 +10,7 @@ The strategy team apply these principles to our work.
 1. **Bring people together to make the right decisions**
 
    We facilitate activities to help organisations make good decisions,
-   prioritise and create the momemtum for change.
+   prioritise and create the momentum for change.
 
 1. **Focus on impact and sustainable change**
 

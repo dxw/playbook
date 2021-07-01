@@ -104,10 +104,10 @@ to take the time back.
 
 ##### How to request TOIL?
 
-Using BreatheHR similar to the way that you request holiday there is a TOIL drop
-down, please write a note as to why you are requesting the leave and this will
-be approved by a member of the HR team. Please note this will not deduct from
-your holiday allowance shown on your BreatheHR dashboard.
+Using BreatheHR similar to the way that you request holiday, there is a TOIL
+drop down, please write a note as to why you are requesting the leave and this
+will be approved by a member of the HR team. Please note this will not deduct
+from your holiday allowance shown on your BreatheHR dashboard.
 
 #### Sickness
 
@@ -131,7 +131,7 @@ When you return to work, you must check your sickness has been correctly
 recorded in BreatheHR, update it if necessary and mark yourself as returned to
 work. Your line manager will then review and close the sick leave. If you're
 sick for more than 7 calendar days in a row, you'll also need to provide a
-doctors note.
+doctor's note.
 
 ##### Absence meetings
 
@@ -488,7 +488,7 @@ a colleague or trade union official. Following this discussion the Managing
 Director will provide a written response.
 
 If you disagree with this response or the matter remains unresolved, you may
-appeal by respond in writing. A further meeting will be arranged and the
+appeal by responding in writing. A further meeting will be arranged and the
 Managing Director will again respond in writing. This decision will be final.
 
 #### Disciplinary procedure

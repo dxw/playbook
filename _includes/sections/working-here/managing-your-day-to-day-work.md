@@ -67,7 +67,7 @@ We regularly come together to work on our own projects and processes, most often
 on a Friday.
 
 This dxw time is important for us to maintain our strong culture and identity,
-and to imporve our practices, separate from the clients we work for.
+and to improve our practices, separate from the clients we work for.
 
 #### Working from home
 

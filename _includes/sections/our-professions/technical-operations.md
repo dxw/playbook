@@ -14,7 +14,7 @@
 
 1. **Don't be a keeper of secrets**
 
-   Everyone should be replaceable in respects to knowledge. It's everyone's
+   Everyone should be replaceable in respect to knowledge. It's everyone's
    responsibility to share what they know (eg. Pairing)
 
 1. **No heroics - Don't internalise problems**
@@ -24,5 +24,5 @@
 
 1. **Be patient**
 
-   Be helpful not obstructive. It’s easy to get frustrated by things in time
+   Be helpful, not obstructive. It’s easy to get frustrated by things in time
    sensitive situations – don’t!
