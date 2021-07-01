@@ -69,7 +69,7 @@ candidates to explain their skillset by answering role specific questions.
 ##### Interviewing
 
 Interviews are an hour long with two members of the team. Candidates have a
-choice of google hangouts or Zoom as their platform to interview on.
+choice of Google Meet or Zoom as their platform to interview on.
 
 dxw interviews are informal. They are a semi-structured conversation. We use
 competency-based questions, and look for answers that describe a candidate’s own
