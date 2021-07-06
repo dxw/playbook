@@ -49,12 +49,10 @@ first 26 weeks and Additional Maternity Leave for the last 26 weeks.
 
 Statutory Maternity Pay is paid by the government for up to 39 weeks. They will
 pay you 90% of your normal salary for the first 6 weeks of your leave. You must
-have worked for dxw for 26 weeks before your qualifying week (the 15th week
+have worked for dxw for 26 weeks before your [qualifying week](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/20771/qualifying-week.jpg) (the 15th week
 before the expected week of childbirth) to be eligible for SMP or you will be
 entitled to [Maternity Allowance](https://www.gov.uk/maternity-allowance)
 instead.
-
-!["Diagram showing the qualifying week", counting down the weeks of pregnancy from 40 to the week the baby is born (blank, the week after 1). The qualifying week is the fifteenth week before the week the baby is due, labelled 15.](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/20771/qualifying-week.jpg)
 
 ### What dxw offers in addition:
 
