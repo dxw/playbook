@@ -189,12 +189,14 @@ particular, we should carefully consider whether and how to do any face to face
 research.
 
 For now, you will need the approval of a Director, Head or Principal Research to
-do face to face research. And you must document your decision and your assessment
-of the risks in your [research plan](#how-we-create-and-use-research-plans).
+do face to face research. And you must document your decision and your
+assessment of the risks in your
+[research plan](#how-we-create-and-use-research-plans).
 
 The Service Manual has a guide to
 [choosing face to face or remote research](https://www.gov.uk/service-manual/user-research/doing-user-research-during-coronavirus-covid-19-choosing-face-to-face-or-remote-research),
-and what to include when you document your decision and your assessment of the risks.
+and what to include when you document your decision and your assessment of the
+risks.
 
 ## How we write and use discussion guides
 
