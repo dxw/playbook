@@ -4,9 +4,9 @@ title: How we do user research
 
 ## Introduction
 
-This guide explains how we do user research at dxw digital.
+This guide explains how we do user research at dxw.
 
-The guidance applies to all user researchers employed by dxw digital, both staff
+The guidance applies to all user researchers employed by dxw, both staff
 and contractors.
 
 The guidance builds on our user research
@@ -29,7 +29,7 @@ These are the things that user researchers usually do on projects.
    on research activities to include in proposals, join in pitch presentations
    and help with scheduling decisions.
 
-   This helps dxw digital to win good work that delivers valuable results for
+   This helps dxw to win good work that delivers valuable results for
    our clients, for users and for ourselves.
 
 1. **Help setup the project and team**
@@ -302,13 +302,13 @@ activity with them. And you must then act only within the consent the
 participant has given.
 
 This guidance explains how we collect and keep evidence of informed consent at
-dxw digital. It builds on the general guidance on
+dxw. It builds on the general guidance on
 [getting informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research)
 in the Service Manual.
 
 ### Creating consent materials
 
-#### Using dxw digital or client consent materials
+#### Using dxw or client consent materials
 
 There are two basic options:
 
@@ -320,7 +320,7 @@ There are two basic options:
    the associated records of consent.
 
 1. If using the client’s consent materials is not possible, or if the client
-   asks us to do confidential research, we can use the dxw digital
+   asks us to do confidential research, we can use the dxw
    [information sheet](https://drive.google.com/open?id=19lm5_gzzqzVP0NnNZZiqPhEwW2_i2bkI5apAaie4-4M)
    and
    [consent form](https://drive.google.com/open?id=1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k)
@@ -354,8 +354,8 @@ to use for the most common research situations.
 
 #### Creating a consent form
 
-If you are using a client’s consent form, make sure it clearly describes dxw
-digital’s involvement in the research, and how we will share research data and
+If you are using a client’s consent form, make sure it clearly describes dxw’s
+involvement in the research, and how we will share research data and
 findings.
 
 We have
@@ -493,7 +493,7 @@ If you are using a recruitment agency, ask them to pay the incentive to the
 participant. They will know how they do this. They may charge a small fee for
 handling the incentive.
 
-If a participant contacts dxw digital to say they haven’t received their
+If a participant contacts dxw to say they haven’t received their
 incentive, apologise and contact the agency to let them know.
 
 ### Paying incentives using shopping vouchers
