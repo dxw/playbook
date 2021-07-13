@@ -6,8 +6,8 @@ title: How we do user research
 
 This guide explains how we do user research at dxw.
 
-The guidance applies to all user researchers employed by dxw, both staff
-and contractors.
+The guidance applies to all user researchers employed by dxw, both staff and
+contractors.
 
 The guidance builds on our user research
 [principles](/#user-research-principles). It also builds on the
@@ -29,8 +29,8 @@ These are the things that user researchers usually do on projects.
    on research activities to include in proposals, join in pitch presentations
    and help with scheduling decisions.
 
-   This helps dxw to win good work that delivers valuable results for
-   our clients, for users and for ourselves.
+   This helps dxw to win good work that delivers valuable results for our
+   clients, for users and for ourselves.
 
 1. **Help setup the project and team**
 
@@ -355,8 +355,7 @@ to use for the most common research situations.
 #### Creating a consent form
 
 If you are using a client’s consent form, make sure it clearly describes dxw’s
-involvement in the research, and how we will share research data and
-findings.
+involvement in the research, and how we will share research data and findings.
 
 We have
 [template consent forms](https://drive.google.com/open?id=1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k)
@@ -493,8 +492,8 @@ If you are using a recruitment agency, ask them to pay the incentive to the
 participant. They will know how they do this. They may charge a small fee for
 handling the incentive.
 
-If a participant contacts dxw to say they haven’t received their
-incentive, apologise and contact the agency to let them know.
+If a participant contacts dxw to say they haven’t received their incentive,
+apologise and contact the agency to let them know.
 
 ### Paying incentives using shopping vouchers
 
