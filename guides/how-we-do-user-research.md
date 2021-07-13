@@ -188,8 +188,8 @@ with government guidance during the coronavirus (COVID-19) outbreak. In
 particular, we should carefully consider whether and how to do any face to face
 research.
 
-For now, you will need the approval of a Director, Head or Principal Research to
-do face to face research. And you must document your decision and your
+For now, you will need the approval of a Director, Head or Principal Researcher
+to do face to face research. And you must document your decision and your
 assessment of the risks in your
 [research plan](#how-we-create-and-use-research-plans).
 
