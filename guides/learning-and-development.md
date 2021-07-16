@@ -24,8 +24,9 @@ use unbilled days for different types of professional development.
 Finding the right thing to use the allowance for can be difficult. Here are some
 ways you can find ideas:
 
-- Check the [Learning and development bikeshed post](https://dxw.bikeshed.com)
-  to see what other people have done this year
+- Check the
+  [Learning and development bikeshed post](https://bikeshed.dxw.com/?p=13876) to
+  see what other people have done this year
 - Ask other people on your team what they've done
 - Talk to your line manager, who can help you identify potential areas for
   development and find suitable events or training
@@ -49,8 +50,8 @@ ways you can find ideas:
 - Take some time to reflect on what you learnt, and (if appropriate) how it
   applies to your work at dxw
 - Update the latest yearly
-  [Learning and Development bikeshed post](https://dxw.bikeshed.com) with
-  details of the event
+  [Learning and Development bikeshed post](https://bikeshed.dxw.com/?p=13876)
+  with details of the event
 - Consider writing a standalone bikeshed post giving more details about the
   event and how you found it
 
