@@ -165,6 +165,8 @@ Everybody at dxw gets a yearly learning and development allowance.
 Read the [Learning and Development guide](/guides/learning-and-development) to
 find out more.
 
+Read the [line managers guide](/guides/line-management-guides) to learn about how to support Learning and Development for your team members/
+
 #### Private Slack channels
 
 We encourage everyone at dxw to be open about their identities and the
