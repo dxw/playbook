@@ -2,7 +2,7 @@
 title: Learning and development
 ---
 
-We have an annual learning and development allowance of £750 and up to 4 days
+We have an annual learning and development allowance of £1,000 and up to 4 days
 per person.
 
 You can use this for professional and personal development activities like
@@ -39,7 +39,7 @@ ways you can find ideas:
   - Click the "Training" button
   - Click the "+" button to add a new request
   - Include weblinks and an estimate of the ticket, accommodation and travel
-    costs (up to the maximum of £750, though you are welcome to pay the
+    costs (up to the maximum of £1,000, though you are welcome to pay the
     difference for more expensive events)
 - Think about sharing event with the rest of your team if it's something other
   people might find relevant/useful
@@ -92,7 +92,7 @@ intention of increasing the annual allowance.
 
 ## Support for professional qualifications
 
-We may pay for a qualification or training that exceeds the annual £750
+We may pay for a qualification or training that exceeds the annual £1,000
 individual learning and development allowance, when that course is relevant and
 helpful to both dxw and the individual. This is a benefit that comes into effect
 once you have passed your probationary period.
