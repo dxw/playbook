@@ -166,7 +166,7 @@ and what is going to be worked on.
 
 At the end of every sprint, a delivery lead facilitates a retrospective where
 the team discuss how the sprint went. We talk about what went well, what didn't,
-and what we can do to to improve how we work for the next sprint. These sessions
+and what we can do to improve how we work for the next sprint. These sessions
 are attended by all the people involved in delivering the sprint along with the
 client team. We use retros to make sure we acknowledge and continue to do the
 things that are working well, and also commit to change anything that can be
@@ -258,7 +258,7 @@ At dxw, delivery leads ensure that sprints go smoothly and that the team remain
 productive. They are generally the client's first and main point of contact, and
 are responsible for ensuring that we deliver good work.
 
-Throughout a sprint, delivery leads ensure that agreed process is followed,
+Throughout a sprint, delivery leads ensure that an agreed process is followed,
 organising and facilitating discussions as required. They run sprint planning
 and retrospective sessions. They run daily standups with the dxw and client
 teams to keep everyone informed and to discuss and resolve any blockers.

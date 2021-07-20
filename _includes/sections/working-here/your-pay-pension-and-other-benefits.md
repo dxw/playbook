@@ -70,10 +70,9 @@ and made at least 4 weeks in advance. Anything longer or requested with less
 notice will need to be managed to understand its impact on client, team or
 personal work.
 
-When your planned leave has been approved, update the schedule in 10,000ft to
-reflect this. This helps us to look ahead and is recorded as “Out of office".
-Each member of our delivery team uses the tool to record the days they work on
-client projects on a weekly basis.
+When your planned leave has been approved, it will be automatically added to
+Productive. Each member of our delivery team uses the tool to record the days
+they work on client projects on a weekly basis.
 
 There is more information about dxw's holiday arrangements in your contract of
 employment.
@@ -104,10 +103,10 @@ to take the time back.
 
 ##### How to request TOIL?
 
-Using BreatheHR similar to the way that you request holiday there is a TOIL drop
-down, please write a note as to why you are requesting the leave and this will
-be approved by a member of the HR team. Please note this will not deduct from
-your holiday allowance shown on your BreatheHR dashboard.
+Using BreatheHR similar to the way that you request holiday, there is a TOIL
+drop down, please write a note as to why you are requesting the leave and this
+will be approved by a member of the HR team. Please note this will not deduct
+from your holiday allowance shown on your BreatheHR dashboard.
 
 #### Sickness
 
@@ -131,7 +130,7 @@ When you return to work, you must check your sickness has been correctly
 recorded in BreatheHR, update it if necessary and mark yourself as returned to
 work. Your line manager will then review and close the sick leave. If you're
 sick for more than 7 calendar days in a row, you'll also need to provide a
-doctors note.
+doctor's note.
 
 ##### Absence meetings
 
@@ -488,7 +487,7 @@ a colleague or trade union official. Following this discussion the Managing
 Director will provide a written response.
 
 If you disagree with this response or the matter remains unresolved, you may
-appeal by respond in writing. A further meeting will be arranged and the
+appeal by responding in writing. A further meeting will be arranged and the
 Managing Director will again respond in writing. This decision will be final.
 
 #### Disciplinary procedure
