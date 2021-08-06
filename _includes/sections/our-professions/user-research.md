@@ -86,5 +86,8 @@ and links to resources for specific topics.
 
 #### User researcher professional development
 
-We have [a set of worksheets](https://docs.google.com/presentation/d/1p01dpMFEKKRE8rV9hJZ2II3I6z5BG5GbrHzPBLSaJzM/) to help researchers with professional reflection and to inform learning and development plans. The tools cover our principles and workflow, and our most important methods and skills.
-
+We have
+[a set of worksheets](https://docs.google.com/presentation/d/1p01dpMFEKKRE8rV9hJZ2II3I6z5BG5GbrHzPBLSaJzM/)
+to help researchers with professional reflection and to inform learning and
+development plans. The tools cover our principles and workflow, and our most
+important methods and skills.
