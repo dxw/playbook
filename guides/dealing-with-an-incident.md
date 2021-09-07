@@ -112,13 +112,13 @@ not a sign of failure.
 We have [incident.io](https://docs.incident.io/creating-your-first-incident)
 installed on the dxw Slack for this purpose.
 
-1. Type /incident &lt;name&gt; in any Slack channel, the name should be something
-   short but understandable like "example.com errors"
+1. Type /incident &lt;name&gt; in any Slack channel, the name should be
+   something short but understandable like "example.com errors"
 2. Give the incident a description, e.g. "We are seeing a large number of 503
    errors being returned on example.com"
 3. Select a severity level (see below)
-4. Set an incident lead with `/incident lead me` or `/incident lead @person` – The
-   incident lead does not have to be you and may change over the course of a
+4. Set an incident lead with `/incident lead me` or `/incident lead @person` –
+   The incident lead does not have to be you and may change over the course of a
    response (see below).
 
 If it is a major or critical incident, you should post a notice in #general so
