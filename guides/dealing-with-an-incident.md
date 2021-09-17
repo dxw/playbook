@@ -112,19 +112,20 @@ not a sign of failure.
 We have [incident.io](https://docs.incident.io/creating-your-first-incident)
 installed on the dxw Slack for this purpose.
 
-1. Type /incident &lt;name> in any Slack channel, the name should be something
-   short but understandable like "example.com errors"
+1. Type /incident &lt;name&gt; in any Slack channel, the name should be
+   something short but understandable like "example.com errors"
 2. Give the incident a description, e.g. "We are seeing a large number of 503
    errors being returned on example.com"
 3. Select a severity level (see below)
-4. Set an incident lead with /incident lead me or /incident lead @person – The
-   incident lead does not have to be you and may change over the course of a
+4. Set an incident lead with `/incident lead me` or `/incident lead @person` –
+   The incident lead does not have to be you and may change over the course of a
    response (see below).
 
 If it is a major or critical incident, you should post a notice in #general so
 that everyone is aware. Something along the lines of:
 
-    _We have been having a security incident with some wordpress sites since 09:00 see [#inc-2021-07-01-mavis-sites](https://dxw.slack.com/archives/C026BN221D5)_
+    We have been having a security incident with some wordpress sites since 09:00.
+    See [#inc-2021-07-01-mavis-sites](https://dxw.slack.com/archives/C026BN221D5)
 
 ### Deciding severity
 
@@ -213,12 +214,12 @@ find.
 
 When responding to an incident your goals are to:
 
-- **Understand **what is happening
+- **Understand** what is happening
 - **Contain** any breach. Revoke any unauthorised access, remove any
   modifications and identify if any data has been compromised. Preserve data
   that may be required for later investigation or forensics.
-- **Restore **normal service by taking action to resolve the problem
-- **Monitor **systems to ensure that they continue to operate normally
+- **Restore** normal service by taking action to resolve the problem
+- **Monitor** systems to ensure that they continue to operate normally
 
 ### Communication
 
@@ -243,7 +244,7 @@ and you can also use it to update the status and log actions
 
 #### Client communications
 
-_This section is for the client comms manager _
+_This section is for the client comms manager_
 
 Often we will become aware of an incident because a client has raised a Zendesk
 ticket with us, but the incident may also affect other clients.
