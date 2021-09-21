@@ -11,7 +11,6 @@
     "eslint": "^7.27.0",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-prettier": "^3.4.0",
-    "husky": "^4.3.8",
     "jest": "^27.2.1",
     "mini-css-extract-plugin": "^1.6.0",
     "node-sass": "^6.0.0",
@@ -38,11 +37,10 @@
     "lint:ruby:fix": "npm run lint:ruby -- --fix",
     "lint:shell": "shellcheck script/*",
     "format": "prettier --check '**/*'",
-    "format:fix": "prettier --write '**/*'"
+    "format:fix": "prettier --write '**/*'",
+    "prepare": "husky install"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint"
-    }
+  "devDependencies": {
+    "husky": "^7.0.0"
   }
 }
