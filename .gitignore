@@ -14,5 +14,3 @@ npm-debug.log
 /_site/
 /dist/
 /tmp/
-
-/.husky
