@@ -16,7 +16,7 @@
     "node-sass": "^6.0.1",
     "prettier": "^2.2.1",
     "sass-loader": "^11.0.1",
-    "webpack": "^5.38.0",
+    "webpack": "^5.55.1",
     "webpack-cli": "^4.7.2"
   },
   "jest": {
