@@ -11,7 +11,7 @@ objectives. When talking about their plans for growth, have a discussion about
 training and possible ways to improve or gain new skills. When you agree on
 those, help them find opportunities or training to reach them.
 
-As and example these are the areas to cover in learning and development plan:
+As an example these are the areas to cover in learning and development plan:
 
 - Current role
 - Future or changing role
