@@ -67,7 +67,7 @@ We regularly come together to work on our own projects and processes, most often
 on a Friday.
 
 This dxw time is important for us to maintain our strong culture and identity,
-and to imporve our practices, separate from the clients we work for.
+and to improve our practices, separate from the clients we work for.
 
 #### Working from home
 
@@ -85,8 +85,9 @@ time they spend on projects. We usually work with our clients on a
 so it’s important we can accurately track and report how our time is spent on
 client projects.
 
-We use [10,000ft](https://app.10000ft.com/) to schedule our work, which helps us
-to forecast our capacity over future weeks and months in a reliable way.
+We use [Productive](https://app.productive.com/) to schedule our work, which
+helps us to forecast our capacity over future weeks and months in a reliable
+way.
 
 We track our time at the same level of granularity that we bill it – for almost
 everyone in the team, that’s half days or whole days.
@@ -100,9 +101,8 @@ When reporting our time, we follow these guidelines:
   that differs from the schedule, record your time as that.
 - If you worked on something else, leave the time blank or zero out what you
   were scheduled to work on.
-- If you were away on planned leave, confirm your time as "Out of office".
-- If you were off sick, record your time as "Sick".
-- If you had unplanned leave, record your time as "Out of office".
+- If you were off sick or on leave, make sure this is recorded on BreatheHR and
+  it should be automatically copied across to Productive.
 - If you were away due to a regular day off, as part of your working pattern,
   leave the time blank or zero out what you were scheduled to work on.
 
@@ -160,10 +160,10 @@ the [guide on claiming expenses](/guides/claiming-expenses)
 
 #### Calendars and documents
 
-We use Google Apps for Work to manage calendars, write and share documents.
-There is a dxw folder where we share most of the things we write. If you can't
-see it when you log in to Google Drive, you'll need to ask someone else to send
-you the link, and then click "Add to drive".
+We use Google Workspace to manage calendars, write and share documents. There is
+a dxw folder where we share most of the things we write. If you can't see it
+when you log in to Google Drive, you'll need to ask someone else to send you the
+link, and then click "Add to drive".
 
 When we write new things, we try to save them in a sensible folder within the
 existing structure.

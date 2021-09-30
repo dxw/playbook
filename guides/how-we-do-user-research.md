@@ -4,10 +4,10 @@ title: How we do user research
 
 ## Introduction
 
-This guide explains how we do user research at dxw digital.
+This guide explains how we do user research at dxw.
 
-The guidance applies to all user researchers employed by dxw digital, both staff
-and contractors.
+The guidance applies to all user researchers employed by dxw, both staff and
+contractors.
 
 The guidance builds on our user research
 [principles](/#user-research-principles). It also builds on the
@@ -29,8 +29,8 @@ These are the things that user researchers usually do on projects.
    on research activities to include in proposals, join in pitch presentations
    and help with scheduling decisions.
 
-   This helps dxw digital to win good work that delivers valuable results for
-   our clients, for users and for ourselves.
+   This helps dxw to win good work that delivers valuable results for our
+   clients, for users and for ourselves.
 
 1. **Help setup the project and team**
 
@@ -69,6 +69,8 @@ These are the things that user researchers usually do on projects.
 
    This helps teams to embed regular research into their agile practices and get
    the best results from the effort they put in.
+
+   [How we create and use research plans](#how-we-create-and-use-research-plans)
 
    [How we write and use discussion guides](#how-we-write-and-use-discussion-guides)
 
@@ -146,6 +148,55 @@ For example:
 - (Draft)
 - 1 October 2019
 - John Waterworth
+
+## How we create and use research plans
+
+### Planning research activities
+
+It’s important that we carefully plan the research we do.
+
+Teams create the best services when research activities provide reliable answers
+to their most important questions. And we do our best research when we do it in
+ethical, inclusive and sustainable ways.
+
+We want to involve our colleagues and other stakeholders in creating research
+plans, so they understand and can contribute to research activities.
+
+And we want to create plans that allow us to
+[learn, share and adapt](https://playbook.dxw.com/#user-research-principles) as
+we go.
+
+The guide to
+[planning user research for your service](https://www.gov.uk/service-manual/user-research/plan-user-research-for-your-service)
+in the Service Manual sets out a good approach to creating a plan.
+
+### Research plan template
+
+Creating and sharing a short research plan document is a great way to get
+everyone aligned. And to address any concerns that clients and stakeholders may
+have.
+
+We have a
+[research plan template](https://docs.google.com/document/d/11olKOHluGXL8OA-XKIvSXXsCxQ3dvOUgSUgJSw0qLm4/)
+that you can use as a starting point. But feel free to adapt it and add sections
+that may be important for your project.
+
+## How we do research safely during coronavirus
+
+We have a responsibility to keep ourselves and our participants safe and comply
+with government guidance during the coronavirus (COVID-19) outbreak. In
+particular, we should carefully consider whether and how to do any face to face
+research.
+
+For now, you will need the approval of a Director, Head or Principal Researcher
+to do face to face research. And you must document your decision and your
+assessment of the risks in your
+[research plan](#how-we-create-and-use-research-plans).
+
+The Service Manual has a guide to
+[choosing face to face or remote research](https://www.gov.uk/service-manual/user-research/doing-user-research-during-coronavirus-covid-19-choosing-face-to-face-or-remote-research),
+and what to include when you document your decision and your assessment of the
+risks.
 
 ## How we write and use discussion guides
 
@@ -251,13 +302,13 @@ activity with them. And you must then act only within the consent the
 participant has given.
 
 This guidance explains how we collect and keep evidence of informed consent at
-dxw digital. It builds on the general guidance on
+dxw. It builds on the general guidance on
 [getting informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research)
 in the Service Manual.
 
 ### Creating consent materials
 
-#### Using dxw digital or client consent materials
+#### Using dxw or client consent materials
 
 There are two basic options:
 
@@ -269,7 +320,7 @@ There are two basic options:
    the associated records of consent.
 
 1. If using the client’s consent materials is not possible, or if the client
-   asks us to do confidential research, we can use the dxw digital
+   asks us to do confidential research, we can use the dxw
    [information sheet](https://drive.google.com/open?id=19lm5_gzzqzVP0NnNZZiqPhEwW2_i2bkI5apAaie4-4M)
    and
    [consent form](https://drive.google.com/open?id=1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k)
@@ -303,9 +354,8 @@ to use for the most common research situations.
 
 #### Creating a consent form
 
-If you are using a client’s consent form, make sure it clearly describes dxw
-digital’s involvement in the research, and how we will share research data and
-findings.
+If you are using a client’s consent form, make sure it clearly describes dxw’s
+involvement in the research, and how we will share research data and findings.
 
 We have
 [template consent forms](https://drive.google.com/open?id=1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k)
@@ -442,8 +492,8 @@ If you are using a recruitment agency, ask them to pay the incentive to the
 participant. They will know how they do this. They may charge a small fee for
 handling the incentive.
 
-If a participant contacts dxw digital to say they haven’t received their
-incentive, apologise and contact the agency to let them know.
+If a participant contacts dxw to say they haven’t received their incentive,
+apologise and contact the agency to let them know.
 
 ### Paying incentives using shopping vouchers
 

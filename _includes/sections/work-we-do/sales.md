@@ -2,10 +2,10 @@
 
 #### Typical projects
 
-Most of our projects are to research, design , build and support digital
-services for the public sector and organisations focused on work for ‘public
-good’. Broadly speaking, they are usually transactional services
-([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs)
+Most of our projects are to research, design, build and support digital services
+for the public sector and organisations focused on work for ‘public good’.
+Broadly speaking, they are usually transactional services
+([making payments, bookings, reporting things](https://www.youtube.com/watch?v=NN5B9rL_Hxs))
 or informational services ([corporate websites](https://www.judiciary.uk/),
 [campaigns](https://firekills.campaign.gov.uk), intranets). Sometimes they're a
 bit of both.
@@ -16,9 +16,9 @@ involves work that an agency might not normally do, like advising an
 organisation's leaders on how their teams could be restructured, or on what
 their digital strategy could be.
 
-With the development of dxw digital’s strategy team, we are increasingly
-targeting more strategy-shaped opportunities, to help our clients prepare for,
-or improve the delivery of digital projects.
+With the development of dxw's strategy team, we are increasingly targeting more
+strategy-shaped opportunities, to help our clients prepare for, or improve the
+delivery of digital projects.
 
 We also help clients host some of the services that we build, and by selling
 subscription-based products that are related to the rest of our work.
@@ -92,14 +92,14 @@ project, please raise them with your line manager or head of profession.
 
 Clients aren’t always able to talk about their budgets, but
 [we do need to know](https://medium.com/@monteiro/why-i-need-to-know-your-budget-a61ec864c898).
-If they absolutely can't tell us, we do our best to estimate at what it probably
+If they absolutely can't tell us, we do our best to estimate what it probably
 is, based on the information we have.
 
 Where we don't think we could do what the client needs within their budget, we
 explore alternative options with them that are more affordable. Sometimes this
-works out, sometimes not. That's ok. Where it does, it tends to be because we've
-made a good case that it's better to have a small feature set that works really
-well than a large one that's slightly disappointing.
+works out, sometimes it doesn't. That's ok. Where it does, it tends to be
+because we've made a good case that it's better to have a small feature set that
+works really well than a large one that's slightly disappointing.
 
 Where clients have a larger budget than we think they need, we say that too.
 This usually means explaining why we're able to do the work for less than they
@@ -150,7 +150,7 @@ important as it helps to set the team up for a successful pitch (if we need to
 do one) and eventual delivery if we win the work.
 
 Whilst the process tends to be similar, not all opportunities are exactly the
-same, for example, sometimes we’ll be provided will a form to complete, and
+same, for example, sometimes we’ll be provided with a form to complete, and
 other times we’ll have more flexibility on the format of our proposal.
 
 If we're writing a proposal following our own format, we often start from a
@@ -163,7 +163,7 @@ proposal template. The main things we’ll often need to write are:
   project will make things better for these people?
 - Details of how we’ll approach the work
 - A proposed team to do the work, their roles and profiles.
-- How many sprints we estimate we will we need to deliver the work.
+- How many sprints we estimate we will need to deliver the work.
 - A timeline for when we expect the sprints and other work will happen.
 - A cost for the work.
 
@@ -176,9 +176,9 @@ When we win work, we mark it as Won in Hubspot. We amend the budget, closing
 date and services sold if necessary. We write to the client to thank them and
 ask them for a convenient time to meet and talk about how and when we’ll start
 the work. We talk to the scheduling team and add the project's sprints and other
-work to our scheduling tool 10000ft, so that the team can see who's working on
-what. And we talk to the finance team so that invoices can be created as drafts
-in our finance system Xero, so we don't forget to bill them.
+work to our scheduling tool, Productive, so that the team can see who's working
+on what. And we talk to the finance team so that invoices can be created as
+drafts in our finance system Xero, so we don't forget to bill them.
 
 #### Losing work
 

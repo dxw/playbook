@@ -60,8 +60,8 @@ the public sector digital community. We work in the open and are keen to share
 our knowledge, express our values and get people thinking about how to improve
 services for the public sector.
 
-When we’re hiring, we also want potential new staff to be able to to get to know
-us beforehand.
+When we’re hiring, we also want potential new staff to be able to get to know us
+beforehand.
 
 When we blog we use the dxw [tone of voice](/guides/tone-of-voice).
 

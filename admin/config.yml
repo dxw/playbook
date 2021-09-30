@@ -1,0 +1,39 @@
+backend:
+  name: github
+  repo: pezholio/playbook
+  branch: main
+media_folder: "_images"
+publish_mode: editorial_workflow
+collections:
+  - name: "our-professions"
+    label: "Our Professions"
+    folder: "our-professions"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "work-we-do"
+    label: "Work we do"
+    folder: "work-we-do"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "working-here"
+    label: "Working here"
+    folder: "working-here"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "guides"
+    label: "Guides"
+    folder: "guides"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

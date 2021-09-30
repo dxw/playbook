@@ -2,23 +2,25 @@
   "name": "dxw-playbook",
   "private": true,
   "dependencies": {
-    "@babel/preset-env": "^7.13.15",
+    "@babel/preset-env": "^7.15.0",
     "babel-loader": "^8.2.2",
-    "copy-webpack-plugin": "^8.1.1",
+    "copy-webpack-plugin": "^9.0.0",
     "core-js": "^3.9.1",
-    "css-loader": "^5.2.4",
-    "docsify": "4.11.3",
-    "eslint": "^7.20.0",
+    "css-loader": "^5.2.6",
+    "docsify": "4.12.1",
+    "eslint": "^7.27.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.0",
-    "husky": "^4.3.8",
-    "jest": "^26.6.3",
+    "eslint-plugin-prettier": "^3.4.1",
+    "jest": "^27.2.1",
     "mini-css-extract-plugin": "^1.6.0",
-    "node-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
     "prettier": "^2.2.1",
     "sass-loader": "^11.0.1",
     "webpack": "^5.38.0",
-    "webpack-cli": "^4.5.0"
+    "webpack-cli": "^4.8.0"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
   },
   "scripts": {
     "build": "webpack --mode=production",
@@ -29,17 +31,16 @@
     "lint:fix": "npm run lint:prose && npm run format:fix && npm run lint:js:fix && npm run lint:ruby:fix && npm run lint:shell",
     "lint:js": "eslint .",
     "lint:js:fix": "npm run lint:js -- --fix",
-    "lint:prose": "vale .",
+    "lint:prose": "vale index.md _includes/* guides/*",
     "lint:prose:suggestions": "npm run lint:prose -- --minAlertLevel suggestion",
     "lint:ruby": "bundle exec standardrb",
     "lint:ruby:fix": "npm run lint:ruby -- --fix",
     "lint:shell": "shellcheck script/*",
     "format": "prettier --check '**/*'",
-    "format:fix": "prettier --write '**/*'"
+    "format:fix": "prettier --write '**/*'",
+    "prepare": "husky install"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint"
-    }
+  "devDependencies": {
+    "husky": "^7.0.0"
   }
 }
