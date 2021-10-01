@@ -5,8 +5,10 @@ title: Learning and development
 We have an annual learning and development allowance of £1,000 and up to 4 days
 per person.
 
-You can use this for professional and personal development activities like
-workshops, short courses or conferences.
+You can use this in many different ways for professional and personal
+development activities. Some ideas include workshops, short courses,
+conferences, coaching, subscriptions and memberships but don’t be afraid to ask
+if you have an idea we haven’t tried yet.
 
 You can also use the allowance to attend a non role based conference or event
 focused on improving your health and wellbeing. You will receive two days off
@@ -30,20 +32,26 @@ ways you can find ideas:
 - Ask other people on your team what they've done
 - Talk to your line manager, who can help you identify potential areas for
   development and find suitable events or training
+- Ask the HR team for ideas
 
 ### Book the activity
 
 - Agree the plan with your line manager before you book anything
-- Log it in [Breathe](https://hr.breathehr.com/) as a training request:
+- Log it in [Breathe](https://hr.breathehr.com/) as a training request for your
+  line manager to approve:
   - Go to "My profile" on the top menu
   - Click the "Training" button
   - Click the "+" button to add a new request
   - Include weblinks and an estimate of the ticket, accommodation and travel
     costs (up to the maximum of £1,000, though you are welcome to pay the
     difference for more expensive events)
+- Once it’s approved, post in the #dxw-learning-and-development-bookings channel
+  if you would like support with payment. You can also purchase yourself and
+  make an expense claim
 - Think about sharing event with the rest of your team if it's something other
   people might find relevant/useful
-- Make sure your project team know when you're going to be away
+- Add to your Google calendar and make sure your project team know when you're
+  going to be away
 
 ### After you get back
 
