@@ -160,7 +160,8 @@ Here’s a great article on
 
 #### Learning and Development
 
-Everybody at dxw gets a yearly learning and development allowance.
+Everybody at dxw gets a yearly learning and development allowance of £1,000 and
+up to 4 days.
 
 Read the [Learning and Development guide](/guides/learning-and-development) to
 find out more.
