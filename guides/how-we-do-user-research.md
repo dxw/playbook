@@ -17,7 +17,7 @@ so we can help teams meet the Government
 
 Some of the guidance explains how to do user research in an effective, ethical
 and legal way. If your situation isn't covered, and you're not sure what to do,
-ask John Waterworth, the Head of User Research.
+ask Coca Rivas, Director of Design, or John Waterworth, Principal Researcher.
 
 ## User research workflow
 
@@ -41,6 +41,8 @@ These are the things that user researchers usually do on projects.
 
    This helps teams to focus on understanding and meeting the needs of users,
    and to produce the best results with the people, time and resources we have.
+   
+   [How we create and use research plans](#how-we-create-and-use-research-plans)
 
 1. **Recruit people for research**
 
@@ -56,6 +58,8 @@ These are the things that user researchers usually do on projects.
    [How we get informed consent for user research](#how-we-get-informed-consent-for-user-research)
 
    [When and how we give incentives to research participants](#when-and-how-we-give-incentives-to-research-participants)
+   
+   [How we protect participant privacy](#how-we-protect-participant-privacy)
 
 1. **Plan and do research activities**
 
