@@ -15,7 +15,11 @@
     "mini-css-extract-plugin": "^1.6.0",
     "node-sass": "^6.0.1",
     "prettier": "^2.4.1",
+<<<<<<< HEAD
     "sass-loader": "^12.1.0",
+=======
+    "sass-loader": "^12.3.0",
+>>>>>>> 909a9fa (Bump sass-loader from 12.1.0 to 12.3.0)
     "webpack": "^5.61.0",
     "webpack-cli": "^4.8.0"
   },
