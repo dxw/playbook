@@ -106,6 +106,8 @@ These are the things that user researchers usually do on projects.
    This helps our clients and other stakeholders use and benefit from what we
    learned both during the project and long after we’ve gone.
 
+   [How we share research activities and findings](#how-we-share-research-activities-and-findings)
+
 1. **Take care of research data**
 
    Researchers know it’s important to manage research data carefully. We follow
@@ -294,6 +296,43 @@ activities:
 - [Interviews and contextual research](https://drive.google.com/open?id=1XeBhmQL0jqFFsl2Cw-DOKVpabTRILGl-TjeyUDW90vM)
 - [Usability tests](https://drive.google.com/open?id=1hcVkLGJVDB9ZOoMIz93erUpk1RUgXN_ZcZflJxsFpHw)
 - [Workshops](https://drive.google.com/open?id=1ZHZwLBnUlDsxrvv1qj_ZpFU9QGsP_dIDLMVcGbEYswY)
+
+## How we share research activities and findings
+
+We regularly share descriptions of research activities and findings in show and
+tells, reports and other places.
+
+### Slide layouts for research
+
+When presenting about research, we use one of the dxw Proposal Deck Templates.
+These have all the kinds of slide layouts you will need.
+
+You can find these in the Google Slides
+[Template Gallery](https://docs.google.com/presentation/u/0/?folder=0AGsaGhY-i-mIUk9PVA&ftv=1).
+
+### Presenting research activities
+
+When sharing what we plan to do or what we’ve been doing, we talk about research
+activities rather than research methods.
+
+Descriptions of research activities look like:
+
+We did _some kind of research_ with _some kinds of participants_ to learn
+_something the team needs to know_.
+
+We avoid using research jargon that our colleagues might not understand. For
+example, rather than talking about ‘ethnography’ or ‘contextual enquiry’ we
+might say that “we visited the support desk and observed the team helping people
+with their applications”.
+
+### Presenting research findings
+
+When sharing findings, we always make the finding the headline. Then follow up
+with supporting evidence, explanation and illustration.
+
+You can read more about this in the
+[Sharing user research findings guide](https://www.gov.uk/service-manual/user-research/sharing-user-research-findings#presenting-your-findings)
+in the Service Manual.
 
 ## How we get informed consent for user research
 
