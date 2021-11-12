@@ -1,28 +1,16 @@
 ## Who we are
 
-dxw is an independent digital agency that works with the public and third
-sectors.
+dxw is an employee owned digital agency that works with the public and third sectors.
 
-Since 2008, we’ve worked in partnership with our clients to improve people’s
-lives by designing, building, operating, and improving digital public services.
-We support the public sector teams we work with to build their own digital
-capability and take an iterative user-centred approach to service design.
+Since 2008, we’ve worked in partnership with our clients to improve people’s lives by designing, building, running, and improving digital public services. We support the public sector teams we work with to build their own digital capability and take an iterative user-centred approach to service design.
 
-The challenge facing the public sector today is a significant one. There’s more
-pressure than ever to deliver online services quickly and save money. It’s a
-huge job and, in addition to talented in-house teams, the sector needs expert
-suppliers who share their values and understand how to work with them.
+Being employee owned means dxw is managed in the best interests of our staff, now and in future. We have written our mission and values into our founding documents, so dxw is also run in the interests of the people we build services for.
 
-We want people’s experience of public services to be positive and seamless. That
-means creating great services that are accessible to everyone. Our approach is
-to add value early and often, rapidly researching, testing, learning, and
-delivering on time. Wherever we can, we work in the open, sharing our code, and
-what we’ve learned.
+The challenge facing the public sector today is a significant one. There’s more pressure than ever to deliver online services quickly and save money. It’s a huge job and, in addition to talented in-house teams, the sector needs expert suppliers who share their values and understand how to work with them.
 
-Our aim is to help the public sector make the most of the opportunities digital
-offers to make services better for the people who depend on them. And,
-ultimately, to free up more resources for essential front line services like
-education, health and social care, housing, welfare, and policing.
+We want people’s experience of public services to be positive and seamless. That means creating great services that are accessible to everyone. Our approach is to add value early and often, rapidly researching, testing, learning, and delivering on time. Wherever we can, we work in the open, sharing our code, and what we’ve learned.
+
+Our aim is to help the public sector make the most of the opportunities digital offers to make services better for the people who depend on them. And, ultimately, to free up more resources for essential front line services like education, health and social care, housing, welfare, and policing.
 
 ### Our values
 
@@ -175,14 +163,11 @@ We are focusing on three main areas to reduce our impact:
   remotely to reduce the need for travel. Due to client needs this isn’t always
   possible but we’re investigating how to offset our carbon footprint.
 
-### Our Advisory Council
+### Our Board of Trustees
 
-dxw does not have external investors or shareholders. To help keep us honest, we
-are very lucky to have a voluntary Advisory Council, made up of a small group of
-senior figures, who meet quarterly to discuss and provide guidance on our
-strategy, business plan and other topics related to company health and
-progression. The group have a wealth of experience of public and private sector
-work, as well as being friends of dxw that share our values.
+As an employee owned agency, the dxw directors are accountable to our Board of Trustees for the performance of the company. The trustees make sure dxw meets its targets, is run in the best interests of the staff, and delivers on our mission to create public services that improve lives.
+
+The Board of Trustees is chaired by dxw’s founder and has 2 employee trustees elected by the staff, together with 2 external trustees who bring outside expertise and challenge.
 
 ### This Playbook
 
