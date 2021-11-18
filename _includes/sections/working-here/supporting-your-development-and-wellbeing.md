@@ -239,7 +239,7 @@ As a helper, you will be vital in ensuring you have the regular catch ups - if
 you are finding it hard to schedule them, please do talk to Bus Ops.
 
 For more information on being a helper, please see the
-[checklist](https://docs.google.com/document/d/1Dc3IRZ_ze7QzMQTHO70ZC6hU8cig5ds7LN2MoHmPBe8/edit)
+[checklist](https://docs.google.com/document/d/1QPv7Mg7TTlt_OyLRtstAtPQBcId-ct-uTbWqYnso2jI)
 or speak to the People Manager.
 
 ##### Buddies
