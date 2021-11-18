@@ -15,8 +15,8 @@ describe("sidebarNavigation", () => {
       <nav class="app-nav"></nav>
       <a href="#bar" data-target="bar" class="active"></a>
       <a href="#foo" data-target="foo"></a>
-      <div id="foo"></div>
-      <div id="bar"></div>
+      <h2 id="foo"></h2>
+      <h2 id="bar"></h2>
     `;
 
     links = document.querySelectorAll("a");
