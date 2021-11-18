@@ -129,7 +129,7 @@
    Where you can, do less and deliver it sooner. Break down work into smaller
    pieces. Descope anything that isn’t critical for a first version. Do a
    minimum slice that works for some of your users. Anything to reduce the time
-   between get started on something and delivering it to users.
+   between getting started on something and delivering it to users.
 
    Work at a pace that suits the project. Hacky is sometimes fine. If you’re
    working on prototypes then do only what you need to answer your questions.
@@ -150,3 +150,22 @@
    communicating about our work allows clients to see how we’re doing, and what
    needs their attention, and gives everyone in the team context for the work
    being done and decisions being made.
+
+#### Career progression for developers
+
+We have a
+[public progression framework](https://dxw.progressionapp.com/technology)
+describing the skills expected of each role across the technology team. Your
+progression doesn’t depend on having done everything in the framework for the
+new role but on demonstrating that you could do them if asked.
+
+We track changes to the framework in the
+[changelog](https://docs.google.com/document/d/1FZc0Tr7RizgdGSs2MRD8USs372kUK8yqZ8kIlRf6zQc/edit),
+where we describe what changed and why we changed it. We keep track of any
+future changes we may want to make or think about in the
+[backlog](https://docs.google.com/document/d/16pZuxt_CWp2NFaYaqBIZvuHmPeNWcqKycLkx5ciErbw/edit).
+
+We have a [documented promotion process](/guides/tech-team-promotion-process)
+based on that framework. We designed it to help make fair decisions about
+promotions that reduce the impact any one person can have on the decision as
+much as possible.
