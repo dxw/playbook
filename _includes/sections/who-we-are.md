@@ -166,11 +166,17 @@ Thank you for being you - it makes us better.
 
 #### Reduce our impact on the environment
 
-It is our responsibility that future communities can thrive. So we will lead by example, and demonstrate how to make choices that are both people and planet centred.
+It is our responsibility that future communities can thrive. So we will lead by
+example, and demonstrate how to make choices that are both people and planet
+centred.
 
-We are [carbon neutral](https://www.dxw.com/carbon-reduction-statement/) and working towards net zero emissions.
+We are [carbon neutral](https://www.dxw.com/carbon-reduction-statement/) and
+working towards net zero emissions.
 
-We have an [internal group](https://www.dxw.com/2021/02/what-were-doing-to-reduce-and-offset-our-carbon-footprint/) who meet regularly to talk about how dxw can respond to the climate and ecological crisis.
+We have an
+[internal group](https://www.dxw.com/2021/02/what-were-doing-to-reduce-and-offset-our-carbon-footprint/)
+who meet regularly to talk about how dxw can respond to the climate and
+ecological crisis.
 
 ### Our Board of Trustees
 
