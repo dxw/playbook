@@ -166,19 +166,11 @@ Thank you for being you - it makes us better.
 
 #### Reduce our impact on the environment
 
-At dxw we are working to become a more environmentally sustainable company.
+It is our responsibility that future communities can thrive. So we will lead by example, and demonstrate how to make choices that are both people and planet centred.
 
-We are focusing on three main areas to reduce our impact:
+We are [carbon neutral](https://www.dxw.com/carbon-reduction-statement/) and working towards net zero emissions.
 
-- In our **offices** we recycle waste where possible. We are switching to
-  environmentally friendly office supplies and refreshments, and changing to
-  renewable energy suppliers.
-- We are aware that the **digital services** we provide have a significant
-  environmental impact. We are finding ways to reduce our contribution by
-  building our products efficiently and using renewable energy for hosting.
-- Whenever possible we **travel** by public transport, and we often work
-  remotely to reduce the need for travel. Due to client needs this isn’t always
-  possible but we’re investigating how to offset our carbon footprint.
+We have an [internal group](https://www.dxw.com/2021/02/what-were-doing-to-reduce-and-offset-our-carbon-footprint/) who meet regularly to talk about how dxw can respond to the climate and ecological crisis.
 
 ### Our Board of Trustees
 
