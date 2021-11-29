@@ -29,7 +29,7 @@ jobs:
           bundle config path vendor/bundle
 
       - name: Cache Ruby dependencies
-        uses: actions/cache@v2.1.6
+        uses: actions/cache@v2.1.7
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-v2-${{ hashFiles('**/Gemfile.lock') }}
@@ -37,7 +37,7 @@ jobs:
             ${{ runner.os }}-gems-v2-
 
       - name: Cache Node dependencies
-        uses: actions/cache@v2.1.6
+        uses: actions/cache@v2.1.7
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
