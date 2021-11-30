@@ -151,6 +151,8 @@ A tech lead's job is to:
   development work
 - be responsible for the team learning from failure and for incident reviews
   happening when something goes wrong
+- ensure that the development process and repository follow our
+  [RFCs](https://github.com/dxw/tech-team-rfcs)
 
 You will often, but not always, be the most experienced developer on the team.
 When you are you'll also be expected to make clear and informed architectural
