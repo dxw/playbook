@@ -4,8 +4,7 @@ export default (links) => {
   };
 
   const getElementLocation = (element) => {
-    const navElement = document.querySelector(".app-nav");
-    const yOffset = navElement.offsetHeight;
+    const yOffset = parseInt(getComputedStyle(element).scrollMarginTop) || 0;
 
     return element.getBoundingClientRect().top + window.pageYOffset - yOffset;
   };
