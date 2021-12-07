@@ -164,6 +164,28 @@ Our approach is set out in our
 
 Thank you for being you - it makes us better.
 
+#### Accessibility statement
+
+At dxw we want to make sure that everyone can access digital services including
+our own websites, communications and colleague resources.
+
+To create a consistent approach to digital accessibility we set out individual
+guides for respective professions within the Playbook outlining a shared
+approach to accessibility goals, processes and responsibility:
+
+- [Design & development accessibility](/guides/web-accessibility)
+
+In addition to following our own guides we also follow the
+[GOV.UK Service manual](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
+to help us to meet government accessibility requirements for digital services
+and make sure as many people as possible can use what we create.
+
+The
+[accessibility statement for our website](https://www.dxw.com/accessibility-statement/)
+outlines its level of accessibility, reviewed annually against
+[Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/), and
+how to contact us if users find any problems.
+
 #### Reduce our impact on the environment
 
 It is our responsibility that future communities can thrive. So we will lead by
