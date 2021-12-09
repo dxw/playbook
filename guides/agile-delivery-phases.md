@@ -15,7 +15,6 @@ The core principles of an agile approach are:
 * Keep improving how your team works
 * Fail fast and learn quickly
 * Responding to change over following a plan
-* This is a test point. Please ignore.
 
 The Service Manual describes four stages of agile delivery:
 
