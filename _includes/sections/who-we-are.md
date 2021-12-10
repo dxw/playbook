@@ -174,7 +174,7 @@ We follow the guidance in the
 to help us to meet government accessibility requirements.
 
 And to create a consistent approach to digital accessibility, our Playbook has
-[additional guidance for our different professions](https://github.com/guides/web-accessibility).
+[additional guidance for our different professions](https://playbook.dxw.com/guides/web-accessibility.html).
 
 #### Reduce our impact on the environment
 
