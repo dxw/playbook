@@ -2,7 +2,7 @@
   "name": "dxw-playbook",
   "private": true,
   "dependencies": {
-    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-env": "^7.16.7",
     "babel-loader": "^8.2.3",
     "copy-webpack-plugin": "^9.0.1",
     "core-js": "^3.19.3",
