@@ -21,6 +21,14 @@ The security of the information which we host, store and process is therefore of
 paramount importance - particularly if it is client-owned or otherwise
 privileged (eg personal data).
 
+## Follow our standards
+
+We have a consensus based model for making decisions about some of the ways we
+work through the [technology team RFCs](https://github.com/dxw/tech-team-rfcs).
+It's important that you are aware of them and follow them when relevant. They
+are part of how we make sure we're building high quality, secure software for
+our clients.
+
 ## Lifecycle of a story
 
 ### 1. Find the highest priority thing to work on
