@@ -11,6 +11,16 @@ default workflow we follow, but it's ok to depart from it when a project needs
 something different (and documenting that departure helps our future selves and
 others understand what changed and why).
 
+## Work securely
+
+dxw exists to help public sector teams to make good technology decisions and
+build better services. Our reputation is built on our ability to consistently
+deliver work of excellent quality that exceeds our clients' expectations.
+Amongst those expectations are that we will protect our clients' information.
+The security of the information which we host, store and process is therefore of
+paramount importance - particularly if it is client-owned or otherwise
+privileged (eg personal data).
+
 ## Lifecycle of a story
 
 ### 1. Find the highest priority thing to work on
@@ -58,6 +68,9 @@ implementation.
 Every commit should have a fully passing test suite with any new tests added and
 old tests removed as needed to document and validate the changes in that commit.
 
+**Important** Make sure you're following security best practices as you work. If
+you're not sure what they are, ask before pushing any code onto the internet.
+
 ### 5. Commit changes in small steps
 
 Good commits are small, focused, and self-contained.
@@ -82,6 +95,12 @@ line**, followed by paragraphs explaining:
 
 If you find you can't fully summarise the change in the title, it's often a sign
 that your commit could be broken down into smaller parts.
+
+**Important** Never unthinkingly use `git commit .` or similar. Doing that makes
+it very easy to accidentally commit sensitive data that, once pushed, is exposed
+to the world and constitutes a data breach. Use
+[Git's interactive staging feature](https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging)
+to inspect and select the content you want to add.
 
 ### 6. Include any upstream changes
 
