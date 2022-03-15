@@ -1,6 +1,0 @@
-extends: existence
-message: dxw should be all lowercase
-level: error
-ignorecase: false
-raw:
-  - (?:\bDXW\b|\bDxw\b)

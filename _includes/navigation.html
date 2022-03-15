@@ -1,20 +1,20 @@
-{% assign pages = site.pages | sort: "title" %}
-
 <ul>
   <li><a href="/">Playbook</a></li>
-  <li>
-    <a href="/guides">Guides</a>
-    <ul>
-      {% for p in pages %}{% if p.path contains 'guides/' and p.title !=
-      'Guides' %}
-      <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-      {% endif %}{% endfor %}
+  <li class="dropdown">
+    <button
+      type="button"
+      class="dropdown__title"
+      aria-expanded="false"
+      aria-controls="guides-dropdown"
+    >Guides</button>
+    <ul class="dropdown__menu" id="guides-dropdown">
+      {% for guide in site.guides %}
+        {% if guide.title != 'Guides' %}
+          <li>
+            <a href="{{ guide.url }}">{{ guide.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
     </ul>
   </li>
 </ul>
-
-<div class="logo">
-  <a href="/" title="Back to Playbook home page">
-    <img src="/dist/dmark.png" alt="" width="32" height="32" />
-  </a>
-</div>

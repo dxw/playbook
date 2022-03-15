@@ -1,0 +1,13 @@
+---
+title: Guides
+---
+
+<ul>
+  {% for guide in site.guides %}
+    {% if guide.title != 'Guides' %}
+      <li>
+        <a href="{{ guide.url }}">{{ guide.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

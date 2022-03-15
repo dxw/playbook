@@ -1,6 +1,0 @@
-extends: existence
-message: "plugin not '%s'"
-level: error
-ignorecase: true
-raw:
-  - (?:\bplug-in\b)

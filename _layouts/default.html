@@ -1,30 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
-    <meta charset="UTF-8" />
-    <title>dxw Playbook</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/dist/main.css" />
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+    <title>
+      {% if page.title %}{{ page.title | escape }} - {% endif %}dxw Playbook
+    </title>
+        
+    <link rel="stylesheet" href="/assets/main.css">
   </head>
-
-  <body class="ready sticky">
-    <a class="skip" id="skip-to-content" href="#main">Skip to content</a>
-    <nav class="app-nav" aria-label="Main">{% include navigation.html %}</nav>
+  <body>
+    <nav class="app-nav" aria-label="Main Navigation">{% include navigation.html %}</nav>
     <aside class="sidebar">
-      <div class="search" role="search">
-        <div class="input-wrap">
-          <input
-            type="search"
-            value=""
-            aria-label="Search text"
-            placeholder="Type to search"
-          />
-        </div>
-        <div class="results-panel"></div>
-      </div>
       <nav class="sidebar-nav" aria-label="sidebar">{% sidebar_nav %}</nav>
+      <div id="contribute">
+        <a href="/admin">Contribute</a>
+      </div>
     </aside>
     <main>
       <section class="content">
@@ -34,24 +26,5 @@
         </article>
       </section>
     </main>
-    <footer>
-      <button class="sidebar-toggle" aria-label="Toggle Navigation">
-        <div class="sidebar-toggle-button">
-          <span></span><span></span><span></span>
-        </div>
-      </button>
-    </footer>
-    <script type="text/javascript" src="/dist/main.js"></script>
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", (user) => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
   </body>
 </html>

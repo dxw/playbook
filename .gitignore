@@ -1,16 +1,7 @@
-# system files
-.DS_Store
-
-# dependencies
-_styles/proselint/
-_styles/write-good/
-.bundle/
-node_modules/
-vendor/
-npm-debug.log
-
-# build artefacts
-/.jekyll-cache/
-/_site/
-/dist/
-/tmp/
+_site
+.bundle
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+node_modules
+vendor

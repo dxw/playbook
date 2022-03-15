@@ -1,46 +1,7 @@
 {
-  "name": "dxw-playbook",
+  "name": "playbook",
   "private": true,
-  "dependencies": {
-    "@babel/preset-env": "^7.16.7",
-    "babel-loader": "^8.2.3",
-    "copy-webpack-plugin": "^9.0.1",
-    "core-js": "^3.19.3",
-    "css-loader": "^6.5.1",
-    "docsify": "4.12.1",
-    "eslint": "^8.4.0",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "jest": "^27.4.5",
-    "mini-css-extract-plugin": "^2.4.5",
-    "node-sass": "^7.0.1",
-    "prettier": "^2.5.1",
-    "sass-loader": "^12.1.0",
-    "webpack": "^5.61.0",
-    "webpack-cli": "^4.8.0"
-  },
-  "jest": {
-    "testEnvironment": "jsdom"
-  },
-  "scripts": {
-    "build": "webpack --mode=production",
-    "build:dev": "webpack --mode=development",
-    "build:dev:watch": "npm run build:dev -- --watch",
-    "test": "jest",
-    "lint": "npm run lint:prose && npm run format && npm run lint:js && npm run lint:ruby && npm run lint:shell",
-    "lint:fix": "npm run lint:prose && npm run format:fix && npm run lint:js:fix && npm run lint:ruby:fix && npm run lint:shell",
-    "lint:js": "eslint .",
-    "lint:js:fix": "npm run lint:js -- --fix",
-    "lint:prose": "vale index.md _includes/* guides/*",
-    "lint:prose:suggestions": "npm run lint:prose -- --minAlertLevel suggestion",
-    "lint:ruby": "bundle exec standardrb",
-    "lint:ruby:fix": "npm run lint:ruby -- --fix",
-    "lint:shell": "shellcheck script/*",
-    "format": "prettier --check '**/*'",
-    "format:fix": "prettier --write '**/*'",
-    "prepare": "husky install"
-  },
   "devDependencies": {
-    "husky": "^7.0.4"
+    "normalize.css": "^8.0.1"
   }
 }
