@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: dxw/playbook2
+  repo: dxw/playbook
   branch: main
   open_authoring: true
 media_library:
