@@ -1,11 +1,9 @@
 source "https://rubygems.org"
-
-gem "foreman"
-gem "jekyll"
+gem "jekyll", "~> 4.2.1"
 gem "nokogiri"
-gem "standard"
 
+# If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "pry"
-  gem "jekyll_frontmatter_tests"
+  gem "jekyll-sass-converter", github: 'jekyll/jekyll-sass-converter'
+  gem "sass-embedded"
 end

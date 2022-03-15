@@ -1,6 +1,0 @@
-extends: existence
-message: "GovPress not '%s'"
-level: error
-ignorecase: false
-raw:
-  - (?:\bGovpress\b|\bGov Press\b)

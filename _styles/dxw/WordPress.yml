@@ -1,6 +1,0 @@
-extends: existence
-message: "WordPress not '%s'"
-level: error
-ignorecase: false
-raw:
-  - (?:\bWordpress\|\bWord Press\b|\bWord press\b)

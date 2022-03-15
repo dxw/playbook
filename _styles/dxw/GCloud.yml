@@ -1,6 +1,0 @@
-extends: existence
-message: "G-Cloud not '%s'"
-level: error
-ignorecase: false
-raw:
-  - (?:\bG-cloud\b|\bG Cloud\b|\bG cloud\b|\bg-cloud\b|\bGCloud\b|\bGcloud\b)

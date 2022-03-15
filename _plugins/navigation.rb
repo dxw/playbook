@@ -15,8 +15,12 @@ module Jekyll
       title + nav
     end
 
+    def all_pages(context)
+      context.registers[:site].pages + context.registers[:site].collections["guides"].docs
+    end
+
     def page(context)
-      context.registers[:site].pages.detect { |p| p.path == context["page"]["path"] }
+      all_pages(context).detect { |p| p.relative_path == context["page"]["path"] }
     end
 
     private
