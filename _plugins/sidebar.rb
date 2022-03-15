@@ -27,15 +27,15 @@ module Jekyll
 
     def render_page_title(title = "dxw's Playbook")
       <<-EOS
-      <h1 class="page-title">#{title}</h1>
+      <h1>#{title}</h1>
       EOS
     end
 
     def render_list(heading)
       <<-EOS
       <ul>
-        <li data-title="#{heading[:text]}" data-content="#{heading[:content]}">
-          <a href="##{heading[:id]}" data-target="#{heading[:id]}">#{heading[:text]}</a>
+        <li>
+          <a href="##{heading[:id]}">#{heading[:text]}</a>
           #{render_subheadings(heading[:subheadings])}
         </li>
       </ul>
@@ -54,18 +54,11 @@ module Jekyll
         {
           text: heading.text,
           id: heading.attributes["id"].value,
-          content: get_content(heading),
           subheadings: get_headings_and_subheadings(headings, heading_level + 1)
         }
       end
     end
-
-    def get_content(heading)
-      current_heading_selector = "#{heading.name}[@id='#{heading.attributes["id"]}']"
-      following_content = @doc.xpath("//#{current_heading_selector}/following-sibling::*")
-      following_content.slice_before { |s| s.name.match(/h/) }.first.map(&:text).join
-    end
   end
 end
 
-Liquid::Template.register_tag("sidebar_nav", Jekyll::NavigationGenerator)
+Liquid::Template.register_tag("sidebar", Jekyll::NavigationGenerator)

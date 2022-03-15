@@ -1,0 +1,7 @@
+$large: 800px;
+
+@mixin on-large-screens {
+  @media screen and (min-width: $large) {
+    @content;
+  }
+}

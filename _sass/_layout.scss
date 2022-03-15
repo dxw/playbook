@@ -1,0 +1,12 @@
+@use "./navbar";
+
+* {
+  box-sizing: border-box;
+}
+
+main {
+  margin-top: navbar.$height;
+  height: calc(100vh - navbar.$height);
+  display: flex;
+  overflow: hidden;
+}

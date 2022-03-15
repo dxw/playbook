@@ -45,7 +45,7 @@ ways you can find ideas:
   * Include weblinks and an estimate of the ticket, accommodation and travel
     costs (up to the maximum of £1,000, though you are welcome to pay the
     difference for more expensive events)
-* Once it’s approved, post in the #dxw-learning-and-development-bookings channel
+* Once it’s approved, post in the #help-learning-and-development-bookings channel
   if you would like support with payment. You can also purchase yourself and
   make an expense claim
 * Think about sharing event with the rest of your team if it's something other
@@ -66,7 +66,7 @@ ways you can find ideas:
 ### If you need help
 
 * Contact the HR team, or ask a question in Slack
-  (#dxw-learning-and-development-bookings)
+  (#help-learning-and-development-bookings)
 
 ### The small print
 

@@ -873,8 +873,7 @@ sign off and publishing of posts. Get in touch through the
 The marketing team run dxw’s
 [official Twitter account](https://twitter.com/dxw).
 
-When we tweet we use the dxw
-[tone of voice](https://playbook.dxw.com/#/guides/tone-of-voice).
+When we tweet we use the dxw [tone of voice](/guides/tone-of-voice).
 
 We encourage people to work openly and to tweet about the work they’re doing,
 their learning and ideas from their own accounts. You should be careful not to
@@ -957,11 +956,34 @@ and to improve our practices, separate from the clients we work for.
 
 #### Working from home
 
-Generally, we work either at our office or at client sites. But it's usually
-fine to work from home from time to time, or in order to complete a specific
-task. If you're working apart from your team, it is essential that you remain
-contactable and productive, and the onus is on you to be especially
-communicative.
+We are able to work successfully in a remote capacity, from our homes. On occasions, it may be necessary to work from one of our office spaces, a client location or another location approved by dxw  in order to complete a specific task. It is important that you remain contactable and productive. 
+
+#### Working from Overseas Policy
+
+dxw is a UK-based business, with staff working from locations around the UK.
+
+We don't support overseas employment unless exceptional circumstances apply. This is because there are usually significant overheads involved in complying with local employment laws, registering for and paying the relevant taxes. 
+
+If you believe there are exceptional circumstances, a request can be made for consideration via your line manager. All decisions must be made by a Director. 
+
+We will take the following factors into account for any cases we consider. 
+
+The legal framework for a decision:
+
+* the individual’s right to work in a particular location 
+* the employer’s obligation to comply with the relevant country’s employment laws, and how complex and costly that is to achieve
+* the employer’s obligation to comply with the relevant country’s taxation rules, and how complex and costly that is to achieve
+
+Operational challenges we need to be comfortable with:
+
+* management of time zones
+* management of a fully remote team member
+* client and contractual procurement needs 
+* the requirements of the role
+
+We would expect individuals to meet any costs (travel, internet, equipment etc) associated with their working overseas. 
+
+dxw will always retain the right to ask you to return to the UK for work with suitable notice, in line with our employment contract.
 
 #### Reporting your time
 
@@ -1237,6 +1259,91 @@ passing of their probationary period.
 Please tell us promptly if your name, address, telephone number, next of kin
 details or banking details change.
 
+#### Pay Policy
+
+##### Purpose
+
+The purpose of the dxw pay policy is to give us a framework to pay salaries at
+the highest level we can, in the fairest way possible and in the most
+sustainable way for the long-term commercial health of the business. Alongside
+our mission and values, and the way we look after and develop our teams, it’s an
+important part of us being able to attract and retain great people.
+
+##### Principles
+
+The following principles underpin the policy:
+
+* Transparency
+* Parity amongst similar roles
+* Equality of pay for those with the same role
+* Clear levels of responsibility and accountability
+* Clear career progression
+
+##### How the policy works
+
+1. Applies to all staff in both billable and non billable teams. Statutory
+   directors will each have a performance framework that is independent from
+   this policy.
+2. Billable team pay has published pay points per level, that are based on 3
+   main factors:
+
+   * [Skills for the Information Age (SFIA)](https://assets.digitalmarketplace.service.gov.uk/g-cloud-12/documents/92768/886204607156866-sfia-rate-card-2020-07-17-1338.pdf)
+     standards and rates which clients use to measure dxw against
+   * profitability margins based on expected billable rates
+   * the labour market and salaries based on this
+3. Non billable team pay has published pay bands that are based fundamentally on
+   the labour market, but could also include other factors such as professional
+   qualifications and sales targets.
+4. Each director is responsible for overseeing pay for their teams and has
+   overall responsibility for justifying decisions against the principles and
+   criteria in this policy. This policy will be reviewed at least every 2 years.
+   The review will take place between October and February, to avoid changes to
+   salaries shortly before the annual CPI rise. Any changes to pay points /
+   bands will be subject to approval by the dxw board.
+5. For roles equivalent to
+   [SFIA levels 1-5](https://assets.digitalmarketplace.service.gov.uk/g-cloud-12/documents/92768/886204607156866-sfia-rate-card-2020-07-17-1338.pdf)
+   we would expect promotions or pay changes to be handled within the team based
+   on the progression framework, with a director or delegated head of taking
+   responsibility for this
+6. For roles that are more senior i.e.
+   [SFIA level 6](https://assets.digitalmarketplace.service.gov.uk/g-cloud-12/documents/92768/886204607156866-sfia-rate-card-2020-07-17-1338.pdf)
+   equivalent or above we would expect the board to consider these, with
+   internal interview panels to help make a decision (where necessary)
+7. Everyone should have an annual review of their performance and career
+   progression and pay as a minimum after passing probation. It's up to each
+   line manager to arrange more frequent check-ins on progression, so that the
+   outcome of the annual review is not a surprise
+8. Line managers are responsible for ensuring that all staff are given equal
+   opportunities, and pay discussions are fair and inclusive. If staff would
+   like an independent opinion in these discussions, they should contact Vanessa
+   in the first instance who can facilitate.
+9. dxw works with an independent HR advisor, who can assist if needed to help
+   resolve any issues.
+
+##### Cost of living
+
+10. London weighting of £4,000 per year applies to staff who earn under £40,000 per year to help them with the additional costs of living in London.
+
+    * This applies to people who live in a London borough.
+    * If someone’s salary increases above this level, London weighting will
+      gradually taper off (by £500 for each £1000 of extra salary) between £40,000
+      and £48,000
+    * The rationale for these numbers is taken from Trust for London research which
+      shows London weighting materially benefits people on salaries under £40,000.
+    * It is subject to tax & NI and is not pensionable
+    * It is a fixed rate, not uplifted by CPI
+11. Annual cost of living CPI rises will apply for staff if the company achieves turnover above its minimum target for the preceding financial year.
+
+    * If you’ve passed your probation then you’ll receive your raise in October
+      payroll
+    * CPI rises will not apply to people who for historic reasons are above the
+      maximum pay level for their role, to help us gradually align salaries for
+      similar roles
+    * If someone is under formal disciplinary or performance procedures, their CPI
+      rise will be postponed while this is ongoing
+    * The CPI figure comes from published Office of National Statistics data
+12. We are committed to paying the London living wage or higher for all staff.
+
 #### Cost of living raise
 
 dxw will institute a cost of living raise each year on 1st October. The
@@ -1356,7 +1463,7 @@ they know when to expect to hear from you.
 When you return to work, you must check your sickness has been correctly
 recorded in BreatheHR, update it if necessary and mark yourself as returned to
 work. Your line manager will then review and close the sick leave. If you're
-sick for more than 7 calendar days in a row, you'll also need to provide a
+sick for more than 28 calendar days in a row, you'll also need to provide a
 doctor's note.
 
 ##### Absence meetings
@@ -1471,8 +1578,29 @@ the HR team know, so we can support you in the right way. If you are on a
 project, we can then work with your delivery lead to manage the impact on the
 team.
 
-To record the compassionate leave in BreatheHR, choose Other as the Type of
-Leave, and choose Compassionate as the Reason.
+Compassionate leave is likely to affect many of us at some time or other, in
+many different ways. Typically compassionate leave covers things like
+bereavement or the sudden illness of close relatives and friends. But we
+understand that loss can manifest itself in other forms which can affect your
+wellbeing.
+
+This policy aims to set some guidance for line managers while also allowing
+reasonable flexibility to reflect different circumstances.
+
+In the first instance, line managers can allow up to 3 days of paid
+compassionate leave. They should consult their Director for approval if they
+think further paid leave may be appropriate in the circumstances.
+
+Our automatic parental bereavement entitlement is 2 weeks of paid leave, as set
+out by [ACAS](https://www.acas.org.uk/time-off-for-bereavement/parental-bereavement-leave-pay).
+
+There is the option for additional time off to be taken using annual or unpaid
+leave. This should be agreed between the line manager and Director, in
+consultation with HR. We can also provide support for people returning to work
+in line with our existing policies.
+
+To record compassionate leave in BreatheHR, choose Other as the Type of Leave,
+and choose Compassionate as the Reason.
 
 #### Parental leave
 
@@ -1540,11 +1668,11 @@ of your normal salary.
 As with all company benefits, you will be entitled to Occupational Maternity Pay
 once you are no longer on your probationary period. For the Statutory Maternity
 Pay eligibility criteria, please refer to
-[government eligibility information](https://www.gov.uk/maternity-pay-leave/eligibility).
+[government eligibility information for maternity pay](https://www.gov.uk/maternity-pay-leave/eligibility).
 
 After the 18 weeks, your pay will then reduce to the
-[government statutory rate](https://www.gov.uk/maternity-pay-leave/pay) per week
-for the following 21 weeks.
+[government statutory rate for maternity pay](https://www.gov.uk/maternity-pay-leave/pay)
+per week for the following 21 weeks.
 
 A person giving birth must take at least the first 2 weeks after the birth as
 parental leave.
@@ -1592,11 +1720,11 @@ have 18 weeks of leave on 100% of your normal salary.
 As with all company benefits, you will be entitled to Occupational Adoption Pay
 once you are no longer on your probationary period. For the Statutory Adoption
 Pay eligibility criteria, please refer to
-[government eligibility information](https://www.gov.uk/adoption-pay-leave/eligibility).
+[government eligibility information for adoption pay](https://www.gov.uk/adoption-pay-leave/eligibility).
 
 Your pay will then reduce to the
-[government statutory rate](https://www.gov.uk/adoption-pay-leave/pay) per week
-for the following 21 weeks.
+[government statutory rate for adoption pay](https://www.gov.uk/adoption-pay-leave/pay)
+per week for the following 21 weeks.
 
 Only 1 person in a couple can take
 [statutory adoption leave](https://www.gov.uk/adoption-pay-leave/leave). The
@@ -1635,11 +1763,11 @@ have 18 weeks of leave on 100% of your normal salary.
 As with all company benefits, you will be entitled to Occupational Adoption Pay
 once you are no longer on your probationary period. For the Statutory Adoption
 Pay eligibility criteria, please refer to
-[government eligibility information](https://www.gov.uk/adoption-pay-leave/eligibility).
+[government eligibility information for adoption pay](https://www.gov.uk/adoption-pay-leave/eligibility).
 
 Your pay will then reduce to the
-[government statutory rate](https://www.gov.uk/adoption-pay-leave/pay) per week
-for the following 21 weeks.
+[government statutory rate for adoption pay](https://www.gov.uk/adoption-pay-leave/pay)
+per week for the following 21 weeks.
 
 Only 1 person in a couple can take adoption leave. The other partner could get
 secondary carer leave/pay instead (see secondary carer section below).
@@ -1850,16 +1978,7 @@ a phased return to work. If this interests you, please talk to us when applying.
 
 ##### Remote working/location
 
-Generally, we work either at our office or at client sites.
-
-We’re happy to support working from home from a logistical or well-being related
-perspective. While we don’t support fully-remote roles (legacy arrangements
-being the exception), we can look at anything from 1–3 days per week following a
-discussion.
-
-If you need to work from home for a one-off thing then that doesn’t require
-contractual arrangement – just talk about it with your team before the day, make
-sure you note it in your calendar and include it in your standup note that day.
+We are able to work successfully in a remote capacity, from our homes. On occasions, it may be necessary to work from one of our office spaces, a client location or another location approved by dxw  in order to complete a specific task. It is important that you remain contactable and productive. 
 
 ##### Changing your working arrangement
 
@@ -1975,7 +2094,7 @@ faced, the options considered, proposed solution, and a plan for implementation.
 To ensure this is a fair and robust process, it will be reviewed and agreed with
 the Advisory Board/Shareholders, before the following actions are taken:
 
-###### 1. Inform affected employees as soon as their jobs are at risk
+##### 1. Inform affected employees as soon as their jobs are at risk
 
 We will organise a face-to-face meeting to tell you if your job is at risk of
 redundancy. As at the moment we all work remotely, we would organise this by
@@ -1983,7 +2102,7 @@ slack/email, with the meeting held over video conference. If in the future we're
 back in an office, we'd do this in person. We will follow up that meeting with a
 formal ‘at risk’ notification.
 
-###### 2. Consult staff affected about proposals for change
+##### 2. Consult staff affected about proposals for change
 
 For staff at risk, with more than two years service, there is a formal legal
 consultation period, where we ask you to think about our proposals for change,
@@ -1999,7 +2118,7 @@ will consider any redeployment opportunities, or other possible measures to
 avoid redundancy. You would have the right to be accompanied by a work colleague
 or a Trade Union representative.
 
-###### 3. Inform & consult with the wider staff body
+##### 3. Inform & consult with the wider staff body
 
 There is no legal obligation to consult with the wider staff body (unless there
 are more than 20 jobs at risk within a 90 day period), or with at-risk staff
@@ -2013,7 +2132,7 @@ publish a bikeshed, detailing the proposal for change, and asking for feedback.
 An exception to this may arise if an individual role is affected, rather than a
 group, as it may cause more discomfort and anxiety by publishing a bikeshed.
 
-###### 4. Decision on proposal
+##### 4. Decision on proposal
 
 Following consultation, final decisions on the proposal will be taken by the
 Directors. Full consideration will be given to anything arising through the
@@ -2025,7 +2144,7 @@ Where selection for redundancy is confirmed, the affected employee will be given
 written notice of termination in accordance with the terms of their contract.
 The letter will also confirm the right to appeal the decision.
 
-###### 5. Appeal
+##### 5. Appeal
 
 The affected staff members have the right to appeal against the decision to
 terminate their employment on the grounds of redundancy. The appeal should be
@@ -2059,38 +2178,6 @@ period, and any unused holiday entitlement accrued up to your leaving date
 together with your statutory redundancy pay.
 
 ### Supporting your development and wellbeing
-
-#### People manager and HR surgeries
-
-The bi-weekly HR surgeries are there to give an opportunity for members of the
-team to discuss matters they might not feel able to raise with buddies/delivery
-leads/line managers or that are specialist to the HR function in dxw.
-
-The list is not exhaustive but some topics might include:
-
-* Holiday
-* Sickness
-* Pay
-* Expenses
-* Parental Leave
-* Accessibility
-* Probation
-* Pensions
-* Occupational health issues
-* Contractual matters
-* Working patterns/locations
-* Training and career progression
-* Diversity
-* Inclusivity
-* Stress management
-* Interpersonal issues
-* Bereavement
-* Grievance and disciplinary matters
-* Facilitation/scheduling of conversations with Directors/heads-of, such as
-  Salary Reviews
-
-Bookable slots are available on Wednesdays and Fridays at 11am but the People
-Manager’s door is always open.
 
 #### Line managers
 
@@ -2218,6 +2305,111 @@ Feel free to make a copy and alter it according to your own needs.
 Here’s a great article on
 [7 ways to prepare for an effective one-on-one meeting with your manager.](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
 
+#### People and HR Team
+
+The People and HR team is here to support you during your time at dxw. We provide administrative, wellbeing, learning and development, line manager and professional support and guidance.
+
+We have a CIPD Level 5 trained HR People Manager and an administrator to support the HR and Recruitment function - both of whom are Mental Health First Aid trained. We also have an independent HR advisor to provide additional support when needed.
+
+We have a public slack channel for general non-sensitive questions, #help-hr-non-confidential, which is monitored by the team.
+
+We also have a weekly Ask HR slot at 11am on Wednesdays, to provide a regular opportunity to get advice and support. The door is always open though, so you can also always book an ad-hoc slot with the HR People Manager to discuss matters you might not feel able to raise with others in your [support path](https://playbook.dxw.com/#other-support-paths), or that are specialist to the HR function in dxw.
+
+The list is not exhaustive but some topics might include:
+
+* Accessibility
+* Bereavement
+* Contractual matters
+* Diversity
+* Expenses
+* Facilitation/scheduling of conversations with Directors/heads-of
+* Grievance & disciplinary matters
+* Holiday
+* Inclusivity
+* Interpersonal issues
+* Mental health first aid
+* Occupational health issues
+* Pay (second line of support after line managers)
+* Parental leave
+* Probation
+* Pensions
+* Sickness
+* Stress management
+* Training and career progression
+* Working patterns/locations
+
+#### Other support paths
+
+##### Helpers
+
+When you join dxw you will be assigned a helper. This person will work closely
+with you for at least your first 4 months. They will do a similar job to you,
+help you meet members of the wider team, catch up with you on at least a 3/6/12
+week basis to ensure you are receiving everything you need, and will NEVER get
+bored of your questions!
+
+If you feel that you’re not getting as much time with your helper as you’d like,
+please speak to the People Manager.
+
+As a helper, you will be vital in ensuring you have the regular catch ups - if
+you are finding it hard to schedule them, please do talk to Bus Ops.
+
+For more information on being a helper, please see the
+[checklist](https://docs.google.com/document/d/1QPv7Mg7TTlt_OyLRtstAtPQBcId-ct-uTbWqYnso2jI)
+or speak to the People Manager.
+
+##### Buddies
+
+Once you have passed your 4 month probation, we would like you to choose a buddy
+within the company to support you.
+
+We recommend this person **doesn’t** work directly with you, someone in a
+different role and that you don’t work closely with on projects, as this will
+give you a second point of view and a whole new set of experiences to draw on.
+
+This is not mandatory, just recommended and similarly not everyone may wish to
+be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t
+have to be. Also, if you feel that a change of buddy would benefit you for
+whatever reason or that you’re no longer able to be a buddy, this should also
+not be an awkward situation. If you have any concerns, have a chat with the
+People Manager.
+
+The buddy system is there to help us all improve, to make sure we're doing the
+right kind of work and to check that we're dealing with practical problems we're
+facing. It's not line management, so it's not the right place to talk about
+holiday, salary, sickness, absence or anything disciplinary. If you need to talk
+about those things, talk to the People Manager.
+
+If you want to know more about how the buddy system works, how often to meet and
+suggested discussion topics, see the buddy
+[crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing).
+This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet
+up.
+
+##### Your delivery lead (for those on client work)
+
+There will be opportunities within the delivery team to raise any issues or
+concerns you might have e.g. retrospectives or planning sessions. As well as
+this, or if you’d prefer to talk one on one, the delivery lead working on the
+project will be available to provide support and guidance.
+
+##### Directors and heads-of
+
+All members of the Directors and heads-of team are here to help answer any
+questions you might have. Your own Director and/or Head-of profession or
+location is there to provide support on matters relating to dxw and your career
+with us, as well as profession specific questions. Similarly, they are here if
+you need to escalate any job-related concerns.
+
+##### Our Managing Director, Dave
+
+At dxw, all doors are open if you need to raise a concern or just have a chat -
+this includes our MD. Dave is always available to discuss any questions you have
+about the company and its future. Equally, if you feel you need to escalate
+anything to him, don’t hesitate to get in touch. Dave's diary is open and you
+can see it on Google Calendar. If you would like to schedule some time with him,
+please feel free to book something.
+
 #### Learning and Development
 
 Everybody at dxw gets a yearly learning and development allowance of £1,000 and
@@ -2281,78 +2473,6 @@ dxw will pay for the equipment needed to enable you to work comfortably and
 safely. dxw also offers a budget of £25 towards a work backpack. Use the
 help-purchasing Slack channel to request any equipment you need, or talk to
 anyone in business operations if you are unsure if a purchase will be covered.
-
-#### Support paths
-
-##### Helpers
-
-When you join dxw you will be assigned a helper. This person will work closely
-with you for at least your first 4 months. They will do a similar job to you,
-help you meet members of the wider team, catch up with you on at least a 3/6/12
-week basis to ensure you are receiving everything you need, and will NEVER get
-bored of your questions!
-
-If you feel that you’re not getting as much time with your helper as you’d like,
-please speak to the People Manager.
-
-As a helper, you will be vital in ensuring you have the regular catch ups - if
-you are finding it hard to schedule them, please do talk to Bus Ops.
-
-For more information on being a helper, please see the
-[checklist](https://docs.google.com/document/d/1QPv7Mg7TTlt_OyLRtstAtPQBcId-ct-uTbWqYnso2jI)
-or speak to the People Manager.
-
-##### Buddies
-
-Once you have passed your 4 month probation, we would like you to choose a buddy
-within the company to support you.
-
-We recommend this person **doesn’t** work directly with you, someone in a
-different role and that you don’t work closely with on projects, as this will
-give you a second pair of ears and a whole new set of experiences to draw on.
-
-This is not mandatory, just recommended and similarly not everyone may wish to
-be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t
-have to be. Also, if you feel that a change of buddy would benefit you for
-whatever reason or that you’re no longer able to be a buddy, this should also
-not be an awkward situation. If you have any concerns, have a chat with the
-People Manager.
-
-The buddy system is there to help us all improve, to make sure we're doing the
-right kind of work and to check that we're dealing with practical problems we're
-facing. It's not line management, so it's not the right place to talk about
-holiday, salary, sickness, absence or anything disciplinary. If you need to talk
-about those things, talk to the People Manager.
-
-If you want to know more about how the buddy system works, how often to meet and
-suggested discussion topics, see the buddy
-[crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing).
-This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet
-up.
-
-##### Your delivery lead (for those on client work)
-
-There will be opportunities within the delivery team to raise any issues or
-concerns you might have e.g. retrospectives or planning sessions. As well as
-this, or if you’d prefer to talk one on one, the delivery lead working on the
-project will be available to provide support and guidance.
-
-##### Directors and heads-of
-
-All members of the Directors and heads-of team are here to help answer any
-questions you might have. Your own Director and/or Head-of profession or
-location is there to provide support on matters relating to dxw and your career
-with us, as well as profession specific questions. Similarly, they are here if
-you need to escalate any job-related concerns.
-
-##### Our Managing Director, Dave
-
-At dxw, all doors are open if you need to raise a concern or just have a chat -
-this includes our MD. Dave is always available to discuss any questions you have
-about the company and its future. Equally, if you feel you need to escalate
-anything to him, don’t hesitate to get in touch. Dave's diary is open and you
-can see it on Google Calendar. If you would like to schedule some time with him,
-please feel free to book something.
 
 ### Hiring new people
 
@@ -2484,17 +2604,37 @@ Offers are subject to successfully completing eligibility to work in the UK
 checks and a background check including BPSS and BS7858. We need to do this
 vetting due to restrictions in our client contracts.
 
-##### Onboarding and probation
+### What to expect when joining dxw as an employee
+
+#### Onboarding
+
+After you’ve accepted a role at dxw a member of our HR team will be in touch with you to discuss your laptop, our vetting process and to answer any questions you may have. On your first day you will receive a welcome trello which will tell you who your line manager and helper are, things to read and welcome notes from the team.
+
+#### What your first few days will look like
+
+Below is a rough outline of what to expect from your first two days at dxw.
+
+##### Day 1
+
+* Laptop & password set up (led by a tech team member)
+* Security chat, password chat & sign documents
+* Lunch / Zoom welcome
+* HR welcome chat with Passport & P45 check
+* Meet your manager 
+
+##### Day 2
+
+* Helper welcome chat
+* Half-day of self-led training (including any help with software)
+* Employee led tasks from your Trello 
+
+#### Probation
 
 New starters are subject to a probation period of 4 months with dxw having the
 option to extend by 2 months. Probationary periods go both ways, it is also a
 chance for a new employee to find their feet and dxws way of working. In your
 probation meeting your line manager will share feedback that they have gathered
 from those you have worked with closely.
-
-Onboarding will vary by role and experience. New starters have a checklist they
-follow to guide them through their first few weeks. New starters will be paired
-with a [helper](https://playbook.dxw.com/#support-paths) from their first day.
 
 #### Returners' programme
 
@@ -2509,7 +2649,7 @@ member of the team at the end of the placement, but this isn’t guaranteed.
 Initially this opportunity will only be offered within our London team, with a
 view to including our Leeds office as the team there grows.
 
-##### Who supports you?
+#### Who supports you?
 
 You will be supported by our people team from the point of application.
 
@@ -2525,7 +2665,7 @@ If you join us, you’ll be continuously supported by our people team, a line
 manager and a mentor within the same field. You‘ll have regular check ins with
 the team where you can speak openly about anything that’s on your mind.
 
-##### Client facing role
+#### Client facing role
 
 For client-facing roles we’ll start billing your time back to the client when we
 feel the time is right. This will be something we discuss openly during the
@@ -3004,7 +3144,7 @@ Designers at dxw follow these principles:
 
    Becoming stuck when solving problems for long periods of time can be
    frustrating and unproductive. We invite each other to ask for our help when
-   these situations happen as a second pair of eyes with a fresh perspective
+   these situations happen as a second point of view with a fresh perspective
    often unlocks a problem relatively quickly.
 
    Code written by teams sprinting on client work is represented in Trello (or

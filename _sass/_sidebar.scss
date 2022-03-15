@@ -1,0 +1,146 @@
+@use "sass:math";
+
+@use "./breakpoints";
+@use "./colours";
+@use "./navbar";
+@use "./typography";
+
+$button-thickness: 0.25em;
+$button-side: 3 * $button-thickness + 2 * 0.4em;
+$horizontal-padding: 1em;
+$small-max-width: 90vw;
+$small-width: 24em;
+$small-collapsed-width: $button-side + $horizontal-padding;
+$large-max-width: 35vw;
+$large-width: 14em;
+$font-family: typography.$heading-font-family;
+$font-weight: typography.$heading-font-weight;
+$font-size: 1.2em;
+
+.sidebar {
+  position: fixed;
+  margin-bottom: 2.5em;
+  max-width: $small-max-width;
+  width: $small-width;
+  height: calc(100% - 2.5em - navbar.$height);
+  padding: 0.5em $horizontal-padding;
+  padding-right: $small-collapsed-width;
+  transform: translateX(calc(-100% + $small-collapsed-width));
+  background-color: colours.$cream;
+  font-family: $font-family;
+  font-weight: $font-weight;
+  font-size: $font-size;
+  transition: transform 0.2s, padding 0.2s;
+  will-change: transform, padding;
+
+  &:target {
+    padding-right: $horizontal-padding;
+    transform: translateX(0);
+    overflow-y: auto;
+  }
+
+  h1 {
+    margin: 1.2em 0;
+    font-size: 1.2em;
+    text-align: center;
+  }
+
+  a {
+    display: block;
+    margin-bottom: 0.5em;
+    padding-left: 2em;
+    text-indent: -2em;
+    text-decoration: none;
+
+    &:hover,
+    &:focus,
+    &:active {
+      text-decoration-line: underline;
+      text-decoration-thickness: 0.15em;
+      text-decoration-color: colours.$accent-b;
+    }
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      margin: 0;
+    }
+  }
+
+  nav > ul {
+    margin-bottom: 1em;
+
+    ul {
+      font-size: 0.85em;
+
+      ul {
+        margin-left: 1em;
+      }
+    }
+  }
+
+  @include breakpoints.on-large-screens {
+    position: unset;
+    max-width: $large-max-width;
+    width: $large-width;
+    height: unset;
+    padding-right: $horizontal-padding;
+    transform: translateX(0);
+    overflow-y: auto;
+  }
+}
+
+.sidebar-toggle-button {
+  position: fixed;
+  top: calc(navbar.$height + $horizontal-padding / 2);
+  left: math.div($horizontal-padding, 2);
+  width: $button-side;
+  height: $button-side;
+  font-size: $font-size;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: left 0.2s;
+
+  div {
+    width: 100%;
+    height: $button-thickness;
+    background-color: colours.$accent-b;
+    transform-origin: center;
+    transition: transform 0.2s;
+  }
+
+  @include breakpoints.on-large-screens {
+    display: none;
+  }
+}
+
+.sidebar:target ~ .sidebar-toggle-button {
+  left: min(
+    $small-width - $button-side - $horizontal-padding / 2,
+    $small-max-width - $button-side - $horizontal-padding / 2
+  );
+
+  div {
+    transform: scaleX(0);
+
+    &:first-child {
+      transform: translateY(math.div($button-side - $button-thickness, 2))
+        rotate(-45deg);
+    }
+
+    &:last-child {
+      transform: translateY(math.div($button-side - $button-thickness, -2))
+        rotate(45deg);
+    }
+  }
+}
+
+.sidebar:target + .sidebar-toggle-button,
+.sidebar:not(:target) + .sidebar-toggle-button + .sidebar-toggle-button {
+  pointer-events: none;
+}
