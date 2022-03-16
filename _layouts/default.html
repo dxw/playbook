@@ -1,30 +1,28 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-GB">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
     <title>
-      {% if page.title %}{{ page.title | escape }} - {% endif %}dxw Playbook
+      {% if page.title and page.title != "dxw's Playbook" %}{{ page.title | escape }} - {% endif %}Playbook - dxw
     </title>
-        
-    <link rel="stylesheet" href="/assets/main.css">
+
+    <link rel="stylesheet" href="/assets/main.css" />
   </head>
   <body>
-    <nav class="app-nav" aria-label="Main Navigation">{% include navigation.html %}</nav>
-    <aside class="sidebar">
-      <nav class="sidebar-nav" aria-label="sidebar">{% sidebar_nav %}</nav>
-      <div id="contribute">
-        <a href="/admin">Contribute</a>
-      </div>
-    </aside>
+    {% include navbar.html %}
     <main>
-      <section class="content">
-        <article class="markdown-section" id="main">
-          <h1>{{ page.title }}</h1>
-          {{ content }}
-        </article>
-      </section>
+      {% if page.sidebar %}
+        {% include sidebar.html %}
+      {% endif %}
+      {% include page-content.html %}
+      {% if page.sidebar %}
+        {% include contribute.html %}
+      {% endif %}
     </main>
   </body>
 </html>

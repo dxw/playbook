@@ -18,9 +18,11 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+      sidebar: true
 collections:
   guides:
     output: true
+    permalink: /:collection/:title
     sort_by: title
 
 # Build settings
