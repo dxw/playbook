@@ -3,7 +3,7 @@ title: Contributing to the Playbook
 ---
 The Playbook is public and anyone, inside or outside of dxw, can suggest changes to it. This means you!
 
-We manage changes via GitHub 'Pull Requests'. If you're experienced in doing this, then all you need to know is that this repository is available at https://github.com/dxw/playbook2
+We manage changes via GitHub 'Pull Requests'. If you're experienced in doing this, then all you need to know is that this repository is available at <https://github.com/dxw/playbook>
 
 If creating a pull request is new to you, then don't worry, here is a guide to use Netlify CMS to create one for you.
 
@@ -25,7 +25,7 @@ You will need a GitHub account. If you don't already have one, then [sign up her
 6. Click 'Save' at the top of the page
 7. Click 'Status: Draft' and choose 'In review'
 
-Your suggested changes will not be live yet. Your suggestions should be available to view on the [GitHub Pull Requests page](https://github.com/dxw/playbook2/pulls). After a few minutes, you should be able to view a preview of the Playbook with your changes by clicking on the URL next to '😎 Browse the preview'
+Your suggested changes will not be live yet. Your suggestions should be available to view on the [GitHub Pull Requests page](https://github.com/dxw/playbook/pulls). After a few minutes, you should be able to view a preview of the Playbook with your changes by clicking on the URL next to '😎 Browse the preview'
 
 ## Reviewing changes
 
