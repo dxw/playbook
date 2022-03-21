@@ -3399,11 +3399,11 @@ The Exec Board is responsible for the day to day leadership and management of th
    The Director of Communications has lead responsibility for managing these costs.  They can spend up to the provision made in the plan, subject to gross profit being on track.  If gross profit is not on track, it's possible that additional expenditure may be needed, if there's a reasonable expectation that it generates more turnover.  This would be agreed  at the Exec Board.
 
 
-5. **Financing costs and taking on debt** \
+5. **Financing costs and taking on debt** 
+
    The Exec Board will a financing strategy for any new material capital projects or acquisitions with the Trustees.
 
-   \
-   The Finance Director has lead responsibility for assessing these commitments and the overall liquidity of the business.  This includes quantifying the level of fixed/floating rate risk taken on.  
+   The Finance Director has lead responsibility for assessing these commitments and the overall liquidity of the business.  This includes quantifying the level of fixed/floating rate risk taken on.
 
 
 6. **Project resourcing decisions**
