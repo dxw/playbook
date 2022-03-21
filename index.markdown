@@ -3370,3 +3370,21 @@ The sales and marketing teams at dxw follow these principles:
    We’re open about our values and the way we work in dxw digital. We give our
    team members a voice because we’re proud of our diverse and inclusive
    culture.
+
+### Finance
+
+#### Delegated authorities
+
+Each year, the Trustees and the Exec Board agree a set of targets for turnover and profitability, based on the financial modelling of the business plan.  The Exec Board are then responsible for delivering on that plan, and report up to the Trustees on progress each quarter.\
+\
+The Exec Board is responsible for the day to day leadership and management of the business.  The sections set out below describe how the financial aspects of that management are organised.  
+
+1. **Salary costs.**   
+
+   The Exec Board agrees the pay policy.  Individual directors can set salaries within the policy.  Should there be any need for an exception to the policy, this must be agreed by the Exec Board. \
+   \
+   Each client-facing director is responsible for delivering the target gross margin produced by their teams.  They can hire (or if necessary, reduce headcount) for their area.  Any proposal to reduce headcount by redundancy (rather than natural attrition) needs to be agreed at the Exec Board.  \
+   \
+   Each central-services Director has provision made in the plan for their staffing costs.  They can hire up to the level of that provision, as long as financial performance is on track.  Any proposal to increase headcount beyond that cost envelope must be agreed by the Exec Board. Should financial performance mean that central costs need to be reduced, any plant to reduce headcount by redundancy must be agreed by the Exec Board.  
+
+2. **Other staff costs**
