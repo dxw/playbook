@@ -3375,16 +3375,35 @@ The sales and marketing teams at dxw follow these principles:
 
 #### Delegated authorities
 
-Each year, the Trustees and the Exec Board agree a set of targets for turnover and profitability, based on the financial modelling of the business plan.  The Exec Board are then responsible for delivering on that plan, and report up to the Trustees on progress each quarter.\
+Each year, the Trustees and the Exec Board agree a set of targets (and a floor) for turnover and profitability, based on the financial modelling of the business plan.  The Exec Board are then responsible for delivering on that plan, and report up to the Trustees on progress each quarter.\
 \
 The Exec Board is responsible for the day to day leadership and management of the business.  The sections set out below describe how the financial aspects of that management are organised.  
 
-1. **Salary costs.**   
+1. **Salary costs**  
 
    The Exec Board agrees the pay policy.  Individual directors can set salaries within the policy.  Should there be any need for an exception to the policy, this must be agreed by the Exec Board. \
    \
    Each client-facing director is responsible for delivering the target gross margin produced by their teams.  They can hire (or if necessary, reduce headcount) for their area.  Any proposal to reduce headcount by redundancy (rather than natural attrition) needs to be agreed at the Exec Board.  \
    \
    Each central-services Director has provision made in the plan for their staffing costs.  They can hire up to the level of that provision, as long as financial performance is on track.  Any proposal to increase headcount beyond that cost envelope must be agreed by the Exec Board. Should financial performance mean that central costs need to be reduced, any plant to reduce headcount by redundancy must be agreed by the Exec Board.  
-
 2. **Other staff costs**
+
+   The Chief Operating Officer has lead responsibility for managing these costs.  They can spend up to the provision made in the plan, subject to gross profit being on track.  If gross profit is not on track, they must look to constrain these costs, such that the net profit 'floor' is achieved.  \
+   \
+   The day to day management of these costs is achieved via various policies (travel, learning & development etc) set by the Chief Operating Officer
+3. **Premises costs and professional fees**
+
+   The Chief Operating Officer has lead responsibility for managing these costs.  They can spend up to the provision made in the plan, subject to gross profit being on track.  If gross profit is not on track, they must look to constrain these costs, such that the net profit 'floor' is achieved.  
+4. **Marketing costs**
+
+   The Director of Communications has lead responsibility for managing these costs.  They can spend up to the provision made in the plan, subject to gross profit being on track.  If gross profit is not on track, it's possible that additional expenditure may be needed, if there's a reasonable expectation that it generates more turnover.  This would be agreed  at the Exec Board.
+
+
+5. **Financing costs and taking on debt** \
+   The Exec Board will a financing strategy for any new material capital projects or acquisitions with the Trustees.
+
+   \
+   The Finance Director has lead responsibility for assessing these commitments and the overall liquidity of the business.  This includes quantifying the level of fixed/floating rate risk taken on.  
+
+
+6.
