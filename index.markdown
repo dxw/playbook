@@ -3406,4 +3406,11 @@ The Exec Board is responsible for the day to day leadership and management of th
    The Finance Director has lead responsibility for assessing these commitments and the overall liquidity of the business.  This includes quantifying the level of fixed/floating rate risk taken on.  
 
 
-6.
+6. **Project resourcing decisions**
+
+   The way we resource our project teams has a significant impact on our gross profit margin.  Using dxw payroll staff will usually be our preferred route, but sometimes we’ll need to supplement project teams with dxw friends.  If we need to use dxw friends, Delivery Leads can agree dxw friends day rates as long as the gross margin generated exceeds 45%.  If the proposed day rate would generate less than a 45% gross margin, the rate must be agreed with the relevant Director.  
+
+
+7. **Writing off un-billed time and/or giving service credits**
+
+   These both have a direct adverse impact on our margin, and must be agreed by a Director.  Any write-offs or service credits are reported quarterly to the Exec Board.
