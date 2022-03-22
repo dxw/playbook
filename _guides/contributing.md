@@ -3,7 +3,9 @@ title: Contributing to the Playbook
 ---
 The Playbook is public and anyone, inside or outside of dxw, can suggest changes to it. This means you!
 
-We manage changes via GitHub 'Pull Requests'. If you're experienced in doing this, then all you need to know is that this repository is available at <https://github.com/dxw/playbook>
+We manage changes via GitHub 'Pull Requests'. This is a technical term for requesting a specific change is made to a repository of text. Often this text is code, but in this case it's the contents of this playbook. It allows everyone to see exactly what changes are being proposed, and for discussion and changes to be made before it is 'merged', and those changes to be recorded for the future.
+
+If you're experienced in doing this, then all you need to know is that this repository is available at <https://github.com/dxw/playbook>
 
 If creating a pull request is new to you, then don't worry, here is a guide to use Netlify CMS to create one for you.
 
@@ -11,12 +13,12 @@ If creating a pull request is new to you, then don't worry, here is a guide to u
 
 You will need a GitHub account. If you don't already have one, then [sign up here](https://github.com/signup). You do not need to be added to the dxw GitHub organisation to be able to suggest changes.
 
-## Suggesting an edit
+## Suggesting a change
 
 1. Click on the yellow 'Contribute' link
 2. If you are not logged in, you need to log in with your GitHub account
 3. If you are asked if you want to 'fork the repo', you do.
-4. Choose the page you want to edit.
+4. Choose the page you want to change.
 
    * If it is the homepage, then click 'Index page'
    * If it is one of the guides, click 'Guides' under 'Collections', and then click the guide you want to edit
@@ -33,4 +35,4 @@ Everyone's suggested changes that are being reviewed are publicly available. Any
 
 To see the suggested changes, you can click the 'Files changed' tab to see lines of text that have been removed (in red) and lines of text that have been added (in green). Alternatively you can click on the URL next to '😎 Browse the preview' to see what the Playbook will look like if this change is accepted.
 
-Anyone can comment on a pull request, and the more voices the better.
+Anyone can comment on a pull request, and the more voices the better. It's suggested that you contact one or two people specifically who you think would be good to review your changes, or alternatively ask in the #dxw-playbook slack channel
