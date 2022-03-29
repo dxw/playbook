@@ -1351,8 +1351,7 @@ percentage will be set by the
 [CPI Index](https://www.ons.gov.uk/economy/inflationandpriceindices) as of 1st
 October each year.
 
-* The raise will be conditional upon the company meeting financial targets
-  during the financial year ending in June.
+* Annual cost of living CPI rises will apply for staff if the company achieves turnover above its minimum target for the preceding financial year.
 * If you have passed your probation, you will receive your raise in the October
   payroll.
 * For those team members who joined prior to 1st October of that year, but
@@ -3397,20 +3396,14 @@ The Exec Board is responsible for the day to day management of the business.  Th
 4. **Marketing costs**
 
    The Director of Communications has lead responsibility for managing these costs.  They can spend up to the provision made in the plan, subject to gross profit being on track.  If gross profit is not on track, it's possible that additional expenditure may be needed, if there's a reasonable expectation that it generates more turnover.  This must be agreed at the Exec Board.
-
-
 5. **Financing costs and taking on debt** 
 
    The Exec Board will agree financing strategy for any new material capital projects or acquisitions, with the Trustees.
 
    The Finance Director has lead responsibility for assessing these commitments and the overall liquidity of the business.  This includes quantifying the level of fixed/floating rate risk taken on.
-
-
 6. **Project resourcing decisions**
 
    The way we resource our project teams has a significant impact on our gross profit margin.  Using dxw payroll staff will usually be our preferred route, but sometimes we need to supplement project teams with dxw friends. Delivery Leads can agree dxw friends day rates as long as the gross margin generated exceeds 45%.  If the proposed day rate would generate less than a 45% gross margin, the rate must be agreed with the relevant Director.  
-
-
 7. **Writing off un-billed time and/or giving service credits**
 
    These both have a direct adverse impact on our margin, and must be agreed by a Director.  Any write-offs or service credits are reported quarterly to the Exec Board.
