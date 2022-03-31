@@ -1030,17 +1030,14 @@ well developed sense for it.
 
 #### Getting things you need
 
-Anytime you need to order something, notice a problem in the office (e.g. a
-broken chair or dripping tap) or you need some help with your laptop or the
-printer - there is a Slack channel for it. If in doubt, please speak to the
-Commercial Operations team and they’ll point you in the right direction.
+Anytime you need to order something or experience a problem with your working set up you can find guidance in the playbook, through a ‘help’ slack channel or from your line manager who can point you in the right direction.
 
-```
-#help-facilities
-#help-purchasing
-#help-travel
-#help-techsupport
-```
+**\#help-purchasing**: see the guide for equipment purchase and use the purchasing form. Additional questions can be asked through the channel.\
+**\#help-travel**: see the travel and expenses policy first and then use the channel for additional questions.
+**\#help-techsupport**: for any technical support questions #help-tools-and-subscriptions: for any questions around the purchase and use of external tools and subscriptions.
+**\#help-productive**: for any questions around the use of productive.
+**\#help-learning-and-development-bookings**: see the guide for how to get approval and book your L&D.
+**\#help-hr-non-confidential**: for any non confidential questions around what we provide.
 
 #### Claiming expenses
 
