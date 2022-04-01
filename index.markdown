@@ -1235,6 +1235,8 @@ is not subject to any specific restrictions.
 
 #### Email signature
 
+**Note:** please use Helvetica or Arial as the font in your emails.
+
 Name<br> Job Title<br> name@dxw.com<br> Twitter handle - if you’re comfortable
 to share<br> Mobile - if you’re comfortable to share<br>
 
@@ -1242,12 +1244,7 @@ www.dxw.com :: 0345 2577520 :: @dxw :: creating better digital public services
 
 #### Email autoresponder
 
-If you require an out of office message on your email account please send your
-request to support@dxw.com with the subject title **Email Autoresponder** which
-must include start date, the contact details for another member of the team for
-any urgent queries, and return date to be added to our mail server.
-
-**Note:** please use Helvetica or Arial as the font in your emails.
+If you require an out of office message on your email account please follow the [instructions given by the mail service provider](https://support.google.com/mail/answer/25922) and include the contact details for another member of the team for any urgent queries and a return date.
 
 ### Your pay, pension and other benefits
 
@@ -3397,20 +3394,14 @@ The Exec Board is responsible for the day to day management of the business.  Th
 4. **Marketing costs**
 
    The Director of Communications has lead responsibility for managing these costs.  They can spend up to the provision made in the plan, subject to gross profit being on track.  If gross profit is not on track, it's possible that additional expenditure may be needed, if there's a reasonable expectation that it generates more turnover.  This must be agreed at the Exec Board.
-
-
 5. **Financing costs and taking on debt** 
 
    The Exec Board will agree financing strategy for any new material capital projects or acquisitions, with the Trustees.
 
    The Finance Director has lead responsibility for assessing these commitments and the overall liquidity of the business.  This includes quantifying the level of fixed/floating rate risk taken on.
-
-
 6. **Project resourcing decisions**
 
    The way we resource our project teams has a significant impact on our gross profit margin.  Using dxw payroll staff will usually be our preferred route, but sometimes we need to supplement project teams with dxw friends. Delivery Leads can agree dxw friends day rates as long as the gross margin generated exceeds 45%.  If the proposed day rate would generate less than a 45% gross margin, the rate must be agreed with the relevant Director.  
-
-
 7. **Writing off un-billed time and/or giving service credits**
 
    These both have a direct adverse impact on our margin, and must be agreed by a Director.  Any write-offs or service credits are reported quarterly to the Exec Board.
