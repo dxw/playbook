@@ -1036,7 +1036,7 @@ Anytime you need to order something or experience a problem with your working se
 **\#help-travel**: see the travel and expenses policy first and then use the channel for additional questions.
 **\#help-techsupport**: for any technical support questions 
 **\#help-tools-and-subscriptions:** for any questions around the purchase and use of external tools and subscriptions.
-**\#help-productive**: for any questions around the use of productive. 
+**\#help-productive**: for any questions around the use of [Productive](https://app.productive.io). 
 **\#help-learning-and-development-ideas:** find and share learning and development ideas.
 **\#help-learning-and-development-bookings**: see the guide for how to get approval and book your L&D.
 **\#help-hr-non-confidential**: for any non confidential questions around what we provide.
