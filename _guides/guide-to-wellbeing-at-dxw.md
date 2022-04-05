@@ -1,11 +1,9 @@
 ---
-title: "Guide to Wellbeing at dxw "
+title: "Wellbeing at dxw "
 ---
-## Wellbeing at dxw
-
 The wellbeing of our team is hugely important - if you have any physical or mental wellbeing concerns, this guide will give you a path to support.
 
-### Mental and Physical Health Support
+## Mental and physical health support
 
 dxw offers the following to support your health and wellbeing - we want to ensure that you are well set up and looked after during your employment:
 
@@ -19,7 +17,7 @@ dxw offers the following to support your health and wellbeing - we want to ensur
 * Support through the [Access to work](https://www.gov.uk/access-to-work) grant scheme for those with a disability or eligible health condition.
 * [Flexible working options](https://playbook.dxw.com/#flexible-working) such as change of working pattern, hours or role/project, access to local hot desking and maintaining remote working, to support changing needs.
 
-### Mental and Physical Health Support at a time of challenge or crisis
+## Mental and physical health support at a time of challenge or crisis
 
 Sometimes our lives both inside and outside of work can be challenging, and many of us will experience poor mental or physical health for any number of reasons.
 
