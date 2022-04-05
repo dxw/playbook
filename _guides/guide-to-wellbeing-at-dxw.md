@@ -31,7 +31,7 @@ Line managers are your first point of contact for any issues you may be having a
 
 They can listen, support and offer reasonable adjustments as detailed above. They can help review workloads, working patterns, projects, roles and responsibilities and help with resolving anything within the workplace that might be causing concern. They can liaise with delivery leads, heads of and directors where necessary, and take some of the burden from you.
 
-#### Mental Health First Aiders 
+#### Mental health first aiders 
 
 If you are experiencing a mental health crisis or think that someone else is, we have a team of trained mental health first aiders who are able to provide initial support. A mental health first aider may identify an existing or imminent crisis and is able to listen and communicate non-judgementally, give initial support and then signpost information or appropriate professional help. 
 
