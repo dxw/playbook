@@ -1554,7 +1554,7 @@ longer period of time.
 
 If you need to attend a one off appointment or an appointment for a dependent
 let your line manager or delivery lead know as far in advance as possible. If
-you are going to be away from the office for more than half a day then you will
+you are going to be away from work for more than half a day then you will
 need to track it through BreatheHR.
 
 In both cases, this might mean a conversation with your delivery lead or
