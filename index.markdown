@@ -1077,7 +1077,7 @@ existing structure.
 
 #### Internal tech support
 
-If you experience problems with your laptop, office printers, wi-fi, video conference set-up, etc… You may send a message in the **\#help-techsupport** Slack channel.
+If you experience problems with your laptop, wi-fi, tools, etc… You may send a message in the **\#help-techsupport** Slack channel. 
 
 #### Using a personal device at work
 
