@@ -1252,8 +1252,7 @@ passing of their probationary period.
 
 #### Changes to your details
 
-Please tell us promptly if your name, address, telephone number, next of kin
-details or banking details change.
+Please tell us promptly if your name, address, telephone number, next of kin details or banking details change and keep those details up to date in Breathe.
 
 #### Pay Policy
 
