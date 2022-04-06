@@ -1032,14 +1032,14 @@ well developed sense for it.
 
 Anytime you need to order something or experience a problem with your working set up you can find guidance in the playbook, through a ‘help’ slack channel or from your line manager who can point you in the right direction.
 
-**\#help-purchasing**: see the guide for equipment purchase and use the purchasing form. Additional questions can be asked through the channel.
-**\#help-travel**: see the travel and expenses policy first and then use the channel for additional questions.
-**\#help-techsupport**: for any technical support questions 
-**\#help-tools-and-subscriptions:** for any questions around the purchase and use of external tools and subscriptions.
-**\#help-productive**: for any questions around the use of [Productive](https://app.productive.io). 
-**\#help-learning-and-development-ideas:** find and share learning and development ideas.
-**\#help-learning-and-development-bookings**: see the guide for how to get approval and book your L&D.
-**\#help-hr-non-confidential**: for any non confidential questions around what we provide.
+* **\#help-purchasing**: see the guide for equipment purchase and use the purchasing form. Additional questions can be asked through the channel.
+* **\#help-travel**: see the travel and expenses policy first and then use the channel for additional questions.
+* **\#help-techsupport**: for any technical support questions
+* **\#help-tools-and-subscriptions:** for any questions around the purchase and use of external tools and subscriptions.
+* **\#help-productive**: for any questions around the use of [Productive](https://app.productive.io). 
+* **\#help-learning-and-development-ideas:** find and share learning and development ideas.
+* **\#help-learning-and-development-bookings**: see the guide for how to get approval and book your L&D.
+* **\#help-hr-non-confidential**: for any non confidential questions around what we provide.
 
 #### Claiming expenses
 
@@ -1077,9 +1077,7 @@ existing structure.
 
 #### Internal tech support
 
-If you experience problems with the office printers, wi-fi, video conference
-set-up, Macs etc… You may send a message in the **\#help-techsupport** Slack
-channel.
+If you experience problems with your laptop, wi-fi, tools, etc… You may send a message in the **\#help-techsupport** Slack channel. 
 
 #### Using a personal device at work
 
@@ -1252,8 +1250,7 @@ passing of their probationary period.
 
 #### Changes to your details
 
-Please tell us promptly if your name, address, telephone number, next of kin
-details or banking details change.
+Please tell us promptly if your name, address, telephone number, next of kin details or banking details change and keep those details up to date in Breathe.
 
 #### Pay Policy
 
@@ -1557,7 +1554,7 @@ longer period of time.
 
 If you need to attend a one off appointment or an appointment for a dependent
 let your line manager or delivery lead know as far in advance as possible. If
-you are going to be away from the office for more than half a day then you will
+you are going to be away from work for more than half a day then you will
 need to track it through BreatheHR.
 
 In both cases, this might mean a conversation with your delivery lead or
