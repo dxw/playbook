@@ -26,7 +26,7 @@ Finding the right thing to use the allowance for can be difficult. Here are some
 ways you can find ideas:
 
 * Check the
-  [Learning and development bikeshed post](https://bikeshed.dxw.com/?p=13876) to
+  [Learning and development Bikeshed post](https://bikeshed.dxw.com/?p=13876) to
   see what other people have done this year
 * Ask other people on your team what they've done
 * Talk to your line manager, who can help you identify potential areas for
@@ -46,8 +46,7 @@ ways you can find ideas:
     costs (up to the maximum of £1,000, though you are welcome to pay the
     difference for more expensive events)
 * Once it’s approved, post in the #help-learning-and-development-bookings channel
-  if you would like support with payment. You can also purchase yourself and
-  make an expense claim
+  to get support with payment. You shouldn't purchase it yourself or else it ends up being subject to tax.
 * Think about sharing event with the rest of your team if it's something other
   people might find relevant/useful
 * Add to your Google calendar and make sure your project team know when you're
