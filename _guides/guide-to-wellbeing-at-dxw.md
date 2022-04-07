@@ -23,15 +23,15 @@ Sometimes our lives both inside and outside of work can be challenging, and many
 
 This can impact our lives, and sometimes our ability to work as normal. 
 
-### Who to speak to 
+## Who to speak to 
 
-#### Line manager 
+### Line manager 
 
 Line managers are your first point of contact for any issues you may be having at work. They are responsible for carrying out dxw’s duty of care, and you should request a 1:1 with your line manager if you need additional support. 
 
 They can listen, support and offer reasonable adjustments as detailed above. They can help review workloads, working patterns, projects, roles and responsibilities and help with resolving anything within the workplace that might be causing concern. They can liaise with delivery leads, heads of and directors where necessary, and take some of the burden from you.
 
-#### Mental health first aiders 
+### Mental health first aiders 
 
 If you are experiencing a mental health crisis or think that someone else is, we have a team of trained mental health first aiders who are able to provide initial support. A mental health first aider may identify an existing or imminent crisis and is able to listen and communicate non-judgementally, give initial support and then signpost information or appropriate professional help. 
 
@@ -39,11 +39,11 @@ First aiders are also a safe place to turn to if you are experiencing any issues
 
 Mental Health First Aiders are identified in the company Directory in Breathe where you can find a direct phone number for them.
 
-#### HR 
+### HR 
 
 The HR team is a safe place to turn if you need help with your mental health or general wellbeing at work. We can work with you to identify what additional support you might need.
 
-### Resources
+## Resources
 
 If you, or someone you know is in mental health crisis and needs medical help fast:
 
@@ -55,7 +55,7 @@ If it is not a medical emergency but you still need urgent help:
 * Ring 111 for professional health advice 24/7 and 365 days a year and guidance on where to access appropriate health services 
 * Make an appointment with your GP 
 
-#### Crisis & emotional support helplines
+### Crisis & emotional support helplines
 
 **Samaritans (UK)**
 
