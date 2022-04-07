@@ -71,7 +71,7 @@ Phone: 0300 304 7000 (local call rates, 6pm-11pm, 7 days a week)
 
 Website: <https://www.sane.org.uk/how-we-help/emotional-support/saneline-services>
 
-#### Mental health information helplines
+### Mental health information helplines
 
 **Mind Infoline (England & Wales)**
 
@@ -91,7 +91,7 @@ Website [www.samh.org.uk](http://www.samh.org.uk/)
 
 Phone: 0300 5000 927 (local call rates, 9.30am-4pm)
 
-#### Finding a therapist 
+### Finding a therapist 
 
 **British Association for Counselling and Psychotherapy Register (UK)**
 
