@@ -1,5 +1,5 @@
 ---
-title: "Wellbeing at dxw "
+title: "Wellbeing at dxw"
 ---
 The wellbeing of our team is hugely important - if you have any physical or mental wellbeing concerns, this guide will give you a path to support.
 
@@ -65,8 +65,7 @@ Email: [jo@samaritans.org](mailto:jo@samaritans.org)
 
 Website: [www.samaritans.org](http://www.samaritans.org) 
 
-**\
-SaneLine (UK)**
+**SaneLine (UK)**
 
 Phone: 0300 304 7000 (local call rates, 6pm-11pm, 7 days a week)
 
@@ -82,15 +81,13 @@ Text: 86463
 
 Website: <https://www.mind.org.uk/>
 
-**\
-SAMH (Scotland)** 
+**SAMH (Scotland)** 
 
 Phone: 0344 800 0550 (not a listening service or suitable for people in crisis, Mon-Fri 09:00– 18:00 call charges apply)  
 
 Website [www.samh.org.uk](http://www.samh.org.uk/)
 
-**\
-Rethink Advice and Information Service** 
+**Rethink Advice and Information Service** 
 
 Phone: 0300 5000 927 (local call rates, 9.30am-4pm)
 
