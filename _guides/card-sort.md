@@ -2,7 +2,7 @@
 title: Card sorting
 ---
 **Things you'll need:** Index cards, post-it notes, pens, a large table, 3-5
-participants, an observer/note taker, a smartphone for pictures.
+participants, an observer/notetaker, a smartphone for pictures.
 
 **Estimated time:** 60 minutes
 
@@ -23,8 +23,8 @@ with established structure already in place.
 
 ### You can also think of these as two parts of the design process:
 
-Use open sorts to understand what goes together and what it should be called.
-Use closed sorts to test, validate and revise what you already have with more
+Use open card sorts to understand what goes together and what it should be called.
+Use closed card sorts to test, validate and revise what you already have with more
 people and other types of users.
 
 Hybrid sessions are also useful. You provide categories but let people create
@@ -35,22 +35,22 @@ of the existing ones.
 
 1. Prepare category cards for each participant
 
-   * Write categories on cards for a closed sort. You might have identified
+   * Write categories on cards for a closed card sort. You might have identified
      these through a quantitative/automated sorting, through discussion/design
      sprint or in previous card sort sessions.
 2. Prepare some content cards for each category (a set for each participant)
 3. Ask participants to group the cards in the way that makes sense to them and
    give the groups names
 
-   * For a closed sort participants move content cards into categories you’ve
+   * For a closed card sort, participants move content cards into categories you’ve
      prepared
-   * A variation of ‘other pile’ and allowing participants to amend and create
+   * A variation of an ‘other pile’ and allowing participants to amend and create
      new categories are often useful particularly in the first round of sorting
 4. Discuss why they grouped the cards the way they did
 
    * This part is where the notetaker/observer must really listen for comments,
      reasoning and questions. Equally, the notetaker should take notes of
-     comments and questions that arise as poeple work on the groupings.
+     comments and questions that arise as people work on the groupings.
 5. If there too many categories and time allows, you can try to get participants
    to reach a consensus
 6. Repeat
@@ -63,7 +63,7 @@ of the existing ones.
 * **Granularity is important** Pieces of content selected for the cards can be
   from individual pages, functionality, small groups of pages, or whole sections
   of the site. Be consistent with the groups you are working with otherwise
-  participants will struggle and there will be a lot of inconditency between
+  participants will struggle and there will be a lot of inconsistency between
   groupings.
 * **People get tired** Avoid the temptation to sort everything in one go. Limit
   the number to 30-40 cards
