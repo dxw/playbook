@@ -1035,7 +1035,7 @@ Anytime you need to order something or experience a problem with your working se
 ##### Helpful Slack channels
 
 * **\#help-purchasing**: see the guide for equipment purchase and use the purchasing form. Additional questions can be asked through the channel.
-* **\#help-travel**: see the travel and expenses policy first and then use the channel for additional questions.
+* **\#help-travel**: see the travel and [expenses policy](https://docs.google.com/document/d/1HCNkW_wgJ_CDKXGNwdcsx64-F2AZtbfML7_Tb_PvDRA/edit#) first and then use the channel for additional questions.
 * **\#help-internal-tech-support**: for any technical support questions.
 * **\#help-tools-and-subscriptions:** for any questions about the purchase and use of external tools and subscriptions.
 * **\#help-productive**: for any questions about the use of [Productive](https://app.productive.io).
