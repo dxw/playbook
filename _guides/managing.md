@@ -79,9 +79,9 @@ The owner is responsible for making sure that their parts of the Playbook:
 The owners of each section are:
 
 * David Mann - [Who we are](/#who-we-are)
-* Adam Maddison - [The work we do > Sales](/#sales)
+* Alex Jackson - [The work we do > Sales](/#sales)
 * Clare Young - [The work we do > Building services](/#building-services)
-* Dominic Baggott -
+* Alex Farley -
   [The work we do > Hosting and supporting services](/#hosting-and-supporting-services)
 * Wendy Coello -
   [The work we do > Sharing our expertise](/#sharing-our-expertise)
