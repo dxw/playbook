@@ -47,7 +47,9 @@ what you're doing and helps others review your work when you're done.
 
 Assuming the task involves making changes to a codebase, always start with a new
 branch. You should usually branch off the latest commit in the main development
-branch, but there are some times when you'll want to branch of something else.
+branch, but there are some times when you’ll want to branch off something else,
+for example, when building off a recent branch that hasn’t yet been merged into
+the main development branch.
 
 Branch names are important. When naming a branch, make sure it's clear what it's
 for.
@@ -59,8 +61,7 @@ for.
 
 For example, while working on a card with ID `123` about generating a report:
 
-* Good: `feature/123-generate-report`, `123/generate-report`,
-  `123-generate-report`
+* Good: `123/generate-report`, `123-generate-report,` `feature/123-generate-report`
 * OK: `feature/generate-report`, `generate-report`
 * Bad: `123`, `branch-for-123`, `jo-bloggs-123`, `jo-bloggs/generate-report`
 
@@ -127,7 +128,36 @@ opportunity to review, tidy up, and rearrange your commit history as needed).
 Rebasing can take some practice to get used to if you haven't done it often. Ask
 for help if you need it.
 
-### 7. Submit the changeset for code review
+### 7. Tidy up your commits
+
+Before requesting a review, consider tidying up your commit history on the
+branch to tell a clear, coherent story. We tend to review PRs commit by commit,
+as it allows you to see how the feature builds up on the branch, and having
+atomic, easily-digestible commits that logically flow from one to the next makes
+this a lot easier to review. Try to avoid touching unrelated code in the same PR - if you spot something that might need refactoring, do it in its own PR.
+
+Here’s an example of the sort of history you might want to tidy up:
+
+```
+bc870303 Add dashboard for viewing user profiles
+
+fd3ab401 Allow users to change passwords
+
+50a6a7a6 Fix typo on dashboard (can be squashed into bc870303)
+
+8b1cf775 Refactor password changing function (can be squashed into fd3ab401)
+
+f3344703 Fix flaky test introduced in previous PR (should probably be its own
+PR)
+```
+
+Use an interactive rebase (`git rebase –i [origin/main]`) to open an interactive
+shell where commits can be edited, removed,  or squashed into one another.
+You'll need to force push your changes if you've already pushed your branch to
+GitHub, as you'll have rewritten history, with `git push --force-with-lease
+origin [BRANCHNAME]`.
+
+### 8. Submit the changeset for code review
 
 At dxw, we never make changes to code running in production without at least two
 people, including the author(s), having reviewed and approved them. This to make
@@ -183,13 +213,13 @@ Real examples of pull requests created by developers at dxw:
 * [Robbie](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/pull/1087)
 * [Stuart](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/pull/1121)
 
-### 8. Respond to reviews
+### 9. Respond to reviews
 
 When you have an open pull request, it's your responsibility to do what's needed
 to get it merged as quickly as possible. That means being responsive to
 questions in reviews and making changes as needed.
 
-### 9. Merge the code
+### 10. Merge the code
 
 You should only ever merge pull requests that have been approved. If there are
 outstanding comments, make sure to respond to them letting the reviewer(s) know
@@ -200,7 +230,12 @@ when you are finished and it's safe to merge in. But don't be precious about it.
 If someone else needs to merge your code in, they should ask you about it if
 they can, but shouldn't feel prevented from doing so.
 
-### 10. Smoke test the change
+When merging code into a long-lived branch, we prefer to use a merge commit,
+rather than merging with a rebase, as having a merge commit as part of the
+project history makes it clear when a change has actually been merged into the
+codebase.
+
+### 11. Smoke test the change
 
 Once the code is merged, make sure it deploys correctly. If possible, verify
 that it is now present on the target environment and working as expected and
