@@ -81,7 +81,7 @@ The owners of each section are:
 * David Mann - [Who we are](/#who-we-are)
 * Alex Jackson - [The work we do > Sales](/#sales)
 * Clare Young - [The work we do > Building services](/#building-services)
-* Alex Farley -
+* Alex Jackson -
   [The work we do > Hosting and supporting services](/#hosting-and-supporting-services)
 * Wendy Coello -
   [The work we do > Sharing our expertise](/#sharing-our-expertise)
