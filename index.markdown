@@ -166,6 +166,18 @@ Our approach is set out in our
 
 Thank you for being you - it makes us better.
 
+#### Make everything we do accessible
+
+At dxw we want to make sure that everyone can access the digital services we
+create, including our own websites, communications and colleague resources.
+
+We follow the guidance in the
+[GOV.UK Service manual](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
+to help us to meet government accessibility requirements.
+
+And to create a consistent approach to digital accessibility, our Playbook has
+[additional guidance for our different professions](https://playbook.dxw.com/guides/web-accessibility).
+
 #### Reduce our impact on the environment
 
 It is our responsibility that future communities can thrive. So we will lead by
