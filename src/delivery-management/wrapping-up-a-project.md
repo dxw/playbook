@@ -45,6 +45,7 @@ What do we want to build on or change for future projects?
 
 ### Final week
 
+* Create a [Project Download](https://drive.google.com/drive/folders/1opbb5_JZblj59Vgt5SI8BaZ65kVSonws?usp=sharing), summarising the work that we can use for future [sales pitches](https://playbook.dxw.com/guides/how-we-do-pitches).
 * Write a note to everyone who worked on the project. Use this to celebrate the
   work that has been done, and to look forward to what happens next.
 * Meet with client to close down the project and make sure they are happy. Are
