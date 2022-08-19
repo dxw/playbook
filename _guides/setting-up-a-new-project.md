@@ -233,3 +233,9 @@ screens for the team. Chat to Olivia if you have any questions.
 
 Cover the following tech for collaboration: Slack, Google drive, Trello, Miro
 boards, Google Hangouts or Go2Meeting, Calendars (team and personal).
+
+### Ensuring security from the start 
+
+* We use the service standard from the outset of all projects we do, which includes security considerations. Project leads use this as prompts at the start and throughout projects, so security is considered as part of the process
+* Because our projects deliver into client systems (and public sector systems at that) rather than our own, we engage early with their information assurance/governance functions, so we can understand expectations about security and assurance
+* Majority of our delivered projects have undergone at least one pen test and round of remediations, with ongoing support arrangements usually requiring an annual check
