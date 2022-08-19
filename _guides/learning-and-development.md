@@ -46,7 +46,7 @@ ways you can find ideas:
     costs (up to the maximum of £1,000, though you are welcome to pay the
     difference for more expensive events)
 * Once it’s approved, post in the #help-learning-and-development-bookings channel
-  to get support with payment. You shouldn't purchase it yourself or else it ends up being subject to tax.
+  to get support with payment. If it's not work related then you can alternatively purchase it yourself and make an expense claim. If it is work-related then you shouldn't purchase it yourself or else it ends up being subject to tax.
 * Think about sharing event with the rest of your team if it's something other
   people might find relevant/useful
 * Add to your Google calendar and make sure your project team know when you're
