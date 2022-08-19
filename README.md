@@ -15,6 +15,35 @@ The Playbook documents how the Playbook gets changed. See the
 [This Playbook](https://playbook.dxw.com/#this-playbook) section for more
 information.
 
+## Development guide
+
+### Setup
+
+Run the setup command. This installs the dependencies required for running the
+project.
+
+```
+script/setup
+```
+
+To just update dependencies, you can run the bootstrap command (though this
+currently does the same as `script/setup` due to the small number of
+dependencies required):
+
+```
+script/bootstrap
+```
+
+### Running the application
+
+To run the server, from the root directory, run:
+
+```
+script/server
+```
+
+This runs the server on localhost:4000.
+
 ## Licence
 
 The contents of dxw's Playbook is released under a
