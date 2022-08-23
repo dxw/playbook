@@ -1,0 +1,11 @@
+#!/bin/sh
+
+# script/setup: Set up the application for the first time after cloning, or set
+#               it back to the initial unused state.
+
+set -e
+
+cd "$(dirname "$0")/.."
+
+echo "==> Running bootstrap script..."
+script/bootstrap
