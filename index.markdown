@@ -1005,7 +1005,7 @@ time they spend on projects. We usually work with our clients on a
 so it’s important we can accurately track and report how our time is spent on
 client projects.
 
-We use [Productive](https://app.productive.com/) to schedule our work, which
+We use [Productive](https://app.productive.io/) to schedule our work, which
 helps us to forecast our capacity over future weeks and months in a reliable
 way.
 
