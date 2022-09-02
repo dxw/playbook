@@ -1637,7 +1637,7 @@ in line with our existing policies.
 To record compassionate leave in BreatheHR, choose Other as the Type of Leave,
 and choose Compassionate as the Reason.
 
-#### Jury duty leave 
+#### Jury duty leave
 
 Jury duty leave is generally paid for each day (or part thereof) that you are required to attend Court -
 
@@ -2474,8 +2474,8 @@ a number of private channels:
 
 * \#identity-lgbtqia-plus (contact a member of @identity-lgbtqia-plus-admins to
   join)
-* \#identity-gender-minority (contact a member of
-  @identity-gender-minority-admins to join)
+* \#identity-neurodiversity-everyone and #identity-neurodiversity-non-management (contact a member of @identity-neurodiversity-admins to join)
+* \#identity-spoonies (contact a member of @identity-spoonies-admins to join)
 
 Anyone can create a new one by creating the private channel, creating a user
 group with at least one volunteer (or asking a Slack admin to do it for you),
