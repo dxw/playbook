@@ -1,6 +1,9 @@
 ---
-title: Junior developer development plan
+title: Technology team junior developer development plan
 ---
+
+_Please note that this document does not apply to the GovPress team._
+
 ## High level goals
 
 Before a junior developer can be promoted, they need to be:

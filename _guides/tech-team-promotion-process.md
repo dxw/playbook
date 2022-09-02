@@ -6,6 +6,8 @@ only. For gaps we identify in the team, one-off roles, or more senior roles
 (SFIA 6-7), we use a different process, often involving internal or external
 recruitment.
 
+_Please note that this document does not apply to the GovPress team._
+
 The process is based on
 [our progression framework](https://dxw.progressionapp.com/technology) and
 designed to help make fair decisions about promotions that reduce the impact any

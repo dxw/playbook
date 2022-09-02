@@ -3263,7 +3263,9 @@ Designers at dxw follow these principles:
     needs their attention, and gives everyone in the team context for the work
     being done and decisions being made.
 
-#### Career progression for developers
+#### Career progression for developers in the technology team
+
+_Please note that this subsection does not apply to the GovPress team._
 
 We have a
 [public progression framework](https://dxw.progressionapp.com/technology)
