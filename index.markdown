@@ -1055,6 +1055,10 @@ Anytime you need to order something or experience a problem with your working se
 * **\#help-learning-and-development-bookings**: see the guide for how to get approval and book your L&D.
 * **\#help-hr-non-confidential**: for any non confidential questions about what we provide.
 
+##### E﻿quipment guidance
+
+W﻿e can support you with your home-office set-up, including things like a desk, monitor and keyboard. Here's a [guide](https://docs.google.com/document/d/17Q8zOEm4cd0ZDGqkT8Bcg8G1CCK_vLlwMtOFVgJalAU/edit#heading=h.1z3dei2pr1jh) which shows what we can support with. 
+
 #### Claiming expenses
 
 From time to time, some of us spend our own money at work. Most often, this is
@@ -1637,7 +1641,7 @@ in line with our existing policies.
 To record compassionate leave in BreatheHR, choose Other as the Type of Leave,
 and choose Compassionate as the Reason.
 
-#### Jury duty leave 
+#### Jury duty leave
 
 Jury duty leave is generally paid for each day (or part thereof) that you are required to attend Court -
 
