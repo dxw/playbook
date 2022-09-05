@@ -1,8 +1,8 @@
 ---
-title: Technology team junior developer development plan
+title: Junior developer development plan (Delivery+)
 ---
 
-_Please note that this document does not apply to the GovPress team._
+**Please note that this guide applies to the Delivery+ team only.**
 
 ## High level goals
 
