@@ -1938,7 +1938,7 @@ If you would like to discuss a change to your working pattern, first speak to yo
 
 Any changes to working patterns are agreed at our discretion and your line manager should review them with you from time to time, to check they are still working for you and dxw.
 
-Once you would like to progress with a new flexible working pattern, please fill in [](https://forms.gle/qA1BwvQenqtVzShF8)the [change of working pattern request form](https://docs.google.com/forms/d/1OT2tXVA7HSm-hOO0Pd1QOkoVe-8z5Hw7SMwc9-5LEqA/edit?usp=drive_web) and the HR team will make the necessary changes.
+Once you would like to progress with a new flexible working pattern, please fill in the [change of working pattern request form](https://forms.gle/qA1BwvQenqtVzShF8) and the HR team will make the necessary changes.
 
 ##### Normal working pattern
 
