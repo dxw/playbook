@@ -1637,7 +1637,7 @@ in line with our existing policies.
 To record compassionate leave in BreatheHR, choose Other as the Type of Leave,
 and choose Compassionate as the Reason.
 
-#### Jury duty leave 
+#### Jury duty leave
 
 Jury duty leave is generally paid for each day (or part thereof) that you are required to attend Court -
 
@@ -1934,16 +1934,11 @@ when you are and aren’t around.
 
 ##### Requesting a change of working arrangement
 
-If you would like to discuss a change to your working pattern, you can either
-speak to your line manager or the HR Manager. We will discuss your request, and
-look at the impact on the team and your work.
+If you would like to discuss a change to your working pattern, first speak to your line manager. They will discuss your request, and look at the impact on the team and your work.
 
-Any changes to working patterns are agreed at our discretion and your line
-manager should review them with you from time to time.
+Any changes to working patterns are agreed at our discretion and your line manager should review them with you from time to time, to check they are still working for you and dxw.
 
-If you would like to discuss a flexible working pattern not covered by the
-options here, or a variation on any of them, please talk to your line manager or
-the HR manager.
+Once you would like to progress with a new flexible working pattern, please fill in the [change of working pattern request form](https://forms.gle/qA1BwvQenqtVzShF8) and the HR team will make the necessary changes.
 
 ##### Normal working pattern
 
