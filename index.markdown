@@ -2469,8 +2469,8 @@ a number of private channels:
 
 * \#identity-lgbtqia-plus (contact a member of @identity-lgbtqia-plus-admins to
   join)
-* \#identity-gender-minority (contact a member of
-  @identity-gender-minority-admins to join)
+* \#identity-neurodiversity-everyone and #identity-neurodiversity-non-management (contact a member of @identity-neurodiversity-admins to join)
+* \#identity-spoonies (contact a member of @identity-spoonies-admins to join)
 
 Anyone can create a new one by creating the private channel, creating a user
 group with at least one volunteer (or asking a Slack admin to do it for you),
