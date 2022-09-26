@@ -26,10 +26,11 @@ collections:
     sort_by: title
 
 # Build settings
+source: src
 sass:
   implementation: sass-embedded
   load_paths:
-    - node_modules/*
+    - ../node_modules/*
 # plugins:
 
 # Exclude from processing.
