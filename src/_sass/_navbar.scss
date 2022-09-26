@@ -14,6 +14,8 @@ $height: 70px; // Manually measured after layout.
   font-weight: typography.$heading-font-weight;
 
   a {
+    display: flex;
+    align-items: center;
     text-decoration: none;
 
     &:hover,
@@ -22,6 +24,11 @@ $height: 70px; // Manually measured after layout.
       text-decoration-line: underline;
       text-decoration-thickness: 0.15em;
       text-decoration-color: colours.$accent-a;
+    }
+
+    img {
+      margin-right: 0.5em;
+      max-height: 30px;
     }
   }
 
@@ -34,6 +41,10 @@ $height: 70px; // Manually measured after layout.
 
     > li {
       margin-bottom: 0;
+
+      &:first-child {
+        margin-right: auto;
+      }
 
       &:not(:first-child) {
         margin-left: 2em;
