@@ -1,24 +1,31 @@
 {% capture nav %}{% page_navigation %}{% endcapture %}
 
 {% unless nav == "" %}
-  <aside id="sidebar" class="sidebar">
-    <nav aria-label="Sidebar">{{ nav }}</nav>
-  </aside>
+  <div class="sidebar">
+    <aside id="outline-sidebar" class="sidebar__section">
+      <nav aria-label="Outline sidebar">{{ nav }}</nav>
+    </aside>
 
-  <a
-    class="sidebar-toggle-button"
-    role="button"
-    href="#sidebar"
-    title="Show outline"
-  >
-    <div></div>
-    <div></div>
-    <div></div>
-  </a>
+    <a
+      class="sidebar__toggle-button"
+      role="button"
+      href="#outline-sidebar"
+      title="Show outline"
+    >
+      <div></div>
+      <div></div>
+      <div></div>
+    </a>
 
-  <a class="sidebar-toggle-button" role="button" href="#" title="Hide outline">
-    <div></div>
-    <div></div>
-    <div></div>
-  </a>
+    <a
+      class="sidebar__toggle-button"
+      role="button"
+      href="#"
+      title="Hide sidebar"
+    >
+      <div></div>
+      <div></div>
+      <div></div>
+    </a>
+  </div>
 {% endunless %}
