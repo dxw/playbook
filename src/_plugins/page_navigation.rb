@@ -1,7 +1,7 @@
 require "nokogiri"
 
 module Jekyll
-  class NavigationGenerator < Liquid::Tag
+  class PageNavigationGenerator < Liquid::Tag
     def render(context)
       current_page = page(context)
       title = current_page.data["title"]
@@ -61,4 +61,4 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_tag("sidebar", Jekyll::NavigationGenerator)
+Liquid::Template.register_tag("page_navigation", Jekyll::PageNavigationGenerator)

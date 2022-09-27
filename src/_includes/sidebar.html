@@ -1,8 +1,8 @@
-{% capture sb %}{% sidebar %}{% endcapture %}
+{% capture nav %}{% page_navigation %}{% endcapture %}
 
-{% unless sb == "" %}
+{% unless nav == "" %}
   <aside id="sidebar" class="sidebar">
-    <nav aria-label="Sidebar">{{ sb }}</nav>
+    <nav aria-label="Sidebar">{{ nav }}</nav>
   </aside>
 
   <a
