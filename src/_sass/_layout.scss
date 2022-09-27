@@ -6,7 +6,7 @@
 
 main {
   margin-top: navbar.$height;
-  height: calc(100vh - navbar.$height);
+  height: calc(100vh - navbar.$height - 3em);
   display: flex;
   overflow: hidden;
 }

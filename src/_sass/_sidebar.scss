@@ -19,7 +19,7 @@ $font-size: 1.2em;
   margin-bottom: 2.5em;
   max-width: $max-width;
   width: $width;
-  height: calc(100% - 2.5em - navbar.$height);
+  height: calc(100% - navbar.$height - 2.5em);
   padding: 0.5em $horizontal-padding;
   padding-right: $collapsed-width;
   transform: translateX(calc(-100% + $collapsed-width));
