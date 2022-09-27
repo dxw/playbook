@@ -7,12 +7,12 @@ module Jekyll
       title = current_page.data["title"]
       @doc = Nokogiri::HTML(current_page.content)
       headings = @doc.xpath("//*[self::h2 or self::h3 or self::h4]")
-      title = render_page_title(title)
+      label = render_label(title)
       nav = get_headings_and_subheadings(headings).map { |heading|
         render_list(heading)
       }.join
 
-      title + nav unless headings.empty?
+      label + nav unless headings.empty?
     end
 
     def all_pages(context)
@@ -25,9 +25,9 @@ module Jekyll
 
     private
 
-    def render_page_title(title = "dxw's Playbook")
+    def render_label(label = "dxw's Playbook")
       <<-EOS
-      <h1>#{title}</h1>
+      <p>#{label}</p>
       EOS
     end
 
