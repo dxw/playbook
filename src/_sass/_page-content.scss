@@ -1,10 +1,18 @@
+@use "sass:math";
+
 @use "./colours";
 @use "./sidebar";
 
+$font-size: 1em;
+
 .page-content {
   flex: 1;
-  margin-left: sidebar.$collapsed-width;
+  margin-left: math.div(
+    sidebar.$collapsed-width * sidebar.$font-size,
+    $font-size
+  );
   padding: 0.5em 2em 5em;
+  font-size: $font-size;
   overflow-y: auto;
   scroll-behavior: smooth;
   will-change: scroll-position;
