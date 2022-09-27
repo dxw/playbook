@@ -12,7 +12,7 @@ module Jekyll
         render_list(heading)
       }.join
 
-      title + nav
+      title + nav unless headings.empty?
     end
 
     def all_pages(context)
