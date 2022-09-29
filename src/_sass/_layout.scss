@@ -1,3 +1,4 @@
+@use "./breakpoints";
 @use "./navbar";
 
 * {
@@ -8,5 +9,15 @@ main {
   margin-top: navbar.$height;
   height: calc(100vh - navbar.$height - 3em);
   display: flex;
-  overflow: hidden;
+  flex-direction: column;
+
+  > div {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+  }
+
+  @include breakpoints.on-large-screens {
+    flex-direction: row;
+  }
 }

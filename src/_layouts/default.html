@@ -17,10 +17,13 @@
   <body>
     {% include navbar.html %}
     <main>
-      {% if page.sidebar %}
-        {% include sidebar.html %}
-      {% endif %}
-      {% include page-content.html %}
+      {% include related.html %}
+      <div>
+        {% if page.sidebar %}
+          {% include sidebar.html %}
+        {% endif %}
+        {% include page-content.html %}
+      </div>
     </main>
     {% include contribute.html %}
   </body>
