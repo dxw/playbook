@@ -16,6 +16,7 @@ defaults:
     values:
       layout: "default"
       sidebar: true
+      related_order: 9999
 collections:
   guides:
     output: true
