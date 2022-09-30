@@ -477,5 +477,5 @@ Any actions should be added to the relevant Trello board (the
 [incident actions board](https://trello.com/b/XIuS4lt5/incident-actions) for
 incident specific stuff, the
 [internal tech tools board](https://trello.com/b/rYxrpsVu/dxw-internal-tech-tools-tasks)
-or [tech team leadership board](dxw-tech-team-leadership) for more general
-things), given an owner, and dealt with in a timely manner.
+or tech team leadership board for more general things), given an owner, and
+dealt with in a timely manner.
