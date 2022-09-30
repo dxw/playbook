@@ -29,3 +29,6 @@ sass:
   implementation: sass-embedded
   load_paths:
     - ../node_modules/*
+
+plugins:
+  - jekyll-redirect-from
