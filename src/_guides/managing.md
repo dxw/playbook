@@ -78,15 +78,15 @@ The owner is responsible for making sure that their parts of the Playbook:
 
 The owners of each section are:
 
-* David Mann - [Who we are](/#who-we-are)
-* Alex Jackson - [The work we do > Sales](/#sales)
-* Clare Young - [The work we do > Building services](/#building-services)
+* David Mann - [Who we are](/who-we-are/)
+* Alex Jackson - [The work we do > Sales](/work-we-do/#sales)
+* Clare Young - [The work we do > Building services](/work-we-do/#building-services)
 * Alex Jackson -
-  [The work we do > Hosting and supporting services](/#hosting-and-supporting-services)
+  [The work we do > Supporting services](/work-we-do/#supporting-services)
 * Wendy Coello -
-  [The work we do > Sharing our expertise](/#sharing-our-expertise)
-* Poss Apostolou - [Working here](/#working-here)
-* Coca Rivas - [Our professions](/#our-professions)
+  [The work we do > Sharing our expertise](/work-we-do/#sharing-our-expertise)
+* Poss Apostolou - [Working here](/working-here/)
+* Coca Rivas - Our professions
 
 ### Workflow
 

@@ -739,8 +739,8 @@ For example, 35 hours in 4 days, from 09:30 to 18:45.
 
 We are happy to discuss compressed hours for all roles but cannot guarantee this
 will always be an option. Arrangements must be
-[sustainable](#work-at-a-sustainable-pace) for your wellbeing and productivity
-and the needs of the role.
+[sustainable](/who-we-are/#work-at-a-sustainable-pace) for your wellbeing and
+productivity and the needs of the role.
 
 For working patterns with an equal number of hours every day, holiday allowance
 will be prorated in the same way as for
@@ -751,9 +751,11 @@ in BreatheHR.
 
 ### Returners’ programme
 
-We offer a [returners’ programme](#returners-program) for people who are
-returning to work after a prolonged break. As part of this, we’re able to offer
-a phased return to work. If this interests you, please talk to us when applying.
+We offer a
+[returners’ programme](/working-here/what-to-expect-when-joining-dxw/#returners-programme)
+for people who are returning to work after a prolonged break. As part of this,
+we’re able to offer a phased return to work. If this interests you, please talk
+to us when applying.
 
 ### Remote working/location
 

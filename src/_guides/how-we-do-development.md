@@ -3,11 +3,12 @@ title: How we do development
 ---
 ## Follow our principles
 
-As developers at dxw, we are guided by[ our team's principles](/#development-team-principles). To help us follow these
-principles, we have a standard way of working, documented here. This is the
-default workflow we follow, but it's ok to depart from it when a project needs
-something different (and documenting that departure helps our future selves and
-others understand what changed and why).
+As developers at dxw, we are guided by
+[our team's principles](/tech/#development-team-principles). To help us follow 
+these principles, we have a standard way of working, documented here. This is
+the default workflow we follow, but it's ok to depart from it when a project
+needs something different (and documenting that departure helps our future 
+selves and others understand what changed and why).
 
 ## Work securely
 

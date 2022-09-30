@@ -85,7 +85,8 @@ consider:
 - **Culture**
 
   We can work together with the client, the users and other stakeholders in ways
-  that support our [values](#our-values) and [principles](#our-principles).
+  that support our [values](/who-we-are/#our-values) and
+  [principles](/who-we-are/#our-principles).
 
 ### Matching people to projects
 
@@ -138,7 +139,8 @@ By the end of this meeting, we should make sure that we understand:
 This meeting usually involves quite a bit of discussion about the project. In
 those discussions, we speak freely and openly, offering advice where appropriate
 and making any suggestions we might have. We always try to be as
-[helpful](#helpful), [positive](#positive) and [creative](#curious) as we can.
+[helpful](/who-we-are/#helpful), [positive](/who-we-are/#positive) and
+[creative](/who-we-are/#curious) as we can.
 
 It's important that we use this meeting to find out the information that we need
 to write a good proposal. But it's just as important to prove our expertise, to
@@ -539,7 +541,8 @@ we said we'd do, we always respond to say so.
 
 #### Make a good impression
 
-In tickets as in all things, we are mindful of dxw's [values](#our-values).
+In tickets as in all things, we are mindful of dxw's
+[values](/who-we-are/#our-values).
 
 Many clients' only routine contact with us is via support tickets, so it's vital
 that their experience of the support system is a good one, and that they have a

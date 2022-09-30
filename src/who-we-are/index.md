@@ -73,8 +73,8 @@ enjoy doing things properly, and we're loath to settle for less.
 
 ## Our principles
 
-These principles help us live up to our [values](#our-values), and guide our
-behaviour and decision making in all the things we do at dxw.
+These principles help us live up to our [values](/who-we-are/#our-values), and
+guide our behaviour and decision making in all the things we do at dxw.
 
 ### Start with people and their needs
 
@@ -133,10 +133,11 @@ However, there are some things that we must keep private.
   confidential.
 - We also hold some personal data about and/or on behalf of our clients. We
   never share any of this data, including contact details. See also:
-  [data protection](#data-protection).
+  [data protection](/working-here/managing-your-day-to-day-work/#data-protection).
 - We are sometimes sent documents that are
-  [protectively marked](#protective-marking-scheme), and we have a scheme of our
-  own. Information in these documents is confidential.
+  [protectively marked](/working-here/managing-your-day-to-day-work/#protective-marking-scheme),
+  and we have a scheme of our own. Information in these documents is
+  confidential.
 - Information about work that is currently being procured (whether we are
   bidding or not) and any other information that could damage the commercial
   interests of a client or supplier
@@ -156,8 +157,8 @@ We recognise individual needs and aim to provide a work environment that is
 accessible, welcoming, and empowering for all. We want everyone to feel
 supported and included in our wider community.
 
-Our [values](#our-values) are more than just words on a page - it’s about
-constant action and holding ourselves to account.
+Our [values](/who-we-are/#our-values) are more than just words on a page - it’s
+about constant action and holding ourselves to account.
 
 We’re committed to being transparent with our diversity information and
 regularly assessing the impact of all our policies and practices.

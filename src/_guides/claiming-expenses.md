@@ -3,7 +3,7 @@ title: Claiming expenses
 ---
 This guide gives details on the information you need to provide to claim an
 expense. For more general information about expenses, visit the
-[Expenses section of the Playbook](/#claiming-expenses).
+[Expenses section of the Playbook](/working-here/managing-your-day-to-day-work/#claiming-expenses).
 
 We create expenses using Xero. There is an Expenses section on the page after
 you log in where you can see details of your expenses. If you're expensing
