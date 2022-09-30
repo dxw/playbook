@@ -1,5 +1,8 @@
 ---
 title: Card sorting
+permalink: /:path/:basename/
+redirect_from:
+  - /guides/card-sort
 ---
 **Things you'll need:** Index cards, post-it notes, pens, a large table, 3-5
 participants, an observer/note taker, a smartphone for pictures.
