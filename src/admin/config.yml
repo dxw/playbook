@@ -21,6 +21,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: commercial-ops
     label: Commercial Operations pages
@@ -29,6 +30,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: delivery-management
     label: Delivery Management pages
@@ -37,6 +39,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: design
     label: Design pages
@@ -45,6 +48,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: finance
     label: Finance pages
@@ -53,6 +57,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: leadership
     label: Leadership pages
@@ -61,6 +66,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: product-management
     label: Product Management pages
@@ -69,6 +75,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: sales-and-marketing
     label: Sales and Marketing pages
@@ -77,6 +84,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: strategy
     label: Strategy pages
@@ -85,6 +93,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: tech
     label: Technology pages
@@ -93,6 +102,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: user-research
     label: User Research pages
@@ -101,6 +111,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: who-we-are
     label: Who we are pages
@@ -109,6 +120,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: work-we-do
     label: Work we do pages
@@ -117,6 +129,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: working-here
     label: Working here pages
@@ -125,6 +138,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
   - name: guides
     label: Guides
@@ -133,4 +147,5 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Permalink, name: permalink, widget: string, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown }
