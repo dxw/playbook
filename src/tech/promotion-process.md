@@ -1,5 +1,8 @@
 ---
 title: Technology team promotion process
+permalink: /:path/:basename/
+redirect_from:
+  - /guides/tech-team-promotion-process
 ---
 This policy applies to ad-hoc promotions for roles corresponding to SFIA 1-5
 only. For gaps we identify in the team, one-off roles, or more senior roles

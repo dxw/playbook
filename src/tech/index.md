@@ -169,10 +169,9 @@ where we describe what changed and why we changed it. We keep track of any
 future changes we may want to make or think about in the
 [backlog](https://docs.google.com/document/d/16pZuxt_CWp2NFaYaqBIZvuHmPeNWcqKycLkx5ciErbw/edit).
 
-We have a [documented promotion process](/guides/tech-team-promotion-process)
-based on that framework. We designed it to help make fair decisions about
-promotions that reduce the impact any one person can have on the decision as
-much as possible.
+We have a [documented promotion process](promotion-process) based on that
+framework. We designed it to help make fair decisions about promotions that
+reduce the impact any one person can have on the decision as much as possible.
 
 ## Technical Operations
 
