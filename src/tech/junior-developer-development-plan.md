@@ -1,5 +1,8 @@
 ---
 title: Junior developer development plan
+permalink: /:path/:basename/
+redirect_from:
+  - /guides/junior-developer-development-plan
 ---
 ## High level goals
 
