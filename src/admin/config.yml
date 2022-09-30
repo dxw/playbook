@@ -9,24 +9,128 @@ media_folder: "_images"
 publish_mode: editorial_workflow
 show_preview_links: true
 collections:
-  - name: "root"
-    label: "Index"
+  - name: root
+    label: Index page
     files:
-      - label: "Index page"
-        name: "index"
-        file: "index.markdown"
+      - label: Index page
+        name: index
+        file: src/index.md
         fields:
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: Body, name: body, widget: markdown }
     create: false
     slug: "{{slug}}"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "guides"
-    label: "Guides"
-    folder: "_guides"
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: commercial-ops
+    label: Commercial Operations pages
+    folder: src/commercial-ops
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: delivery-management
+    label: Delivery Management pages
+    folder: src/delivery-management
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: design
+    label: Design pages
+    folder: src/design
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: finance
+    label: Finance pages
+    folder: src/finance
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: leadership
+    label: Leadership pages
+    folder: src/leadership
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: product-management
+    label: Product Management pages
+    folder: src/product-management
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: sales-and-marketing
+    label: Sales and Marketing pages
+    folder: src/sales-and-marketing
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: strategy
+    label: Strategy pages
+    folder: src/strategy
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: tech
+    label: Technology pages
+    folder: src/tech
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: user-research
+    label: User Research pages
+    folder: src/user-research
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: who-we-are
+    label: Who we are pages
+    folder: src/who-we-are
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: work-we-do
+    label: Work we do pages
+    folder: src/work-we-do
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: working-here
+    label: Working here pages
+    folder: src/working-here
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+  - name: guides
+    label: Guides
+    folder: src/_guides
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
