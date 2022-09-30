@@ -63,7 +63,7 @@ Phone: 116 123 (freephone, 24 hours a day, 7 days a week)
 
 Email: [jo@samaritans.org](mailto:jo@samaritans.org)
 
-Website: [www.samaritans.org](http://www.samaritans.org) 
+Website: [www.samaritans.org](https://www.samaritans.org) 
 
 **SaneLine (UK)**
 
@@ -85,7 +85,7 @@ Website: <https://www.mind.org.uk/>
 
 Phone: 0344 800 0550 (not a listening service or suitable for people in crisis, Mon-Fri 09:00– 18:00 call charges apply)  
 
-Website [www.samh.org.uk](http://www.samh.org.uk/)
+Website [www.samh.org.uk](https://www.samh.org.uk/)
 
 **Rethink Advice and Information Service** 
 
@@ -105,4 +105,4 @@ Website: <https://www.bacp.co.uk/about-therapy/information-about-counselling/>
 
 Phone: 0844 8030 240 
 
-Website: [www.counselling-directory.org.uk](http://www.counselling-directory.org.uk)
+Website: [www.counselling-directory.org.uk](https://www.counselling-directory.org.uk)

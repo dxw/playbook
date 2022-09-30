@@ -28,7 +28,7 @@ get feedback on it. We’ve written about our approach to job descriptions here
 We always include a salary band in the job description.
 
 Once the hiring lead has a first draft they will put the job description through
-[The Gender Decoder](http://gender-decoder.katmatfield.com/) and make relevant
+[The Gender Decoder](https://gender-decoder.katmatfield.com/) and make relevant
 changes before sharing with the Diversity and Inclusion group for a final
 review.
 

@@ -156,7 +156,7 @@ priority should help set the direction and scope of your first sprint.
 ## Planning the workshop
 
 From our experience, roadmapping workshops take from 2 hours to a full day.
-Follow [good workshop practice](http://www.liberatingstructures.com/principles)
+Follow [good workshop practice](https://www.liberatingstructures.com/principles)
 to help everyone contribute, make the best use of their valuable time and
 produce a good result.
 

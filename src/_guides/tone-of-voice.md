@@ -26,7 +26,7 @@ We want our readers to feel that:
 There’s lots of good practice guidance in these
 [Readability Guidelines](https://readabilityguidelines.co.uk/) by Content Design
 London. To help with readability, it’s also a good idea to use something like
-the [Hemingway app](http://www.hemingwayapp.com/) which can help you improve
+the [Hemingway app](https://www.hemingwayapp.com/) which can help you improve
 your writing. But remember it’s just a guide.
 
 ## Overall tone of voice

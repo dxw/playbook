@@ -10,8 +10,9 @@ to public sector organisations for creating and running better digital services.
 
 [www.gov.uk/service-manual](https://www.gov.uk/service-manual)
 
-The Service Manual describes how an [agile approach](http://agilemanifesto.org/)
-to delivering projects can lead to better digital services.
+The Service Manual describes how an
+[agile approach](https://agilemanifesto.org/) to delivering projects can lead to
+better digital services.
 
 The core principles of an agile approach are:
 

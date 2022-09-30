@@ -10,7 +10,7 @@ one is excluded from using a website because of their disability.
 
 It also matters because making online public services accessible is a legal duty
 under the
-[Accessibility regulations](http://www.legislation.gov.uk/uksi/2018/952/contents/made)
+[Accessibility regulations](https://www.legislation.gov.uk/uksi/2018/952/contents/made)
 now meet WCAG 2.1 level AA.
 
 ## Design for accessibility
