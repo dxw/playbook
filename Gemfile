@@ -9,3 +9,7 @@ group :jekyll_plugins do
   gem "nokogiri"
   gem "sass-embedded"
 end
+
+group :development do
+  gem "html-proofer"
+end
