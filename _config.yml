@@ -14,7 +14,7 @@ defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
+      layout: default
       sidebar: true
       related_order: 9999
 collections:

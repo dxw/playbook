@@ -4,8 +4,8 @@ backend:
   branch: main
   open_authoring: true
 media_library:
-  name: 'disabled'
-media_folder: "_images"
+  name: disabled
+media_folder: _images
 publish_mode: editorial_workflow
 show_preview_links: true
 collections:
