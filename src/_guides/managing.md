@@ -92,14 +92,14 @@ The owners of each section are:
 
 For smaller corrections and updates to the Playbook, staff should consult with
 relevant colleagues and follow the
-[guide to contributing to the Playbook](/guides/contributing).
+[guide to contributing to the Playbook](/contributing/).
 
 For more significant additions and changes to the Playbook, the steps are:
 
 * the owner of the section and the author agree the need for the update
 * the author drafts and reviews the update with appropriate colleagues
 * the author follows the
-  [guide to contributing to the Playbook](/guides/contributing)
+  [guide to contributing to the Playbook](/contributing/)
 * the owner and colleagues review and approve the changes
 
 ### Review
