@@ -1,3 +1,9 @@
+# To run locally, replace the `backend` config with the lines below and run:
+#   cd src && npx netlify-cms-proxy-server
+#
+# local_backend: true
+# backend:
+#   name: git-gateway
 backend:
   name: github
   repo: dxw/playbook
