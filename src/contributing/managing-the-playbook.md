@@ -4,6 +4,8 @@ permalink: /:path/:basename/
 redirect_from:
   - /guides/managing
 ---
+**Needs review**
+
 This is the content strategy for dxw Playbook.
 
 It describes the purpose and users of the Playbook, the kinds of material it
