@@ -181,9 +181,9 @@ from your line manager who can point you in the right direction.
 - **\#help-hr-non-confidential**: for any non confidential questions about what
   we provide.
 
-### E﻿quipment guidance
+### Equipment guidance
 
-W﻿e can support you with your home-office set-up, including things like a desk,
+We can support you with your home-office set-up, including things like a desk,
 monitor and keyboard. Here's a
 [guide](https://docs.google.com/document/d/17Q8zOEm4cd0ZDGqkT8Bcg8G1CCK_vLlwMtOFVgJalAU/edit#heading=h.1z3dei2pr1jh)
 which shows what we can support with.

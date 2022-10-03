@@ -303,9 +303,9 @@ Details of what the wellbeing voucher offers can be found here:
 
 [Apply for a wellbeing eyecare voucher](https://gw.eyecareplans.co.uk/dxwe12q2415d3df)
 
-## H﻿ome office equipment
+## Home office equipment
 
-H﻿ere's a
+Here's a
 [guide ](https://docs.google.com/document/d/17Q8zOEm4cd0ZDGqkT8Bcg8G1CCK_vLlwMtOFVgJalAU/edit#heading=h.1z3dei2pr1jh)
 how we can support your home working environment. We can also provide a
 [DSE assessment](https://www.hse.gov.uk/msd/dse/) if you need specialist advice.
