@@ -7,15 +7,15 @@ The wellbeing of our team is hugely important - if you have any physical or ment
 
 dxw offers the following to support your health and wellbeing - we want to ensure that you are well set up and looked after during your employment:
 
-* Safe homeworking set-up: if you require any [ergonomic items](https://playbook.dxw.com/#getting-things-you-need), additional travel support or an assessment of your home or office working set up ([DSE](https://www.hse.gov.uk/msd/dse/)), you can find support through your line manager and the HR team to arrange this.
-* Accessibility information for our shared office spaces can be found [here ](https://playbook.dxw.com/guides/office-accessibility.html)and please speak to HR if you’re interested in support with digital accessibility.
-* Wellbeing based courses can be purchased through the [learning and development budget](https://playbook.dxw.com/#learning-and-development), these are a taxable benefit.
-* Other benefits that address health: [Eyecare vouchers](https://playbook.dxw.com/#eyecare-vouchers), Flu vaccine vouchers offered annually and [cycle to work scheme](https://playbook.dxw.com/#cycle-to-work-scheme).
-* Bespoke dxw support paths to seek help and advice: [Slack groups](https://docs.google.com/document/d/1rIHYqFdEWSmjkUyScx-tIpoFrICO1hG7-SDnSLOR3JM/edit), [Buddy System, Helpers, Line Managers](https://playbook.dxw.com/#other-support-paths) and [HR support](https://playbook.dxw.com/#people-and-hr-team).
-* [Reasonable adjustments](https://playbook.dxw.com/#sickness) to support a disability, long-term health conditions and times of change and challenge. (Some changes and challenges may be, pregnancy, caring responsibilities, menopause & hormone therapies, bereavement, mental and physical health diagnosis and ongoing long term conditions).  
-* Taking the time you need ([compassionate leave, one off carers leave, sickness, annual and unpaid leave](https://playbook.dxw.com/#your-pay-pension-and-other-benefits)) - speak to your line manager for more details.
+* Safe homeworking set-up: if you require any [ergonomic items](/working-here/managing-your-day-to-day-work/#getting-things-you-need), additional travel support or an assessment of your home or office working set up ([DSE](https://www.hse.gov.uk/msd/dse/)), you can find support through your line manager and the HR team to arrange this.
+* Accessibility information for our shared office spaces can be found [here ](/guides/office-accessibility)and please speak to HR if you’re interested in support with digital accessibility.
+* Wellbeing based courses can be purchased through the [learning and development budget](/working-here/supporting-your-development-and-wellbeing/#learning-and-development), these are a taxable benefit.
+* Other benefits that address health: [Eyecare vouchers](/working-here/supporting-your-development-and-wellbeing/#eyecare-vouchers), Flu vaccine vouchers offered annually and [cycle to work scheme](/working-here/supporting-your-development-and-wellbeing/#cycle-to-work-scheme).
+* Bespoke dxw support paths to seek help and advice: [Slack groups](https://docs.google.com/document/d/1rIHYqFdEWSmjkUyScx-tIpoFrICO1hG7-SDnSLOR3JM/edit), [Buddy System, Helpers, Line Managers](/working-here/supporting-your-development-and-wellbeing/#other-support-paths) and [HR support](/working-here/supporting-your-development-and-wellbeing/#people-and-hr-team).
+* [Reasonable adjustments](/working-here/pay-pension-and-benefits/#sickness) to support a disability, long-term health conditions and times of change and challenge. (Some changes and challenges may be, pregnancy, caring responsibilities, menopause & hormone therapies, bereavement, mental and physical health diagnosis and ongoing long term conditions).
+* Taking the time you need ([compassionate leave, one off carers leave, sickness, annual and unpaid leave](/working-here/pay-pension-and-benefits/)) - speak to your line manager for more details.
 * Support through the [Access to work](https://www.gov.uk/access-to-work) grant scheme for those with a disability or eligible health condition.
-* [Flexible working options](https://playbook.dxw.com/#flexible-working) such as change of working pattern, hours or role/project, access to local hot desking and maintaining remote working, to support changing needs.
+* [Flexible working options](/working-here/pay-pension-and-benefits/#flexible-working) such as change of working pattern, hours or role/project, access to local hot desking and maintaining remote working, to support changing needs.
 
 ## Mental and physical health support at a time of challenge or crisis
 
