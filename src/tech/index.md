@@ -1,5 +1,6 @@
 ---
-title: Our approach to technology
+title: Technology at dxw
+related_order: 1000
 ---
 
 ## Development

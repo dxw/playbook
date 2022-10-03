@@ -1,5 +1,6 @@
 ---
-title: Our approach to sales and marketing
+title: Sales and marketing at dxw
+related_order: 1000
 ---
 
 ## Sales and marketing team principles

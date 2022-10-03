@@ -1,5 +1,6 @@
 ---
-title: Our approach to user research
+title: User research at dxw
+related_order: 1000
 ---
 
 At dxw, we believe in making decisions based on evidenced user needs. As user

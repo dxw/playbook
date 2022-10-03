@@ -1,5 +1,6 @@
 ---
-title: Our approach to design
+title: Design at dxw
+related_order: 1000
 ---
 
 ## Design team principles

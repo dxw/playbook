@@ -1,5 +1,6 @@
 ---
-title: Our approach to product management
+title: Product management at dxw
+related_order: 1000
 ---
 
 ## Product management principles

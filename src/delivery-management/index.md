@@ -1,5 +1,6 @@
 ---
-title: Our approach to delivery management
+title: Delivery management at dxw
+related_order: 1000
 ---
 
 ## Delivery management principles

@@ -1,5 +1,6 @@
 ---
-title: Our approach to commerical operations
+title: Commerical operations at dxw
+related_order: 1000
 ---
 
 We are the team that enables and encourages dxw to achieve its mission(s) and

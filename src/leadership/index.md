@@ -1,5 +1,6 @@
 ---
-title: Our approach to leadership
+title: Leadership at dxw
+related_order: 1000
 ---
 
 At dxw, we believe that great teams need great leaders.
