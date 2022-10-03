@@ -8,7 +8,7 @@
         {% include related_pages.html %}
       </ul>
     {% else %}
-      {{ content }}
+      {% include anchor_headings.html html=content anchorBody="#" anchorAttrs='aria-label="Permalink to %heading%"' %}
     {% endif %}
   </div>
 </article>

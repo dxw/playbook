@@ -31,6 +31,24 @@ $font-size: 1em;
       margin-right: -0.5em;
       padding-left: 0.5em;
       padding-right: 0.5em;
+
+      &:target a {
+        display: none;
+      }
+
+      a {
+        vertical-align: middle;
+        font-size: 0.7em;
+        color: colours.$accent-b;
+        text-decoration: none;
+        transition: color 0.2s;
+
+        &:hover,
+        &:focus,
+        &:active {
+          color: colours.$navy;
+        }
+      }
     }
 
     :target {
