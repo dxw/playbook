@@ -1,5 +1,5 @@
 ---
-title: GovPress plugin Advisories
+title: GovPress plugin advisories
 permalink: /:path/:basename/
 redirect_from:
   - /guides/plugin-advisories
@@ -31,7 +31,7 @@ Pluginscan includes a report on vulnerabilities, based on the API exposed by the
 It's important that we avoid publishing advisories that have already been
 reported by someone else.
 
-## Writing up Advisories
+## Writing up advisories
 
 ### Naming the advisory
 
