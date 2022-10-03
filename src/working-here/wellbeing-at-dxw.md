@@ -10,8 +10,8 @@ The wellbeing of our team is hugely important - if you have any physical or ment
 
 dxw offers the following to support your health and wellbeing - we want to ensure that you are well set up and looked after during your employment:
 
-* Safe homeworking set-up: if you require any [ergonomic items](/working-here/managing-your-day-to-day-work/#getting-things-you-need), additional travel support or an assessment of your home or office working set up ([DSE](https://www.hse.gov.uk/msd/dse/)), you can find support through your line manager and the HR team to arrange this.
-* Accessibility information for our shared office spaces can be found [here ](/guides/office-accessibility)and please speak to HR if you’re interested in support with digital accessibility.
+* Safe homeworking set-up: if you require any [ergonomic items](/working-here/getting-things-you-need/), additional travel support or an assessment of your home or office working set up ([DSE](https://www.hse.gov.uk/msd/dse/)), you can find support through your line manager and the HR team to arrange this.
+* Accessibility information for our shared office spaces can be found [here](/guides/office-accessibility) and please speak to HR if you’re interested in support with digital accessibility.
 * Wellbeing based courses can be purchased through the [learning and development budget](/working-here/supporting-your-development-and-wellbeing/#learning-and-development), these are a taxable benefit.
 * Other benefits that address health: [Eyecare vouchers](/working-here/supporting-your-development-and-wellbeing/#eyecare-vouchers), Flu vaccine vouchers offered annually and [cycle to work scheme](/working-here/supporting-your-development-and-wellbeing/#cycle-to-work-scheme).
 * Bespoke dxw support paths to seek help and advice: [Slack groups](https://docs.google.com/document/d/1rIHYqFdEWSmjkUyScx-tIpoFrICO1hG7-SDnSLOR3JM/edit), [Buddy System, Helpers, Line Managers](/working-here/supporting-your-development-and-wellbeing/#other-support-paths) and [HR support](/working-here/supporting-your-development-and-wellbeing/#people-and-hr-team).

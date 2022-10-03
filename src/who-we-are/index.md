@@ -133,9 +133,9 @@ However, there are some things that we must keep private.
   confidential.
 - We also hold some personal data about and/or on behalf of our clients. We
   never share any of this data, including contact details. See also:
-  [data protection](/working-here/managing-your-day-to-day-work/#data-protection).
+  [data protection](/working-here/data-protection-and-confidentiality/).
 - We are sometimes sent documents that are
-  [protectively marked](/working-here/managing-your-day-to-day-work/#protective-marking-scheme),
+  [protectively marked](/working-here/data-protection-and-confidentiality/#protective-marking-scheme),
   and we have a scheme of our own. Information in these documents is
   confidential.
 - Information about work that is currently being procured (whether we are

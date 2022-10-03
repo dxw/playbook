@@ -151,3 +151,12 @@ collections:
       - { label: Title, name: title, widget: string, required: true }
       - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown, required: true }
+  - name: working-here__getting-things-you-need
+    label: Working here > Getting things you need
+    label_singular: Getting things you need page
+    folder: working-here/getting-things-you-need
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
