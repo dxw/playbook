@@ -5,15 +5,14 @@
 .related {
   width: 100%;
   padding: 1em;
-  background-color: colours.$navy;
-  color: colours.$ivory;
+  background-color: colours.$accent-a;
   font-family: typography.$heading-font-family;
   font-weight: typography.$heading-font-weight;
+  font-size: 0.9em;
   overflow-y: auto;
 
   a {
     display: block;
-    color: colours.$ivory;
     text-decoration: none;
 
     &:hover,
@@ -21,7 +20,7 @@
     &:active {
       text-decoration-line: underline;
       text-decoration-thickness: 0.15em;
-      text-decoration-color: colours.$accent-a;
+      text-decoration-color: colours.$accent-b;
     }
   }
 
@@ -44,14 +43,21 @@
 
 @include breakpoints.on-large-screens {
   .related {
-    width: 15em;
+    width: 18em;
     height: 100%;
     padding: 1.5em 1em;
+    background-color: colours.$accent-b;
 
     a {
       margin-bottom: 0.5em;
       padding-left: 2em;
       text-indent: -2em;
+
+      &:hover,
+      &:focus,
+      &:active {
+        text-decoration-color: colours.$accent-a;
+      }
     }
 
     ul li {

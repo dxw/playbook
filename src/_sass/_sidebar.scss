@@ -4,9 +4,7 @@
 @use "./navbar";
 @use "./typography";
 
-$font-family: typography.$heading-font-family;
-$font-weight: typography.$heading-font-weight;
-$font-size: 1.2em;
+$font-size: 1em;
 $button-thickness: 0.25em;
 $button-side: 3 * $button-thickness + 2 * 0.375em;
 $horizontal-padding: 1em;
@@ -17,8 +15,8 @@ $collapsed-width: $button-side + $horizontal-padding;
 .sidebar {
   position: relative;
   height: 100%;
-  font-family: $font-family;
-  font-weight: $font-weight;
+  font-family: typography.$heading-font-family;
+  font-weight: typography.$heading-font-weight;
   font-size: $font-size;
 }
 
