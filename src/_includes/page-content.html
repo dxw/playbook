@@ -1,13 +1,12 @@
 <article class="page-content">
   <div>
     <h1>{{ page.title }}</h1>
+
     {% assign stripped_content = content | strip %}
     {% if stripped_content == "" %}
-      <p><strong>Nothing here!</strong></p>
-      <p>
-        Use the navigation to the left (or above on mobile) to find related
-        content.
-      </p>
+      <ul>
+        {% include related_pages.html %}
+      </ul>
     {% else %}
       {{ content }}
     {% endif %}

@@ -1,4 +1,3 @@
-{% assign grouped_related_pages = site.pages | children_of: page | group_by: "related_order" | sort: "name" %}
 {% assign parent_page = site.pages | parent_of: page %}
 
 <aside class="related">
@@ -12,19 +11,7 @@
         {% endunless %}
       {% endif %}
 
-      {% for related_page_group in grouped_related_pages %}
-        {% assign related_pages = related_page_group.items | sort_natural: "title" %}
-
-        {% for related_page in related_pages %}
-          {% unless related_page.unrelatable %}
-            <li>
-              <a href="{{ related_page.url }}">
-                {{ related_page.title }}
-              </a>
-            </li>
-          {% endunless %}
-        {% endfor %}
-      {% endfor %}
+      {% include related_pages.html %}
     </ul>
   </nav>
 </aside>
