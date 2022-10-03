@@ -51,45 +51,6 @@ $height: 70px; // Manually measured after layout.
       }
     }
   }
-
-  .navbar__menu {
-    [role="menu"] {
-      display: none;
-      position: absolute;
-      top: 2.5em;
-      right: 1em;
-      border-radius: 5px;
-      max-height: 80vh;
-      max-width: min(20em, 70vw);
-      padding: 1em;
-      padding-left: 2em;
-      text-indent: -1em;
-      background: colours.$cream;
-      box-shadow: -0.5em 0.5em 0.75em rgba(colours.$navy, 0.25);
-      overflow-y: auto;
-
-      li:last-child {
-        margin-bottom: 0;
-      }
-
-      a {
-        display: block;
-
-        &:hover,
-        &:focus,
-        &:active {
-          text-decoration-color: colours.$accent-b;
-        }
-      }
-    }
-
-    &:hover,
-    &:focus-within {
-      [role="menu"] {
-        display: block;
-      }
-    }
-  }
 }
 
 h1,

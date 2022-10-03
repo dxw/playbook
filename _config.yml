@@ -17,11 +17,6 @@ defaults:
       layout: default
       sidebar: true
       related_order: 9999
-collections:
-  guides:
-    output: true
-    permalink: /:collection/:title
-    sort_by: title
 
 # Build settings
 source: src

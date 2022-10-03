@@ -16,7 +16,7 @@ module Jekyll
     end
 
     def all_pages(context)
-      context.registers[:site].pages + context.registers[:site].collections["guides"].docs
+      context.registers[:site].pages
     end
 
     def page(context)
