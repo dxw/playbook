@@ -1,15 +1,22 @@
+@use "./breakpoints";
 @use "./colours";
 @use "./sidebar";
 
 .contribute {
-  padding: 0.5em;
-  background-color: colours.$accent-a;
-  text-align: center;
-  font-family: sidebar.$font-family;
-  font-weight: sidebar.$font-weight;
-  font-size: sidebar.$font-size;
+  display: none;
+}
 
-  a {
-    margin: 0;
+@include breakpoints.on-large-screens {
+  .contribute {
+    padding: 0.5em;
+    background-color: colours.$accent-a;
+    text-align: center;
+    font-family: sidebar.$font-family;
+    font-weight: sidebar.$font-weight;
+    font-size: sidebar.$font-size;
+
+    a {
+      margin: 0;
+    }
   }
 }
