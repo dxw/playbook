@@ -8,7 +8,7 @@ $font-family: typography.$heading-font-family;
 $font-weight: typography.$heading-font-weight;
 $font-size: 1.2em;
 $button-thickness: 0.25em;
-$button-side: 3 * $button-thickness + 2 * 0.4em;
+$button-side: 3 * $button-thickness + 2 * 0.375em;
 $horizontal-padding: 1em;
 $max-width: 90vw;
 $width: 22em;
@@ -69,7 +69,7 @@ $collapsed-width: $button-side + $horizontal-padding;
     width: $width - 2 * $horizontal-padding;
 
     > :first-child {
-      margin-top: 0.24em;
+      margin-top: 0.2em;
       margin-bottom: 1.5em;
       font-size: 0.8em;
       text-align: center;
