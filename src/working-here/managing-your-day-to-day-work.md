@@ -15,7 +15,7 @@ about a single thing we will get done that day. If you think you're going to be
 late, you should let everyone know in the project Slack channel.
 
 Most developers have maintenance responsibilities, which they do during their
-[support rotation](/work-we-do/#support-rota).
+[support rotation](/work-we-do/supporting-services/#support-rota).
 
 We do our very best to
 [work at a sustainable pace](/who-we-are/#work-at-a-sustainable-pace). But
