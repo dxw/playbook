@@ -142,32 +142,6 @@ However, there are some things that we must keep private.
   bidding or not) and any other information that could damage the commercial
   interests of a client or supplier
 
-### Diversity and inclusion statement
-
-At dxw, we value people and want them to feel free to be themselves.
-
-We embrace each other's differences, in gender, religion, beliefs, ethnicity,
-disability, age, sexual orientation, neurotype, nationality, and identity. We
-are diverse - like the people we build, design, and create for.
-
-Amazing things happen when we collaborate together. We work in the open and
-believe everyone's voices should be heard.
-
-We recognise individual needs and aim to provide a work environment that is
-accessible, welcoming, and empowering for all. We want everyone to feel
-supported and included in our wider community.
-
-Our [values](/who-we-are/#our-values) are more than just words on a page - it’s
-about constant action and holding ourselves to account.
-
-We’re committed to being transparent with our diversity information and
-regularly assessing the impact of all our policies and practices.
-
-Our approach is set out in our
-[Inclusion, diversity and equal opportunities policy](/working-here/inclusion-diversity-equality/).
-
-Thank you for being you - it makes us better.
-
 ### Make everything we do accessible
 
 At dxw we want to make sure that everyone can access the digital services we
@@ -193,6 +167,32 @@ We have an
 [internal group](https://www.dxw.com/2021/02/what-were-doing-to-reduce-and-offset-our-carbon-footprint/)
 who meet regularly to talk about how dxw can respond to the climate and
 ecological crisis.
+
+## Diversity and inclusion statement
+
+At dxw, we value people and want them to feel free to be themselves.
+
+We embrace each other's differences, in gender, religion, beliefs, ethnicity,
+disability, age, sexual orientation, neurotype, nationality, and identity. We
+are diverse - like the people we build, design, and create for.
+
+Amazing things happen when we collaborate together. We work in the open and
+believe everyone's voices should be heard.
+
+We recognise individual needs and aim to provide a work environment that is
+accessible, welcoming, and empowering for all. We want everyone to feel
+supported and included in our wider community.
+
+Our [values](/who-we-are/#our-values) are more than just words on a page - it’s
+about constant action and holding ourselves to account.
+
+We’re committed to being transparent with our diversity information and
+regularly assessing the impact of all our policies and practices.
+
+Our approach is set out in our
+[Inclusion, diversity and equal opportunities policy](/working-here/inclusion-diversity-equality/).
+
+Thank you for being you - it makes us better.
 
 ## Our Board of Trustees
 
