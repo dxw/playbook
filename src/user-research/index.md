@@ -80,7 +80,7 @@ and working with, not for our clients.
 ## User research guidance
 
 The Playbook includes detailed guidance on
-[how we do user research at dxw](/guides/how-we-do-user-research).
+[how we do user research at dxw](/user-research/how-we-do-user-research/).
 
 The guide starts with the user research workflow, which describes the things
 that user researchers usually do on projects, and then provides further guidance

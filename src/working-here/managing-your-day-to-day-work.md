@@ -210,7 +210,7 @@ Wherever possible, it's best to check that expenses can be reclaimed before
 incurring them.
 
 We manage expenses using Xero. For more information about how to do this, see
-the [guide on claiming expenses](/guides/claiming-expenses)
+the [guide on claiming expenses](/working-here/claiming-expenses/)
 
 ## Travel and Accommodation Policy
 

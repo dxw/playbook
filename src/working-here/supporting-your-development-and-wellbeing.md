@@ -147,7 +147,7 @@ We also have a weekly Ask HR slot at 11am on Wednesdays, to provide a regular
 opportunity to get advice and support. The door is always open though, so you
 can also always book an ad-hoc slot with the HR People Manager to discuss
 matters you might not feel able to raise with others in your
-[support path](https://playbook.dxw.com/#other-support-paths), or that are
+[support path](#other-support-paths), or that are
 specialist to the HR function in dxw.
 
 The list is not exhaustive but some topics might include:

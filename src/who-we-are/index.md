@@ -164,7 +164,7 @@ We’re committed to being transparent with our diversity information and
 regularly assessing the impact of all our policies and practices.
 
 Our approach is set out in our
-[Inclusion, diversity and equal opportunities policy](/guides/inclusion-diversity-equality.html).
+[Inclusion, diversity and equal opportunities policy](/working-here/inclusion-diversity-equality/).
 
 Thank you for being you - it makes us better.
 
@@ -178,7 +178,7 @@ We follow the guidance in the
 to help us to meet government accessibility requirements.
 
 And to create a consistent approach to digital accessibility, our Playbook has
-[additional guidance for our different professions](https://playbook.dxw.com/guides/web-accessibility).
+[additional guidance for our different professions](/tech/web-accessibility/).
 
 ### Reduce our impact on the environment
 

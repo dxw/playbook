@@ -513,7 +513,7 @@ on tickets for the whole week. They are responsible for the non-GovPress support
 requests.
 
 If you're on support, take a look at the
-[guide on how we handle support](/guides/support-and-on-call.html).
+[guide on how we handle support](/tech/support-and-on-call/).
 
 ### Support principles
 
@@ -640,7 +640,7 @@ services for the public sector.
 When we’re hiring, we also want potential new staff to be able to get to know us
 beforehand.
 
-When we blog we use the dxw [tone of voice](/guides/tone-of-voice).
+When we blog we use the dxw [tone of voice](/work-we-do/tone-of-voice/).
 
 We record ideas for blog posts and the schedule for publishing on
 [a Trello board](https://trello.com/b/otR1Mmjv/dxw-blogging-and-case-studies-schedule).
@@ -654,7 +654,7 @@ sign off and publishing of posts. Get in touch through the
 The marketing team run dxw’s
 [official Twitter account](https://twitter.com/dxw).
 
-When we tweet we use the dxw [tone of voice](/guides/tone-of-voice).
+When we tweet we use the dxw [tone of voice](/work-we-do/tone-of-voice/).
 
 We encourage people to work openly and to tweet about the work they’re doing,
 their learning and ideas from their own accounts. You should be careful not to

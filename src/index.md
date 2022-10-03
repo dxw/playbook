@@ -8,10 +8,10 @@ Something canonical that tells us what the current “right way” to do things 
 If you’re a current or potential client, this Playbook is also for you. To help
 you understand us and how we can work together.
 
-We [continually update](/guides/managing) the principles and guides in our
-Playbook. Because we’re always exploring better ways to get things done. What’s
-written here is the way we do things now. Until we find something better, and
-write that down.
+We [continually update](/contributing/managing-the-playbook/) the principles and
+guides in our Playbook. Because we’re always exploring better ways to get things
+done. What’s written here is the way we do things now. Until we find something
+better, and write that down.
 
 This Playbook was originally inspired by
 [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks,
