@@ -133,6 +133,15 @@ collections:
       - { label: Title, name: title, widget: string, required: true }
       - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown, required: true }
+  - name: work-we-do__building-services
+    label: Work we do > Building services
+    label_singular: Building services page
+    folder: work-we-do/building-services
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
   - name: working-here
     label: Working here
     label_singular: Working here page
