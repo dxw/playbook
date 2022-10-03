@@ -1,8 +1,7 @@
 ---
-title: Our approach to finance
+title: Delegated authorities
+permalink: /:path/:basename/
 ---
-
-### Delegated authorities
 
 Each year, the Trustees and the Exec Board agree a set of targets (and a floor)
 for turnover and profitability, based on the financial modelling of the business
