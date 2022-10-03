@@ -26,18 +26,31 @@ dxw GitHub organisation to be able to suggest changes.
 
 ## Suggesting a change
 
-1. Click on the yellow 'Edit this site' link
+1. Open the page for editing
+
+   For an existing page:
+
+   1. Navigate to the page you want to edit
+   2. Click on the yellow 'Edit this page' link
+
+   For an new page:
+
+   1. Navigate to the most relevant 'parent' for the new page
+   2. Click on the yellow 'Add a new page here' link
+
+   Alternatively, if you prefer to use the admin backend directly:
+
+   1. Choose the page you want to change from the backend
+
+      - If it's an existing page, find it under 'Collections'.
+      - If it's a new page you want to add, find the appropriate section under
+        'Collections' and click the 'New <page type>' button.
+
 2. If you are not logged in, you need to log in with your GitHub account
-3. If you are asked if you want to 'fork the repo', you do.
-4. Choose the page you want to change.
-
-   - If it's an existing page, find it under 'Collections'.
-   - If it's a new page you want to add, find the appropriate section under
-     'Collections' and click the 'New <page type>' button.
-
-5. Make your edits in the 'Rich Text' editor.
-6. Click 'Save' at the top of the page
-7. Click 'Status: Draft' and choose 'In review'
+3. If you are asked if you want to 'fork the repo', you do
+4. Make your edits in the 'Rich Text' editor
+5. Click 'Save' at the top of the page
+6. Click 'Status: Draft' and choose 'In review'
 
 Your suggested changes will not be live yet. Your suggestions should be
 available to view on the
