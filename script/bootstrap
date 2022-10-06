@@ -16,7 +16,6 @@ if [ -f Brewfile ] && [ "$(uname -s)" = "Darwin" ]; then
   if ! brew bundle check >/dev/null 2>&1; then
     echo "==> Installing Homebrew dependencies..."
     brew update
-    brew upgrade ruby-build
     brew bundle install --verbose --no-lock
   fi
 fi
@@ -26,7 +25,8 @@ if [ -f .ruby-version ]; then
 
   if [ -z "$(rbenv version-name 2>/dev/null)" ]; then
     echo "==> Installing Ruby..."
-    rbenv install --skip-existing
+    brew upgrade ruby-build
+    rbenv install
     rbenv rehash
   fi
 fi

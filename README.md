@@ -44,6 +44,15 @@ script/server
 
 This runs the server on localhost:4000.
 
+### Checking the HTML
+
+To proof the HTML for things like dead links, run:
+
+```
+bundle exec jekyll build
+bundle exec htmlproofer _site
+```
+
 ## Licence
 
 The contents of dxw's Playbook is released under a

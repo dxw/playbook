@@ -1,0 +1,22 @@
+$navy: #243746;
+$cream: #f3f1e9;
+$ivory: #f9f8f5;
+
+$yellow-light: #fcd672;
+$blue-light: #73c3d5;
+
+$accent-a: $yellow-light;
+$accent-b: $blue-light;
+
+html {
+  background: $accent-a;
+}
+
+body {
+  background: $ivory;
+}
+
+::selection {
+  background: rgba($accent-a, 0.8);
+  color: $navy;
+}

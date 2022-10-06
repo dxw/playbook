@@ -1,0 +1,18 @@
+@use "./breakpoints";
+@use "./navbar";
+
+* {
+  box-sizing: border-box;
+}
+
+main {
+  margin-top: navbar.$height;
+  height: calc(100vh - navbar.$height);
+  display: flex;
+  flex-direction: column;
+
+  @include breakpoints.on-large-screens {
+    height: calc(100vh - navbar.$height - 3em);
+    flex-direction: row;
+  }
+}

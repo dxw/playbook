@@ -1,53 +1,28 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
+# This config file is meant for settings that affect your whole site, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
+# 'bundle exec jekyll serve'. If you change this file, please restart the server
+# process.
 #
 # Site settings
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
-      sidebar: true
-collections:
-  guides:
-    output: true
-    permalink: /:collection/:title
-    sort_by: title
+      layout: default
+      related_order: 9999
 
 # Build settings
+source: src
 sass:
   implementation: sass-embedded
   load_paths:
-    - node_modules/*
-# plugins:
+    - ../node_modules/*
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+plugins:
+  - jekyll-redirect-from

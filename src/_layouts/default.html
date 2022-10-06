@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <title>
+      {% if page.title and page.title != "dxw's Playbook" %}{{ page.title | escape }} - {% endif %}Playbook - dxw
+    </title>
+
+    <link rel="stylesheet" href="/assets/main.css" />
+    <script defer data-domain="playbook.dxw.com" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+    {% include navbar.html %}
+    <main>
+      {% include related.html %}
+      {% include page-content.html %}
+    </main>
+    {% include contribute.html %}
+  </body>
+</html>

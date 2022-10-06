@@ -1,0 +1,77 @@
+@use "./breakpoints";
+@use "./colours";
+@use "./typography";
+
+.related {
+  width: 100%;
+  padding: 1em;
+  background-color: colours.$accent-a;
+  font-family: typography.$heading-font-family;
+  font-weight: typography.$heading-font-weight;
+  font-size: 0.9em;
+  overflow-y: auto;
+
+  a {
+    display: block;
+    text-decoration: none;
+
+    &:hover,
+    &:focus,
+    &:active {
+      text-decoration-line: underline;
+      text-decoration-thickness: 0.15em;
+      text-decoration-color: colours.$accent-b;
+    }
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      margin: 0;
+      padding-right: 2em;
+      white-space: nowrap;
+    }
+  }
+
+  nav > ul {
+    display: flex;
+  }
+}
+
+@include breakpoints.on-large-screens {
+  .related {
+    width: 21em;
+    max-width: 30vw;
+    height: 100%;
+    padding: 1.5em 1em;
+    background-color: colours.$accent-b;
+
+    a {
+      margin-bottom: 0.5em;
+      padding-left: 2em;
+      text-indent: -2em;
+
+      &:hover,
+      &:focus,
+      &:active {
+        text-decoration-color: colours.$accent-a;
+      }
+    }
+
+    ul li {
+      padding-right: 0;
+      white-space: unset;
+
+      &.related__back-link {
+        margin-bottom: 1.5em;
+      }
+    }
+
+    nav > ul {
+      display: unset;
+    }
+  }
+}

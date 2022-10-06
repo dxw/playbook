@@ -1,0 +1,17 @@
+{% assign parent_page = site.pages | parent_of: page %}
+
+<aside class="related">
+  <nav aria-label="Related content sidebar">
+    <ul>
+      {% if parent_page %}
+        {% unless parent_page.unrelatable %}
+          <li class="related__back-link">
+            <a href="{{ parent_page.url }}">ᐊ {{ parent_page.title }}</a>
+          </li>
+        {% endunless %}
+      {% endif %}
+
+      {% include related_pages.html %}
+    </ul>
+  </nav>
+</aside>

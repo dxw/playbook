@@ -1,0 +1,77 @@
+@use "./colours";
+
+$body-font-family: Cardo, serif;
+$body-font-weight: 400;
+$body-font-weight-bold: 700;
+
+$heading-font-family: Poppins, sans-serif;
+$heading-font-weight: 600;
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Cardo:400,700&display=swap");
+
+body {
+  -moz-osx-font-smoothing: grayscale;
+  font-family: $body-font-family;
+  font-weight: $body-font-weight;
+  font-size: 15pt;
+  line-height: 1.5;
+  color: colours.$navy;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $heading-font-family;
+  font-weight: $heading-font-weight;
+}
+
+h6 {
+  font-size: 0.75em;
+}
+
+strong {
+  font-weight: $body-font-weight-bold;
+}
+
+a {
+  color: colours.$navy;
+  text-decoration-line: underline;
+  text-decoration-thickness: 0.1em;
+  text-decoration-color: colours.$accent-b;
+
+  &:active,
+  &:focus,
+  &:hover {
+    text-decoration-color: colours.$navy;
+  }
+}
+
+code,
+pre {
+  background-color: colours.$cream;
+  color: colours.$navy;
+}
+
+code {
+  padding: 0.1em 0.2em;
+}
+
+pre {
+  padding: 1em;
+  overflow-x: auto;
+}
+
+blockquote {
+  margin-left: 0;
+  margin-right: 0;
+  border-left: 3px solid colours.$accent-b;
+  padding-left: 1em;
+}
+
+li {
+  margin-bottom: 1em;
+}

@@ -1,0 +1,53 @@
+@use "sass:math";
+
+@use "./colours";
+
+$font-size: 1em;
+
+.page-content {
+  flex: 1;
+  padding: 0.5em 2em 5em;
+  font-size: $font-size;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+  will-change: scroll-position;
+
+  > div {
+    margin: 0 auto;
+    max-width: 40em;
+
+    > h1,
+    > h2,
+    > h3,
+    > h4,
+    > h5,
+    > h6 {
+      margin-left: -0.5em;
+      margin-right: -0.5em;
+      padding-left: 0.5em;
+      padding-right: 0.5em;
+
+      &:target a {
+        display: none;
+      }
+
+      a {
+        vertical-align: middle;
+        font-size: 0.7em;
+        color: colours.$accent-b;
+        text-decoration: none;
+        transition: color 0.2s;
+
+        &:hover,
+        &:focus,
+        &:active {
+          color: colours.$navy;
+        }
+      }
+    }
+
+    :target {
+      background: colours.$yellow-light;
+    }
+  }
+}

@@ -1,0 +1,63 @@
+@use "./colours";
+@use "./typography";
+
+$height: 70px; // Manually measured after layout.
+
+.navbar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1;
+  background-color: colours.$accent-b;
+  font-family: typography.$heading-font-family;
+  font-weight: typography.$heading-font-weight;
+
+  a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+
+    &:hover,
+    &:focus,
+    &:active {
+      text-decoration-line: underline;
+      text-decoration-thickness: 0.15em;
+      text-decoration-color: colours.$accent-a;
+    }
+
+    img {
+      margin-right: 0.5em;
+      max-height: 30px;
+    }
+  }
+
+  > ul {
+    margin: 1em;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+
+    > li {
+      margin-bottom: 0;
+
+      &:first-child {
+        margin-right: auto;
+      }
+
+      &:not(:first-child) {
+        margin-left: 2em;
+      }
+    }
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  scroll-margin-top: 0.5em;
+}

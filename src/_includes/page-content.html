@@ -1,0 +1,14 @@
+<article class="page-content">
+  <div>
+    <h1>{{ page.title }}</h1>
+
+    {% assign stripped_content = content | strip %}
+    {% if stripped_content == "" %}
+      <ul>
+        {% include related_pages.html %}
+      </ul>
+    {% else %}
+      {% include anchor_headings.html html=content anchorBody="#" anchorAttrs='aria-label="Permalink to %heading%"' %}
+    {% endif %}
+  </div>
+</article>

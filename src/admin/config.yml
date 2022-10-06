@@ -1,0 +1,185 @@
+# To run locally, replace the `backend` config with the lines below and run:
+#   cd src && npx netlify-cms-proxy-server
+#
+# local_backend: true
+# backend:
+#   name: git-gateway
+backend:
+  name: github
+  repo: dxw/playbook
+  branch: main
+  open_authoring: true
+media_library:
+  name: disabled
+media_folder: _images
+publish_mode: editorial_workflow
+show_preview_links: true
+collections:
+  - name: home
+    label: Home
+    label_singular: Home page
+    files:
+      - name: home
+        label: Home page
+        file: index.md
+        fields:
+          - { label: Title, name: title, widget: string, required: true }
+          - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: who-we-are
+    label: Who we are
+    label_singular: Who we are page
+    folder: who-we-are
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: work-we-do
+    label: Work we do
+    label_singular: Work we do page
+    folder: work-we-do
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+  - name: work-we-do__building-services
+    label: Work we do > Building services
+    label_singular: Building services page
+    folder: work-we-do/building-services
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: working-here
+    label: Working here
+    label_singular: Working here page
+    folder: working-here
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+  - name: working-here__getting-things-you-need
+    label: Working here > Getting things you need
+    label_singular: Getting things you need page
+    folder: working-here/getting-things-you-need
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: commercial-ops
+    label: Commercial Operations
+    label_singular: Commercial Operations page
+    folder: commercial-ops
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: delivery-management
+    label: Delivery Management
+    label_singular: Delivery Management page
+    folder: delivery-management
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: design
+    label: Design
+    label_singular: Design page
+    folder: design
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: finance
+    label: Finance
+    label_singular: Finance page
+    folder: finance
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: leadership
+    label: Leadership
+    label_singular: Leadership page
+    folder: leadership
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: product-management
+    label: Product Management
+    label_singular: Product Management page
+    folder: product-management
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: sales-and-marketing
+    label: Sales and Marketing
+    label_singular: Sales and Marketing page
+    folder: sales-and-marketing
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: tech
+    label: Technology
+    label_singular: Technology page
+    folder: tech
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: user-research
+    label: User Research
+    label_singular: User Research page
+    folder: user-research
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: govpress-unit
+    label: GovPress Unit
+    label_singular: GovPress Unit page
+    folder: govpress-unit
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: strategy-unit
+    label: Strategy Unit
+    label_singular: Strategy Unit page
+    folder: strategy-unit
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
