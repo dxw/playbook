@@ -18,12 +18,7 @@
     {% include navbar.html %}
     <main>
       {% include related.html %}
-      <div>
-        {% if page.sidebar %}
-          {% include sidebar.html %}
-        {% endif %}
-        {% include page-content.html %}
-      </div>
+      {% include page-content.html %}
     </main>
     {% include contribute.html %}
   </body>

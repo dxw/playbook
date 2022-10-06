@@ -11,12 +11,6 @@ main {
   display: flex;
   flex-direction: column;
 
-  > div {
-    display: flex;
-    flex: 1;
-    overflow: hidden;
-  }
-
   @include breakpoints.on-large-screens {
     height: calc(100vh - navbar.$height - 3em);
     flex-direction: row;
