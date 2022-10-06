@@ -25,8 +25,10 @@ the
 
 ## Check for existing advisories
 
-Pluginscan includes a report on vulnerabilities, based on the API exposed by the
-[WPScan Vulnerability Database](https://wpscan.com/)
+[patchstack](https://patchstack.com/database/) provides an annual report on
+WordPress security, generated from a database of existing vulnerabilities,
+which can be searched from their website or
+[via their API](https://patchstack.com/threat-intel-feed/).
 
 It's important that we avoid publishing advisories that have already been
 reported by someone else.
