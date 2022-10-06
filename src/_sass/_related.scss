@@ -43,7 +43,8 @@
 
 @include breakpoints.on-large-screens {
   .related {
-    width: 18em;
+    width: 21em;
+    max-width: 30vw;
     height: 100%;
     padding: 1.5em 1em;
     background-color: colours.$accent-b;
