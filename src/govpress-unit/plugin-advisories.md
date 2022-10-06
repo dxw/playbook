@@ -26,7 +26,7 @@ the
 ## Check for existing advisories
 
 Pluginscan includes a report on vulnerabilities, based on the API exposed by the
-[WPScan Vulnerability Database](https://wpvulndb.com/)
+[WPScan Vulnerability Database](https://wpscan.com/)
 
 It's important that we avoid publishing advisories that have already been
 reported by someone else.
