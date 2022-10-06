@@ -114,7 +114,7 @@ These are the things that user researchers usually do on projects.
    [ISO27001 certification](https://www.itgovernance.co.uk/iso27001) when
    collecting, processing and storing research data to make sure we comply with
    that
-   [General Data Protection Regulation](https://www.gov.uk/government/publications/guide-to-the-general-data-protection-regulation).
+   [General Data Protection Regulation](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/).
 
    This helps teams to get the most from the research data they collect, while
    protecting the privacy of the people taking part.
