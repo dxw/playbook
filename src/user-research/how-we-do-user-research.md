@@ -658,7 +658,7 @@ Use a dxw provided handheld device, rather than own phone or tablet, to take
 photos and short videos during interviews, visits and workshops.
 
 Remember to delete the photos and recordings from the device once you have
-transfered them to your laptop or to Google Drive.
+transferred them to your laptop or to Google Drive.
 
 ### Using the notes template
 
@@ -681,7 +681,7 @@ Design paper worksheets, and give people advice on
 so you can easily use the information recorded.
 
 Avoid capturing personally identifiable information about participants on sticky
-notes or paper. If you capture any sensitive informaton on sticky notes or
+notes or paper. If you capture any sensitive information on sticky notes or
 paper, make sure to use a shredder to dispose of it.
 
 Use a dxw provided phone or tablet, rather than your personal device, to capture

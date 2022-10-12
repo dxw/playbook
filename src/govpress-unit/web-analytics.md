@@ -24,7 +24,7 @@ and you just have to enter the correct
 
 ### Event tracking
 
-By default, pageviews are the only user interaction that Google Analytics will
+By default, page views are the only user interaction that Google Analytics will
 record.
 
 If there are specific events you want to track that Google Analytics will not
