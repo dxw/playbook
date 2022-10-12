@@ -57,7 +57,7 @@ lead. As a team:
 
 Once you have a prioritised set of work for the sprint that the team are happy
 with, people should refer back to this on a daily basis to pick up work. You can
-use it in daily standups to track progess. If you get a sense that the scope is
+use it in daily standups to track progress. If you get a sense that the scope is
 creeping or the team doesn’t have the skills or the size you need, then do
 something to address this.
 

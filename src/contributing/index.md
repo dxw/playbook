@@ -8,7 +8,7 @@ to it. This means you!
 
 We manage changes via GitHub 'Pull Requests'. This is a technical term for
 requesting a specific change is made to a repository of text. Often this text is
-code, but in this case it's the contents of this playbook. It allows everyone to
+code, but in this case it's the contents of this Playbook. It allows everyone to
 see exactly what changes are being proposed, and for discussion and changes to
 be made before it is 'merged', and those changes to be recorded for the future.
 

@@ -66,7 +66,7 @@ of the existing ones.
 * **Granularity is important** Pieces of content selected for the cards can be
   from individual pages, functionality, small groups of pages, or whole sections
   of the site. Be consistent with the groups you are working with otherwise
-  participants will struggle and there will be a lot of inconditency between
+  participants will struggle and there will be a lot of inconsistency between
   groupings.
 * **People get tired** Avoid the temptation to sort everything in one go. Limit
   the number to 30-40 cards

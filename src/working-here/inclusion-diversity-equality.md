@@ -2,7 +2,7 @@
 title: Inclusion, diversity and equal opportunities policy
 permalink: /:path/:basename/
 redirect_from:
-  - /guides/inclusion-diversty-equality
+  - /guides/inclusion-diversity-equality
 ---
 ## Equal opportunities statement
 
@@ -106,7 +106,7 @@ and, where relevant, to particular groups that have been identified as
 disadvantaged or underrepresented in our organisation. Advertisements should
 avoid stereotyping or using wording that may discourage particular groups from
 applying, and should be reviewed by the Diversity and Inclusion Group before
-being published. Vacancies should include a link to the dxw playbook with a
+being published. Vacancies should include a link to the dxw Playbook with a
 short policy statement on equal opportunities and a link to this full Diversity,
 Inclusion and Equal opportunities policy.
 

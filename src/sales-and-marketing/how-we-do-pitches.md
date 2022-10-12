@@ -129,8 +129,8 @@ When it comes to appearance, smart casual is a good idea. No need for suits, but
 definitely don’t turn up in shorts and flip-flops. Overly casual dress has been
 known to be noticed!
 
-Although many of our clients have guest wifi, don’t assume it will be reliable.
-Take along the dxw mifi/dongle or a smartphone that you can tether from as
+Although many of our clients have guest WiFi, don’t assume it will be reliable.
+Take along the dxw MiFi/dongle or a smartphone that you can tether from as
 backup. Make offline copies of pitch slides, either as PDFs, Keynote or whatever
 you’re comfortable presenting from. It’s a good idea to print out the speaker
 notes too, so we’re as well prepared as we can be. Leave plenty of time to

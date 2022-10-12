@@ -40,7 +40,7 @@ what you're using it for. Some good practice examples are:
 - Encrypting storage
 - Using good passwords and changing defaults
 - Avoiding connecting devices to untrustworthy networks (internet cafes,
-  security conferences, unencrypted (open) wifi networks, etc)
+  security conferences, unencrypted (open) WiFi networks, etc)
 - Disposing of your device securely when you no longer need it
 
 If you need to use a personal device but cannot take these sorts of measures,

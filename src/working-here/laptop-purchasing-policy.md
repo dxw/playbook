@@ -1,5 +1,5 @@
 ---
-title: Laptop Purchasing Policy
+title: Laptop purchasing policy
 permalink: /:path/:basename/
 redirect_from:
   - /guides/laptop-purchasing-policy

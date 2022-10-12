@@ -4,7 +4,7 @@ permalink: /:path/:basename/
 ---
 
 Anytime you need to order something or experience a problem with your working
-set up you can find guidance in the playbook, through a ‘help’ slack channel or
+set up you can find guidance in the Playbook, through a ‘help’ slack channel or
 from your line manager who can point you in the right direction.
 
 ## Helpful Slack channels
