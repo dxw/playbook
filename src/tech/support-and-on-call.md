@@ -13,7 +13,7 @@ With our default support plan we manage all code, maintenance, updates, and
 uptime monitoring and provide security event monitoring intended to detect and
 prevent attacks. Users can also use our helpdesk service to ask for help with
 their service as
-[documented in the main playbook](/work-we-do/supporting-services/).
+[documented in the main Playbook](/work-we-do/supporting-services/).
 
 We provide support for clients and users of these services in three ways:
 

@@ -1,5 +1,5 @@
 ---
-title: Redundancy Policy
+title: Redundancy policy
 permalink: /:path/:basename/
 ---
 
@@ -26,7 +26,7 @@ However, the future is never certain. Significant changes in our plans or in the
 markets we serve, could mean that we need to make a role redundant. If that
 happens, we will follow a fair and open process.
 
-This section of the playbook sets out what we’ll do in those circumstances.
+This section of the Playbook sets out what we’ll do in those circumstances.
 
 ## How roles are selected for redundancy
 

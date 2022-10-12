@@ -1,5 +1,5 @@
 ---
-title: Service Design approach
+title: Service design approach
 permalink: /:path/:basename/
 redirect_from:
   - /guides/service-design-at-dxw
