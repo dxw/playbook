@@ -1,0 +1,8 @@
+@use "./colours";
+
+.search-keyword {
+    color: inherit;
+    text-decoration-line: underline;
+    text-decoration-color: colours.$accent-b;
+    text-decoration-thickness: 0.1em;
+}

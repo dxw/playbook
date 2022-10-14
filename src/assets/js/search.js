@@ -8,7 +8,10 @@
       searchIndex + queryLength + 100
     );
 
-    return excerpt.replace(queryRegex, "<em class='search-keyword'>$&</em>");
+    return excerpt.replace(
+      queryRegex,
+      "<strong class='search-keyword'>$&</strong>"
+    );
   };
 
   const displaySearchResults = (results, store, searchTerm) => {
