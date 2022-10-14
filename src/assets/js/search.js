@@ -73,6 +73,8 @@
       this.addField("title");
       this.addField("content");
       this.setRef("id");
+
+      this.pipeline.remove(lunr.stemmer);
     });
 
     for (let key in window.store) {
