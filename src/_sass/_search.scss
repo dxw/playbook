@@ -1,0 +1,11 @@
+@use "./colours";
+
+.search-results {
+  &__result, &__no-results-message {
+    list-style-type: none;
+  }
+  
+  &__matching-keyword {
+    color: colours.$blue-mid;
+  }
+}
