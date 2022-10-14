@@ -1,4 +1,16 @@
 (() => {
+  const getExcerpt = (content, query) => {
+    const queryRegex = new RegExp(query, "i");
+    const searchIndex = content.search(queryRegex);
+    const queryLength = query.length;
+    const excerpt = content.slice(
+      searchIndex - 100,
+      searchIndex + queryLength + 100
+    );
+
+    return excerpt.replace(queryRegex, "<em class='search-keyword'>$&</em>");
+  };
+
   const displaySearchResults = (results, store, searchTerm) => {
     const searchResultsElement = document.getElementById("search-results");
 
@@ -9,7 +21,8 @@
         const item = store[result.ref];
         appendString +=
           '<li><a href="' + item.url + '"><h3>' + item.title + "</h3></a>";
-        appendString += "<p>" + item.content.substring(0, 150) + "...</p></li>";
+        appendString +=
+          "<p>..." + getExcerpt(item.content, searchTerm) + "...</p></li>";
       });
 
       searchResultsElement.innerHTML = appendString;
@@ -43,7 +56,7 @@
       });
 
       const results = index.search(searchTerm);
-      displaySearchResults(results, window.store);
+      displaySearchResults(results, window.store, searchTerm);
     }
   }
 })();
