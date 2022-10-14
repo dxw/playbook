@@ -11,10 +11,8 @@ permanent, temporary and situational types of disability. This is why it matters
 that everything we create for the web is as easy to use as possible so that no
 one is excluded from using a website because of their disability.
 
-It also matters because making online public services accessible is a legal duty
-under the
-[Accessibility regulations](https://www.legislation.gov.uk/uksi/2018/952/contents/made)
-now meet WCAG 2.1 level AA.
+It also matters because making online public services that meet WCAG 2.1 level
+AA standards is a legal duty under the [Accessibility regulations](https://www.legislation.gov.uk/uksi/2018/952/contents/made).
 
 ## Design for accessibility
 
@@ -24,7 +22,7 @@ development phase.
 
 * Review the GOV.UK Service Manual
   [(Understanding WCAG 2.1)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
-  to check your designs meets all the criteria to level AA or above.
+  to check your designs meet all the criteria to level AA or above.
 * Use a tool such as [Who can use](https://whocanuse.com/) to check all colour
   combinations meet WCAG grading of level AA or above.
 * Refer to the [GOV.UK Design System](https://design-system.service.gov.uk/) for
@@ -50,7 +48,7 @@ authored outside dxw.
 
 Everything we create for the web that involves user interaction should be tested
 for accessibility. Testing may also be necessary during routine maintenance and
-for any updates or changes to a website. There's also guidelines applicable to
+for any updates or changes to a website. There are also guidelines applicable to
 authoring tools such as WordPress and other content management systems.
 Authoring tools need to be accessible, so that people with disabilities can
 create web content as well as consume it.
@@ -142,7 +140,7 @@ for the affected pages or component that the issue is present in.
 ### Prioritisation
 
 Ultimately you should be looking to resolve all accessibility issues. Where
-there's time and budgetary constraints, then prioritise those which have the
+there are time and budgetary constraints, then prioritise those which have the
 highest level of user impact, such as critical or serious. Add any unresolved
 issues to an accessibility statement with explanation for when you anticipate
 they will be fixed. Every release must be accessibility tested.
