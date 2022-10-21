@@ -96,9 +96,9 @@
         title: window.store[key].title,
         content: window.store[key].content,
       });
-
-      const results = index.search(searchTerm);
-      displaySearchResults(results, window.store, searchTerm);
     }
+
+    const results = index.search(searchTerm);
+    displaySearchResults(results, window.store, searchTerm);
   }
 })();
