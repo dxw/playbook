@@ -42,6 +42,13 @@
 
   const searchTerm = getQueryVariable("query");
 
+  const formatContent = (rawContent) => {
+    return rawContent
+      .replace(/([\.\?\!])[\n\s]{2,}/g, "$1 ")
+      .replace(/[\n\s]{2,}/g, ". ")
+      .replace(/\n/, " ");
+  }
+
   if (searchTerm) {
     document.getElementById("search-box").setAttribute("value", searchTerm);
 
@@ -54,6 +61,8 @@
     });
 
     for (let key in window.store) {
+      window.store[key].content = formatContent(window.store[key].content);
+
       index.addDoc({
         id: key,
         title: window.store[key].title,
