@@ -10,7 +10,7 @@
 
     return excerpt.replace(
       queryRegex,
-      "<strong class='search-keyword'>$&</strong>"
+      "<strong class='search-results__matching-keyword'>$&</strong>"
     );
   };
 
