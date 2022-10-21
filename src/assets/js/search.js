@@ -74,7 +74,11 @@
   }
 
   if (searchTerm) {
-    document.getElementById("search-box").setAttribute("value", searchTerm);
+    const searchInputs = Array.from(document.getElementsByClassName("search-form__input"));
+
+    searchInputs.forEach(searchFormInput => {
+      searchFormInput.setAttribute("value", searchTerm)
+    });
 
     const index = elasticlunr(function () {
       this.addField("title");

@@ -5,11 +5,14 @@
         ><img src="/assets/d-marque.png" role="presentation" alt="" /> Home</a
       >
     </li>
-    <li>
+    <li class="navbar__search--inline">
       {% include search_form.html %}
     </li>
     <li>
       <a href="https://www.dxw.com">dxw.com</a>
     </li>
   </ul>
+  <div class="navbar__search--block">
+    {% include search_form.html %}
+  </div>
 </header>

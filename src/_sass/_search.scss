@@ -1,9 +1,17 @@
 @use "./colours";
 
-.search-results__result {
-  list-style-type: none;
+.search-form {
+  .navbar__search--block & {
+    text-align: center;
+  }
 }
 
-.search-results__matching-keyword {
-  color: colours.$blue-mid;
+.search-results {
+  &__result {
+    list-style-type: none;
+  }
+
+  &__matching-keyword {
+    color: colours.$blue-mid;
+  }
 }
