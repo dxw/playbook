@@ -46,8 +46,14 @@
 
       results.forEach((result) => {
         const item = store[result.ref];
+
+        const matchesRegex = new RegExp(searchTerm, "gi");
+        const matchCount = item.content.match(matchesRegex)?.length || 0;
+
         appendString +=
           '<li class="search-results__result"><a href="' + item.url + '"><h3>' + item.title + "</h3></a>";
+        appendString +=
+          "<p>" + matchCount + (matchCount == 1 ? " match</p>" : " matches</p>");
         appendString +=
           "<p>..." + getExcerpt(item.content, searchTerm) + "...</p></li>";
       });
