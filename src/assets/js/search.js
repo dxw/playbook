@@ -46,8 +46,20 @@
 
       results.forEach((result) => {
         const item = window.store[result.ref];
+
+        const breadcrumbs = item.url
+          .replace(".html", "")
+          .replace(/-/g, " ")
+          .split("/")
+          .filter(i => i)
+          .map(breadcrumb => breadcrumb[0].toUpperCase() + breadcrumb.substring(1))
+        
+        breadcrumbs.pop();
+
         innerHtml +=
           '<li class="search-results__result"><a href="' + item.url + '"><h2>' + item.title + "</h2></a>";
+        innerHtml +=
+          '<span>' + breadcrumbs.join(" > ") + "</span>";
         innerHtml +=
           "<p>..." + getExcerpt(item.content, searchQuery) + "...</p></li>";
       });
