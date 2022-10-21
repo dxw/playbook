@@ -4,6 +4,14 @@
   .navbar__search--block & {
     text-align: center;
   }
+
+  &__input {
+    background-color: colours.$ivory;
+    border: 0.063rem solid colours.$navy;
+    color: colours.$navy;
+    line-height: 1.35;
+    padding: 0.5rem 0.938rem;
+  }
 }
 
 .search-results {
