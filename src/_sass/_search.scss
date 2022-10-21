@@ -19,6 +19,15 @@
     list-style-type: none;
   }
 
+  &__result-meta {
+    display: flex;
+    justify-content: space-between;
+
+    span:first-child {
+      margin-right: 1rem;
+    }
+  }
+
   &__matching-keyword {
     color: colours.$blue-mid;
   }

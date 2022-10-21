@@ -47,13 +47,24 @@
       results.forEach((result) => {
         const item = store[result.ref];
 
+        const breadcrumbs = item.url
+          .replace(".html", "")
+          .replace(/-/g, " ")
+          .split("/")
+          .filter(i => i)
+          .map(breadcrumb => breadcrumb[0].toUpperCase() + breadcrumb.substring(1))
+        
+        breadcrumbs.pop();
+
         const matchesRegex = new RegExp(searchTerm, "gi");
         const matchCount = item.content.match(matchesRegex)?.length || 0;
 
         appendString +=
           '<li class="search-results__result"><a href="' + item.url + '"><h3>' + item.title + "</h3></a>";
         appendString +=
-          "<p>" + matchCount + (matchCount == 1 ? " match</p>" : " matches</p>");
+          '<div class="search-results__result-meta"><span>' + breadcrumbs.join(" > ") + "</span>";
+        appendString +=
+          "<span>" + matchCount + (matchCount == 1 ? " match</span></div>" : " matches</span></div>");
         appendString +=
           "<p>..." + getExcerpt(item.content, searchTerm) + "...</p></li>";
       });
