@@ -4,14 +4,38 @@
     const searchIndex = content.search(queryRegex);
     const queryLength = query.length;
     const excerpt = content.slice(
-      searchIndex - 100,
-      searchIndex + queryLength + 100
+      getStartIndex(searchIndex, content),
+      getEndIndex(searchIndex, queryLength, content),
     );
 
     return excerpt.replace(
       queryRegex,
       "<strong class='search-keyword'>$&</strong>"
     );
+  };
+
+  const getStartIndex = (searchIndex, content) => {
+    let startIndex = searchIndex - 100;
+
+    if (startIndex < 0) { startIndex = 0; };
+
+    while (startIndex > 0 && content[startIndex] !== " ") {
+      startIndex = startIndex - 1;
+    };
+
+    if (content[startIndex] === " ") { startIndex++; };
+
+    return startIndex;
+  };
+
+  const getEndIndex = (searchIndex, queryLength, content) => {
+    let endIndex = searchIndex + queryLength + 100;
+
+    while (endIndex !== content.length && content[endIndex] !== " ") {
+      endIndex++;
+    };
+
+    return endIndex;
   };
 
   const displaySearchResults = (results, store, searchTerm) => {
