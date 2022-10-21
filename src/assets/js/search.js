@@ -47,7 +47,7 @@
       results.forEach((result) => {
         const item = store[result.ref];
         appendString +=
-          '<li><a href="' + item.url + '"><h3>' + item.title + "</h3></a>";
+          '<li class="search-results__result"><a href="' + item.url + '"><h3>' + item.title + "</h3></a>";
         appendString +=
           "<p>..." + getExcerpt(item.content, searchTerm) + "...</p></li>";
       });

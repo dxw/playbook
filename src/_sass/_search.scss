@@ -1,5 +1,9 @@
 @use "./colours";
 
+.search-results__result {
+  list-style-type: none;
+}
+
 .search-keyword {
     color: colours.$blue-mid;
 }
