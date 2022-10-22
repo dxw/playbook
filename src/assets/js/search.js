@@ -104,7 +104,11 @@
     });
 
     for (let key in window.store) {
-      window.store[key].content = formatContent(window.store[key].content);
+      const content = formatContent(window.store[key].content);
+
+      if (!content) { continue };
+
+      window.store[key].content = content;
 
       index.addDoc({
         id: key,
