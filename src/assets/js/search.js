@@ -60,13 +60,19 @@
         const matchCount = item.content.match(matchesRegex)?.length || 0;
 
         appendString +=
-          '<li class="search-results__result"><a href="' + item.url + '"><h3>' + item.title + "</h3></a>";
-        appendString +=
-          '<div class="search-results__result-meta"><span>' + breadcrumbs.join(" > ") + "</span>";
+          '<li class="search-results__result"><a href="' +
+          item.url +
+          '"><h3 class="search-results__result-title">' +
+          item.title +
+          "</h3></a>" +
+          '<div class="search-results__result-meta">';        
+        if (breadcrumbs.length) {
+          appendString += "<span>" + breadcrumbs.join(" > ") + "</span>";
+        };
         appendString +=
           "<span>" + matchCount + (matchCount == 1 ? " match</span></div>" : " matches</span></div>");
         appendString +=
-          "<p>..." + getExcerpt(item.content, searchTerm) + "...</p></li>";
+          '<p class="search-results__result-excerpt">...' + getExcerpt(item.content, searchTerm) + "...</p></li>";
       });
 
       searchResultsElement.innerHTML = appendString;

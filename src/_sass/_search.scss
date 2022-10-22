@@ -17,15 +17,25 @@
 .search-results {
   &__result {
     list-style-type: none;
+    margin-bottom: 2rem;
+  }
+
+  &__result-title {
+    margin: 0 0 1rem;
   }
 
   &__result-meta {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 1rem;
 
     span:first-child {
       margin-right: 1rem;
     }
+  }
+
+  &__result-excerpt {
+    margin: 0;
   }
 
   &__matching-keyword {
