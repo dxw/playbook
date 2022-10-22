@@ -96,6 +96,14 @@
       .replace(/\n/, " ");
   }
 
+  const setHeading = (resultsCount, searchTerm) => {
+    const searchHeading = document.getElementById("search-heading");
+
+    const resultsLabel = resultsCount == 1 ? "result" : "results";
+
+    searchHeading.innerText = `Showing ${resultsCount} ${resultsLabel} for "${searchTerm}"`
+  };
+
   if (searchTerm) {
     const searchInputs = Array.from(document.getElementsByClassName("search-form__input"));
 
@@ -127,5 +135,6 @@
 
     const results = index.search(searchTerm);
     displaySearchResults(results, window.store, searchTerm);
+    setHeading(results.length, searchTerm);
   }
 })();
