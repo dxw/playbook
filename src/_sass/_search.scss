@@ -12,8 +12,27 @@
 }
 
 .search-results {
-  &__result, &__no-results-message {
+  padding: 0;
+
+  &__no-results-message {
     list-style-type: none;
+  }
+
+  &__result {
+    list-style-type: none;
+    margin-bottom: 2rem;
+
+    &-title {
+      margin: 0 0 1rem;
+    }
+  
+    &-breadcrumbs {
+      margin-bottom: 1rem;
+    }
+
+    &-excerpt {
+      margin: 0;
+    }
   }
 
   &__matching-keyword {

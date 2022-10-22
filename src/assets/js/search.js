@@ -57,11 +57,16 @@
         breadcrumbs.pop();
 
         innerHtml +=
-          '<li class="search-results__result"><a href="' + item.url + '"><h2>' + item.title + "</h2></a>";
+          '<li class="search-results__result"><a href="' +
+          item.url +
+          '"><h2 class="search-results__result-title">' +
+          item.title +
+          "</h2></a>";
+        if (breadcrumbs.length) {
+          innerHtml += "<div class='search-results__result-breadcrumbs'>" + breadcrumbs.join(" > ") + "</div>";
+        };
         innerHtml +=
-          '<span>' + breadcrumbs.join(" > ") + "</span>";
-        innerHtml +=
-          "<p>..." + getExcerpt(item.content, searchQuery) + "...</p></li>";
+          '<p class="search-results__result-excerpt">...' + getExcerpt(item.content, searchQuery) + "...</p></li>";
       });
 
       searchResultsElement.innerHTML = innerHtml;
