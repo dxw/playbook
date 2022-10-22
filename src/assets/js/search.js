@@ -92,6 +92,14 @@
       .replace(/^.$/, '');
   }
 
+  const setHeading = (resultsCount, searchQuery) => {
+    const searchHeading = document.getElementById("search-heading");
+
+    const resultsLabel = resultsCount == 1 ? "result" : "results";
+
+    searchHeading.innerText = `Showing ${resultsCount} ${resultsLabel} for "${searchQuery}"`
+  };
+
   if (searchQuery) {
     document.getElementById("search-box").setAttribute("value", searchQuery);
 
@@ -119,5 +127,6 @@
 
     const results = index.search(searchQuery);
     displaySearchResults(results, searchQuery);
+    setHeading(results.length, searchQuery);
   }
 })();
