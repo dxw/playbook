@@ -1,8 +1,46 @@
 @use "./colours";
 
-.search-keyword {
-    color: inherit;
-    text-decoration-line: underline;
-    text-decoration-color: colours.$accent-b;
-    text-decoration-thickness: 0.1em;
+.search-form {
+  .navbar__search--block & {
+    text-align: center;
+  }
+
+  &__input {
+    background-color: colours.$ivory;
+    border: 0.063rem solid colours.$navy;
+    color: colours.$navy;
+    line-height: 1.35;
+    padding: 0.5rem 0.938rem;
+  }
+}
+
+.search-results {
+  padding: 0;
+
+  &__result {
+    list-style-type: none;
+    margin-bottom: 2rem;
+  }
+
+  &__result-title {
+    margin: 0 0 1rem;
+  }
+
+  &__result-meta {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+
+    span:first-child {
+      margin-right: 1rem;
+    }
+  }
+
+  &__result-excerpt {
+    margin: 0;
+  }
+
+  &__matching-keyword {
+    color: colours.$blue-mid;
+  }
 }

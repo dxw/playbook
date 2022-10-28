@@ -1,7 +1,9 @@
+@use "./breakpoints";
 @use "./colours";
 @use "./typography";
 
-$height: 70px; // Manually measured after layout.
+$height: 135.016px; // Manually measured after layout.
+$height-large: 85.016px; // Manually measured after layout.
 
 .navbar {
   position: fixed;
@@ -10,13 +12,13 @@ $height: 70px; // Manually measured after layout.
   left: 0;
   z-index: 1;
   background-color: colours.$accent-b;
-  font-family: typography.$heading-font-family;
-  font-weight: typography.$heading-font-weight;
-
+  
   a {
     display: flex;
     align-items: center;
     text-decoration: none;
+    font-family: typography.$heading-font-family;
+    font-weight: typography.$heading-font-weight;
 
     &:hover,
     &:focus,
@@ -37,6 +39,7 @@ $height: 70px; // Manually measured after layout.
     padding: 0;
     display: flex;
     justify-content: flex-end;
+    align-items: center;
     list-style: none;
 
     > li {
@@ -48,6 +51,26 @@ $height: 70px; // Manually measured after layout.
 
       &:not(:first-child) {
         margin-left: 2em;
+      }
+    }
+  }
+
+  &__search {
+    &--block {
+      margin-bottom: 1em;
+    }
+
+    &--inline {
+      display: none;
+    }
+
+    @include breakpoints.on-large-screens {
+      &--block {
+        display: none;
+      }
+
+      &--inline {
+        display: list-item;
       }
     }
   }
