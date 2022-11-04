@@ -1,4 +1,42 @@
 (() => {
+  const call = () => {
+    const searchTerm = getQueryVariable("query");
+    
+    if (searchTerm) {
+      const searchInputs = Array.from(document.getElementsByClassName("search-form__input"));
+  
+      searchInputs.forEach(searchFormInput => {
+        searchFormInput.setAttribute("value", searchTerm)
+      });
+  
+      const index = elasticlunr(function () {
+        this.addField("title");
+        this.addField("content");
+        this.setRef("id");
+  
+        this.pipeline.remove(lunr.stemmer);
+      });
+  
+      for (let key in window.store) {
+        const content = formatContent(window.store[key].content);
+  
+        if (content === " ") { continue };
+  
+        window.store[key].content = content;
+  
+        index.addDoc({
+          id: key,
+          title: window.store[key].title,
+          content: window.store[key].content,
+        });
+      }
+  
+      const results = index.search(searchTerm);
+      displaySearchResults(results, window.store, searchTerm);
+      setHeading(results.length, searchTerm);
+    };
+  };
+
   const getQueryVariable = (variable) => {
     const urlQueryString = window.location.search;
     const urlParams = new URLSearchParams(urlQueryString);
@@ -102,39 +140,5 @@
     searchHeading.innerText = `Showing ${resultsCount} ${resultsLabel} for "${searchTerm}"`
   };
 
-  const searchTerm = getQueryVariable("query");
-  
-  if (searchTerm) {
-    const searchInputs = Array.from(document.getElementsByClassName("search-form__input"));
-
-    searchInputs.forEach(searchFormInput => {
-      searchFormInput.setAttribute("value", searchTerm)
-    });
-
-    const index = elasticlunr(function () {
-      this.addField("title");
-      this.addField("content");
-      this.setRef("id");
-
-      this.pipeline.remove(lunr.stemmer);
-    });
-
-    for (let key in window.store) {
-      const content = formatContent(window.store[key].content);
-
-      if (content === " ") { continue };
-
-      window.store[key].content = content;
-
-      index.addDoc({
-        id: key,
-        title: window.store[key].title,
-        content: window.store[key].content,
-      });
-    }
-
-    const results = index.search(searchTerm);
-    displaySearchResults(results, window.store, searchTerm);
-    setHeading(results.length, searchTerm);
-  };
+  call();
 })();
