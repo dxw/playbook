@@ -1,4 +1,38 @@
 (() => {
+  const call = () => {
+    const searchQuery = getQueryVariable("query");
+    
+    if (searchQuery) {
+      document.getElementById("search-box").setAttribute("value", searchQuery);
+  
+      const index = elasticlunr(function () {
+        this.addField("title");
+        this.addField("content");
+        this.setRef("id");
+  
+        this.pipeline.remove(lunr.stemmer);
+      });
+  
+      for (let key in window.store) {
+        const content = formatContent(window.store[key].content);
+  
+        if (!content) { continue };
+  
+        window.store[key].content = content;
+  
+        index.addDoc({
+          id: key,
+          title: window.store[key].title,
+          content: window.store[key].content,
+        });
+      }
+  
+      const results = index.search(searchQuery);
+      displaySearchResults(results, searchQuery);
+      setHeading(results.length, searchQuery);
+    };
+  };
+
   const getQueryVariable = (variable) => {
     const urlQueryString = window.location.search;
     const urlParams = new URLSearchParams(urlQueryString);
@@ -98,35 +132,5 @@
     searchHeading.innerText = `Showing ${resultsCount} ${resultsLabel} for "${searchQuery}"`
   };
 
-  const searchQuery = getQueryVariable("query");
-  
-  if (searchQuery) {
-    document.getElementById("search-box").setAttribute("value", searchQuery);
-
-    const index = elasticlunr(function () {
-      this.addField("title");
-      this.addField("content");
-      this.setRef("id");
-
-      this.pipeline.remove(lunr.stemmer);
-    });
-
-    for (let key in window.store) {
-      const content = formatContent(window.store[key].content);
-
-      if (!content) { continue };
-
-      window.store[key].content = content;
-
-      index.addDoc({
-        id: key,
-        title: window.store[key].title,
-        content: window.store[key].content,
-      });
-    }
-
-    const results = index.search(searchQuery);
-    displaySearchResults(results, searchQuery);
-    setHeading(results.length, searchQuery);
-  };
+  call();
 })();
