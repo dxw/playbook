@@ -65,44 +65,49 @@
   const displaySearchResults = (results, searchTerm) => {
     const searchResultsElement = document.getElementById("search-results");
 
-    if (results.length) {
-      let appendString = "";
-
-      results.forEach((result) => {
-        const item = window.store[result.ref];
-
-        const breadcrumbs = item.url
-          .replace(".html", "")
-          .replace(/-/g, " ")
-          .split("/")
-          .filter(i => i)
-          .map(breadcrumb => breadcrumb[0].toUpperCase() + breadcrumb.substring(1))
-        
-        breadcrumbs.pop();
-
-        const matchesRegex = new RegExp(searchTerm, "gi");
-        const matchCount = item.content.match(matchesRegex)?.length || 0;
-
-        appendString +=
-          '<li class="search-results__result"><a href="' +
-          item.url +
-          '"><h3 class="search-results__result-title">' +
-          item.title +
-          "</h3></a>" +
-          '<div class="search-results__result-meta">';        
-        if (breadcrumbs.length) {
-          appendString += "<span>" + breadcrumbs.join(" > ") + "</span>";
-        };
-        appendString +=
-          "<span>" + matchCount + (matchCount == 1 ? " match</span></div>" : " matches</span></div>");
-        appendString +=
-          '<p class="search-results__result-excerpt">...' + getExcerpt(item.content, searchTerm) + "...</p></li>";
-      });
-
-      searchResultsElement.innerHTML = appendString;
-    } else {
+    if (!results.length) { 
       searchResultsElement.innerHTML = "<li>No results found</li>";
+      return;
     }
+
+    let innerHtml = "";
+
+    results.forEach((result) => {
+      const item = window.store[result.ref];
+
+      const breadcrumbs = item.url
+        .replace(".html", "")
+        .replace(/-/g, " ")
+        .split("/")
+        .filter(i => i)
+        .map(breadcrumb => breadcrumb[0].toUpperCase() + breadcrumb.substring(1))
+      
+      breadcrumbs.pop();
+
+      const matchesRegex = new RegExp(searchTerm, "gi");
+      const matchCount = item.content.match(matchesRegex)?.length || 0;
+
+      innerHtml +=
+        '<li class="search-results__result"><a href="' +
+        item.url +
+        '"><h3 class="search-results__result-title">' +
+        item.title +
+        '</h3></a><div class="search-results__result-meta">';
+
+      if (breadcrumbs.length) {
+        innerHtml += "<span>" + breadcrumbs.join(" > ") + "</span>";
+      };
+
+      innerHtml +=
+        "<span>" +
+        matchCount +
+        (matchCount == 1 ? " match</span></div>" : " matches</span></div>") +
+        '<p class="search-results__result-excerpt">...' +
+        getExcerpt(item.content, searchTerm) +
+        "...</p></li>";
+    });
+
+    searchResultsElement.innerHTML = innerHtml;
   };
 
   const getExcerpt = (content, query) => {
