@@ -9,7 +9,7 @@
     const index = generateIndex();
     const results = index.search(searchTerm);
 
-    displaySearchResults(results, window.store, searchTerm);
+    displaySearchResults(results, searchTerm);
     setHeading(results.length, searchTerm);
   };
 
@@ -62,14 +62,14 @@
       .replace(/\n/, " ");
   }
 
-  const displaySearchResults = (results, store, searchTerm) => {
+  const displaySearchResults = (results, searchTerm) => {
     const searchResultsElement = document.getElementById("search-results");
 
     if (results.length) {
       let appendString = "";
 
       results.forEach((result) => {
-        const item = store[result.ref];
+        const item = window.store[result.ref];
 
         const breadcrumbs = item.url
           .replace(".html", "")
