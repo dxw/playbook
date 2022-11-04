@@ -4,12 +4,30 @@
     
     if (!searchTerm) { return }
 
+    populateSearchInputs(searchTerm);
+
+    const index = generateIndex();
+    const results = index.search(searchTerm);
+
+    displaySearchResults(results, window.store, searchTerm);
+    setHeading(results.length, searchTerm);
+  };
+
+  const getQueryVariable = (variable) => {
+    const urlQueryString = window.location.search;
+    const urlParams = new URLSearchParams(urlQueryString);
+    return urlParams.get(variable);
+  };
+
+  const populateSearchInputs = (searchTerm) => {
     const searchInputs = Array.from(document.getElementsByClassName("search-form__input"));
 
     searchInputs.forEach(searchFormInput => {
       searchFormInput.setAttribute("value", searchTerm)
     });
+  };
 
+  const generateIndex = () => {
     const index = elasticlunr(function () {
       this.addField("title");
       this.addField("content");
@@ -32,15 +50,7 @@
       });
     }
 
-    const results = index.search(searchTerm);
-    displaySearchResults(results, window.store, searchTerm);
-    setHeading(results.length, searchTerm);
-  };
-
-  const getQueryVariable = (variable) => {
-    const urlQueryString = window.location.search;
-    const urlParams = new URLSearchParams(urlQueryString);
-    return urlParams.get(variable);
+    return index;
   };
 
   const formatContent = (rawContent) => {
