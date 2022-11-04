@@ -59,38 +59,39 @@
   const displaySearchResults = (results, searchQuery) => {
     const searchResultsElement = document.getElementById("search-results");
 
-    if (results.length) {
-      let innerHtml = "";
+    if (!results.length) { 
+      searchResultsElement.innerHTML = "<li class='search-results__no-results-message'>No results found.</li>";
+      return;
+    }
 
-      results.forEach((result) => {
-        const item = window.store[result.ref];
+    let innerHtml = "";
 
-        const breadcrumbs = item.url
-          .replace(".html", "")
-          .replace(/-/g, " ")
-          .split("/")
-          .filter(i => i)
-          .map(breadcrumb => breadcrumb[0].toUpperCase() + breadcrumb.substring(1))
+    results.forEach((result) => {
+      const item = window.store[result.ref];
 
+      const breadcrumbs = item.url
+        .replace(".html", "")
+        .replace(/-/g, " ")
+        .split("/")
+        .filter(i => i)
+        .map(breadcrumb => breadcrumb[0].toUpperCase() + breadcrumb.substring(1))
+      
         breadcrumbs.pop();
 
+        const breadcrumbsString = breadcrumbs.join(' > ')
+        const excerpt = getExcerpt(item.content, searchQuery)
+  
         innerHtml +=
-          '<li class="search-results__result"><a href="' +
-          item.url +
-          '"><h2 class="search-results__result-title">' +
-          item.title +
-          "</h2></a>";
-        if (breadcrumbs.length) {
-          innerHtml += "<div class='search-results__result-breadcrumbs'>" + breadcrumbs.join(" > ") + "</div>";
-        };
-        innerHtml +=
-          '<p class="search-results__result-excerpt">...' + getExcerpt(item.content, searchQuery) + "...</p></li>";
+          '<li class="search-results__result">' +
+            `<a href="${item.url}">` +
+              `<h2 class="search-results__result-title">${item.title}</h2>` +
+            '</a>' +
+            (breadcrumbs.length ? `<div class="search-results__result-breadcrumbs">${breadcrumbsString}</div>` : '') +
+            `<p class="search-results__result-excerpt">...${excerpt}...</p>` +
+          '</li>';
       });
-
-      searchResultsElement.innerHTML = innerHtml;
-    } else {
-      searchResultsElement.innerHTML = "<li class='search-results__no-results-message'>No results found.</li>";
-    }
+  
+    searchResultsElement.innerHTML = innerHtml;
   };
 
   const getExcerpt = (content, searchQuery) => {
