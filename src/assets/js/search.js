@@ -1,4 +1,56 @@
 (() => {
+  const getQueryVariable = (variable) => {
+    const urlQueryString = window.location.search;
+    const urlParams = new URLSearchParams(urlQueryString);
+    return urlParams.get(variable);
+  };
+
+  const formatContent = (rawContent) => {
+    return rawContent
+      .replace(/([.?!])[\n\s]{2,}/g, "$1 ")
+      .replace(/[\n\s]{2,}/g, ". ")
+      .replace(/\n/, " ")
+      .trim()
+      .replace(/^.$/, '');
+  }
+
+  const displaySearchResults = (results, searchQuery) => {
+    const searchResultsElement = document.getElementById("search-results");
+
+    if (results.length) {
+      let innerHtml = "";
+
+      results.forEach((result) => {
+        const item = window.store[result.ref];
+
+        const breadcrumbs = item.url
+          .replace(".html", "")
+          .replace(/-/g, " ")
+          .split("/")
+          .filter(i => i)
+          .map(breadcrumb => breadcrumb[0].toUpperCase() + breadcrumb.substring(1))
+
+        breadcrumbs.pop();
+
+        innerHtml +=
+          '<li class="search-results__result"><a href="' +
+          item.url +
+          '"><h2 class="search-results__result-title">' +
+          item.title +
+          "</h2></a>";
+        if (breadcrumbs.length) {
+          innerHtml += "<div class='search-results__result-breadcrumbs'>" + breadcrumbs.join(" > ") + "</div>";
+        };
+        innerHtml +=
+          '<p class="search-results__result-excerpt">...' + getExcerpt(item.content, searchQuery) + "...</p></li>";
+      });
+
+      searchResultsElement.innerHTML = innerHtml;
+    } else {
+      searchResultsElement.innerHTML = "<li class='search-results__no-results-message'>No results found.</li>";
+    }
+  };
+
   const getExcerpt = (content, searchQuery) => {
     const queryRegex = new RegExp(searchQuery, "i");
     const matchIndex = content.search(queryRegex);
@@ -38,60 +90,6 @@
     return endIndex;
   };
 
-  const displaySearchResults = (results, searchQuery) => {
-    const searchResultsElement = document.getElementById("search-results");
-
-    if (results.length) {
-      let innerHtml = "";
-
-      results.forEach((result) => {
-        const item = window.store[result.ref];
-
-        const breadcrumbs = item.url
-          .replace(".html", "")
-          .replace(/-/g, " ")
-          .split("/")
-          .filter(i => i)
-          .map(breadcrumb => breadcrumb[0].toUpperCase() + breadcrumb.substring(1))
-        
-        breadcrumbs.pop();
-
-        innerHtml +=
-          '<li class="search-results__result"><a href="' +
-          item.url +
-          '"><h2 class="search-results__result-title">' +
-          item.title +
-          "</h2></a>";
-        if (breadcrumbs.length) {
-          innerHtml += "<div class='search-results__result-breadcrumbs'>" + breadcrumbs.join(" > ") + "</div>";
-        };
-        innerHtml +=
-          '<p class="search-results__result-excerpt">...' + getExcerpt(item.content, searchQuery) + "...</p></li>";
-      });
-
-      searchResultsElement.innerHTML = innerHtml;
-    } else {
-      searchResultsElement.innerHTML = "<li class='search-results__no-results-message'>No results found.</li>";
-    }
-  };
-
-  const getQueryVariable = (variable) => {
-    const urlQueryString = window.location.search;
-    const urlParams = new URLSearchParams(urlQueryString);
-    return urlParams.get(variable);
-  };
-
-  const searchQuery = getQueryVariable("query");
-
-  const formatContent = (rawContent) => {
-    return rawContent
-      .replace(/([.?!])[\n\s]{2,}/g, "$1 ")
-      .replace(/[\n\s]{2,}/g, ". ")
-      .replace(/\n/, " ")
-      .trim()
-      .replace(/^.$/, '');
-  }
-
   const setHeading = (resultsCount, searchQuery) => {
     const searchHeading = document.getElementById("search-heading");
 
@@ -100,6 +98,8 @@
     searchHeading.innerText = `Showing ${resultsCount} ${resultsLabel} for "${searchQuery}"`
   };
 
+  const searchQuery = getQueryVariable("query");
+  
   if (searchQuery) {
     document.getElementById("search-box").setAttribute("value", searchQuery);
 
@@ -128,5 +128,5 @@
     const results = index.search(searchQuery);
     displaySearchResults(results, searchQuery);
     setHeading(results.length, searchQuery);
-  }
+  };
 })();
