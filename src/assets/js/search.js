@@ -6,6 +6,20 @@
 
     document.getElementById("search-box").setAttribute("value", searchQuery);
 
+    const index = generateIndex();
+    const results = index.search(searchQuery);
+
+    displaySearchResults(results, searchQuery);
+    setHeading(results.length, searchQuery);
+  };
+
+  const getQueryVariable = (variable) => {
+    const urlQueryString = window.location.search;
+    const urlParams = new URLSearchParams(urlQueryString);
+    return urlParams.get(variable);
+  };
+
+  const generateIndex = () => {
     const index = elasticlunr(function () {
       this.addField("title");
       this.addField("content");
@@ -28,15 +42,7 @@
       });
     }
 
-    const results = index.search(searchQuery);
-    displaySearchResults(results, searchQuery);
-    setHeading(results.length, searchQuery);
-  };
-
-  const getQueryVariable = (variable) => {
-    const urlQueryString = window.location.search;
-    const urlParams = new URLSearchParams(urlQueryString);
-    return urlParams.get(variable);
+    return index;
   };
 
   const formatContent = (rawContent) => {
