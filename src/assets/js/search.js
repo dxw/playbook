@@ -22,7 +22,7 @@
   const populateSearchInputs = (searchTerm) => {
     const searchInputs = Array.from(document.getElementsByClassName("search-form__input"));
 
-    searchInputs.forEach(searchFormInput => {
+    searchInputs.forEach((searchFormInput) => {
       searchFormInput.setAttribute("value", searchTerm)
     });
   };
@@ -36,19 +36,21 @@
       this.pipeline.remove(lunr.stemmer);
     });
 
-    for (let key in window.store) {
-      const content = formatContent(window.store[key].content);
+    const pages = Object.entries(window.store)
 
-      if (content === " ") { continue };
-
-      window.store[key].content = content;
-
+    pages.forEach(([pageKey, page]) => {
+      const content = formatContent(page.content);
+  
+      if (content === " ") { return };
+  
+      window.store[pageKey].content = content;
+  
       index.addDoc({
-        id: key,
-        title: window.store[key].title,
-        content: window.store[key].content,
+        id: pageKey,
+        title: page.title,
+        content: page.content
       });
-    }
+    })
 
     return index;
   };
