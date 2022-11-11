@@ -90,7 +90,7 @@
             `<h2 class="search-results__result-title">${item.title}</h2>` +
           '</a>' +
           (breadcrumbs.length ? `<div class="search-results__result-breadcrumbs">${breadcrumbsString}</div>` : '') +
-          `<p class="search-results__result-excerpt">...${excerpt}...</p>` +
+          `<p class="search-results__result-excerpt">${excerpt}</p>` +
         '</li>'
     })
 
@@ -101,10 +101,13 @@
     const queryRegex = new RegExp(searchQuery, 'i')
     const matchIndex = content.search(queryRegex)
     const queryLength = searchQuery.length
-    const excerpt = content.slice(
-      getStartIndex(matchIndex, content),
-      getEndIndex(matchIndex, queryLength, content)
-    )
+
+    const excerptStartIndex = getStartIndex(matchIndex, content)
+    const excerptEndIndex = getEndIndex(matchIndex, queryLength, content)
+    let excerpt = content.slice(excerptStartIndex, excerptEndIndex)
+
+    if (excerptStartIndex > 0) { excerpt = '...' + excerpt }
+    if (excerptEndIndex < content.length) { excerpt += '...' }
 
     return excerpt.replace(
       queryRegex,
