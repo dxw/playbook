@@ -1,13 +1,30 @@
 @use "./colours";
 
 .search-form {
+  display: flex;
+
   &__input {
     background-color: colours.$ivory;
     border: 0.063rem solid colours.$navy;
     color: colours.$navy;
     line-height: 1.35;
+    margin-right: -0.063rem;
     padding: 0.5rem 0.938rem;
     width: 100%;
+  }
+
+  &__submit {
+    background-color: colours.$yellow-light;
+    border: 0.063rem solid colours.$navy;
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+
+    &-icon {
+      width: 2rem;
+      height: 60%;
+    }
   }
 }
 
