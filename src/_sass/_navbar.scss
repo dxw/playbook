@@ -28,7 +28,14 @@ $height: 70px; // Manually measured after layout.
 
     img {
       margin-right: 0.5em;
+      padding-bottom: 0.22em;
       max-height: 30px;
+      &:hover,
+      &:focus,
+      &:active {
+        padding-bottom: 0.07em;
+        border-bottom: 0.15em solid colours.$accent-a;
+      }
     }
   }
 
