@@ -21,7 +21,7 @@ deliver work of excellent quality that exceeds our clients' expectations.
 Amongst those expectations are that we will protect our clients' information.
 The security of the information which we host, store and process is therefore of
 paramount importance - particularly if it is client-owned or otherwise
-privileged (eg personal data).
+privileged (e.g. personal data).
 
 ## Follow our standards
 

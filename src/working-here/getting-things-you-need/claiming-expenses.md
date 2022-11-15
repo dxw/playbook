@@ -20,7 +20,7 @@ Vanessa.
 Each receipt requires the following details:
 
 - **Receipt from**: The full company name of the seller
-- **Date**: The date on the receipt (ie, the date the expense was incurred, not
+- **Date**: The date on the receipt (i.e., the date the expense was incurred, not
   the date you're adding it)
 - **Reference**: The invoice or receipt number, or some other unique identifier
 - **Total**: Leave this as 0.00: Xero will calculate it for you.

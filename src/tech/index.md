@@ -191,7 +191,7 @@ reduce the impact any one person can have on the decision as much as possible.
 3. **Don't be a keeper of secrets**
 
    Everyone should be replaceable in respect to knowledge. It's everyone's
-   responsibility to share what they know (eg. Pairing)
+   responsibility to share what they know (e.g. Pairing)
 
 4. **No heroics - Don't internalise problems**
 

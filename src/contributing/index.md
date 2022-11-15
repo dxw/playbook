@@ -101,7 +101,7 @@ To create a new section (or subsection) of content, there are a few steps:
    that section. This can either be an `index.md` nested inside that new folder
    or a `.md` file on the same level as the folder with a matching name.
 
-   Generally, if the section is a root section (ie `src/<section>`), we use the
+   Generally, if the section is a root section (i.e. `src/<section>`), we use the
    `index.md` approach, using the matching named peer file approach for
    subsections (it makes it easier to see the content at each level).
 

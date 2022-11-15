@@ -30,7 +30,7 @@ documentation to effectively solve problems. For most projects:
   * Add the link to this document to the Project Knowledgebase **support
     runbook** field (see below).
 * If there is a specific process for on-boarding developers before they can
-  support the service (eg creating user accounts, elevating permissions) then
+  support the service (e.g. creating user accounts, elevating permissions) then
   this should also be kept in a single step by step document.
 
   * Add a link to this process to the
