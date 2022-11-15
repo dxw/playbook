@@ -111,16 +111,6 @@ collections:
       - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown, required: true }
 
-  - name: finance
-    label: Finance
-    label_singular: Finance page
-    folder: src/finance
-    create: true
-    fields:
-      - { label: Title, name: title, widget: string, required: true }
-      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
-      - { label: Body, name: body, widget: markdown, required: true }
-
   - name: leadership
     label: Leadership
     label_singular: Leadership page
