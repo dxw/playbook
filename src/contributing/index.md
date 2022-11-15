@@ -118,7 +118,7 @@ To create a new section (or subsection) of content, there are a few steps:
 
 ### Reordering pages
 
-All pages are implicitly sorted by their title unless overriden. To add an
+All pages are implicitly sorted by their title unless overridden. To add an
 override, set the value of `related_order` in the frontmatter. A lower number is
 listed before a higher number. Pages without a `related_order` have an implicit
 order value set in `_config.yml` in the root of the project.
