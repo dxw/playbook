@@ -1,9 +1,16 @@
-# To run locally, replace the `backend` config with the lines below and run:
-#   cd src && npx netlify-cms-proxy-server
+# To run netlify-cms locally:
+#
+# 1. Replace the `backend` config with the commented configuration below.
+# 2. Remove the `src/` prefix from `file` and `folder` attributes to make them
+#    relative to the site URL, not relative to the repo root (which is needed
+#    by the `github` backend which uses the GitHub API endpoint to find files).
+# 3. On the command line, run:
+#        cd src && npx netlify-cms-proxy-server
 #
 # local_backend: true
 # backend:
 #   name: git-gateway
+#
 backend:
   name: github
   repo: dxw/playbook
@@ -21,7 +28,7 @@ collections:
     files:
       - name: home
         label: Home page
-        file: index.md
+        file: src/index.md
         fields:
           - { label: Title, name: title, widget: string, required: true }
           - { label: Body, name: body, widget: markdown, required: true }
@@ -29,7 +36,7 @@ collections:
   - name: who-we-are
     label: Who we are
     label_singular: Who we are page
-    folder: who-we-are
+    folder: src/who-we-are
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -39,7 +46,7 @@ collections:
   - name: work-we-do
     label: Work we do
     label_singular: Work we do page
-    folder: work-we-do
+    folder: src/work-we-do
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -48,7 +55,7 @@ collections:
   - name: work-we-do__building-services
     label: Work we do > Building services
     label_singular: Building services page
-    folder: work-we-do/building-services
+    folder: src/work-we-do/building-services
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -58,7 +65,7 @@ collections:
   - name: working-here
     label: Working here
     label_singular: Working here page
-    folder: working-here
+    folder: src/working-here
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -67,7 +74,7 @@ collections:
   - name: working-here__getting-things-you-need
     label: Working here > Getting things you need
     label_singular: Getting things you need page
-    folder: working-here/getting-things-you-need
+    folder: src/working-here/getting-things-you-need
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -77,7 +84,7 @@ collections:
   - name: commercial-ops
     label: Commercial Operations
     label_singular: Commercial Operations page
-    folder: commercial-ops
+    folder: src/commercial-ops
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -87,7 +94,7 @@ collections:
   - name: delivery-management
     label: Delivery Management
     label_singular: Delivery Management page
-    folder: delivery-management
+    folder: src/delivery-management
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -97,17 +104,7 @@ collections:
   - name: design
     label: Design
     label_singular: Design page
-    folder: design
-    create: true
-    fields:
-      - { label: Title, name: title, widget: string, required: true }
-      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
-      - { label: Body, name: body, widget: markdown, required: true }
-
-  - name: finance
-    label: Finance
-    label_singular: Finance page
-    folder: finance
+    folder: src/design
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -117,7 +114,7 @@ collections:
   - name: leadership
     label: Leadership
     label_singular: Leadership page
-    folder: leadership
+    folder: src/leadership
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -127,7 +124,7 @@ collections:
   - name: product-management
     label: Product Management
     label_singular: Product Management page
-    folder: product-management
+    folder: src/product-management
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -137,7 +134,7 @@ collections:
   - name: sales-and-marketing
     label: Sales and Marketing
     label_singular: Sales and Marketing page
-    folder: sales-and-marketing
+    folder: src/sales-and-marketing
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -147,7 +144,7 @@ collections:
   - name: tech
     label: Technology
     label_singular: Technology page
-    folder: tech
+    folder: src/tech
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -157,7 +154,7 @@ collections:
   - name: user-research
     label: User Research
     label_singular: User Research page
-    folder: user-research
+    folder: src/user-research
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -167,7 +164,7 @@ collections:
   - name: govpress-unit
     label: GovPress Unit
     label_singular: GovPress Unit page
-    folder: govpress-unit
+    folder: src/govpress-unit
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
@@ -177,7 +174,7 @@ collections:
   - name: strategy-unit
     label: Strategy Unit
     label_singular: Strategy Unit page
-    folder: strategy-unit
+    folder: src/strategy-unit
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
