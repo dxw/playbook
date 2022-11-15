@@ -7,7 +7,7 @@ permalink: /:path/:basename/
 
 After you’ve accepted a role at dxw a member of our HR team will be in touch
 with you to discuss your laptop, our vetting process and to answer any questions
-you may have. On your first day you will receive a welcome trello which will
+you may have. On your first day you will receive a welcome Trello which will
 tell you who your line manager and helper are, things to read and welcome notes
 from the team.
 
