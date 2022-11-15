@@ -45,7 +45,7 @@ Titles should be in the following format:
 
 Here are some Harry-approved examples:
 
-* Arbitrary Code Execution in NextGEN Gallery allows privileged users to run php
+* Arbitrary Code Execution in NextGEN Gallery allows privileged users to run PHP
 * CSRF and stored XSS in WordPress Content Slide allow an attacker to have full
   admin privileges
 
@@ -62,7 +62,7 @@ Description:
 > able to execute arbitrary JavaScript
 >
 > …the attacker can then use JavaScript to perform almost any action an admin
-> can take (including creating new users, executing arbitrary php through the
+> can take (including creating new users, executing arbitrary PHP through the
 > theme editor or exploiting vulnerabilities in WordPress or other plugins which
 > normally require the user to be authenticated as an admin).”
 
