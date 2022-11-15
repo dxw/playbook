@@ -735,7 +735,7 @@ We usually store participants’ details in the Google Drive folders for the
 relevant project, for example in a spreadsheet in a Research subfolder. We limit
 access to just the colleagues who need to use them to help people participate.
 
-The Google Drive Help Center has a useful guide on ways to
+The Google Drive Help Centre has a useful guide on ways to
 [stop, limit, or change sharing of files and folders](https://support.google.com/drive/answer/2494893).
 
 When using an online questionnaire tool to recruit and screen participants,
@@ -823,7 +823,7 @@ Drive.
 We limit access to folders and files containing research data to colleagues who
 need to access and use the data to complete their work.
 
-The Google Drive Help Center has a useful guide on ways to
+The Google Drive Help Centre has a useful guide on ways to
 [stop, limit, or change sharing of files and folders](https://support.google.com/drive/answer/2494893).
 
 When we capture research data on a device or in another online service, we move
