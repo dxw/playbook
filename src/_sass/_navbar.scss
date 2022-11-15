@@ -10,21 +10,10 @@ $height: 70px; // Manually measured after layout.
   left: 0;
   z-index: 1;
   background-color: colours.$navy;
-  font-family: typography.$heading-font-family;
-  font-weight: typography.$heading-font-weight;
 
   a {
     display: flex;
     align-items: center;
-    text-decoration: none;
-
-    &:hover,
-    &:focus,
-    &:active {
-      text-decoration-line: underline;
-      text-decoration-thickness: 0.15em;
-      text-decoration-color: colours.$accent-a;
-    }
 
     img {
       margin-right: 0.5em;
