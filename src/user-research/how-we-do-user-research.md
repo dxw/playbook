@@ -250,7 +250,7 @@ In your welcome you should:
 * **Summarise the research purpose** - Explain what you’re trying to find out,
   e.g. We’re interested in how you recruit teachers for your school
 * **Remind them it is voluntary** - They can choose to stop at any time
-* **Reassure tham that there are no right or wrong answers** - We’re interested
+* **Reassure them that there are no right or wrong answers** - We’re interested
   in how the participant thinks and what influences that
 * **Ask them to be honest** - As researchers we won’t be offended by any
   comments, we just want to find out what people really think about a service
