@@ -189,7 +189,7 @@ sustainable pace. We know this may not be feasible in every case so please speak
 to your Line Manager or a member of the HR team if you have any questions.
 
 There are two options of how to use your TOIL, you can calculate the amount of
-hours you have accrued (ie half a day) and take it off at once or take a couple
+hours you have accrued (i.e. half a day) and take it off at once or take a couple
 of hours a day spread over a period of time. Planning when you’ll take TOIL is
 important, particularly if you’re working on a billable project so please speak
 to your Delivery Lead before doing any overtime and arrange when you’ll be able

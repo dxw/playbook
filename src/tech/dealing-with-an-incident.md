@@ -52,7 +52,7 @@ Incidents for which reporting would be appropriate will include
 
 * A site not responding to requests (from a small number of failures to a
   significant number. I.e. an outage)
-* A site is responding to a significant number of requests with an error, eg 503
+* A site is responding to a significant number of requests with an error, e.g. 503
   (although not for expected errors, e.g. 404 for files not expected to exist)
 * Supported browsers being presented with errors (e.g. certificate warnings)
 * Unauthorised content being made publicly available (e.g. a site defacement)
@@ -273,7 +273,7 @@ Once you have an idea of what the issue is, try to determine how to fix it. You
 should try to test any fix before applying it to confirm that it works and to
 avoid inadvertently making things worse.
 
-If the fix is a change to the codebase, then the normal deploy process (ie.
+If the fix is a change to the codebase, then the normal deploy process (i.e.
 passing tests and a PR review) should be followed unless there is a very strong
 reason not to do so.
 
@@ -393,7 +393,7 @@ client) and any other staff who have an interest:
 * Available members of the tech team should attend
 * Other members of the company can attend
 
-If there is ongoing work with the client (ie. an active sprint) then the sprint
+If there is ongoing work with the client (i.e. an active sprint) then the sprint
 team (including the client’s staff) should attend.
 
 If the incident was a major incident, the review should include a senior member

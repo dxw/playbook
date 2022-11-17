@@ -101,7 +101,7 @@ To create a new section (or subsection) of content, there are a few steps:
    that section. This can either be an `index.md` nested inside that new folder
    or a `.md` file on the same level as the folder with a matching name.
 
-   Generally, if the section is a root section (ie `src/<section>`), we use the
+   Generally, if the section is a root section (i.e. `src/<section>`), we use the
    `index.md` approach, using the matching named peer file approach for
    subsections (it makes it easier to see the content at each level).
 
@@ -118,7 +118,7 @@ To create a new section (or subsection) of content, there are a few steps:
 
 ### Reordering pages
 
-All pages are implicitly sorted by their title unless overriden. To add an
+All pages are implicitly sorted by their title unless overridden. To add an
 override, set the value of `related_order` in the frontmatter. A lower number is
 listed before a higher number. Pages without a `related_order` have an implicit
 order value set in `_config.yml` in the root of the project.

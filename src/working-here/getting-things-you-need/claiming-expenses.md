@@ -20,23 +20,23 @@ Vanessa.
 Each receipt requires the following details:
 
 - **Receipt from**: The full company name of the seller
-- **Date**: The date on the receipt (ie, the date the expense was incurred, not
+- **Date**: The date on the receipt (i.e., the date the expense was incurred, not
   the date you're adding it)
 - **Reference**: The invoice or receipt number, or some other unique identifier
 - **Total**: Leave this as 0.00: Xero will calculate it for you.
-- **Copy of receipt**:: Just above the Total field, you should see a small file
+- **Copy of receipt**: Just above the Total field, you should see a small file
   icon. Use this to upload a photograph or scan of your receipt. If you upload a
   photograph, make sure it's legible.
-- **Description, quantity and unit price**:: Add the the description of the line
+- **Description, quantity and unit price**: Add the the description of the line
   item on the receipt. If that text is not very descriptive, though, consider
   elaborating. Add the quantity and the price of an individual item.
-- **Account**:: See below.
-- **Tax rate**:: The tax rate will be set automatically from the account you
+- **Account**: See below.
+- **Tax rate**: The tax rate will be set automatically from the account you
   select, however you must check that it is correct. Check your receipt to see
   what VAT, if any, was charged. If you cannot see a reference to VAT, select No
   VAT in this field. It is very important to get this right as this data feeds
   directly into our VAT returns.
-- **Products**:: If the expense relates to a particular area of work (at the
+- **Products**: If the expense relates to a particular area of work (at the
   time of writing: Agency, Hosting or Citrulu), select the applicable product.
   If not, leave it blank.
 

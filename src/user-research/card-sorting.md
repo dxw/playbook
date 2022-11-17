@@ -53,7 +53,7 @@ of the existing ones.
 
    * This part is where the notetaker/observer must really listen for comments,
      reasoning and questions. Equally, the notetaker should take notes of
-     comments and questions that arise as poeple work on the groupings.
+     comments and questions that arise as people work on the groupings.
 5. If there too many categories and time allows, you can try to get participants
    to reach a consensus
 6. Repeat
