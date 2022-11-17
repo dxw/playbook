@@ -4,11 +4,11 @@ permalink: /:path/:basename/
 redirect_from:
   - /guides/guide-to-wellbeing-at-dxw
 ---
-The wellbeing of our team is hugely important - if you have any physical or mental wellbeing concerns, this guide will give you a path to support.
+The wellbeing of our teams is very important. If you have any physical or mental wellbeing concerns, this guide will give you a path to support.
 
 ## Mental and physical health support
 
-dxw offers the following to support your health and wellbeing - we want to ensure that you are well set up and looked after during your employment:
+dxw offers the following to support your health and wellbeing, and we want to ensure that you are well set up and looked after during your employment:
 
 * Safe homeworking set-up: if you require any [ergonomic items](/working-here/getting-things-you-need/), additional travel support or an assessment of your home or office working set up ([DSE](https://www.hse.gov.uk/msd/dse/)), you can find support through your line manager and the HR team to arrange this.
 * Accessibility information for our shared office spaces can be found [here](/guides/office-accessibility) and please speak to HR if you’re interested in support with digital accessibility.
@@ -36,11 +36,13 @@ They can listen, support and offer reasonable adjustments as detailed above. The
 
 ### Mental health first aiders 
 
-If you are experiencing a mental health crisis or think that someone else is, we have a team of trained mental health first aiders who are able to provide initial support. A mental health first aider may identify an existing or imminent crisis and is able to listen and communicate non-judgementally, give initial support and then signpost information or appropriate professional help. 
+If you are experiencing a mental health crisis or think that someone else is, we have a team of trained mental health first aiders who are able to provide initial support. A mental health first aider is able to listen and communicate non-judgementally, give initial support and then signpost information or appropriate professional help. 
 
-First aiders are also a safe place to turn to if you are experiencing any issues with your mental health, and need to talk to someone. Conversations will be kept in strictest confidence, provided that you are not at serious risk of harm.
+First aiders are a safe place to turn to if you are experiencing an issue with your mental health, and need to talk to someone. Conversations will be kept in strictest confidence, provided that you are not at serious risk of harm.
 
-Mental Health First Aiders are identified in the company Directory in Breathe where you can find a direct phone number for them.
+Mental Health First Aiders are identified in the [company directory in Breathe](https://hr.breathehr.com/employees/directory?name=&company_department_id=&company_division_id=&mh=true), and you can reach out to them via Slack or email.
+
+I﻿f your chosen MHFA is unable to take a call, they will offer to refer you to another first aider or a member of HR. 
 
 ### HR 
 
