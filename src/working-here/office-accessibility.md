@@ -17,7 +17,7 @@ If you need any further information about any features of the office that could 
 
 #### **The Lighthouse, Kings Cross**
 
-dxw has access to a co-working space in central London called [The Lighthouse](https://www.landmarkspace.co.uk/locations/london-kings-cross/) at 1 King’s Cross Bridge, London, N1 9NW. 
+dxw has access to a co-working space in central London called [The Lighthouse](https://www.landmarkspace.co.uk/locations/london-kings-cross/) at 1 King’s Cross Bridge, London N1 9NW. 
 
 If you need any support with using this space, post your question in the #dxw-london-office channel or email KingsCross@landmarkspace.co.uk for support. 
  
