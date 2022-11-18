@@ -98,21 +98,30 @@
   }
 
   const getExcerpt = (content, searchQuery) => {
-    const queryRegex = new RegExp(searchQuery, 'i')
-    const matchIndex = content.search(queryRegex)
-    const queryLength = searchQuery.length
+    const searchTerms = searchQuery.split(' ').filter(i => i).map(term => {
+      const regex = new RegExp(term, 'ig')
 
+      return { term, regex, matchIndex: content.search(regex) }
+    })
+
+    const firstMatchedTerm = searchTerms.find(term => term.matchIndex !== -1)
+    const matchIndex = firstMatchedTerm ? firstMatchedTerm.matchIndex : 100
+    const matchLength = firstMatchedTerm?.term.length || 0
     const excerptStartIndex = getStartIndex(matchIndex, content)
-    const excerptEndIndex = getEndIndex(matchIndex, queryLength, content)
+    const excerptEndIndex = getEndIndex(matchIndex, matchLength, content)
     let excerpt = content.slice(excerptStartIndex, excerptEndIndex)
 
     if (excerptStartIndex > 0) { excerpt = '...' + excerpt }
     if (excerptEndIndex < content.length) { excerpt += '...' }
 
-    return excerpt.replace(
-      queryRegex,
-      '<strong class="search-results__matching-keyword">$&</strong>'
-    )
+    searchTerms.forEach(searchTerm => {
+      excerpt = excerpt.replace(
+        searchTerm.regex,
+        '<strong class="search-results__matching-keyword">$&</strong>'
+      )
+    })
+
+    return excerpt
   }
 
   const getStartIndex = (matchIndex, content) => {
