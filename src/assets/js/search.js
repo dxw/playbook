@@ -81,15 +81,15 @@
 
       breadcrumbs.pop()
 
-      const breadcrumbsString = breadcrumbs.join(' > ')
+      const breadcrumbsString = breadcrumbs.length ? breadcrumbs.join(' > ') + ' > ' : ''
+      const heading = breadcrumbsString + item.title
       const excerpt = getExcerpt(item.content, searchQuery)
 
       innerHtml +=
         '<li class="search-results__result">' +
           `<a href="${item.url}">` +
-            `<h2 class="search-results__result-title">${item.title}</h2>` +
+            `<h2 class="search-results__result-heading">${heading}</h2>` +
           '</a>' +
-          (breadcrumbs.length ? `<div class="search-results__result-breadcrumbs">${breadcrumbsString}</div>` : '') +
           `<p class="search-results__result-excerpt">${excerpt}</p>` +
         '</li>'
     })
