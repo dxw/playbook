@@ -68,7 +68,7 @@ The following principles underpin the policy:
    outcome of the annual review is not a surprise
 8. Line managers are responsible for ensuring that all staff are given equal
    opportunities, and pay discussions are fair and inclusive. If staff would
-   like an independent opinion in these discussions, they should contact Vanessa
+   like an independent opinion in these discussions, they should contact the HR team
    in the first instance who can facilitate.
 9. dxw works with an independent HR advisor, who can assist if needed to help
    resolve any issues.
