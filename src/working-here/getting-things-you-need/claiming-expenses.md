@@ -15,7 +15,7 @@ something new, you can go
 
 To create an expense, you add all the receipts related to it to Xero, and submit
 them together as a claim. If you don't have receipts, you'll need to talk to
-Vanessa.
+the HR team.
 
 Each receipt requires the following details:
 
