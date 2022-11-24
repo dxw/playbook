@@ -2,8 +2,6 @@
 title: Naming and identifying research documents
 permalink: /:path/:basename/
 ---
-#﻿ Naming and identifying research documents
-
 It’s important that team members and stakeholders know they have the right
 research plan, discussion guide or other research document.
 
