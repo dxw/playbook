@@ -1,6 +1,7 @@
 ---
 title: Writing and using discussion guides
 permalink: /:path/:basename/
+related_order: 100
 ---
 We create discussion guides to help us plan and do research activities, like
 interviews, visits, workshops and usability tests.
