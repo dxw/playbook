@@ -1,6 +1,9 @@
 ---
 title: Getting informed consent for user research
 permalink: /:path/:basename/
+redirect_from:
+  - /guides/how-we-do-user-research#how-we-get-informed-consent-for-user-research
+  - /user-research/how-we-do-user-research#how-we-get-informed-consent-for-user-research
 related_order: 140
 ---
 You must have informed consent from participants before you start any research
