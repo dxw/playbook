@@ -1,6 +1,7 @@
 ---
 title: When and how to give incentives to research participants
 permalink: /:path/:basename/
+related_order: 160
 ---
 It‘s normal to pay members of the public an incentive when they take part in
 research activities with us.
