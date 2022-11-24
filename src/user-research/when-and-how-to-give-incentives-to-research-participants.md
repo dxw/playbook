@@ -1,6 +1,9 @@
 ---
 title: When and how to give incentives to research participants
 permalink: /:path/:basename/
+redirect_from:
+  - /guides/how-we-do-user-research#when-and-how-we-give-incentives-to-research-participants
+  - /user-research/how-we-do-user-research#when-and-how-we-give-incentives-to-research-participants
 related_order: 160
 ---
 It‘s normal to pay members of the public an incentive when they take part in
