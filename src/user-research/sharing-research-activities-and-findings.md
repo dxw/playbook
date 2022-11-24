@@ -1,6 +1,9 @@
 ---
 title: Sharing research activities and findings
 permalink: /:path/:basename/
+redirect_from:
+  - /guides/how-we-do-user-research#how-we-share-research-activities-and-findings
+  - /user-research/how-we-do-user-research#how-we-share-research-activities-and-findings
 related_order: 120
 ---
 We regularly share descriptions of research activities and findings in show and
