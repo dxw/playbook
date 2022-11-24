@@ -1,9 +1,6 @@
 ---
 title: Naming and identifying research documents
 permalink: /:path/:basename/
-redirect_from:
-  - /guides/how-we-do-user-research#how-we-name-and-identify-documents
-  - /user-research/how-we-do-user-research#how-we-name-and-identify-documents
 related_order: 40
 ---
 It’s important that team members and stakeholders know they have the right
