@@ -1,6 +1,9 @@
 ---
 title: Doing research safely
 permalink: /:path/:basename/
+redirect_from:
+  - /guides/how-we-do-user-research#how-we-do-research-safely-during-coronavirus
+  - /user-research/how-we-do-user-research#how-we-do-research-safely-during-coronavirus
 related_order: 80
 ---
 ## Doing research safely during coronavirus
