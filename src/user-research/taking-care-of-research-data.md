@@ -70,7 +70,7 @@ data and contact details.
 ## Identifying research data clearly
 
 To identify research data in Google Drive, we follow our
-[general file naming convention](#how-we-name-and-identify-documents).
+[general file naming convention](/user-research/naming-and-identifying-research-documents).
 
 * We keep research data in subfolders identified by the date of the research,
   the project and the research activity. For example:
