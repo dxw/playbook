@@ -1,6 +1,7 @@
 ---
 title: Doing research safely
 permalink: /:path/:basename/
+related_order: 80
 ---
 ## Doing research safely during coronavirus
 
