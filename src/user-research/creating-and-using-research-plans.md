@@ -1,9 +1,6 @@
 ---
 title: Creating and using research plans
 permalink: /:path/:basename/
-redirect_from:
-  - /guides/how-we-do-user-research#how-we-create-and-use-research-plans
-  - /user-research/how-we-do-user-research#how-we-create-and-use-research-plans
 related_order: 60
 ---
 ## Planning research activities
