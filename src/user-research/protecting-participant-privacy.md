@@ -1,9 +1,6 @@
 ---
 title: Protecting participant privacy
 permalink: /:path/:basename/
-redirect_from:
-  - /guides/how-we-do-user-research#how-we-protect-participant-privacy
-  - /user-research/how-we-do-user-research#how-we-protect-participant-privacy
 related_order: 200
 ---
 When we do research, we must carefully manage participants’ contact details and
