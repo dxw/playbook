@@ -1,9 +1,6 @@
 ---
 title: Taking notes and recording research sessions
 permalink: /:path/:basename/
-redirect_from:
-  - /guides/how-we-do-user-research#how-we-take-notes-and-record-research-sessions
-  - /user-research/how-we-do-user-research#how-we-take-notes-and-record-research-sessions
 related_order: 180
 ---
 To capture what happens in our research sessions we take notes and photos, make
