@@ -1,6 +1,9 @@
 ---
 title: Taking care of research data
 permalink: /:path/:basename/
+redirect_from:
+  - /guides/how-we-do-user-research#how-we-take-care-of-research-data
+  - /user-research/how-we-do-user-research#how-we-take-care-of-research-data
 related_order: 220
 ---
 When we do research, we must manage the data we collect so that we protect
