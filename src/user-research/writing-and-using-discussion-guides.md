@@ -1,6 +1,9 @@
 ---
 title: Writing and using discussion guides
 permalink: /:path/:basename/
+redirect_from:
+  - /guides/how-we-do-user-research#how-we-write-and-use-discussion-guides
+  - /user-research/how-we-do-user-research#how-we-write-and-use-discussion-guides
 related_order: 100
 ---
 We create discussion guides to help us plan and do research activities, like
