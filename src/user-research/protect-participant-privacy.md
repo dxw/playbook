@@ -1,5 +1,5 @@
 ---
-title: Protect participant privacy
+title: Protecting participant privacy
 permalink: /:path/:basename/
 ---
 When we do research, we must carefully manage participants’ contact details and
