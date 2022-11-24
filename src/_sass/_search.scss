@@ -2,6 +2,16 @@
 
 .search-form {
   display: flex;
+  outline: solid 0.1875rem transparent;
+
+  @media (prefers-reduced-motion: no-preference) {
+    transition: outline-color 0.35s ease, outline-width 0.45s ease;
+  }
+
+  &:focus-within {
+    outline-color: colours.$blue-light;
+    outline-width: 0.1875rem;
+  }
 
   &__input {
     background-color: colours.$ivory;
@@ -11,6 +21,10 @@
     margin-right: -0.063rem;
     padding: 0.5rem 0.938rem;
     width: 100%;
+
+    &:focus {
+      outline: none;
+    }
   }
 
   &__submit {
