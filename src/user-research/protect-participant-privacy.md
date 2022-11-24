@@ -1,6 +1,7 @@
 ---
 title: Protecting participant privacy
 permalink: /:path/:basename/
+related_order: 200
 ---
 When we do research, we must carefully manage participants’ contact details and
 other personal data to protect their privacy and comply with the law.
