@@ -58,7 +58,7 @@ These are the things that user researchers usually do on projects.
 
    [When and how to give incentives to research participants](../when-and-how-to-give-incentives-to-research-participants)
 
-   [Protecting participant privacy](protecting-participant-privacy)
+   [Protecting participant privacy](../protecting-participant-privacy)
 4. **Plan and do research activities**
 
    This is the most obvious and visible part of our work. We choose research
