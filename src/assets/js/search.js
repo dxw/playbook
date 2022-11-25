@@ -87,9 +87,9 @@
 
       innerHtml +=
         '<li class="search-results__result">' +
-          `<a href="${item.url}">` +
-            `<h2 class="search-results__result-heading">${heading}</h2>` +
-          '</a>' +
+          '<h2 class="search-results__result-heading">' +
+            `<a href="${item.url}">${heading}</a>` +
+          '</h2>' +
           `<p class="search-results__result-excerpt">${excerpt}</p>` +
         '</li>'
     })
