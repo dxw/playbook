@@ -2,12 +2,11 @@
 title: User research at dxw
 related_order: 1000
 ---
+At dxw, we believe in [starting with people and their needs](https://playbook.dxw.com/who-we-are/#start-with-people-and-their-needs).
 
-At dxw, we believe in making decisions based on evidenced user needs. As user
-researchers, we help multidisciplinary teams learn about users and recognise the
-value of user research. There is no single right way of doing this, but as a
-team, we need to stay unified in the way we approach, do, and talk about
-research.
+As user researchers, we help multidisciplinary teams learn about all the different people who will use and be affected by a service. And help organisations to recognise the value of user research.
+
+There is no single right way of doing this, but as a team, we need to stay unified in the way we approach, do, and talk about research.
 
 ## User research principles
 
@@ -83,9 +82,7 @@ and working with, not for our clients.
 The Playbook includes detailed guidance on
 [how we do user research at dxw](/user-research/how-we-do-user-research/).
 
-The guide starts with the user research workflow, which describes the things
-that user researchers usually do on projects, and then provides further guidance
-and links to resources for specific topics.
+These guides start with the [user research workflow](https://playbook.dxw.com/user-research/how-we-do-user-research/#user-research-workflow), which describes the things that user researchers usually do on projects, and then provides further guidance and links to resources for specific topics.
 
 ## User researcher professional development
 
