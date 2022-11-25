@@ -20,7 +20,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.15.4)
     forwardable-extended (2.6.0)
-    google-protobuf (3.19.3)
+    google-protobuf (3.19.6)
     html-proofer (4.4.1)
       addressable (~> 2.3)
       mercenary (~> 0.3)
