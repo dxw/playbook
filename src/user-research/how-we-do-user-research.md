@@ -12,7 +12,7 @@ dxw friends.
 
 The guidance builds on our user research
 [principles](/user-research/#user-research-principles). It also builds on the
-[guidance for user research in the GDS Service Manual](https://www.gov.uk/service-manual/user-research)
+[guidance for user research in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research)
 so we can help teams meet the Government
 [Service Standard](https://www.gov.uk/service-manual/service-standard).
 
