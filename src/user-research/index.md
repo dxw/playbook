@@ -10,8 +10,7 @@ There is no single right way of doing this, but as a team, we need to stay unifi
 
 ## User research principles
 
-Our principles are not rules. They guide our work, keep us improving as a team,
-and working with, not for our clients.
+Our principles are not rules. They guide our work, keep us improving as a team, and working with, not for our clients.
 
 1. **Help teams understand people**
 
