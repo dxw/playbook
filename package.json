@@ -2,6 +2,7 @@
   "name": "playbook",
   "private": true,
   "devDependencies": {
-    "normalize.css": "8.0.1"
+    "normalize.css": "8.0.1",
+    "standard": "^17.0.0"
   }
 }

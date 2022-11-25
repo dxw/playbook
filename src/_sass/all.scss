@@ -1,9 +1,11 @@
 @use "normalize.css";
 
+@use "./accessibility";
 @use "./colours";
 @use "./contribute";
 @use "./layout";
 @use "./navbar";
 @use "./page-content";
 @use "./related";
+@use "./search";
 @use "./typography";

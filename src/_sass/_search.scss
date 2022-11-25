@@ -1,0 +1,68 @@
+@use "./colours";
+
+.search-form {
+  display: flex;
+  outline: solid 0.1875rem transparent;
+
+  @media (prefers-reduced-motion: no-preference) {
+    transition: outline-color 0.35s ease, outline-width 0.45s ease;
+  }
+
+  &:focus-within {
+    outline-color: colours.$blue-light;
+    outline-width: 0.1875rem;
+  }
+
+  &__input {
+    background-color: colours.$ivory;
+    border: 0.063rem solid colours.$navy;
+    color: colours.$navy;
+    line-height: 1.35;
+    margin-right: -0.063rem;
+    padding: 0.5rem 0.938rem;
+    width: 100%;
+
+    &:focus {
+      outline: none;
+    }
+  }
+
+  &__submit {
+    background-color: colours.$yellow-light;
+    border: 0.063rem solid colours.$navy;
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+
+    &-icon {
+      width: 2rem;
+      height: 60%;
+    }
+  }
+}
+
+.search-results {
+  padding: 0;
+
+  &__no-results-message {
+    list-style-type: none;
+  }
+
+  &__result {
+    list-style-type: none;
+    margin-bottom: 2rem;
+
+    &-heading {
+      margin: 0 0 1rem;
+    }
+
+    &-excerpt {
+      margin: 0;
+    }
+  }
+
+  &__matching-keyword {
+    color: colours.$blue-mid;
+  }
+}
