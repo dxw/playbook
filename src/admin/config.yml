@@ -151,6 +151,16 @@ collections:
       - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown, required: true }
 
+  - name: technical-operations
+    label: Technical Operations
+    label_singular: Technical Operations page
+    folder: src/technical-operations
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+
   - name: user-research
     label: User Research
     label_singular: User Research page
