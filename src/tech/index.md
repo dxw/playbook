@@ -7,7 +7,7 @@ related_order: 1000
 
 At dxw, developers typically work in multidisciplinary teams that include delivery managers, interaction designers, and other specialists to design and develop high-quality bespoke applications to meet user needs.
 
-In addition, dxw contains two other technology-related job families with a narrower focus. To learn more about these, please see the Playbook pages dedicated to [Technical Operations](/technical-operations) and to the [GovPress business unit](/govpress-unit/); this section is focused on the work of developers dedicated to custom work as part of a multidisciplinary group.
+In addition, dxw contains two other technology-related job families with a narrower focus. To learn more about these, please see the Playbook pages dedicated to [Technical Operations](/technical-operations/) and to the [GovPress business unit](/govpress-unit/); this section is focused on the work of developers dedicated to custom work as part of a multidisciplinary group.
 
 ### Development team principles
 
