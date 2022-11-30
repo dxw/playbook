@@ -5,6 +5,10 @@ related_order: 1000
 
 ## Development
 
+At dxw, developers typically work in multidisciplinary teams that include delivery managers, interaction designers, and other specialists to design and develop high-quality bespoke applications to meet user needs.
+
+In addition, dxw contains two other technology-related job families with a narrower focus. To learn more about these, please see the Playbook pages dedicated to [Technical Operations](/technical-operations) and to the [GovPress business unit](/govpress-unit/); this section is focused on the work of developers dedicated to custom work as part of a multidisciplinary group.
+
 ### Development team principles
 
 1. **Solve real user needs**
@@ -174,31 +178,4 @@ We have a [documented promotion process](promotion-process) based on that
 framework. We designed it to help make fair decisions about promotions that
 reduce the impact any one person can have on the decision as much as possible.
 
-## Technical Operations
 
-### Technical Operations team principles
-
-1. **Learn don’t blame**
-
-   Things/Mistakes happen, treat it as a learning experience rather than finding
-   blame.
-
-2. **Documentation is the first step to automation**
-
-   For most tasks you need to understand it enough to document it before you can
-   begin to automate it.
-
-3. **Don't be a keeper of secrets**
-
-   Everyone should be replaceable in respect to knowledge. It's everyone's
-   responsibility to share what they know (e.g. Pairing)
-
-4. **No heroics - Don't internalise problems**
-
-   Situations occur where there is pressure to deliver/maintain/fix, it's a team
-   effort, not always the same person's job.
-
-5. **Be patient**
-
-   Be helpful, not obstructive. It’s easy to get frustrated by things in time
-   sensitive situations – don’t!
