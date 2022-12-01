@@ -1,4 +1,4 @@
-{% assign grouped_related_pages = site.pages | children_of: page | group_by: "related_order" | sort: "name" %}
+{% assign grouped_related_pages = site.pages | children_of: page | where_exp: "child", "child.title != 'Search'" | group_by: "related_order" | sort: "name" %}
 {% for related_page_group in grouped_related_pages %}
   {% assign related_pages = related_page_group.items | sort_natural: "title" %}
 
