@@ -20,10 +20,10 @@ responsibility of the on-call support person to deal with an incident.
 * Decide severity - critical, major, or minor (when it doubt, go higher)
 * Communicate the problem
 
-  * If major or critical, post in #general
+  * If critical check that the incident has been announced in #general
   * Appoint a client comms manager if clients are affected
-  * Inform the CTO, Head of Tech Ops, and DPO if there is a security or data
-    breach
+  * Inform the Technical Director, Head of Tech Ops, and DPO if there
+    is a security or data breach
 * Understand, contain, resolve, and monitor the incident
 * Schedule a review meeting
 * Write up a first draft report and circulate it
@@ -120,17 +120,10 @@ installed on the dxw Slack for this purpose.
 2. Give the incident a description, e.g. "We are seeing a large number of 503
    errors being returned on example.com"
 3. Select a severity level (see below)
-4. Set an incident lead with `/incident lead me` or `/incident lead @person` –
+4. Select which business unit it affected
+5. Set an incident lead with `/incident lead me` or `/incident lead @person` –
    The incident lead does not have to be you and may change over the course of a
    response (see below).
-
-If it is a major or critical incident, you should post a notice in #general so
-that everyone is aware. Something along the lines of:
-
-```
-We have been having a security incident with some wordpress sites since 09:00.
-See [#inc-2021-07-01-mavis-sites](https://dxw.slack.com/archives/C026BN221D5)
-```
 
 ### Deciding severity
 
@@ -210,16 +203,18 @@ Both of these positions can be exhausting and if you are at it for a long time
 you are likely to make mistakes, so if the incident runs for more than a couple
 of hours then new people should step into these roles.
 
-If the incident is critical, then you should let the CTO (Dom) and Head of Tech
-Ops (bob) know, as well as our Data Protection Officer (Gurps). If you can’t get
-hold of these people, post in #general and tell the most senior people you can
-find.
+If the incident is critical, then you should let the Technical Director (James)
+, the Head of Tech Ops (bob), the Information Security Manager (bob) know,
+as well as our Data Protection Officer (Gurps) if it is a security incident.
+If you can’t get hold of these people, post in #general and tell the most senior
+people you can find.
 
 ## Responding to an incident
 
 When responding to an incident your goals are to:
 
 * **Understand** what is happening
+* **Inform** relevant parties (e.g the client or the ICO)
 * **Contain** any breach. Revoke any unauthorised access, remove any
   modifications and identify if any data has been compromised. Preserve data
   that may be required for later investigation or forensics.
@@ -476,9 +471,9 @@ don’t feel obliged to come up with some actions. Equally you may find that the
 are many follow-up actions. In that case, try to narrow this down to about three
 so that they actually get done.
 
-Any actions should be added to the relevant Trello board (the
-[incident actions board](https://trello.com/b/XIuS4lt5/incident-actions) for
-incident specific stuff, the
-[internal tech tools board](https://trello.com/b/rYxrpsVu/dxw-internal-tech-tools-tasks)
-or tech team leadership board for more general things), given an owner, and
-dealt with in a timely manner.
+Any actions should be added to the  follow up actions of the Incident in
+incident.io and given an owner. The owner should add the action to any relevant
+trello board and ensure the work is done in a timely manner. If the action has
+impact on the ISMS it should be added to the Findings tracker and ISMS trello
+board as well.
+
