@@ -252,7 +252,7 @@ and have included these in our
 ### On call escalation
 
 While you are on call there is also a second line on call rota formed of senior
-members of the technical operations team and the CTO. Opsgenie will alert them
+members of the technical operations team and the Technical Director. Opsgenie will alert them
 if you do not acknowledge an alert within 5 minutes. This is to make sure that
 alerts are dealt with in a timely manner. You should not feel bad about missing
 an Opsgenie alert. This is one of the reasons why we have the second line rota.
@@ -261,7 +261,7 @@ You can also use Opsgenie to escalate an alert to them if you are unsure what to
 do, lack access, or need a hand in general. If it is a major incident you may
 want to escalate so that they can deal with client communications. If the person
 on the second line rota does not respond feel free to escalate the alert to the
-Head of Technical Operations or the CTO to help you. You should also feel free
+Head of Technical Operations or the Technical Director to help you. You should also feel free
 to contact other members of the team if the incident is serious enough and you
 have discussed it with the person you have escalated to.
 
@@ -291,4 +291,4 @@ possible.
 
 If you feel that you need a rest from being on call out of hours after a
 disrupted night of sleep please talk to the Head of Technical Operations or the
-CTO who will find a replacement for that night.
+Technical Director who will find a replacement for that night.
