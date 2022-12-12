@@ -349,7 +349,7 @@ review meeting (see below).
 
 An abridged version with a link to the full report should be published
 internally on Bikeshed, and copy should be shared with the affected clients
-(usually through a Zendesk ticket). You should check the client version by Dom
+(usually through a Zendesk ticket). You should check the client version by James Darling
 for anything that might make us commercially liable, but as a rule we should be
 as open as possible.
 
