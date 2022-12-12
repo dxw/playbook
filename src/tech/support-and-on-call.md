@@ -252,7 +252,7 @@ and have included these in our
 ### On call escalation
 
 While you are on call there is also a second line on call rota formed of senior
-members of the technical operations team and the Technical Director. Opsgenie will alert them
+members of the technical operations team. Opsgenie will alert them
 if you do not acknowledge an alert within 5 minutes. This is to make sure that
 alerts are dealt with in a timely manner. You should not feel bad about missing
 an Opsgenie alert. This is one of the reasons why we have the second line rota.
