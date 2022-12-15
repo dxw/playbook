@@ -648,17 +648,6 @@ any bank holidays that they miss will be added to their holiday entitlement when
 they return to work. They can choose to use this annual leave before or after
 their parental leave, or have some paid out during their parental leave.
 
-## Childcare Vouchers
-
-The Government closed the Childcare Vouchers scheme to new entrants on 4th
-October 2018. This means we are no longer able to add new members to the voucher
-scheme with Busy Bees.
-
-The government has introduced new ways to help parents with childcare costs
-which you access directly: <https://www.gov.uk/get-tax-free-childcare>
-
-For more information, please speak to the People Manager.
-
 ## Flexible working
 
 We aim to offer flexibility for people looking for a part-time role or a role
