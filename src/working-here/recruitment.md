@@ -1,5 +1,5 @@
 ---
-title: Hiring new people
+title: Recruitment
 permalink: /:path/:basename/
 ---
 ## Process
