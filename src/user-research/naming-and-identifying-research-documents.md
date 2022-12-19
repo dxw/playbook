@@ -17,7 +17,7 @@ For example:
 
 And a consistent front cover with:
 
-* Client and dxw logos
+* Client and dxw logos and documents
 * Client and project names
 * Document type
 * Date
