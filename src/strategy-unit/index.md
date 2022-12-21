@@ -1,40 +1,51 @@
 ---
 title: The Strategy business unit
 ---
-
-We create the conditions and in-house capability our clients need to deliver and
-keep improving great services.
+We help organisations understand how they work, decide what to change, and how to do it.
 
 ## Strategy team principles
 
-The strategy team apply these principles to our work.
+The principles help to explain how the Strategy Unit works, and what distinguishes Strategy and other dxw business units and teams.
 
-1. **Bring people together to make the right decisions**
+1. **Engage at an earlier stage**
 
-   We facilitate activities to help organisations make good decisions,
-   prioritise and create the momentum for change.
+   Including strengthening, validating and shaping the project brief.
 
-2. **Focus on impact and sustainable change**
+2. **We understand and solve problems**
 
-   We’re here to create significant long-term change. We won’t get involved if
-   we don’t believe that’s possible.
+   Working with users, staff and stakeholders, analysing existing data and information and undertaking new research.
 
-3. **Question the brief**
+   We’re innovative, and look to the future and help you discover new possibilities.
 
-   Before starting delivery we interrogate the brief to make sure it is clear,
-   realistic and provides the foundation for delivery teams to start work.
+3. **Enable and guide decision making**
 
-4. **Meet organisational goals as well as user needs**
+   Focusing on evidence and insight, balancing ambition with feasibility, remaining close to users and organisations needs. Making sure what’s created can be measured.
 
-   We help organisations clarify their goals and set up the right measures to
-   track performance and progress. So they can deliver better services for the
-   people who need them.
+   Helping organisations decide what to do, and why. We can help you to shape and articulate your vision, set goals, form strategies and plans that work.
 
-5. **Use methods that work**
+4. **We’re a delivery focussed strategy team**
 
-   We use established methods where we can, or develop new ones where we need
-   to.
+   Helping organisations achieve genuine change, not just form a plan. Creating the conditions for organisations to deliver, and progress once our input ends.
 
-6. **Create the conditions to deliver**
+   We’re pragmatic. Our business analysis function means we’re always thinking about the organisation's context, its purpose, opportunities and constraints.
 
-   We set up teams to deliver and keep improving once we’re gone.
+5. **Agile and multidisciplinary**
+
+   Applying agile practices beyond the design and build of digital services, to other activities such as the creation or plans, strategies and business cases.
+
+   We have strong design skills in our team, and are creative thinkers.
+
+6. **We enable and empower**
+
+   Supporting capability building and embedding new ways of working.
+
+   We build upon what organisations do well, rather than starting from scratch or re-inventing the wheel.
+7. **Our projects are flexible and diverse**
+
+   Project design and style of delivery differs, we may work on a project for a longer and elapsed period or lead shorter term projects.
+
+   We work with a diversity of organisations, large and small, across the public and charity sector.
+
+8. **Setting you up to design and build products or services**
+
+   We don’t build products and services in the Strategy Unit, but work in collaboration with other dxw teams that do, and other partner organisations as well.
