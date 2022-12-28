@@ -236,13 +236,13 @@ the average scores from the individual scoring as well as the final scores
 decided by the joint panel including where they could not agree.
 
 Your Head of Discipline shares this feedback with you, your line manager, the
-panelists and the HR team.
+panelists and the People team.
 
 ### Appeals
 
 If you believe you have not been treated fairly through this process, you can
 appeal the decision. To appeal a decision, you should raise it in writing to the
-Managing Director, copying in a member of the HR team. They then investigate the
+Managing Director, copying in the People team. They then investigate the
 review process for your application and organize a meeting with you to discuss
 their findings. You may bring a colleague or a trade union representative with
 you to that meeting. After the meeting, the Managing Director makes a final
@@ -285,7 +285,7 @@ Once you have accepted the position as lead panelist:
 2. Set up an application deadline calendar event at 16:00 on the deadline,
    inviting the applicant, their line manager, and their Head of Discipline.
    This is the date by which the applicant must submit their promotion pack by
-   email to a member of the HR team, their Head of Discipline, and their line
+   email to the People team, their Head of Discipline, and their line
    manager. Include the
    [instructions on how to submit the application](#submitting-the-application)
    described in the process above in the event description.
