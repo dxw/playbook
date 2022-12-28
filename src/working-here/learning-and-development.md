@@ -34,7 +34,7 @@ ways you can find ideas:
 * Ask other people on your team what they've done
 * Talk to your line manager, who can help you identify potential areas for
   development and find suitable events or training
-* Ask the HR team for ideas
+* Ask the People team for ideas
 
 ### Book the activity
 
@@ -67,7 +67,7 @@ ways you can find ideas:
 
 ### If you need help
 
-* Contact the HR team, or ask a question in Slack
+* Contact the People team, or ask a question in Slack
   (#help-learning-and-development-bookings)
 
 ### The small print
@@ -134,5 +134,5 @@ You will not be required to repay any costs in the following circumstances:
 
 Please complete this
 [form](https://docs.google.com/document/d/1gkK8L345gmmHFjqxduz5hvHyRvejMJd_rVNXQtZLrQE/edit)
-and speak to your line manager or the People Manager if you would like support
+and speak to your line manager or the Head of People if you would like support
 from dxw to complete a professional qualification.
