@@ -2,7 +2,6 @@
 title: Supporting your development and wellbeing
 permalink: /:path/:basename/
 ---
-
 ## Line managers
 
 Line management at dxw is not about hierarchy, it’s about providing professional
@@ -15,7 +14,7 @@ Individuals should be proactive in taking responsibility for their own
 development, but line managers will provide advice and support to help team
 members meet their agreed short and long term goals.
 
-HR support line managers with advice and guidance on recruitment, onboarding,
+The People team support line managers with advice and guidance on recruitment, onboarding,
 probation, performance, sickness and any other specialist knowledge.
 
 You can find out who your line manager is in BreatheHR on the summary section of
@@ -82,26 +81,26 @@ Coming to your 1:1s with a list of things you’d like to discuss will help you
 make the most of the time. Some things you might find productive to talk about
 include:
 
-- **Your career and growth goals:** Don’t assume your manager knows all your
+* **Your career and growth goals:** Don’t assume your manager knows all your
   aspirations. Bring them up in your 1:1s. Your manager understands you won’t
   work for them forever and they want you to have a happy, fulfilling career —
   whatever that means to you. Tip: if you want to talk about your long-term
   goals but feel uneasy about it, ask your manager to do the same.
-- **Team improvement:** Have an idea that will help your team to work better?
+* **Team improvement:** Have an idea that will help your team to work better?
   Use your manager as a sounding board to help you refine and implement your
   suggestion.
-- **Self improvement:** Got a specific thing you’d like some help, coaching or
+* **Self improvement:** Got a specific thing you’d like some help, coaching or
   feedback on? A technical skill or a soft skill? Your 1:1 is the place to bring
   it up. Remember that you can use the 1:1s that fall between career progression
   reviews to discuss any of the proficiencies you’re currently trying to level
   up on.
-- **Personal issues:** Anything going on outside of work that’s affecting your
+* **Personal issues:** Anything going on outside of work that’s affecting your
   wellbeing? Physical or mental illness, bereavement, family issues, stress? The
   more you can tell your manager, the more they can try to help, and make
   accommodations for you at work.
-- **Interpersonal issues:** Having problems with a coworker? Your manager can
+* **Interpersonal issues:** Having problems with a coworker? Your manager can
   help mediate or coach you through how to deal with the issue.
-- **Retrospection:** If at any time you feel like your 1:1s aren’t particularly
+* **Retrospection:** If at any time you feel like your 1:1s aren’t particularly
   productive or helpful, or you’d like to change something about them, don’t
   hesitate to bring this up with your manager.
 
@@ -129,14 +128,14 @@ Feel free to make a copy and alter it according to your own needs.
 Here’s a great article on
 [7 ways to prepare for an effective one-on-one meeting with your manager.](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
 
-## People and HR Team
+## People Team
 
-The People and HR team is here to support you during your time at dxw. We
+The People team is here to support you during your time at dxw. We
 provide administrative, wellbeing, learning and development, line manager and
 professional support and guidance.
 
-We have a CIPD Level 5 trained HR People Manager and an administrator to support
-the HR and Recruitment function - both of whom are Mental Health First Aid
+We have a Head of People, a HR Manager and administrators to support
+the HR and Recruitment function - some of whom are Mental Health First Aid
 trained. We also have an independent HR advisor to provide additional support
 when needed.
 
@@ -145,33 +144,32 @@ We have a public slack channel for general non-sensitive questions,
 
 We also have a weekly Ask HR slot at 11am on Wednesdays, to provide a regular
 opportunity to get advice and support. The door is always open though, so you
-can also always book an ad-hoc slot with the HR People Manager to discuss
+can also always book an ad-hoc slot with the People team to discuss
 matters you might not feel able to raise with others in your
-[support path](#other-support-paths), or that are
-specialist to the HR function in dxw.
+[support path](#other-support-paths), or that are specialist to the HR function in dxw.
 
 The list is not exhaustive but some topics might include:
 
-- Accessibility
-- Bereavement
-- Contractual matters
-- Diversity
-- Expenses
-- Facilitation/scheduling of conversations with Directors/heads-of
-- Grievance & disciplinary matters
-- Holiday
-- Inclusivity
-- Interpersonal issues
-- Mental health first aid
-- Occupational health issues
-- Pay (second line of support after line managers)
-- Parental leave
-- Probation
-- Pensions
-- Sickness
-- Stress management
-- Training and career progression
-- Working patterns/locations
+* Accessibility
+* Bereavement
+* Contractual matters
+* Diversity
+* Expenses
+* Facilitation/scheduling of conversations with Directors/heads-of
+* Grievance & disciplinary matters
+* Holiday
+* Inclusivity
+* Interpersonal issues
+* Mental health first aid
+* Occupational health issues
+* Pay (second line of support after line managers)
+* Parental leave
+* Probation
+* Pensions
+* Sickness
+* Stress management
+* Training and career progression
+* Working patterns/locations
 
 ## Other support paths
 
@@ -184,14 +182,13 @@ week basis to ensure you are receiving everything you need, and will NEVER get
 bored of your questions!
 
 If you feel that you’re not getting as much time with your helper as you’d like,
-please speak to the People Manager.
+please speak to the People team.
 
 As a helper, you will be vital in ensuring you have the regular catch ups - if
 you are finding it hard to schedule them, please do talk to Bus Ops.
 
 For more information on being a helper, please see the
-[checklist](https://docs.google.com/document/d/1QPv7Mg7TTlt_OyLRtstAtPQBcId-ct-uTbWqYnso2jI)
-or speak to the People Manager.
+[checklist ](https://docs.google.com/document/d/1QPv7Mg7TTlt_OyLRtstAtPQBcId-ct-uTbWqYnso2jI)or speak to the People team.
 
 ### Buddies
 
@@ -217,8 +214,7 @@ about those things, talk to the People Manager.
 
 If you want to know more about how the buddy system works, how often to meet and
 suggested discussion topics, see the buddy
-[crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing).
-This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet
+[crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing). This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet
 up.
 
 ### Your delivery lead (for those on client work)
@@ -263,11 +259,11 @@ challenges they experience at work, but sometimes we want to only talk to people
 whose experiences more closely resemble our own. To enable that, we have created
 a number of private channels:
 
-- \#identity-lgbtqia-plus (contact a member of @identity-lgbtqia-plus-admins to
+* \#identity-lgbtqia-plus (contact a member of @identity-lgbtqia-plus-admins to
   join)
-- \#identity-neurodiversity-everyone and #identity-neurodiversity-non-management
+* \#identity-neurodiversity-everyone and #identity-neurodiversity-non-management
   (contact a member of @identity-neurodiversity-admins to join)
-- \#identity-spoonies (contact a member of @identity-spoonies-admins to join)
+* \#identity-spoonies (contact a member of @identity-spoonies-admins to join)
 
 Anyone can create a new one by creating the private channel, creating a user
 group with at least one volunteer (or asking a Slack admin to do it for you),
