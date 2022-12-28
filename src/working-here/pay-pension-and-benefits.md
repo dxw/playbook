@@ -2,7 +2,6 @@
 title: Your pay, pension and other benefits
 permalink: /:path/:basename/
 ---
-
 All perks and benefits are available to the dxw team after the successful
 passing of their probationary period.
 
@@ -25,11 +24,11 @@ important part of us being able to attract and retain great people.
 
 The following principles underpin the policy:
 
-- Transparency
-- Parity amongst similar roles
-- Equality of pay for those with the same role
-- Clear levels of responsibility and accountability
-- Clear career progression
+* Transparency
+* Parity amongst similar roles
+* Equality of pay for those with the same role
+* Clear levels of responsibility and accountability
+* Clear career progression
 
 ### How the policy works
 
@@ -39,11 +38,10 @@ The following principles underpin the policy:
 2. Billable team pay has published pay points per level, that are based on 3
    main factors:
 
-   - [Skills for the Information Age (SFIA)](https://assets.digitalmarketplace.service.gov.uk/g-cloud-12/documents/92768/886204607156866-sfia-rate-card-2020-07-17-1338.pdf)
+   * [Skills for the Information Age (SFIA)](https://assets.digitalmarketplace.service.gov.uk/g-cloud-12/documents/92768/886204607156866-sfia-rate-card-2020-07-17-1338.pdf)
      standards and rates which clients use to measure dxw against
-   - profitability margins based on expected billable rates
-   - the labour market and salaries based on this
-
+   * profitability margins based on expected billable rates
+   * the labour market and salaries based on this
 3. Non billable team pay has published pay bands that are based fundamentally on
    the labour market, but could also include other factors such as professional
    qualifications and sales targets.
@@ -78,28 +76,26 @@ The following principles underpin the policy:
 10. London weighting of £4,000 per year applies to staff who earn under £40,000
     per year to help them with the additional costs of living in London.
 
-    - This applies to people who live in a London borough.
-    - If someone’s salary increases above this level, London weighting will
+    * This applies to people who live in a London borough.
+    * If someone’s salary increases above this level, London weighting will
       gradually taper off (by £500 for each £1000 of extra salary) between
       £40,000 and £48,000
-    - The rationale for these numbers is taken from Trust for London research
+    * The rationale for these numbers is taken from Trust for London research
       which shows London weighting materially benefits people on salaries under
       £40,000.
-    - It is subject to tax & NI and is not pensionable
-    - It is a fixed rate, not uplifted by CPI
-
+    * It is subject to tax & NI and is not pensionable
+    * It is a fixed rate, not uplifted by CPI
 11. Annual cost of living CPI rises will apply for staff if the company achieves
     turnover above its minimum target for the preceding financial year.
 
-    - If you’ve passed your probation then you’ll receive your raise in October
+    * If you’ve passed your probation then you’ll receive your raise in October
       payroll
-    - CPI rises will not apply to people who for historic reasons are above the
+    * CPI rises will not apply to people who for historic reasons are above the
       maximum pay level for their role, to help us gradually align salaries for
       similar roles
-    - If someone is under formal disciplinary or performance procedures, their
+    * If someone is under formal disciplinary or performance procedures, their
       CPI rise will be postponed while this is ongoing
-    - The CPI figure comes from published Office of National Statistics data
-
+    * The CPI figure comes from published Office of National Statistics data
 12. We are committed to paying the London living wage or higher for all staff.
 
 ## Cost of living raise
@@ -109,17 +105,17 @@ percentage will be set by the
 [CPI Index](https://www.ons.gov.uk/economy/inflationandpriceindices) as of 1st
 October each year.
 
-- Annual cost of living CPI rises will apply for staff if the company achieves
+* Annual cost of living CPI rises will apply for staff if the company achieves
   turnover above its minimum target for the preceding financial year.
-- If you have passed your probation, you will receive your raise in the October
+* If you have passed your probation, you will receive your raise in the October
   payroll.
-- For those team members who joined prior to 1st October of that year, but
+* For those team members who joined prior to 1st October of that year, but
   haven't yet passed probation, you will receive your raise in the month you
   successfully complete it and it will be the same percentage as of 1st October
   CPI that year.
-- If you joined on or after 1st October (that year), you will not be eligible
+* If you joined on or after 1st October (that year), you will not be eligible
   for a cost of living raise until the following October.
-- If you are leaving during October you will not receive the cost of living
+* If you are leaving during October you will not receive the cost of living
   raise.
 
 ## Pensions
@@ -139,7 +135,7 @@ For more details on Relief at Source, please visit the
 
 ## Holiday
 
-W﻿e offer 25 days of annual leave plus bank holidays each   calendar year. If you are working part-time or on a fixed-term contract with us, the amount of holiday you are entitled to will be pro-rated. 
+W﻿e offer 25 days of annual leave plus bank holidays each calendar year. If you are working part-time or on a fixed-term contract with us, the amount of holiday you are entitled to will be pro-rated. 
 
 The holiday year at dxw runs between 1st January and 31st December, and you are able to carry over up 5 days of unused leave to the following year, if desired. 
 
@@ -149,12 +145,10 @@ The holiday year at dxw runs between 1st January and 31st December, and you are 
 
    This gives them a chance to manage any impact it might have on the wider team
    and the project.
-
 2. Request the holiday through BreatheHR
 
    We use BreatheHR to track who's off and when, so we can plan for it. Your
    line manager can then see and approve your request.
-
 3. Add your holiday to your Google calendar
 
    If someone is trying to find out where you are, or when you're available, the
@@ -203,7 +197,7 @@ to take the time back.
 
 Using BreatheHR similar to the way that you request holiday, there is a TOIL
 drop down, please write a note as to why you are requesting the leave and this
-will be approved by a member of the HR team. Please note this will not deduct
+will be approved by a member of the People team. Please note this will not deduct
 from your holiday allowance shown on your BreatheHR dashboard.
 
 ## Sickness
@@ -214,7 +208,7 @@ company.
 
 ### Communication of sickness
 
-If you’re sick, you must let your line manager and a member of the HR team know
+If you’re sick, you must let your line manager and a member of the People team know
 by 10:00am or as soon as you reasonably can after that. This can be done via
 email, directly on Slack, phone call or text. Line managers will record and
 monitor sickness for individuals within their teams.
@@ -256,7 +250,7 @@ point. The sooner we know, the sooner we can support you. We will never use the
 disclosure of a disability or long term health condition against you.
 
 We’ll organise a meeting (or a series of meetings if needed) between you, your
-line manager, and the people manager where we will discuss any difficulties you
+line manager, and the people team where we will discuss any difficulties you
 are facing and how dxw are able to support you. If there is any additional
 support we can reasonably give you, for example changes to your working pattern
 or working environment, we will. We need to balance dxw’s financial
@@ -277,11 +271,11 @@ please discuss this with your line manager or our people manager.
 
 Within any rolling 12 month period, a person will receive:
 
-- full pay for the first 12 days of sickness absence
-- half pay (but no less than living wage) for the next 8 days of sickness
+* full pay for the first 12 days of sickness absence
+* half pay (but no less than living wage) for the next 8 days of sickness
   absence
-- real living wage for the next 10 days of sickness absence
-- statutory sick pay pay after 30 days of sickness absence
+* real living wage for the next 10 days of sickness absence
+* statutory sick pay pay after 30 days of sickness absence
 
 There'll be circumstances where we'll make exceptions, because it's not possible
 to write a policy that is fair in every situation. This structure will form our
@@ -337,10 +331,7 @@ our policies. That might include considering a part-time working pattern.
 
 ## Compassionate leave
 
-If you need to take compassionate leave, let your line manager and a member of
-the HR team know, so we can support you in the right way. If you are on a
-project, we can then work with your delivery lead to manage the impact on the
-team.
+If you need to take compassionate leave, let your line manager and the People team know, so we can support you in the right way. If you are on a project, we can then work with your delivery lead to manage the impact on the team.
 
 Compassionate leave is likely to affect many of us at some time or other, in
 many different ways. Typically compassionate leave covers things like
@@ -361,7 +352,7 @@ out by
 
 There is the option for additional time off to be taken using annual or unpaid
 leave. This should be agreed between the line manager and Director, in
-consultation with HR. We can also provide support for people returning to work
+consultation with the People team. We can also provide support for people returning to work
 in line with our existing policies.
 
 To record compassionate leave in BreatheHR, choose Other as the Type of Leave,
@@ -372,22 +363,21 @@ and choose Compassionate as the Reason.
 Jury duty leave is generally paid for each day (or part thereof) that you are
 required to attend Court -
 
-- if you are required to complete Jury Service dxw will pay your normal salary
+* if you are required to complete Jury Service dxw will pay your normal salary
   less £64.95 per day. Once you have completed your Jury Service you are able to
   claim £64.95 towards your loss of earnings, and any care or childcare outside
   of your usual arrangements
   [here](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/687809/certificate-of-loss-eng.pdf)
-- dxw will re-consider the payment amount if an individual is on a case that
+* dxw will re-consider the payment amount if an individual is on a case that
   exceeds 4 weeks. This amount will be reviewed by Directors and a decision will
   be made with the individual
 
-Let your line manager or HR manager know as soon as you are able that you have
+Let your line manager or the People team know as soon as you are able that you have
 been requested for Jury Service with a copy of your jury summons
 
 ## Parental leave
 
-We’re aware that there is a lot to take in here - please come and talk to the HR
-People Manager if you have questions about anything (when you’re ready).
+We’re aware that there is a lot to take in here - please come and talk to the People team if you have questions about anything (when you’re ready).
 
 While many terms around parental leave are gendered, gender is not a factor in
 what leave you are entitled to from dxw. What matters is whether you, or your
@@ -408,7 +398,7 @@ statutory entitlement below. There’s an
 [online calculator](https://www.gov.uk/maternity-paternity-pay-leave) for
 working out your statutory entitlement. If you’d like support working out your
 anticipated pay and you’re ready to share the news even just with a select few,
-you can speak to the HR People Manager for a personal breakdown of your
+you can speak to the People team for a personal breakdown of your
 entitlement.
 
 ### If you’re having IVF or another fertility treatment
@@ -460,7 +450,7 @@ A person giving birth must take at least the first 2 weeks after the birth as
 parental leave.
 
 When you know you are pregnant please tell us as soon as you are comfortable. We
-can restrict this knowledge to your Director, Line Manager and People Manager
+can restrict this knowledge to your Director, Line Manager and People team
 and it will allow us to check that your working arrangements are safe, help you
 manage any pregnancy related sickness and make sure you are paid for time off
 for
@@ -586,7 +576,7 @@ shared parental leave (see below).
 If you are going to become the primary carer for any reason (for example medical
 incapacity, or bereavement) within the first 18 weeks from the birth or adoption
 of a child, dxw will consider your eligibility for 100% pay in line with our
-offer for primary carers. Please approach the People Manager to discuss this.
+offer for primary carers. Please approach the Head of People to discuss this.
 
 As with all company benefits, you will be entitled to these once you are no
 longer on your probationary period.
@@ -602,14 +592,14 @@ your particular circumstances.
 If you’re eligible and you or your partner ends maternity or adoption leave and
 pay (or Maternity Allowance) early, then you can:
 
-- take the rest of the 50 weeks of maternity or adoption leave as Shared
+* take the rest of the 50 weeks of maternity or adoption leave as Shared
   Parental Leave (SPL)
-- take the rest of the 37 weeks of maternity or adoption pay (or Maternity
+* take the rest of the 37 weeks of maternity or adoption pay (or Maternity
   Allowance) as Statutory Shared Parental Pay (ShPP). ShPP is paid at the
   [current rate per week](https://www.gov.uk/shared-parental-leave-and-pay/what-youll-get)
   or 90% of your average weekly earnings, whichever is lower.
 
-If you’re interested in taking this up, please talk to the People Manager. As
+If you’re interested in taking this up, please talk to the People team. As
 with all company benefits, you will be entitled to these once you are no longer
 on your probationary period.
 
@@ -671,7 +661,7 @@ working for you and dxw.
 Once you would like to progress with a new flexible working pattern, please fill
 in the
 [change of working pattern request form](https://forms.gle/qA1BwvQenqtVzShF8)
-and the HR team will make the necessary changes.
+and the People team will make the necessary changes.
 
 ### Normal working pattern
 
@@ -717,11 +707,11 @@ throughout the year.
 
 As a rough guide on how different patterns would impact your salary:
 
-- 7 weeks on, 1 week off: 90-95% FTE salary
-- 6 weeks on, 1 week off: 85-90% FTE salary
-- 5 weeks on, 1 week off: 85-90% FTE salary
-- 4 weeks on, 1 week off: 80-85% FTE salary
-- school term on, school holidays off: 70% FTE salary
+* 7 weeks on, 1 week off: 90-95% FTE salary
+* 6 weeks on, 1 week off: 85-90% FTE salary
+* 5 weeks on, 1 week off: 85-90% FTE salary
+* 4 weeks on, 1 week off: 80-85% FTE salary
+* school term on, school holidays off: 70% FTE salary
 
 We are happy to discuss the details and work out the best pattern for you.
 
@@ -760,7 +750,7 @@ task. It is important that you remain contactable and productive.
 ### Changing your working arrangement
 
 If you would like to discuss a change to the standard working pattern, you can
-either speak to your line manager or the HR Manager. In this initial
+either speak to your line manager or the People team. In this initial
 conversation, we will discuss your request, look at the impact on the team and
 your work, agree the best time for this arrangement to begin and how it will be
 communicated to those necessary.
@@ -801,16 +791,15 @@ if the matter is serious enough that a verbal warning is not appropriate, we may
 hold a disciplinary meeting at which you may be accompanied or represented by a
 colleague or trade union official. Following this meeting, we may:
 
-- Conclude that no misconduct has taken place, or that there is no poor
+* Conclude that no misconduct has taken place, or that there is no poor
   performance
-- Issue you with a written warning, which will explain:
+* Issue you with a written warning, which will explain:
 
-  - The nature of the misconduct or poor performance
-  - The change to your behaviour or performance that you need to make
-  - The time within which the change needs to be made
-  - The consequences of not making the change (for example, dismissal)
-
-- In cases of gross misconduct, dismiss you without notice
+  * The nature of the misconduct or poor performance
+  * The change to your behaviour or performance that you need to make
+  * The time within which the change needs to be made
+  * The consequences of not making the change (for example, dismissal)
+* In cases of gross misconduct, dismiss you without notice
 
 If you disagree with the outcome of this hearing, you may appeal against the
 decision. You must do this in writing. If you do so, your appeal and the
