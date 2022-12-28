@@ -2,10 +2,9 @@
 title: What to expect when joining dxw as an employee
 permalink: /:path/:basename/
 ---
-
 ## Onboarding
 
-After you’ve accepted a role at dxw a member of our HR team will be in touch
+After you’ve accepted a role at dxw a member of our People team will be in touch
 with you to discuss your laptop, our vetting process and to answer any questions
 you may have. On your first day you will receive a welcome Trello which will
 tell you who your line manager and helper are, things to read and welcome notes
@@ -17,17 +16,17 @@ Below is a rough outline of what to expect from your first two days at dxw.
 
 ### Day 1
 
-- Laptop & password set up (led by a tech team member)
-- Security chat, password chat & sign documents
-- Lunch / Zoom welcome
-- HR welcome chat with Passport & P45 check
-- Meet your manager
+* Laptop & password set up (led by a tech team member)
+* Security chat, password chat & sign documents
+* Lunch / Zoom welcome
+* HR welcome chat with Passport & P45 check
+* Meet your manager
 
 ### Day 2
 
-- Helper welcome chat
-- Half-day of self-led training (including any help with software)
-- Employee led tasks from your Trello
+* Helper welcome chat
+* Half-day of self-led training (including any help with software)
+* Employee led tasks from your Trello
 
 ## Probation
 
