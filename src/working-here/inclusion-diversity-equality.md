@@ -45,10 +45,10 @@ may amend it at any time upon any learnings.
 
 ## Who is responsible for this policy?
 
-Directors and the HR Manager have overall responsibility for the effective
+Directors and the Head of People have overall responsibility for the effective
 operation of this policy and for ensuring compliance with discrimination law.
 Day-to-day operational responsibility for this policy, including regular review
-of it, has been delegated to the HR Manager.
+of it, has been delegated to the Head of People.
 
 All directors, heads of departments, and managers at dxw must set an appropriate
 standard of behaviour, lead by example, and ensure that they adhere to the
@@ -57,18 +57,18 @@ Directors, heads of departments, and managers will be given appropriate training
 on equal opportunities awareness and equal opportunities recruitment and
 selection best practices.
 
-Anyone involved in recruitment must contact their line manager or the HR Manager
+Anyone involved in recruitment must contact their line manager or the People Team
 to request training or further information.
 
 Anyone with questions about the content or application of this policy should
-contact their line manager or HR Manager to request further information or
+contact their line manager or the People Team to request further information or
 training.
 
-This policy is reviewed annually by the HR Manager and directors in consultation
+This policy is reviewed annually by the Head of People and directors in consultation
 with an outsourced HR team.
 
 Staff and contractors are invited to comment on this policy and suggest ways in
-which it might be improved by contacting a director or the HR Manager.
+which it might be improved by contacting a director or the Head of People.
 
 ## Discrimination
 
@@ -116,7 +116,7 @@ should not be asked whether they are pregnant or planning to have children.
 
 Job applicants must not be asked about health or disability before a job offer
 is made. The following are limited exceptions which should only be used with the
-approval of the HR Manager.
+approval of the Head of People.
 
 * Questions necessary to establish if an applicant can perform an intrinsic part
   of the job after any reasonable adjustments.
@@ -130,7 +130,7 @@ UK. Assumptions about immigration status should not be made based on appearance
 or nationality. All prospective employees, regardless of nationality, must be
 able to produce original documents (such as a passport or birth certificate)
 before employment starts, to satisfy current immigration legislation. The list
-of acceptable documents is available from the HR Manager or UK Visas and
+of acceptable documents is available from the People Team or UK Visas and
 Immigration.
 
 To ensure that this policy is operating effectively, and to identify groups that
@@ -179,9 +179,9 @@ If you are disabled or become disabled, we encourage, but do not require, you to
 tell us about your condition so that we can support you as appropriate.
 
 If you experience difficulties at work because of your disability, you may wish
-to contact your line manager or the HR Manager to discuss any reasonable
+to contact your line manager or the People Team to discuss any reasonable
 adjustments that would help overcome or minimise the difficulty. Your line
-manager or the HR Manager may wish to consult with you and with your medical
+manager or the People Team may wish to consult with you and with your medical
 advisor, if you choose to include one in the consultation, about possible
 adjustments. We will consider the matter carefully and try to accommodate this
 based on the needs for your role, the cost for the accommodation and dxw’s
