@@ -124,9 +124,9 @@ to use in the future.
 
 ### Submitting the application
 
-Email a link to your promotion pack to a member of the HR team, your Head of
+Email a link to your promotion pack to a member of the People team, your Head of
 Discipline and your line manager. You need to also transfer ownership of any
-documents to a member of the HR team so it can go into your file and make sure
+documents to a member of the People team so it can go into your file and make sure
 your Head of Discipline has access to modify sharing settings so they can share
 it with panelists.
 
@@ -173,7 +173,7 @@ necessary, but should be avoided if possible.
 **At least 1 week before the panel meets**, the lead panelist creates a review
 form from
 [a template](https://drive.google.com/drive/folders/1q4idxObiYhqOAWuzudFQcGAk_70yZk-I),
-transfers ownership of it to a member of the HR team for filing, and sends it
+transfers ownership of it to a member of the People team for filing, and sends it
 with your promotion pack to each member of the panel.
 
 The panelists then individually review the application without conferring with
@@ -236,13 +236,13 @@ the average scores from the individual scoring as well as the final scores
 decided by the joint panel including where they could not agree.
 
 Your Head of Discipline shares this feedback with you, your line manager, the
-panelists and the HR team.
+panelists and the People team.
 
 ### Appeals
 
 If you believe you have not been treated fairly through this process, you can
 appeal the decision. To appeal a decision, you should raise it in writing to the
-Managing Director, copying in a member of the HR team. They then investigate the
+Managing Director, copying in the People team. They then investigate the
 review process for your application and organize a meeting with you to discuss
 their findings. You may bring a colleague or a trade union representative with
 you to that meeting. After the meeting, the Managing Director makes a final
@@ -285,7 +285,7 @@ Once you have accepted the position as lead panelist:
 2. Set up an application deadline calendar event at 16:00 on the deadline,
    inviting the applicant, their line manager, and their Head of Discipline.
    This is the date by which the applicant must submit their promotion pack by
-   email to a member of the HR team, their Head of Discipline, and their line
+   email to the People team, their Head of Discipline, and their line
    manager. Include the
    [instructions on how to submit the application](#submitting-the-application)
    described in the process above in the event description.
