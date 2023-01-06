@@ -44,7 +44,7 @@ Mental Health First Aiders are identified in the [company directory in Breathe](
 
 I﻿f your chosen MHFA is unable to take a call, they will offer to refer you to another first aider or a member of the People team. 
 
-### People Team 
+### People team 
 
 The People team is a safe place to turn if you need help with your mental health or general wellbeing at work. We can work with you to identify what additional support you might need.
 
