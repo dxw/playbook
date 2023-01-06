@@ -2,26 +2,25 @@
 title: Hiring new people
 permalink: /:path/:basename/
 ---
-
 ## Process
 
 ### Making a plan for hiring
 
-The hiring lead works with HR to create a plan for hiring using
+The hiring lead works with the People team to create a plan for hiring using
 [the hiring doc template](https://docs.google.com/document/d/1oN961FE41BWPyrVrPbHCES2D78eB0nbVp7dxZzHkMb8/edit).
 This includes planning for each stage of recruitment by doing the following;
 
-- set up the roles in [Applied](https://www.beapplied.com/) where we manage the
+* set up the roles in [Applied](https://www.beapplied.com/) where we manage the
   hiring process
-- write our sifting and interview questions, and their review guides
-- work out who will be part of the hiring team and try to make sure that
+* write our sifting and interview questions, and their review guides
+* work out who will be part of the hiring team and try to make sure that
   interview panels are diverse
 
 ### Writing a job description
 
 Before deciding to advertise a new job, we try to write an inclusive job
 description. The hiring lead will work with heads of professions, the hiring
-team, and the HR team to make sure that they’ve gathered what they need and to
+team, and the People team to make sure that they’ve gathered what they need and to
 get feedback on it. We’ve written about our approach to job descriptions here
 [on our blog](https://www.dxw.com/2021/01/how-to-write-inclusive-job-descriptions/).
 
@@ -44,10 +43,10 @@ We also always advertise on specialist jobs boards as relevant. We have a budget
 to advertise roles and encourage hiring leads to think about how they could use
 this to attract more diverse applicants. We use the following job boards:
 
-- [Hustle Crew](https://www.hustlecrew.co/)
-- [Coding Black Females](https://codingblackfemales.com/)
-- [Ada's List](https://www.adaslist.co/)
-- [Escape the City](https://www.escapethecity.org/)
+* [Hustle Crew](https://www.hustlecrew.co/)
+* [Coding Black Females](https://codingblackfemales.com/)
+* [Ada's List](https://www.adaslist.co/)
+* [Escape the City](https://www.escapethecity.org/)
 
 We typically don’t use recruiters.
 
@@ -121,10 +120,10 @@ and work day.
 
 ### Offering the job
 
-When we are ready to offer a job, the HR manager will call and email the
+When we are ready to offer a job, the People team will call and email the
 candidate with the details of the offer, including salary and a proposed start
 date. If the candidate accepts the offer, we start the onboarding process. If
-they have queries, the HR manager will discuss them with them and make
+they have queries, the People team will discuss them with them and make
 adjustments where possible and appropriate.
 
 Offers are subject to successfully completing eligibility to work in the UK
