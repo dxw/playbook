@@ -245,12 +245,12 @@ point. The sooner we know, the sooner we can support you.
 A reasonable adjustment is “a change to remove or reduce the effect of an
 employees’ disability or long term health condition so they can do their job”.
 If you would like to discuss ways of working and reasonable adjustments that
-will help you, please talk to your line manager or the people manager at any
+will help you, please talk to your line manager or the People team at any
 point. The sooner we know, the sooner we can support you. We will never use the
 disclosure of a disability or long term health condition against you.
 
 We’ll organise a meeting (or a series of meetings if needed) between you, your
-line manager, and the people team where we will discuss any difficulties you
+line manager, and the People team where we will discuss any difficulties you
 are facing and how dxw are able to support you. If there is any additional
 support we can reasonably give you, for example changes to your working pattern
 or working environment, we will. We need to balance dxw’s financial
