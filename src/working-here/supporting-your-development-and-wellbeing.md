@@ -187,8 +187,8 @@ please speak to the People team.
 As a helper, you will be vital in ensuring you have the regular catch ups - if
 you are finding it hard to schedule them, please do talk to Bus Ops.
 
-For more information on being a helper, please see the 
-[checklist ](https://docs.google.com/document/d/1QPv7Mg7TTlt_OyLRtstAtPQBcId-ct-uTbWqYnso2jI)or speak to the People team.
+For more information on being a helper, please see the
+[checklist  ](https://docs.google.com/document/d/1QPv7Mg7TTlt_OyLRtstAtPQBcId-ct-uTbWqYnso2jI)or speak to the People team.
 
 ### Buddies
 
