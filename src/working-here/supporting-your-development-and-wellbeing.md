@@ -128,7 +128,7 @@ Feel free to make a copy and alter it according to your own needs.
 Here’s a great article on
 [7 ways to prepare for an effective one-on-one meeting with your manager.](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
 
-## People Team
+## People team
 
 The People team is here to support you during your time at dxw. We
 provide administrative, wellbeing, learning and development, line manager and
