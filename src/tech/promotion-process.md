@@ -124,9 +124,9 @@ to use in the future.
 
 ### Submitting the application
 
-Email a link to your promotion pack to a member of the HR team, your Head of
+Email a link to your promotion pack to a member of the People team, your Head of
 Discipline and your line manager. You need to also transfer ownership of any
-documents to a member of the HR team so it can go into your file and make sure
+documents to a member of the People team so it can go into your file and make sure
 your Head of Discipline has access to modify sharing settings so they can share
 it with panelists.
 
@@ -173,7 +173,7 @@ necessary, but should be avoided if possible.
 **At least 1 week before the panel meets**, the lead panelist creates a review
 form from
 [a template](https://drive.google.com/drive/folders/1q4idxObiYhqOAWuzudFQcGAk_70yZk-I),
-transfers ownership of it to a member of the HR team for filing, and sends it
+transfers ownership of it to a member of the People team for filing, and sends it
 with your promotion pack to each member of the panel.
 
 The panelists then individually review the application without conferring with
