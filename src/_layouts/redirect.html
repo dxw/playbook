@@ -1,11 +1,35 @@
 <!DOCTYPE html>
-<html lang="en-US">
-  <meta charset="utf-8">
-  <title>Redirecting&hellip;</title>
-  <link rel="canonical" href="{{ page.redirect.to }}">
-  <script>location = "{{ page.redirect.to }}" + location.hash</script>
-  <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
-  <meta name="robots" content="noindex">
-  <h1>Redirecting&hellip;</h1>
-  <a href="{{ page.redirect.to }}">Click here if you are not redirected.</a>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#243746">
+    <meta name="theme-color" content="#f9f8f5">
+    <title>Redirecting&hellip;</title>
+    <link rel="canonical" href="{{ page.redirect.to }}">
+    <script>location = "{{ page.redirect.to }}" + location.hash</script>
+    <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
+    <meta name="robots" content="noindex">
+
+    <link rel="stylesheet" href="/assets/main.css" />
+    <script defer data-domain="playbook.dxw.com" src="https://plausible.io/js/plausible.js"></script>
+  </head>
+  <body>
+    {% include navbar.html %}
+    <main>
+      {% include related.html %}
+      <article class="page-content">
+        <h1>Redirecting&hellip;</h1>
+        <a href="{{ page.redirect.to }}">Click here if you are not redirected.</a>
+      </article>
+    </main>
+  </body>
 </html>
