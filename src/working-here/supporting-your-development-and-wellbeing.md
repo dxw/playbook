@@ -262,8 +262,8 @@ a number of private channels:
 
 * \#identity-lgbtqia-plus (contact a member of @identity-lgbtqia-plus-admins to
   join)
-* \#identity-neurodiversity-everyone and #identity-neurodiversity-non-management
-  (contact a member of @identity-neurodiversity-admins to join)
+* \#identity-neurodivergent-everyone and #identity-neurodivergent-non-management
+  (contact a member of @identity-neurodivergent-admins to join)
 * \#identity-spoonies (contact a member of @identity-spoonies-admins to join)
 
 Anyone can create a new one by creating the private channel, creating a user
