@@ -185,7 +185,8 @@ If you feel that you’re not getting as much time with your helper as you’d l
 please speak to the People team.
 
 As a helper, you will be vital in ensuring you have the regular catch ups - if
-you are finding it hard to schedule them, please do talk to Bus Ops.
+you are finding it hard to schedule them, please do talk to the Commercial
+Operations team.
 
 For more information on being a helper, please see the
 [checklist](https://docs.google.com/document/d/1QPv7Mg7TTlt_OyLRtstAtPQBcId-ct-uTbWqYnso2jI) or speak to the People team.
@@ -280,8 +281,8 @@ want to be invited.**
 ## Book purchase
 
 If there is a book relevant to your work that you would like to read, make a
-request through the #help-purchasing slack channel and the Bus Ops team will buy
-it for the library.
+request through the #help-purchasing slack channel and the Commercial Operations
+team will buy it for the library.
 
 ## Cycle to work scheme
 
