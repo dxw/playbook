@@ -23,8 +23,8 @@ Unfortunately, we can’t eliminate the chance of catching Covid and there will 
 
 2. If you are going into the office or attending an in person work event, be empathetic and apply common sense. 
 
-* If you test positive for Covid under no circumstances should you go into the office. 
-* If you have any symptoms of Covid or any other airborne illness we strongly recommend working from home to reduce the risk to others, especially those who may be more vulnerable.
+   * If you test positive for Covid under no circumstances should  you go into the office. 
+   * If you have any symptoms of Covid or any other airborne illness we strongly recommend working from home to reduce the risk to others, especially those who may be more vulnerable.
 
 3. At this time, and in line with Government Guidance, we don’t mandate lateral flow tests for employees prior to coming into the office or attending an in person work event. We understand that lateral flow tests are not as accessible now that the risk to the majority of the population is reducing, coupled with the implementation of the vaccination programme. Although we don’t mandate testing we do encourage it, where feasible, to try and protect colleagues who may be more vulnerable. To help with this, we will shortly hold a stock of lateral flow tests in both our London and Leeds offices for employees to access. If you work remotely and would like to order a lateral flow test ahead of travelling to an in person work event, please contact the People Team who can support you with this.
 
