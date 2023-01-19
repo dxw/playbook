@@ -1,8 +1,7 @@
 ---
-title: What to expect when joining dxw as an employee
+title: Onboarding
 permalink: /:path/:basename/
 ---
-## Onboarding
 
 After you’ve accepted a role at dxw a member of our People team will be in touch
 with you to discuss your laptop, our vetting process and to answer any questions

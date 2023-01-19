@@ -1,5 +1,5 @@
 ---
-title: Flexible workgng
+title: Flexible working
 permalink: /:path/:basename/
 ---
 
