@@ -3,8 +3,6 @@ title: Data protection and confidentiality
 permalink: /:path/:basename/
 ---
 
-## Data protection
-
 Though dxw doesn't control much personal data, our clients generally do. And
 some of it may be held on sites that we host. Everyone at dxw has a
 responsibility to keep that data safe, and process it in accordance with the
