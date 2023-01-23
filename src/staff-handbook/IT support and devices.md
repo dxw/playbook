@@ -1,5 +1,5 @@
 ---
-title: Use of technology at work
+title: IT support and devices
 permalink: /:path/:basename/
 ---
 

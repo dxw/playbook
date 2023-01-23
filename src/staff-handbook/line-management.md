@@ -1,5 +1,5 @@
 ---
-title: Supporting your development and wellbeing
+title: Line management
 permalink: /:path/:basename/
 ---
 
