@@ -100,3 +100,42 @@ Choose personas when:
 - [Practical Empathy by Indi Young](https://rosenfeldmedia.com/books/practical-empathy/)
 - [Describing personas by Indi Young](https://medium.com/inclusive-software/describing-personas-af992e3fc527)
 - [Mindsets article series at Designit](https://www.designit.com/stories/point-of-view/mindset-over-matter-part-one)
+
+## Workshops and group activities
+Interactive workshops with small groups can be an effective method for user research.
+
+They can help you learn more about the things that actual or likely users do, how they do them, how they think and make decisions, and how they feel about their experiences.
+
+Choose workshops when you want to:
+- see how different people, such as colleagues in different roles, or parents and children, work together to make a decision or to get something done
+- get a more detailed understanding of people who’ve had a similar experience
+
+You can also do workshops with stakeholders, teams and subject matter experts, as a good first step to get an overview of a new area and build trust in preparation for more detailed research.
+
+Group workshops may not be appropriate when researching very sensitive subjects, or with people in vulnerable contexts, who may want more privacy and confidentiality.
+
+Also bear in mind that you don’t get twice as many findings by inviting twice as many people to a session. If there’s nothing to gain from having several participants together, you should run individual research sessions using methods such as interviews, contextual observation or experience mapping.
+
+## Recommended guidance
+- [Researching in small group workshops in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research/research-small-group-workshops)
+- [Liberating Structures](https://www.liberatingstructures.com/)
+- [Gamestorming](https://gamestorming.com/)
+- [Seeds for Change](https://www.seedsforchange.org.uk/resources)
+
+## Usability testing
+Usability testing is where you ask participants to try to complete specific tasks using your service.
+
+Usability testing can be moderated or unmoderated.
+
+In moderated usability testing, you will be present during the session, either in person or online. You will describe the tasks you want participants to try. And will usually ask them to ‘think aloud’ as they move through the service to help you understand what they are doing, thinking and feeling.
+
+In unmoderated usability testing, you will provide participants with the tasks and access to the service you want to test. And participants complete the tasks on their own. You may record the unmoderated tests and ask participants to think aloud for the recording, or capture only web page analytics and the data entered.
+
+Choose usability testing when you have an existing service, a working prototype, or a newly built service, and want to know how well it works for likely users.
+
+### Recommended guidance
+- [Using moderated usability testing in GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research/using-moderated-usability-testing)
+- [Rocket Surgery Made Easy by Steve Krug](https://sensible.com/rocket-surgery-made-easy/)
+- [Qualitative Usability Testing: Study Guide by NN/g](https://www.nngroup.com/articles/qual-usability-testing-study-guide/)
+- [Handbook of Usability Testing by Jeffrey Rubin and Dana Chisnell](​​https://www.wiley.com/en-gb/Handbook+of+Usability+Testing:+How+to+Plan,+Design,+and+Conduct+Effective+Tests,+2nd+Edition-p-9780470185483)
+- [Unmoderated testing for the UK's new register of regulated professions](https://www.dxw.com/2022/06/unmoderated-testing-beis-rpr/)
