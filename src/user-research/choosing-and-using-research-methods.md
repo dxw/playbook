@@ -76,3 +76,27 @@ https://www.gov.uk/service-manual/user-research/researching-user-experiences)
 - [Adaptive Path’s Guide to Experience Mapping](https://drive.google.com/file/d/1kS_Q72e4k9AtjHFFnV2VrZKSei0Djpzo)
 - [UX Mapping Methods Compared: A Cheat Sheet by NN/g](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
 - [Mapping Experiences by Jim Kalbach](https://www.oreilly.com/library/view/mapping-experiences/9781491923528/)
+
+## Profiles and personas
+Profiles and personas are ways to describe what we’ve learned about the different groups of people who might use, operate or be affected by a service. These groups can be people who play a particular role in a service, or who share some defining circumstances that mean they have similar needs.
+
+There is no precise distinction between the two types of descriptions. But a profile (sometimes also called an archetype) most often focuses on the common aspects of the group. While a persona uses a fictional, yet realistic, character and associated narrative to represent the group.
+
+Either way, profiles and personas should focus on peoples’ roles and motivations, actions and interactions, circumstances and capabilities, experiences and needs.
+
+When creating personas we do not give them names, photos, names, ages or other demographic details that can create unintentional bias.
+
+Choose profiles when:
+- you want to describe groups of people who play different roles within a service (such as patients, carers, doctors and pharmacists, in a service about prescriptions)
+
+Choose profiles or personas when:
+- you want to describe different groups of people whose circumstances strongly influence their interactions and needs from a service (such as single people, couples and families, in a service about housing)
+
+Choose personas when:
+- representing a group with a realistic character will present what you’ve learned about that group in a more engaging way
+
+### Recommended guidance
+- [The Persona Lifecycle by John Pruitt and Tamara Adlin](https://www.oreilly.com/library/view/the-persona-lifecycle/9780125662512/)
+- [Practical Empathy by Indi Young](https://rosenfeldmedia.com/books/practical-empathy/)
+- [Describing personas by Indi Young](https://medium.com/inclusive-software/describing-personas-af992e3fc527)
+- [Mindsets article series at Designit](https://www.designit.com/stories/point-of-view/mindset-over-matter-part-one)
