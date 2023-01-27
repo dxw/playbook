@@ -11,11 +11,11 @@ Teams create the best services when research activities provide reliable answers
 to their most important questions. And we do our best research when we do it in
 ethical, inclusive and sustainable ways.
 
-We want to involve our colleagues and other stakeholders in creating research
-plans, so they understand and can contribute to research activities.
+We want to create plans that help us [Find the truth, and tell the truth](/user-research/#user-research-principles). And allow us to [Learn, share and adapt](/user-research/#user-research-principles) as we go.
 
-And we want to create plans that allow us to [learn, share and adapt](..) as we
-go.
+We want to involve our colleagues and other stakeholders in creating research plans, so they understand and can contribute to research activities.
+
+And we find peer review is a great way to help improve our plans, and a great opportunity for us to learn from each other.
 
 The guide to
 [planning user research for your service](https://www.gov.uk/service-manual/user-research/plan-user-research-for-your-service)
