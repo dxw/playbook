@@ -55,3 +55,24 @@ Choose contextual research and observation when:
 - [The Field Study Handbook by Jan Chipchase](https://www.thefieldstudyhandbook.com/)
 - [Userpalooza by Nick Bowmast](https://userpalooza.co.nz/)
 
+## Experience and journey mapping
+Experience and journey maps provide a visual representation of what users do, think and feel over time.
+
+There is no precise distinction between the two kinds of maps. But experience maps most often cover a person’s entire experience of an activity or event, and may include their interactions with a number of services. While journey maps tend to cover their path through a particular service.
+
+Choose experience mapping when you want to:
+- create a visual representation of all the things people go through and their experience of those activities
+- focus on a person’s entire experience rather than their interaction with one service
+
+Choose journey mapping when you want to:
+- create a time ordered visual representation of the larger stages and individual steps people go through when interacting with a service
+- show the different people who do, or are involved in, each activity, often with swimlanes
+- visually associate other aspects of a service (like data and systems) to the stages and steps
+
+### Recommended guidance
+- [Researching user experiences in the GOV.UK Service Manual](
+https://www.gov.uk/service-manual/user-research/researching-user-experiences)
+- [Creating an experience map in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research/creating-an-experience-map)
+- [Adaptive Path’s Guide to Experience Mapping](https://drive.google.com/file/d/1kS_Q72e4k9AtjHFFnV2VrZKSei0Djpzo)
+- [UX Mapping Methods Compared: A Cheat Sheet by NN/g](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
+- [Mapping Experiences by Jim Kalbach](https://www.oreilly.com/library/view/mapping-experiences/9781491923528/)
