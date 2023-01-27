@@ -2,8 +2,7 @@
 title: Choosing and using research methods
 permalink: /:path/:basename/
 ---
-Our fourth research principle is to Be methodical, but not rigid.
-At dxw, we don’t have a fixed set of approved research methods. But when we plan our research, we do need to choose appropriate methods for the context and apply them well.
+Our fourth research principle is to [Be methodical, but not rigid](https://playbook.dxw.com/user-research/#user-research-principles). At dxw, we don’t have a fixed set of approved research methods. But when we [plan our research](https://playbook.dxw.com/user-research/creating-and-using-research-plans/), we do need to choose appropriate methods for the context and apply them well.
 
 We prefer tried and trusted methods that can provide strong evidence and reliable answers to our questions, for the least time, effort and cost.
 
