@@ -12,7 +12,7 @@ And we always consider a team’s level of experience with user research. So we 
 This guide lists our favourite books, articles and videos for different research methods. Provides links to any tools and templates we have created. Along with good examples from previous projects.
 
 ## Human centred research and design
-At dxw, we follow human centred design practices to Start with people and their needs.
+At dxw, we follow human centred design practices to [start with people and their needs](/who-we-are/#start-with-people-and-their-needs).
 
 ### Recommended guidance
 - [User research in the GOV.UK Service Manual](https://www.gov.uk/service-manual)
