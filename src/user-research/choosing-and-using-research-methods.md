@@ -9,7 +9,7 @@ We prefer tried and trusted methods that can provide strong evidence and reliabl
 
 And we always consider a team’s level of experience with user research. So we may prefer simpler methods like interviews and usability testing that the team can easily understand and join in with.
 
-This guide lists our favourite books, articles and videos for different research methods. Provides links to any tools and templates we have created. Along with good examples from previous projects.
+This guide lists our favourite books, articles and videos on the different research methods we use. In future we aim to add links to any tools and templates we have created, along with good examples from previous projects.
 
 ## Human centred research and design
 At dxw, we follow human centred design practices to [start with people and their needs](/who-we-are/#start-with-people-and-their-needs).
