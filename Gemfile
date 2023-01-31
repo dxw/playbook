@@ -6,6 +6,7 @@ gem "jekyll", "~> 4.2.1"
 group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-sass-converter", github: 'jekyll/jekyll-sass-converter'
+  gem "jekyll-sitemap"
   gem "nokogiri"
   gem "sass-embedded"
 end
