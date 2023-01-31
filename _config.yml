@@ -16,6 +16,7 @@ defaults:
     values:
       layout: default
       related_order: 9999
+url: "https://playbook.dxw.com"
 
 # Build settings
 source: src
