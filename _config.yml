@@ -16,6 +16,11 @@ defaults:
     values:
       layout: default
       related_order: 9999
+  - scope: 
+      path: "admin/"
+    values: 
+      sitemap: false
+url: "https://playbook.dxw.com"
 
 # Build settings
 source: src
@@ -26,3 +31,4 @@ sass:
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
