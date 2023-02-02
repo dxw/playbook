@@ -17,6 +17,10 @@
       {% if page.title and page.title != "dxw's Playbook" %}{{ page.title | escape }} - {% endif %}Playbook - dxw
     </title>
 
+    {% if page.url == "/" %}
+      <script src="/assets/js/redirect.js"></script>
+    {% endif %}
+
     <link rel="stylesheet" href="/assets/main.css" />
     <script defer data-domain="playbook.dxw.com" src="https://plausible.io/js/plausible.js"></script>
   </head>
