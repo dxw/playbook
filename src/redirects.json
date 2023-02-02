@@ -1,0 +1,8 @@
+{
+  "redirect": [
+    {
+      "from": "/redirect-from",
+      "to": "/redirect-to"
+    }
+  ]
+}
