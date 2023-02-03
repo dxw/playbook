@@ -163,10 +163,8 @@ origin [BRANCHNAME]`.
 
 ### 8. Submit the changeset for code review
 
-At dxw, we never make changes to code running in production without at least two
-people, including the author(s), having reviewed and approved them. This to make
-sure we're delivering high quality software and it's an opportunity to learn
-from each other.
+At dxw, we never make changes to code running in production without the involvement of at least two people. In practice, this means one author and at least one approving reviewer, or authoring code as a pair or mob. We do this to make
+sure we're delivering high quality software and use it as an opportunity to learn from each other.
 
 Usually, we use pull requests on GitHub to facilitate code review. When you're
 ready, you should open a pull request and share it with your team for review.
