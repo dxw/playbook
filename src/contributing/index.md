@@ -122,3 +122,20 @@ All pages are implicitly sorted by their title unless overridden. To add an
 override, set the value of `related_order` in the frontmatter. A lower number is
 listed before a higher number. Pages without a `related_order` have an implicit
 order value set in `_config.yml` in the root of the project.
+
+### Redirects
+
+There are two approaches to redirects in the playbook and they solve different issues.
+
+#### jekyll-redirect-from gem
+
+A redirect_from entry can be added to a page's front matter - this works for redirecting
+one page to another, and includes keeping the same hash fragment. This is powered by the
+jekyll-redirect-from gem and requires developer assistance. This is the preferred approach
+as it keep redirects tied coupled closely to the content.
+
+#### Redirect manager
+
+There is a redirect manager in the Netlify CMS. Within this admin section you can enter
+a `redirect from` and a `redirect to` value. This currently enables redirecting on some
+pages which do not support the jekyll-redirect-from gem. If you create an entry in this section please test it once the build has completed.
