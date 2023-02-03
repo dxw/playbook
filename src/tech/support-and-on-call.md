@@ -194,7 +194,7 @@ things when you're on support, so that you don't end up overcommitted.
 In order to support our clients, we ensure there is always a developer dedicated
 to working on support, and that the responsibility cycles around every developer
 at dxw. [There's a rota](https://github.com/dxw/support-rota) which is set at
-least three months in advance, which is also reflected in 10,000ft.
+least three months in advance, which is also reflected in Productive.
 
 #### Scheduling around client work
 

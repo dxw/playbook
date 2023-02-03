@@ -89,7 +89,7 @@ are on support.
 
 [There's a rota](https://github.com/dxw/support-rota) which is set at least
 three months in advance. The rota is also (eventually) automatically reflected
-in 10,000ft. The support week runs from Wednesday to Tuesday to align with our
+in Productive. The support week runs from Wednesday to Tuesday to align with our
 standard sprint cycles.
 
 See the [support guide](/tech/support-and-on-call/) for more details on how
