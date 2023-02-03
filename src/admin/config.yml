@@ -180,3 +180,19 @@ collections:
       - { label: Title, name: title, widget: string, required: true }
       - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown, required: true }
+
+  - name: redirects
+    label: Redirects
+    label_singular: Redirect manager
+    files:
+      - name: redirect-manager
+        label: Redirect manager
+        file: src/redirects.json
+        fields:
+          - label: Redirects
+            name: redirects
+            widget: "list"
+            summary: '{{fields.from}} - {{fields.to}}'
+            fields:
+              - {label: Redirect from, name: from, widget: string, default: "/redirect-from"}
+              - {label: Redirect to, name: to, widget: string, default: "/redirect-to"}
