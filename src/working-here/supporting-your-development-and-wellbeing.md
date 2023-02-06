@@ -233,10 +233,10 @@ location is there to provide support on matters relating to dxw and your career
 with us, as well as profession specific questions. Similarly, they are here if
 you need to escalate any job-related concerns.
 
-### Our Managing Director, Dave
+### Our Chief Executive Officer, Dave
 
 At dxw, all doors are open if you need to raise a concern or just have a chat -
-this includes our MD. Dave is always available to discuss any questions you have
+this includes our CEO. Dave is always available to discuss any questions you have
 about the company and its future. Equally, if you feel you need to escalate
 anything to him, don’t hesitate to get in touch. Dave's diary is open and you
 can see it on Google Calendar. If you would like to schedule some time with him,
