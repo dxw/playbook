@@ -3,7 +3,7 @@ title: How to use your learning and development allowance
 permalink: /:path/:basename/
 ---
 
-### Find an activity to book
+## Find an activity to book
 
 Finding the right thing to use your learning and development allowance for can be difficult. Here are some
 ways you can find ideas:
@@ -16,7 +16,7 @@ ways you can find ideas:
   development and find suitable events or training
 * Ask the People team for ideas
 
-### Book the activity
+## Book the activity
 
 * Agree the plan with your line manager before you book anything
 * Log it in [Breathe](https://hr.breathehr.com/) as a training request for your
@@ -35,7 +35,7 @@ ways you can find ideas:
 * Add to your Google calendar and make sure your project team know when you're
   going to be away
 
-### After you get back
+## After you get back
 
 * Take some time to reflect on what you learnt, and (if appropriate) how it
   applies to your work at dxw
@@ -45,12 +45,12 @@ ways you can find ideas:
 * Consider writing a standalone bikeshed post giving more details about the
   event and how you found it
 
-### If you need help
+## If you need help
 
 * Contact the People team, or ask a question in Slack
   (#help-learning-and-development-bookings)
 
-### The small print
+## The small print
 
 dxw pays for the event ticket, travel, and accommodation, but you will need to
 cover your own costs for food, drink and supplementary equipment.
@@ -80,3 +80,6 @@ help with prioritisation in those circumstances.
 At the end of each financial year we will review our financial position with the
 intention of increasing the annual allowance.
 
+## Buying work-related books
+
+If there's a book relevant to your work that you would like to read, make a request through the #help-purchasing slack channel and the Commercial Operations team will buy it for the library.
