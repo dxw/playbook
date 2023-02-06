@@ -98,13 +98,13 @@
   }
 
   const getExcerpt = (content, searchQuery) => {
-    const searchTerms = searchQuery.split(' ').filter(i => i).map(term => {
-      const regex = new RegExp(term, 'ig')
+    const fullSearchTerm = getTermMatcher(searchQuery, content)
+    const searchTerms = searchQuery
+      .split(' ')
+      .filter((i) => i)
+      .map((term) => getTermMatcher(term, content))
 
-      return { term, regex, matchIndex: content.search(regex) }
-    })
-
-    const firstMatchedTerm = searchTerms.find(term => term.matchIndex !== -1)
+    const firstMatchedTerm = fullSearchTerm.matchIndex !== -1 ? fullSearchTerm : searchTerms.find(term => term.matchIndex !== -1)
     const matchIndex = firstMatchedTerm ? firstMatchedTerm.matchIndex : 100
     const matchLength = firstMatchedTerm?.term.length || 0
     const excerptStartIndex = getStartIndex(matchIndex, content)
@@ -122,6 +122,11 @@
     })
 
     return excerpt
+  }
+
+  const getTermMatcher = (term, content) => {
+    const regex = new RegExp(term, 'ig')
+    return { term, regex, matchIndex: content.search(regex) }
   }
 
   const getStartIndex = (matchIndex, content) => {
