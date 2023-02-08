@@ -69,7 +69,7 @@
 
     let innerHtml = ''
 
-    results.forEach((result) => {
+    results.forEach(result => {
       const item = window.store[result.ref]
 
       const breadcrumbs = item.url
@@ -101,8 +101,8 @@
     const fullSearchTerm = getTermMatcher(searchQuery, content)
     const searchTerms = searchQuery
       .split(' ')
-      .filter((i) => i)
-      .map((term) => getTermMatcher(term, content))
+      .filter(i => i)
+      .map(term => getTermMatcher(term, content))
 
     const firstMatchedTerm = fullSearchTerm.matchIndex !== -1 ? fullSearchTerm : searchTerms.find(term => term.matchIndex !== -1)
     const matchIndex = firstMatchedTerm ? firstMatchedTerm.matchIndex : 100
