@@ -57,11 +57,11 @@ Directors, heads of departments, and managers will be given appropriate training
 on equal opportunities awareness and equal opportunities recruitment and
 selection best practices.
 
-Anyone involved in recruitment must contact their line manager or the People Team
+Anyone involved in recruitment must contact their line manager or the People team
 to request training or further information.
 
 Anyone with questions about the content or application of this policy should
-contact their line manager or the People Team to request further information or
+contact their line manager or the People team to request further information or
 training.
 
 This policy is reviewed annually by the Head of People and directors in consultation
@@ -130,7 +130,7 @@ UK. Assumptions about immigration status should not be made based on appearance
 or nationality. All prospective employees, regardless of nationality, must be
 able to produce original documents (such as a passport or birth certificate)
 before employment starts, to satisfy current immigration legislation. The list
-of acceptable documents is available from the People Team or UK Visas and
+of acceptable documents is available from the People team or UK Visas and
 Immigration.
 
 To ensure that this policy is operating effectively, and to identify groups that
@@ -179,9 +179,9 @@ If you are disabled or become disabled, we encourage, but do not require, you to
 tell us about your condition so that we can support you as appropriate.
 
 If you experience difficulties at work because of your disability, you may wish
-to contact your line manager or the People Team to discuss any reasonable
+to contact your line manager or the People team to discuss any reasonable
 adjustments that would help overcome or minimise the difficulty. Your line
-manager or the People Team may wish to consult with you and with your medical
+manager or the People team may wish to consult with you and with your medical
 advisor, if you choose to include one in the consultation, about possible
 adjustments. We will consider the matter carefully and try to accommodate this
 based on the needs for your role, the cost for the accommodation and dxw’s
