@@ -1,0 +1,46 @@
+#!/bin/sh
+#
+# Usage:
+#    script/test
+#
+# You can also pass extra CLI arguments to htmlproofer:
+#    script/test --extra-argument
+
+set -e
+
+# Some URLs with fragments used for highlighting text (for example,
+# https://...#:~:text=Shared%20Parental) fail the lint, but return an OK 200
+# status code. These should not be reported as errors.
+IGNORE_HTTP_STATUS="200"
+
+# This trick comes from the Jekyll codebase:
+#     https://github.com/jekyll/jekyll/blob/master/script/proof
+IGNORE_HREFS=$(ruby -e 'puts %w{
+    airtable.com
+    app.productive.com
+    docs.google.com
+    drive.google.com
+    dxw.slack.com
+    github.com/dxw/judiciary-middleware
+    github.com/dxw/mind-side-by-side
+    wpscan.com
+}.map{|h| "/#{h}/"}.join(",")')
+
+# Build the Jekyll site here.
+DESTINATION="./_site"
+
+echo "Removing any existing version of the built site..."
+rm -rf "${DESTINATION}"
+
+echo "Building site..."
+bundle exec jekyll build \
+    --verbose \
+    --destination ${DESTINATION} \
+    --strict_front_matter \
+    --trace
+
+echo "Running htmlproofer..."
+bundle exec htmlproofer ${DESTINATION} \
+    --ignore-urls "$IGNORE_HREFS" \
+    --ignore-status-codes "$IGNORE_HTTP_STATUS" \
+    "$@"
