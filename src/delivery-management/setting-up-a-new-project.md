@@ -105,8 +105,8 @@ place for a typical project.
   first sprint or on the first day. The whole team should attend this.
 * Check that commercial tasks have been done. It’s worth checking there’s a
   signed order summary (this should be shared with you ahead of time) and this
-  matches the schedule in 10,000ft. Check invoices have been created in Xero and
-  you know where to find them. Also check 10,000ft early so you’re aware of any
+  matches the schedule in Productive. Check invoices have been created in Xero and
+  you know where to find them. Also check Productive early so you’re aware of any
   upcoming holiday being taken by the team.
 * Create a spreadsheet to track days worked against the order summary. This will
   show you how money is being spent against the forecasted budget, and help you
