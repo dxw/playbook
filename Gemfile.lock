@@ -68,8 +68,6 @@ GEM
     nokogiri (1.13.10)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
-    nokogiri (1.13.10-arm64-darwin)
-      racc (~> 1.4)
     parallel (1.22.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -103,7 +101,7 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
-  jekyll
+  jekyll (~> 4.3.2)
   jekyll-redirect-from
   jekyll-sass-converter!
   jekyll-sitemap
