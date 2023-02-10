@@ -51,7 +51,7 @@ view to including our Leeds office as the team there grows.
 
 ## Who supports you?
 
-You will be supported by our people team from the point of application.
+You will be supported by our People team from the point of application.
 
 If you’re invited into our recruitment process, it will consist of a one hour
 interview followed by a collaborative activity with the team which will be sent
@@ -61,7 +61,7 @@ The interview will be an informal, semi-structured conversation where there will
 be the opportunity for us to learn more about you and your experience and, just
 as importantly, for you to get a feel for what it’s like to work at dxw.
 
-If you join us, you’ll be continuously supported by our people team, a line
+If you join us, you’ll be continuously supported by our People team, a line
 manager and a mentor within the same field. You‘ll have regular check ins with
 the team where you can speak openly about anything that’s on your mind.
 
