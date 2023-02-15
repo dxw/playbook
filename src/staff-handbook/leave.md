@@ -72,7 +72,7 @@ drop down, please write a note as to why you are requesting the leave and this
 will be approved by a member of the HR team. Please note this will not deduct
 from your holiday allowance shown on your BreatheHR dashboard.
 
-# Compassionate leave
+## Compassionate leave
 
 If you need to take compassionate leave, let your line manager and a member of
 the HR team know, so we can support you in the right way. If you are on a

@@ -14,4 +14,4 @@ Your contribution will be relief at source, with 0.8 deducted from your monthly
 salary and the additional 0.2 added from tax relief.
 
 For more details on Relief at Source, please visit the
-[Aviva website](https://www.aviva.co.uk/retirement/news-views/report/making-sense-of-tax-relief-on-pension-payments/).
+[Aviva website](https://www.gov.uk/guidance/pension-administrators-reclaim-tax-relief-using-relief-at-source#:~:text=Relief%20at%20source%20is%20a,the%20UK%2C%20Scotland%20or%20Wales.).
