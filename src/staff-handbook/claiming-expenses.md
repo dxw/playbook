@@ -5,8 +5,6 @@ redirect_from:
   - /guides/claiming-expenses
 ---
 
-## Claiming expenses
-
 From time to time, some of us spend our own money at work. Most often, this is for things like:
 
 * Train fares for unexpected travel

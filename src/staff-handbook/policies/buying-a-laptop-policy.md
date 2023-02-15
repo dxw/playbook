@@ -50,7 +50,7 @@ assume ownership, any warranties or insurance dxw may hold for the laptop will
 expire. dxw will not be responsible for any faults or damage that either exist
 or go on to develop after you buy the laptop.
 
-# Who do I speak to for more information?
+## Who do I speak to for more information?
 
 If you have any further questions around this policy or if you need help with a
 specific query, please speak to a member of the commercial operations team who

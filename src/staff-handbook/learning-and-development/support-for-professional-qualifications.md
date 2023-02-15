@@ -33,7 +33,7 @@ You will not be required to repay any costs in the following circumstances:
 * Compulsory or voluntary redundancy
 * Retirement due to sickness
 
-Please complete this
-[form](https://docs.google.com/document/d/1gkK8L345gmmHFjqxduz5hvHyRvejMJd_rVNXQtZLrQE/edit)
+Please complete
+[The Employee Professional Qualification Agreement form](https://docs.google.com/document/d/1gkK8L345gmmHFjqxduz5hvHyRvejMJd_rVNXQtZLrQE/edit)
 and speak to your line manager or the Head of People if you would like support
 from dxw to complete a professional qualification.

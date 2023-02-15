@@ -1,5 +1,5 @@
 ---
-title: Learning and development
+title: Learning and development allowance
 permalink: /:path/:basename/
 redirect_from:
   - /guides/learning-and-development

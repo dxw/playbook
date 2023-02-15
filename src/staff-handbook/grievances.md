@@ -15,5 +15,5 @@ trade union official. Following this discussion the CEO will provide a written
 response.
 
 If you disagree with this response or the matter remains unresolved, you may
-appeal by responding in writing. A further meeting will be arranged and the
-CEO will again respond in writing. This decision will be final.
+appeal by responding in writing. A further meeting will be arranged and the CEO
+will again respond in writing. This decision will be final.
