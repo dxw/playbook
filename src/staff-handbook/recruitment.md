@@ -91,7 +91,7 @@ stage.
 If a candidate is not being taken to the next stage, we will provide detailed
 feedback from the interview.
 
-### Simulating a work day \[some roles only]
+### Simulating a work day (some roles only)
 
 A simulated work day is a 2-3 hour activity based on a real world problem or
 task. We use this to make sure that a candidate is capable of taking on a role.

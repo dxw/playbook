@@ -16,18 +16,18 @@ way.
 We track our time at the same level of granularity that we bill it – for almost
 everyone in the team, that’s half days or whole days.
 
-### What to do when recording your time
+## Guidelines for recording your time
 
-When recording our time, we follow these guidelines:
+If:
 
-- If what was scheduled matches reality, simply confirm this time.
-- If you worked on a named project (client or internal including "dxw Support"),
+- what was scheduled matches reality, simply confirm this time.
+- you worked on a named project (client or internal including "dxw Support"),
   that differs from the schedule, record your time as that.
-- If you worked on something else, leave the time blank or zero out what you
+- you worked on something else, leave the time blank or zero out what you
   were scheduled to work on.
-- If you were off sick or on leave, make sure this is recorded on BreatheHR and
+- you were off sick or on leave, make sure this is recorded on BreatheHR and
   it should be automatically copied across to Productive.
-- If you were away due to a regular day off, as part of your working pattern,
+- you were away due to a regular day off, as part of your working pattern,
   leave the time blank or zero out what you were scheduled to work on.
 
 If you’re not doing client work, then unless you’re working on one of a handful
