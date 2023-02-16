@@ -28,7 +28,7 @@ and the HR team will make the necessary changes.
 
 ## Standard working pattern
 
-The normal working pattern is 5 days per week, Monday to Friday, and 7 hours per
+The standard working pattern is 5 days per week, Monday to Friday, and 7 hours per
 day (excluding a break for lunch).
 
 ## Part time working
@@ -67,6 +67,8 @@ vary year by year depending on how the weeks and bank holidays land in the year,
 so the pattern must have enough free holiday to cover the maximum number of days
 you would need off while still allowing you to take some ad hoc holidays
 throughout the year.
+
+### What these patterns mean for your salary
 
 As a rough guide on how different patterns would impact your salary:
 

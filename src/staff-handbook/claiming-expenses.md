@@ -18,12 +18,16 @@ dxw will always pay expenses which are:
 
 Wherever possible, it’s best to check that expenses can be reclaimed before incurring them.
 
-We create expenses using Xero. There is an Expenses section on the page after you log in where you can see details of your expenses. If you're claiming for something new, you can go
+## How to claim expenses
+
+We create expenses using Xero. There's an Expenses section on the page after you log in where you can see details of your expenses. If you're claiming for something new, you can go
 [straight to the form](https://expenses.xero.com/!wrUP-/detail/create-new).
 
 To create an expense, you add all the receipts related to it to Xero, and submit
 them together as a claim. If you don't have receipts, you'll need to talk to
 the HR team.
+
+### What each receipt needs
 
 Each receipt requires the following details:
 
@@ -48,7 +52,7 @@ Each receipt requires the following details:
   time of writing: Agency, Hosting or Citrulu), select the applicable product.
   If not, leave it blank.
 
-## Choosing an expense account
+### Choosing an expense account
 
 Each item on a receipt needs to be allocated against a specific expense account.
 This is so that we can tell how much we spend on categories of things. If you

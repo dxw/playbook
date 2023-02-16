@@ -46,7 +46,7 @@ employment.
 Where possible we try to keep a sustainable pace of work and avoid working
 outside normal hours; occasionally this might not be possible.
 
-### How is TOIL calculated?
+### How TOIL is calculated
 
 TOIL (time off in lieu) is awarded when you work over and above your contracted
 working hours continuously for a period of time or when you attend/travel to an
@@ -65,7 +65,7 @@ important, particularly if you’re working on a billable project so please spea
 to your Delivery Lead before doing any overtime and arrange when you’ll be able
 to take the time back.
 
-### How to request TOIL?
+### How to request TOIL
 
 Using BreatheHR similar to the way that you request holiday, there is a TOIL
 drop down, please write a note as to why you are requesting the leave and this
