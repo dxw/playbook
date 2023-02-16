@@ -7,7 +7,9 @@
     "webpack:dev": "webpack --mode development --watch",
     "webpack:prod": "webpack --mode production",
     "jekyll:dev": "sleep 5 && bundle exec jekyll serve",
-    "jekyll:build": "bundle exec jekyll build"
+    "jekyll:build": "bundle exec jekyll build",
+    "lint": "standard",
+    "lint:fix": "standard --fix"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
