@@ -3,8 +3,11 @@
   "private": true,
   "scripts": {
     "start": "npm run webpack:dev & npm run jekyll:dev",
+    "build": "npm run webpack:prod && npm run jekyll:build",
     "webpack:dev": "webpack --mode development --watch",
-    "jekyll:dev": "sleep 5 && bundle exec jekyll serve"
+    "webpack:prod": "webpack --mode production",
+    "jekyll:dev": "sleep 5 && bundle exec jekyll serve",
+    "jekyll:build": "bundle exec jekyll build"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
