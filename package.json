@@ -1,8 +1,18 @@
 {
   "name": "playbook",
   "private": true,
+  "scripts": {
+    "start": "npm run webpack:dev & npm run jekyll:dev",
+    "webpack:dev": "webpack --mode development --watch",
+    "jekyll:dev": "sleep 5 && bundle exec jekyll serve"
+  },
   "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.2",
     "normalize.css": "8.0.1",
-    "standard": "^17.0.0"
+    "standard": "^17.0.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }

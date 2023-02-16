@@ -1,0 +1,177 @@
+(() => {
+  const call = () => {
+    const searchQuery = getQueryVariable('query')
+
+    if (searchQuery) { document.getElementById('search-box').setAttribute('value', searchQuery) }
+
+    const results = searchQuery ? generateIndex().search(searchQuery) : undefined
+
+    displaySearchResults(results, searchQuery)
+    setHeading(results?.length, searchQuery)
+  }
+
+  const getQueryVariable = (variable) => {
+    const urlQueryString = window.location.search
+    const urlParams = new URLSearchParams(urlQueryString)
+
+    return urlParams.get(variable)
+  }
+
+  const generateIndex = () => {
+    const index = elasticlunr(function () {
+      this.addField('title')
+      this.addField('content')
+      this.setRef('id')
+
+      this.pipeline.remove(lunr.stemmer)
+    })
+
+    const pages = Object.entries(window.store)
+
+    pages.forEach(([pageKey, page]) => {
+      const content = formatContent(page.content)
+
+      if (!content) { return }
+
+      window.store[pageKey].content = content
+
+      index.addDoc({
+        id: pageKey,
+        title: page.title,
+        content: page.content
+      })
+    })
+
+    return index
+  }
+
+  const formatContent = (rawContent) => {
+    return rawContent
+      .replace(/([.?!])[\n\s]{2,}/g, '$1 ')
+      .replace(/[\n\s]{2,}/g, '. ')
+      .replace(/\n/, ' ')
+      .trim()
+      .replace(/^.$/, '')
+  }
+
+  const displaySearchResults = (results, searchQuery) => {
+    const searchResultsElement = document.getElementById('search-results')
+
+    if (!searchQuery) {
+      searchResultsElement.innerHTML = '<li class="search-results__no-results-message">Enter a search term in the box above.</li>'
+      return
+    }
+
+    if (!results.length) {
+      searchResultsElement.innerHTML = '<li class="search-results__no-results-message">No results found.</li>'
+      return
+    }
+
+    let innerHtml = ''
+
+    results.forEach(result => {
+      const item = window.store[result.ref]
+
+      const breadcrumbs = item.url
+        .replace('.html', '')
+        .replace(/-/g, ' ')
+        .split('/')
+        .filter(i => i)
+        .map(breadcrumb => breadcrumb[0].toUpperCase() + breadcrumb.substring(1))
+
+      breadcrumbs.pop()
+
+      const breadcrumbsString = breadcrumbs.length ? breadcrumbs.join(' > ') + ' > ' : ''
+      const heading = breadcrumbsString + item.title
+      const excerpt = getExcerpt(item.content, searchQuery)
+
+      innerHtml +=
+        '<li class="search-results__result">' +
+          '<h2 class="search-results__result-heading">' +
+            `<a href="${item.url}">${heading}</a>` +
+          '</h2>' +
+          `<p class="search-results__result-excerpt">${excerpt}</p>` +
+        '</li>'
+    })
+
+    searchResultsElement.innerHTML = innerHtml
+  }
+
+  const getExcerpt = (content, searchQuery) => {
+    const fullSearchTerm = getTermMatcher(searchQuery, content)
+    const searchTerms = searchQuery
+      .split(' ')
+      .filter(i => i)
+      .map(term => getTermMatcher(term, content))
+
+    const firstMatchedTerm = fullSearchTerm.matchIndex !== -1 ? fullSearchTerm : searchTerms.find(term => term.matchIndex !== -1)
+    const matchIndex = firstMatchedTerm ? firstMatchedTerm.matchIndex : 100
+    const matchLength = firstMatchedTerm?.term.length || 0
+    const excerptStartIndex = getStartIndex(matchIndex, content)
+    const excerptEndIndex = getEndIndex(matchIndex, matchLength, content)
+    let excerpt = content.slice(excerptStartIndex, excerptEndIndex)
+
+    if (excerptStartIndex > 0) { excerpt = '...' + excerpt }
+    if (excerptEndIndex < content.length) { excerpt += '...' }
+
+    searchTerms.forEach(searchTerm => {
+      excerpt = excerpt.replace(
+        searchTerm.regex,
+        '<strong class="search-results__matching-keyword">$&</strong>'
+      )
+    })
+
+    return excerpt
+  }
+
+  const getTermMatcher = (term, content) => {
+    const regex = new RegExp(term, 'ig')
+    return { term, regex, matchIndex: content.search(regex) }
+  }
+
+  const getStartIndex = (matchIndex, content) => {
+    let startIndex = Math.max(matchIndex - 100, 0)
+
+    while (startIndex > 0 && content[startIndex] !== ' ') {
+      startIndex = startIndex - 1
+    }
+
+    if (content[startIndex] === ' ') { startIndex++ }
+
+    return startIndex
+  }
+
+  const getEndIndex = (matchIndex, queryLength, content) => {
+    matchIndex = Math.max(matchIndex, 100)
+
+    let endIndex = Math.min(matchIndex + queryLength + 100, content.length)
+
+    while (endIndex !== content.length && content[endIndex] !== ' ') {
+      endIndex++
+    }
+
+    return endIndex
+  }
+
+  const setHeading = (resultsCount, searchQuery) => {
+    const searchHeading = document.getElementById('search-heading')
+
+    if (searchQuery) {
+      const resultsLabel = resultsCount === 1 ? 'result' : 'results'
+
+      searchHeading.innerText = `Showing ${resultsCount} ${resultsLabel} for "${searchQuery}"`
+    } else {
+      searchHeading.innerText = 'Enter a search term'
+    }
+
+    removeAutogeneratedHeading()
+  }
+
+  const removeAutogeneratedHeading = () => {
+    const autogeneratedHeadingElement = document.querySelector('h1:not(.search-heading)')
+
+    autogeneratedHeadingElement.remove()
+  }
+
+  call()
+})()
