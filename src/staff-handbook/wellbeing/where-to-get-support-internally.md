@@ -72,7 +72,7 @@ First aiders are a safe place to turn to if you are experiencing an issue with y
 
 Mental Health First Aiders are identified in the [company directory in Breathe](https://hr.breathehr.com/employees/directory?name=&company_department_id=&company_division_id=&mh=true), and you can reach out to them via Slack or email.
 
-I﻿f your chosen MHFA is unable to take a call, they will offer to refer you to another first aider or a member of the People team. 
+If your chosen MHFA is unable to take a call, they will offer to refer you to another first aider or a member of the People team. 
 
 ### Helpers 
 
