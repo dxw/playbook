@@ -53,6 +53,20 @@ bundle exec jekyll build
 bundle exec htmlproofer _site
 ```
 
+### Code style
+
+[JavaScript Standard Style](https://standardjs.com/) is the authority on style for JavaScript files. This is enforced on pull requests to the main branch. Linting is run across all files as part of the test script.
+
+```
+script/test
+```
+
+Or alternatively you can run standalone linting checks by running
+
+```
+npm run lint
+```
+
 ## Licence
 
 The contents of dxw's Playbook is released under a
