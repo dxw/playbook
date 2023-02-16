@@ -1,3 +1,6 @@
+const elasticlunr = require('elasticlunr')
+const lunr = require('elasticlunr');
+
 (() => {
   const call = () => {
     const searchQuery = getQueryVariable('query')
