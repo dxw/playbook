@@ -1,0 +1,21 @@
+name: Code style
+on:
+  pull_request:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Lint
+    steps:
+    - uses: actions/checkout@v2
+      name: Check out repository
+    - uses: actions/setup-node@v1
+      name: Set up Node.js
+      with:
+        node-version: 18.13.0
+    - run: |
+        npm ci
+        npm run lint
+      name: Lint
+      
