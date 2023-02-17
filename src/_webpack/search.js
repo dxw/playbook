@@ -1,5 +1,4 @@
-const elasticlunr = require('elasticlunr')
-const lunr = require('elasticlunr');
+import elasticlunr from 'elasticlunr'
 
 (() => {
   const call = () => {
@@ -26,7 +25,7 @@ const lunr = require('elasticlunr');
       this.addField('content')
       this.setRef('id')
 
-      this.pipeline.remove(lunr.stemmer)
+      this.pipeline.remove(elasticlunr.stemmer)
     })
 
     const pages = Object.entries(window.store)
