@@ -1,4 +1,4 @@
-const fullPath = location.pathname + location.hash
+const fullPath = window.location.pathname + window.location.hash
 
 fetch('/redirects.json')
   .then((response) => response.json())
@@ -7,6 +7,6 @@ fetch('/redirects.json')
     const redirectResult = redirectArray.find(item => item.from === fullPath)
 
     if (redirectResult) {
-      location = redirectResult.to
+      window.location = redirectResult.to
     }
-})
+  })

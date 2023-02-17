@@ -7,4 +7,4 @@ set -e
 
 cd "$(dirname "$0")/.."
 
-bundle exec jekyll serve
+npm start

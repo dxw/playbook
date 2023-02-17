@@ -1,3 +1,5 @@
+import elasticlunr from 'elasticlunr'
+
 (() => {
   const call = () => {
     const searchQuery = getQueryVariable('query')
@@ -23,7 +25,7 @@
       this.addField('content')
       this.setRef('id')
 
-      this.pipeline.remove(lunr.stemmer)
+      this.pipeline.remove(elasticlunr.stemmer)
     })
 
     const pages = Object.entries(window.store)
