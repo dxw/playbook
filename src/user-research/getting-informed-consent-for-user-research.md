@@ -9,7 +9,7 @@ This guidance explains how we collect and keep evidence of informed consent at d
 [getting informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research)
 in the Service Manual.
 
-## Using dxw or client consent materials and processed
+## Using dxw or client consent materials and processes
 
 There are three basic options:
 
