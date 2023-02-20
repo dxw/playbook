@@ -85,7 +85,7 @@ There is no precise distinction between the two types of descriptions. But a pro
 
 Either way, profiles and personas should focus on peoples’ roles and motivations, actions and interactions, circumstances and capabilities, experiences and needs.
 
-When creating personas we do not give them names, photos, names, ages or other demographic details that can create unintentional bias.
+When creating personas we do not give them names, photos, ages or other demographic details that can create unintended bias in readers.
 
 Choose profiles when:
 - you want to describe groups of people who play different roles within a service (such as patients, carers, doctors and pharmacists, in a service about prescriptions)
