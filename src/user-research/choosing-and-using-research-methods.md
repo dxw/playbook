@@ -59,7 +59,7 @@ Choose contextual research and observation when:
 ## Experience and journey mapping
 Experience and journey maps provide a visual representation of what users do, think and feel over time.
 
-There is no precise distinction between the two kinds of maps. But experience maps most often cover a person’s entire experience of an activity or event, and may include their interactions with a number of services. While journey maps tend to cover their path through a particular service.
+There is no precise distinction between the two kinds of maps. But experience maps most often cover a person’s entire experience of a whole event, and may include their interactions with a number of services. While journey maps tend to cover their path through a particular service.
 
 Choose experience mapping when you want to:
 - create a visual representation of all the things people go through and their experience of those activities
@@ -67,7 +67,7 @@ Choose experience mapping when you want to:
 
 Choose journey mapping when you want to:
 - create a time ordered visual representation of the larger stages and individual steps people go through when interacting with a service
-- show the different people who do, or are involved in, each activity, often with swimlanes
+- show the different people who do, or are involved in, each step, often with swimlanes
 - visually associate other aspects of a service (like data and systems) to the stages and steps
 
 ### Recommended guidance
