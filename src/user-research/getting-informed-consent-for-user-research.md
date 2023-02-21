@@ -11,6 +11,8 @@ in the Service Manual.
 
 ## Using dxw or client consent materials and processes
 
+On different projects you might use dxw branded consent materials and follow our processes, or use consent materials provided by the client and follow their processes.
+
 There are three basic options:
 
 1. Use dxw consent materials and processes.
@@ -28,9 +30,9 @@ There are three basic options:
 
    This is only possible with client organisations that have established research practices.
 
-3. Where we are working with a client to build their research capability, we can also help them to create their own consent materials and processes to use in future research activities.
+3. When we are working with a client to build their research capability, we can also help them to create their own consent materials and processes to use in future research activities.
 
-Which ever approach we are taking, make sure your consent materials and processes follow the [good practice for informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research#what-informed-consent-is) described in the Service Manual.
+Whichever approach we are taking, make sure your consent materials and processes follow the [good practice for informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research#what-informed-consent-is) described in the Service Manual.
 
 ## Collecting and keeping consent records
 
