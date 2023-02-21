@@ -57,7 +57,7 @@ For user research sessions where you meet the participant in person, you can als
 * share a consent form in an accessible digital format the participant can read and respond to using their assistive technology
 * read the consent form aloud and collect their consent on a recording
 
-Whichever approach you are taking make sure the participants have time to read the research and consent information carefully, and an opportunity to ask questions.
+Whichever approach you are taking, make sure the participants have time to read the research and consent information carefully, and an opportunity to ask questions.
 
 ### During the session
 
