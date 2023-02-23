@@ -2,7 +2,6 @@
 title: Who we are
 related_order: 0
 ---
-
 dxw is an employee owned digital agency that works with the public and third
 sectors.
 
@@ -31,6 +30,18 @@ Our aim is to help the public sector make the most of the opportunities digital
 offers to make services better for the people who depend on them. And,
 ultimately, to free up more resources for essential front line services like
 education, health and social care, housing, welfare, and policing.
+
+## Our mission
+
+dxw's mission is to:  
+
+(1) build services that fit seamlessly into user’s lives, and that make public  services usable and accessible to all – especially those most in need  
+
+(2) help government to spend less money on technology, so that it can spend more money on the services that society most needs in order to  protect its most vulnerable members  
+
+(3) use the combination of its experience, technical expertise, public service  ethos and [metta](https://en.wikipedia.org/wiki/Maitr%C4%AB) not only to produce better services, but to radically and  permanently improve people’s interactions with government; to make it a better instrument of good 
+
+(4) carry out all its work according to sound commercial principles, ensuring that it is profitable, sustainable and able to properly reward its staff and invest in its own growth and improvement
 
 ## Our values
 
@@ -127,18 +138,18 @@ everything to ourselves.
 
 However, there are some things that we must keep private.
 
-- Our clients trust us to host content that is not public, like upcoming
+* Our clients trust us to host content that is not public, like upcoming
   announcements and discussions made as part of formulating new policy. This is
   not our information to be open about, and it's very important to keep it
   confidential.
-- We also hold some personal data about and/or on behalf of our clients. We
+* We also hold some personal data about and/or on behalf of our clients. We
   never share any of this data, including contact details. See also:
   [data protection](/working-here/data-protection-and-confidentiality/).
-- We are sometimes sent documents that are
+* We are sometimes sent documents that are
   [protectively marked](/working-here/data-protection-and-confidentiality/#protective-marking-scheme),
   and we have a scheme of our own. Information in these documents is
   confidential.
-- Information about work that is currently being procured (whether we are
+* Information about work that is currently being procured (whether we are
   bidding or not) and any other information that could damage the commercial
   interests of a client or supplier
 
@@ -194,13 +205,50 @@ Our approach is set out in our
 
 Thank you for being you - it makes us better.
 
-## Our Board of Trustees
+## Our governance
 
-As an employee owned agency, the dxw directors are accountable to our Board of
-Trustees for the performance of the company. The trustees make sure dxw meets
-its targets, is run in the best interests of the staff, and delivers on our
-mission to create public services that improve lives.
+### Why employee ownership?
 
-The Board of Trustees is chaired by dxw’s founder and has 2 employee trustees
-elected by the staff, together with 2 external trustees who bring outside
-expertise and challenge.
+Working for a company that’s an Employee Owned Trust (EOT) means you get to work somewhere which has its mission and values, not just on a website, but written into its founding documents.
+
+As an EOT company, we have a Trustee Board that speaks for the staff as owners. It’s responsible for making sure the Company Board is working effectively. As well as ensuring we all stay true to the mission and values.
+
+We believe it would be much harder for us to deliver our mission with an ownership structure that prioritises profits for people who play no active part in the business and carries the pressures that come from being judged by the stock markets. 
+
+Employee ownership is different from other ownership models like a co-operative, for example. Employee owned does not mean employee managed. dxw is led and managed by our Company Board and Senior Leadership Team which include the CEO and the rest of the Executive Directors. 
+
+The Trustee Board provides the checks and balances needed to ensure the company is being run sustainably and in line with the mission and values.
+
+### The Trustee Board
+
+The Trustee Board meets quarterly and its consent is needed for major decisions relating to the company. It signs off the company business plan each year. 
+
+The Trustee Board is the board of a company called the “Public Service Trust Ltd”, which was set up when dxw became employee owned to hold the employee shares. The Trust owns the majority stake in dxw on behalf of staff.  
+
+There are five trustee positions: two trustees elected by staff, two independent trustees (one position is vacant at the moment) and the founder. Having the staff trustees means that a staff perspective is always present in the biggest decisions we make.
+
+The Trustees look after the interests of staff as owners. That means they take into account the full picture of the organisation. Sometimes there’s a difference between the short and long term interests of a business, or the interests of staff as employees and the same people as owners. 
+
+The Trustees will tend to take pragmatic decisions to ensure the company is successful over the long term. They commit to making decisions that reflect dxw’s mission and values. Staff can influence the big decisions of the organisation through the staff trustees and by electing people whose judgement they trust.
+
+### The Company Board
+
+dxw is led by the Company Board. The Executive Directors and the Non-Executive Director of dxw are registered at Companies House and are personally and legally responsible for most of what is done in the company’s name.  
+
+The Company Board meets quarterly and is chaired by our Non-Executive Director. Meetings are forward looking and consider some issues which will eventually be taken to the Trustee Board. The Company Board looks at the future direction for the company including business plans, how to run the company effectively to deliver them, and protecting the company from external and internal risk. 
+
+Members of the Company Board also have day to day responsibilities for the organisation and meet regularly as a Senior Leadership Team led by the CEO, to take tactical decisions about the operation of the company. Many operational decisions are delegated to other individuals or groups, for example which work we bid for, who will work on which project, or who we hire. 
+
+dxw also has staff groups who are supported and empowered by the Company Board to lead on specific issues like diversity, equity and inclusion and our impact on the planet.
+
+### The Staff Council
+
+dxw aims to have an open and collaborative culture and all staff are encouraged to get involved in company-wide work, and to talk to their line managers, heads or directors about their ideas and issues in relation to the company. 
+
+To provide a more structured way to understand the voice of staff as employees, we established a Staff Council with members elected by staff.  The Staff Council doesn’t have any decision making responsibilities or powers but has an important advisory role and can make recommendations to the Company Board.
+
+The Company Board has made a commitment to engage regularly with the Staff Council so they have a better understanding of the priorities and sentiment of staff as employees across the company when making recommendations and decisions. 
+
+The Staff Council will be involved in the annual business planning process, and will have an advisory role for our Head of People when new HR policies or approaches are developed. We also expect the Staff Council to advise on issues like how to keep improving our internal communications and understanding staff engagement. They have a direct route to the Company Directors and the Non-Executive Company Board Chair to raise issues of concern.
+
+In most cases the Staff Council will be able to provide a perspective based on their day to day interactions with staff, and their trusted knowledge and insight. Though they may sometimes decide they need to consult with colleagues more widely.
