@@ -180,7 +180,7 @@ There are two reasons that we will publish an advisory:
 * The plugin author lets us know that they’ve fixed the issue and released a fix
 * We couldn’t contact the plugin author, or they didn’t respond within the time
   period defined in our
-  [disclosure policy](https://security.dxw.com/disclosure/)
+  [disclosure policy](https://advisories.dxw.com/disclosure/)
 
 If an author has at any point been in touch and shown willingness to cooperate
 then we should give them the benefit of the doubt and make several attempts to

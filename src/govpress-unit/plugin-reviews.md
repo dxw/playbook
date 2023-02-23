@@ -14,7 +14,7 @@ below):
 2. Add a card to the Trello board
 3. Check the plugin for issues using
    [pluginscan](https://git.govpress.com/dxw/pluginscan)
-4. Write up an inspection report in security.dxw.com. If the plugin does not
+4. Write up an inspection report in advisories.dxw.com. If the plugin does not
    appear to be vulnerable, this can be published immediately
 5. If the plugin appears to be vulnerable, spend a short amount of time
    attempting to prove it.
