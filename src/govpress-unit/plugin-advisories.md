@@ -19,9 +19,8 @@ The steps for progressing an Advisory are:
 5. (at a later date) Publish the advisory
 6. Request a CVE
 
-The progress of advisories inspections is tracked alongside inspections using
-the
-[inspections Trello board](https://trello.com/b/sN42avTZ/dxwsec-inspections-and-advisories)
+The progress of advisories and inspections should be tracked on the
+[Oak Squad Trello board](https://trello.com/b/pF46aRdl/govpress-oak-squad)
 
 ## Check for existing advisories
 
