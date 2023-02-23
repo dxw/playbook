@@ -19,9 +19,8 @@ The steps for progressing an Advisory are:
 5. (at a later date) Publish the advisory
 6. Request a CVE
 
-The progress of advisories inspections is tracked alongside inspections using
-the
-[inspections Trello board](https://trello.com/b/sN42avTZ/dxwsec-inspections-and-advisories)
+The progress of advisories and inspections should be tracked on the
+[Oak Squad Trello board](https://trello.com/b/pF46aRdl/govpress-oak-squad)
 
 ## Check for existing advisories
 
@@ -181,7 +180,7 @@ There are two reasons that we will publish an advisory:
 * The plugin author lets us know that they’ve fixed the issue and released a fix
 * We couldn’t contact the plugin author, or they didn’t respond within the time
   period defined in our
-  [disclosure policy](https://security.dxw.com/disclosure/)
+  [disclosure policy](https://advisories.dxw.com/disclosure/)
 
 If an author has at any point been in touch and shown willingness to cooperate
 then we should give them the benefit of the doubt and make several attempts to
@@ -249,5 +248,5 @@ Note that most CVEs cannot be requested before publication due to the rules of
 the Distributed Weakness Filing project. Vulnerabilities in plugins made by
 WordPress itself follow different rules as they're covered by MITRE.
 
-* Visit <https://iwantacve.org> and fill out the form
+* Visit <https://www.cve.org/ResourcesSupport/ReportRequest> and fill out the form
 * Add a note to the timeline - e.g. 2014-01-02: Requested CVE

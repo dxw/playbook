@@ -14,7 +14,7 @@ below):
 2. Add a card to the Trello board
 3. Check the plugin for issues using
    [pluginscan](https://git.govpress.com/dxw/pluginscan)
-4. Write up an inspection report in security.dxw.com. If the plugin does not
+4. Write up an inspection report in advisories.dxw.com. If the plugin does not
    appear to be vulnerable, this can be published immediately
 5. If the plugin appears to be vulnerable, spend a short amount of time
    attempting to prove it.
@@ -48,7 +48,7 @@ draft or privately published.
 ## The Trello board
 
 The progress of plugin inspections is tracked using the
-[inspections Trello board](https://trello.com/b/sN42avTZ/dxwsec-inspections-and-advisories).
+[Oak Squad Trello board](https://trello.com/b/pF46aRdl/govpress-oak-squad).
 Although this contains a backlog of pending inspections, the order these are
 worked through should be based on the associated tickets, or on Fridays, in
 discussion with DMs.
