@@ -248,5 +248,5 @@ Note that most CVEs cannot be requested before publication due to the rules of
 the Distributed Weakness Filing project. Vulnerabilities in plugins made by
 WordPress itself follow different rules as they're covered by MITRE.
 
-* Visit <https://iwantacve.org> and fill out the form
+* Visit <https://www.cve.org/ResourcesSupport/ReportRequest> and fill out the form
 * Add a note to the timeline - e.g. 2014-01-02: Requested CVE
