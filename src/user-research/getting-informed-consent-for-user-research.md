@@ -104,6 +104,12 @@ If you are doing face to face research, you may want to use a printed consent fo
 
 We have [template consent forms](https://docs.google.com/document/d/1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k/) that will work for most research activities.
 
+### Creating consent materials for fully confidential research
+
+We also have a [template consenyt materials](https://docs.google.com/document/d/1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k/) for fully confidential research activities.
+
+In fully confidential research, our client does not learn the identity of our participants, has no access to research notes, recordings or other data, and is not involved in analysis. They receive only fully anonymised findings.
+
 ## Sharing your consent materials and process
 
 Some clients and stakeholders will not understand the ethical and legal reasons for getting informed consent, and will not be familiar with good consent practice.
