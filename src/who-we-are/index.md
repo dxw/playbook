@@ -35,13 +35,10 @@ education, health and social care, housing, welfare, and policing.
 
 dxw's mission is to:  
 
-(1) build services that fit seamlessly into user’s lives, and that make public  services usable and accessible to all – especially those most in need  
-
-(2) help government to spend less money on technology, so that it can spend more money on the services that society most needs in order to  protect its most vulnerable members  
-
-(3) use the combination of its experience, technical expertise, public service  ethos and [metta](https://en.wikipedia.org/wiki/Maitr%C4%AB) not only to produce better services, but to radically and  permanently improve people’s interactions with government; to make it a better instrument of good 
-
-(4) carry out all its work according to sound commercial principles, ensuring that it is profitable, sustainable and able to properly reward its staff and invest in its own growth and improvement
+1. build services that fit seamlessly into user’s lives, and that make public services usable and accessible to all – especially those most in need  
+2. help government to spend less money on technology, so that it can spend more money on the services that society most needs in order to protect its most vulnerable members  
+3. use the combination of its experience, technical expertise, public service ethos and [metta](https://en.wikipedia.org/wiki/Maitr%C4%AB) not only to produce better services, but to radically and permanently improve people’s interactions with government; to make it a better instrument of good 
+4. carry out all its work according to sound commercial principles, ensuring that it is profitable, sustainable and able to properly reward its staff and invest in its own growth and improvement
 
 ## Our values
 
