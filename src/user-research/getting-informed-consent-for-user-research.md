@@ -32,7 +32,7 @@ There are three basic options:
 
 3. When we are working with a client to build their research capability, we can also help them to create their own consent materials and processes to use in future research activities.
 
-Whichever approach we you take, make sure your consent materials and processes follow the [good practice for informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research#what-informed-consent-is) described in the Service Manual.
+Whichever approach you take, make sure your consent materials and processes follow the [good practice for informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research#what-informed-consent-is) described in the Service Manual.
 
 ## Collecting and keeping consent records
 
