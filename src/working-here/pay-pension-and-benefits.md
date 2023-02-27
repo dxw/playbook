@@ -2,7 +2,7 @@
 title: Your pay, pension and other benefits
 permalink: /:path/:basename/
 ---
-All perks and benefits are available to the dxw team after the successful
+All benefits are available to the dxw team after the successful
 passing of their probationary period.
 
 ## Changes to your details
@@ -762,19 +762,16 @@ when you are and aren’t around.
 ## Grievances
 
 If you have a grievance about your employment or a complaint about another
-member of staff, talk to the Managing Director as soon as possible.
+member of staff, talk to the CEO as soon as possible.
 
 The first step is to discuss the problem to see if it can be quickly resolved.
 
 If this discussion does not satisfactorily resolve the problem, you should put
-details of your grievance in writing and send it to the Managing Director. They
-will arrange a meeting to discuss the matter, at which you may be accompanied by
-a colleague or trade union official. Following this discussion the Managing
-Director will provide a written response.
+details of your grievance in writing and send it to the CEO. They will arrange a meeting to discuss the matter, at which you may be accompanied by a colleague or trade union official. Following this discussion the CEO will provide a written response.
 
 If you disagree with this response or the matter remains unresolved, you may
 appeal by responding in writing. A further meeting will be arranged and the
-Managing Director will again respond in writing. This decision will be final.
+CEO will again respond in writing. This decision will be final.
 
 ## Disciplinary procedure
 
@@ -804,7 +801,4 @@ colleague or trade union official. Following this meeting, we may:
 If you disagree with the outcome of this hearing, you may appeal against the
 decision. You must do this in writing. If you do so, your appeal and the
 circumstances of your case will be reviewed by a member of staff who has not
-been involved in your case before. That member of staff and the Managing
-Director will then meet to discuss your case, and will either uphold the outcome
-or schedule another disciplinary meeting. dxw's decision following that meeting
-will be final.
+been involved in your case before. That member of staff and the CEO will then meet to discuss your case, and will either uphold the outcome or schedule another disciplinary meeting. dxw's decision following that meeting will be final.
