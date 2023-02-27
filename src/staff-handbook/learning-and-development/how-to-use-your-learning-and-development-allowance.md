@@ -64,12 +64,12 @@ ways you can find ideas:
 * Consider writing a standalone bikeshed post giving more details about the
   event and how you found it
 
-### If you need help
+## If you need help
 
 * Contact the HR team, or ask a question in Slack
   (#help-learning-and-development-bookings)
 
-### The small print
+## The small print
 
 dxw pays for the event ticket, travel, and accommodation, but you will need to
 cover your own costs for food, drink and supplementary equipment.
@@ -99,6 +99,6 @@ help with prioritisation in those circumstances.
 At the end of each financial year we will review our financial position with the
 intention of increasing the annual allowance.
 
-### Buying work-related books
+## Buying work-related books
 
 If there's a book relevant to your work that you would like to read, make a request through the #help-purchasing slack channel and the Commercial Operations team will buy it for the library.
