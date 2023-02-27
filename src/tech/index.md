@@ -2,7 +2,6 @@
 title: Technology at dxw
 related_order: 1000
 ---
-
 ## Development
 
 ### Development team principles
@@ -16,7 +15,6 @@ related_order: 1000
 
    Ultimately, it’s about the user and their needs, not about technology.
    Sometimes software is not the answer.
-
 2. **Own your code, but collaborate**
 
    Having the opportunity to see a piece of work through to completion is a
@@ -31,12 +29,10 @@ related_order: 1000
    increase the shared knowledge of our products. Request feedback, ask
    questions and discuss code, but ultimately the author is responsible for
    making changes.
-
 3. **Security is a user need**
 
    Sometimes the simplest or easiest solution is not the most secure, and we
    fight for our user’s safety and security, even when a client doesn’t agree.
-
 4. **Use simple, conventional technology**
 
    By default, use straightforward technology and conventional approaches. The
@@ -46,7 +42,6 @@ related_order: 1000
 
    Vary from convention only on the domain specific stuff, where it adds the
    most value.
-
 5. **Build for quality and consistency**
 
    Think about those who come after us. We build high quality systems with the
@@ -56,13 +51,11 @@ related_order: 1000
 
    All code we write should be reviewed by at least one peer. This helps us ship
    safer and higher quality code.
-
 6. **Improve with each iteration**
 
    Always leave the codebase in a slightly better place than when you found it.
    Look for opportunities to refactor difficult code, to improve documentation,
    or to extract shared functionality.
-
 7. **Communicate clearly and frequently**
 
    Help our future selves and others by recording the reasons for our actions.
@@ -84,14 +77,13 @@ related_order: 1000
    similar) and when on support we use Zendesk tickets. Tracking our work help
    us to:
 
-   - visualise our progress
-   - document and share progress with clients and stakeholders
-   - be confident what we should be working on
-   - react to blockers and bottlenecks
-   - see what each other is responsible for and opportunities to help or avoid
+   * visualise our progress
+   * document and share progress with clients and stakeholders
+   * be confident what we should be working on
+   * react to blockers and bottlenecks
+   * see what each other is responsible for and opportunities to help or avoid
      duplicating effort
-   - reference commits back to their original user needs
-
+   * reference commits back to their original user needs
 8. **Be humble, supportive and open minded**
 
    Assume other people on your team know things you don’t. Feel comfortable
@@ -106,7 +98,6 @@ related_order: 1000
 
    Be non-judgemental – assume everyone did the best they could at the time,
    with what they knew and the resources available.
-
 9. **Always learning. Always teaching**
 
    Technology never stops, and the amount to know even for our limited stack is
@@ -118,7 +109,6 @@ related_order: 1000
 
    All code we write should be reviewed by at least one peer. This helps us
    learn new skills and build shared understanding.
-
 10. **Do the smallest amount of good work**
 
     We aspire to regularly ship good code, and deliver it to the users as often
@@ -142,7 +132,6 @@ related_order: 1000
     go slower. When that’s the case, it’s even more important to break down the
     work into the smallest reasonable chunks, to demonstrate progress, to make
     reviewing the changes as easy as possible, and to prove your assumptions.
-
 11. **Work in the open**
 
     Be open by default. Code should be public unless there’s a good reason
@@ -182,22 +171,18 @@ reduce the impact any one person can have on the decision as much as possible.
 
    Things/Mistakes happen, treat it as a learning experience rather than finding
    blame.
-
 2. **Documentation is the first step to automation**
 
    For most tasks you need to understand it enough to document it before you can
    begin to automate it.
-
 3. **Don't be a keeper of secrets**
 
    Everyone should be replaceable in respect to knowledge. It's everyone's
-   responsibility to share what they know (e.g. Pairing)
-
+   responsibility to share what they know (e.g. pairing).
 4. **No heroics - Don't internalise problems**
 
    Situations occur where there is pressure to deliver/maintain/fix, it's a team
    effort, not always the same person's job.
-
 5. **Be patient**
 
    Be helpful, not obstructive. It’s easy to get frustrated by things in time
