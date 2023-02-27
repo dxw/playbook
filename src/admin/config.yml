@@ -1,9 +1,10 @@
 # To run netlify-cms locally:
 #
 # 1. Replace the `backend` config with the commented configuration below.
-# 2. Remove the `src/` prefix from `file` and `folder` attributes to make them
-#    relative to the site URL, not relative to the repo root (which is needed
-#    by the `github` backend which uses the GitHub API endpoint to find files).
+# 2. Remove the `src/` prefix from `file`, `folder` and `media_folder`
+#    attributes to make them relative to the site URL, not relative to the repo
+#    root (which is needed by the `github` backend which uses the GitHub API
+#    endpoint to find files).
 # 3. On the command line, run:
 #        cd src && npx netlify-cms-proxy-server
 #
@@ -16,9 +17,7 @@ backend:
   repo: dxw/playbook
   branch: main
   open_authoring: true
-media_library:
-  name: disabled
-media_folder: _images
+media_folder: src/assets/images
 publish_mode: editorial_workflow
 show_preview_links: true
 collections:
