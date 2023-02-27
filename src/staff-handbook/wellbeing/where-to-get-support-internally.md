@@ -1,5 +1,5 @@
 ---
-title: Get internal support
+title: Where to get support internally
 permalink: /:path/:basename/
 --- 
 
@@ -19,7 +19,7 @@ dxw wants to ensure that you are well set up and looked after during your employ
 
 Sometimes our lives both inside and outside of work can be challenging, and many of us will experience poor mental or physical health for any number of reasons.
 
-This can impact our lives, and sometimes our ability to work as normal. 
+This can impact our lives and, sometimes, our ability to work as normal. 
 
 ## Who to speak to 
 
@@ -35,28 +35,28 @@ We have a public slack channel for general non-sensitive questions, #help-hr-non
 
 We also have a weekly Ask HR slot at 11am on Wednesdays, to provide a regular opportunity to get advice and support. The door is always open though, so you can also always book an ad-hoc slot with the People team to discuss matters you might not feel able to raise with others in your support path, or that are specialist to the HR function in dxw.
 
-The list is not exhaustive but some topics might include:
+The list is not exhaustive, but includes:
 
-* Accessibility
-* Bereavement
-* Contractual matters
-* Diversity
-* Expenses
-* Facilitation/scheduling of conversations with Directors/heads-of
-* Grievance & disciplinary matters
-* Holiday
-* Inclusivity
-* Interpersonal issues
+* accessibility
+* bereavement
+* contractual matters
+* diversity
+* expenses
+* facilitation/scheduling of conversations with Directors/heads-of
+* grievance & disciplinary matters
+* holiday
+* inclusivity
+* interpersonal issues
 * Mental health first aid
-* Occupational health issues
-* Pay (second line of support after line managers)
-* Parental leave
-* Probation
-* Pensions
-* Sickness
-* Stress management
-* Training and career progression
-* Working patterns/locations
+* occupational health issues
+* pay (second line of support after line managers)
+* parental leave
+* probation
+* pensions
+* sickness
+* stress management
+* training and career progression
+* working patterns/locations
 
 ### Your line manager 
 
@@ -64,7 +64,7 @@ Line managers are your first point of contact for any issues you may be having a
 
 They can listen, support and offer reasonable adjustments as detailed above. They can help review workloads, working patterns, projects, roles and responsibilities and help with resolving anything within the workplace that might be causing concern. They can liaise with delivery leads, heads of and directors where necessary, and take some of the burden from you.
 
-### Mental health first aiders 
+### Mental Health First Aiders 
 
 If you are experiencing a mental health crisis or think that someone else is, we have a team of trained mental health first aiders who are able to provide initial support. A mental health first aider is able to listen and communicate non-judgementally, give initial support and then signpost information or appropriate professional help. 
 
@@ -101,7 +101,7 @@ If you want to know more about how the buddy system works, how often to meet and
 ### Your delivery lead (for those on client work)
 There will be opportunities within the delivery team to raise any issues or concerns you might have e.g. retrospectives or planning sessions. As well as this, or if you’d prefer to talk one on one, the delivery lead working on the project will be available to provide support and guidance.
 
-### Directors and heads-of 
+### Directors and Heads-of 
 
 All members of the Directors and heads-of team are here to help answer any questions you might have. Your own Director and/or Head-of profession or location is there to provide support on matters relating to dxw and your career with us, as well as profession specific questions. Similarly, they are here if you need to escalate any job-related concerns.
 

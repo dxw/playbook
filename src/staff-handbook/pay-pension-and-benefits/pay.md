@@ -1,11 +1,9 @@
 ---
-title: Pay
+title: Pay policy
 permalink: /:path/:basename/
 ---
 
-## Pay Policy
-
-### Purpose
+## Purpose
 
 The purpose of the dxw pay policy is to give us a framework to pay salaries at
 the highest level we can, in the fairest way possible and in the most
@@ -13,7 +11,7 @@ sustainable way for the long-term commercial health of the business. Alongside
 our mission and values, and the way we look after and develop our teams, it’s an
 important part of us being able to attract and retain great people.
 
-### Principles
+## Principles
 
 The following principles underpin the policy:
 
@@ -23,7 +21,7 @@ The following principles underpin the policy:
 - Clear levels of responsibility and accountability
 - Clear career progression
 
-### How the policy works
+## How the policy works
 
 1. Applies to all staff in both billable and non billable teams. Statutory
    directors will each have a performance framework that is independent from
@@ -65,7 +63,7 @@ The following principles underpin the policy:
 9. dxw works with an independent HR advisor, who can assist if needed to help
    resolve any issues.
 
-### Cost of living
+## Cost of living
 
 10. London weighting of £4,000 per year applies to staff who earn under £40,000
     per year to help them with the additional costs of living in London.

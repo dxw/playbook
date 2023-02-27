@@ -6,23 +6,21 @@ All benefits are available to the dxw team members after they've successfully pa
 
 Benefits for permanent employees include:
 
-* Annual £1000 personal learning and development allowance
+* Annual £1000 [personal learning and development allowance](/staff-handbook/learning-and-development/how-to-use-your-learning-and-development-allowance/)
 
 * [Electric vehicle scheme](https://www.electriccarscheme.com)
 
-* Up to 18 weeks of paid parental leave depending on your situation
+* Up to 18 weeks of paid [parental leave](/staff-handbook/policies/parental-leave-policy/) depending on your situation
 
-* 25 days holiday plus bank holidays
+* 25 days [holiday plus bank holidays](/staff-handbook/leave/#holiday)
 
-* Pension with up to 5% matching contribution from dxw
+* [Pension](/staff-handbook/pay-pension-and-benefits/pension/) with up to 5% matching contribution from dxw
 
-* Flexible working to support your wellbeing and personal commitments
+* [Flexible working](/staff-handbook/flexible-working/) to support your wellbeing and personal commitments
 
 ## Cycle to work scheme 
 
-dxw operates a cycle-to-work scheme, which may allow you to purchase a bicycle
-at reduced cost. If you would like to take this up, please register
-[on the cycle scheme website](https://www.cyclescheme.co.uk/18eb71).
+dxw operates a [cycle-to-work scheme](https://www.cyclescheme.co.uk/), which may allow you to purchase a bicycle at reduced cost. If you would like to take this up, please register on the cycle scheme website.
 
 ## Season ticket loans
 
@@ -30,7 +28,7 @@ A season ticket loan helps spread the cost of commuting between your home and dx
 
 How to get a season ticket loan:
 
-* fill in a purchasing something form
+* fill in a [purchasing something](https://docs.google.com/forms/d/e/1FAIpQLSdz8-Z-fcootRS6UyceXbxdSdbO4-2jIyRrHHiI-3VH4LyRrw/viewform) form
 * the commercial ops team will dxw will process your request, and dxw will cover the cost of your season ticket
 * the cost of your ticket will be taken from your net pay each month (there’s no tax benefit attached to the loan)
 

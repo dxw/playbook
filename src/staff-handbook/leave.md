@@ -5,9 +5,11 @@ permalink: /:path/:basename/
 
 ## Holiday
 
-We offer 25 days of annual leave plus bank holidays each calendar year. If you are working part-time or on a fixed-term contract with us, the amount of holiday you are entitled to will be pro-rated. 
+We offer 25 days of annual leave plus bank holidays each calendar year. If you
+are working part-time or on a fixed-term contract, the amount of holiday you are
+entitled to will be pro-rated. 
 
-The holiday year at dxw runs between 1st January and 31st December, and you are able to carry over up 5 days of unused leave to the following year, if desired. 
+The holiday year at dxw runs between 1st January and 31st December, and you are able to carry over up 5 days of unused leave to the following year. 
 
 ### Booking holiday
 

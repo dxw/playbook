@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: External sources of support
 permalink: /:path/:basename/
 ---
 

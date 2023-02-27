@@ -13,8 +13,8 @@ From time to time, some of us spend our own money at work. Most often, this is f
 
 dxw will always pay expenses which are:
 
-* Necessary: We only expense things we need in order to be able to complete our work.
-* Proportionate: The total expense should be proportionate to the work at hand. In general, we try to avoid spending lots of money. For example, unless you have a good reason, don’t get a cab to a meeting when you could get a train.
+* necessary: We only expense things we need in order to be able to complete our work
+* proportionate: The total expense should be proportionate to the work at hand. In general, we try to avoid spending lots of money. For example, unless you have a good reason, don’t get a cab to a meeting when you could get a train
 
 Wherever possible, it’s best to check that expenses can be reclaimed before incurring them.
 
@@ -27,9 +27,9 @@ To create an expense, you add all the receipts related to it to Xero, and submit
 them together as a claim. If you don't have receipts, you'll need to talk to
 the People team.
 
-### What each receipt needs
+### The details needed from each receipt
 
-Each receipt requires the following details:
+You'll need the following details from each receipt to fill in your expenses claim:
 
 - **Receipt from**: The full company name of the seller
 - **Date**: The date on the receipt (i.e., the date the expense was incurred, not
@@ -92,3 +92,5 @@ Expenses unless there is definitely no other account that is suitable.
 - **489 - Telephone & Internet**: You may expense a portion of your telephone
   bill if you have made calls or used data on a personal device.
 - **493 - Travel**: Business-related travel
+
+
