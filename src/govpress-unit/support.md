@@ -15,6 +15,8 @@ especially useful to anyone who is working in support for the first time.
 
 ## Ticket workflow
 
+![How tickets cascade through support levels (reified as Zendesk views)](/assets/images/govpress/support-flow.svg)
+
 Tickets arrive in Zendesk and are automatically assigned (by customer email
 address) to the **GovPress Support Triage** group. Colleagues in this group will
 triage the ticket by adding all available metadata and setting the **Priority**
@@ -73,20 +75,25 @@ slightly differently than Zendesk intended. This is our current practice:
 
 ## Ticket attributes
 
-Once tickets have been triaged, they should have their priority and type
-attributes set. Setting the priority of a ticket will also determine the service
-level agreement (SLA) which is applied to it. The requester will have been sent
+![A single Zendesk ticket with an SLA applied to it (1) and its type and priority set (2)](/assets/images/govpress/support-Zendesk-ticket-view.png)
+
+Once tickets have been triaged, they should have their **priority** and **type**
+attributes set (2 in the screenshot above). Setting the priority of a ticket
+will also determine the service level agreement (SLA) which is applied to it (1).
+The requester will have been sent
 an automated email which will tell them which SLA has been applied to their
 request. We aim to meet the SLA for every ticket, so please prioritise tickets
 which are closest to breaching their SLA.
 
 ## Adding Trello cards to tickets
 
+![ Zendesk Trello integration](/assets/images/govpress/support-Zendesk-Trello-integration.png)
+
 You can automatically create a Trello card for the Oak or Spruce squad boards
-from within Zendesk. Click on the "bento box" menu icon labelled Apps on the
-right of the ticket, and fill in the highlighted form to create a new
+from within Zendesk. Click on the "bento box" menu icon labelled **Apps** on the
+right of the ticket (1), and fill in the highlighted form (2) to create a new
 ticket. Once the ticket has been created, you will see its id appear with the
-other ticket attributes.
+other ticket attributes (3).
 
 ## Preparing to work in Support
 
