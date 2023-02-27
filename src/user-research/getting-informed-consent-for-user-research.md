@@ -17,14 +17,14 @@ There are three basic options:
 
 1. Use dxw consent materials and processes.
 
-   In this case, we will use our own [templates]
+   In this case, we use our own [templates]
 (https://docs.google.com/document/d/1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k/) to create dxw branded consent materials.
 
-   And we will manage the research data, and keep the associated records of consent.
+   And we manage the research data, and keep the associated records of consent.
 
 2. Use our client’s consent materials and processes.
 
-   In this case, we will use the client's templates to create consent materials.
+   In this case, we use the client's templates to create consent materials.
 
    And follow the client's processes to manage all the research data we collect and keep the associated records of consent.
 
@@ -32,7 +32,7 @@ There are three basic options:
 
 3. When we are working with a client to build their research capability, we can also help them to create their own consent materials and processes to use in future research activities.
 
-Whichever approach we are taking, make sure your consent materials and processes follow the [good practice for informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research#what-informed-consent-is) described in the Service Manual.
+Whichever approach we you take, make sure your consent materials and processes follow the [good practice for informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research#what-informed-consent-is) described in the Service Manual.
 
 ## Collecting and keeping consent records
 
