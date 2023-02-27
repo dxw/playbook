@@ -79,9 +79,9 @@ Provide the information and consent sheet when the potential participants are in
 
 Check which format and channel works best for them - email attachment, paper letter, easy read, verbally, etc.
 
-### Collecting a record of consent
+### Collecting a record of informed consent
 
-You will need to collect a record of their consent from each participant, and keep it along with their research data.
+You will need to collect a record of their informed consent from each participant, and keep it along with their research data.
 
 For user research sessions where you will not meet the participant face to face, you can:
 
@@ -108,7 +108,7 @@ As the session continues, actively make sure you have the participant’s consen
 
 As a researcher, you can also pause to take a break, or finish a session if you are uncomfortable.
 
-### Keeping a record of consent
+### Keeping a record of informed consent
 
 For email and similar responses, keep a copy of the research information and consent sheet you used, along with a copy of each participant's reply, in the folder with the research data you collect.
 
