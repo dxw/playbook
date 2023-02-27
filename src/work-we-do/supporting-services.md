@@ -5,7 +5,7 @@ related_order: 2
 ---
 
 The technology team supports some of our client services. We split our support
-into two units: GovPress and non-GovPress.
+into two units: [GovPress](/govpress-unit/support/) and non-GovPress.
 
 ## Support helpdesk
 
