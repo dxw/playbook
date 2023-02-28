@@ -124,7 +124,7 @@ them down.
 
 dxw believes it's best to be open about what we're doing. We encourage our
 clients to do the same, as does the
-[service manual](https://www.gov.uk/service-manual). We talk, blog and write
+[GOV.UK Service Manual](https://www.gov.uk/service-manual). We talk, blog and write
 about what we're doing, and we are open about as much as we can.
 
 At dxw, we release [code](https://www.github.com/dxw), publish our
@@ -156,7 +156,7 @@ At dxw we want to make sure that everyone can access the digital services we
 create, including our own websites, communications and colleague resources.
 
 We follow the guidance in the
-[GOV.UK Service manual](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
+[GOV.UK Service Manual](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 to help us to meet government accessibility requirements.
 
 And to create a consistent approach to digital accessibility, our Playbook has
