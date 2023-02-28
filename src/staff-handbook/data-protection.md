@@ -10,11 +10,11 @@ responsibility to keep that data safe, and process it in accordance with the
 
 In particular, we:
 
-- Only process personal data as part of work on the service that we're
+- only process personal data as part of work on the service that we're
   contracted to provide to a client
-- Don't access personal data unless we need to in order to do our jobs: don't
+- don't access personal data unless we need to in order to do our jobs: don't
   read people's personal data or private communications without good reason
-- We do not ever disclose people's personal data to anyone outside dxw unless
+- we do not ever disclose people's personal data to anyone outside dxw unless
   specifically instructed, and are satisfied that it is legal to do so
 
 If you have any questions about data protection, talk to the Data Protection
@@ -61,17 +61,17 @@ or external to dxw.
 
 This information:
 
-- Must be clearly labelled or described as "Management-in-confidence"
-- When printed
+- must be clearly labelled or described as "Management-in-confidence"
+- when printed
 
-  - Stored only in a locked container
-  - Transported only via courier, recorded delivery or personally by dxw staff
-  - Destroyed by cross-cut shredding when no longer required
+  - stored only in a locked container
+  - transported only via courier, recorded delivery or personally by dxw staff
+  - destroyed by cross-cut shredding when no longer required
 
-- When digital
+- when digital
 
-  - Stored in an encrypted format
-  - Communicated only when encrypted or via an encrypted connection, unless
+  - stored in an encrypted format
+  - communicated only when encrypted or via an encrypted connection, unless
     emailed from one dxw.com address to another
 
 ### Company Confidential
@@ -96,16 +96,16 @@ falls into this category.
 
 This information:
 
-- Must be clearly labelled or described as "Client Confidential" or "Commercial
+- must be clearly labelled or described as "Client Confidential" or "Commercial
   in Confidence"
-- When printed:
+- when printed:
 
-  - Stored out of sight
-  - Destroyed by cross-cut shredding when no longer required
+  - stored out of sight
+  - destroyed by cross-cut shredding when no longer required
 
-- When digital:
+- when digital:
 
-  - Stored in an encrypted format when on exchangeable media or a mobile device
+  - stored in an encrypted format when on exchangeable media or a mobile device
 
 As a rule of thumb, label a document as Client Confidential if it mostly
 contains the client's confidential information, or Commercial in Confidence if

@@ -3,23 +3,28 @@ title: Pay policy
 permalink: /:path/:basename/
 ---
 
+## Changes to your details
+
+Please tell us promptly if your name, address, telephone number, next of kin
+details or banking details change and keep those details up to date in [Breathe](https://login.breathehr.com/login).
+
 ## Purpose
 
 The purpose of the dxw pay policy is to give us a framework to pay salaries at
 the highest level we can, in the fairest way possible and in the most
 sustainable way for the long-term commercial health of the business. Alongside
-our mission and values, and the way we look after and develop our teams, it’s an
+our mission and [values](/who-we-are/#our-values), and the way we look after and develop our teams, it’s an
 important part of us being able to attract and retain great people.
 
 ## Principles
 
 The following principles underpin the policy:
 
-- Transparency
-- Parity amongst similar roles
-- Equality of pay for those with the same role
-- Clear levels of responsibility and accountability
-- Clear career progression
+- transparency
+- parity amongst similar roles
+- equality of pay for those with the same role
+- cear levels of responsibility and accountability
+- clear career progression
 
 ## How the policy works
 

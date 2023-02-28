@@ -6,17 +6,17 @@ All benefits are available to the dxw team members after they've successfully pa
 
 Benefits for permanent employees include:
 
-* Annual £1000 [personal learning and development allowance](/staff-handbook/learning-and-development/how-to-use-your-learning-and-development-allowance/)
+* annual £1000 [personal learning and development allowance](/staff-handbook/learning-and-development/how-to-use-your-learning-and-development-allowance/)
 
 * [Electric vehicle scheme](https://www.electriccarscheme.com)
 
-* Up to 18 weeks of paid [parental leave](/staff-handbook/policies/parental-leave-policy/) depending on your situation
+* up to 18 weeks of paid [parental leave](/staff-handbook/policies/parental-leave-policy/) depending on your situation
 
 * 25 days [holiday plus bank holidays](/staff-handbook/leave/#holiday)
 
-* [Pension](/staff-handbook/pay-pension-and-benefits/pension/) with up to 5% matching contribution from dxw
+* [pension](/staff-handbook/pay-pension-and-benefits/pension/) with up to 5% matching contribution from dxw
 
-* [Flexible working](/staff-handbook/flexible-working/) to support your wellbeing and personal commitments
+* [flexible working](/staff-handbook/flexible-working/) to support your wellbeing and personal commitments
 
 ## Cycle to work scheme 
 

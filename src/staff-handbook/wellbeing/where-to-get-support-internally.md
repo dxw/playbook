@@ -12,7 +12,7 @@ dxw wants to ensure that you are well set up and looked after during your employ
 * Bespoke dxw support paths to seek help and advice: [Slack groups](https://docs.google.com/document/d/1rIHYqFdEWSmjkUyScx-tIpoFrICO1hG7-SDnSLOR3JM/edit), [Buddy System, Helpers, Line Managers](/working-here/supporting-your-development-and-wellbeing/#other-support-paths) and [HR support](/working-here/supporting-your-development-and-wellbeing/#people-and-hr-team).
 * [Reasonable adjustments](/working-here/pay-pension-and-benefits/#sickness) to support a disability, long-term health conditions and times of change and challenge. (Some changes and challenges may be, pregnancy, caring responsibilities, menopause & hormone therapies, bereavement, mental and physical health diagnosis and ongoing long term conditions).
 * Taking the time you need ([compassionate leave, one off carers leave, sickness, annual and unpaid leave](/working-here/pay-pension-and-benefits/)) - speak to your line manager for more details.
-* Support through the [Access to work](https://www.gov.uk/access-to-work) grant scheme for those with a disability or eligible health condition.
+* Support through the [Access to Work](https://www.gov.uk/access-to-work) grant scheme for those with a disability or eligible health condition.
 * [Flexible working options](/working-here/pay-pension-and-benefits/#flexible-working) such as change of working pattern, hours or role/project, access to local hot desking and maintaining remote working, to support changing needs.
 
 ## Mental and physical health support at a time of challenge or crisis
@@ -38,25 +38,24 @@ We also have a weekly Ask HR slot at 11am on Wednesdays, to provide a regular op
 The list is not exhaustive, but includes:
 
 * accessibility
-* bereavement
+* [bereavement](/staff-handbook/leave/#compassionate-leave)
 * contractual matters
-* diversity
-* expenses
+* [diversity and inclusion](/staff-handbook/policies/inclusion-diversity-equality/)
+* [expenses](/staff-handbook/claiming-expenses/)
 * facilitation/scheduling of conversations with Directors/heads-of
-* grievance & disciplinary matters
-* holiday
-* inclusivity
+* [grievances](/staff-handbook/grievances/) and [disciplinary matters](/staff-handbook/disciplinary-procedure/)
+* [holiday](/staff-handbook/leave/#holiday)
 * interpersonal issues
-* Mental health first aid
+* [Mental health first aid](/wellbeing/where-to-get-support-internally/#mental-health-first-aiders)
 * occupational health issues
-* pay (second line of support after line managers)
-* parental leave
+* [pay](/pay-pension-and-benefits/pay/) (second line of support after line managers)
+* [parental leave](/staff-handbook/policies/parental-leave-policy/)
 * probation
-* pensions
-* sickness
+* [pensions](/pay-pension-and-benefits/pension/)
+* [sickness](/staff-handbook/policies/sickness-policy/)
 * stress management
 * training and career progression
-* working patterns/locations
+* [working patterns](/staff-handbook/flexible-working/) and [locations](/staff-handbook/when-and-where-you-work/)
 
 ### Your line manager 
 
@@ -66,7 +65,7 @@ They can listen, support and offer reasonable adjustments as detailed above. The
 
 ### Mental Health First Aiders 
 
-If you are experiencing a mental health crisis or think that someone else is, we have a team of trained mental health first aiders who are able to provide initial support. A mental health first aider is able to listen and communicate non-judgementally, give initial support and then signpost information or appropriate professional help. 
+If you are experiencing a mental health crisis or think that someone else is, we have a team of trained mental health first aiders who are able to provide initial support. A Mental Health First Aider is able to listen and communicate non-judgementally, give initial support and then signpost information or appropriate professional help. 
 
 First aiders are a safe place to turn to if you are experiencing an issue with your mental health, and need to talk to someone. Conversations will be kept in strictest confidence, provided that you are not at serious risk of harm.
 

@@ -14,10 +14,10 @@ Commuting costs are the responsibility of individuals, while dxw will fund busin
 
 A business critical need is defined as:
 
-* Client meetings
-* Meetings with your line manager (e.g. during probation, monthly check-ins, quarterly reviews, post parental / sick leave)
-* Team meetups (e.g. design community, tech forum, away days, Board meetings)
-* All-staff in-person events
+* client meetings
+* meetings with your line manager (e.g. during probation, monthly check-ins, quarterly reviews, post parental / sick leave)
+* team meetups (e.g. design community, tech forum, away days, Board meetings)
+* all-staff in-person events
 * Conferences and training events
 
 At present, there is no obligation to attend in-person meetings.
@@ -26,7 +26,7 @@ As with all company expenses, please keep in mind that costs should be necessary
 
 Accommodation will be covered for business-critical events that require overnight stays.
 
-There are guidelines including rates and a list of recommended hotels.
+There are [guidelines in the Expenses policy that include rates and a list of recommended hotels](https://docs.google.com/document/d/1HCNkW_wgJ_CDKXGNwdcsx64-F2AZtbfML7_Tb_PvDRA/edit).
 
 Accommodation should be booked by the individual on a Pleo company debit card or expensed.
 
