@@ -114,6 +114,6 @@ For email and similar responses, keep a copy of the research information and con
 
 For paper consent forms, scan or photograph the signed consent form and keep the image file. Avoid [using your own phone or other personal device](https://playbook.dxw.com/user-research/taking-notes-and-recording-research-sessions/#using-a-dxw-provided-handheld-device) for this.
 
-Make sure the research data and associated consent records have the same participant identifier. Do not include participant names or other personal identifiers in [the document names](https://playbook.dxw.com/user-research/naming-and-identifying-research-documents/).
+Make sure the research data and associated consent records have the same participant identifier. Do not include participant names or other personal identifiers in [the document names](https://playbook.dxw.com/user-research/taking-care-of-research-data/#identifying-research-data-clearly).
 
 
