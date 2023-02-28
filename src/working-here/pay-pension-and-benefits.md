@@ -221,7 +221,7 @@ they know when to expect to hear from you.
 When you return to work, you must check your sickness has been correctly
 recorded in BreatheHR, update it if necessary and mark yourself as returned to
 work. Your line manager will then review and close the sick leave. If you're
-sick for more than 28 calendar days in a row, you'll also need to provide a
+sick for more than 7 calendar days in a row, you'll also need to provide a
 doctor's note.
 
 ### Absence meetings
