@@ -15,8 +15,7 @@ There are three basic options:
 
 1. Use dxw consent materials and processes.
 
-   In this case, we use our own [templates]
-(https://docs.google.com/document/d/1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k/) to create dxw branded consent materials.
+   In this case, we use our own [templates](https://docs.google.com/document/d/1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k/) to create dxw branded consent materials.
 
    And we manage the research data, and keep the associated records of consent.
 
