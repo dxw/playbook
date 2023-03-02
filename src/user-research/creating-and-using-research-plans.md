@@ -13,7 +13,7 @@ ethical, inclusive and sustainable ways.
 
 We want to create plans that help us [Find the truth, and tell the truth](/user-research/#user-research-principles). And allow us to [Learn, share and adapt](/user-research/#user-research-principles) as we go.
 
-We [choose appropriate research methods](/user-research/creating-and-using-research-plans) for the context and apply them well.
+We [choose appropriate research methods](/user-research/choosing-and-using-research-methods/) for the context and apply them well.
 
 We want to involve our colleagues and other stakeholders in creating research plans, so they understand and can contribute to research activities.
 
