@@ -52,7 +52,7 @@ These are the things that user researchers usually do on projects.
 
    This is the most obvious and visible part of our work. We carefully prepare, schedule and carry out effective research activities. We give all our colleagues regular opportunities to take part in research. And we record what we do and how we do it, for each other, and for those who come after us.
 
-   This helps teams to embed regular research into their [agile practices]().
+   This helps teams to embed regular research into their [agile practices](/who-we-are/#keep-an-agile-mindset).
 
    [Choosing and using research methods](/user-research/choosing-and-using-research-methods/) \
    [Writing and using discussion guides](/user-research/writing-and-using-discussion-guides/) \
