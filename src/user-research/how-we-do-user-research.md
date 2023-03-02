@@ -24,8 +24,8 @@ These are the things that user researchers usually do on projects.
 
    This helps teams to [start with people and their needs](/who-we-are/#start-with-people-and-their-needs).
 
-   [Setting up a project](/delivery-management/setting-up-a-new-project/)
-   [Creating and using research plans](/user-research/creating-and-using-research-plans)
+   [Setting up a project](/delivery-management/setting-up-a-new-project/) \
+   [Creating and using research plans](/user-research/creating-and-using-research-plans/)
 
 2. **Create and share research plans**
 
@@ -35,7 +35,7 @@ These are the things that user researchers usually do on projects.
 
    This helps us to produce the clearest and most valuable findings we can, with the people, time and other resources we have.
 
-   [Creating and using research plans](/user-research/creating-and-using-research-plans)
+   [Creating and using research plans](/user-research/creating-and-using-research-plans/) \
    [Choosing and using research methods](/user-research/choosing-and-using-research-methods/)
 
 3. **Recruit people for research**
@@ -44,9 +44,9 @@ These are the things that user researchers usually do on projects.
 
    This helps teams to learn about all the people who might use or be affected by a service.
 
-   [Getting informed consent for user research](/user-research/getting-informed-consent-for-user-research)
-   [When and how to give incentives to research participants](/user-research/when-and-how-to-give-incentives-to-research-participants)
-   [Protecting participant privacy](/user-research/protecting-participant-privacy)
+   [Getting informed consent for user research](/user-research/getting-informed-consent-for-user-research/) \
+   [When and how to give incentives to research participants](/user-research/when-and-how-to-give-incentives-to-research-participants/) \
+   [Protecting participant privacy](/user-research/protecting-participant-privacy/)
 
 4. **Plan and do research activities**
 
@@ -54,10 +54,10 @@ These are the things that user researchers usually do on projects.
 
    This helps teams to embed regular research into their [agile practices]().
 
-   [Choosing and using research methods](/user-research/choosing-and-using-research-methods/)
-   [Writing and using discussion guides](/user-research/writing-and-using-discussion-guides)
-   [Doing research safely]()
-   [Taking notes and recording research sessions](/user-research/taking-notes-and-recording-research-sessions)
+   [Choosing and using research methods](/user-research/choosing-and-using-research-methods/) \
+   [Writing and using discussion guides](/user-research/writing-and-using-discussion-guides/) \
+   [Doing research safely](/user-research/doing-research-safely) \
+   [Taking notes and recording research sessions](/user-research/taking-notes-and-recording-research-sessions/)
 
 5. **Analyse research and produce findings**
 
@@ -65,7 +65,7 @@ These are the things that user researchers usually do on projects.
 
    Based on our findings, we get actively involved in identifying opportunities, making recommendations, creating design ideas and setting priorities.
 
-This helps teams understand and believe in our findings. So they can make good decisions and respond quickly to what we learn together.
+   This helps teams understand and believe in our findings. So they can make good decisions and respond quickly to what we learn together.
 
 6. **Create and share outputs**
 
@@ -73,13 +73,13 @@ This helps teams understand and believe in our findings. So they can make good d
 
    This helps our clients and other stakeholders use and benefit from what we learned both during the project and long after we’ve gone.
 
-   [Sharing research activities and findings](/user-research/sharing-research-activities-and-findings)
+   [Sharing research activities and findings](/user-research/sharing-research-activities-and-findings/)
 
 8. **Take care of research data**
 
-   Researchers know it’s important to manage research data carefully. We follow our [privacy policy](https://www.dxw.com/privacy-statement/) and [ISO27001 certification](https://www.itgovernance.co.uk/iso27001) when we collect, process and store research data to make sure we comply with the [General Data Protection Regulation](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/).
+   Researchers know it’s important to manage research data carefully. We follow our [privacy policy](https://www.dxw.com/privacy-statement/) and [ISO27001 certification](https://www.itgovernance.co.uk/iso27001/) when we collect, process and store research data to make sure we comply with the [General Data Protection Regulation](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/).
 
    This helps teams to get the most from the research data they collect, while protecting the privacy of the people taking part.
 
-   [Taking notes and recording research sessions](/user-research/taking-notes-and-recording-research-sessions)
-   [Taking care of research data](/user-research/taking-care-of-research-data)
+   [Taking notes and recording research sessions](/user-research/taking-notes-and-recording-research-sessions/) \
+   [Taking care of research data](/user-research/taking-care-of-research-data/)
