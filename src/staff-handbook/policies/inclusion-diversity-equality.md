@@ -93,13 +93,14 @@ unlawful:
 
 ## Recruitment and selection
 
-Recruitment, promotion, and other selection exercises such as redundancy
-selection will be conducted on the basis of merit and against objective criteria
+[Recruitment](/working-here/hiring-new-people/), promotion, and other selection exercises will be carried out on the basis of merit and against objective criteria
 that aim to avoid discrimination. Shortlisting should be done by more than one
 person and with the involvement of the commercial operations team. Our
 recruitment procedures must be reviewed at least annually including the
 Diversity and Inclusion Group to ensure that individuals are treated on the
 basis of their relevant merits and abilities.
+
+### Recruitment
 
 Vacancies should always be advertised to a diverse section of the labour market
 and, where relevant, to particular groups that have been identified as
@@ -125,6 +126,8 @@ approval of the Head of People.
 * Equal opportunities monitoring (which will not form part of the selection or
   decision-making process).
 
+### Providing proof of immigration status
+
 We are required by law to ensure that all employees are entitled to work in the
 UK. Assumptions about immigration status should not be made based on appearance
 or nationality. All prospective employees, regardless of nationality, must be
@@ -132,6 +135,8 @@ able to produce original documents (such as a passport or birth certificate)
 before employment starts, to satisfy current immigration legislation. The list
 of acceptable documents is available from the People team or UK Visas and
 Immigration.
+
+### Diversity data we collect 
 
 To ensure that this policy is operating effectively, and to identify groups that
 may be underrepresented or disadvantaged in our organisation, we will ask job
@@ -146,11 +151,11 @@ avoid discrimination and improve equality and diversity.
 ## Training, promotion, and conditions of service
 
 Training needs will be identified through regular conversations between line
-managers and their reports. All employees will be given appropriate access to
-training to enable them to progress within the organisation. If training needs
-are identified then your Line Manager will work out the best to pay for this.
-This may be part of your Learning and Development, or something you, dxw or a
-third party pay for.
+managers and their reports. All employees will be given appropriate
+[access to training](/learning-and-development/) to enable them to progress
+within the organisation. If training needs are identified then your Line Manager
+will work out the best to pay for this. This may be part of your Learning and
+Development, or something you, dxw or a third party pay for.
 
 Workforce composition and promotions will be monitored to ensure equality of
 opportunity at all levels of the organisation. All reasonable steps will be
@@ -163,7 +168,7 @@ obstacles to accessing them.
 
 ## Termination of employment
 
-We will ensure that redundancy criteria and procedures are fair and objective
+We will ensure that [redundancy criteria and procedures](/working-here/redundancy-policy/) are fair and objective
 and are not directly or indirectly discriminatory. Demonstrated through
 independent consultation, sharing criteria openly and demonstrating our
 workings.
