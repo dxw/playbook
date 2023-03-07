@@ -76,6 +76,8 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
    And we advocate for more research when it‘s needed to achieve the project
    outcomes.
 
+We have a version of these [user research principles as a printable poster](https://docs.google.com/presentation/d/1YUu9sUZM8aLUxMsJsOuZacQKRbA3P7ZH0Ic4HEORaxs/).
+
 ## User research guidance
 
 The Playbook includes detailed guidance on
