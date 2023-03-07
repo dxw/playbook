@@ -30,16 +30,20 @@ If you:
 - were away due to a regular day off, as part of your working pattern,
   leave the time blank or zero out what you were scheduled to work on
 
-If you’re not doing client work, then unless you’re working on one of a handful
-of named internal projects or support, you don’t need to record your time
-against any other piece of work – the assumption is you’re doing valuable work,
-whether it’s learning, helping with recruitment or improving our tooling and
-processes, and we don’t need itemised time tracking to justify that.
-
-We’ve set up the platform, so that it understands individual team members’
+We’ve set up Productive, so it understands individual team members’
 working patterns. This means the team don’t need to worry about entering in
 their non working days.
 
 Our delivery leads lend a helping hand when delivery team members aren’t sure
 how to record their time – they’ve been doing this for a long while and have a
 well developed sense for it.
+
+## If you’re not doing client work
+
+Unless you’re working on one of a handful
+of named internal projects or support, you don’t need to record your time
+against any other piece of work.
+
+The assumption is you’re doing valuable work,
+whether it’s learning, helping with recruitment or improving our tooling and
+processes, and we don’t need itemised time tracking to justify that.
