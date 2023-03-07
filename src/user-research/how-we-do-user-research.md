@@ -48,7 +48,7 @@ These are the things that user researchers usually do on projects.
    [When and how to give incentives to research participants](/user-research/when-and-how-to-give-incentives-to-research-participants/) \
    [Protecting participant privacy](/user-research/protecting-participant-privacy/)
 
-4. **Plan and do research activities**
+4. **Do research activities**
 
    This is the most obvious and visible part of our work. We carefully prepare, schedule and carry out effective research activities. We give all our colleagues regular opportunities to take part in research. And we record what we do and how we do it, for each other, and for those who come after us.
 
@@ -83,3 +83,5 @@ These are the things that user researchers usually do on projects.
 
    [Taking notes and recording research sessions](/user-research/taking-notes-and-recording-research-sessions/) \
    [Taking care of research data](/user-research/taking-care-of-research-data/)
+
+We have a version of this [user research workflow as a printable poster](https://docs.google.com/presentation/d/1msOETTdQhHykirL2ec5ANvy-ogcrdp2_wtWk5qiIxNI/).
