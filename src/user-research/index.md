@@ -8,6 +8,8 @@ As user researchers, we help multidisciplinary teams learn about all the differe
 
 There is no single right way of doing this, but as a team, we need to stay unified in the way we approach, do, and talk about research.
 
+User research is **dope**!
+
 ## User research principles
 
 Our principles are not rules. They guide our work, keep us improving as a team, and working with, not for our clients.
@@ -21,7 +23,6 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
    We are facilitators, not gatekeepers. We actively involve our colleagues and
    clients in research. And openly share what we do, how we do it and why it‘s
    important.
-
 2. **Find the truth. Tell the truth**
 
    Researchers at dxw create strong evidence and reliable answers so our teams
@@ -34,14 +35,12 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
    [Dana Chisnell](https://twitter.com/danachis/status/802930860030918656) and
    the [United States Digital Service](https://www.usds.gov/mission) for this
    one)
-
 3. **Take ethics seriously**
 
    Researchers at dxw know that the safety and trust of participants is our
    responsibility. We think about the ethics of our research at every step. From
    how we recruit participants and get their informed consent, through how we
    store and use the data we collect, to how we share our findings.
-
 4. **Be methodical, but not rigid**
 
    Researchers at dxw know that the quality of our findings depends on the
@@ -51,24 +50,20 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
    But we also understand that context is important. So we use the best approach
    for the question at hand and adapt our ways of working to fit the client and
    the project.
-
 5. **Learn, share and adapt**
 
    Researchers at dxw work in an agile way. We do research and analysis in small
    batches so we can continuously share and adapt to what we learn.
-
 6. **Make research inclusive**
 
    Researchers at dxw know how important it is that public services work for all
    the people who need to use them. We help teams understand the needs of all
    their users, and do research activities that everyone can participate in.
-
 7. **Build on existing evidence**
 
    Researchers at dxw help clients build on the knowledge and data they already
    have. We combine existing knowledge, poorly understood data and new research
    into a coherent picture.
-
 8. **Accept and admit constraints**
 
    Researchers at dxw do the best research we can within the constraints we
