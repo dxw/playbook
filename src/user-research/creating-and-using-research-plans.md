@@ -23,13 +23,12 @@ The guide to
 [planning user research for your service](https://www.gov.uk/service-manual/user-research/plan-user-research-for-your-service)
 in the Service Manual sets out a good approach to creating a plan.
 
-## Research plan template
+## Research plan templates
 
 Creating and sharing a short research plan document is a great way to get
 everyone aligned. And to address any concerns that clients and stakeholders may
 have.
 
-We have a
-[research plan template](https://docs.google.com/document/d/11olKOHluGXL8OA-XKIvSXXsCxQ3dvOUgSUgJSw0qLm4/)
+We have a [research plan template (Google Docs)](https://docs.google.com/document/d/11olKOHluGXL8OA-XKIvSXXsCxQ3dvOUgSUgJSw0qLm4/) and a [research plan template (Google Slides)](https://docs.google.com/presentation/d/1ah3SK6w7srxOnpnV7-YKc8xrxvx3MnA3kTwZTtkicFE/), 
 that you can use as a starting point. But feel free to adapt it and add sections
 that may be important for your project.
