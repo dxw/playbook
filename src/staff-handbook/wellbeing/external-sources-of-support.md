@@ -1,6 +1,7 @@
 ---
 title: External sources of support
 permalink: /:path/:basename/
+related_order: 2
 ---
 
 If you, or someone you know is in mental health crisis and needs medical help fast:

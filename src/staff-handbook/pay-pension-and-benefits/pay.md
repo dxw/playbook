@@ -1,6 +1,7 @@
 ---
 title: Pay policy
 permalink: /:path/:basename/
+related_order: 1
 ---
 
 ## Changes to your details

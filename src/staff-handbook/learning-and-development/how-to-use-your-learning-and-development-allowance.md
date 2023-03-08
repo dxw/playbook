@@ -1,6 +1,7 @@
 ---
 title: How to use your learning and development allowance
 permalink: /:path/:basename/
+related_order: 1
 ---
 
 We have an annual learning and development allowance of £1,000 and up to 4 days

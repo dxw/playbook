@@ -1,6 +1,8 @@
 ---
 title: Pay policy
 permalink: /:path/:basename/
+
+
 ---
 
 ## Purpose
@@ -63,51 +65,31 @@ The following principles underpin the policy:
 9. dxw works with an independent HR advisor, who can assist if needed to help
    resolve any issues.
 
-## Cost of living
 
-10. London weighting of £4,000 per year applies to staff who earn under £40,000
-    per year to help them with the additional costs of living in London.
+## Cost of living raise
 
-    - This applies to people who live in a London borough.
-    - If someone’s salary increases above this level, London weighting will
-      gradually taper off (by £500 for each £1000 of extra salary) between
-      £40,000 and £48,000
-    - The rationale for these numbers is taken from Trust for London research
-      which shows London weighting materially benefits people on salaries under
-      £40,000.
-    - It is subject to tax & NI and is not pensionable
-    - It is a fixed rate, not uplifted by CPI
+Annual cost of living CPI rises will apply for staff if the company achieves turnover above its minimum target for the preceding financial year. The percentage will be set by the [CPI Index](https://www.ons.gov.uk/economy/inflationandpriceindices).
 
-11. Annual cost of living CPI rises will apply for staff if the company achieves
-    turnover above its minimum target for the preceding financial year.
+* If you have passed your probation, you will receive your raise in the October payroll
+* For team members who joined prior to 1st October of that year, but haven’t yet passed probation, you’ll receive your raise in the month you successfully complete it and it will be the same percentage as of 1st October CPI that year.
+* If you joined on or after 1st October (that year), you will not be eligible for a cost of living raise until the following October.
+* If you are leaving during October you will not receive the cost of living raise.
+* CPI rises will not apply to people who for historic reasons are above the maximum pay level for their role, to help us gradually align salaries for similar roles
+* If someone is under formal disciplinary or performance procedures, their CPI rise will be postponed while this is ongoing
 
-    - If you’ve passed your probation then you’ll receive your raise in October
-      payroll
-    - CPI rises will not apply to people who for historic reasons are above the
-      maximum pay level for their role, to help us gradually align salaries for
-      similar roles
-    - If someone is under formal disciplinary or performance procedures, their
-      CPI rise will be postponed while this is ongoing
-    - The CPI figure comes from published Office of National Statistics data
+The CPI figure comes from published Office of National Statistics data
 
-12. We are committed to paying the London living wage or higher for all staff.
+## London weighting
 
-### Cost of living raise
+London weighting of £4,000 per year applies to staff who earn under £40,000 per year to help them with the additional costs of living in London.
 
-dxw will institute a cost of living raise each year on 1st October. The
-percentage will be set by the
-[CPI Index](https://www.ons.gov.uk/economy/inflationandpriceindices) as of 1st
-October each year.
+* This applies to people who live in a London borough
+* If someone’s salary increases above this level, London weighting will gradually taper off (by £500 for each £1000 of extra salary) between £40,000 and £48,000
+* The rationale for these numbers is taken from Trust for London research which shows London weighting materially benefits people on salaries under £40,000
+* It is subject to tax & NI and is not pensionable
+* It is a fixed rate, not uplifted by CPI
 
-- Annual cost of living CPI rises will apply for staff if the company achieves
-  turnover above its minimum target for the preceding financial year.
-- If you have passed your probation, you will receive your raise in the October
-  payroll.
-- For those team members who joined prior to 1st October of that year, but
-  haven't yet passed probation, you will receive your raise in the month you
-  successfully complete it and it will be the same percentage as of 1st October
-  CPI that year.
-- If you joined on or after 1st October (that year), you will not be eligible
-  for a cost of living raise until the following October.
-- If you are leaving during October you will not receive the cost of living
-  raise.
+We are committed to paying the London living wage or higher for all staff.
+
+
+
