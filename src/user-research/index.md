@@ -25,7 +25,7 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 2. **Find the truth. Tell the truth**
 
    Researchers at dxw create strong evidence and reliable answers so our teams
-   can act with confidence. We are bold and focus on what‘s most important.
+   can act with confidence. We are bold and focus on what’s most important.
 
    We know we can learn things that are unexpected and challenging. So we
    communicate clearly and sensitively to help everyone make the best decision.
