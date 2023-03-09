@@ -15,7 +15,7 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 1. **Help teams understand people**
 
    Researchers at dxw help our teams build a deep understanding of the people
-   who use our services. We know that‘s the best way to create public services
+   who use our services. We know that‘s the best way to help teams make good decisions and create public services
    that work well for the people who need them.
 
    We are facilitators, not gatekeepers. We actively involve our colleagues and
