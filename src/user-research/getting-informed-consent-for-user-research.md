@@ -48,7 +48,7 @@ We have [template information and consent sheets](https://docs.google.com/docume
 
 If you are following our client's consent practices, they will provide the template to use. Make sure the materials you produce clearly describe dxw’s involvement in the research, and how we will share research data and findings.
 
-Speak to the Head of User Research, if the available templates do cover the research activities you are doing. For example, if you are observing a sensitive activity and have agreed a specific approach to protecting participant privacy.
+If the available templates do not cover the research activities you are doing, speak to the Head of User Research. For example, if you are observing a sensitive activity and have agreed a specific approach to protecting participant privacy.
 
 ### Creating a printed consent form
 
