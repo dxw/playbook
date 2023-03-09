@@ -6,7 +6,7 @@ At dxw, we believe in [starting with people and their needs](https://playbook.dx
 
 As user researchers, we help multidisciplinary teams learn about all the different people who will use and be affected by a service. And help organisations to recognise the value of user research.
 
-There is no single right way of doing this, but as a team, we need to stay unified in the way we approach, do, and talk about research.
+There is no single right way of doing this, but as a team, we need to be consistent in the way we approach, do, and talk about research.
 
 ## User research principles
 
@@ -15,17 +15,17 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 1. **Help teams understand people**
 
    Researchers at dxw help our teams build a deep understanding of the people
-   who use our services. We know that‘s the best way to create public services
+   who use our services. We know that’s the best way to help teams make good decisions and create public services
    that work well for the people who need them.
 
    We are facilitators, not gatekeepers. We actively involve our colleagues and
-   clients in research. And openly share what we do, how we do it and why it‘s
+   clients in research. And openly share what we do, how we do it and why it’s
    important.
 
 2. **Find the truth. Tell the truth**
 
    Researchers at dxw create strong evidence and reliable answers so our teams
-   can act with confidence. We are bold and focus on what‘s most important.
+   can act with confidence. We are bold and focus on what’s most important.
 
    We know we can learn things that are unexpected and challenging. So we
    communicate clearly and sensitively to help everyone make the best decision.
