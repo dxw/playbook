@@ -8,7 +8,7 @@ tells, reports and other places.
 
 This guidance covers ways to share research documents and outputs, and protect participant privacy in the process.
 
-Note that this guidance applies to all dxw staff, dxw friends and partner staff doing research activities, like interviews, visits, surveys and tests.
+Note that this guidance applies to all dxw staff, dxw friends, and partner and client staff doing research activities, like interviews, visits, surveys and tests.
 
 ## Slide layouts for research
 
