@@ -12,6 +12,8 @@ general guidance on
 in the Service Manual. These is also useful advice in
 [The User Researcher’s Guide to GDPR](https://www.userinterviews.com/blog/the-user-researchers-guide-to-gdpr).
 
+Note that this guidance applies to all dxw staff, dxw friends and partner staff doing research activities, like interviews, visits, surveys and tests.
+
 ## Agreeing who controls the research data
 
 There are two basic options:
