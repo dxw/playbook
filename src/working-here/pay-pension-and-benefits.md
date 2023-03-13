@@ -683,7 +683,7 @@ For example, when working a 4 day week, the pro rata leave allowance will be 20
 days per year of annual leave and 6.5 bank holiday days, giving a total leave
 allowance of 26.5 days.
 
-Note that you must book bank holidays that don’t fall on a non-working day as
+Note that you must book bank holidays that fall on a working day as
 annual leave in BreatheHR when following this working pattern.
 
 #### Working patterns over longer periods
