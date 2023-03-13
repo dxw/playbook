@@ -7,12 +7,12 @@ related_order: 20
 ---
 We have a set of guides that explain how we do user research at dxw.
 
-The guidance applies to all user researchers employed by dxw, both staff and dxw friends.
-
 The guidance builds on our user research [principles](/user-research/#user-research-principles). It also builds on the [guidance for user research in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research)
 so we can help teams meet the Government [Service Standard](https://www.gov.uk/service-manual/service-standard).
 
-The guidance explains how to do user research in an effective, ethical and legal way. If your situation isn't covered, and you're not sure what to do, ask Steph Troeth (Head of User Research), John Waterworth (Principal Researcher), or Coca Rivas (Director of Design).
+Note that this guidance applies to all dxw staff, dxw friends, and partner and client staff doing research activities, like interviews, visits, surveys and tests.
+
+The guidance explains how to do research that is effective, ethical and legal. If your situation isn't covered, and you're not sure what to do, ask Steph Troeth (Head of User Research), John Waterworth (Principal Researcher), or Coca Rivas (Director of Design).
 
 ## User research workflow
 
