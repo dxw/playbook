@@ -7,7 +7,7 @@ When planning user research activities, you must consider the safety and wellbei
 
 This guidance explains how to identify and minimise potential risks.
 
-Note that this guidance applies to all dxw staff, dxw friends and partner staff doing research activities, like interviews, visits, surveys and tests.
+Note that this guidance applies to all dxw staff, dxw friends, and partner and client staff doing research activities, like interviews, visits, surveys and tests.
 
 ## Doing research safely during coronavirus
 
