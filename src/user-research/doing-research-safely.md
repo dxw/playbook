@@ -3,6 +3,8 @@ title: Doing research safely
 permalink: /:path/:basename/
 related_order: 80
 ---
+Note that this guidance applies to all dxw staff, dxw friends and partner staff doing research activities, like interviews, visits, surveys and tests.
+
 ## Doing research safely during coronavirus
 
 We have a responsibility to keep ourselves and our participants safe and comply
