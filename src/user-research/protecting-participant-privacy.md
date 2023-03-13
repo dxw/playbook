@@ -11,7 +11,7 @@ participants at dxw. It builds on the general guidance on
 [managing participant privacy](https://www.gov.uk/service-manual/user-research/managing-user-research-data-participant-privacy)
 in the Service Manual.
 
-Note that this guidance applies to all dxw staff, dxw friends and partner staff doing research activities, like interviews, visits, surveys and tests.
+Note that this guidance applies to all dxw staff, dxw friends, and partner and client staff doing research activities, like interviews, visits, surveys and tests.
 
 ## Collecting only the participant details we need
 
