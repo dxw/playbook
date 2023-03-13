@@ -7,6 +7,22 @@ You must have informed consent from participants before you start any research a
 
 This guidance explains how we collect and keep evidence of informed consent at dxw. It builds on the general guidance on [getting informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research) in the GOV.UK Service Manual.
 
+## Deciding which people are participants and need to give their consent
+
+Our research activities often involve members of the public, staff from private and public organisations, senior stakeholders in the client organisation, and colleagues in our immediate team. And it can be difficult to know who exactly counts as a participant and needs to give their informed consent.
+
+Members of the public and people working on non-government organisations always count as participants, and we always need to have their informed consent.
+
+People working in government organisations count as participants if they are potential users or operators of the service we are working on, and we are doing research to understand their current working practices and needs.
+
+We usually don’t treat people as participants if they are:
+
+- members of our project team who are joining in our research activities
+- senior leaders in our client organisation who we are interviewing about project goals and outcomes
+- subject matter experts in our client organisation who we are interviewing about policies, rules or procedures, or are reviewing something we are making
+
+If it’s not clear whether you or your team should consider someone as a participant, speak to a Principal Researcher or the Head of User Research.
+
 ## Using dxw or client consent materials and processes
 
 On different projects you might use dxw branded consent materials and follow our processes, or use consent materials provided by the client and follow their processes.
@@ -114,5 +130,3 @@ For email and similar responses, keep a copy of the research information and con
 For paper consent forms, scan or photograph the signed consent form and keep the image file. Avoid [using your own phone or other personal device](https://playbook.dxw.com/user-research/taking-notes-and-recording-research-sessions/#using-a-dxw-provided-handheld-device) for this.
 
 Make sure the research data and associated consent records have the same participant identifier. Do not include participant names or other personal identifiers in [the document names](https://playbook.dxw.com/user-research/taking-care-of-research-data/#identifying-research-data-clearly).
-
-
