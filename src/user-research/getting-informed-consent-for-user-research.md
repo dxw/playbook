@@ -25,7 +25,7 @@ We usually don’t treat people as participants if they are:
 
 If it’s not clear whether you or your team should consider someone as a participant and ask for consent, speak to a Principal Researcher or the Head of User Research.
 
-## Using dxw or client consent materials and processes
+## Using dxw, client or partner consent materials and processes
 
 On different projects you might use dxw, client or partner branded consent materials and processes.
 
