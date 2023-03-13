@@ -45,11 +45,11 @@ There are four basic options:
 
    This is only possible with client organisations that have established research practices.
 
-3. Use a partner company's consent materials and processes.
+3. Use a partner organisation’s consent materials and processes..
 
-   If we are working with a partner company, and their staff are responsible for the research activities on a project, then we may use the partner's templates to create consent materials.
+   If we are working with a partner company, and their staff are responsible for the research activities on a project, then we may use the partner’s templates to create consent materials.
 
-   And follow the partner's processes to manage all the research data we collect and keep the associated records of consent.
+   And follow the partner’s processes to manage all the research data we collect and keep the associated records of consent.
 
    This is only possible with partner organisations that have established research practices.
 
