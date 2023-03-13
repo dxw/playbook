@@ -39,19 +39,15 @@ There are four basic options:
 
 2. Use our client’s consent materials and processes.
 
-   In this case, we use the client's templates to create consent materials.
+   If the client organisation has established research practices, then we may use the client's templates to create consent materials.
 
-   And we follow the client's processes to manage all the research data we collect and keep the associated records of consent.
+   And follow their processes to manage all the research data we collect and keep the associated records of consent.
 
-   This is only possible with client organisations that have established research practices.
+3. Use a partner organisation’s consent materials and processes.
 
-3. Use a partner organisation’s consent materials and processes..
+   If we are working with a partner organisation that has established research practices, and their staff are responsible for the research activities on a project, then we may use the partner’s templates to create consent materials.
 
-   If we are working with a partner company, and their staff are responsible for the research activities on a project, then we may use the partner’s templates to create consent materials.
-
-   And we follow the partner’s processes to manage all the research data we collect and keep the associated records of consent.
-
-   This is only possible with partner organisations that have established research practices.
+   And follow the partner’s processes to manage all the research data we collect and keep the associated records of consent.
 
 4. When we are working with a client to build their research capability, we can also help them to create their own consent materials and processes to use in future research activities.
 
