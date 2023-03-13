@@ -41,7 +41,7 @@ There are four basic options:
 
    In this case, we use the client's templates to create consent materials.
 
-   And follow the client's processes to manage all the research data we collect and keep the associated records of consent.
+   And we follow the client's processes to manage all the research data we collect and keep the associated records of consent.
 
    This is only possible with client organisations that have established research practices.
 
@@ -49,7 +49,7 @@ There are four basic options:
 
    If we are working with a partner company, and their staff are responsible for the research activities on a project, then we may use the partner’s templates to create consent materials.
 
-   And follow the partner’s processes to manage all the research data we collect and keep the associated records of consent.
+   And we follow the partner’s processes to manage all the research data we collect and keep the associated records of consent.
 
    This is only possible with partner organisations that have established research practices.
 
