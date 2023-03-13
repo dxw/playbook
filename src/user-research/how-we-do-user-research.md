@@ -16,7 +16,7 @@ The guidance explains how to do research that is effective, ethical and legal. I
 
 ## User research workflow
 
-These are the things that user researchers usually do on projects.
+These are the things that user researchers usually do on projects, and the relevant guides.
 
 1. **Take part in project inception**
 
