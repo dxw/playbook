@@ -6,6 +6,10 @@ related_order: 120
 We regularly share descriptions of research activities and findings in show and
 tells, reports and other places.
 
+This guidance covers ways to share research documents and outputs, and protect participant privacy in the process.
+
+Note that this guidance applies to all dxw staff, dxw friends and partner staff doing research activities, like interviews, visits, surveys and tests.
+
 ## Slide layouts for research
 
 When presenting about research, we use one of the dxw Proposal Deck Templates.
@@ -37,3 +41,9 @@ with supporting evidence, explanation and illustration.
 You can read more about this in the
 [Sharing user research findings guide](https://www.gov.uk/service-manual/user-research/sharing-user-research-findings#presenting-your-findings)
 in the Service Manual.
+
+## Protecting participant privacy
+
+How we can share research findings will depend on the [consent we have from the participants](/user-research/getting-informed-consent-for-user-research/).
+
+By default, we share only fully anonymised findings, that do not include any personal data or anything that could identify the participants.
