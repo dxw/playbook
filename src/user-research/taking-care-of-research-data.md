@@ -9,7 +9,7 @@ participants’ privacy and comply with the law.
 This guidance explains how we manage research data at dxw. It builds on the
 general guidance on
 [managing research data](https://www.gov.uk/service-manual/user-research/managing-user-research-data-participant-privacy)
-in the Service Manual. These is also useful advice in
+in the Service Manual. There is also useful advice in
 [The User Researcher’s Guide to GDPR](https://www.userinterviews.com/blog/the-user-researchers-guide-to-gdpr).
 
 Note that this guidance applies to all dxw staff, dxw friends, and partner and client staff doing research activities, like interviews, visits, surveys and tests.
