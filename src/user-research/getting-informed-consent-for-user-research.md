@@ -7,7 +7,7 @@ You must have informed consent from participants before you start any research a
 
 This guidance explains how we collect and keep evidence of informed consent at dxw. It builds on the general guidance on [getting informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research) in the GOV.UK Service Manual.
 
-Note that this guidance applies to anyone doing research activities, like interviews, visits, surveys and tests.
+Note that this guidance applies to dxw staff, dxw friends and  doing research activities, like interviews, visits, surveys and tests.
 
 ## Deciding which people are participants and need to give their consent
 
@@ -27,9 +27,9 @@ If it’s not clear whether you or your team should consider someone as a partic
 
 ## Using dxw or client consent materials and processes
 
-On different projects you might use dxw branded consent materials and follow our processes, or use consent materials provided by the client and follow their processes.
+On different projects you might use dxw, client or partner branded consent materials and processes.
 
-There are three basic options:
+There are four basic options:
 
 1. Use dxw consent materials and processes.
 
@@ -45,7 +45,15 @@ There are three basic options:
 
    This is only possible with client organisations that have established research practices.
 
-3. When we are working with a client to build their research capability, we can also help them to create their own consent materials and processes to use in future research activities.
+3. Use a partner company's consent materials and processes.
+
+   If we are working with a partner company, and their staff are responsible for the research activities on a project, then we may use the partner's templates to create consent materials.
+
+   And follow the partner's processes to manage all the research data we collect and keep the associated records of consent.
+
+   This is only possible with partner organisations that have established research practices.
+
+4. When we are working with a client to build their research capability, we can also help them to create their own consent materials and processes to use in future research activities.
 
 Whichever approach you take, make sure your consent materials and processes follow the [good practice for informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research#what-informed-consent-is) described in the Service Manual.
 
