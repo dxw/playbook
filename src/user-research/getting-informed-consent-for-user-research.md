@@ -11,9 +11,9 @@ This guidance explains how we collect and keep evidence of informed consent at d
 
 Our research activities often involve members of the public, staff from private and public organisations, senior stakeholders in the client organisation, and colleagues in our immediate team. And it can be difficult to know who exactly counts as a participant and needs to give their informed consent.
 
-Members of the public and people working on non-government organisations always count as participants, and we always need to have their informed consent.
+Members of the public and people working in non-government organisations always count as participants. We always need to have their informed consent.
 
-People working in government organisations count as participants if they are potential users or operators of the service we are working on, and we are doing research to understand their current working practices and needs.
+People working in government organisations count as participants if they are potential users or operators of the service we are working on, and we are doing research to understand their current working practices and needs, and how those might change. We always need to have their informed consent.
 
 We usually don’t treat people as participants if they are:
 
@@ -21,7 +21,7 @@ We usually don’t treat people as participants if they are:
 - senior leaders in our client organisation who we are interviewing about project goals and outcomes
 - subject matter experts in our client organisation who we are interviewing about policies, rules or procedures, or are reviewing something we are making
 
-If it’s not clear whether you or your team should consider someone as a participant, speak to a Principal Researcher or the Head of User Research.
+If it’s not clear whether you or your team should consider someone as a participant and ask for consent, speak to a Principal Researcher or the Head of User Research.
 
 ## Using dxw or client consent materials and processes
 
