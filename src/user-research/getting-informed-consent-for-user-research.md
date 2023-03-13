@@ -7,6 +7,8 @@ You must have informed consent from participants before you start any research a
 
 This guidance explains how we collect and keep evidence of informed consent at dxw. It builds on the general guidance on [getting informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research) in the GOV.UK Service Manual.
 
+Note that this guidance applies to anyone doing research activities, like interviews, visits, surveys and tests.
+
 ## Deciding which people are participants and need to give their consent
 
 Our research activities often involve members of the public, staff from private and public organisations, senior stakeholders in the client organisation, and colleagues in our immediate team. And it can be difficult to know who exactly counts as a participant and needs to give their informed consent.
