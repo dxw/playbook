@@ -7,11 +7,11 @@ We aim to offer flexibility for people looking for a part-time role or a role
 with flexible hours. Our policy is informed by the way we work and the way we
 charge clients for our time.
 
-If you have an alternative working arrangement, you should make sure it’s
+If you have arranged an alternative working pattern, you should make sure it’s
 reflected in your calendar so the rest of the team can be confident in knowing
 when you are and aren’t around.
 
-## Requesting a change of working arrangement
+## Requesting a change of working pattern
 
 If you would like to discuss a change to your working pattern, first speak to
 your line manager. They will discuss your request, and look at the impact on the
@@ -31,7 +31,7 @@ and the People team will make the necessary changes.
 The standard working pattern is 5 days per week, Monday to Friday, and 7 hours per
 day (excluding a break for lunch).
 
-## Part time working
+## Part-time working
 
 ### Weekly or fortnightly working patterns
 
