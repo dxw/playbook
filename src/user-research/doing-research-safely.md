@@ -3,9 +3,9 @@ title: Doing research safely
 permalink: /:path/:basename/
 related_order: 80
 ---
-When planning user research activities, you must consider the safety and wellbeing of participants, colleagues, researchers and others.
+When [planning research activities](/user-research/creating-and-using-research-plans/), you must consider the safety and wellbeing of participants, colleagues, researchers and others.
 
-This guidance explains how to identify and minimise potential risks.
+This guidance explains how to identify and manange potential risks.
 
 Note that this guidance applies to all dxw staff, dxw friends, and partner and client staff doing research activities, like interviews, visits, surveys and tests.
 
