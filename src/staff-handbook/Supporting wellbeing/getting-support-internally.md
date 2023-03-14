@@ -3,8 +3,7 @@ title: Where to get support internally
 permalink: /:path/:basename/
 related_order: 1
 --- 
-
-dxw wants to ensure that you are well set up and looked after during your employment. So we offer the following to support your health and wellbeing, and:
+The wellbeing of our teams is very important. So we offer the following to support your health and wellbeing:
 
 * Safe homeworking set-up: if you require any [ergonomic items](/working-here/getting-things-you-need/), additional travel support or an assessment of your home or office working set up ([DSE](https://www.hse.gov.uk/msd/dse/)), you can find support through your line manager and the People team to arrange this.
 * Accessibility information for our shared office spaces can be found [here](/guides/office-accessibility) and please speak to the People team if you’re interested in support with digital accessibility.
