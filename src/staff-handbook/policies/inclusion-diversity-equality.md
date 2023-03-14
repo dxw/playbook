@@ -70,7 +70,7 @@ with an outsourced HR team.
 Staff and contractors are invited to comment on this policy and suggest ways in
 which it might be improved by contacting a director or the Head of People.
 
-## Discrimination
+## Different types of discrimination
 
 Discrimination against, or harassment of anyone in or outside of the workplace
 is prohibited.
@@ -78,18 +78,39 @@ is prohibited.
 The following forms of discrimination are prohibited under this policy and are
 unlawful:
 
-* Direct discrimination: treating someone less favourably because of a Protected
-  Characteristic. For example, rejecting a job applicant because of their
-  religious views, their sexuality, or a disability.
+* Direct discrimination: treating someone less favourably because of a
+  [protected characteristic](https://www.gov.uk/discrimination-your-rights). For
+  example, rejecting a job applicant because of their religious views, their
+  sexuality, or a disability.
 * Indirect discrimination: a provision, criterion, or practice that applies to
-  everyone but adversely affects people with a particular Protected
-  Characteristic more than others.
+  everyone but adversely affects people with a particular protected
+  characteristic more than others.
 * Harassment: this includes sexual harassment and other unwanted conduct related
-  to a Protected Characteristic, which has the purpose or effect of violating
+  to a protected characteristic, which has the purpose or effect of violating
   someone's dignity or creating an intimidating, hostile, degrading,
   humiliating, or offensive environment for them.
 * Victimisation: retaliation against someone who has complained or has supported
   someone else's complaint about discrimination or harassment.
+
+## Reasonable adjustments
+
+If you are disabled or become disabled, we encourage, but do not require, you to
+tell us about your condition so that we can support you as appropriate.
+
+If you experience difficulties at work because of your disability, you may wish
+to contact your line manager or the People team to discuss any reasonable
+adjustments that would help overcome or minimise the difficulty. Your line
+manager or the People team may wish to consult with you and with your medical
+advisor, if you choose to include one in the consultation, about possible
+adjustments. We will consider the matter carefully and try to accommodate this
+based on the needs for your role, the cost for the accommodation and dxw’s
+ability to make the adjustment. If we consider a particular adjustment would not
+be reasonable we will explain our reasons and try to find an alternative
+solution where possible.
+
+We will monitor the physical features of our premises to consider whether they
+might place anyone with a disability and take all reasonable steps to improve
+access.
 
 ## Recruitment and selection
 
@@ -178,7 +199,7 @@ discrimination, whether they result in disciplinary warnings, dismissal, or
 other disciplinary action. There is a right of appeal to a dxw director or line
 manager not directly involved in the case.
 
-## Disabilities
+## Reasonable adjustments
 
 If you are disabled or become disabled, we encourage, but do not require, you to
 tell us about your condition so that we can support you as appropriate.
