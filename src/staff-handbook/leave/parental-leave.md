@@ -4,8 +4,6 @@ permalink: /:path/:basename/
 related_order: 5
 ---
 
-## Parental leave
-
 We’re aware that there is a lot to take in here - please come and talk to the
 People team if you have questions about anything (when you’re ready).
 
@@ -21,7 +19,7 @@ differences in both the statutory and dxw entitlement.
 
 This policy will be reviewed in May 2022.
 
-### Understanding your entitlement
+## Understanding your entitlement
 
 We’ve detailed the different entitlements that dxw offer in addition to your
 statutory entitlement below. There’s an
@@ -154,7 +152,7 @@ worked for dxw for at least 26 weeks by the week and advise us by way of a
 [statutory declaration](https://www.gov.uk/adoption-pay-leave/how-to-claim) at
 least 15 weeks before the expected week of birth.
 
-## What dxw offers in addition:
+### What dxw offers in addition:
 
 If you are the primary carer, dxw will pay you 100% of your salary for the next
 12 weeks of your leave and top up the first 6 weeks of Statutory Adoption Pay
