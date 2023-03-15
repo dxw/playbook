@@ -1,5 +1,5 @@
 ---
-title: Where to get support internally
+title: Getting support internally
 permalink: /:path/:basename/
 related_order: 1
 --- 
