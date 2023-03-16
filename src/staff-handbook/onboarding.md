@@ -9,7 +9,7 @@ you may have. On your first day you will receive a welcome Trello which will
 tell you who your line manager and helper are, things to read and welcome notes
 from the team.
 
-## What your first few days will look like
+## What your first few days might look like
 
 Below is a rough outline of what to expect from your first two days at dxw.
 
@@ -26,6 +26,28 @@ Below is a rough outline of what to expect from your first two days at dxw.
 * Helper welcome chat
 * Half-day of self-led training (including any help with software)
 * Employee led tasks from your Trello
+
+## Your calendar, documents and email
+
+We use Google Workspace to manage calendars, write and share documents. There is
+a dxw folder where we share most of the things we write. If you can't see it
+when you log in to Google Drive, you'll need to ask someone else to send you the
+link, and then click "Add to drive".
+
+When we write new things, we try to save them in a sensible folder within the
+existing structure.
+
+Please use Helvetica or Arial as the font in your emails.
+
+Name<br> Job Title<br> name@dxw.com<br> Twitter handle - if you’re comfortable
+to share<br> Mobile - if you’re comfortable to share<br>
+
+www.dxw.com :: 0345 2577520 :: @dxw :: creating better digital public services
+
+If you need an out of office message on your email account, follow [Gmail's instructions](https://support.google.com/mail/answer/25922)
+and include the contact details for another member of the team for any urgent
+queries and a return date.
+
 
 ## Probation
 
