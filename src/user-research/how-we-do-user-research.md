@@ -10,7 +10,7 @@ We have a set of guides that explain how we do user research at dxw.
 The guidance builds on our user research [principles](/user-research/#user-research-principles). It also builds on the [guidance for user research in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research)
 so we can help teams meet the Government [Service Standard](https://www.gov.uk/service-manual/service-standard).
 
-Note that this guidance applies to all dxw staff, dxw friends, and partner and client staff doing research activities, like interviews, visits, surveys and tests. In particular the guidance on [Doing research safely](/user-research/doing-research-safely/), [Getting informed consent](/user-research/getting-informed-consent-for-user-research/), [Protecting participant privacy](/user-research/protecting-participant-privacy/) and [Taking care of research data](/user-research/taking-care-of-research-data/).
+Note that this guidance applies to all dxw staff, dxw friends, and partner and client staff doing research activities, like interviews, visits, surveys and tests. And particularly the guidance on [Doing research safely](/user-research/doing-research-safely/), [Getting informed consent](/user-research/getting-informed-consent-for-user-research/), [Protecting participant privacy](/user-research/protecting-participant-privacy/) and [Taking care of research data](/user-research/taking-care-of-research-data/).
 
 The guidance explains how to do research that is effective, ethical and legal. If your situation isn't covered, and you're not sure what to do, ask Steph Troeth (Head of User Research), John Waterworth (Principal Researcher), or Coca Rivas (Director of Design).
 
