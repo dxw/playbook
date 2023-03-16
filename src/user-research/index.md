@@ -6,7 +6,9 @@ At dxw, we believe in [starting with people and their needs](https://playbook.dx
 
 As user researchers, we help multidisciplinary teams learn about all the different people who will use and be affected by a service. And help organisations to recognise the value of user research.
 
-There is no single right way of doing this, but as a team, we need to be consistent in the way we approach, do, and talk about research.
+There is no single right way of doing this, but as an organisation, we need to be consistent in the way we approach, do, and talk about research.
+
+Note that this guidance applies to all dxw staff, dxw friends, and partner and client staff doing research activities, like interviews, visits, surveys and tests. In particular the guidance on [Doing research safely](/user-research/doing-research-safely/), [Getting informed consent](/user-research/getting-informed-consent-for-user-research/), [Protecting participant privacy](/user-research/protecting-participant-privacy/) and [Taking care of research data](/user-research/taking-care-of-research-data/).
 
 ## User research principles
 
