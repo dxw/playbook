@@ -4,8 +4,6 @@ permalink: /:path/:basename/
 related_order: 5
 ---
 
-## Jury duty leave
-
 Jury duty leave is generally paid for each day (or part thereof) that you are
 required to attend Court -
 

@@ -4,13 +4,11 @@ permalink: /:path/:basename/
 related_order: 3
 ---
 
-## Sick leave
-
 This policy covers both short and longer term sickness absences. Our aim is to
 look after the health and wellbeing of all dxw staff and the needs of the
 company.
 
-### Communication of sickness
+## Communication of sickness
 
 If you're sick, you must let your line manager and a member of the People team
 know by 10:00am or as soon as you reasonably can after that. This can be done
@@ -28,7 +26,7 @@ work. Your line manager will then review and close the sick leave. If you're
 sick for more than 7 calendar days in a row, you'll also need to provide a
 doctor's note.
 
-### Absence meetings
+## Absence meetings
 
 Your line manager should check-in with you on a regular basis about your
 wellbeing, and catch up with you after any sickness absence to see how you are.

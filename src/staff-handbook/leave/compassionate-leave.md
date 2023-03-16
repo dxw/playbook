@@ -4,8 +4,6 @@ permalink: /:path/:basename/
 related_order: 4
 ---
 
-## Compassionate leave
-
 If you need to take compassionate leave, let your line manager and a member of
 the People team know, so we can support you in the right way. If you are on a
 project, we can then work with your delivery lead to manage the impact on the
