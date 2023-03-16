@@ -7,8 +7,7 @@ permalink: /:path/:basename/
 
 Our working hours are 10:00-18:00, Monday to Friday. Some people work different
 hours by arrangement. Anyone is free to do that as long as their hours of work
-don't make it hard for other people to get things done. For example, many people
-arrive earlier than 10:00 and leave earlier, which is generally fine.
+don't make it hard for other people to get things done. For example, many people start earlier than 10:00 and leave earlier, which is generally fine.
 
 Each team has a short standup every morning, where we each tell the whole team
 about a single thing we will get done that day. If you think you're going to be
@@ -34,9 +33,7 @@ immediate response.
 Unless they are actually urgent, you can ignore messages you receive outside of
 working hours and handle them when you are back at work.
 
-## Working days
-
-### Client days
+## Working on client projects
 
 We charge clients “time and materials” for the work we do, based on a
 [per person day rate](https://assets.digitalmarketplace.service.gov.uk/g-cloud-10/documents/92768/432689933684667-sfia-rate-card-2018-05-23-1413.pdf).
@@ -56,7 +53,7 @@ together on problems. That’s often easier when co-located, particularly when
 working with clients, pairing, or participating in workshops. Any working
 arrangement needs to support active synchronous collaboration with the team.
 
-### Internal teams
+## Internal teams
 
 Internal facing roles, in which time is not billable to a client, have a more
 regularly structured full- or part-time working week.
@@ -64,10 +61,9 @@ regularly structured full- or part-time working week.
 We encourage people in internal facing roles to take part in dxw time activities
 to contribute to our culture and to improve our ways of working.
 
-### dxw time
+## dxw time
 
-We regularly come together to work on our own projects and processes, most often
-on a Friday.
+We regularly come together to work on our own projects and processes.
 
 This dxw time is important for us to maintain our strong culture and identity,
 and to improve our practices, separate from the clients we work for.

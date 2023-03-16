@@ -86,15 +86,3 @@ If you join us, you’ll be continuously supported by our People team, a line
 manager and a mentor within the same field. You‘ll have regular check ins with
 the team where you can speak openly about anything that’s on your mind.
 
-## Client facing roles
-
-For client-facing roles we’ll start billing your time back to the client when we
-feel the time is right. This will be something we discuss openly during the
-recruitment process and through your regular check ins.
-
-## Internal facing roles
-
-We also offer internal facing roles, for example, in our busy commercial
-and marketing teams. These roles are not billed back to our clients.
-
-Check our [careers page](https://www.dxw.com/careers/) if you think this might be for you.
