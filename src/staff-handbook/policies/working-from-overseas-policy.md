@@ -1,6 +1,7 @@
 ---
 title: Working from overseas policy
 permalink: /:path/:basename/
+related_order: 6
 --- 
 
 dxw is a UK-based business, with staff working from locations around the UK.

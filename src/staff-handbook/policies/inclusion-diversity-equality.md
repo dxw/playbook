@@ -3,6 +3,7 @@ title: Inclusion, diversity and equal opportunities policy
 permalink: /:path/:basename/
 redirect_from:
   - /guides/inclusion-diversity-equality
+related_order: 5  
 ---
 ## Equal opportunities statement
 

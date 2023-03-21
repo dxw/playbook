@@ -1,6 +1,7 @@
 ---
 title: Parental leave policy
 permalink: /:path/:basename/
+related_order: 4
 --- 
 
 We’re aware that there is a lot to take in here - please come and talk to the

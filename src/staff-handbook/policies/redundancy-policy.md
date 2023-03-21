@@ -1,6 +1,7 @@
 ---
 title: Redundancy policy
 permalink: /:path/:basename/
+related_order: 8
 ---
 
 The coronavirus pandemic has caused us to look at some of our HR policies - or

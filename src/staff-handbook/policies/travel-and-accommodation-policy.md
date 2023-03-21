@@ -1,6 +1,7 @@
 ---
 title: Travel and accommodation policy
 permalink: /:path/:basename/
+related_order: 3
 ---  
 
 
