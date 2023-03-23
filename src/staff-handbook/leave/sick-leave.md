@@ -67,9 +67,3 @@ If your sickness absence continues for 3 months after an absence meeting, your l
 
 Where we're unable to reach an agreement that means you're able to maintain a reasonable level of attendance for work, we may consider your dismissal. We will only do this after we have exhausted all other options.
 
-## Medical appointments
-
-We support staff who need regular time off for medical appointments or counselling. If you need to attend an appointment, you should talk to your line manager. For meetings of a couple of hours or so  (including travel time), your line manager will usually ask you to try to make the hours up during the week. If the time off is longer but less frequent, the hours can be made up over a longer period of time. 
-
-In both cases, this might mean a conversation with your delivery lead or equivalent to make sure work is managed in the best way.  If it's not possible to recover the time taken in a flexible way, for example, due to the amount or pattern of time needed, your line manager may need to refer to another one of our policies. That might include considering a change to working hours.
-
