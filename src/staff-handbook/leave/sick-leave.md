@@ -15,7 +15,7 @@ know by 10:00am or as soon as you reasonably can after that. This can be done
 via email, directly on Slack, phone call or text. Line managers will record and
 monitor sickness for individuals within their teams.
 
-If you are unwell and know that you are going to be off for a period of time, or
+If you're unwell and know that you're going to be off for a period of time, or
 have been signed off by your GP until a certain date, you don't need to update
 your line manager daily. Let them know when you will be checking in again so
 they know when to expect to hear from you.
