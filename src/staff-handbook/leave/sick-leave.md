@@ -42,3 +42,34 @@ If you have a long term health condition and would like to discuss reasonable
 adjustments and ways of working that will help, we welcome a conversation at any
 point. The sooner we know, the sooner we can support you.
 
+## Sick pay 
+
+Within a 12-month period, you'll receive:
+
+* full pay for the first 12 days of sickness absence
+* half pay (but no less than living wage) for the next 8 days of sickness absence
+* [living wage](https://www.livingwage.org.uk/what-real-living-wage) for the next 10 days of sickness absence
+* [statutory sick pay](https://www.gov.uk/statutory-sick-pay/eligibility) after 30 days of sickness absence
+
+There'll be circumstances where we'll make exceptions, because it's not possible to write a policy that is fair in every situation. This structure will form our starting point for those decisions. All decisions on exceptions will be made by the Directors. Our aim is to ensure that we're treating everyone fairly and consistently.
+
+## Long term medical treatment
+
+Regular and open communication with your line manager is important to ensuring we can support you in the best possible way through a period of long term medical treatment (a period of more than 2 weeks).
+
+If you need long term medical treatment that would affect your ability to work as normal, but you're still able to work, we will support this wherever we can. We may consider a change of project or role where that's an option.
+
+If you finish your treatment, you'll have a meeting to help your return to work, or to normal working hours, and ensure your ongoing wellbeing is supported. We may look at a phased return for example. 
+
+## Escalation
+
+If your sickness absence continues for 3 months after an absence meeting, your line manager will set up a further meeting to discuss your situation. We will look to make any further reasonable adjustments to help you get back working. This might include looking for a suitable alternative role that fits your circumstances better.
+
+Where we're unable to reach an agreement that means you're able to maintain a reasonable level of attendance for work, we may consider your dismissal. We will only do this after we have exhausted all other options.
+
+## Medical appointments
+
+We support staff who need regular time off for medical appointments or counselling. If you need to attend an appointment, you should talk to your line manager. For meetings of a couple of hours or so  (including travel time), your line manager will usually ask you to try to make the hours up during the week. If the time off is longer but less frequent, the hours can be made up over a longer period of time. 
+
+In both cases, this might mean a conversation with your delivery lead or equivalent to make sure work is managed in the best way.  If it's not possible to recover the time taken in a flexible way, for example, due to the amount or pattern of time needed, your line manager may need to refer to another one of our policies. That might include considering a change to working hours.
+
