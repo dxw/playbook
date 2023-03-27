@@ -44,6 +44,7 @@ You can combine interviews with usability testing, by talking to participants to
 * [Using in-depth interviews in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research/using-in-depth-interviews)
 * [Interviewing Users by Steve Portigal](https://portigal.com/Books/interviewing-users/)
 * [Interviewing for Research by Andrew Travers](https://andrewtravers.co/book/)
+* [Seventeen types of interviewing questions by Steve Portigal](https://portigal.com/seventeen-types-of-interviewing-questions/)
 
 ## Contextual research and observation
 
