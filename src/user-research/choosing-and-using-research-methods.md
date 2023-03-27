@@ -136,7 +136,7 @@ Group workshops may not be appropriate when researching very sensitive subjects,
 
 Also bear in mind that you don’t get twice as many findings by inviting twice as many people to a session. If there’s nothing to gain from having several participants together, you should run individual research sessions using methods such as interviews, contextual observation or experience mapping.
 
-## Recommended guidance
+### Recommended guidance
 
 * [Researching in small group workshops in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research/research-small-group-workshops)
 * [Liberating Structures](https://www.liberatingstructures.com/)
@@ -151,7 +151,7 @@ So choose surveys when you need quantitative data (numbers), know what questions
 
 If you are not sure about any of those things, for example you don't yet know which questions are important, or who is important to ask, then start with other methods like interviews, and then consider doing a survey later when things are clearer.
 
-## Recommended guidance
+### Recommended guidance
 
 * [Surveys that Work by Caroline Jarrett](https://www.effortmark.co.uk/surveysthatwork/)
 * [Types of sampling for Market Research by Survey Monkey](https://www.surveymonkey.co.uk/market-research/resources/types-of-sampling/) 
@@ -171,7 +171,7 @@ Choose concept testing when you want to evaluate your designs, but do not yet ha
 
 Concept testing is particularly useful when you want to quickly explore several alternative design ideas.
 
-## Recommended guidance
+### Recommended guidance
 
 * [The Value Of Concept Testing As Part Of Product Design by Victor Yocco](https://www.smashingmagazine.com/2021/11/concept-testing-part-of-product-design/)
 * [Concept validation: The perfect UX Research midway method](https://uxdesign.cc/the-perfect-uxr-midway-method-concept-validation-5b043830582f)
