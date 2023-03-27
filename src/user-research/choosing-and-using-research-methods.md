@@ -184,10 +184,18 @@ Concept testing is particularly useful when you want to quickly explore several 
 ## Content research
 
 
+
 ### Recommended guidance
 
-* []()
+* [Card sorting by Donna Spencer](https://rosenfeldmedia.com/books/card-sorting/)
+* [Card Sorting by NN/g](https://www.nngroup.com/articles/card-sorting-definition/)
+* [Card sorting on usability.gov](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
 
+* [Tree Testing: Fast, Iterative Evaluation of Menu Labels and Categories](https://www.nngroup.com/articles/tree-testing/)
+* [Tree Testing 101 by Optimal Workshop](https://www.optimalworkshop.com/learn/101s/tree-testing/)
+
+* [What does this mean? Tips for testing your words by John Waterworth](https://userresearch.blog.gov.uk/2015/07/01/what-does-this-mean-tips-for-testing-your-words/)
+* [How to Test Content with Users by NN/g](https://www.nngroup.com/articles/testing-content-websites/)
 
 ## Usability testing
 
