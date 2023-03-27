@@ -157,6 +157,25 @@ If you are not sure about any of those things, for example you don't yet know wh
 * [Types of sampling for Market Research by Survey Monkey](https://www.surveymonkey.co.uk/market-research/resources/types-of-sampling/) 
 * [Question and questionnaire design by Krosnick and Presser](https://web.stanford.edu/dept/communication/faculty/krosnick/docs/2009/2009_handbook_krosnick.pdf)
 
+## Concept testing
+
+In concept testing we walk participants through representations of our design ideas, like sketches or diagrams, to see how well our designs might meet their needs.
+
+Through concept testing we can learn more about:
+
+* how people understand the design ideas
+* how people might expect to use them
+* how well they might achieve the intended outcome
+
+Choose concept testing when you want to evaluate your designs, but do not yet have a properly interactive prototype or working service that people can try out for real.
+
+Concept testing is particularly useful when you want to quickly explore several alternative design ideas.
+
+## Recommended guidance
+
+* [The Value Of Concept Testing As Part Of Product Design by Victor Yocco](https://www.smashingmagazine.com/2021/11/concept-testing-part-of-product-design/)
+* [Concept validation: The perfect UX Research midway method](https://uxdesign.cc/the-perfect-uxr-midway-method-concept-validation-5b043830582f)
+
 ## Usability testing
 
 Usability testing is where you ask participants to try to complete specific tasks using your service.
