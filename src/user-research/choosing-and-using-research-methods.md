@@ -181,6 +181,14 @@ Concept testing is particularly useful when you want to quickly explore several 
 * [The Value Of Concept Testing As Part Of Product Design by Victor Yocco](https://www.smashingmagazine.com/2021/11/concept-testing-part-of-product-design/)
 * [Concept validation: The perfect UX Research midway method](https://uxdesign.cc/the-perfect-uxr-midway-method-concept-validation-5b043830582f)
 
+## Content research
+
+
+### Recommended guidance
+
+* []()
+
+
 ## Usability testing
 
 Usability testing is where you ask participants to try to complete specific tasks using your service.
