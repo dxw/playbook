@@ -184,20 +184,29 @@ Concept testing is particularly useful when you want to quickly explore several 
 
 ## Content research
 
+In content research we are focussed on how people find, understand, interact with and act on different kinds of content about and within services.
+
+Choose card sorting to explore the associations people have between different words and concepts, and how people see things fitting into groups or categories.
+
+Choose tree testing to test how participants might navigate a proposed information architecture.
+
+Choose highlighter and similar tests to see how well participants understand and can act on content.
+
 ### Recommended guidance
 
 * [Card sorting by Donna Spencer](https://rosenfeldmedia.com/books/card-sorting/)
 * [Card Sorting by NN/g](https://www.nngroup.com/articles/card-sorting-definition/)
 * [Card sorting on usability.gov](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
 
-
+<!-- -->
 
 * [Tree Testing: Fast, Iterative Evaluation of Menu Labels and Categories](https://www.nngroup.com/articles/tree-testing/)
 * [Tree Testing 101 by Optimal Workshop](https://www.optimalworkshop.com/learn/101s/tree-testing/)
 
-
+<!-- -->
 
 * [What does this mean? Tips for testing your words by John Waterworth](https://userresearch.blog.gov.uk/2015/07/01/what-does-this-mean-tips-for-testing-your-words/)
+* [Three effective methods for content tests by dScout](https://dscout.com/people-nerds/content-testing)
 * [How to Test Content with Users by NN/g](https://www.nngroup.com/articles/testing-content-websites/)
 
 ## Usability testing
