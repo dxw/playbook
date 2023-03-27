@@ -142,6 +142,20 @@ Also bear in mind that you don’t get twice as many findings by inviting twice 
 * [Gamestorming](https://gamestorming.com/)
 * [Seeds for Change](https://www.seedsforchange.org.uk/resources)
 
+## Surveys
+
+With surveys we ask a defined group of people a set of questions, and analyse their answers to produce findings.
+
+So choose surveys when you need quantitative data (numbers), know what questions you want to ask, and know who you want to ask.
+
+If you are not sure about any of those things, for example you don't yet know which questions are important, or who is important to ask, then start with other methods like interviews, and then consider doing a survey later when things are clearer.
+
+## Recommended guidance
+
+* [Surveys that Work by Caroline Jarrett](https://www.effortmark.co.uk/surveysthatwork/)
+* [Types of sampling for Market Research by Survey Monkey](https://www.surveymonkey.co.uk/market-research/resources/types-of-sampling/) 
+* [Question and questionnaire design by Krosnick and Presser](https://web.stanford.edu/dept/communication/faculty/krosnick/docs/2009/2009_handbook_krosnick.pdf)
+
 ## Usability testing
 
 Usability testing is where you ask participants to try to complete specific tasks using your service.
