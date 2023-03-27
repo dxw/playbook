@@ -198,12 +198,8 @@ Choose highlighter and similar tests to see how well participants understand and
 * [Card Sorting by NN/g](https://www.nngroup.com/articles/card-sorting-definition/)
 * [Card sorting on usability.gov](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
 
-<br /><!-- -->
-
 * [Tree Testing: Fast, Iterative Evaluation of Menu Labels and Categories](https://www.nngroup.com/articles/tree-testing/)
 * [Tree Testing 101 by Optimal Workshop](https://www.optimalworkshop.com/learn/101s/tree-testing/)
-
-<br /><!-- -->
 
 * [What does this mean? Tips for testing your words by John Waterworth](https://userresearch.blog.gov.uk/2015/07/01/what-does-this-mean-tips-for-testing-your-words/)
 * [Three effective methods for content tests by dScout](https://dscout.com/people-nerds/content-testing)
