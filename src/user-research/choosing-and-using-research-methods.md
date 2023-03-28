@@ -149,7 +149,7 @@ With surveys we ask a defined group of people a set of questions, and analyse th
 
 So choose surveys when you need quantitative data (numbers), know what questions you want to ask, and know who you want to ask.
 
-If you are not sure about any of those things, for example you don't yet know which questions are important, or who is important to ask, then start with other methods like interviews, and then consider doing a survey later when things are clearer.
+If you are not sure about any of those things, maybe you don’t yet know which questions are important, or who it’s important to ask, then start with other methods like interviews. And consider doing a survey later, when things are clearer.
 
 ### Recommended guidance
 
