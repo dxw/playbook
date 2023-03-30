@@ -2,7 +2,6 @@
 title: Disciplinary procedure
 related_order: 15
 permalink: /:path/:basename/
-related_order: 10
 ---
 
 ## The process

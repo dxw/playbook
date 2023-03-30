@@ -2,7 +2,6 @@
 title: Grievances
 related_order: 16
 permalink: /:path/:basename/
-related_order: 9
 ---
 
 If you have a grievance about your employment or a complaint about another
