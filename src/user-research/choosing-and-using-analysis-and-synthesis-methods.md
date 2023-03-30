@@ -71,13 +71,13 @@ For collaborative affinity sorting to work well, it’s important that we help c
 * [What is an affinity diagram and how do you use it? by Miro](https://miro.com/blog/create-affinity-diagrams/)
 * [How we do research analysis in agile](https://userresearch.blog.gov.uk/2014/06/05/how-we-do-research-analysis-in-agile/)
 
-## Annotating research artefacts
+## Annotating design artefacts
 
 This is a common variant of affinity sorting that we use in workshops, concept testing, content research and usability testing. In this method we use things like the steps in a process map, a set of design concepts, pieces of content or a set of interface screenshots to define the top level groups.
 
 In this approach we:
 
-1. First place observations against the part of an artefact
+1. First place observations against the relevant part of an artefact
 
    In a workshop reviewing a process map, for example, we place all our observations against the appropriate step.
 
