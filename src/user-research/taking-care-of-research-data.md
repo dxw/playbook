@@ -1,7 +1,7 @@
 ---
 title: Taking care of research data
 permalink: /:path/:basename/
-related_order: 220
+related_order: 240
 ---
 When we do research, we must manage the data we collect so that we protect
 participants’ privacy and comply with the law.
