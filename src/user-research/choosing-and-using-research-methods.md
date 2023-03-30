@@ -161,10 +161,6 @@ If you are not sure about any of those things, maybe you don’t yet know which 
 
 In concept testing we walk participants through representations of our design ideas, like sketches or diagrams, to see how well our designs might meet their needs.
 
-You can run concept testing with individual participants or with small groups, when conversations between participants can bring out additional points.
-
-You can combine concept testing with initial interviews to understand more about a participant’s circumstances, experiences and needs. And follow up with workshop activities to iterate the concepts.
-
 Through concept testing we can learn more about:
 
 * how people understand the design ideas
@@ -172,9 +168,11 @@ Through concept testing we can learn more about:
 * how well the designs might achieve the intended outcome
 * potential improvements to our designs
 
-Choose concept testing when you want to evaluate your designs, but do not yet have a properly interactive prototype or working service that people can try out for real.
+Choose concept testing when you want to evaluate your designs, but do not yet have a properly interactive prototype or working service that people can try out for real. Concept testing is particularly useful when you want to quickly explore several alternative design ideas.
 
-Concept testing is particularly useful when you want to quickly explore several alternative design ideas.
+You can run concept testing with individual participants or with small groups, when conversations between participants can bring out additional points.
+
+You can combine concept testing with initial interviews to understand more about a participant’s circumstances, experiences and needs. And follow up with workshop activities to iterate the concepts.
 
 ### Recommended guidance
 
