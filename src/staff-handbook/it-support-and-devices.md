@@ -1,5 +1,6 @@
 ---
 title: IT support and devices
+related_order: 8
 permalink: /:path/:basename/
 ---
 

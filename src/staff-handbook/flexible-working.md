@@ -1,5 +1,6 @@
 ---
 title: Flexible working
+related_order: 4
 permalink: /:path/:basename/
 ---
 

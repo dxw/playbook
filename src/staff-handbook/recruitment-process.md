@@ -1,5 +1,6 @@
 ---
 title: Recruitment process
+related_order: 14
 permalink: /:path/:basename/
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: When and where you work
+related_order: 3
 permalink: /:path/:basename/
 ---
 

@@ -1,4 +1,6 @@
 ---
 title: Learning and development
-related_order: 0000000
+related_order: 9
+redirect_from:
+  - /guides/learning-and-development
 ---

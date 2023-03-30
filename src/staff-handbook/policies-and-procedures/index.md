@@ -1,4 +1,4 @@
 ---
 title: Policies and procedures
-related_order: 000000
+related_order: 5
 ---
