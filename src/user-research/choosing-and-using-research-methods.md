@@ -178,7 +178,7 @@ You can combine concept testing with initial interviews to understand more about
 
 * [The Value Of Concept Testing As Part Of Product Design by Victor Yocco](https://www.smashingmagazine.com/2021/11/concept-testing-part-of-product-design/)
 * [Concept validation: The perfect UX Research midway method](https://uxdesign.cc/the-perfect-uxr-midway-method-concept-validation-5b043830582f)
-* [How to Conduct a Cognitive Walkthrough Workshop]<https://www.nngroup.com/articles/cognitive-walkthrough-workshop/>
+* [How to Conduct a Cognitive Walkthrough Workshop](https://www.nngroup.com/articles/cognitive-walkthrough-workshop/)
 
 ## Content research
 
