@@ -121,7 +121,9 @@ Some of our research methods produce numbers, or data that we can turn into numb
 
 The numbers most often come from surveys and service performance measures. But they can also come from unmoderated usability testing and content research.
 
-Our quantitative data analyses are usually relatively simple. Looking at things like:
+Our quantitative data analyses are usually relatively simple, because we rarely do research that generates large amounts of quantitative data.
+
+We typically look at things like:
 
 * totals - such as the number of tests
 * proportions - such as the number of tests where users were successful
