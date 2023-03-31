@@ -67,6 +67,9 @@ These are the things that user researchers usually do on projects, and the relev
 
    This helps teams understand and believe in our findings. So they can make good decisions and respond quickly to what we learn together.
 
+   [Taking notes and recording research sessions](/user-research/taking-notes-and-recording-research-sessions/) \
+   [Choosing and using analysis and synthesis methods](/user-research/choosing-and-using-analysis-and-synthesis-methods)
+
 6. **Create and share outputs**
 
    Researchers create and share formal outputs like plans, presentations, reports and diagrams. These record and communicate the important things we learn. We create finished outputs from sprint to sprint, not just at the end of a project. We think carefully about how, where and with whom we present and share these outputs to produce the most impact. And we take care to protect our participant’s privacy in everything we share.
