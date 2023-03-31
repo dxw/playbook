@@ -1,7 +1,7 @@
 ---
 title: Sharing research activities and findings
 permalink: /:path/:basename/
-related_order: 120
+related_order: 240
 ---
 We regularly share descriptions of research activities and findings in show and
 tells, reports and other places.
