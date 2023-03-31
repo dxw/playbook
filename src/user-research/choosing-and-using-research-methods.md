@@ -220,5 +220,5 @@ Choose usability testing when you have an existing service, a working prototype,
 * [Using moderated usability testing in GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research/using-moderated-usability-testing)
 * [Rocket Surgery Made Easy by Steve Krug](https://sensible.com/rocket-surgery-made-easy/)
 * [Qualitative Usability Testing: Study Guide by NN/g](https://www.nngroup.com/articles/qual-usability-testing-study-guide/)
-* [Handbook of Usability Testing by Jeffrey Rubin and Dana Chisnell](​​https://www.wiley.com/en-gb/Handbook+of+Usability+Testing:+How+to+Plan,+Design,+and+Conduct+Effective+Tests,+2nd+Edition-p-9780470185483)
+* [Handbook of Usability Testing by Jeffrey Rubin and Dana Chisnell](https://www.wiley.com/en-gb/Handbook+of+Usability+Testing%3A+How+to+Plan%2C+Design%2C+and+Conduct+Effective+Tests%2C+2nd+Edition-p-9780470185483)
 * [Unmoderated testing for the UK's new register of regulated professions](https://www.dxw.com/2022/06/unmoderated-testing-beis-rpr/)
