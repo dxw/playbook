@@ -93,25 +93,13 @@ unlawful:
 * Victimisation: retaliation against someone who has complained or has supported
   someone else's complaint about discrimination or harassment.
 
-## Reasonable adjustments
+## Reasonable Adjustments
 
-If you are disabled or become disabled, we encourage, but do not require, you to
-tell us about your condition so that we can support you as appropriate.
+A reasonable adjustment is "a change to remove or reduce the effect of an employees' disability or long term health condition so they can do their job". If you would like to discuss ways of working and reasonable adjustments that will help you, please talk to your line manager or the People team at any point. The sooner we know, the sooner we can support you. We will never use the disclosure of a disability or long term health condition against you.
 
-If you experience difficulties at work because of your disability, you may wish
-to contact your line manager or the People team to discuss any reasonable
-adjustments that would help overcome or minimise the difficulty. Your line
-manager or the People team may wish to consult with you and with your medical
-advisor, if you choose to include one in the consultation, about possible
-adjustments. We will consider the matter carefully and try to accommodate this
-based on the needs for your role, the cost for the accommodation and dxw’s
-ability to make the adjustment. If we consider a particular adjustment would not
-be reasonable we will explain our reasons and try to find an alternative
-solution where possible.
+We'll organise a meeting (or a series of meetings if needed) between you, your line manager, and the People team where we will discuss any difficulties you are facing and how dxw are able to support you. If there is any additional support we can reasonably give you, for example changes to your working pattern or working environment, we will. We need to balance dxw's financial sustainability and the unavoidable impact of any adjustments made on your teams with your needs to make sure we are able to give fair and consistent treatment to everyone in need of adjustments, but we will make every effort to make working at dxw as healthy and sustainable for you as we can.
 
-We will monitor the physical features of our premises to consider whether they
-might place anyone with a disability and take all reasonable steps to improve
-access.
+If you need further support, in addition to any support we are able to provide you as an employer and through occupational health, there may be state provided benefits that apply to you. These may include [disability and sickness benefits](https://www.gov.uk/financial-help-disabled/disability-and-sickness-benefits) or the [Access to Work scheme](https://www.gov.uk/access-to-work). If you would like support finding, understanding, or applying for alternatives outside of dxw please discuss this with your line manager or our people manager.
 
 ## Recruitment and selection
 
@@ -199,26 +187,6 @@ We will ensure that disciplinary procedures and penalties are applied without
 discrimination, whether they result in disciplinary warnings, dismissal, or
 other disciplinary action. There is a right of appeal to a dxw director or line
 manager not directly involved in the case.
-
-## Reasonable adjustments
-
-If you are disabled or become disabled, we encourage, but do not require, you to
-tell us about your condition so that we can support you as appropriate.
-
-If you experience difficulties at work because of your disability, you may wish
-to contact your line manager or the People team to discuss any reasonable
-adjustments that would help overcome or minimise the difficulty. Your line
-manager or the People team may wish to consult with you and with your medical
-advisor, if you choose to include one in the consultation, about possible
-adjustments. We will consider the matter carefully and try to accommodate this
-based on the needs for your role, the cost for the accommodation and dxw’s
-ability to make the adjustment. If we consider a particular adjustment would not
-be reasonable we will explain our reasons and try to find an alternative
-solution where possible.
-
-We will monitor the physical features of our premises to consider whether they
-might place anyone with a disability and take all reasonable steps to improve
-access.
 
 ## Part-time and fixed-term work
 
