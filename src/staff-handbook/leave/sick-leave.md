@@ -38,17 +38,9 @@ support you to need fewer absences. We might also agree an action plan and / or
 a review period. Where we think it would be helpful, we'll seek advice via an
 Occupational Health advisor.
 
-If you have a long term health condition and would like to discuss reasonable
-adjustments and ways of working that will help, we welcome a conversation at any
+If you have a long term health condition and would like to discuss [reasonable adjustments](staff-handbook/policies-and-procedures/inclusion-diversity-equality/#reasonable-adjustments) and ways of working that will help, we welcome a conversation at any
 point. The sooner we know, the sooner we can support you.
 
-## Reasonable Adjustments
-
-A reasonable adjustment is "a change to remove or reduce the effect of an employees' disability or long term health condition so they can do their job". If you would like to discuss ways of working and reasonable adjustments that will help you, please talk to your line manager or the People team at any point. The sooner we know, the sooner we can support you. We will never use the disclosure of a disability or long term health condition against you.
-
-We'll organise a meeting (or a series of meetings if needed) between you, your line manager, and the People team where we will discuss any difficulties you are facing and how dxw are able to support you. If there is any additional support we can reasonably give you, for example changes to your working pattern or working environment, we will. We need to balance dxw's financial sustainability and the unavoidable impact of any adjustments made on your teams with your needs to make sure we are able to give fair and consistent treatment to everyone in need of adjustments, but we will make every effort to make working at dxw as healthy and sustainable for you as we can.
-
-If you need further support, in addition to any support we are able to provide you as an employer and through occupational health, there may be state provided benefits that apply to you. These may include [disability and sickness benefits](https://www.gov.uk/financial-help-disabled/disability-and-sickness-benefits) or the [Access to Work scheme](https://www.gov.uk/access-to-work). If you would like support finding, understanding, or applying for alternatives outside of dxw please discuss this with your line manager or our people manager.
 
 ## Sick pay 
 
