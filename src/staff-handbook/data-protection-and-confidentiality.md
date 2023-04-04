@@ -1,6 +1,6 @@
 ---
 title: Data protection and confidentiality
-related_order: 17
+related_order: 15
 permalink: /:path/:basename/
 ---
 
