@@ -5,11 +5,6 @@ related_order: 1
 
 ---
 
-## Changes to your details
-
-Please tell us promptly if your name, address, telephone number, next of kin
-details or banking details change and keep those details up to date in [Breathe](https://login.breathehr.com/login).
-
 ## Purpose
 
 The purpose of the dxw pay policy is to give us a framework to pay salaries at
@@ -96,5 +91,8 @@ London weighting of £4,000 per year applies to staff who earn under £40,000 pe
 
 We are committed to paying the London living wage or higher for all staff.
 
+## Changes to your details
 
+Please tell us promptly if your name, address, telephone number, next of kin
+details or banking details change and keep those details up to date in [Breathe](https://login.breathehr.com/login).
 
