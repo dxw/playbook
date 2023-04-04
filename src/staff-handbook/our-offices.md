@@ -19,7 +19,7 @@ If you need any further information about any features of the office that could 
 
 ## The Lighthouse, King's Cross, London
 
-dxw has access to a co-working space in central London called [The Lighthouse](https://www.landmarkspace.co.uk/locations/london-kings-cross/)
+dxw has access to [The Lighthouse](https://www.landmarkspace.co.uk/locations/london-kings-cross/) a coworking space in central London:
 
 1 The Lighthouse Building <br>370 Grays Inn Road <br>London <br>WC1X 8BB 
 
