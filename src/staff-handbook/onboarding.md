@@ -28,17 +28,23 @@ Below is a rough outline of what to expect from your first two days at dxw.
 * Half-day of self-led training (including any help with software)
 * Employee led tasks from your Trello
 
-## Your calendar, documents and email
+## Calendars
 
 We use Google Workspace to manage calendars, write and share documents. There is
 a dxw folder where we share most of the things we write. If you can't see it
 when you log in to Google Drive, you'll need to ask someone else to send you the
 link, and then click "Add to drive".
 
-When we write new things, we try to save them in a sensible folder within the
+## Documents
+
+When we write new things, we try to save them in the most relevant folder within the
 existing structure.
 
+## Emails
+
 Please use Helvetica or Arial as the font in your emails.
+
+Here's a suggested format for your email signature:
 
 Name<br> Job Title<br> name@dxw.com<br> Twitter handle - if you’re comfortable
 to share<br> Mobile - if you’re comfortable to share<br>
