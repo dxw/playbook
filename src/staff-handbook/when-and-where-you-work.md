@@ -8,7 +8,7 @@ permalink: /:path/:basename/
 
 Our working hours are 10:00-18:00, Monday to Friday. Some people work different
 hours by arrangement. Anyone is free to do that as long as their hours of work
-don't make it hard for other people to get things done. For example, many people start earlier than 10:00 and leave earlier, which is generally fine.
+don't make it hard for other people to get things done. For example, many people start earlier than 10:00 and finish earlier, which is generally fine.
 
 Each team has a short standup every morning, where we each tell the whole team
 about a single thing we will get done that day. If you think you're going to be
