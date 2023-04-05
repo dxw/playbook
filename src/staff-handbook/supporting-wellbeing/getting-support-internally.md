@@ -114,6 +114,7 @@ At dxw, all doors are open if you need to raise a concern or just have a chat - 
 We encourage everyone at dxw to be open about their identities and the challenges they experience at work, but sometimes we want to only talk to people whose experiences more closely resemble our own. To enable that, we have created a number of private channels:
 
 #identity-lgbtqia-plus (contact a member of @identity-lgbtqia-plus-admins to join)
+#identity-lgbtqia-plus-workers (contact a member of @identity-lgbtqia-plus-workers to join)
 #identity-neurodivergent-everyone and #identity-neurodivergent-non-management (contact a member of @identity-neurodivergent-admins to join)
 #identity-spoonies (contact a member of @identity-spoonies-admins to join)
 

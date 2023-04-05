@@ -1,6 +1,6 @@
 ---
 title: Disciplinary procedure
-related_order: 15
+related_order: 
 permalink: /:path/:basename/
 ---
 
