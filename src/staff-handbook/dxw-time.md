@@ -6,7 +6,7 @@ permalink: /:path/:basename/
 
 dxw time is what we call the time that our billable staff (Delivery+, GovPress and Strategy) spend not working on client work doing things for the company, along with other colleagues. What’s set out here is a general position and individual business units might have slightly different approaches.
 
-dxw time is everything that does not fit the ‘client work’ category. It’s time spent on activities that are business focused and help dxw to grow and develop.
+dxw time is everything that does not fit the ‘client work’ category on [Productive](https://productive.io/apps/). It’s time spent on activities that are business focused and help dxw to grow and develop.
 
 ## The amount of dxw time you can take
 
