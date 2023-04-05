@@ -1,6 +1,6 @@
 ---
 title: Supporting wellbeing
-related_order: 11
+related_order: 12
 redirect_from:
   - /working/here/wellbeing-at-dxw
 

@@ -1,6 +1,7 @@
 ---
 title: Covid and in-person working
 permalink: /:path/:basename/
+related_order: 17
 ---
 We need to continuously challenge ourselves to adopt approaches that meet the needs of all employees, wherever we can. The responsibility to act falls to all of us and, as always, this challenge should be demonstrated in a respectful, constructive manner, in line with our values.
 

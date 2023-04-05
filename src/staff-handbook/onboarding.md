@@ -1,6 +1,6 @@
 ---
 title: Onboarding
-related_order: 12
+related_order: 13
 permalink: /:path/:basename/
 ---
 
