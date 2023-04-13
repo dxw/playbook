@@ -9,11 +9,11 @@
         "to": "/user-research/"
       },
       {
-        "from": "/staff-handbook/leave/sick-leave",
+        "from": "/staff-handbook/leave/sick-leave/",
         "to": "/staff-handbook/policies-and-procedures/sickness-policy"
       },
       {
-        "from": "/staff-handbook/pay-pension-and-benefits/pay",
+        "from": "/staff-handbook/pay-pension-and-benefits/pay/",
         "to": "/staff-handbook/policies-and-procedures/pay-policy"
       }
   ]

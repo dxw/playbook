@@ -4,6 +4,7 @@ related_order: 6
 permalink: /:path/:basename/
 redirect_from:
   - /guides/office-accessibility
+  - /working-here/office-accessibility
 ---
 ## Calls Landing, Leeds
 
