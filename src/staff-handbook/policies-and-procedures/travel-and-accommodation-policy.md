@@ -4,9 +4,6 @@ permalink: /:path/:basename/
 related_order: 3
 ---  
 
-
-## Travel and Accommodation Policy
-
 Currently, the default for everyone in the organisation is working from home.
 
 For this period, we will consider regular travel to an office space without a business critical need as commuting.
