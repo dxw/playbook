@@ -3,7 +3,8 @@ title: Benefits
 permalink: /:path/:basename/
 related_order: 3
 ---
-All benefits are available to the dxw team members after they've successfully passed their probationary period. 
+
+All benefits are available to the dxw team members after they've successfully passed their probationary period.
 
 Benefits for permanent employees include:
 
@@ -19,7 +20,7 @@ Benefits for permanent employees include:
 
 * [flexible working](/staff-handbook/flexible-working/) to support your wellbeing and personal commitments
 
-## Cycle to work scheme 
+## Cycle to work scheme
 
 dxw operates a [cycle-to-work scheme](https://www.cyclescheme.co.uk/), which may allow you to purchase a bicycle at reduced cost. If you would like to take this up, please register on the cycle scheme website.
 
@@ -37,7 +38,6 @@ If you leave dxw before the total amount for your ticket has been taken from you
 
 Get in touch with Leanne Garvie (Finance Manager) for more information.
 
-
 ## Eyecare vouchers
 
 dxw provides eyecare for the team via a voucher system run by ASE Corporate Eyecare Ltd and Boots.
@@ -46,9 +46,8 @@ What the wellbeing voucher offers is on the[Eyecare for Wellbeing](https://eyeme
 
 [Apply for a wellbeing eyecare voucher](https://gw.eyecareplans.co.uk/Account/Login/dxwe12q2415d3df)
 
-## Home office equipment 
+## Home office equipment
 
-We provide a Macbook and home office setup budget. 
+We provide a Macbook and home office setup budget.
 
 Here’s [a guide that covers how we can support your home working environment](https://docs.google.com/document/d/17Q8zOEm4cd0ZDGqkT8Bcg8G1CCK_vLlwMtOFVgJalAU/edit#heading=h.1z3dei2pr1jh). We can also provide a [Display Screen Equipment (DSE) assessment](https://www.hse.gov.uk/msd/dse/) if you need specialist advice.
-

@@ -1,7 +1,7 @@
 ---
 title: Flexible working
-related_order: 4
 permalink: /:path/:basename/
+related_order: 4
 ---
 
 We aim to offer flexibility for people looking for a part-time role or a role
@@ -97,4 +97,3 @@ will be prorated in the same way as for
 with varied daily hours have annual leave prorated and calculated in hours (231
 hours per year). You must book bank holidays that fall on working days as leave
 in BreatheHR.
-

@@ -33,4 +33,3 @@ in line with our existing policies.
 
 To record compassionate leave in BreatheHR, choose Other as the Type of Leave,
 and choose Compassionate as the Reason.
-

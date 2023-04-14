@@ -1,7 +1,7 @@
 ---
 title: Recruitment process
-related_order: 15
 permalink: /:path/:basename/
+related_order: 15
 redirect_from:
   - /working-here/hiring-new-people
 ---

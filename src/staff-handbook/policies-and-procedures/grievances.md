@@ -1,6 +1,5 @@
 ---
 title: Grievances
-related_order: 
 permalink: /:path/:basename/
 ---
 

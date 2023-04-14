@@ -1,7 +1,7 @@
 ---
 title: IT support and devices
-related_order: 8
 permalink: /:path/:basename/
+related_order: 8
 redirect_from:
   - /working-here/use-of-technology-at-work
 ---
@@ -45,6 +45,3 @@ what you're using it for. Some good practice examples are:
 
 If you need to use a personal device but cannot take these sorts of measures,
 you should get permission first.
-
-
-

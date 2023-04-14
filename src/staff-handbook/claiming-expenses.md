@@ -1,7 +1,7 @@
 ---
 title: Claiming expenses
-related_order: 7
 permalink: /:path/:basename/
+related_order: 7
 redirect_from:
   - /guides/claiming-expenses
   - /working-here/getting-things-you-need/claiming-expenses

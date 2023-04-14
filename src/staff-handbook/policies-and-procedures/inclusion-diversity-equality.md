@@ -6,6 +6,7 @@ redirect_from:
   - /working-here/inclusion-diversity-equality
 related_order: 5  
 ---
+
 ## Equal opportunities statement
 
 At dxw, we value people and believe that having a team of individuals with
@@ -147,7 +148,7 @@ before employment starts, to satisfy current immigration legislation. The list
 of acceptable documents is available from the People team or UK Visas and
 Immigration.
 
-### Diversity data we collect 
+### Diversity data we collect
 
 To ensure that this policy is operating effectively, and to identify groups that
 may be underrepresented or disadvantaged in our organisation, we will ask job

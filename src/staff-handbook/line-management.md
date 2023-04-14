@@ -1,7 +1,7 @@
 ---
 title: Line management
-related_order: 11
 permalink: /:path/:basename/
+related_order: 11
 ---
 
 Line management at dxw is not about hierarchy, it’s about providing professional

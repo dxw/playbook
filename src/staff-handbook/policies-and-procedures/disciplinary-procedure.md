@@ -1,6 +1,5 @@
 ---
 title: Disciplinary procedure
-related_order: 
 permalink: /:path/:basename/
 ---
 
@@ -17,7 +16,7 @@ unacceptable and what you need to do to improve your conduct or performance.
 If your conduct or performance fails to improve following a verbal warning, or
 if the matter is serious enough that a verbal warning is not appropriate, we may
 hold a disciplinary meeting at which you may be accompanied or represented by a
-colleague or trade union official. 
+colleague or trade union official.
 
 Following this meeting, we may:
 

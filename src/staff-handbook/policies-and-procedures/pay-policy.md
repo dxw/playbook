@@ -2,7 +2,6 @@
 title: Pay policy
 permalink: /:path/:basename/
 related_order: 1
-
 ---
 
 ## Purpose
@@ -65,7 +64,6 @@ The following principles underpin the policy:
 9. dxw works with an independent HR advisor, who can assist if needed to help
    resolve any issues.
 
-
 ## Cost of living raise
 
 Annual cost of living CPI rises will apply for staff if the company achieves turnover above its minimum target for the preceding financial year. The percentage will be set by the [CPI Index](https://www.ons.gov.uk/economy/inflationandpriceindices).
@@ -95,4 +93,3 @@ We are committed to paying the London living wage or higher for all staff.
 
 Please tell us promptly if your name, address, telephone number, next of kin
 details or banking details change and keep those details up to date in [Breathe](https://login.breathehr.com/login).
-

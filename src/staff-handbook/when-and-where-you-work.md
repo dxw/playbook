@@ -1,7 +1,7 @@
 ---
 title: When and where you work
-related_order: 3
 permalink: /:path/:basename/
+related_order: 3
 redirect_from:
   - /working-here/when-and-where-you-work
 ---

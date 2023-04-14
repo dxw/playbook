@@ -1,7 +1,7 @@
 ---
 title: Onboarding
-related_order: 13
 permalink: /:path/:basename/
+related_order: 13
 ---
 
 After you’ve accepted a role at dxw a member of our People team will be in touch
@@ -55,7 +55,6 @@ If you need an out of office message on your email account, follow [Gmail's inst
 and include the contact details for another member of the team for any urgent
 queries and a return date.
 
-
 ## Probation
 
 New starters are subject to a probation period of 4 months with dxw having the
@@ -92,4 +91,3 @@ as importantly, for you to get a feel for what it’s like to work at dxw.
 If you join us, you’ll be continuously supported by our People team, a line
 manager and a mentor within the same field. You‘ll have regular check ins with
 the team where you can speak openly about anything that’s on your mind.
-

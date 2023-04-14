@@ -18,4 +18,3 @@ required to attend Court -
 
 Let your line manager or the People team know as soon as you are able that you have
 been requested for Jury Service with a copy of your jury summons.
-

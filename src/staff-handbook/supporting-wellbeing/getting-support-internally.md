@@ -3,6 +3,7 @@ title: Getting support internally
 permalink: /:path/:basename/
 related_order: 1
 --- 
+
 The wellbeing of our teams is very important. So we offer the following to support your health and wellbeing:
 
 * Safe homeworking set-up: if you require any [ergonomic items](/working-here/getting-things-you-need/), additional travel support or an assessment of your home or office working set up ([DSE](https://www.hse.gov.uk/msd/dse/)), you can find support through your line manager and the People team to arrange this.
@@ -19,11 +20,11 @@ The wellbeing of our teams is very important. So we offer the following to suppo
 
 Sometimes our lives both inside and outside of work can be challenging, and many of us will experience poor mental or physical health for any number of reasons.
 
-This can impact our lives and, sometimes, our ability to work as normal. 
+This can impact our lives and, sometimes, our ability to work as normal.
 
-## Who to speak to 
+## Who to speak to
 
-### The People team 
+### The People team
 
 The People team is a safe place to turn if you need help with your mental health or general wellbeing at work. We can work with you to identify what additional support you might need.
 
@@ -57,23 +58,23 @@ The list is not exhaustive, but includes:
 * training and career progression
 * [working patterns](/staff-handbook/flexible-working/) and [locations](/staff-handbook/when-and-where-you-work/)
 
-### Your line manager 
+### Your line manager
 
-Line managers are your first point of contact for any issues you may be having at work. They are responsible for carrying out dxw’s duty of care, and you should request a 1:1 with your line manager if you need additional support. 
+Line managers are your first point of contact for any issues you may be having at work. They are responsible for carrying out dxw’s duty of care, and you should request a 1:1 with your line manager if you need additional support.
 
 They can listen, support and offer reasonable adjustments as detailed above. They can help review workloads, working patterns, projects, roles and responsibilities and help with resolving anything within the workplace that might be causing concern. They can liaise with delivery leads, heads of and directors where necessary, and take some of the burden from you.
 
-### Mental Health First Aiders 
+### Mental Health First Aiders
 
-If you are experiencing a mental health crisis or think that someone else is, we have a team of trained mental health first aiders who are able to provide initial support. A Mental Health First Aider is able to listen and communicate non-judgementally, give initial support and then signpost information or appropriate professional help. 
+If you are experiencing a mental health crisis or think that someone else is, we have a team of trained mental health first aiders who are able to provide initial support. A Mental Health First Aider is able to listen and communicate non-judgementally, give initial support and then signpost information or appropriate professional help.
 
 First aiders are a safe place to turn to if you are experiencing an issue with your mental health, and need to talk to someone. Conversations will be kept in strictest confidence, provided that you are not at serious risk of harm.
 
 Mental Health First Aiders are identified in the [company directory in Breathe](https://hr.breathehr.com/employees/directory?name=&company_department_id=&company_division_id=&mh=true), and you can reach out to them via Slack or email.
 
-If your chosen MHFA is unable to take a call, they will offer to refer you to another first aider or a member of the People team. 
+If your chosen MHFA is unable to take a call, they will offer to refer you to another first aider or a member of the People team.
 
-### Helpers 
+### Helpers
 
 When you join dxw you will be assigned a helper. This person will work closely with you for at least your first 4 months. They will do a similar job to you, help you meet members of the wider team, catch up with you on at least a 3/6/12 week basis to ensure you are receiving everything you need, and will NEVER get bored of your questions!
 
@@ -85,7 +86,7 @@ For more information on being a helper, please see the
 [checklist](https://docs.google.com/document/d/1QPv7Mg7TTlt_OyLRtstAtPQBcId-ct-uTbWqYnso2jI)
 or speak to the People team.
 
-### Buddies 
+### Buddies
 
 Once you have passed your 4 month probation, we would like you to choose a buddy within the company to support you.
 
@@ -98,25 +99,24 @@ The buddy system is there to help us all improve, to make sure we’re doing the
 If you want to know more about how the buddy system works, how often to meet and suggested discussion topics, see the buddy [crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing). This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet up.
 
 ### Your delivery lead (for those on client work)
+
 There will be opportunities within the delivery team to raise any issues or concerns you might have e.g. retrospectives or planning sessions. As well as this, or if you’d prefer to talk one on one, the delivery lead working on the project will be available to provide support and guidance.
 
-### Directors and Heads-of 
+### Directors and Heads-of
 
 All members of the Directors and heads-of team are here to help answer any questions you might have. Your own Director and/or Head-of profession or location is there to provide support on matters relating to dxw and your career with us, as well as profession specific questions. Similarly, they are here if you need to escalate any job-related concerns.
 
-### Our Chief Executive Officer, Dave 
+### Our Chief Executive Officer, Dave
 
 At dxw, all doors are open if you need to raise a concern or just have a chat - this includes our CEO. Dave is always available to discuss any questions you have about the company and its future. Equally, if you feel you need to escalate anything to him, don’t hesitate to get in touch. Dave’s diary is open and you can see it on Google Calendar. If you would like to schedule some time with him, please feel free to book something.
 
-
-## Private Slack channels 
+## Private Slack channels
 
 We encourage everyone at dxw to be open about their identities and the challenges they experience at work, but sometimes we want to only talk to people whose experiences more closely resemble our own. To enable that, we have created a number of private channels:
 
-#identity-lgbtqia-plus (contact a member of @identity-lgbtqia-plus-admins to join)
-#identity-lgbtqia-plus-workers (contact a member of @identity-lgbtqia-plus-workers to join)
-#identity-neurodivergent-everyone and #identity-neurodivergent-non-management (contact a member of @identity-neurodivergent-admins to join)
-#identity-spoonies (contact a member of @identity-spoonies-admins to join)
+* #identity-lgbtqia-plus and #identity-lgbtqia-plus-workers (contact a member of @identity-lgbtqia-plus-admins to join)
+* #identity-neurodivergent-everyone and #identity-neurodivergent-non-management (contact a member of @identity-neurodivergent-admins to join)
+* #identity-spoonies (contact a member of @identity-spoonies-admins to join)
 
 Anyone can create a new one by creating the private channel, creating a user group with at least one volunteer (or asking a Slack admin to do it for you), and adding it to this list. It’s probably a good idea to share that you’ve created it in #general.
 

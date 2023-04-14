@@ -1,7 +1,7 @@
 ---
 title: Recording your time
-related_order: 14
 permalink: /:path/:basename/
+related_order: 14
 redirect_from:
   - /working-here/recording-your-time
 ---

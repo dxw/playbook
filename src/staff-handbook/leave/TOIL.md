@@ -32,4 +32,3 @@ Using BreatheHR similar to the way that you request holiday, there is a TOIL
 drop down, please write a note as to why you are requesting the leave and this
 will be approved by a member of the People team. Please note this will not deduct
 from your holiday allowance shown on your BreatheHR dashboard.
-

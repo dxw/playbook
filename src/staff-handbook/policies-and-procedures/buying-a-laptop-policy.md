@@ -1,11 +1,12 @@
 ---
 title: Laptop purchasing policy
 permalink: /:path/:basename/
+related_order: 7
 redirect_from:
   - /guides/laptop-purchasing-policy
   - /working-here/laptop-purchasing-policy
-related_order: 7
 ---
+
 This policy has been created to assist employees who are buying dxw-owned
 laptops. Please note there is no obligation to buy your laptop upon leaving dxw
 or getting a laptop refresh.
