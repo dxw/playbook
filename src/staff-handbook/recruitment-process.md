@@ -2,6 +2,8 @@
 title: Recruitment process
 related_order: 15
 permalink: /:path/:basename/
+redirect_from:
+  - /working-here/hiring-new-people
 ---
 
 ## Making a plan for hiring

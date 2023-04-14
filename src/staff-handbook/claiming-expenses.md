@@ -4,7 +4,7 @@ related_order: 7
 permalink: /:path/:basename/
 redirect_from:
   - /guides/claiming-expenses
-
+  - /working-here/getting-things-you-need/claiming-expenses
 ---
 
 From time to time, some of us spend our own money at work. Most often, this is for things like:

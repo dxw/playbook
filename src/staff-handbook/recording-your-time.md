@@ -2,6 +2,8 @@
 title: Recording your time
 related_order: 14
 permalink: /:path/:basename/
+redirect_from:
+  - /working-here/recording-your-time
 ---
 
 Everyone who works on a client project at dxw is responsible for recording the

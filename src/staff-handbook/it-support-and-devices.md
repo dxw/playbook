@@ -2,6 +2,8 @@
 title: IT support and devices
 related_order: 8
 permalink: /:path/:basename/
+redirect_from:
+  - /working-here/use-of-technology-at-work
 ---
 
 ## Internal tech support

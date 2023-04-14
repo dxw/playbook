@@ -2,6 +2,8 @@
 title: Data protection and confidentiality
 related_order: 16
 permalink: /:path/:basename/
+redirect_from:
+  - /working-here/data-protection-and-confidentiality
 ---
 
 Though dxw doesn't control much personal data, our clients generally do. And
