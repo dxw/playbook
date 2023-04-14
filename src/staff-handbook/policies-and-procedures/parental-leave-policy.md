@@ -26,8 +26,7 @@ statutory entitlement below. There’s an
 [online calculator](https://www.gov.uk/maternity-paternity-pay-leave) for
 working out your statutory entitlement. If you’d like support working out your
 anticipated pay and you’re ready to share the news even just with a select few,
-you can speak to the People team for a personal breakdown of your
-entitlement.
+you can speak to the People team for a personal breakdown of your entitlement.
 
 ## If you’re having IVF or another fertility treatment
 
@@ -42,7 +41,7 @@ Summary: In most cases, you will be paid 100% of your normal salary for the
 first 18 weeks of leave, reduced to the government statutory rate per week for
 the following 21 weeks.
 
-### What you are legally entitled to:
+### What you are legally entitled to
 
 If you’re pregnant, you’ll be entitled to Statutory Maternity Leave (SML) and
 probably entitled to Statutory Maternity Pay (SMP). Statutory Maternity Leave
@@ -57,7 +56,7 @@ have worked for dxw for 26 weeks before your
 you will be entitled to
 [Maternity Allowance](https://www.gov.uk/maternity-allowance) instead.
 
-### What dxw offers in addition:
+### What dxw offers in addition
 
 If you are the primary carer, dxw will pay you 100% of your salary for the next
 12 weeks of your leave and will top up your first 6 weeks of SMP (if you are
@@ -96,7 +95,7 @@ Summary: In most cases, you will be paid 100% of your normal salary for the
 first 18 weeks of leave, reduced to the government statutory rate per week for
 the following 21 weeks.
 
-### What you are legally entitled to:
+### What you are legally entitled to
 
 If you are adopting, you’ll probably be eligible for Statutory Adoption Leave
 and Statutory Adoption Pay. Statutory Adoption Leave entitles you to 52 weeks of
@@ -110,7 +109,7 @@ matched with a child and give at least 28 days notice of the adoption leave.
 [Proof of adoption](https://www.gov.uk/adoption-pay-leave/how-to-claim) is
 required to qualify for Statutory Adoption Pay.
 
-### What dxw offers in addition:
+### What dxw offers in addition
 
 If you are the primary carer, dxw will pay you 100% of your salary for the next
 12 weeks of your leave and top up the first 6 weeks of Statutory Adoption Pay
@@ -140,7 +139,7 @@ Summary: In most cases, you will be paid 100% of your normal salary for the
 first 18 weeks of leave, reduced to the government statutory rate per week for
 the following 21 weeks.
 
-### What you are legally entitled to:
+### What you are legally entitled to
 
 If you are having a baby through surrogacy, you’ll probably be eligible for
 Statutory Adoption Leave and Statutory Adoption Pay. Assuming you are entitled
@@ -153,7 +152,7 @@ worked for dxw for at least 26 weeks by the week and advise us by way of a
 [statutory declaration](https://www.gov.uk/adoption-pay-leave/how-to-claim) at
 least 15 weeks before the expected week of birth.
 
-## What dxw offers in addition:
+### What dxw offers in addition
 
 If you are the primary carer, dxw will pay you 100% of your salary for the next
 12 weeks of your leave and top up the first 6 weeks of Statutory Adoption Pay
@@ -183,7 +182,7 @@ leave, and that is the only reason we use the term in this context.
 
 Summary: In most cases, you will be paid 100% of your normal salary for 5 weeks.
 
-### What you are legally entitled to:
+### What you are legally entitled to
 
 If your partner is pregnant, you are adopting, or you are having a baby through
 surrogacy, you’ll probably be eligible for Statutory Paternity Leave (SPL) and
@@ -194,7 +193,7 @@ SPL may be taken for one or two consecutive weeks, between the date of birth and
 56 days afterwards. You can find the
 [current SPP rate here](https://www.gov.uk/paternity-pay-leave/pay).
 
-### What dxw offers in addition:
+### What dxw offers in addition
 
 dxw will instead pay you 100% of your normal salary for 5 weeks of parental
 leave. You may take these consecutively or separately during the first year from
