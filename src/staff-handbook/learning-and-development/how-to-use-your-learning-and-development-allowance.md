@@ -102,4 +102,7 @@ intention of increasing the annual allowance.
 
 ## Buying work-related books
 
-If there's a book relevant to your work that you would like to read, make a request through the #help-purchasing slack channel and the Commercial Operations team will buy it for the library.
+If there's a book relevant to your work that you would like to read, make a
+request through the #help-purchasing slack channel and the Commercial Operations
+team will buy it for you. The cost will be deducted from your learning and
+development budget.
