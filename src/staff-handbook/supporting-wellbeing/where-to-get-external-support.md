@@ -16,58 +16,38 @@ If it is not a medical emergency but you still need urgent help:
 
 ## Crisis & emotional support helplines
 
-**Samaritans (UK)**
+### Samaritans (UK)
 
-Phone: 116 123 (freephone, 24 hours a day, 7 days a week)
+**Phone:** 116 123 (freephone, 24 hours a day, 7 days a week)<br>**Email:** [jo@samaritans.org](mailto:jo@samaritans.org)<br>**Website:** [samaritans.org](https://www.samaritans.org)
 
-Email: [jo@samaritans.org](mailto:jo@samaritans.org)
+### SaneLine (UK)
 
-Website: [www.samaritans.org](https://www.samaritans.org)
-
-**SaneLine (UK)**
-
-Phone: 0300 304 7000 (local call rates, 6pm-11pm, 7 days a week)
-
-Website: <https://www.sane.org.uk/how-we-help/emotional-support/saneline-services>
+**Phone:** 0300 304 7000 (local call rates, 6pm-11pm, 7 days a week)<br>**Website:** [sane.org.uk/how-we-help/emotional-support/saneline-services](https://www.sane.org.uk/how-we-help/emotional-support/saneline-services)
 
 ## Mental health information helplines
 
-**Mind Infoline (England & Wales)**
+### Mind Infoline (England & Wales)
 
-Phone: 0300 123 3393 (local call rates, 9am-6pm, Mon-Fri)
+**Phone:** 0300 123 3393 (local call rates, 9am-6pm, Mon-Fri)<br>**Text:** 86463<br>**Website:** [mind.org.uk](https://www.mind.org.uk)
 
-Text: 86463
+### SAMH (Scotland)
 
-Website: <https://www.mind.org.uk/>
+**Phone:** 0344 800 0550 (not a listening service or suitable for people in crisis, Mon-Fri 09:00– 18:00 call charges apply)  <br>**Website:** [samh.org.uk](https://www.samh.org.uk)
 
-**SAMH (Scotland)**
+### Rethink Advice and Information Service
 
-Phone: 0344 800 0550 (not a listening service or suitable for people in crisis, Mon-Fri 09:00– 18:00 call charges apply)  
-
-Website [www.samh.org.uk](https://www.samh.org.uk/)
-
-**Rethink Advice and Information Service**
-
-Phone: 0300 5000 927 (local call rates, 9.30am-4pm)
+**Phone:** 0300 5000 927 (local call rates, 9.30am-4pm)
 
 ## Finding a therapist
 
-**British Association for Counselling and Psychotherapy Register (UK)**
+### British Association for Counselling and Psychotherapy Register (UK)
 
-Phone: 01455 883300
+**Phone:** 01455 883300<br>**Email:** [bacp@bacp.co.uk](mailto:bacp@bacp.co.uk)<br>**Website:** [bacp.co.uk/about-therapy/information-about-counselling](https://www.bacp.co.uk/about-therapy/information-about-counselling)
 
-Email: [bacp@bacp.co.uk](mailto:bacp@bacp.co.uk)
+### The Black, African and Asian Therapy Network (UK)
 
-Website: <https://www.bacp.co.uk/about-therapy/information-about-counselling/>
+**Email:** [administrator@baatn.org.uk](mailto:administrator@baatn.org.uk)<br>**Website:** [baatn.org.uk/how-therapy-works](https://www.baatn.org.uk/how-therapy-works)
 
-**The Black, African and Asian Therapy Network (UK)**
+### Counselling Directory (UK)
 
-Email: [administrator@baatn.org.uk](mailto:administrator@baatn.org.uk)
-
-Website: <https://www.baatn.org.uk/how-therapy-works/>
-
-**Counselling Directory (UK)**
-
-Phone: 0844 8030 240
-
-Website: [www.counselling-directory.org.uk](https://www.counselling-directory.org.uk)
+**Phone:** 0844 8030 240<br>**Website:** [counselling-directory.org.uk](https://www.counselling-directory.org.uk)
