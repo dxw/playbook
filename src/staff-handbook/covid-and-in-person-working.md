@@ -1,10 +1,14 @@
 ---
 title: Covid and in-person working
 permalink: /:path/:basename/
+related_order: 17
+redirect_from:
+  - /working-here/covid-and-in-person-working
 ---
+
 We need to continuously challenge ourselves to adopt approaches that meet the needs of all employees, wherever we can. The responsibility to act falls to all of us and, as always, this challenge should be demonstrated in a respectful, constructive manner, in line with our values.
 
-We are a remote first organisation but we also understand the immense value of coming together from time-to-time to interact in person and collaborate. 
+We are a remote first organisation but we also understand the immense value of coming together from time-to-time to interact in person and collaborate.
 
 Although it may seem like the pandemic is largely behind us, and for some being able to get out again and into the office has been really positive, this isn’t something that everyone has been able to do. The reality is that it is still very present in our lives and the lives of those we are close to.
 
@@ -21,9 +25,9 @@ Unfortunately, we can’t eliminate the chance of catching Covid and there will 
 
 1. There is no obligation to go into an office or on-site event if there is a risk to your physical or mental health. If you do not feel comfortable meeting up with colleagues in an office environment, just say no. We encourage you to share your needs with your line manager or the People team if it can help us support you in any way.
 
-2. If you are going into the office or attending an in person work event, be empathetic and apply common sense. 
+2. If you are going into the office or attending an in person work event, be empathetic and apply common sense.
 
-   * If you test positive for Covid under no circumstances should  you go into the office. 
+   * If you test positive for Covid under no circumstances should you go into the office.
    * If you have any symptoms of Covid or any other airborne illness we strongly recommend working from home to reduce the risk to others, especially those who may be more vulnerable.
 
 3. At this time, and in line with Government Guidance, we don’t mandate lateral flow tests for employees prior to coming into the office or attending an in person work event. We understand that lateral flow tests are not as accessible now that the risk to the majority of the population is reducing, coupled with the implementation of the vaccination programme. Although we don’t mandate testing we do encourage it, where feasible, to try and protect colleagues who may be more vulnerable. To help with this, we will shortly hold a stock of lateral flow tests in both our London and Leeds offices for employees to access. If you work remotely and would like to order a lateral flow test ahead of travelling to an in person work event, please contact the People team who can support you with this.
@@ -36,7 +40,7 @@ Unfortunately, we can’t eliminate the chance of catching Covid and there will 
 
 7. If you have concerns or questions about any specific circumstances and how they impact you please speak to your line manager or a member of the People team. We can’t promise we can accommodate every situation, every time, but we will listen and try our best to help wherever possible.
 
-We hope that the above information clarifies the current position on our approach to in person working. We will review it regularly to ensure that it is still relevant. 
+We hope that the above information clarifies the current position on our approach to in person working. We will review it regularly to ensure that it is still relevant.
 
 We will never be able to eliminate the chance of catching Covid, but hopefully by following the above principles and additional measures, employees will have a higher level of confidence in attending in-person gatherings.
 

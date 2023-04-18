@@ -1,6 +1,9 @@
 ---
 title: Redundancy policy
 permalink: /:path/:basename/
+related_order: 8
+redirect_from:
+  - /working-here/redundancy-policy
 ---
 
 The coronavirus pandemic has caused us to look at some of our HR policies - or
@@ -40,10 +43,10 @@ situation, everyone in the pool will be treated as being at risk and there will
 be a selection process. We will publish the selection criteria at the time,
 which may include any or all of the following:
 
-- A performance assessment
-- Any disciplinary issues having previously arisen
-- Adaptability to a new role or way of working
-- Attendance record
+- a performance assessment
+- any disciplinary issues having previously arisen
+- adaptability to a new role or way of working
+- attendance record
 
 ## The process we’ll follow if we need to make redundancies
 

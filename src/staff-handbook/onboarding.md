@@ -1,8 +1,8 @@
 ---
-title: What to expect when joining dxw as an employee
+title: Onboarding
 permalink: /:path/:basename/
+related_order: 13
 ---
-## Onboarding
 
 After you’ve accepted a role at dxw a member of our People team will be in touch
 with you to discuss your laptop, our vetting process and to answer any questions
@@ -10,7 +10,7 @@ you may have. On your first day you will receive a welcome Trello which will
 tell you who your line manager and helper are, things to read and welcome notes
 from the team.
 
-## What your first few days will look like
+## What your first few days might look like
 
 Below is a rough outline of what to expect from your first two days at dxw.
 
@@ -27,6 +27,33 @@ Below is a rough outline of what to expect from your first two days at dxw.
 * Helper welcome chat
 * Half-day of self-led training (including any help with software)
 * Employee led tasks from your Trello
+
+## Calendars
+
+We use Google Workspace to manage calendars, write and share documents. There is
+a dxw folder where we share most of the things we write. If you can't see it
+when you log in to Google Drive, you'll need to ask someone else to send you the
+link, and then click "Add to drive".
+
+## Documents
+
+When we write new things, we try to save them in the most relevant folder within the
+existing structure.
+
+## Emails
+
+Please use Helvetica or Arial as the font in your emails.
+
+Here's a suggested format for your email signature:
+
+Name<br> Job Title<br> name@dxw.com<br> Twitter handle - if you’re comfortable
+to share<br> Mobile - if you’re comfortable to share<br>
+
+www.dxw.com :: 0345 2577520 :: @dxw :: creating better digital public services
+
+If you need an out of office message on your email account, follow [Gmail's instructions](https://support.google.com/mail/answer/25922)
+and include the contact details for another member of the team for any urgent
+queries and a return date.
 
 ## Probation
 
@@ -64,17 +91,3 @@ as importantly, for you to get a feel for what it’s like to work at dxw.
 If you join us, you’ll be continuously supported by our People team, a line
 manager and a mentor within the same field. You‘ll have regular check ins with
 the team where you can speak openly about anything that’s on your mind.
-
-## Client facing role
-
-For client-facing roles we’ll start billing your time back to the client when we
-feel the time is right. This will be something we discuss openly during the
-recruitment process and through your regular check ins.
-
-## Internal facing roles
-
-We’re also offering internal facing roles, for example, in our busy commercial
-and marketing teams who also support our sister company, Tradecraft. These roles
-are not billed back to our clients.
-
-If you think this might be for you, please apply through our jobs page.

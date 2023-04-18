@@ -1,9 +1,9 @@
 ---
-title: Learning and development
+title: How to use your learning and development allowance
 permalink: /:path/:basename/
-redirect_from:
-  - /guides/learning-and-development
+related_order: 1
 ---
+
 We have an annual learning and development allowance of £1,000 and up to 4 days
 per person.
 
@@ -21,11 +21,11 @@ and mentoring, learning from colleagues, being an active part of networks, and
 other self-directed learning. We will encourage and support people who want to
 use unbilled days for different types of professional development.
 
-## How to use your learning and development allowance
+## Using your allowance
 
 ### Find an activity to book
 
-Finding the right thing to use the allowance for can be difficult. Here are some
+Finding the right thing to use your learning and development allowance for can be difficult. Here are some
 ways you can find ideas:
 
 * Check the
@@ -65,12 +65,12 @@ ways you can find ideas:
 * Consider writing a standalone bikeshed post giving more details about the
   event and how you found it
 
-### If you need help
+## If you need help
 
 * Contact the People team, or ask a question in Slack
   (#help-learning-and-development-bookings)
 
-### The small print
+## The small print
 
 dxw pays for the event ticket, travel, and accommodation, but you will need to
 cover your own costs for food, drink and supplementary equipment.
@@ -100,39 +100,9 @@ help with prioritisation in those circumstances.
 At the end of each financial year we will review our financial position with the
 intention of increasing the annual allowance.
 
-## Support for professional qualifications
+## Buying work-related books
 
-We may pay for a qualification or training that exceeds the annual £1,000
-individual learning and development allowance, when that course is relevant and
-helpful to both dxw and the individual. This is a benefit that comes into effect
-once you have passed your probationary period.
-
-We will agree to pay on the understanding that if you leave dxw, you may be
-liable to repay some or all of the fees and expenses incurred.
-
-Other than in exceptional circumstances, which will be decided at the Directors’
-discretion, you will be required to repay dxw as follows:
-
-* If you leave dxw before you attend the course, you will repay 100% of the
-  costs that dxw cannot recover from the course provider.
-* If you leave dxw during the course or within 9 months of completing it, you
-  will repay 75% of the costs.
-* If you leave dxw more than 9 months and no more than 12 months after
-  completing the course, you will repay 50% of the costs.
-* If you leave dxw more than 12 months after completing the course, no repayment
-  will be required.
-
-We appreciate that these percentages won’t always work given the length of the
-qualification, and so the final percentage will be at the discretion of the
-Directors and will be agreed with the individual prior to approval of the
-course.
-
-You will not be required to repay any costs in the following circumstances:
-
-* Compulsory or voluntary redundancy
-* Retirement due to sickness
-
-Please complete this
-[form](https://docs.google.com/document/d/1gkK8L345gmmHFjqxduz5hvHyRvejMJd_rVNXQtZLrQE/edit)
-and speak to your line manager or the Head of People if you would like support
-from dxw to complete a professional qualification.
+If there's a book relevant to your work that you would like to read, make a
+request through the #help-purchasing slack channel and the Commercial Operations
+team will buy it for you. The cost will be deducted from your learning and
+development budget.

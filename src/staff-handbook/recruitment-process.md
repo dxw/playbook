@@ -1,10 +1,12 @@
 ---
-title: Hiring new people
+title: Recruitment process
 permalink: /:path/:basename/
+related_order: 15
+redirect_from:
+  - /working-here/hiring-new-people
 ---
-## Process
 
-### Making a plan for hiring
+## Making a plan for hiring
 
 The hiring lead works with the People team to create a plan for hiring using
 [the hiring doc template](https://docs.google.com/document/d/1oN961FE41BWPyrVrPbHCES2D78eB0nbVp7dxZzHkMb8/edit).
@@ -16,7 +18,7 @@ This includes planning for each stage of recruitment by doing the following;
 * work out who will be part of the hiring team and try to make sure that
   interview panels are diverse
 
-### Writing a job description
+## Writing a job description
 
 Before deciding to advertise a new job, we try to write an inclusive job
 description. The hiring lead will work with heads of professions, the hiring
@@ -34,7 +36,7 @@ review.
 We then publish the job advert on
 [our careers page](https://www.dxw.com/careers/).
 
-### Finding people
+## Finding people
 
 We sometimes find people through our networks, and share our jobs on Twitter and
 LinkedIn.
@@ -52,7 +54,7 @@ We typically don’t use recruiters.
 
 We always welcome general applications if there’s not an open vacancy.
 
-### Reviewing applications
+## Reviewing applications
 
 The hiring lead and the hiring team review applications to decide who to take
 forward.
@@ -62,13 +64,13 @@ decide whether to take them to the next stage.
 
 We always inform candidates if they are not being taken to the next stage.
 
-### Sifting questions
+## Sifting questions
 
 All candidates are required to answer sifting questions as part of their
 application. These questions are written by the hiring team and are a chance for
 candidates to explain their skillset by answering role specific questions.
 
-### Interviewing
+## Interviewing
 
 Interviews are an hour long with two members of the team. Candidates have a
 choice of Google Meet or Zoom as their platform to interview on.
@@ -91,17 +93,17 @@ stage.
 If a candidate is not being taken to the next stage, we will provide detailed
 feedback from the interview.
 
-### Simulating a work day \[some roles only]
+## Simulating a work day
 
-A simulated work day is a 2-3 hour activity based on a real world problem or
+A work sim (simulated work day) is a 2-3 hour activity based on a real world problem or
 task. We use this to make sure that a candidate is capable of taking on a role.
 We also find out about how a candidate approaches their work. It also gives the
 candidate the chance to meet more people they would be working with and to
 understand more about the role, how we work, and the expectations of the job
 itself.
 
-The activity itself will be variable dependent on role - for technical roles,
-this might involve pairing with one of our developers, or for delivery roles,
+Whether or not you're asked do a work sim, and the kind of activity you'll do, depends on the role you applied for. For technical roles,
+this might involve pairing with one of our developers, and for delivery roles,
 running a planning session for a team. The activity will always involve working
 in conjunction with someone in a similar role to the one the candidate is
 applying for.
@@ -118,7 +120,7 @@ After all work days are completed, the hiring team will meet. For candidates who
 have not been successful, we will provide detailed feedback from the interview
 and work day.
 
-### Offering the job
+## Making a job offer
 
 When we are ready to offer a job, the People team will call and email the
 candidate with the details of the offer, including salary and a proposed start

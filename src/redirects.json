@@ -7,6 +7,18 @@
       {
         "from": "/#user-research",
         "to": "/user-research/"
+      },
+      {
+        "from": "/staff-handbook/leave/sick-leave/",
+        "to": "/staff-handbook/policies-and-procedures/sickness-policy"
+      },
+      {
+        "from": "/staff-handbook/leave/parental-leave/",
+        "to": "/staff-handbook/policies-and-procedures/parental-leave-policy"
+      },
+      {
+        "from": "/staff-handbook/pay-pension-and-benefits/pay/",
+        "to": "/staff-handbook/policies-and-procedures/pay-policy"
       }
   ]
 }

@@ -1,9 +1,12 @@
 ---
 title: Laptop purchasing policy
 permalink: /:path/:basename/
+related_order: 7
 redirect_from:
   - /guides/laptop-purchasing-policy
+  - /working-here/laptop-purchasing-policy
 ---
+
 This policy has been created to assist employees who are buying dxw-owned
 laptops. Please note there is no obligation to buy your laptop upon leaving dxw
 or getting a laptop refresh.
@@ -14,9 +17,9 @@ dxw is able to make employee-assigned laptops available to buy if you are
 leaving us or if you are eligible for a refresh. For a machine to be eligible to
 buy it must meet the following criteria:
 
-* The machine must be more than two years old, or being refreshed
-* You must have successfully completed your probationary period
-* You must sign a waiver to confirm you accept the machine in its current
+* the machine must be more than 2 years old, or being refreshed
+* you must have successfully completed your probationary period
+* you must sign a waiver to confirm you accept the machine in its current
   condition
 
 ## What is the process for buying laptops?
@@ -34,12 +37,12 @@ being wiped.
 
 We calculate the price of your laptop in the following way:
 
-* A member of the tech-ops team will factor in the age, specification, and
+* a member of the tech-ops team will factor in the age, specification, and
   condition of your machine and compare it with the equivalent selling price on
   an online site
-* The price of the previous 5 machines sold on an online site will be considered
+* the price of the previous 5 machines sold on an online site will be considered
   and the mean price will be calculated
-* A 20% employee discount is then applied
+* a 20% employee discount is then applied
 
 ## Warranty and terms of purchase
 
@@ -50,7 +53,7 @@ assume ownership, any warranties or insurance dxw may hold for the laptop will
 expire. dxw will not be responsible for any faults or damage that either exist
 or go on to develop after you buy the laptop.
 
-# Who do I speak to for more information?
+## Who do I speak to for more information?
 
 If you have any further questions around this policy or if you need help with a
 specific query, please speak to a member of the commercial operations team who
