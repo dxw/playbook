@@ -61,19 +61,55 @@ collections:
       - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown, required: true }
 
-  - name: working-here
-    label: Working here
-    label_singular: Working here page
-    folder: src/working-here
+  - name: staff-handbook
+    label: Staff handbook
+    label_singular: Staff handbook page
+    folder: src/staff-handbook
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
       - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
       - { label: Body, name: body, widget: markdown, required: true }
-  - name: working-here__getting-things-you-need
-    label: Working here > Getting things you need
-    label_singular: Getting things you need page
-    folder: src/working-here/getting-things-you-need
+  - name: staff-handbook__learning-and-development
+    label: Staff handbook > Learning and development
+    label_singular: Learning and development page
+    folder: src/staff-handbook/learning-and-development
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+  - name: staff-handbook__leave
+    label: Staff handbook > Leave
+    label_singular: Leave page
+    folder: src/staff-handbook/leave
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+  - name: staff-handbook__pay-pension-and-benefits
+    label: Staff handbook > Pay, pension and benefits
+    label_singular: Pay, pension and benefits page
+    folder: src/staff-handbook/pay-pension-and-benefits
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+  - name: staff-handbook__policies-and-procedures
+    label: Staff handbook > Policies and procedures
+    label_singular: Policies and procedures page
+    folder: src/staff-handbook/policies-and-procedures
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string, required: true }
+      - { label: Permalink, name: permalink, widget: hidden, default: /:path/:basename/ }
+      - { label: Body, name: body, widget: markdown, required: true }
+  - name: staff-handbook__supporting-wellbeing
+    label: Staff handbook > Supporting wellbeing
+    label_singular: Supporting wellbeing page
+    folder: src/staff-handbook/supporting-wellbeing
     create: true
     fields:
       - { label: Title, name: title, widget: string, required: true }
