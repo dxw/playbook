@@ -50,4 +50,4 @@ The standards listed above, in other words, should be treated as sensible defaul
 
 Note that it will often be possible to support both specialised needs and data standardisation through the creation of consistent data mappings from one to the other. For instance, in the age-banding example given above, care could be taken to ensure that the more-specific groupings needed by the EYFS application fall within the boundaries of one or more of the less-granular standards.
 
-Of course, there will be cases where data collection practices are so customised or specific to a particular domain that no standardisation is possible or desirable. For most use-cases, however, the data standards listed above are likely to be applicable as written or can be mapped to.
+Of course, there will be cases where data collection practices are so customised or specific to a particular domain that no standardisation is possible or desirable. For most use-cases, however, the data standards listed above are likely to be applicable directly as written or as targets for data-mapping.
