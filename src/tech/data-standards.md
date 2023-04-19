@@ -20,7 +20,7 @@ Choosing and/or finding a relevant data standard can be difficult. As the old jo
 
 ### Mandated standards
 
-For some well-defined areas, the UK government mandates the use of [particular standards](https://www.gov.uk/government/publications/open-standards-for-government). These are all widely used and well-tested and are suitable for use on almost any project, whether for governmental or other organisations.
+For some well-defined areas, the UK Government mandates the use of [particular standards](https://www.gov.uk/government/publications/open-standards-for-government). These are all widely used and well-tested and are suitable for use on almost any project, whether for governmental or other organisations.
 
 ### Recommended standards
 
@@ -38,10 +38,16 @@ These [GSS harmonised standards and their accompanying guidance](https://analysi
 
 The Data Standards Authority reviews standards and controlled vocabularies for use by central government. The Authority maintains a [list of standards](https://alphagov.github.io/data-standards-authority/standards/) they consider valuable for UK government use. These should be applied where relevant.
 
-## When not to use standards
+## When not to use data standards
 
-All standards mandated or recommended by the UK Government have been extensively tested and their value proven 'in the wild'. Under most circumstances, then, their use provides an easy and effective means of improving data collection for our clients.
+All standards mandated or recommended by the UK Government have been extensively tested and their value proven 'in the wild'. In the most commonly-encountered scenarios, then, their use provides an easy and effective means of improving data collection for our clients.
 
-Some services and applications, however, will have specialised or unique requirements unsuitable for standardisation. For instance, standard age-bandings may not be useful to a service focused on Early Years Foundation Stage education; here, finer-grained measures will probably be needed. Be sure to consult with relevant stakeholders before implementing a standard to confirm that it does in fact meet their needs. Even in cases where a standard as defined cannot be directly applied, it will often be possible to create data structures that can be mapped to it without information loss; for instance, in the age-banding example given above, care could be taken to ensure that the more-specific groupings defined fall within the boundaries of one of the less-granular standards.
+Specialised services and applications, however, will often define their own domain-specific data standards, or need to support unique requirements unsuitable for standardisation. For instance, standard age-bandings may not be useful to a service focused on Early Years Foundation Stage (EYFS) education. Here, finer-grained bands are likely to be required.
 
-In some cases, needs will be so bespoke that no standard can be applied. However, for most use-cases the data standards listed above are likely to be applicable as written.
+The standards listed above, in other words, should be treated as sensible defaults, not universal solutions. Be sure to consult with relevant stakeholders before implementing a standard to confirm that it does in fact meet their needs.
+
+### Mapping to existing standards
+
+Note that it will often be possible to support both specialised needs and data standardisation through the creation of consistent data mappings from one to the other. For instance, in the age-banding example given above, care could be taken to ensure that the more-specific groupings needed by the EYFS application fall within the boundaries of one or more of the less-granular standards.
+
+Of course, there will be cases where data collection practices are so customised or specific to a particular domain that no standardisation is possible or desirable. For most use-cases, however, the data standards listed above are likely to be applicable as written or can be mapped to.
