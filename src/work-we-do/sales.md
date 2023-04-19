@@ -84,8 +84,8 @@ consider:
 - **Culture**
 
   We can work together with the client, the users and other stakeholders in ways
-  that support our [values](/who-we-are/#our-values) and
-  [principles](/who-we-are/#our-principles).
+  that support our [values](/about-us/our-mission-values-and-principles/#our-values) and
+  [principles](/about-us/our-mission-values-and-principles/#our-principles).
 
 ## Matching people to projects
 
@@ -138,8 +138,8 @@ By the end of this meeting, we should make sure that we understand:
 This meeting usually involves quite a bit of discussion about the project. In
 those discussions, we speak freely and openly, offering advice where appropriate
 and making any suggestions we might have. We always try to be as
-[helpful](/who-we-are/#helpful), [positive](/who-we-are/#positive) and
-[creative](/who-we-are/#curious) as we can.
+[helpful](/about-us/our-mission-values-and-principles/#helpful), [positive](/about-us/our-mission-values-and-principles/#positive) and
+[creative](/about-us/our-mission-values-and-principles/#curious) as we can.
 
 It's important that we use this meeting to find out the information that we need
 to write a good proposal. But it's just as important to prove our expertise, to

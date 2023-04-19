@@ -88,7 +88,7 @@ For example, 35 hours in 4 days, from 09:30 to 18:45.
 
 We are happy to discuss compressed hours for all roles but cannot guarantee this
 will always be an option. Arrangements must be
-[sustainable](/who-we-are/#work-at-a-sustainable-pace) for your wellbeing and
+[sustainable](/about-us/our-mission-values-and-principles/#work-at-a-sustainable-pace) for your wellbeing and
 productivity and the needs of the role.
 
 For working patterns with an equal number of hours every day, holiday allowance

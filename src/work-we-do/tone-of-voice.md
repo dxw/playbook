@@ -34,7 +34,7 @@ your writing. But remember it’s just a guide.
 
 ## Overall tone of voice
 
-Our [values](/who-we-are/#our-values) should guide how we do things, and how we 
+Our [values](/about-us/our-mission-values-and-principles/#our-values) should guide how we do things, and how we
 communicate. So our writing should show dxw as:
 
 * helpful - we explain our work openly and clearly

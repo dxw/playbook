@@ -22,7 +22,7 @@ These are the things that user researchers usually do on projects, and the relev
 
    Researchers take part in project inception. We work with our team to clarify project goals and outcomes, review and make sense of existing evidence, understand what we need to learn through our research, and consider who will need to participate.
 
-   This helps teams to [start with people and their needs](/who-we-are/#start-with-people-and-their-needs).
+   This helps teams to [start with people and their needs](/about-us/our-mission-values-and-principles/#start-with-people-and-their-needs).
 
    [Setting up a project](/delivery-management/setting-up-a-new-project/) \
    [Creating and using research plans](/user-research/creating-and-using-research-plans/)
@@ -52,7 +52,7 @@ These are the things that user researchers usually do on projects, and the relev
 
    This is the most obvious and visible part of our work. We carefully prepare, schedule and carry out effective research activities. We give all our colleagues regular opportunities to take part in research. And we record what we do and how we do it, for each other, and for those who come after us.
 
-   This helps teams to embed regular research into their [agile practices](/who-we-are/#keep-an-agile-mindset).
+   This helps teams to embed regular research into their [agile practices](/about-us/our-mission-values-and-principles/#keep-an-agile-mindset).
 
    [Choosing and using research methods](/user-research/choosing-and-using-research-methods/) \
    [Writing and using discussion guides](/user-research/writing-and-using-discussion-guides/) \
