@@ -2,6 +2,7 @@
 title: Show and tells
 redirect_from:
   - /guides/show-and-tells
+last_reviewed_at: ""
 ---
 ## What are they?
 

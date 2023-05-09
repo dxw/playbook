@@ -3,6 +3,7 @@ title: Data protection and confidentiality
 related_order: 16
 redirect_from:
   - /working-here/data-protection-and-confidentiality
+last_reviewed_at: ""
 ---
 
 Though dxw doesn't control much personal data, our clients generally do. And

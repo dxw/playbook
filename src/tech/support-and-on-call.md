@@ -2,6 +2,7 @@
 title: Support and on call
 redirect_from:
   - /guides/support-and-on-call
+last_reviewed_at: ""
 ---
 We have agreed service levels for each client we provide support for. Our
 standard terms, including prioritisation definitions and response times, are

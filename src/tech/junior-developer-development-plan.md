@@ -2,6 +2,7 @@
 title: Junior developer development plan
 redirect_from:
   - /guides/junior-developer-development-plan
+last_reviewed_at: ""
 ---
 ## High level goals
 

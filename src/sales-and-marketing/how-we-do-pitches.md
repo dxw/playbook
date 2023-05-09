@@ -2,6 +2,7 @@
 title: How we do pitches
 redirect_from:
   - /guides/how-we-do-pitches
+last_reviewed_at: ""
 ---
 Pitching is an opportunity to demonstrate our expertise, showcase our work and
 demonstrate our values. Sometimes, we have plenty of notice and time to prepare,

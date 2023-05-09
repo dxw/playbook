@@ -2,6 +2,7 @@
 title: Daily standups
 redirect_from:
   - /guides/daily-standups
+last_reviewed_at: ""
 ---
 ## What are they?
 

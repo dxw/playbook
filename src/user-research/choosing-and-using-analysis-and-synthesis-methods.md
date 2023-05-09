@@ -1,6 +1,7 @@
 ---
 title: Choosing and using analysis and synthesis methods
 related_order: 220
+last_reviewed_at: ""
 ---
 Our second research principle is to [find the truth, and tell the truth](https://playbook.dxw.com/user-research/#user-research-principles). And getting to that truth depends on the strength of our analysis of research data and synthesis to produce findings.
 

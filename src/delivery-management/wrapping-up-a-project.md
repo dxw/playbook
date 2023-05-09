@@ -2,6 +2,7 @@
 title: Wrapping up a project
 redirect_from:
   - /guides/wrapping-up-a-project
+last_reviewed_at: ""
 ---
 ## Why is this important?
 

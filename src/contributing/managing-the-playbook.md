@@ -2,6 +2,7 @@
 title: Managing the Playbook
 redirect_from:
   - /guides/managing
+last_reviewed_at: ""
 ---
 **Needs review**
 

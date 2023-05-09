@@ -16,6 +16,7 @@ defaults:
     values:
       layout: default
       related_order: 9999
+      last_reviewed_at: ""
   - scope: 
       path: "admin/"
     values: 

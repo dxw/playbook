@@ -1,6 +1,7 @@
 ---
 title: Creating and using research plans
 related_order: 60
+last_reviewed_at: ""
 ---
 ## Planning research activities
 

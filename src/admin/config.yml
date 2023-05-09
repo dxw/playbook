@@ -24,6 +24,7 @@ collection_defaults: &collection_defaults
   create: true
   fields:
     - { label: Title, name: title, widget: string, required: true }
+    - { label: "Last reviewed", name: last_reviewed_at, widget: datetime, required: false, default: "" }
     - { label: Body, name: body, widget: markdown, required: true }
 collections:
   - name: home

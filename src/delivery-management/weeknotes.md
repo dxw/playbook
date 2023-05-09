@@ -2,6 +2,7 @@
 title: Project weeknotes
 redirect_from:
   - /guides/week-notes
+last_reviewed_at: ""
 ---
 ## What are weeknotes?
 

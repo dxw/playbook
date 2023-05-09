@@ -1,6 +1,7 @@
 ---
 title: Doing research safely
 related_order: 80
+last_reviewed_at: ""
 ---
 When [planning research activities](/user-research/creating-and-using-research-plans/), you must consider the safety and wellbeing of participants, colleagues, researchers and others.
 

@@ -1,6 +1,7 @@
 ---
 title: Holiday
 related_order: 1
+last_reviewed_at: ""
 ---
 
 We offer 25 days of annual leave plus bank holidays each calendar year. If you are working part-time or on a fixed-term contract, the amount of holiday you are entitled to will be pro-rated.

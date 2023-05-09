@@ -4,6 +4,7 @@ related_order: 7
 redirect_from:
   - /guides/laptop-purchasing-policy
   - /working-here/laptop-purchasing-policy
+last_reviewed_at: ""
 ---
 
 This policy has been created to assist employees who are buying dxw-owned

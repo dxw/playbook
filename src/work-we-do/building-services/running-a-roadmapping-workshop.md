@@ -2,6 +2,7 @@
 title: Running a roadmapping workshop
 redirect_from:
   - /guides/running-a-roadmapping-workshop
+last_reviewed_at: ""
 ---
 For an alpha or beta, or for a significant update to a live service, we run an
 initial roadmapping workshop during inception.

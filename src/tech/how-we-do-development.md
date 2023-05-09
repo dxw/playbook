@@ -2,6 +2,7 @@
 title: How we do development
 redirect_from:
   - /guides/how-we-do-development
+last_reviewed_at: ""
 ---
 ## Follow our principles
 

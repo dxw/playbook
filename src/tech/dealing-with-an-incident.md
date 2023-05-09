@@ -2,6 +2,7 @@
 title: Dealing with an incident
 redirect_from:
   - /guides/dealing-with-an-incident
+last_reviewed_at: ""
 ---
 ## Introduction
 
