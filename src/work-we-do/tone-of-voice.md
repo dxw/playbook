@@ -1,6 +1,5 @@
 ---
 title: Tone of voice
-permalink: /:path/:basename/
 redirect_from:
   - /guides/tone-of-voice
 ---

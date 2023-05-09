@@ -1,6 +1,5 @@
 ---
 title: Creating and using research plans
-permalink: /:path/:basename/
 related_order: 60
 ---
 ## Planning research activities

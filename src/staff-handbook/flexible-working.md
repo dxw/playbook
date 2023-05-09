@@ -1,6 +1,5 @@
 ---
 title: Flexible working
-permalink: /:path/:basename/
 related_order: 4
 ---
 

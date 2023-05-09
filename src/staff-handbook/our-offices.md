@@ -1,6 +1,5 @@
 ---
 title: Our offices
-permalink: /:path/:basename/
 related_order: 6
 redirect_from:
   - /guides/office-accessibility

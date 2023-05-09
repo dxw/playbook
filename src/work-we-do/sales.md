@@ -1,6 +1,5 @@
 ---
 title: Sales
-permalink: /:path/:basename/
 related_order: 0
 ---
 

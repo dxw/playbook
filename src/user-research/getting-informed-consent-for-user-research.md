@@ -1,6 +1,5 @@
 ---
 title: Getting informed consent for user research
-permalink: /:path/:basename/
 related_order: 140
 ---
 You must have informed consent from participants before you start any research activity with them. And you must then act only within the consent the participant has given.

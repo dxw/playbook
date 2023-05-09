@@ -1,6 +1,5 @@
 ---
 title: Running a discovery kick-off workshop
-permalink: /:path/:basename/
 redirect_from:
   - /guides/running-a-discover-kick-off-workshop
 ---

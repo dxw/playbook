@@ -1,6 +1,5 @@
 ---
 title: dxw Time
-permalink: /:path/:basename/
 related_order: 10
 ---
 

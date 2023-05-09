@@ -1,6 +1,5 @@
 ---
 title: Running a roadmapping workshop
-permalink: /:path/:basename/
 redirect_from:
   - /guides/running-a-roadmapping-workshop
 ---

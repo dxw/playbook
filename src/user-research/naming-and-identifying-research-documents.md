@@ -1,6 +1,5 @@
 ---
 title: Naming and identifying research documents
-permalink: /:path/:basename/
 related_order: 40
 ---
 It’s important that team members and stakeholders know they have the right

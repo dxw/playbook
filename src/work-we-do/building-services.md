@@ -1,6 +1,5 @@
 ---
 title: Building services
-permalink: /:path/:basename/
 related_order: 1
 ---
 

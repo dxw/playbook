@@ -1,6 +1,5 @@
 ---
 title: How we do pitches
-permalink: /:path/:basename/
 redirect_from:
   - /guides/how-we-do-pitches
 ---

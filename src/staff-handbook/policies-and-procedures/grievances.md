@@ -1,6 +1,5 @@
 ---
 title: Grievances
-permalink: /:path/:basename/
 ---
 
 If you have a grievance about your employment or a complaint about another

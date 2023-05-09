@@ -1,6 +1,5 @@
 ---
 title: Project weeknotes
-permalink: /:path/:basename/
 redirect_from:
   - /guides/week-notes
 ---

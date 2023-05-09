@@ -1,6 +1,5 @@
 ---
 title: Technology team promotion process
-permalink: /:path/:basename/
 redirect_from:
   - /guides/tech-team-promotion-process
 ---

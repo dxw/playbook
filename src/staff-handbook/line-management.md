@@ -1,6 +1,5 @@
 ---
 title: Line management
-permalink: /:path/:basename/
 related_order: 11
 ---
 

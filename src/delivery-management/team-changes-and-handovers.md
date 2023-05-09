@@ -1,6 +1,5 @@
 ---
 title: Team changes and handovers
-permalink: /:path/:basename/
 redirect_from:
   - /guides/team-changes-and-handovers
 ---

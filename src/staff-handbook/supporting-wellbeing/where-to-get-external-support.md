@@ -1,6 +1,5 @@
 ---
 title: Where to get external support
-permalink: /:path/:basename/
 related_order: 2
 ---
 

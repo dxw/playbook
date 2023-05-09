@@ -1,6 +1,5 @@
 ---
 title: Claiming expenses
-permalink: /:path/:basename/
 related_order: 7
 redirect_from:
   - /guides/claiming-expenses

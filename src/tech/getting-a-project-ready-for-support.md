@@ -1,6 +1,5 @@
 ---
 title: Getting a project ready for support
-permalink: /:path/:basename/
 redirect_from:
   - /guides/getting-a-project-ready-for-support
 ---

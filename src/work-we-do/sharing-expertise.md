@@ -1,6 +1,5 @@
 ---
 title: Sharing our expertise
-permalink: /:path/:basename/
 related_order: 3
 ---
 

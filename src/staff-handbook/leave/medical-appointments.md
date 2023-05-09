@@ -1,6 +1,5 @@
 ---
 title: Medical appointments
-permalink: /:path/:basename/
 related_order: 8 
 ---
 

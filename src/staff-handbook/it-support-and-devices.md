@@ -1,6 +1,5 @@
 ---
 title: IT support and devices
-permalink: /:path/:basename/
 related_order: 8
 redirect_from:
   - /working-here/use-of-technology-at-work

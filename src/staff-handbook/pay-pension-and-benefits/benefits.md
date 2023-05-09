@@ -1,6 +1,5 @@
 ---
 title: Benefits
-permalink: /:path/:basename/
 related_order: 3
 ---
 

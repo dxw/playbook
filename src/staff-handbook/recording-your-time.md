@@ -1,6 +1,5 @@
 ---
 title: Recording your time
-permalink: /:path/:basename/
 related_order: 14
 redirect_from:
   - /working-here/recording-your-time

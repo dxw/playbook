@@ -1,6 +1,5 @@
 ---
 title: Support and on call
-permalink: /:path/:basename/
 redirect_from:
   - /guides/support-and-on-call
 ---

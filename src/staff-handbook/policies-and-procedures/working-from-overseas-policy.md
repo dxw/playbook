@@ -1,6 +1,5 @@
 ---
 title: Working from overseas policy
-permalink: /:path/:basename/
 related_order: 6
 --- 
 

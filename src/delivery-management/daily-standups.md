@@ -1,6 +1,5 @@
 ---
 title: Daily standups
-permalink: /:path/:basename/
 redirect_from:
   - /guides/daily-standups
 ---

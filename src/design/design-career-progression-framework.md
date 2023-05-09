@@ -1,6 +1,5 @@
 ---
 title: Design career progression framework
-permalink: /:path/:basename/
 redirect_from:
   - /guides/design-career-progression-framework
 ---

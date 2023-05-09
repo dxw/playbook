@@ -21,6 +21,7 @@ defaults:
     values: 
       sitemap: false
 url: "https://playbook.dxw.com"
+permalink: /:title/
 
 # Build settings
 source: src

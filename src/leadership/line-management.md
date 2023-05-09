@@ -1,6 +1,5 @@
 ---
 title: Guides for line managers
-permalink: /:path/:basename/
 redirect_from:
   - /guides/line-management-guides
 ---

@@ -1,6 +1,5 @@
 ---
 title: Pension
-permalink: /:path/:basename/
 related_order: 2
 ---
 

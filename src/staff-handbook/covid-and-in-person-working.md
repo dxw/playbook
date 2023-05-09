@@ -1,6 +1,5 @@
 ---
 title: Covid and in-person working
-permalink: /:path/:basename/
 related_order: 17
 redirect_from:
   - /working-here/covid-and-in-person-working

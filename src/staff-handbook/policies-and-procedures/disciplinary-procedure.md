@@ -1,6 +1,5 @@
 ---
 title: Disciplinary procedure
-permalink: /:path/:basename/
 ---
 
 ## The process

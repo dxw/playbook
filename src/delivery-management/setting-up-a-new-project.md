@@ -1,6 +1,5 @@
 ---
 title: Setting up a new project
-permalink: /:path/:basename/
 redirect_from:
   - /guides/setting-up-a-new-project
 ---

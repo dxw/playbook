@@ -1,6 +1,5 @@
 ---
 title: Agile delivery phases
-permalink: /:path/:basename/
 redirect_from:
   - /guides/agile-delivery-phases
 ---

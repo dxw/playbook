@@ -1,6 +1,5 @@
 ---
 title: Delegated authorities
-permalink: /:path/:basename/
 ---
 
 Each year, the Trustees and the Exec Board agree a set of targets (and a floor)

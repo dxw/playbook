@@ -1,6 +1,5 @@
 ---
 title: Data protection and confidentiality
-permalink: /:path/:basename/
 related_order: 16
 redirect_from:
   - /working-here/data-protection-and-confidentiality

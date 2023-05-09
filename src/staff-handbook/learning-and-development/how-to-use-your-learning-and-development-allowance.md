@@ -1,6 +1,5 @@
 ---
 title: How to use your learning and development allowance
-permalink: /:path/:basename/
 related_order: 1
 ---
 

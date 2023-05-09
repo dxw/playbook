@@ -1,6 +1,5 @@
 ---
 title: Support for professional qualifications
-permalink: /:path/:basename/
 related_order: 2
 ---
 

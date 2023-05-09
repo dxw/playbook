@@ -1,6 +1,5 @@
 ---
 title: Getting support internally
-permalink: /:path/:basename/
 related_order: 1
 --- 
 

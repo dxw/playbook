@@ -1,6 +1,5 @@
 ---
 title: Web accessibility
-permalink: /:path/:basename/
 redirect_from:
   - /guides/web-accessibility
 ---

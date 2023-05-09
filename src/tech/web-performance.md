@@ -1,6 +1,5 @@
 ---
 title: Web performance
-permalink: /:path/:basename/
 redirect_from:
   - /guides/web-performance
 ---

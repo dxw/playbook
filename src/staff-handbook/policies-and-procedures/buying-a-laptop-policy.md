@@ -1,6 +1,5 @@
 ---
 title: Laptop purchasing policy
-permalink: /:path/:basename/
 related_order: 7
 redirect_from:
   - /guides/laptop-purchasing-policy

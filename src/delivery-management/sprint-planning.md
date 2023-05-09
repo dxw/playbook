@@ -1,6 +1,5 @@
 ---
 title: Sprint planning
-permalink: /:path/:basename/
 redirect_from:
   - /guides/sprint-planning
 ---

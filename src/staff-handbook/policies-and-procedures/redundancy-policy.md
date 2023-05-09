@@ -1,6 +1,5 @@
 ---
 title: Redundancy policy
-permalink: /:path/:basename/
 related_order: 8
 redirect_from:
   - /working-here/redundancy-policy

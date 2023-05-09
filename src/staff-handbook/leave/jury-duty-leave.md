@@ -1,6 +1,5 @@
 ---
 title: Jury duty leave
-permalink: /:path/:basename/
 related_order: 5
 ---
 

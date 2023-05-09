@@ -1,6 +1,5 @@
 ---
 title: Parental leave
-permalink: /:path/:basename/
 related_order: 5
 ---
 

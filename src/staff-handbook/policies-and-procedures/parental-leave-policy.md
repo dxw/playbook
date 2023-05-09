@@ -1,6 +1,5 @@
 ---
 title: Parental leave policy
-permalink: /:path/:basename/
 related_order: 4
 --- 
 

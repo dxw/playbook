@@ -1,6 +1,5 @@
 ---
 title: Wrapping up a project
-permalink: /:path/:basename/
 redirect_from:
   - /guides/wrapping-up-a-project
 ---

@@ -1,6 +1,5 @@
 ---
 title: Web analytics
-permalink: /:path/:basename/
 redirect_from:
   - /guides/web-analytics
 ---
