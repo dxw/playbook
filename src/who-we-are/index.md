@@ -142,9 +142,9 @@ However, there are some things that we must keep private.
   confidential.
 * We also hold some personal data about and/or on behalf of our clients. We
   never share any of this data, including contact details. See also:
-  [data protection](/working-here/data-protection-and-confidentiality/).
+  [data protection](/staff-handbook/data-protection-and-confidentiality/).
 * We are sometimes sent documents that are
-  [protectively marked](/working-here/data-protection-and-confidentiality/#protective-marking-scheme),
+  [protectively marked](/staff-handbook/data-protection-and-confidentiality/#protective-marking-scheme),
   and we have a scheme of our own. Information in these documents is
   confidential.
 * Information about work that is currently being procured (whether we are
@@ -199,7 +199,7 @@ We’re committed to being transparent with our diversity information and
 regularly assessing the impact of all our policies and practices.
 
 Our approach is set out in our
-[Inclusion, diversity and equal opportunities policy](/working-here/inclusion-diversity-equality/).
+[Inclusion, diversity and equal opportunities policy](/staff-handbook/policies-and-procedures/inclusion-diversity-equality/).
 
 Thank you for being you - it makes us better.
 

@@ -105,7 +105,7 @@ If you need further support, in addition to any support we are able to provide y
 
 ## Recruitment and selection
 
-[Recruitment](/working-here/hiring-new-people/), promotion, and other selection exercises will be carried out on the basis of merit and against objective criteria
+[Recruitment](/staff-handbook/recruitment-process/), promotion, and other selection exercises will be carried out on the basis of merit and against objective criteria
 that aim to avoid discrimination. Shortlisting should be done by more than one
 person and with the involvement of the commercial operations team. Our
 recruitment procedures must be reviewed at least annually including the
@@ -164,7 +164,7 @@ avoid discrimination and improve equality and diversity.
 
 Training needs will be identified through regular conversations between line
 managers and their reports. All employees will be given appropriate
-[access to training](/learning-and-development/) to enable them to progress
+[access to training](/staff-handbook/learning-and-development/) to enable them to progress
 within the organisation. If training needs are identified then your Line Manager
 will work out the best to pay for this. This may be part of your Learning and
 Development, or something you, dxw or a third party pay for.
@@ -180,7 +180,7 @@ obstacles to accessing them.
 
 ## Termination of employment
 
-We will ensure that [redundancy criteria and procedures](/working-here/redundancy-policy/) are fair and objective
+We will ensure that [redundancy criteria and procedures](/staff-handbook/policies-and-procedures/redundancy-policy/) are fair and objective
 and are not directly or indirectly discriminatory. Demonstrated through
 independent consultation, sharing criteria openly and demonstrating our
 workings.
