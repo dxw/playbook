@@ -156,6 +156,6 @@ There are a number of ways we can create the codes. We can start with a set of p
 * [How to Analyze Qualitative Data from UX Research: Thematic Analysis](https://www.nngroup.com/articles/thematic-analysis/)
 * [Qualitative data coding 101 at Grad Coach](https://gradcoach.com/qualitative-data-coding-101/)
 * [An Introduction to Codes and Coding by Saldana (book chapter)](https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf)
-* [Ground Theory: A practical guide by Birks and Mills](https://us.sagepub.com/en-us/nam/grounded-theory/book2431770)
+* [Grounded Theory: A Practical Guide by Birks and Mills](https://uk.sagepub.com/en-gb/eur/grounded-theory/book243177)
 * [Qualitative Data Analysis: A Methods Sourcebook by Miles, Huberman and Saldana](https://us.sagepub.com/en-us/nam/qualitative-data-analysis/book246128)
 (quite expensive new, but can often get cheaper second hand copies)

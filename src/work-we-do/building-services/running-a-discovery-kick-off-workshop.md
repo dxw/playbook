@@ -15,7 +15,7 @@ be, and whether we’re looking at a single service or cutting across several. S
 we use a broader set of questions.
 
 These are based on the
-[questions to frame a problem](https://www.hollidazed.co.uk/2015/07/28/frame-the-problem)
+[questions to frame a problem](https://benholliday.com/2015/07/28/frame-the-problem)
 that [Ben Holiday](https://twitter.com/BenHolliday) wrote about, the
 [discovery inception categories](https://www.myddelton.co.uk/blog/setting-up-a-discovery)
 that [Will Myddelton](https://twitter.com/myddelton) described, along with some
