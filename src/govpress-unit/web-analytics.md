@@ -1,8 +1,8 @@
 ---
 title: Web analytics
-permalink: /:path/:basename/
 redirect_from:
   - /guides/web-analytics
+last_reviewed_at: ""
 ---
 We use Google Analytics on most of our sites. It's free
 ([within limits](https://support.google.com/analytics/answer/1070983?hl=en)),

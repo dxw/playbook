@@ -16,11 +16,13 @@ defaults:
     values:
       layout: default
       related_order: 9999
+      last_reviewed_at: ""
   - scope: 
       path: "admin/"
     values: 
       sitemap: false
 url: "https://playbook.dxw.com"
+permalink: /:title/
 
 # Build settings
 source: src
@@ -29,5 +31,6 @@ sass:
     - ../node_modules/*
 
 plugins:
+  - jekyll-last-modified-at
   - jekyll-redirect-from
   - jekyll-sitemap

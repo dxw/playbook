@@ -1,8 +1,8 @@
 ---
 title: Getting a project ready for support
-permalink: /:path/:basename/
 redirect_from:
   - /guides/getting-a-project-ready-for-support
+last_reviewed_at: ""
 ---
 For some projects, once the primary development phase has wrapped up dxw will
 continue to offer support (subject to a support contract). Since we rotate

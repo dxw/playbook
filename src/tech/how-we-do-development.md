@@ -1,8 +1,8 @@
 ---
 title: How we do development
-permalink: /:path/:basename/
 redirect_from:
   - /guides/how-we-do-development
+last_reviewed_at: ""
 ---
 ## Follow our principles
 

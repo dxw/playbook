@@ -1,8 +1,8 @@
 ---
 title: Daily standups
-permalink: /:path/:basename/
 redirect_from:
   - /guides/daily-standups
+last_reviewed_at: ""
 ---
 ## What are they?
 

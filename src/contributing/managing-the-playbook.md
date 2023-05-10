@@ -1,8 +1,8 @@
 ---
 title: Managing the Playbook
-permalink: /:path/:basename/
 redirect_from:
   - /guides/managing
+last_reviewed_at: ""
 ---
 **Needs review**
 

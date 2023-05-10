@@ -1,9 +1,9 @@
 ---
 title: When and where you work
-permalink: /:path/:basename/
 related_order: 3
 redirect_from:
   - /working-here/when-and-where-you-work
+last_reviewed_at: ""
 ---
 
 ## Working hours

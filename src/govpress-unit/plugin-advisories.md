@@ -1,8 +1,8 @@
 ---
 title: GovPress plugin advisories
-permalink: /:path/:basename/
 redirect_from:
   - /guides/plugin-advisories
+last_reviewed_at: ""
 ---
 ## Workflow
 

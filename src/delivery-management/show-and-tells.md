@@ -1,8 +1,8 @@
 ---
 title: Show and tells
-permalink: /:path/:basename/
 redirect_from:
   - /guides/show-and-tells
+last_reviewed_at: ""
 ---
 ## What are they?
 

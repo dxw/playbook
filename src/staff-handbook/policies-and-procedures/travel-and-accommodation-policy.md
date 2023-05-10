@@ -1,7 +1,7 @@
 ---
 title: Travel and accommodation policy
-permalink: /:path/:basename/
 related_order: 3
+last_reviewed_at: ""
 ---  
 
 Currently, the default for everyone in the organisation is working from home.

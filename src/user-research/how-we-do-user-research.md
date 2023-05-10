@@ -1,9 +1,9 @@
 ---
 title: How we do user research
-permalink: /:path/:basename/
 redirect_from:
   - /guides/how-we-do-user-research
 related_order: 20
+last_reviewed_at: ""
 ---
 We have a set of guides that explain how we do user research at dxw.
 

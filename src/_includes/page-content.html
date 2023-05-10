@@ -1,3 +1,7 @@
+{% capture last_modified_at %}{{ page.last_modified_at | date: '%s' }}{% endcapture %}
+{% capture last_reviewed_at %}{{ page.last_reviewed_at | date: '%s' }}{% endcapture %}
+{% capture commit_history_url %}https://github.com/dxw/playbook/commits/main/src/{{ page.path }}{% endcapture %}
+
 <article class="page-content">
   <div>
     <h1>{{ page.title }}</h1>
@@ -9,6 +13,18 @@
       </ul>
     {% else %}
       {% include anchor_headings.html html=content anchorBody="#" anchorAttrs='aria-label="Permalink to %heading%"' %}
+
+      <hr>
+  
+      <p>
+        <i>
+          {% if last_reviewed_at > last_modified_at %}
+            Last reviewed: {{ page.last_reviewed_at | date: "%-d %B %Y" }}
+            <br>
+          {% endif %}
+          Last updated: {{ page.last_modified_at | date: "%-d %B %Y" }} (<a href="{{ commit_history_url }}">history</a>)
+        </i>
+      </p>    
     {% endif %}
   </div>
 </article>

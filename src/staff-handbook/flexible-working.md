@@ -1,7 +1,7 @@
 ---
 title: Flexible working
-permalink: /:path/:basename/
 related_order: 4
+last_reviewed_at: ""
 ---
 
 We aim to offer flexibility for people looking for a part-time role or a role

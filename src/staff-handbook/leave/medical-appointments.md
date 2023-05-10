@@ -1,7 +1,7 @@
 ---
 title: Medical appointments
-permalink: /:path/:basename/
-related_order: 8 
+related_order: 8
+last_reviewed_at: ""
 ---
 
 ## Medical appointments

@@ -1,7 +1,7 @@
 ---
 title: Supporting services
-permalink: /:path/:basename/
 related_order: 2
+last_reviewed_at: ""
 ---
 
 The technology team supports some of our client services. We split our support

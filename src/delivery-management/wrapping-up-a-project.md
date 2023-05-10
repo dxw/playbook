@@ -1,8 +1,8 @@
 ---
 title: Wrapping up a project
-permalink: /:path/:basename/
 redirect_from:
   - /guides/wrapping-up-a-project
+last_reviewed_at: ""
 ---
 ## Why is this important?
 

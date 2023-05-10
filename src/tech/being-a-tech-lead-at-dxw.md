@@ -1,8 +1,8 @@
 ---
 title: Being a tech lead at dxw
-permalink: /:path/:basename/
 redirect_from:
   - /guides/being-a-tech-lead-at-dxw
+last_reviewed_at: ""
 ---
 ## Being a tech lead…
 

@@ -1,8 +1,8 @@
 ---
 title: Project weeknotes
-permalink: /:path/:basename/
 redirect_from:
   - /guides/week-notes
+last_reviewed_at: ""
 ---
 ## What are weeknotes?
 

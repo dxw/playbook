@@ -1,7 +1,7 @@
 ---
 title: Benefits
-permalink: /:path/:basename/
 related_order: 3
+last_reviewed_at: ""
 ---
 
 All benefits are available to the dxw team members after they've successfully passed their probationary period.

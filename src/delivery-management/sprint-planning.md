@@ -1,8 +1,8 @@
 ---
 title: Sprint planning
-permalink: /:path/:basename/
 redirect_from:
   - /guides/sprint-planning
+last_reviewed_at: ""
 ---
 ## What is it?
 

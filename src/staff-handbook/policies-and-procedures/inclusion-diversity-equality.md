@@ -1,10 +1,10 @@
 ---
 title: Inclusion, diversity and equal opportunities policy
-permalink: /:path/:basename/
 redirect_from:
   - /guides/inclusion-diversity-equality
   - /working-here/inclusion-diversity-equality
-related_order: 5  
+related_order: 5
+last_reviewed_at: ""
 ---
 
 ## Equal opportunities statement

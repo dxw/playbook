@@ -1,9 +1,9 @@
 ---
 title: Redundancy policy
-permalink: /:path/:basename/
 related_order: 8
 redirect_from:
   - /working-here/redundancy-policy
+last_reviewed_at: ""
 ---
 
 The coronavirus pandemic has caused us to look at some of our HR policies - or

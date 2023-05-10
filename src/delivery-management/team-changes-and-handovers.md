@@ -1,8 +1,8 @@
 ---
 title: Team changes and handovers
-permalink: /:path/:basename/
 redirect_from:
   - /guides/team-changes-and-handovers
+last_reviewed_at: ""
 ---
 Projects inevitably undergo team member changes. This can be for a number of
 reasons. If a project has been running for a long time, it is often beneficial

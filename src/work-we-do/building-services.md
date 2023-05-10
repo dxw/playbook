@@ -1,7 +1,7 @@
 ---
 title: Building services
-permalink: /:path/:basename/
 related_order: 1
+last_reviewed_at: ""
 ---
 
 ## Client experience

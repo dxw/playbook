@@ -1,9 +1,9 @@
 ---
 title: Recruitment process
-permalink: /:path/:basename/
 related_order: 15
 redirect_from:
   - /working-here/hiring-new-people
+last_reviewed_at: ""
 ---
 
 ## Making a plan for hiring

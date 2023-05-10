@@ -1,7 +1,7 @@
 ---
 title: Taking notes and recording research sessions
-permalink: /:path/:basename/
 related_order: 180
+last_reviewed_at: ""
 ---
 To capture what happens in our research sessions we take notes and photos, make
 audio, video and screen recordings, and take copies of paperwork and other

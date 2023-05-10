@@ -1,8 +1,8 @@
 ---
 title: Service design approach
-permalink: /:path/:basename/
 redirect_from:
   - /guides/service-design-at-dxw
+last_reviewed_at: ""
 ---
 This is an outline of how we approach Service Design at dxw. Service Design can
 cross over a number of disciplines, so we've written this based on our

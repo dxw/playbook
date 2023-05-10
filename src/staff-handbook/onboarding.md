@@ -1,7 +1,7 @@
 ---
 title: Onboarding
-permalink: /:path/:basename/
 related_order: 13
+last_reviewed_at: ""
 ---
 
 After you’ve accepted a role at dxw a member of our People team will be in touch

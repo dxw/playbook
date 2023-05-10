@@ -1,6 +1,6 @@
 ---
 title: GovPress support
-permalink: /:path/:basename/
+last_reviewed_at: ""
 ---
 
 GovPress Support provides day-to-day support for our existing GovPress clients.

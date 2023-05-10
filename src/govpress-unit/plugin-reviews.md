@@ -1,8 +1,8 @@
 ---
 title: GovPress plugin reviews
-permalink: /:path/:basename/
 redirect_from:
   - /guides/plugin-reviews
+last_reviewed_at: ""
 ---
 ## Workflow
 

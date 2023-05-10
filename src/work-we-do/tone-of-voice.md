@@ -1,8 +1,8 @@
 ---
 title: Tone of voice
-permalink: /:path/:basename/
 redirect_from:
   - /guides/tone-of-voice
+last_reviewed_at: ""
 ---
 This is an overview of how we write and should apply to all the writing we do in
 dxw. It’s an important part of how we present ourselves to the outside world,

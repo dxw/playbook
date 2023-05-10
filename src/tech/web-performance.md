@@ -1,8 +1,8 @@
 ---
 title: Web performance
-permalink: /:path/:basename/
 redirect_from:
   - /guides/web-performance
+last_reviewed_at: ""
 ---
 A web performance budget can be a useful reference for helping you figure out
 what should and shouldn't go on your website. Ultimately it can help reduce the

@@ -1,7 +1,7 @@
 ---
 title: Where to get external support
-permalink: /:path/:basename/
 related_order: 2
+last_reviewed_at: ""
 ---
 
 If you, or someone you know is in mental health crisis and needs medical help fast:

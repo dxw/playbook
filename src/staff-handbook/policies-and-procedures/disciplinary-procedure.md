@@ -1,6 +1,6 @@
 ---
 title: Disciplinary procedure
-permalink: /:path/:basename/
+last_reviewed_at: ""
 ---
 
 ## The process

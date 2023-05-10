@@ -1,8 +1,8 @@
 ---
 title: Web accessibility
-permalink: /:path/:basename/
 redirect_from:
   - /guides/web-accessibility
+last_reviewed_at: ""
 ---
 ## Why web accessibility matters
 
