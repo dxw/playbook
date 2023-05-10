@@ -1,0 +1,49 @@
+#!/bin/sh
+
+# script/utils/check-html: Validate the HTML built by Jekyll for issues with
+#                          images, links and scripts (including broken links).
+
+#                          This will delete any existing build in `_site`
+#                          and build the site fresh.
+
+#                          This uses htmlproofer and you can pass additional
+#                          htmlproofer arguments like so:
+#                            script/utils/check-html --extra-argument
+
+set -e
+
+# Some URLs containing fragments for highlighting text (for example,
+# https://...#:~:text=Shared%20Parental) or navigating to anchors (including
+# specific slides e.g. https://...#slide=id.g5fe190064c_6_403fail) fail the
+# lint, but return a 200 OK status code. These should not be reported as errors.
+IGNORE_HTTP_STATUS="200"
+
+# Some URLs are authenticated or fail for some other reason that isn't an issue.
+# The syntax comes from the Jekyll codebase:
+#   https://github.com/jekyll/jekyll/blob/master/script/proof
+IGNORE_HREFS=$(ruby -e 'puts %w{
+  expenses.xero.com/!wrUP-/detail/create-new/
+  github.com/dxw/govpress-developer-docs
+  github.com/dxw/judiciary-middleware
+  github.com/dxw/mind-side-by-side
+  mheducation.co.uk/the-good-research-guide-research-methods-for-small-scale-social-research-projects-9780335249831-emea-group
+  twitter.com
+}.map{ |url| "/#{url}/" }.join(",")')
+
+BUILD_PATH="./_site"
+JS_ASSET_PATH="./src/assets/js"
+
+echo "==> Removing any existing build..."
+
+rm -rf "${BUILD_PATH}" "${JS_ASSET_PATH}"
+
+echo "==> Building site..."
+
+npm run build
+
+echo "==> Checking the HTML"
+
+bundle exec htmlproofer ${BUILD_PATH} \
+    --ignore-status-codes "$IGNORE_HTTP_STATUS" \
+    --ignore-urls "$IGNORE_HREFS" \
+    "$@"

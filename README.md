@@ -46,12 +46,11 @@ This runs the server on localhost:4000.
 
 ### Checking the HTML
 
-To proof the HTML for things like dead links, run:
+After making a change, please run `script/test`, which will ensure that there
+are no broken links. The following are ignored:
 
-```
-bundle exec jekyll build
-bundle exec htmlproofer _site
-```
+- external links that require authentication, when listed in `lib/utils/check-html`
+- 200 OK status codes - this prevents false positives such as links with anchors
 
 ## Licence
 
