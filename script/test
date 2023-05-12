@@ -4,4 +4,13 @@
 
 set -e
 
+cd "$(dirname "$0")/.."
+
+if [ -n "$DEBUG" ]; then
+  set -x
+fi
+
+echo "==> Updating..."
+script/update
+
 script/utils/check-html
