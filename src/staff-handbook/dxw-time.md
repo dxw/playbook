@@ -41,4 +41,4 @@ If you’re in one of our billable teams, please talk to your line manager and a
 
 ## Non-billable staff
 
-Of course, people in our non-billable teams also get involved in company-wide work and [personal learning and development activity](staff-handbook/learning-and-development/) outside of their day jobs. This should be agreed with their line manager as part of their objectives in a similar way.
+Of course, people in our non-billable teams also get involved in company-wide work and [personal learning and development activity](/staff-handbook/learning-and-development/) outside of their day jobs. This should be agreed with their line manager as part of their objectives in a similar way.

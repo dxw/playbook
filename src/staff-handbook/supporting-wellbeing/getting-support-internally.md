@@ -6,15 +6,15 @@ last_reviewed_at: ""
 
 The wellbeing of our teams is very important. So we offer the following to support your health and wellbeing:
 
-* Safe homeworking set-up: if you require any [ergonomic items](/working-here/getting-things-you-need/), additional travel support or an assessment of your home or office working set up ([DSE](https://www.hse.gov.uk/msd/dse/)), you can find support through your line manager and the People team to arrange this.
+* Safe homeworking set-up: if you require any [ergonomic items](/staff-handbook/pay-pension-and-benefits/benefits/#home-office-equipment), additional travel support or an assessment of your home or office working set up ([DSE](https://www.hse.gov.uk/msd/dse/)), you can find support through your line manager and the People team to arrange this.
 * Accessibility information for our shared office spaces can be found [here](/guides/office-accessibility) and please speak to the People team if you’re interested in support with digital accessibility.
-* Wellbeing based courses can be purchased through the [learning and development budget](/working-here/supporting-your-development-and-wellbeing/#learning-and-development), these are a taxable benefit.
-* Other benefits that address health: [Eyecare vouchers](/working-here/supporting-your-development-and-wellbeing/#eyecare-vouchers), Flu vaccine vouchers offered annually and [cycle to work scheme](/working-here/supporting-your-development-and-wellbeing/#cycle-to-work-scheme).
-* Bespoke dxw support paths to seek help and advice: [Slack groups](https://docs.google.com/document/d/1rIHYqFdEWSmjkUyScx-tIpoFrICO1hG7-SDnSLOR3JM/edit), [Buddy System, Helpers, Line Managers](/working-here/supporting-your-development-and-wellbeing/#other-support-paths) and [HR support](/working-here/supporting-your-development-and-wellbeing/#people-and-hr-team).
-* [Reasonable adjustments](/working-here/pay-pension-and-benefits/#sickness) to support a disability, long-term health conditions and times of change and challenge. (Some changes and challenges may be, pregnancy, caring responsibilities, menopause & hormone therapies, bereavement, mental and physical health diagnosis and ongoing long term conditions).
-* Taking the time you need ([compassionate, sick and annual leave](/working-here/pay-pension-and-benefits/)) - speak to your line manager for more details.
+* Wellbeing based courses can be purchased through the [learning and development budget](/staff-handbook/learning-and-development/how-to-use-your-learning-and-development-allowance/), these are a taxable benefit.
+* Other benefits that address health: [Eyecare vouchers](/staff-handbook/pay-pension-and-benefits/benefits/#eyecare-vouchers), Flu vaccine vouchers offered annually and [cycle to work scheme](/staff-handbook/pay-pension-and-benefits/benefits/#cycle-to-work-scheme).
+* Bespoke dxw support paths to seek help and advice: [Slack groups](https://docs.google.com/document/d/1rIHYqFdEWSmjkUyScx-tIpoFrICO1hG7-SDnSLOR3JM/edit), [buddies](#buddies), [helpers](#helpers), [line managers](#your-line-manager) and [People team support](#the-people-team).
+* [Reasonable adjustments](/staff-handbook/policies-and-procedures/inclusion-diversity-equality/#reasonable-adjustments) to support a disability, long-term health conditions and times of change and challenge. (Some changes and challenges may be, pregnancy, caring responsibilities, menopause & hormone therapies, bereavement, mental and physical health diagnosis and ongoing long term conditions).
+* Taking the time you need ([compassionate, sick and annual leave](/staff-handbook/leave/)) - speak to your line manager for more details.
 * Support through the [Access to Work](https://www.gov.uk/access-to-work) grant scheme for those with a disability or eligible health condition.
-* [Flexible working options](/working-here/pay-pension-and-benefits/#flexible-working) such as change of working pattern, hours or role/project, access to local hot desking and maintaining remote working, to support changing needs.
+* [Flexible working options](/staff-handbook/flexible-working/) such as change of working pattern, hours or role/project, access to local hot desking and maintaining remote working, to support changing needs.
 
 ## Mental and physical health support at a time of challenge or crisis
 
@@ -39,21 +39,21 @@ We also have a weekly Ask HR slot at 11am on Wednesdays, to provide a regular op
 The list is not exhaustive, but includes:
 
 * accessibility
-* [bereavement](/staff-handbook/leave/#compassionate-leave)
+* [bereavement](/staff-handbook/leave/compassionate-leave/)
 * contractual matters
-* [diversity and inclusion](/staff-handbook/policies/inclusion-diversity-equality/)
+* [diversity and inclusion](/staff-handbook/policies-and-procedures/inclusion-diversity-equality/)
 * [expenses](/staff-handbook/claiming-expenses/)
 * facilitation/scheduling of conversations with Directors/heads-of
-* [grievances](/staff-handbook/grievances/) and [disciplinary matters](/staff-handbook/disciplinary-procedure/)
-* [holiday](/staff-handbook/leave/#holiday)
+* [grievances](/staff-handbook/policies-and-procedures/grievances/) and [disciplinary matters](/staff-handbook/policies-and-procedures/disciplinary-procedure/)
+* [holiday](/staff-handbook/leave/holiday/)
 * interpersonal issues
-* [Mental health first aid](/wellbeing/where-to-get-support-internally/#mental-health-first-aiders)
+* [Mental health first aid](#mental-health-first-aiders)
 * occupational health issues
-* [pay](/pay-pension-and-benefits/pay/) (second line of support after line managers)
-* [parental leave](/staff-handbook/policies/parental-leave-policy/)
+* [pay](/staff-handbook/policies-and-procedures/pay-policy/) (second line of support after line managers)
+* [parental leave](/staff-handbook/policies-and-procedures/parental-leave-policy/)
 * probation
-* [pensions](/pay-pension-and-benefits/pension/)
-* [sickness](/staff-handbook/policies/sickness-policy/)
+* [pensions](/staff-handbook/pay-pension-and-benefits/pension/)
+* [sickness](/staff-handbook/policies-and-procedures/sickness-policy/)
 * stress management
 * training and career progression
 * [working patterns](/staff-handbook/flexible-working/) and [locations](/staff-handbook/when-and-where-you-work/)
@@ -64,13 +64,13 @@ Line managers are your first point of contact for any issues you may be having a
 
 They can listen, support and offer reasonable adjustments as detailed above. They can help review workloads, working patterns, projects, roles and responsibilities and help with resolving anything within the workplace that might be causing concern. They can liaise with delivery leads, heads of and directors where necessary, and take some of the burden from you.
 
-### Mental Health First Aiders
+### Mental health first aiders
 
-If you are experiencing a mental health crisis or think that someone else is, we have a team of trained mental health first aiders who are able to provide initial support. A Mental Health First Aider is able to listen and communicate non-judgementally, give initial support and then signpost information or appropriate professional help.
+If you are experiencing a mental health crisis or think that someone else is, we have a team of trained Mental health first aiders who are able to provide initial support. A Mental Health First Aider is able to listen and communicate non-judgementally, give initial support and then signpost information or appropriate professional help.
 
 First aiders are a safe place to turn to if you are experiencing an issue with your mental health, and need to talk to someone. Conversations will be kept in strictest confidence, provided that you are not at serious risk of harm.
 
-Mental Health First Aiders are identified in the [company directory in Breathe](https://hr.breathehr.com/employees/directory?name=&company_department_id=&company_division_id=&mh=true), and you can reach out to them via Slack or email.
+Mental health first aiders are identified in the [company directory in Breathe](https://hr.breathehr.com/employees/directory?name=&company_department_id=&company_division_id=&mh=true), and you can reach out to them via Slack or email.
 
 If your chosen MHFA is unable to take a call, they will offer to refer you to another first aider or a member of the People team.
 

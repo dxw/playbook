@@ -12,9 +12,9 @@ Benefits for permanent employees include:
 
 * [Electric vehicle scheme](https://www.electriccarscheme.com)
 
-* up to 18 weeks of paid [parental leave](/staff-handbook/policies/parental-leave-policy/) depending on your situation
+* up to 18 weeks of paid [parental leave](/staff-handbook/policies-and-procedures/parental-leave-policy/) depending on your situation
 
-* 25 days [holiday plus bank holidays](/staff-handbook/leave/#holiday)
+* 25 days [holiday plus bank holidays](/staff-handbook/leave/holiday/)
 
 * [pension](/staff-handbook/pay-pension-and-benefits/pension/) with up to 5% matching contribution from dxw
 

@@ -38,7 +38,7 @@ support you to need fewer absences. We might also agree an action plan and / or
 a review period. Where we think it would be helpful, we'll seek advice via an
 Occupational Health advisor.
 
-If you have a long term health condition and would like to discuss [reasonable adjustments](staff-handbook/policies-and-procedures/inclusion-diversity-equality/#reasonable-adjustments) and ways of working that will help, we welcome a conversation at any
+If you have a long term health condition and would like to discuss [reasonable adjustments](/staff-handbook/policies-and-procedures/inclusion-diversity-equality/#reasonable-adjustments) and ways of working that will help, we welcome a conversation at any
 point. The sooner we know, the sooner we can support you.
 
 ## Sick pay
