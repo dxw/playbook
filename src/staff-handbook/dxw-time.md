@@ -3,7 +3,6 @@ title: dxw Time
 related_order: 10
 last_reviewed_at: ""
 ---
-
 dxw time is what we call the time that our billable staff (Delivery+, GovPress and Strategy) spend not working on client work doing things for the company, along with other colleagues. What’s set out here is a general position and individual business units might have slightly different approaches.
 
 dxw time is everything that does not fit the ‘client work’ category on [Productive](https://productive.io/apps/). It’s time spent on activities that are business focused and help dxw to grow and develop.
@@ -26,8 +25,7 @@ Some people will spend more time doing non-client work, and others will spend mo
 
 This isn’t an exhaustive list, but the things you spend dxw time on might include:  
 
-line management outside of client work (line management support for projects is billable)
-
+* line management outside of client work (line management support for projects is billable)
 * helping with recruitment
 * supporting our sales team with bids
 * working with the marketing team on blog posts, case studies or events
