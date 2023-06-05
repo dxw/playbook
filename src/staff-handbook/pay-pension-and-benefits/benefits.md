@@ -3,21 +3,15 @@ title: Benefits
 related_order: 3
 last_reviewed_at: ""
 ---
-
 All benefits are available to the dxw team members after they've successfully passed their probationary period.
 
 Benefits for permanent employees include:
 
 * annual £1000 [personal learning and development allowance](/staff-handbook/learning-and-development/how-to-use-your-learning-and-development-allowance/)
-
 * [Electric vehicle scheme](https://www.electriccarscheme.com)
-
 * up to 18 weeks of paid [parental leave](/staff-handbook/policies-and-procedures/parental-leave-policy/) depending on your situation
-
 * 25 days [holiday plus bank holidays](/staff-handbook/leave/holiday/)
-
 * [pension](/staff-handbook/pay-pension-and-benefits/pension/) with up to 5% matching contribution from dxw
-
 * [flexible working](/staff-handbook/flexible-working/) to support your wellbeing and personal commitments
 
 ## Cycle to work scheme
@@ -42,7 +36,7 @@ Get in touch with Leanne Garvie (Finance Manager) for more information.
 
 dxw provides eyecare for the team via a voucher system run by ASE Corporate Eyecare Ltd and Boots.
 
-What the wellbeing voucher offers is on the[Eyecare for Wellbeing](https://eyemed.uk/wellbeing/) site.
+What the wellbeing voucher offers is on the [Eyecare for Wellbeing](https://eyemed.uk/wellbeing/) site.
 
 [Apply for a wellbeing eyecare voucher](https://gw.eyecareplans.co.uk/Account/Login/dxwe12q2415d3df)
 
