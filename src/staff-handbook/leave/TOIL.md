@@ -28,6 +28,8 @@ to take the time back.
 ## Requesting TOIL
 
 Using BreatheHR similar to the way that you request holiday, there is a TOIL
-drop down, please write a note as to why you are requesting the leave and this
-will then be sent to your line manager for approval. Please note this will not deduct
-from your holiday allowance shown on your BreatheHR dashboard.
+drop down. Go to **My dashboard** and click the link **Log TOIL**,
+fill in the form and click the **log TOIL** button. Please write a note as to why
+you are requesting the leave and this will be sent to your line manager for
+approval. Once approved, your TOIL will be added to your holiday allowance. You
+should then book leave as normal to have time not working.
