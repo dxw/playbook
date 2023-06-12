@@ -18,7 +18,7 @@ especially useful to anyone who is working in support for the first time.
 ![How tickets cascade through support levels (reified as Zendesk views)](/assets/images/govpress/support-flow.svg)
 
 Tickets arrive in Zendesk and are automatically assigned (by customer email
-address) to the **GovPress Support Triage** group. Colleagues in this group will
+address) to the **GovPress support triage** group. Colleagues in this group will
 triage the ticket by adding all available metadata and setting the **Priority**
 for the ticket. Colleagues will also ask for any obvious clarifications that we
 need from the client. At this point, Support colleagues will make a judgement
@@ -34,7 +34,7 @@ someone appropriate in the relevant Zendesk group, which are:
   styling of a site or its functionality. Tickets in this view should have a
   corresponding Trello card in the
   [Oak Squad board](https://trello.com/b/pF46aRdl/govpress-oak-squad).
-- **GovPress Spruce squad** for development tasks that take more than 0.5 days.
+- **GovPress scoping and discussion** for development tasks that take more than 0.5 days.
   This work may need to be scoped in more detail and the relevant Delivery and
   Squad Lead should be made aware of it. If a task is very complex, colleagues
   may want to close the ticket (to meet our Zendesk SLAs) and schedule the work
@@ -179,7 +179,7 @@ from Zendesk:
 - `#dxw-govpress-support-triage` (for tickets that are being triaged)
 - `#dxw-govpress-support-1st-line`
 - `#dxw-govpress-support-2nd-line`
-- `#dxw-govpress-support-squads`
+- `#dxw-govpress-support-scoping`
 
 And these channels which will give you information about our infrastructure and incidents:
 
