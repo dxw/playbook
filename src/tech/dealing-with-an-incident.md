@@ -214,7 +214,7 @@ people you can find.
 When responding to an incident your goals are to:
 
 * **Understand** what is happening
-* **Inform** relevant parties (e.g the client or the ICO)
+* **Inform** relevant parties (e.g. the client or the ICO)
 * **Contain** any breach. Revoke any unauthorised access, remove any
   modifications and identify if any data has been compromised. Preserve data
   that may be required for later investigation or forensics.
@@ -476,4 +476,3 @@ incident.io and given an owner. The owner should add the action to any relevant
 trello board and ensure the work is done in a timely manner. If the action has
 impact on the ISMS it should be added to the Findings tracker and ISMS trello
 board as well.
-
