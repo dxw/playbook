@@ -13,4 +13,7 @@ fi
 echo "==> Updating..."
 script/update
 
+echo "==> Linting files..."
+npm run lint
+
 script/utils/check-html

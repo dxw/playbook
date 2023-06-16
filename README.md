@@ -52,6 +52,21 @@ are no broken links. The following are ignored:
 - external links that require authentication, when listed in `lib/utils/check-html`
 - 200 OK status codes - this prevents false positives such as links with anchors
 
+### Code style
+
+This project uses [JavaScript Standard Style](https://standardjs.com/) to enforce consistent style. This is enforced on pull requests to the main branch. Linting is run across all JavaScript files as part of the test script.
+
+```
+script/test
+```
+
+Alternatively you can run standalone linting checks by running `npm run lint`, or fix files using `npm run lint:fix`. Specific files and directories written in the glob pattern can be passed as optional arguments to either script when surrounded by quotes.
+
+E.g.
+```
+npm run lint "src/_webpack/**/*.js"
+```
+
 ## Licence
 
 The contents of dxw's Playbook is released under a
