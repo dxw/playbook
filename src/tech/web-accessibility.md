@@ -6,7 +6,7 @@ last_reviewed_at: ""
 ---
 ## Why web accessibility matters
 
-Everyone experiences disability in some form throughout their life including
+test test test Everyone experiences disability in some form throughout their life including
 permanent, temporary and situational types of disability. This is why it matters
 that everything we create for the web is as easy to use as possible so that no
 one is excluded from using a website because of their disability.
