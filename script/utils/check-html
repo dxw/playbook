@@ -21,11 +21,15 @@ IGNORE_HTTP_STATUS="200"
 # Some URLs are authenticated or fail for some other reason that isn't an issue.
 # The syntax comes from the Jekyll codebase:
 #   https://github.com/jekyll/jekyll/blob/master/script/proof
-IGNORE_HREFS=$(ruby -e 'puts %w{
+IGNORE_AUTHENTICATED_HREFS=$(ruby -e 'puts %w{
   expenses.xero.com/!wrUP-/detail/create-new/
   github.com/dxw/govpress-developer-docs
   github.com/dxw/judiciary-middleware
   github.com/dxw/mind-side-by-side
+}.map{ |url| "/#{url}/" }.join(",")')
+
+IGNORE_ANY_OTHER_FALSE_POSITIVE_HREFS=$(ruby -e 'puts %w{
+  global.oup.com/academic/product/exposing-the-magic-of-design-9780190276218
   mheducation.co.uk/the-good-research-guide-research-methods-for-small-scale-social-research-projects-9780335249831-emea-group
   twitter.com
 }.map{ |url| "/#{url}/" }.join(",")')
@@ -45,5 +49,5 @@ echo "==> Checking the HTML"
 
 bundle exec htmlproofer ${BUILD_PATH} \
     --ignore-status-codes "$IGNORE_HTTP_STATUS" \
-    --ignore-urls "$IGNORE_HREFS" \
+    --ignore-urls "$IGNORE_AUTHENTICATED_HREFS,$IGNORE_ANY_OTHER_FALSE_POSITIVE_HREFS" \
     "$@"

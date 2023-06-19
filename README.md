@@ -49,7 +49,8 @@ This runs the server on localhost:4000.
 After making a change, please run `script/test`, which will ensure that there
 are no broken links. The following are ignored:
 
-- external links that require authentication, when listed in `lib/utils/check-html`
+- external links that require authentication or are manually confirmed working,
+  when listed in `script/utils/check-html`
 - 200 OK status codes - this prevents false positives such as links with anchors
 
 ### Code style

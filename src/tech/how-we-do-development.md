@@ -410,5 +410,5 @@ should document that decision as an
 maintainers and contributors understand the reasoning for not doing so.
 
 See
-[Tech Team RFC-019](https://github.com/dxw/tech-team-rfcs/blob/master/rfc-019-use-changelogs-to-track-changes.md)
+[Tech Team RFC-019](https://github.com/dxw/tech-team-rfcs/blob/main/ways-of-working/rfc-019-use-changelogs-to-track-changes.md)
 for more context around this decision.
