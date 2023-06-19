@@ -103,7 +103,7 @@ In any material that may go outside of the immediate team, we use only fully
 anonymised extracts, where the participant cannot be identified.
 
 The UK Data Service has useful guidance on
-[anonymising both quantitative and qualitative research data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation).
+[anonymising both quantitative and qualitative research data](https://ukdataservice.ac.uk/learning-hub/research-data-management/#anonymisation).
 
 We sometimes do show identifiable extracts within a team, and where we have
 consent. For example, showing clips from a usability testing session during a
