@@ -67,6 +67,26 @@ is unsafe.
 A plugin inspection mostly involves checking these pattern matches to see if
 they represent real issues.
 
+## Checking for hosting-environment compatibility
+
+In addition to general security issues, the plugin should also be checked for
+likely incompatibilities with the hosting environment.
+
+These include, but are not limited to:
+
+* Direct calls to php files (i.e. in URLs) under `wp-content`.
+* Use of `/xmlrpc.php`.
+* Assumption the directories other than `wp-content/uploads` or
+  `wp-content/cache` can be written to (unless otherwise configurable).
+* Use of PHP sessions (check for `session_start()`)
+* Assumption that `wp_` is the database prefix.
+* Assumption that `/wp-admin/admin-ajax.php` can be accessed by non-logged-in
+  users.
+* Reliance on PHP modules other than those suggested by WordPress core.
+* Reliance on `.htaccess` files.
+* Features likely to take more than 30 seconds to output responses, even
+  in the administrative interface.
+
 ## Writing up Inspections
 
 If the plugin is large (around 15,000 or more lines of code), start with a line
