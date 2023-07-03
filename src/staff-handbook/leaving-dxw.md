@@ -16,7 +16,7 @@ The People team will pick up the offboarding process from here, and guide you th
 
 ## What happens next 
 
-The People team will work with you on a plan to communicate that you’re leaving to the rest of dxw. But only if that’s what you want to do, they will be guided by you throughout the process. Departments that will need to be involved throughout your offboarding process, include Finance and Workplace Tech.
+The People team will work with you on a plan to communicate that you’re leaving to the rest of dxw. But only if that’s what you want to do; they will be guided by you throughout the process. Departments that will need to be involved throughout your offboarding process, include Finance and Workplace Tech.
 
 We value your contributions to dxw, and experiences during your time with us. The People team will send you an optional exit interview form around 2 weeks before your final day, so you can share your feedback, ideas and reflections. The People team would also be happy to have a chat with you on the information you choose to share with us, if you’d find that helpful.
 
