@@ -7,6 +7,6 @@ dxw provides a Pension Salary Exchange (PSE) scheme which is operated by Aviva. 
 
 In a PSE scheme, dxw will pay all pension contributions into your pension scheme, meaning a higher amount of employer contributions. The increase in employer contributions is then offset by an equivalent reduction in gross salary. dxw takes the salary you have exchanged and pays that straight into your pension fund.
 
-Once you have passed your 3 month check in, you will be auto-enrolled into the scheme and the People team will be in touch with some more details and the option to set your contribution %.
+Once you have passed your 3 month check in, you will be auto-enrolled into the scheme. The People team will be in touch with more details and the option to set your contribution percentage.
 
 dxw will match any contribution up to 5%.
