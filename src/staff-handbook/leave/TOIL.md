@@ -29,5 +29,5 @@ to take the time back.
 
 Using BreatheHR similar to the way that you request holiday, there is a TOIL
 drop down, please write a note as to why you are requesting the leave and this
-will be then be sent to your line manager for approval. Please note this will not deduct
+will then be sent to your line manager for approval. Please note this will not deduct
 from your holiday allowance shown on your BreatheHR dashboard.
