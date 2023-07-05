@@ -15,7 +15,7 @@ Calls Landing <br>36-38 The Calls <br>Leeds<br>LS2 7EW <br>0113 212 0687
 
 There's a [Leeds Office Guide](https://docs.google.com/document/d/1jHsQJH__2sZssJYZiLqLPyDjZWl5Ixhscx4R-0hMDXs/edit) available if you would like to work from this space.
 
-If you need any support with using this space, post your question in the #leeds-office channel and a member of the team will be able to help.
+If you need any support with using this space, post your question in the #dxw-leeds-office channel and a member of the team will be able to help.
 
 If you need any further information about any features of the office that could impact your access, please email us at [contact@dxw.com](mailto:contact@dxw.com) or call 0113 212 0687.
 
