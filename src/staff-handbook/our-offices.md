@@ -30,16 +30,11 @@ If you need any support with using this space, post your question in the #dxw-lo
 
 dxw staff can use any of [Landmark's coworking spaces](https://www.landmarkspace.co.uk/search-results/?value=united+kingdom) in:
 
-* London\
-  <br>
-* Manchester\
-  <br>
-* Birmingham\
-  <br>
-* Bristol\
-  <br>
-* Milton Keynes\
-  <br>
+* London
+* Manchester
+* Birmingham
+* Bristol
+* Milton Keynes
 * Reading
 
 If you want to use a Landmark coworking space, email [KingsCross@landmarkspace.co.uk](mailto:KingsCross@landmarkspace.co.uk) and let them know you're from dxw, and about any guests you want to bring.
