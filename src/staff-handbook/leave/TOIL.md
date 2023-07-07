@@ -3,7 +3,6 @@ title: TOIL
 related_order: 2
 last_reviewed_at: ""
 ---
-
 Where possible we try to keep a sustainable pace of work and avoid working
 outside normal hours; occasionally this might not be possible.
 
@@ -30,5 +29,5 @@ to take the time back.
 
 Using BreatheHR similar to the way that you request holiday, there is a TOIL
 drop down, please write a note as to why you are requesting the leave and this
-will be approved by a member of the People team. Please note this will not deduct
+will then be sent to your line manager for approval. Please note this will not deduct
 from your holiday allowance shown on your BreatheHR dashboard.
