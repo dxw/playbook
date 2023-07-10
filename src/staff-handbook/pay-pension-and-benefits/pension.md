@@ -3,15 +3,10 @@ title: Pension
 related_order: 2
 last_reviewed_at: ""
 ---
+dxw provides a pension salary exchange (PSE) scheme which is operated by Aviva. In a PSE scheme, contributions are deducted from your gross salary, resulting in a saving on tax and National Insurance contributions (NICs). 
 
-dxw provides a pension which is operated by Aviva. Once you have passed your 3-month check in, you will be auto enrolled into the scheme, receive details by
-post of the necessary employer/employee contributions and have the option to set
-your percentage or opt out.
+In the PSE scheme, dxw pays all pension contributions into your pension scheme, meaning a higher amount of employer contributions. The increase in employer contributions is then offset by an equivalent reduction in gross salary. dxw takes the salary you have exchanged and pays that straight into your pension fund.
+
+Once you have passed your 3 month check in, you will be auto-enrolled into the scheme. The People team will be in touch with more details and the option to set your contribution percentage.
 
 dxw will match any contribution up to 5%.
-
-Your contribution will be relief at source, with 0.8 deducted from your monthly
-salary and the additional 0.2 added from tax relief.
-
-For more details on Relief at Source, visit the
-[GOV.UK website](https://www.gov.uk/guidance/pension-administrators-reclaim-tax-relief-using-relief-at-source#:~:text=Relief%20at%20source%20is%20a,the%20UK%2C%20Scotland%20or%20Wales.).
