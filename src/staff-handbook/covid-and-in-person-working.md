@@ -17,7 +17,7 @@ It is difficult to try and meet the individual needs of all of our employees all
 * supporting home working and not requiring people to come into the office if they feel at all unsafe or at risk
 * providing office spaces for people who want to come into work, by maintaining our Leeds HQ, providing hubs in London (we’ve recently upgraded the latter) and some personal workspaces elsewhere
 * online all staff and other meetings and social events, together with reintroducing physical parties in the Summer and at Christmas for those who want to come along (and looking to make these gatherings as safe as we reasonably can)
-* making sure that people take the time off they need when they have Covid by excluding those days from our sickness management policy
+* making sure that people take the time off they need when they have Covid by excluding those days from our sickness management policy (please note that this only applies to the days while a person is infectious; any post-infection symptoms requiring time off are covered by the [regular sickness policy](/staff-handbook/policies-and-procedures/sickness-policy/))
 
 The situation continues to evolve and we’re seeing more and more people coming into the office and really benefiting from that. At the same time, we know this can have an impact on people who are not able to do this.  
 
