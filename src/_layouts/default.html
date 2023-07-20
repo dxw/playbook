@@ -23,31 +23,6 @@
 
     <link rel="stylesheet" href="/assets/main.css"/>
     <script defer data-domain="playbook.dxw.com" src="https://plausible.io/js/script.manual.js"></script>
-    <!-- define the `plausible` function to manually trigger events - as the pageview event is not being sent automatically with 'script.manual.js' -->
-    <script>
-      window.plausible = window.plausible || function () {
-        (window.plausible.q = window.plausible.q || []).push(arguments)
-      }
-    </script>
-
-    <!-- trigger pageview -->
-    <script>
-      function prepareUrl(params) {
-        const url = new URL(location.href)
-        const queryParams = new URLSearchParams(location.search)
-        let customUrl = url.protocol + "//" + url.hostname + url
-          .pathname
-          .replace(/\/$/, '')
-        for (const paramName of params) {
-          const paramValue = queryParams.get(paramName)
-          if (paramValue) {
-            customUrl = customUrl + '/' + paramValue
-          }
-        }
-        return customUrl
-      }
-      plausible('pageview', {u: prepareUrl([])})
-    </script>
   </head>
   <body>
     {% include navbar.html %}
@@ -56,5 +31,6 @@
       {% include page-content.html %}
     </main>
     {% include contribute.html %}
+    <script src="/assets/js/plausible.js"></script>
   </body>
 </html>
