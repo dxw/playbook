@@ -16,7 +16,8 @@ const prepareUrl = (paramsToRegister) => {
     .pathname
     .replace(/\/$/, '')
   for (const paramName of paramsToRegister) {
-    const paramValue = queryParams.get(paramName)
+    const paramValue = queryParams.get(paramName)?.split(' ').join('+')
+
     if (paramValue) {
       customUrl = customUrl + '/' + paramValue
     }
