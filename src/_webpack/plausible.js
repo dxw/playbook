@@ -1,15 +1,21 @@
-// define the `plausible` function to manually trigger events
-window.plausible = window.plausible || function () {
-  (window.plausible.q = window.plausible.q || []).push(arguments)
+const captureAllPageViews = (paramsToRegister) => {
+  definePlausibleFunction()
+  window.plausible('pageview', { u: prepareUrl(paramsToRegister) })
 }
 
-function prepareUrl (params) {
+const definePlausibleFunction = () => {
+  window.plausible = window.plausible || function () {
+    (window.plausible.q = window.plausible.q || []).push(arguments)
+  }
+}
+
+const prepareUrl = (paramsToRegister) => {
   const url = new URL(window.location.href)
   const queryParams = new URLSearchParams(window.location.search)
   let customUrl = url.protocol + '//' + url.hostname + url
     .pathname
     .replace(/\/$/, '')
-  for (const paramName of params) {
+  for (const paramName of paramsToRegister) {
     const paramValue = queryParams.get(paramName)
     if (paramValue) {
       customUrl = customUrl + '/' + paramValue
@@ -18,4 +24,4 @@ function prepareUrl (params) {
   return customUrl
 }
 
-window.plausible('pageview', { u: prepareUrl([]) })
+captureAllPageViews(['query'])
