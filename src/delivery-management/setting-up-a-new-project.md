@@ -185,7 +185,7 @@ has read the original proposal or visited the dxw website. Explain how we work:
 * story workflow (this is different from team to team)
 * the code review process (again might be different in each team, and it’s ok
   for the team to define that in the first Sprint)
-* dxw days, that is 9 days in a 10 day sprint
+* dxw days: we will typically be working on the project for 9 days in a 10 day sprint
 * invoicing and finances, we invoice the first day after the end of each sprint,
   based on the number of days each specialist in the team worked. We might also
   add travel costs, or research incentives, and other admin costs as per the
@@ -237,7 +237,7 @@ screens for the team. Chat to Olivia if you have any questions.
 Cover the following tech for collaboration: Slack, Google drive, Trello, Miro
 boards, Google Hangouts or Go2Meeting, Calendars (team and personal).
 
-### Ensuring security from the start 
+### Ensuring security from the start
 
 * We use the service standard from the outset of all projects we do, which includes security considerations. Project leads use this as prompts at the start and throughout projects, so security is considered as part of the process
 * Because our projects deliver into client systems (and public sector systems at that) rather than our own, we engage early with their information assurance/governance functions, so we can understand expectations about security and assurance
