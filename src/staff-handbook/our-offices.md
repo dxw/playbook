@@ -12,7 +12,7 @@ dxw’s headquarters is at:
 
 Calls Landing <br>36-38 The Calls <br>Leeds<br>LS2 7EW <br>0113 212 0687
 
-There's a [Leeds Office Guide](https://docs.google.com/document/d/1jHsQJH__2sZssJYZiLqLPyDjZWl5Ixhscx4R-0hMDXs/edit) available if you would like to work from this space.
+There's a [Leeds Office Guide](https://docs.google.com/document/d/1jHsQJH__2sZssJYZiLqLPyDjZWl5Ixhscx4R-0hMDXs/edit) available if you would like to work from this space.s
 
 If you need any support with using this space, post your question in the #dxw-leeds-office channel and a member of the team will be able to help.
 
