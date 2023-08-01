@@ -24,6 +24,8 @@ dxw has access to [The Lighthouse](https://www.landmarkspace.co.uk/locations/lon
 
 1 The Lighthouse Building <br>370 Grays Inn Road <br>London <br>WC1X 8BB
 
+An <a href="https://docs.google.com/document/d/1y4UlKNo_-OpxXw5GsUR0xUeYNulUOLIJ-TN2gI1F_h0/edit" aria-label="accessible office guide for The Lighthouse Building">accessible office guide</a> for The Lighthouse Building is also available.
+
 If you need any support with using this space, post your question in the #dxw-london-office channel or email [KingsCross@landmarkspace.co.uk](mailto:KingsCross@landmarkspace.co.uk) for support.
 
 ## **Other coworking spaces in the UK**
