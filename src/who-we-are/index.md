@@ -203,7 +203,7 @@ Our approach is set out in our
 
 Thank you for being you - it makes us better.
 
-## **Employee ownership and how dxw is run**
+## Employee ownership and how dxw is run
 
 dxw is employee owned. 
 
