@@ -247,7 +247,7 @@ The Trustees take pragmatic decisions to ensure the company is successful over t
 
 It makes sure the company is acting in line with our mission and values. This includes ensuring that the people who use the services we build are being considered and represented in the decisions made by dxw.
 
-The Trustee Board is the board of '[Public Service Trust Ltd'](https://find-and-update.company-information.service.gov.uk/company/13637013), a trust that was set up to hold employee shares in the company. The Trust owns the majority shareholder stake in dxw on behalf of staff.  
+The Trustee Board is the board of '[Public Service Trust Ltd](https://find-and-update.company-information.service.gov.uk/company/13637013)', a trust that was set up to hold employee shares in the company. The Trust owns the majority shareholder stake in dxw on behalf of staff.  
 
 The Trustee Board meets quarterly and its consent is needed for major decisions relating to the company. For example, it signs off the business plan prepared by the Company Board each year and it can appoint or remove directors.
 
