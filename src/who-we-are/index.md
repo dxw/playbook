@@ -257,10 +257,10 @@ There are 5 trustee positions: 2 employee trustees elected by staff, 2 independe
 
 Our Staff Council is currently made up of 12 staff members. It represents the views of staff as employees, and gives them a voice that must be heard by the Company Board. Its main responsibilities are to:
 
-make sure the Company Board and Trustee Board have an understanding of the issues that matter to staff as employees
-raise any issues and concerns with the Company Board
-support dxw to develop plans, policies and ways of working
-determine the process for appointing future employee trustees to sit on the Trustee Board
+- make sure the Company Board and Trustee Board have an understanding of the issues that matter to staff as employees
+- raise any issues and concerns with the Company Board
+- support dxw to develop plans, policies and ways of working
+- determine the process for appointing future employee trustees to sit on the Trustee Board
 
 The Staff Council’s role is advisory and it meets with the Company Board regularly. The Staff Council can make recommendations to the Company Board which they must consider and respond to, but it doesn’t have any decision-making powers.
 
