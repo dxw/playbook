@@ -215,15 +215,13 @@ We believe it would be much harder for us to deliver our mission to improve publ
 
 ### How dxw is run
 
-
 dxw is led by the Company Board.
 
 The Trustee Board is responsible for making sure the Company Board is working effectively and running dxw sustainably in line with our mission and values. In doing so, the Trustees look after the staff’s interests as owners of the company.
 
 The Staff Council represents the views of staff as employees of the company, and has an advisory role to both the Company Board and Trustee Board.
 
-#### The Company Board 
-
+#### The Company Board
 
 The Company Board looks at the future direction for the company. It meets quarterly and discusses longer term strategic issues and decisions on things like:
 
@@ -235,7 +233,7 @@ It is made up of Executive Directors, who lead and manage dxw teams in addition 
 
 The Executive Directors and Non-Executive Director are [registered at Companies House](https://find-and-update.company-information.service.gov.uk/company/06617101/officers) and are personally and legally responsible for most of what is done in the company’s name.  
 
-##### Senior Leadership Team
+#### Senior Leadership Team
 
 Executive Directors also have day to day responsibilities for the organisation and meet regularly as a Senior Leadership Team (SLT) led by the CEO, to take tactical decisions about the operation of the company. The areas that the SLT focuses on include, for example, the position on current contracts, the work pipeline and staff engagement.
 
@@ -255,7 +253,7 @@ The Trustee Board meets quarterly and its consent is needed for major decisions 
 
 There are 5 trustee positions: 2 employee trustees elected by staff, 2 independent trustees and dxw’s founder. Having the employee trustees means that a staff perspective is always present in the biggest decisions we make.
 
-### The Staff Council 
+### The Staff Council
 
 Our Staff Council is currently made up of 12 staff members. It represents the views of staff as employees, and gives them a voice that must be heard by the Company Board. Its main responsibilities are to:
 
