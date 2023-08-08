@@ -2,8 +2,7 @@
 title: Parental leave policy
 related_order: 4
 last_reviewed_at: ""
---- 
-
+---
 We’re aware that there is a lot to take in here - please come and talk to the
 People team if you have questions about anything (when you’re ready).
 
@@ -16,8 +15,6 @@ We also make a distinction based on whether you are a primary carer (the person
 who will be on parental leave for the longer period of time) or a secondary
 carer (the person who will be returning to work first) as there will be
 differences in both the statutory and dxw entitlement.
-
-This policy will be reviewed in May 2022.
 
 ## Understanding your entitlement
 
@@ -219,9 +216,9 @@ your particular circumstances.
 If you’re eligible and you or your partner ends maternity or adoption leave and
 pay (or Maternity Allowance) early, then you can:
 
-- take the rest of the 50 weeks of maternity or adoption leave as Shared
+* take the rest of the 50 weeks of maternity or adoption leave as Shared
   Parental Leave (SPL)
-- take the rest of the 37 weeks of maternity or adoption pay (or Maternity
+* take the rest of the 37 weeks of maternity or adoption pay (or Maternity
   Allowance) as Statutory Shared Parental Pay (ShPP). ShPP is paid at the
   [current rate per week](https://www.gov.uk/shared-parental-leave-and-pay/what-youll-get)
   or 90% of your average weekly earnings, whichever is lower.
