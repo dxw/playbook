@@ -3,7 +3,8 @@ const path = require('path')
 module.exports = {
   entry: {
     search: path.join(__dirname, 'src/_webpack/search'),
-    redirect: path.join(__dirname, 'src/_webpack/redirect')
+    redirect: path.join(__dirname, 'src/_webpack/redirect'),
+    plausible: path.join(__dirname, 'src/_webpack/plausible')
   },
   output: {
     filename: '[name].js',
