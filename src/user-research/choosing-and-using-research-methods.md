@@ -13,7 +13,7 @@ This guide lists our favourite books, articles and videos on the different resea
 
 ## Human centred research and design
 
-At dxw, we follow human centred design practices to [start with people and their needs](/who-we-are/#start-with-people-and-their-needs).
+At dxw, we follow human centred design practices to [start with people and their needs](/about-us/our-mission-values-and-principles/#start-with-people-and-their-needs).
 
 ### Recommended guidance
 

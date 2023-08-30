@@ -19,7 +19,7 @@ Most developers have maintenance responsibilities, which they do during their
 [support rotation](/work-we-do/supporting-services/#support-rota).
 
 We do our very best to
-[work at a sustainable pace](/who-we-are/#work-at-a-sustainable-pace). But
+[work at a sustainable pace](/about-us/our-mission-values-and-principles/#work-at-a-sustainable-pace). But
 sometimes, when we're approaching a firm deadline or a launch, or a client is
 having an emergency, we work longer hours than normal. From time to time,
 there's an emergency that means we have to work during unsociable hours to solve

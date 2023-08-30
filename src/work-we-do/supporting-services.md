@@ -66,7 +66,7 @@ we said we'd do, we always respond to say so.
 ### Make a good impression
 
 In tickets as in all things, we are mindful of dxw's
-[values](/who-we-are/#our-values).
+[values](/about-us/our-mission-values-and-principles/#our-values).
 
 Many clients' only routine contact with us is via support tickets, so it's vital
 that their experience of the support system is a good one, and that they have a
