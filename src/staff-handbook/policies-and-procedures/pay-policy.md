@@ -3,7 +3,6 @@ title: Pay policy
 related_order: 1
 last_reviewed_at: ""
 ---
-
 ## Purpose
 
 The purpose of the dxw pay policy is to give us a framework to pay salaries at
@@ -16,11 +15,11 @@ important part of us being able to attract and retain great people.
 
 The following principles underpin the policy:
 
-- Transparency
-- Parity amongst similar roles
-- Equality of pay for those with the same role
-- Clear levels of responsibility and accountability
-- Clear career progression
+* Transparency
+* Parity amongst similar roles
+* Equality of pay for those with the same role
+* Clear levels of responsibility and accountability
+* Clear career progression
 
 ## How the policy works
 
@@ -30,11 +29,10 @@ The following principles underpin the policy:
 2. Billable team pay has published pay points per level, that are based on 3
    main factors:
 
-   - [Skills for the Information Age (SFIA)](https://assets.digitalmarketplace.service.gov.uk/g-cloud-12/documents/92768/886204607156866-sfia-rate-card-2020-07-17-1338.pdf)
+   * [Skills for the Information Age (SFIA)](https://assets.digitalmarketplace.service.gov.uk/g-cloud-12/documents/92768/886204607156866-sfia-rate-card-2020-07-17-1338.pdf)
      standards and rates which clients use to measure dxw against
-   - profitability margins based on expected billable rates
-   - the labour market and salaries based on this
-
+   * profitability margins based on expected billable rates
+   * the labour market and salaries based on this
 3. Non billable team pay has published pay bands that are based fundamentally on
    the labour market, but could also include other factors such as professional
    qualifications and sales targets.
@@ -66,16 +64,7 @@ The following principles underpin the policy:
 
 ## Cost of living raise
 
-Annual cost of living CPI rises will apply for staff if the company achieves turnover above its minimum target for the preceding financial year. The percentage will be set by the [CPI Index](https://www.ons.gov.uk/economy/inflationandpriceindices).
-
-* If you have passed your probation, you will receive your raise in the October payroll
-* For team members who joined prior to 1st October of that year, but haven’t yet passed probation, you’ll receive your raise in the month you successfully complete it and it will be the same percentage as of 1st October CPI that year.
-* If you joined on or after 1st October (that year), you will not be eligible for a cost of living raise until the following October.
-* If you are leaving during October you will not receive the cost of living raise.
-* CPI rises will not apply to people who for historic reasons are above the maximum pay level for their role, to help us gradually align salaries for similar roles
-* If someone is under formal disciplinary or performance procedures, their CPI rise will be postponed while this is ongoing
-
-The CPI figure comes from published Office of National Statistics data
+We're currently revising this section of the playbook and this will be updated over the next few months. Directors are responsible for this, with support from the People team, and will be engaging with various forums including the Staff Council.
 
 ## London weighting
 
