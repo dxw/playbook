@@ -273,8 +273,8 @@ the `Default API` (not the `ops_team api`) and add them as a responder.
 If you are alerted out of hours you can claim Time Off in Lieu (TOIL) in
 BreatheHR.
 
-* For alerts while you are awake you can claim 0.25 days of TOIL.
-* For alerts which wake you up you can claim 0.5 days of TOIL.
+* For alerts while you are awake you can claim 0.25 days/1.75 hours of TOIL.
+* For alerts which wake you up you can claim 0.5 days/3.5 hours of TOIL.
 
 If you have to work more than an hour fixing an alert, you can claim extra TOIL
 at 0.25 days per hour.
