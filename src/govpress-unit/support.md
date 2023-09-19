@@ -33,7 +33,7 @@ someone appropriate in the relevant Zendesk group, which are:
   days and is clearly defined. This might mean making a small change to the
   styling of a site or its functionality. Tickets in this view should have a
   corresponding Trello card in the
-  [Oak Squad board](https://trello.com/b/pF46aRdl/govpress-oak-squad).
+  [Support and Maintenance Backlog](https://trello.com/b/pF46aRdl/govpress-support-and-maintenance-backlog).
 - **GovPress scoping and discussion** for development tasks that take more than 0.5 days.
   This work may need to be scoped in more detail and the relevant Delivery and
   Squad Lead should be made aware of it. If a task is very complex, colleagues
@@ -42,7 +42,8 @@ someone appropriate in the relevant Zendesk group, which are:
   especially busy, support work might move into Pine Squad, or be scheduled for
   future sprints. Tickets in this view should have a corresponding Trello card
   in the
-  [Spruce Squad board](https://trello.com/b/c060cvdQ/govpress-spruce-delivery-board).
+  [Support and Maintenance Backlog](https://trello.com/b/pF46aRdl/govpress-support-and-maintenance-backlog)
+  or they may be moved out to a client Trello board.
 
 Note that if a task takes longer than expected, colleagues on GovPress 1st or
 2nd line support will want to cascade the work down to the next group.
@@ -89,7 +90,7 @@ which are closest to breaching their SLA.
 
 ![ Zendesk Trello integration](/assets/images/govpress/support-Zendesk-Trello-integration.png)
 
-You can automatically create a Trello card for the Oak or Spruce squad boards
+You can automatically create a Trello card for the appropriate board
 from within Zendesk. Click on the "bento box" menu icon labelled **Apps** on the
 right of the ticket (1), and fill in the highlighted form (2) to create a new
 ticket. Once the ticket has been created, you will see its id appear with the
@@ -102,7 +103,7 @@ other ticket attributes (3).
 On Support, you are likely to need access to more of our infrastructure than you
 would normally use in day to day development work. If you have never worked on
 the support rota before, in the
-[Oak Squad Trello board](https://trello.com/b/pF46aRdl/govpress-oak-squad),
+[Support and Maintenance Backlog](https://trello.com/b/pF46aRdl/govpress-support-and-maintenance-backlog),
 please make a copy of the card called
 [Add a new developer to the support rota (copy me!)](https://trello.com/c/Q5BahEhI/207-add-a-new-developer-to-the-support-rota-copy-me)
 to keep track of the work that you (and others) need to do to gain access to all
@@ -169,7 +170,7 @@ in the group.
 ## During your rotation
 
 Whilst you are working in Support, please attend the Oak Squad stand-ups and join
-the [Oak Squad Trello board](https://trello.com/b/pF46aRdl/govpress-oak-squad).
+the [Support and Maintenance Backlog](https://trello.com/b/pF46aRdl/govpress-support-and-maintenance-backlog).
 This will help you with context for what is going on in 2nd line support, and
 the other work around our infrastructure.
 
@@ -211,17 +212,17 @@ sometimes holds tickets for GovPress.
 ## If you run out of 2nd line tickets to work on
 
 Whilst you are on Support, 2nd line work should keep you busy through the day
-and this will be your first priority. Work from your usual squad will be picked
-up by other colleagues.
+and this will be your first priority. Work from any sprinting teams you might have
+been working with will be picked up by other colleagues.
 
 If you run out of tickets to resolve, please ask GovPress 1st line support if
 they need help. If you still have nothing to do, please go through the
-**Weekly routine** swimlane in the
-[Oak Squad Trello board](https://trello.com/b/pF46aRdl/govpress-oak-squad),
+**Weekly tasks** swimlane in the
+[Week in Progress](https://trello.com/b/Y2QL3Pha/govpress-support-and-maintenance-week-in-progress),
 which lists the jobs that need completing weekly. Each card there should have a
 clear explanation of how the relevant job should be done. If those explanations
 aren’t clear, please ask on the
-[Oak Squad Slack channel](https://dxw.slack.com/archives/C04AJM8DCRF).
+[`#dxw-govpress-maintenance-and-support` Slack channel](https://dxw.slack.com/archives/C04AJM8DCRF).
 
 ## Ending a 2nd line support rotation
 

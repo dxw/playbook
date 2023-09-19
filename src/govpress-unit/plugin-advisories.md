@@ -20,7 +20,7 @@ The steps for progressing an Advisory are:
 6. Request a CVE
 
 The progress of advisories and inspections should be tracked on the
-[Oak Squad Trello board](https://trello.com/b/pF46aRdl/govpress-oak-squad)
+[Support and Maintenance Backlog](https://trello.com/b/pF46aRdl/govpress-support-and-maintenance-backlog)
 
 ## Check for existing advisories
 
