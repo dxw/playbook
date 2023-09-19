@@ -48,7 +48,7 @@ draft or privately published.
 ## The Trello board
 
 The progress of plugin inspections is tracked using the
-[Oak Squad Trello board](https://trello.com/b/pF46aRdl/govpress-oak-squad).
+[Support and Maintenance Backlog](https://trello.com/b/pF46aRdl/govpress-support-and-maintenance-backlog).
 Although this contains a backlog of pending inspections, the order these are
 worked through should be based on the associated tickets, or on Fridays, in
 discussion with DMs.
