@@ -9,7 +9,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     Ascii85 (1.1.0)
-    addressable (2.8.4)
+    addressable (2.8.5)
       public_suffix (>= 2.0.2, < 6.0)
     afm (0.2.2)
     async (2.4.2)
@@ -31,7 +31,7 @@ GEM
     forwardable-extended (2.6.0)
     google-protobuf (3.21.12)
     hashery (2.1.2)
-    html-proofer (5.0.7)
+    html-proofer (5.0.8)
       addressable (~> 2.3)
       async (~> 2.1)
       nokogiri (~> 1.13)
@@ -93,7 +93,7 @@ GEM
       ruby-rc4
       ttfunk
     posix-spawn (0.3.15)
-    public_suffix (5.0.1)
+    public_suffix (5.0.3)
     racc (1.7.1)
     rainbow (3.1.1)
     rake (13.0.6)
@@ -118,7 +118,7 @@ GEM
     unicode-display_width (2.4.2)
     webrick (1.8.1)
     yell (2.2.2)
-    zeitwerk (2.6.8)
+    zeitwerk (2.6.11)
 
 PLATFORMS
   arm64-darwin-21
