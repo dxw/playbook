@@ -11,11 +11,11 @@ We encourage our teams to get involved in analysis and synthesis, so that they u
 
 This guide lists our favourite books, articles and videos on the analysis and synthesis methods and techniques we use most often. In future we aim to add links to any tools and templates we have created, along with good examples from previous projects.
 
-## Principles and stages analysis and synthesis
+## Principles and stages of analysis and synthesis
 
 The purpose of analysis and synthesis (sometimes also called sensemaking) is to produce findings (sometimes also called insights) that can inform what our team, and sometimes the wider organisation, does next.
 
-We do at least an initial analysis and synthesis at the end of each ‘batch’ of research, so that we can quickly [learn, share and adapt](https://playbook.dxw.com/user-research/#user-research-principles). We may need later to combine findings from different research activities into a coherent picture, and we plan the pace of our research to avoid building up analysis and synthesis debt.
+We do at least an initial analysis and synthesis at the end of each ‘batch’ of research, so that we can quickly [learn, share and adapt](https://playbook.dxw.com/user-research/#user-research-principles). Later we may combine findings from different research activities into a coherent picture. And we plan the pace of our research to avoid building up analysis and synthesis debt.
 
 Our rule of thumb is “one part research to two parts communication”. For a day spent doing interviews, for example, we expect to spend the next two days on analysis and synthesis, and sharing your findings.
 
