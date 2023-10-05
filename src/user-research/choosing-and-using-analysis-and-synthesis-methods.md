@@ -102,7 +102,7 @@ One of our research principles is to [build on existing evidence](https://playbo
 
 So an important source of our findings, particularly in discovery projects, is existing information, whether from inside or outside the client organisation. These sources might be previous discovery reports, service performance investigations, government and industry statistics, and government and third-sector social research.
 
-It can be hard to find and access relevant the previous and current work that might be useful. We collect and review information that our clients and other stakeholders provide. And we actively seek other sources, including asking stakeholders for the reports, analyses and other evidence that have informed their views.
+It can be hard to find and access all the relevant previous and current work that might be useful. We collect and review information that our clients and other stakeholders provide. And we actively seek other sources, including asking stakeholders for the reports, analyses and other evidence that have informed their views.
 
 When reviewing existing information, we are guided by our research questions, and apply the 3 stages of analysis and synthesis (from observations, to findings and actions).
 
