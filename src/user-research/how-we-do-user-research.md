@@ -61,7 +61,7 @@ These are the things that user researchers usually do on projects, and the relev
 
 5. **Analyse research and produce findings**
 
-   Researchers carefully analyse the different kinds of data we collect. We analyse data in batches and record our findings from sprint to sprint. And we involve our colleagues and clients in analysis to make sure our findings are clear and relevant.
+   Researchers carefully analyse the different kinds of data we collect, whether from new research or from existing sources. We analyse data in batches and record our findings from sprint to sprint. And we involve our colleagues and clients in analysis to make sure our findings are clear and relevant.
 
    Based on our findings, we get actively involved in identifying opportunities, making recommendations, creating design ideas and setting priorities.
 
