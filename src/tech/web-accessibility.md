@@ -123,8 +123,8 @@ provides specific guidance on how to use them.
 #### Magnification and viewport size
 
 Part of your testing also needs to identify any failures for a website to
-[resize](https://www.w3.org/WAI/WCAG21/Understanding/resize-text.html) and
-[reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html) the text and
+[resize](https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html) and
+[reflow](https://www.w3.org/WAI/WCAG22/Understanding/reflow.html) the text and
 layout sufficiently to a zoom level of up to 400% and smaller viewport sizes
 down to 320 CSS pixels. This helps support people with low vision who need to
 enlarge text and read it in a single column as well as anyone who browses with a
@@ -154,7 +154,7 @@ accessibility in decision-making at all stages.
 
 ## Further information
 
-* [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
+* [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
 * [Making online public services accessible](https://accessibility.campaign.gov.uk/)
 * [Authoring Tool Accessibility Guidelines overview](https://www.w3.org/WAI/standards-guidelines/atag/)
 * [GDS Empathy Lab](https://gds.blog.gov.uk/2018/06/20/creating-the-uk-governments-accessibility-empathy-lab/)
