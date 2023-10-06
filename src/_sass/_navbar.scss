@@ -6,12 +6,9 @@ $height: 135.008px; // Manually measured after layout.
 $height-large: 85.016px; // Manually measured after layout.
 
 .navbar {
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  right: 0;
-  left: 0;
-
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
   background-color: colours.$navy;
 
   a {
@@ -33,31 +30,17 @@ $height-large: 85.016px; // Manually measured after layout.
   }
 
   > ul {
-    @include breakpoints.on-large-screens {
-      display: flex;
-      align-items: center;
-      justify-content: flex-end;  
-    }
-
-    margin: 1em;
+    margin: 0;
     padding: 0;
     list-style: none;
 
     > li {
-      margin-bottom: 0;
+      margin: 0;
 
       &:first-child {
-        margin-right: auto;
+        margin-bottom: 1em;
       }
     }
-  }
-
-  &__search {
-    @include breakpoints.on-large-screens {
-      margin-top: 0;
-    }
-
-    margin-top: 1em;
   }
 }
 

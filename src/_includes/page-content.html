@@ -3,28 +3,26 @@
 {% capture commit_history_url %}https://github.com/dxw/playbook/commits/main/src/{{ page.path }}{% endcapture %}
 
 <article class="page-content">
-  <div>
-    <h1>{{ page.title }}</h1>
+  <h1>{{ page.title }}</h1>
 
-    {% assign stripped_content = content | strip %}
-    {% if stripped_content == "" %}
-      <ul>
-        {% include related_pages.html %}
-      </ul>
-    {% else %}
-      {% include anchor_headings.html html=content anchorBody="#" anchorAttrs='aria-label="Permalink to %heading%"' %}
+  {% assign stripped_content = content | strip %}
+  {% if stripped_content == "" %}
+    <ul>
+      {% include related_pages.html %}
+    </ul>
+  {% else %}
+    {% include anchor_headings.html html=content anchorBody="#" anchorAttrs='aria-label="Permalink to %heading%"' %}
 
-      <hr>
-  
-      <p>
-        <i>
-          {% if last_reviewed_at > last_modified_at %}
-            Last reviewed: {{ page.last_reviewed_at | date: "%-d %B %Y" }}
-            <br>
-          {% endif %}
-          Last updated: {{ page.last_modified_at | date: "%-d %B %Y" }} (<a href="{{ commit_history_url }}">history</a>)
-        </i>
-      </p>    
-    {% endif %}
-  </div>
+    <hr>
+
+    <p id="last-review-and-updated">
+      <i>
+        {% if last_reviewed_at > last_modified_at %}
+          Last reviewed: {{ page.last_reviewed_at | date: "%-d %B %Y" }}
+          <br>
+        {% endif %}
+        Last updated: {{ page.last_modified_at | date: "%-d %B %Y" }} (<a href="{{ commit_history_url }}">history</a>)
+      </i>
+    </p>    
+  {% endif %}
 </article>

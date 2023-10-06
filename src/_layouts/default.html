@@ -25,12 +25,14 @@
     <script defer data-domain="playbook.dxw.com" src="https://plausible.io/js/script.manual.js"></script>
   </head>
   <body>
-    {% include navbar.html %}
-    <main>
+    <header>
+      {% include navbar.html %}
       {% include related.html %}
+      {% include contribute.html %}
+    </header>
+    <main>
       {% include page-content.html %}
     </main>
-    {% include contribute.html %}
     <script src="/assets/js/plausible.js"></script>
   </body>
 </html>
