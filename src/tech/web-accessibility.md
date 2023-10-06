@@ -11,7 +11,7 @@ permanent, temporary and situational types of disability. This is why it matters
 that everything we create for the web is as easy to use as possible so that no
 one is excluded from using a website because of their disability.
 
-It also matters because making online public services that meet WCAG 2.1 level
+It also matters because making online public services that meet WCAG 2.2 level
 AA standards is a legal duty under the [Accessibility regulations](https://www.legislation.gov.uk/uksi/2018/952/contents/made).
 
 ## Design for accessibility
@@ -21,7 +21,7 @@ because they are often harder and more time-consuming to resolve later on in the
 development phase.
 
 * Review the GOV.UK Service Manual
-  [(Understanding WCAG 2.1)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
+  [(Understanding WCAG 2.2)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
   to check your designs meet all the criteria to level AA or above.
 * Use a tool such as [Who can use](https://whocanuse.com/) to check all colour
   combinations meet WCAG grading of level AA or above.
@@ -32,11 +32,11 @@ development phase.
 ## Develop for accessibility
 
 Whether working on an existing codebase or starting an entirely new project,
-everything should be accessible to WCAG 2.1 level AA. This includes any plugins
+everything should be accessible to WCAG 2.2 level AA. This includes any plugins
 authored outside dxw.
 
 * The GOV.UK Service Manual
-  [(Understanding WCAG 2.1)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
+  [(Understanding WCAG 2.2)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
   is also a helpful starting point to assess parts of your development work
   against for accessibility.
 * Test existing code and plugins for accessibility **before** and **after**
@@ -123,8 +123,8 @@ provides specific guidance on how to use them.
 #### Magnification and viewport size
 
 Part of your testing also needs to identify any failures for a website to
-[resize](https://www.w3.org/WAI/WCAG21/Understanding/resize-text.html) and
-[reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html) the text and
+[resize](https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html) and
+[reflow](https://www.w3.org/WAI/WCAG22/Understanding/reflow.html) the text and
 layout sufficiently to a zoom level of up to 400% and smaller viewport sizes
 down to 320 CSS pixels. This helps support people with low vision who need to
 enlarge text and read it in a single column as well as anyone who browses with a
@@ -154,7 +154,7 @@ accessibility in decision-making at all stages.
 
 ## Further information
 
-* [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
+* [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
 * [Making online public services accessible](https://accessibility.campaign.gov.uk/)
 * [Authoring Tool Accessibility Guidelines overview](https://www.w3.org/WAI/standards-guidelines/atag/)
 * [GDS Empathy Lab](https://gds.blog.gov.uk/2018/06/20/creating-the-uk-governments-accessibility-empathy-lab/)
