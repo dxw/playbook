@@ -11,7 +11,7 @@ permanent, temporary and situational types of disability. This is why it matters
 that everything we create for the web is as easy to use as possible so that no
 one is excluded from using a website because of their disability.
 
-It also matters because making online public services that meet WCAG 2.1 level
+It also matters because making online public services that meet WCAG 2.2 level
 AA standards is a legal duty under the [Accessibility regulations](https://www.legislation.gov.uk/uksi/2018/952/contents/made).
 
 ## Design for accessibility
@@ -21,7 +21,7 @@ because they are often harder and more time-consuming to resolve later on in the
 development phase.
 
 * Review the GOV.UK Service Manual
-  [(Understanding WCAG 2.1)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
+  [(Understanding WCAG 2.2)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
   to check your designs meet all the criteria to level AA or above.
 * Use a tool such as [Who can use](https://whocanuse.com/) to check all colour
   combinations meet WCAG grading of level AA or above.
@@ -32,11 +32,11 @@ development phase.
 ## Develop for accessibility
 
 Whether working on an existing codebase or starting an entirely new project,
-everything should be accessible to WCAG 2.1 level AA. This includes any plugins
+everything should be accessible to WCAG 2.2 level AA. This includes any plugins
 authored outside dxw.
 
 * The GOV.UK Service Manual
-  [(Understanding WCAG 2.1)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
+  [(Understanding WCAG 2.2)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
   is also a helpful starting point to assess parts of your development work
   against for accessibility.
 * Test existing code and plugins for accessibility **before** and **after**
