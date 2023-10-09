@@ -66,7 +66,7 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 
    Researchers at dxw help our clients build on the knowledge and data they already
    have. We combine existing knowledge, poorly understood data and new research
-   into a coherent picture. And know how much it increases the credibility of our findings when we properly use and acknowledge previous work.
+   into a coherent picture. And know how much we increase the credibility of our findings when we properly use and acknowledge previous work.
 
 8. **Accept and admit constraints**
 
