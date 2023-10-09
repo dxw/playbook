@@ -15,15 +15,11 @@ Note that this guidance applies to all dxw staff, dxw friends, and partner and c
 
 Our principles are not rules. They guide our work, keep us improving as a team, and working with, not for our clients.
 
-1. **Help teams understand people**
+1. **Help teams understand and value people**
 
-   Researchers at dxw help our teams build a deep understanding of the people
-   who use our services. We know that’s the best way to help teams make good decisions and create public services
-   that work well for the people who need them.
+   Researchers at dxw help our teams to build a deep understanding of the people who use our services, and to value and act on that understanding. We know that’s how we can best contribute to teams making good decisions and creating public services that work well for the people who need them.
 
-   We are facilitators, not gatekeepers. We actively involve our colleagues and
-   clients in research. And openly share what we do, how we do it and why it’s
-   important.
+   We are facilitators, not gatekeepers. We actively involve our colleagues and clients in research. And openly share what we do, how we do it and why it’s important.
 
 2. **Find the truth. Tell the truth**
 
@@ -68,9 +64,9 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 
 7. **Build on existing evidence**
 
-   Researchers at dxw help clients build on the knowledge and data they already
+   Researchers at dxw help our clients build on the knowledge and data they already
    have. We combine existing knowledge, poorly understood data and new research
-   into a coherent picture. We know how much it increases the credibility of our findings when we properly use and acknowledge previous work.
+   into a coherent picture. And know how much it increases the credibility of our findings when we properly use and acknowledge previous work.
 
 8. **Accept and admit constraints**
 
