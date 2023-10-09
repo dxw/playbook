@@ -64,7 +64,7 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 
 7. **Build on existing evidence**
 
-   Researchers at dxw help clients build on the knowledge and data they already
+   Researchers at dxw help our clients build on the knowledge and data they already
    have. We combine existing knowledge, poorly understood data and new research
    into a coherent picture. And know how much it increases the credibility of our findings when we properly use and acknowledge previous work.
 
