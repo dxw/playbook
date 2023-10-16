@@ -6,14 +6,14 @@
 }
 
 main {
-  margin-top: navbar.$height;
-  height: calc(100vh - navbar.$height);
+  @include breakpoints.on-large-screens {
+    flex-direction: row;
+    height: calc(100vh - navbar.$height-large - 3em);
+    margin-top: navbar.$height-large;
+  }
+
   display: flex;
   flex-direction: column;
-
-  @include breakpoints.on-large-screens {
-    margin-top: navbar.$height-large;
-    height: calc(100vh - navbar.$height-large - 3em);
-    flex-direction: row;
-  }
+  height: calc(100vh - navbar.$height);
+  margin-top: navbar.$height;
 }
