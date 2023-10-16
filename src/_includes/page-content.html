@@ -8,7 +8,7 @@
   {% assign stripped_content = content | strip %}
   {% if stripped_content == "" %}
     <ul>
-      {% include related_pages.html %}
+      {% include related_pages.html in-nav=false %}
     </ul>
   {% else %}
     {% include anchor_headings.html html=content anchorBody="#" anchorAttrs='aria-label="Permalink to %heading%"' %}
