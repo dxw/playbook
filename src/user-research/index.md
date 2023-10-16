@@ -3,7 +3,7 @@ title: User research at dxw
 related_order: 1000
 last_reviewed_at: ""
 ---
-At dxw, we believe in [starting with people and their needs](https://playbook.dxw.com/who-we-are/#start-with-people-and-their-needs).
+At dxw, we believe in [starting with people and their needs](/about-us/our-mission-values-and-principles/#start-with-people-and-their-needs).
 
 As user researchers, we help multidisciplinary teams learn about all the different people who will use and be affected by a service. And help organisations to recognise the value of user research.
 
