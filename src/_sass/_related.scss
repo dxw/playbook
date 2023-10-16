@@ -14,7 +14,6 @@ $list-d-size: 11px;
 
   font-family: typography.$heading-font-family;
   font-size: 0.9em;
-  font-weight: typography.$heading-font-weight;
 
   background-color: colours.$accent-a;
 
@@ -55,7 +54,9 @@ $list-d-size: 11px;
     background-color: colours.$cream;
     
     ul li {
+      position: relative;
       padding-right: 0;
+      padding-left: calc($list-d-size + 10px);
       white-space: unset;
 
       a {
@@ -68,7 +69,13 @@ $list-d-size: 11px;
       
       &.related__back-link {
         margin-bottom: 1.5em;
-        padding-left: 0;
+
+        &::before {
+          content: "ᐊ";
+          position: absolute;
+          top: 0;
+          left: 0;
+        }
       }
 
       &:not(:is(:last-child, .related__back-link)) {
