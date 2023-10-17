@@ -83,7 +83,7 @@ The owner is responsible for making sure that their parts of the Playbook:
 
 The owners of each section are:
 
-* David Mann - [Who we are](/who-we-are/)
+* David Mann - [About us](/about-us/)
 * Alex Jackson - [The work we do > Sales](/work-we-do/sales/)
 * Clare Young - [The work we do > Building services](/work-we-do/building-services/)
 * Alex Jackson -

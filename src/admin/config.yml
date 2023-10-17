@@ -39,10 +39,10 @@ collections:
           - { label: Body, name: body, widget: markdown, required: true }
 
   - <<: *collection_defaults
-    name: who-we-are
-    label: Who we are
-    label_singular: Who we are page
-    folder: src/who-we-are
+    name: about-us
+    label: About us
+    label_singular: About us page
+    folder: src/about-us
 
   - <<: *collection_defaults
     name: work-we-do
