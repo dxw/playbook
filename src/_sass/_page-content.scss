@@ -5,16 +5,19 @@
 $font-size: 1em;
 
 .page-content {
-  flex: 1;
-  padding: 0.5em 2em 5em;
-  font-size: $font-size;
-  overflow-y: auto;
-  scroll-behavior: smooth;
   will-change: scroll-position;
+  scroll-behavior: smooth;
+
+  overflow-y: auto;
+  flex: 1;
+
+  padding: 0.5em 2em 5em;
+
+  font-size: $font-size;
 
   > div {
-    margin: 0 auto;
     max-width: 40em;
+    margin: 0 auto;
 
     > h1,
     > h2,
@@ -22,20 +25,17 @@ $font-size: 1em;
     > h4,
     > h5,
     > h6 {
-      margin-left: -0.5em;
       margin-right: -0.5em;
-      padding-left: 0.5em;
+      margin-left: -0.5em;
       padding-right: 0.5em;
-
-      &:target a {
-        display: none;
-      }
+      padding-left: 0.5em;
 
       a {
-        vertical-align: middle;
         font-size: 0.7em;
         color: colours.$accent-b;
         text-decoration: none;
+        vertical-align: middle;
+
         transition: color 0.2s;
 
         &:hover,
@@ -43,6 +43,10 @@ $font-size: 1em;
         &:active {
           color: colours.$navy;
         }
+      }
+
+      &:target a {
+        display: none;
       }
     }
 

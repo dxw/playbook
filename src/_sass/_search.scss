@@ -4,23 +4,21 @@
   display: flex;
   outline: solid 0.1875rem transparent;
 
-  @media (prefers-reduced-motion: no-preference) {
-    transition: outline-color 0.35s ease, outline-width 0.45s ease;
-  }
-
   &:focus-within {
     outline-color: colours.$blue-light;
     outline-width: 0.1875rem;
   }
 
   &__input {
-    background-color: colours.$ivory;
-    border: 0.063rem solid colours.$navy;
-    color: colours.$navy;
-    line-height: 1.35;
+    width: 100%;
     margin-right: -0.063rem;
     padding: 0.5rem 0.938rem;
-    width: 100%;
+
+    line-height: 1.35;
+    color: colours.$navy;
+
+    background-color: colours.$ivory;
+    border: 0.063rem solid colours.$navy;
 
     &:focus {
       outline: none;
@@ -28,17 +26,22 @@
   }
 
   &__submit {
-    background-color: colours.$yellow-light;
-    border: 0.063rem solid colours.$navy;
     cursor: pointer;
 
     display: flex;
     align-items: center;
 
+    background-color: colours.$yellow-light;
+    border: 0.063rem solid colours.$navy;
+
     &-icon {
       width: 2rem;
       height: 60%;
     }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    transition: outline-color 0.35s ease, outline-width 0.45s ease;
   }
 }
 
@@ -50,8 +53,8 @@
   }
 
   &__result {
-    list-style-type: none;
     margin-bottom: 2rem;
+    list-style-type: none;
 
     &-heading {
       margin: 0 0 1rem;

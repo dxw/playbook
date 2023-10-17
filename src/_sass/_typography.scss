@@ -1,22 +1,22 @@
 @use "./colours";
 
-$body-font-family: Cardo, serif;
+$body-font-family: cardo, serif;
 $body-font-weight: 400;
 $body-font-weight-bold: 700;
-
-$heading-font-family: Poppins, sans-serif;
+$heading-font-family: poppins, sans-serif;
 $heading-font-weight: 600;
 
-@import url("https://fonts.googleapis.com/css?family=Poppins:600&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Cardo:400,700&display=swap");
+@import "https://fonts.googleapis.com/css?family=Poppins:600&display=swap";
+@import "https://fonts.googleapis.com/css?family=Cardo:400,700&display=swap";
 
 body {
-  -moz-osx-font-smoothing: grayscale;
   font-family: $body-font-family;
-  font-weight: $body-font-weight;
   font-size: 15pt;
+  font-weight: $body-font-weight;
   line-height: 1.5;
   color: colours.$navy;
+
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h1,
@@ -39,9 +39,9 @@ strong {
 
 a {
   color: colours.$navy;
+  text-decoration-color: colours.$accent-b;
   text-decoration-line: underline;
   text-decoration-thickness: 0.1em;
-  text-decoration-color: colours.$accent-b;
 
   &:active,
   &:focus,
@@ -52,8 +52,8 @@ a {
 
 code,
 pre {
-  background-color: colours.$cream;
   color: colours.$navy;
+  background-color: colours.$cream;
 }
 
 code {
@@ -61,15 +61,15 @@ code {
 }
 
 pre {
-  padding: 1em;
   overflow-x: auto;
+  padding: 1em;
 }
 
 blockquote {
-  margin-left: 0;
   margin-right: 0;
-  border-left: 3px solid colours.$accent-b;
+  margin-left: 0;
   padding-left: 1em;
+  border-left: 3px solid colours.$accent-b;
 }
 
 li {

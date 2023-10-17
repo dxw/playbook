@@ -3,13 +3,16 @@
 @use "./typography";
 
 .related {
+  overflow-y: auto;
+
   width: 100%;
   padding: 1em;
-  background-color: colours.$accent-a;
+
   font-family: typography.$heading-font-family;
-  font-weight: typography.$heading-font-weight;
   font-size: 0.9em;
-  overflow-y: auto;
+  font-weight: typography.$heading-font-weight;
+
+  background-color: colours.$accent-a;
 
   a {
     display: block;
@@ -18,9 +21,9 @@
     &:hover,
     &:focus,
     &:active {
+      text-decoration-color: colours.$accent-b;
       text-decoration-line: underline;
       text-decoration-thickness: 0.15em;
-      text-decoration-color: colours.$accent-b;
     }
   }
 
@@ -47,6 +50,7 @@
     max-width: 30vw;
     height: 100%;
     padding: 1.5em 1em;
+
     background-color: colours.$cream;
 
     a {
