@@ -44,4 +44,4 @@ What the wellbeing voucher offers is on the [Eyecare for Wellbeing](https://eyem
 
 We provide a Macbook and home office setup budget.
 
-Here’s [a guide that covers how we can support your home working environment](https://docs.google.com/document/d/17Q8zOEm4cd0ZDGqkT8Bcg8G1CCK_vLlwMtOFVgJalAU/edit#heading=h.1z3dei2pr1jh). We can also provide a [Display Screen Equipment (DSE) assessment](https://www.hse.gov.uk/msd/dse/) if you need specialist advice.
+Here’s [a guide that covers how we can support your home working environment](https://docs.google.com/document/d/17Q8zOEm4cd0ZDGqkT8Bcg8G1CCK_vLlwMtOFVgJalAU/edit). We can also provide a [Display Screen Equipment (DSE) assessment](https://www.hse.gov.uk/msd/dse/) if you need specialist advice.
