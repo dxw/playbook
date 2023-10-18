@@ -3,7 +3,7 @@
   {% assign related_pages = related_page_group.items | sort_natural: "title" %}
 
   {% for related_page in related_pages %}
-    {% unless related_page.unrelatable %}
+    {% unless related_page.unrelatable or (related_page.title.size == 0) %}
       <li>
         <a href="{{ related_page.url }}">
           {{ related_page.title }}
@@ -12,6 +12,9 @@
     {% endunless %}
   {% endfor %}
 {% endfor %}
+
+{% if include.in-nav %}
   <li>
     <a href="https://www.dxw.com/contact/">Contact dxw</a>
   </li>
+{% endif %}

@@ -6,12 +6,12 @@
       {% if parent_page %}
         {% unless parent_page.unrelatable %}
           <li class="related__back-link">
-            <a href="{{ parent_page.url }}">ᐊ {{ parent_page.title }}</a>
+            <a href="{{ parent_page.url }}">{{ parent_page.title }}</a>
           </li>
         {% endunless %}
       {% endif %}
 
-      {% include related_pages.html %}
+      {% include related_pages.html in-nav=true %}
     </ul>
   </nav>
 </aside>
