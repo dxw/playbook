@@ -2,7 +2,7 @@
 title: Technology team promotion process
 redirect_from:
   - /guides/tech-team-promotion-process
-last_reviewed_at: ""
+last_reviewed_at: 2023-10-30T16:06:35.454Z
 ---
 In this document ‘Head of Discipline’ means Head of Technical Operations if you are an ops engineer, or Head of Development if you are a developer.
 
@@ -117,11 +117,9 @@ Your promotion panel should meet between 1 and 2 weeks after the application dea
 
 The panel will review the Progression check-ins and any accompanying docs. The review will focus on:
 
-Your current performance, primarily relating to the Progression framework, but also considering general professionalism and dxw values more generally
-
-Your potential to perform at a higher level given the opportunity
-
-Any personal circumstances that should be considered. [Personal circumstances could include anyone with a disability or a physical or mental health condition](https://www.gov.uk/reasonable-adjustments-for-disabled-workers), or anything at all that you feel affects your ability to work.
+* Your current performance, primarily relating to the Progression framework, but also considering general professionalism and dxw values more generally
+* Your potential to perform at a higher level given the opportunity
+* Any personal circumstances that should be considered. [Personal circumstances could include anyone with a disability or a physical or mental health condition](https://www.gov.uk/reasonable-adjustments-for-disabled-workers), or anything at all that you feel affects your ability to work.
 
 General professionalism covers things that are standard workplace expectations like ‘be respectful to your colleagues’, ‘turn up on time to meetings’ etc. but which aren’t explicitly written in the framework or Playbook (and would be hard to list in full). These and the dxw values are things you are assumed to be doing/following, unless there is clear evidence that you’re not. You are not expected to provide evidence about them as part of your promotion application.
 
