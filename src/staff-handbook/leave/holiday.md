@@ -12,7 +12,9 @@ The holiday year at dxw runs between 1st January and 31st December, and you are 
 1. Discuss the dates with your team and delivery lead
 
    This gives them a chance to manage any impact it might have on the wider team
-   and the project.
+   and the project. Colleagues in GovPress should do this via the `#dxw-govpress-holiday-plans`
+   Slack channel.
+
 2. Request the holiday through BreatheHR
 
    We use BreatheHR to track who's off and when, so we can plan for it. Your
