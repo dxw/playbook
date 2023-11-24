@@ -5,7 +5,6 @@ redirect_from:
   - /working-here/redundancy-policy
 last_reviewed_at: ""
 ---
-
 The coronavirus pandemic has caused us to look at some of our HR policies - or
 more pertinently, the lack of them. It comes at a time where we have grown as a
 company, but have not yet put in place all the policies and procedures that a
@@ -43,10 +42,10 @@ situation, everyone in the pool will be treated as being at risk and there will
 be a selection process. We will publish the selection criteria at the time,
 which may include any or all of the following:
 
-- a performance assessment
-- any disciplinary issues having previously arisen
-- adaptability to a new role or way of working
-- attendance record
+* a performance assessment
+* any disciplinary issues having previously arisen
+* adaptability to a new role or way of working
+* attendance record
 
 ## The process we’ll follow if we need to make redundancies
 
@@ -138,3 +137,5 @@ Your final salary payment will comprise your normal salary during your notice
 period, and any unused holiday entitlement accrued up to your leaving date
 (these are both subject to tax and national insurance in the usual way),
 together with your statutory redundancy pay.
+
+*Changes to this page must be approved by a member of the Senior Leadership Team.*
