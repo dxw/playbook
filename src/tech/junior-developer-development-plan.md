@@ -8,7 +8,7 @@ last_reviewed_at: ""
 
 Before a junior developer can be promoted, they need to be:
 
-* independently productive
+* independently productive dasiufysdfio ysdf oiysdfoiy
 * billable as a developer
 
 ## Support
