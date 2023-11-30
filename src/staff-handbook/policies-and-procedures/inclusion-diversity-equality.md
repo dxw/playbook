@@ -6,7 +6,6 @@ redirect_from:
 related_order: 5
 last_reviewed_at: ""
 ---
-
 ## Equal opportunities statement
 
 At dxw, we value people and believe that having a team of individuals with
@@ -209,3 +208,5 @@ There must be no victimisation or retaliation against staff who raise issues
 about discrimination. However, making a false allegation, deliberately and in
 bad faith, will be treated as misconduct and dealt with under our Disciplinary
 Procedure.
+
+*Changes to this page must be approved by a member of the Senior Leadership Team.*
