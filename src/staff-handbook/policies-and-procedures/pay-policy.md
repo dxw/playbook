@@ -82,3 +82,5 @@ We are committed to paying the London living wage or higher for all staff.
 
 Please tell us promptly if your name, address, telephone number, next of kin
 details or banking details change and keep those details up to date in [Breathe](https://login.breathehr.com/login).
+
+*Changes to this page must be approved by a member of the Senior Leadership Team.*
