@@ -1,9 +1,8 @@
 ---
-title: Sickness policy 
+title: Sickness policy
 related_order: 2
 last_reviewed_at: ""
 ---
-
 This policy covers both short and longer term sickness absences. Our aim is to
 look after the health and wellbeing of all dxw staff and the needs of the
 company.
@@ -65,3 +64,5 @@ If you finish your treatment, you'll have a meeting to help your return to work,
 If your sickness absence continues for 3 months after an absence meeting, your line manager will set up a further meeting to discuss your situation. We will look to make any further reasonable adjustments to help you get back working. This might include looking for a suitable alternative role that fits your circumstances better.
 
 Where we're unable to reach an agreement that means you're able to maintain a reasonable level of attendance for work, we may consider your dismissal. We will only do this after we have exhausted all other options.
+
+*Changes to this page must be approved by a member of the Senior Leadership Team.*
