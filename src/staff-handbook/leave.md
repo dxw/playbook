@@ -6,8 +6,6 @@ We understand there may be times when you would like to take extended periods of
 
 A sabbatical is a period of approved unpaid leave which allows you to take this time, without affecting your continuous service. 
 
-
-
 ## **Eligibility**
 
 How much sabbatical leave you are eligible to apply for is linked to your length of service, this is detailed below.
