@@ -30,8 +30,6 @@ Any selection criteria would be explained at the time and could include: 
 * relevant skills or experience 
 * attendance record (which wouldn’t include absences relating to disability, pregnancy or parental leave)
 
-
-
 ## The process we'll follow if we need to make redundancies
 
 ### 1. Inform affected staff
@@ -57,17 +55,15 @@ Consultation meetings will be held between a Director, and with each person whos
 
 The above process describes an individual consultation. If it was in plan to make more than 20 staff redundant within a 90 day period we would follow “Collective Consultation” Rules which is a different process, involving formal staff representation and a longer consultation process.
 
-### 4. Decision on proposal
+### 3. Decision on proposal
 
 Following consultation, we will have a meeting with the affected staff to confirm the final decision on the planned changes.  Full consideration will be given to anything raised through the consultation period before this decision is made. 
 
 Following this meeting we will follow up and confirm the decision in writing. If an affected staff member’s role has been made redundant then the letter will include the terms of the redundancy including notice period, any redundancy pay which is applicable and outline the right to appeal the decision.
 
-### 5. Appeal
+### 4. Appeal
 
 The affected staff members have the right to appeal against the decision to make their role redundant. The appeal should be made in writing, clearly outlining the grounds for appeal within seven calendar days of receiving the decision letter. Appeals should be addressed to the Head of People.
-
-
 
 ## Time off and additional support
 
@@ -80,8 +76,6 @@ The People team can also help with supporting on updating CVs or preparing for i
 In addition to being paid for your notice period, and any accrued but unused holiday pay, dxw will pay statutory redundancy pay.
 
 The amount of statutory redundancy pay is based on your age and length of service. Statutory redundancy pay is not subject to tax. Redundancy pay is tax free up to £30,000, any notice pay and holiday pay will be subject to tax and national insurance deductions. You can find further information on [statutory redundancy pay](https://www.gov.uk/redundancy-your-rights/redundancy-pay) on [www.gov.uk](http://www.gov.uk) including a [Statutory Redundancy Pay Calculator](https://www.gov.uk/calculate-your-redundancy-pay).
-
-
 
 ## Communication with the wider staff body
 
