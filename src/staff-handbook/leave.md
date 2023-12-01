@@ -6,18 +6,23 @@ We understand there may be times when you would like to take extended periods of
 
 A sabbatical is a period of approved unpaid leave which allows you to take this time, without affecting your continuous service. 
 
-## \
-**Eligibility**
+
+
+## **Eligibility**
 
 How much sabbatical leave you are eligible to apply for is linked to your length of service, this is detailed below.
 
-* Under 2 years - N/AYou can apply for more than one sabbatical during your employment. There must be a period of 12 months between returning from one sabbatical and applying for another. 
-*
-*
+* Under 2 years - not eligible
+* Between 1 and 5 years - between 6 weeks and 6 months sabbatical leave
+* Over 5 years - up to 12 months sabbatical leave
+
+You can apply for more than one sabbatical during your employment. There must be a period of 12 months between returning from one sabbatical and applying for another.
 
 Sabbaticals are a discretionary benefit. It may be that we cannot accommodate your request, even if you meet the eligibility criteria.
 
 We will always give you clear feedback on why and discuss any alternative solutions with you. 
+
+
 
 ## **How to apply**
 
@@ -61,6 +66,8 @@ Employees who are signed up to our Cycle-to-Work scheme will be able to pause th
 All other benefits will continue as normal. More detailed information will be included in the sabbatical agreement.
 
 Taking a sabbatical will not impact negatively on your career progression. If a dxw-wide salary increase is granted during the time you are on sabbatical leave, you are still eligible to receive this, and this will be applied to your salary from your return date.
+
+
 
 ## Contractual Arrangements
 
