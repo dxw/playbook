@@ -9,8 +9,6 @@ Our standard working pattern is 5 days per week, Monday to Friday, and 7 hours p
 
 If you have an alternative working arrangement, you should make sure it’s reflected in your calendar so the rest of the team can be confident in knowing when you are and aren’t around.
 
-
-
 ## Requesting a change of working pattern
 
 A change to your working pattern could include changing to a part time working pattern (fewer days, or fewer hours per day), or a compressed working pattern (full time hours over fewer days).
@@ -24,6 +22,8 @@ You can request a change to your working pattern once every 6 months and we may 
 If you would like to request a change to your working pattern, first speak to your line manager. They will discuss your request, and help you to think about any potential impact on you, the team and your work. They may also speak to your Delivery Lead, Director or the People team to help with this.
 
 Once you’ve decided you would like to progress with a new flexible working pattern, please fill in the [change of working pattern request form](https://forms.gle/qA1BwvQenqtVzShF8) and the People team will review this, ahead of confirming your request has been accepted and making any changes to BreatheHR or payroll. You will also receive paperwork outlining the changes. We ask for at least 4 week’s notice for any change to a working pattern.
+
+
 
 ## Annual leave impact
 
