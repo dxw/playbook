@@ -20,10 +20,6 @@ involves work that an agency might not normally do, like advising an
 organisation's leaders on how their teams could be restructured, or on what
 their digital strategy could be.
 
-With the development of dxw's strategy team, we are increasingly targeting more
-strategy-shaped opportunities, to help our clients prepare for, or improve the
-delivery of digital projects.
-
 We also help clients host some of the services that we build, and by selling
 subscription-based products that are related to the rest of our work.
 
