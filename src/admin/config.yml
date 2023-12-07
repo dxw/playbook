@@ -140,12 +140,6 @@ collections:
     label_singular: GovPress Unit page
     folder: src/govpress-unit
 
-  - <<: *collection_defaults
-    name: strategy-unit
-    label: Strategy Unit
-    label_singular: Strategy Unit page
-    folder: src/strategy-unit
-
   - name: redirects
     label: Redirects
     label_singular: Redirect manager
