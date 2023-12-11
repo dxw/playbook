@@ -11,8 +11,6 @@ However, the future is never certain. Significant changes in our plans or in the
 
 This section of the Playbook sets out what we’ll do in those circumstances.
 
-
-
 ## How roles are selected for redundancy
 
 The Directors are responsible for determining any proposed course of action that involves redundancies. They will often need to work in collaboration with the Heads of and the People team to enable them to make informed decisions.
@@ -23,6 +21,8 @@ Despite this, there may still be times where there is no alternative but to make
 
 We might, for example, find that we need to reduce our unbillable roles to keep profits at a sustainable level. Or that we need less people in a particular specialism if we experience a reduction in demand for that type of work. 
 
+### Selection criteria
+
 Depending on the circumstance, we may use a selection process. This will involve grouping staff in the same or similar roles together in “selection pools'' and using selection criteria to ensure that decisions are objective, measurable and fair.
 
 Any selection criteria would be explained at the time and could include: 
@@ -32,15 +32,11 @@ Any selection criteria would be explained at the time and could include: 
 * relevant skills or experience 
 * attendance record (which wouldn’t include absences relating to disability, pregnancy or parental leave)
 
-
-
 ## The process we’ll follow if we need to make redundancies
 
 ### 1. Inform affected staff
 
 We will organise a meeting to tell you if your role is at risk of redundancy. We will share with you an overview of the rationale and follow up with a letter confirming your role is at risk and explaining the consultation process.
-
-
 
 ### 2. Consult staff affected about proposals for change
 
@@ -67,13 +63,9 @@ Following consultation, we will have a meeting with the affected staff to confir
 
 Following this meeting we will follow up and confirm the decision in writing. If an affected staff member’s role has been made redundant then the letter will include the terms of the redundancy including notice period, any redundancy pay which is applicable and outline the right to appeal the decision.
 
-
-
 ### 4. Appeal
 
 The affected staff members have the right to appeal against the decision to make their role redundant. The appeal should be made in writing, clearly outlining the grounds for appeal within seven calendar days of receiving the decision letter. Appeals should be addressed to the Head of People.
-
-
 
 ## Time off and additional support
 
@@ -90,7 +82,5 @@ The amount of statutory redundancy pay is based on your age and length of servic
 ## Communication with the wider staff body
 
 We understand that redundancies are a stressful and uncertain time for all staff, especially those who are directly affected. We will always aim to get the balance right of sharing as much as we can, while protecting the privacy of those who are involved in a consultation process. How we communicate, and when, may vary slightly depending on the specific circumstances and taking into account the preferences of the affected staff. We will inform the Staff Council and the Trust Board of any consultation process after the affected employees have been informed. If redundancies are made we will always communicate this to all staff including any relevant rationale.
-
-
 
 *Changes to this page must be approved by a member of the Senior Leadership Team.*
