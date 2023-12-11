@@ -8,7 +8,7 @@ A sabbatical is a period of approved unpaid leave which allows you to take this 
 
 ## **Eligibility**
 
-How much sabbatical leave you are eligible to apply for is linked to your length of service, this is detailed below.
+How much sabbatical leave you are eligible to apply for is linked to your length of service.
 
 * Under 2 years - not eligible
 * Between 1 and 5 years - between 6 weeks and 6 months sabbatical leave
