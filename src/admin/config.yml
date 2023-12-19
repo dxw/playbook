@@ -76,6 +76,11 @@ collections:
     label_singular: Pay, pension and benefits page
     folder: src/staff-handbook/pay-pension-and-benefits
   - <<: *collection_defaults
+    name: staff-handbook__pay-pension-and-benefits__benefits
+    label: Staff handbook > Pay, pension and benefits > Benefits
+    label_singular: Benefits page
+    folder: src/staff-handbook/pay-pension-and-benefits/benefits
+  - <<: *collection_defaults
     name: staff-handbook__policies-and-procedures
     label: Staff handbook > Policies and procedures
     label_singular: Policies and procedures page
