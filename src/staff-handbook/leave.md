@@ -6,7 +6,7 @@ We understand there may be times when you would like to take extended periods of
 
 A sabbatical is a period of approved unpaid leave which allows you to take this time, without affecting your continuous service. 
 
-## **Eligibility**
+## Eligibility
 
 How much sabbatical leave you are eligible to apply for is linked to your length of service.
 
@@ -20,7 +20,7 @@ Sabbaticals are a discretionary benefit. It may be that we cannot accommodate yo
 
 We will always give you clear feedback on why and discuss any alternative solutions with you. 
 
-## **How to apply**
+## How to apply
 
 1. We recommend having a chat with your line manager first to make them aware of your request.
 2. Send an email to the [People team,](mailto:peopleteam@dxw.com) your line manager and your director detailing the reason for your request and start/end dates for your sabbatical. This should be done at least 8 weeks prior to the requested sabbatical start date. 
@@ -36,7 +36,7 @@ We will always give you clear feedback on why and discuss any alternative soluti
 
 If your request is declined, you can submit an appeal to the Head of People, in writing, within 7 calendar days of receiving the outcome of your sabbatical request. You will receive a response to your appeal within 2 calendar weeks. There will be no further appeal beyond this stage.
 
-## **Accruing holiday while you're on sabbatical leave**
+## Accruing holiday while you're on sabbatical leave
 
 Our dxw standard holiday entitlement, for a full time employee, is 25 days + all UK bank holidays. Whilst on sabbatical leave, you will continue to accrue holiday. However, this will be at the statutory rate of 28 days per annum. If you are part time, then pro-rated calculations will apply. 
 
@@ -46,7 +46,7 @@ We expect holiday entitlement to be taken roughly as it accrues throughout the h
 
 If you have any questions relating to using your holiday, please contact your line manager or the People team to discuss this further. 
 
-## **Salary and Benefits**
+## Salary and Benefits
 
 During the period of your sabbatical, you will not receive your salary and, as a result, your pension contributions will stop.
 
