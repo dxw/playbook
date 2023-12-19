@@ -3,97 +3,36 @@ title: Flexible working
 related_order: 4
 last_reviewed_at: ""
 ---
+We aim to offer as much flexibility as possible for our staff, often this is achieved through an alternative working pattern. Our approach is informed by the way we work and the way we charge clients for our time.
 
-We aim to offer flexibility for people looking for a part-time role or a role
-with flexible hours. Our policy is informed by the way we work and the way we
-charge clients for our time.
+Our standard working pattern is 5 days per week, Monday to Friday, and 7 hours per day (excluding a break for lunch).
 
-If you have arranged an alternative working pattern, you should make sure it’s
-reflected in your calendar so the rest of the team can be confident in knowing
-when you are and aren’t around.
+If you have an alternative working arrangement, you should make sure it’s reflected in your calendar so the rest of the team can be confident in knowing when you are and aren’t around.
+
+
 
 ## Requesting a change of working pattern
 
-If you would like to discuss a change to your working pattern, first speak to
-your line manager. They will discuss your request, and look at the impact on the
-team and your work.
+A change to your working pattern could include changing to a part time working pattern (fewer days, or fewer hours per day), or a compressed working pattern (full time hours over fewer days).
 
-Any changes to working patterns are agreed at our discretion and your line
-manager should review them with you from time to time, to check they are still
-working for you and dxw.
+We are happy to consider any working pattern you think will work for you, but we cannot guarantee we will always be able to accommodate your request.
 
-Once you would like to progress with a new flexible working pattern, please fill
-in the
-[change of working pattern request form](https://forms.gle/qA1BwvQenqtVzShF8)
-and the People team will make the necessary changes.
+Any changes to your working pattern must be sustainable for your wellbeing, productivity and the needs of the role. We will always give you clear feedback if we don’t think we can accommodate your request and discuss any alternative solutions with you.
 
-## Standard working pattern
+You can request a change to your working pattern once every 6 months and we may recommend a trial period for any new working pattern. During this time you and your line manager will catch up regularly to check the change is working for you, and dxw, without a more permanent change to your contract.
 
-The standard working pattern is 5 days per week, Monday to Friday, and 7 hours per
-day (excluding a break for lunch).
+If you would like to request a change to your working pattern, first speak to your line manager. They will discuss your request, and help you to think about any potential impact on you, the team and your work. They may also speak to your Delivery Lead, Director or the People team to help with this.
 
-## Part-time working
+Once you’ve decided you would like to progress with a new flexible working pattern, please fill in the [change of working pattern request form](https://forms.gle/qA1BwvQenqtVzShF8) and the People team will review this, ahead of confirming your request has been accepted and making any changes to BreatheHR or payroll. You will also receive paperwork outlining the changes. We ask for at least 4 week’s notice for any change to a working pattern.
 
-### Weekly or fortnightly working patterns
 
-We’re happy to talk about a 3 or 4 day week, a 9 day fortnight, or a shorter
-working day, where it makes sense for your role. This will depend on the nature
-of your role, client, and dxw needs, and the impact on other team members.
 
-Part time roles have their salary and holiday allowances (including bank
-holidays) prorated.
+## Annual leave impact
 
-For example, when working a 4 day week, the pro rata leave allowance will be 20
-days per year of annual leave and 6.5 bank holiday days, giving a total leave
-allowance of 26.5 days.
+If your role is part time your salary and holiday allowances (including bank holidays) will be prorated.
 
-Note that you must book bank holidays that fall on a working day as
-annual leave in BreatheHR when following this working pattern.
+For example, when working a 4 day week at 7 hours per day, the pro rata leave allowance will be 20 days per year of annual leave and 6.5 bank holiday days, giving a total leave allowance of 26.5 days.
 
-### Working patterns over longer periods
+The People team will book any bank holidays that fall on a working day as annual leave in [BreatheHR](https://login.breathehr.com/login) on your behalf.
 
-As an alternative to a working pattern that reduces your days or hours in a
-week, we’re happy to talk about working patterns that involve a regular number
-of weeks working full-time, followed by some full weeks off.
-
-For example, you might work 4 weeks full-time and have your fifth week off, and
-repeat that on a 5 week cycle: 4 weeks on, 1 week off, 4 weeks on, 1 week off,
-etc. Alternatively, you might work during school term times, and take the school
-holidays off.
-
-This pattern works by reducing your salary and borrowing from the pro rata
-holiday and bank holiday allowance, increasing your total time off but reducing
-your freely placed holiday allowance. Your annual free holiday allowance might
-vary year by year depending on how the weeks and bank holidays land in the year,
-so the pattern must have enough free holiday to cover the maximum number of days
-you would need off while still allowing you to take some ad hoc holidays
-throughout the year.
-
-### What these patterns mean for your salary
-
-As a rough guide on how different patterns would impact your salary:
-
-- 7 weeks on, 1 week off: 90-95% FTE salary
-- 6 weeks on, 1 week off: 85-90% FTE salary
-- 5 weeks on, 1 week off: 85-90% FTE salary
-- 4 weeks on, 1 week off: 80-85% FTE salary
-- school term on, school holidays off: 70% FTE salary
-
-We are happy to discuss the details and work out the best pattern for you.
-
-## Compressed hours
-
-Working with compressed hours involves working your full hours in fewer days.
-For example, 35 hours in 4 days, from 09:30 to 18:45.
-
-We are happy to discuss compressed hours for all roles but cannot guarantee this
-will always be an option. Arrangements must be
-[sustainable](/about-us/our-mission-values-and-principles/#work-at-a-sustainable-pace) for your wellbeing and
-productivity and the needs of the role.
-
-For working patterns with an equal number of hours every day, holiday allowance
-will be prorated in the same way as for
-[part-time roles](#weekly-or-fortnightly-working-patterns). Working patterns
-with varied daily hours have annual leave prorated and calculated in hours (231
-hours per year). You must book bank holidays that fall on working days as leave
-in BreatheHR.
+If a bank holiday falls on a non working day then this day will be available in your bookable annual leave allowance to be taken at another point in the annual leave year.
