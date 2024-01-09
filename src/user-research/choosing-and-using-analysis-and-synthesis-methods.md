@@ -13,9 +13,15 @@ This guide lists our favourite books, articles and videos on the analysis and sy
 
 ## Principles and stages of analysis and synthesis
 
-The purpose of analysis and synthesis (sometimes also called sensemaking) is to produce findings (sometimes also called insights) that can inform what our team, and sometimes the wider organisation, does next.
+The purpose of analysis and synthesis (sometimes also called sensemaking) is to produce findings (sometimes also called insights) that help our team, and sometimes the wider organisation, make informed decisions, and design and build good services.
 
-We do at least an initial analysis and synthesis at the end of each ‘batch’ of research, so that we can quickly [learn, share and adapt](https://playbook.dxw.com/user-research/#user-research-principles). Later we may combine findings from different research activities into a coherent picture. And we plan the pace of our research to avoid building up analysis and synthesis debt.
+### Principles
+
+We do at least an initial analysis and synthesis at the end of each research activity, so that we can quickly [learn, share and adapt](https://playbook.dxw.com/user-research/#user-research-principles).
+
+Later we may combine different kinds of data and findings from different research activities to create a coherent picture.
+
+And we plan the pace of our research to avoid building up analysis and synthesis debt.
 
 Our rule of thumb is “one part research to two parts communication”. For a day spent doing interviews, for example, we expect to spend the next two days on analysis and synthesis, and sharing your findings.
 
@@ -25,6 +31,8 @@ In doing analysis and synthesis we want:
 * findings we can trace back to our research data - as we are often asked to show the evidence for our findings and where our ideas came from
 * to make analysis and synthesis a team sport - so our colleagues get involved and become advocates for our findings
 * a rational and repeatable process - as we do analysis regularly and need to do it efficiently
+
+### Stages
 
 Whatever approach we take, our analysis and synthesis goes through three broad stages:
 
@@ -39,6 +47,18 @@ Whatever approach we take, our analysis and synthesis goes through three broad s
 1. Decide next steps
 
    Working with our colleagues to agree what to do in response to the findings, including adapting our research activities, creating new design ideas, or recording issues to resolve.
+
+### Rich data and big data analysis
+
+Each research activity we do, typically produces one kind of data - notes or transcripts from interviews, videos from usability tests, completed boards or worksheets from workshops, responses from questionnaires.
+
+On longer projects, through many different research activities, with different groups of participants, we will produce a rich collection of different kinds of data and initial findings.
+
+On these projects an important part of our work is combining these to create a detailed, coherent and compelling picture of the most important things we have learned.
+
+On some projects we have access to large, numerical data sets - big data. This might be performance data or operational data from a service, data collected by social scientists in government research projects, or government statistics produced by the ONS (Office for National Statistics).
+
+Using this data effectively, and combining it with our other sources, can need significant skills in statistics and numerical analysis. So we may look for support from colleagues with specialist data analysis skills.
 
 ### Recommended guidance
 
@@ -134,7 +154,7 @@ We typically look at things like:
 * groupings - such as how success and completion times vary for different groups of users
 * trends - such as how success and completion times vary over time
 
-For more complicated analysis, we can call on colleagues with specialist data analysis skills for support.
+For more complicated analysis, particularly where we have access to bigger and more complicated data sets, we can call on colleagues with specialist data analysis skills for support.
 
 With quantitative analysis, we always remember that numbers themselves are not findings. We work out what the numbers mean for us, and produce meaningful and relevant findings, supported by the numbers, that others can understand and act on.
 
