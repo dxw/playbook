@@ -19,7 +19,7 @@ The purpose of analysis and synthesis (sometimes also called sensemaking) is to 
 
 We do at least an initial analysis and synthesis at the end of each research activity, so that we can quickly [learn, share and adapt](https://playbook.dxw.com/user-research/#user-research-principles).
 
-Later we may [combine different kinds of data and findings](#rich-data-and-big-data) from different research activities to create a coherent picture.
+Later we may [triangulate different kinds of data and findings](#rich-data-and-big-data) from different research activities to strengthen our findings, identify contradictions and gaps, and create a coherent picture of everything we have learned.
 
 And we plan the pace of our research to avoid building up analysis and synthesis debt.
 
