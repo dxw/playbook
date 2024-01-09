@@ -13,7 +13,7 @@ This guide lists our favourite books, articles and videos on the analysis and sy
 
 ## Principles and stages of analysis and synthesis
 
-The purpose of analysis and synthesis (sometimes also called sensemaking) is to produce findings (sometimes also called insights) that can inform what our team, and sometimes the wider organisation, does next.
+The purpose of analysis and synthesis (sometimes also called sensemaking) is to produce findings (sometimes also called insights) that help our team, and sometimes the wider organisation, make informed decisions, and design and build good services.
 
 ### Principles
 
