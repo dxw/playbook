@@ -28,7 +28,7 @@ Our rule of thumb is “one part research to two parts communication”. For a d
 In doing analysis and synthesis we want:
 
 * findings and next steps we can justify - as we are often challenged to explain why we have come to those conclusions
-* findings we can trace back to our research data - as we are often asked to show the evidence for our findings and where our ideas came from
+* findings we can trace back to our research data - so we can support our findings with anonymised quotes, clips, observations and numbers from our research data, and so we can reconsider and update our findings as we gather more data
 * to make analysis and synthesis a team sport - so our colleagues get involved and become advocates for our findings
 * a rational and repeatable process - as we do analysis regularly and need to do it efficiently
 
