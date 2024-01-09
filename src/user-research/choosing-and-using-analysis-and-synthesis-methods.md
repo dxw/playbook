@@ -23,7 +23,7 @@ Later we may [combine different kinds of data and findings](#rich-data-and-big-d
 
 And we plan the pace of our research to avoid building up analysis and synthesis debt.
 
-Our rule of thumb is “one part research to two parts communication”. For a day spent doing interviews, for example, we expect to spend two more days on analysis and synthesis, and sharing findings.
+Our rule of thumb is “one part research to two parts communication”. For a day spent doing interviews, for example, we expect to spend two days on analysis and synthesis, and sharing findings.
 
 In doing analysis and synthesis we want:
 
@@ -52,7 +52,11 @@ Whatever approach we take, our analysis and synthesis goes through three broad s
 
 On most of our projects, we expect to do many different research activities, with different groups of participants. Through these activities we will produce a *rich collection of different kinds of data*, such as notes or transcripts from interviews, videos of usability tests, completed boards or worksheets from workshops, responses from questionnaires. Along with any initial findings we created and shared after each activity.
 
-On these projects an important part of our work is combining this rich data collection to create a detailed, coherent and compelling picture of the most important things we have learned.
+An important part of our work is triangulating this rich collection to:
+
+* strengthen and increase the credibility of our specific findings
+* identify contradictions, gaps and biases that may need further research and analysis to resolve
+* create a detailed, coherent and compelling picture of the most important things we have learned across the project, particularly in discovery and alpha projects
 
 On some projects we have access to large, numerical data sets - *big data*. This might be performance data or operational data from a service, data collected by social scientists in government research projects, or government statistics produced by the ONS (Office for National Statistics).
 
