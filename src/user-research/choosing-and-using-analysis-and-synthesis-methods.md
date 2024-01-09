@@ -62,6 +62,7 @@ Using this data effectively, and combining it with our other sources, can need s
 
 * [Practical Empathy by Indi Young](https://rosenfeldmedia.com/books/practical-empathy/)
 * [Exposing the Magic of Design by Jon Kolko](https://global.oup.com/academic/product/exposing-the-magic-of-design-9780190276218)
+* [Triangulation: Get Better Research Results by Using Multiple UX Methods by NN/g](https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/)
 * [The Good Research Guide by Martyn Denscombe](https://www.mheducation.co.uk/the-good-research-guide-research-methods-for-small-scale-social-research-projects-9780335249831-emea-group)
 * [Integrating Analyses in Mixed Methods Research by Pat Bazeley](https://methods.sagepub.com/book/integrating-analyses-in-mixed-methods-research)
 
