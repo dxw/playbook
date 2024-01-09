@@ -50,13 +50,11 @@ Whatever approach we take, our analysis and synthesis goes through three broad s
 
 ### Rich data and big data
 
-Each research activity we do, typically produces one kind of data - notes or transcripts from interviews, videos from usability tests, completed boards or worksheets from workshops, responses from questionnaires.
+On most of our projects, we expect to do many different research activities, with different groups of participants. Through these activities we will produce a *rich collection of different kinds of data*, such as notes or transcripts from interviews, videos of usability tests, completed boards or worksheets from workshops, responses from questionnaires. Along with any initial findings we created and shared after each activity.
 
-On longer projects, through many different research activities, with different groups of participants, we will produce a rich collection of different kinds of data and initial findings.
+On these projects an important part of our work is combining this rich data collection to create a detailed, coherent and compelling picture of the most important things we have learned.
 
-On these projects an important part of our work is combining these to create a detailed, coherent and compelling picture of the most important things we have learned.
-
-On some projects we have access to large, numerical data sets - big data. This might be performance data or operational data from a service, data collected by social scientists in government research projects, or government statistics produced by the ONS (Office for National Statistics).
+On some projects we have access to large, numerical data sets - *big data*. This might be performance data or operational data from a service, data collected by social scientists in government research projects, or government statistics produced by the ONS (Office for National Statistics).
 
 Using this data effectively, and combining it with our other sources, can need significant skills in statistics and numerical analysis. So we may look for support from colleagues with specialist data analysis skills.
 
