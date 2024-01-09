@@ -19,11 +19,11 @@ The purpose of analysis and synthesis (sometimes also called sensemaking) is to 
 
 We do at least an initial analysis and synthesis at the end of each research activity, so that we can quickly [learn, share and adapt](https://playbook.dxw.com/user-research/#user-research-principles).
 
-Later we may combine different kinds of data and findings from different research activities to create a coherent picture.
+Later we may [combine different kinds of data and findings](#rich-data-and-big-data) from different research activities to create a coherent picture.
 
 And we plan the pace of our research to avoid building up analysis and synthesis debt.
 
-Our rule of thumb is “one part research to two parts communication”. For a day spent doing interviews, for example, we expect to spend the next two days on analysis and synthesis, and sharing your findings.
+Our rule of thumb is “one part research to two parts communication”. For a day spent doing interviews, for example, we expect to spend the two more days on analysis and synthesis, and sharing findings.
 
 In doing analysis and synthesis we want:
 
@@ -48,7 +48,7 @@ Whatever approach we take, our analysis and synthesis goes through three broad s
 
    Working with our colleagues to agree what to do in response to the findings, including adapting our research activities, creating new design ideas, or recording issues to resolve.
 
-### Rich data and big data analysis
+### Rich data and big data
 
 Each research activity we do, typically produces one kind of data - notes or transcripts from interviews, videos from usability tests, completed boards or worksheets from workshops, responses from questionnaires.
 
@@ -154,7 +154,7 @@ We typically look at things like:
 * groupings - such as how success and completion times vary for different groups of users
 * trends - such as how success and completion times vary over time
 
-For more complicated analysis, particularly where we have access to bigger and more complicated data sets, we can call on colleagues with specialist data analysis skills for support.
+For more complicated analysis, particularly where we have access to [bigger and more complicated data sets](#rich-data-and-big-data), we can call on colleagues with specialist data analysis skills for support.
 
 With quantitative analysis, we always remember that numbers themselves are not findings. We work out what the numbers mean for us, and produce meaningful and relevant findings, supported by the numbers, that others can understand and act on.
 
