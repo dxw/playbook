@@ -23,7 +23,7 @@ Later we may [triangulate different kinds of data and findings](#rich-data-and-b
 
 And we plan the pace of our research to avoid building up analysis and synthesis debt.
 
-Our rule of thumb is “one part research to two parts communication”. For a day spent doing interviews, for example, we expect to spend two more days on analysis and synthesis, and sharing findings.
+Our rule of thumb is “one part research to two parts communication”. For a day spent doing interviews, for example, we expect to spend two days on analysis and synthesis, and sharing findings.
 
 In doing analysis and synthesis we want:
 
