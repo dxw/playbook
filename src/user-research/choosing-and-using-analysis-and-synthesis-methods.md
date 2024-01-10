@@ -19,16 +19,16 @@ The purpose of analysis and synthesis (sometimes also called sensemaking) is to 
 
 We do at least an initial analysis and synthesis at the end of each research activity, so that we can quickly [learn, share and adapt](https://playbook.dxw.com/user-research/#user-research-principles).
 
-Later we may combine different kinds of data and findings from different research activities to create a coherent picture.
+Later we may [triangulate different kinds of data and findings](#rich-data-and-big-data) from different research activities to strengthen our findings, identify contradictions and gaps, and create a coherent picture of everything we have learned.
 
 And we plan the pace of our research to avoid building up analysis and synthesis debt.
 
-Our rule of thumb is “one part research to two parts communication”. For a day spent doing interviews, for example, we expect to spend the next two days on analysis and synthesis, and sharing your findings.
+Our rule of thumb is “one part research to two parts communication”. For a day spent doing interviews, for example, we expect to spend two days on analysis and synthesis, and sharing findings.
 
 In doing analysis and synthesis we want:
 
 * findings and next steps we can justify - as we are often challenged to explain why we have come to those conclusions
-* findings we can trace back to our research data - as we are often asked to show the evidence for our findings and where our ideas came from
+* findings we can trace back to our research data - so we can support our findings with anonymised quotes, clips, observations and numbers from our research data, and so we can reconsider and update our findings as we gather more data
 * to make analysis and synthesis a team sport - so our colleagues get involved and become advocates for our findings
 * a rational and repeatable process - as we do analysis regularly and need to do it efficiently
 
@@ -48,15 +48,17 @@ Whatever approach we take, our analysis and synthesis goes through three broad s
 
    Working with our colleagues to agree what to do in response to the findings, including adapting our research activities, creating new design ideas, or recording issues to resolve.
 
-### Rich data and big data analysis
+### Rich data and big data
 
-Each research activity we do, typically produces one kind of data - notes or transcripts from interviews, videos from usability tests, completed boards or worksheets from workshops, responses from questionnaires.
+On most of our projects, we expect to do many different research activities, with different groups of participants. Through these activities we produce a *rich collection of different kinds of data*, such as notes or transcripts from interviews, videos of usability tests, completed boards or worksheets from workshops, responses from questionnaires. Along with any initial findings we created and shared after each activity.
 
-On longer projects, through many different research activities, with different groups of participants, we will produce a rich collection of different kinds of data and initial findings.
+An important part of our work is to triangulate this rich collection to:
 
-On these projects an important part of our work is combining these to create a detailed, coherent and compelling picture of the most important things we have learned.
+* strengthen and increase the credibility of our specific findings
+* identify contradictions, gaps and biases that may need further research to resolve
+* create a detailed, coherent and compelling picture of the most important things we have learned across the project, particularly in discovery and alpha projects
 
-On some projects we have access to large, numerical data sets - big data. This might be performance data or operational data from a service, data collected by social scientists in government research projects, or government statistics produced by the ONS (Office for National Statistics).
+On some projects we have access to large, numerical data sets - *big data*. This might be performance data or operational data from a service, data collected by social scientists in government research projects, or government statistics produced by the ONS (Office for National Statistics).
 
 Using this data effectively, and combining it with our other sources, can need significant skills in statistics and numerical analysis. So we may look for support from colleagues with specialist data analysis skills.
 
@@ -64,6 +66,7 @@ Using this data effectively, and combining it with our other sources, can need s
 
 * [Practical Empathy by Indi Young](https://rosenfeldmedia.com/books/practical-empathy/)
 * [Exposing the Magic of Design by Jon Kolko](https://global.oup.com/academic/product/exposing-the-magic-of-design-9780190276218)
+* [Triangulation: Get Better Research Results by Using Multiple UX Methods by NN/g](https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/)
 * [The Good Research Guide by Martyn Denscombe](https://www.mheducation.co.uk/the-good-research-guide-research-methods-for-small-scale-social-research-projects-9780335249831-emea-group)
 * [Integrating Analyses in Mixed Methods Research by Pat Bazeley](https://methods.sagepub.com/book/integrating-analyses-in-mixed-methods-research)
 
@@ -154,7 +157,7 @@ We typically look at things like:
 * groupings - such as how success and completion times vary for different groups of users
 * trends - such as how success and completion times vary over time
 
-For more complicated analysis, particularly where we have access to bigger and more complicated data sets, we can call on colleagues with specialist data analysis skills for support.
+For more complicated analysis, particularly where we have access to [bigger and more complicated data sets](#rich-data-and-big-data), we can call on colleagues with specialist data analysis skills for support.
 
 With quantitative analysis, we always remember that numbers themselves are not findings. We work out what the numbers mean for us, and produce meaningful and relevant findings, supported by the numbers, that others can understand and act on.
 
