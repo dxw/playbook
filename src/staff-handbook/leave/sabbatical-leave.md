@@ -11,7 +11,7 @@ A sabbatical is a period of approved unpaid leave which allows you to take this 
 How much sabbatical leave you are eligible to apply for is linked to your length of service.
 
 * Under 2 years - not eligible
-* Between 1 and 5 years - between 6 weeks and 6 months sabbatical leave
+* Between 2 and 5 years - between 6 weeks and 6 months sabbatical leave
 * Over 5 years - up to 12 months sabbatical leave
 
 You can apply for more than one sabbatical during your employment. There must be a period of 12 months between returning from one sabbatical and applying for another.
