@@ -1,5 +1,5 @@
 ---
-title: Sales
+title: Our sales process
 related_order: 0
 last_reviewed_at: ""
 ---
