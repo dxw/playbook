@@ -1,8 +1,8 @@
 ---
 title: Employee ownership and how dxw is run
 related_order: 3
+last_reviewed_at: ""
 ---
-
 dxw is employee owned.
 
 Being employee owned means we can retain our independence and, with that, the ability to choose the work we do and how we run the company. The keys to protecting our [mission](/about-us/our-mission-values-and-principles/#our-mission) and [values](/about-us/our-mission-values-and-principles/#our-values).
@@ -23,11 +23,11 @@ The Staff Council represents the views of staff as employees of the company, and
 
 The Company Board looks at the future direction for the company. It meets quarterly and discusses longer term strategic issues and decisions on things like:
 
-company-wide goals and business plans
-how to run the company effectively to deliver them
-protecting the company from external and internal risk
+* company-wide goals and business plans
+* how to run the company effectively to deliver them
+* protecting the company from external and internal risk
 
-It is made up of Executive Directors, who lead and manage dxw teams in addition to their board role, and one [Non-Executive Director](https://www.iod.com/resources/factsheets/company-structure/what-is-the-role-of-the-non-executive-director/), who brings an independent voice to the Company Board. The Non-Executive Director Chairs the Company Board.
+It's made up of Executive Directors, who lead and manage dxw teams in addition to their board role, and one [Non-Executive Director](https://www.iod.com/resources/factsheets/company-structure/what-is-the-role-of-the-non-executive-director/). The Non-Executive Director chairs the Company Board.
 
 The Executive Directors and Non-Executive Director are [registered at Companies House](https://find-and-update.company-information.service.gov.uk/company/06617101/officers) and are personally and legally responsible for most of what is done in the company’s name.  
 
@@ -55,10 +55,10 @@ There are 5 trustee positions: 2 employee trustees elected by staff, 2 independe
 
 Our Staff Council is currently made up of 12 staff members. It represents the views of staff as employees, and gives them a voice that must be heard by the Company Board. Its main responsibilities are to:
 
-make sure the Company Board and Trustee Board have an understanding of the issues that matter to staff as employees
-raise any issues and concerns with the Company Board
-support dxw to develop plans, policies and ways of working
-determine the process for appointing future employee trustees to sit on the Trustee Board
+* make sure the Company Board and Trustee Board have an understanding of the issues that matter to staff as employees
+* raise any issues and concerns with the Company Board
+* support dxw to develop plans, policies and ways of working
+* determine the process for appointing future employee trustees to sit on the Trustee Board
 
 The Staff Council’s role is advisory and it meets with the Company Board regularly. The Staff Council can make recommendations to the Company Board which they must consider and respond to, but it doesn’t have any decision-making powers.
 
