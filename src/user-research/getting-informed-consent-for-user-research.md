@@ -91,7 +91,7 @@ We make sure our consent materials are inclusive and accessible, so they don’t
 We use accessible formats, like text emails, HTML and Tagged PDF. And we create alternative materials,
 [like easy read](https://www.dxw.com/2019/08/including-people-with-learning-disabilities-in-research-you-dont-need-an-expensive-specialist-agency/), when needed. 
 
-We use [inclusive language](?). And we make it clear that we encourage participants with a range of needs to take part in research sessions,
+We use inclusive language. And we make it clear that we encourage participants with a range of needs to take part in research sessions,
 adapting our activities where needed.
 
 We offer support for participants to understand and respond to the information and consent materials. We include our contact information,
@@ -146,6 +146,6 @@ As a researcher, we can also pause to take a break, or finish a session if we ar
 
 For email and similar responses, we keep a copy of the research information and consent sheet we used, along with a copy of each participant's reply, in the folder with the research data we collect.
 
-For paper consent forms, we scan or photograph the signed consent form and keep the image file. We avoid [using our own phone or other personal device](https://playbook.dxw.com/user-research/taking-notes-and-recording-research-sessions/#using-a-dxw-provided-handheld-device) for this.
+For paper consent forms, we scan or photograph the signed consent form, and dispose of the paper (shredding if possible, or tearing up if not). We avoid [using our own phone or other personal device](https://playbook.dxw.com/user-research/taking-notes-and-recording-research-sessions/#using-a-dxw-provided-handheld-device) for this.
 
-We make sure the research data and associated consent records have the same participant identifier. And we do not include participant names or other personal identifiers in [the document names](https://playbook.dxw.com/user-research/taking-care-of-research-data/#identifying-research-data-clearly).
+We make sure the research data we collect and the associated consent records have the same participant identifier. And we do not include participant names or other personally identifiable information in [the document names](https://playbook.dxw.com/user-research/taking-care-of-research-data/#identifying-research-data-clearly).
