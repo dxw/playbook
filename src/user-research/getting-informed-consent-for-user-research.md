@@ -3,7 +3,7 @@ title: Getting informed consent for user research
 related_order: 140
 last_reviewed_at: ""
 ---
-You must have informed consent from participants before you start any research activity with them. And you must then act only within the consent the participant has given.
+We have informed consent from participants before we start any research activity with them. And we must then act only within the consent the participant has given.
 
 This guidance explains how we collect and keep evidence of informed consent at dxw. It builds on the general guidance on [getting informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research) in the GOV.UK Service Manual.
 
@@ -27,7 +27,7 @@ If it’s not clear whether you or your team should consider someone as a partic
 
 ## Using dxw, client or partner consent materials and processes
 
-On different projects you might use dxw, client or partner branded consent materials and processes.
+On different projects we might use dxw, client or partner branded consent materials and processes.
 
 There are four basic options:
 
@@ -57,9 +57,9 @@ Whichever approach you take, make sure your consent materials and processes foll
 
 ### Creating a research information and consent sheet
 
-For each research activity you do, create a specific information and consent sheet that describes the research and gives the participant the information they need.
+For each research activity we do, cwe reate a specific information and consent sheet that describes the research and gives the participant the information they need.
 
-You can use the same information sheet for several rounds or batches of research, as long as you are:
+We can use the same information sheet for several rounds or batches of research, as long as we are:
 
 * doing the research for the same purpose
 * doing the same things during the sessions
@@ -68,13 +68,13 @@ You can use the same information sheet for several rounds or batches of research
 
 We have [template information and consent sheets](https://docs.google.com/document/d/1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k/) that will work for most research activities.
 
-If you are following our client's consent practices, they will provide the template to use. Make sure the materials you produce clearly describe dxw’s involvement in the research, and how we will share research data and findings.
+If we are following our client's consent practices, they will provide the template to use. But we make sure the materials clearly describe dxw’s involvement in the research, and how we will share research data and findings.
 
 If the available templates do not cover the research activities you are doing, speak to the Head of User Research. For example, if you are observing a sensitive activity and have agreed a specific approach to protecting participant privacy.
 
 ### Creating a printed consent form
 
-If you are doing face to face research, you may want to use a printed consent form.
+When we are doing face to face research, we sometimes use a printed consent form.
 
 We have [template consent forms](https://docs.google.com/document/d/1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k/) that will work for most research activities.
 
@@ -86,53 +86,53 @@ In fully confidential research, our client does not learn the identity of our pa
 
 ## Sharing your consent materials and process
 
-Some clients and stakeholders will want to review your consent materials, and some may not be familiar with the ethical and legal reasons for getting informed consent.
+Some clients and stakeholders will want to review our consent materials, and some may not be familiar with the ethical and legal reasons for getting informed consent.
 
-To avoid any delay in starting research, share the consent materials and processes you plan to use, as soon as possible, with the client and with other organisations whose staff or members you are researching with.
+To avoid any delay in starting research, we share the consent materials and processes we plan to use, as soon as possible, with the client and with other organisations whose staff or members we are researching with.
 
 ## Collecting and keeping consent records
 
 ### Providing a research information and consent sheet
 
-Give each participant an information and consent sheet provides  them with the information they need to give informed consent
+We give each participant an information and consent sheet that provides them with the information they need to give informed consent.
 
-Provide the information and consent sheet when the potential participants are invited to take part in your research. And again when each participant is booked in, and you send them details of their specific session.
+We provide the information and consent sheet when the potential participants are invited to take part in your research. And again when each participant is booked in, and we are sending them details of their specific session.
 
-Check which format and channel works best for them - email attachment, paper letter, easy read, verbally, etc.
+We check which format and channel works best for them - email attachment, paper letter, easy read, verbally, etc.
 
 ### Collecting a record of informed consent
 
-You will need to collect a record of their informed consent from each participant, and keep it along with their research data.
+We need to collect a record of their informed consent from each participant, and keep it along with their research data.
 
-For user research sessions where you will not meet the participant face to face, you can:
+For user research sessions where we will not meet the participant face to face, we can:
 
 * ask the participant to reply by email confirming their informed consent
 * send a paper consent form in the post for the participant to sign and return
 
-For user research sessions where you meet the participant in person, you can also:
+For user research sessions where we meet the participant in person, we can also:
 
 * give the participant a printed copy of the consent form to sign
 * share a consent form in an accessible digital format the participant can read and respond to using their assistive technology
 * read the consent form aloud and collect their consent on an audio or video recording
 
-Whichever approach you are taking, make sure the participants have time to read the research and consent information carefully, and that you give them an explicit opportunity to ask questions.
+Whichever approach we are taking, we make sure the participants have time to read the research and consent information carefully. And we give them an explicit opportunity to ask questions.
 
 ### During the session
 
-At the start of the session:
+At the start of the session we:
 
 * remind the participant that their participation is voluntary and they can stop or take a break at any time
-* remind them about the different ways you are recording the session, and about anyone observing or listening in
+* remind them about the different ways we are recording the session, and about anyone observing or listening in
 * ask them to confirm their consent for the recording
 
-As the session continues, actively make sure you have the participant’s consent. For example, check in with the participant if they look concerned about an activity, or if you’re on a visit and want to take a photo in a new area.
+As the session continues, we actively make sure we have the participant’s consent. For example, by checking in with the participant if they look concerned about an activity, or if asking for permission when we’re on a visit and want to take a photo in a new area.
 
-As a researcher, you can also pause to take a break, or finish a session if you are uncomfortable.
+As a researcher, we can also pause to take a break, or finish a session if we are uncomfortable.
 
 ### Keeping a record of informed consent
 
-For email and similar responses, keep a copy of the research information and consent sheet you used, along with a copy of each participant's reply, in the folder with the research data you collect.
+For email and similar responses, we keep a copy of the research information and consent sheet we used, along with a copy of each participant's reply, in the folder with the research data we collect.
 
-For paper consent forms, scan or photograph the signed consent form and keep the image file. Avoid [using your own phone or other personal device](https://playbook.dxw.com/user-research/taking-notes-and-recording-research-sessions/#using-a-dxw-provided-handheld-device) for this.
+For paper consent forms, we scan or photograph the signed consent form and keep the image file. We avoid [using our own phone or other personal device](https://playbook.dxw.com/user-research/taking-notes-and-recording-research-sessions/#using-a-dxw-provided-handheld-device) for this.
 
-Make sure the research data and associated consent records have the same participant identifier. Do not include participant names or other personal identifiers in [the document names](https://playbook.dxw.com/user-research/taking-care-of-research-data/#identifying-research-data-clearly).
+We make sure the research data and associated consent records have the same participant identifier. And we do not include participant names or other personal identifiers in [the document names](https://playbook.dxw.com/user-research/taking-care-of-research-data/#identifying-research-data-clearly).
