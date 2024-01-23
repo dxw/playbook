@@ -138,7 +138,7 @@ At the start of the session we:
 * remind them about the different ways we are recording the session, and about anyone observing or listening in
 * ask them to confirm their consent for the recording
 
-As the session continues, we actively make sure we have the participant’s consent. For example, by checking in with the participant if they look concerned about an activity, or if asking for permission when we’re on a visit and want to take a photo in a new area.
+As the session continues, we actively make sure we have the participant’s consent. For example, by checking with the participant if they are concerned about an activity, or if asking for permission when we’re on a visit and want to take a photo in a new area.
 
 As a researcher, we can also pause to take a break, or finish a session if we are uncomfortable.
 
