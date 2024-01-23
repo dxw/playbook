@@ -84,7 +84,7 @@ We also have [template consent materials](https://docs.google.com/document/d/1il
 
 In fully confidential research, our client does not learn the identity of our participants, has no access to research notes, recordings or other data, and is not involved in analysis. They receive only fully anonymised findings.
 
-## Making consent materials inclusive and accessible
+### Making consent materials inclusive and accessible
 
 We make sure our consent materials are inclusive and accessible, so they don’t create a barrier to participation.
 
