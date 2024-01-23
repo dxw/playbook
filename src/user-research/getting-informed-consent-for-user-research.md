@@ -57,7 +57,7 @@ Whichever approach you take, make sure your consent materials and processes foll
 
 ### Creating a research information and consent sheet
 
-For each research activity we do, cwe reate a specific information and consent sheet that describes the research and gives the participant the information they need.
+For each research activity we do, we create a specific information and consent sheet that describes the research and gives the participant the information they need.
 
 We can use the same information sheet for several rounds or batches of research, as long as we are:
 
@@ -68,7 +68,7 @@ We can use the same information sheet for several rounds or batches of research,
 
 We have [template information and consent sheets](https://docs.google.com/document/d/1ilYXwrrkl9s4jMRkJm3uCWAON6bnEeYinKvPd-VOz8k/) that will work for most research activities.
 
-If we are following our client's consent practices, they will provide the template to use. But we make sure the materials clearly describe dxw’s involvement in the research, and how we will share research data and findings.
+If we are following our client's consent practices, they will provide the template to use. But we always make sure the materials clearly describe dxw’s involvement in the research, and how we will share research data and findings.
 
 If the available templates do not cover the research activities you are doing, speak to the Head of User Research. For example, if you are observing a sensitive activity and have agreed a specific approach to protecting participant privacy.
 
@@ -84,7 +84,20 @@ We also have [template consent materials](https://docs.google.com/document/d/1il
 
 In fully confidential research, our client does not learn the identity of our participants, has no access to research notes, recordings or other data, and is not involved in analysis. They receive only fully anonymised findings.
 
-## Sharing your consent materials and process
+## Making consent materials inclusive and accessible
+
+We make sure our consent materials are inclusive and accessible, so they don’t create a barrier to participation.
+
+We use accessible formats, like text emails, HTML and Tagged PDF. And we create alternative materials,
+[like easy read](https://www.dxw.com/2019/08/including-people-with-learning-disabilities-in-research-you-dont-need-an-expensive-specialist-agency/), when needed. 
+
+We use [inclusive language](?). And we make it clear that we encourage participants with a range of needs to take part in research sessions,
+adapting our activities where needed.
+
+We offer support for participants to understand and respond to the information and consent materials. We include our contact information,
+and explicitly tell participants they can contact us with questions or for more information.
+
+## Sharing our consent materials and process
 
 Some clients and stakeholders will want to review our consent materials, and some may not be familiar with the ethical and legal reasons for getting informed consent.
 
