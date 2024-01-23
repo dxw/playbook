@@ -3,7 +3,7 @@ title: Getting informed consent for user research
 related_order: 140
 last_reviewed_at: ""
 ---
-We have informed consent from participants before we start any research activity with them. And we must then act only within the consent the participant has given.
+We must have informed consent from participants before we start any research activity with them. And we must then act only within the consent the participant has given.
 
 This guidance explains how we collect and keep evidence of informed consent at dxw. It builds on the general guidance on [getting informed consent](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research) in the GOV.UK Service Manual.
 
