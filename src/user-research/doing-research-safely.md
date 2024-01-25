@@ -24,7 +24,7 @@ competency as user researchers.
 
 These can be related to the subject of the research. But can be about suicide, trauma, discrimination, ableism etc.
 
-While we are always sympathetic and not judgemental, we do not try to offer advice. Instead we guide people to appropriate support.
+While we are always sympathetic and not judgemental, we do not try to offer advice. Instead, we guide people to appropriate support.
 
 For research with members of the public, we may recommend organisations dedicated to these topics. Such as,
 the [mental health crisis contacts](https://www.mind.org.uk/information-support/guides-to-support-and-services/crisis-services/getting-help-in-a-crisis/)
