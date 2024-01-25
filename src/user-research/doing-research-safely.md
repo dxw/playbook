@@ -17,6 +17,24 @@ The Service Manual has a good guide to
 [researching emotionally sensitive subjects](https://www.gov.uk/service-manual/user-research/researching-emotionally-sensitive-subjects),
 that covers preparing for, running and dealing with research.
 
+## Guiding participants to appropriate support
+
+Once we have built a rapport with a participant, they may ask us questions, or want to talk about things that are beyond our
+competency as user researchers.
+
+These can be related to the subject of the research. But can be about suicide, trauma, discrimination, ableism etc.
+
+While we are always sympathetic and not judgemental, we do not try to offer advice. Instead, we guide people to appropriate support.
+
+For research with members of the public, we may recommend organisations dedicated to these topics. Such as,
+the [mental health crisis contacts](https://www.mind.org.uk/information-support/guides-to-support-and-services/crisis-services/getting-help-in-a-crisis/)
+listed by Mind, or the [support on issues related to disability](https://www.scope.org.uk/services/) provided by Scope.
+
+For research with public servants, we may recommend the support services provided by their organisation. Such as their local mental health first aider, or their Employee Assistance Programme (EAP).
+
+For research about difficult subjects, we often include links to this support in our
+[research information and consent materials](https://playbook.dxw.com/user-research/getting-informed-consent-for-user-research/).
+
 ## Doing research during a pandemic
 
 We have a responsibility to keep ourselves and our participants safe and comply
