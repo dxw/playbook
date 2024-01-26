@@ -133,7 +133,7 @@ At the start of the session we ask participants for their preference.
 We keep our camera focussed on our face, and we keep our hair, clothing and any head covering, away from our face.
 So our entire face and lips are visible.
 
-### Turn on automated captions
+### Turning on automated captions
 
 Many people benefit from reading captions, not only people who are Deaf/deaf.
 
@@ -159,7 +159,8 @@ It is helpful to provide to all participants with:
 
 Where possible, we use the location’s existing access guide. But we may need to create one.
 
-This should include photos of the building, the meeting room or space, instructions of how to get there via various types of transportation, who to contact if they get lost, who to contact if they need accommodations to access the location (is there a wheelchair lift that is controlled by security only?), including amenities such as whether you will provide water, will there be toilets on the same floor, are the toilets accessible, etc.
+The Sensory Trust have useful advice on
+[how to make a visitor access guide](https://www.sensorytrust.org.uk/resources/guidance/visitor-access-guides). 
 
 As examples, here are a
 [basic guide to get to a research space](https://www.autistica.org.uk/downloads/files/Directions-by-Dr-Sarah-Bargiela-et-al.pdf)
