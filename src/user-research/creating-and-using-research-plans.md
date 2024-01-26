@@ -3,7 +3,6 @@ title: Creating and using research plans
 related_order: 60
 last_reviewed_at: ""
 ---
-## Planning research activities
 
 It’s important that we carefully plan the research we do.
 
@@ -11,9 +10,14 @@ Teams create the best services when research activities provide reliable answers
 to their most important questions. And we do our best research when we do it in
 ethical, inclusive and sustainable ways.
 
-We want to create plans that help us [Find the truth, and tell the truth](/user-research/#user-research-principles). And allow us to [Learn, share and adapt](/user-research/#user-research-principles) as we go.
+## Planning research activities
+
+We want to create plans that help us [Find the truth, and tell the truth](/user-research/#user-research-principles).
+And allow us to [Learn, share and adapt](/user-research/#user-research-principles) as we go.
 
 We [choose appropriate research methods](/user-research/choosing-and-using-research-methods/) for the context and apply them well.
+We make sure our research activities are [inclusive and accessible](user-research/making-research-activities-inclusive-and-accessible),
+and [safe for our participants and ourselves](user-research/doing-research-safely/).
 
 We want to involve our colleagues and other stakeholders in creating research plans, so they understand and can contribute to research activities.
 
