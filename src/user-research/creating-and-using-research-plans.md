@@ -16,8 +16,8 @@ We want to create plans that help us [Find the truth, and tell the truth](/user-
 And allow us to [Learn, share and adapt](/user-research/#user-research-principles) as we go.
 
 We [choose appropriate research methods](/user-research/choosing-and-using-research-methods/) for the context and apply them well.
-We make sure our research activities are [inclusive and accessible](user-research/making-research-activities-inclusive-and-accessible),
-and [safe for our participants and ourselves](user-research/doing-research-safely/).
+We make sure our research activities are [inclusive and accessible](/user-research/making-research-activities-inclusive-and-accessible),
+and [safe for our participants and ourselves](/user-research/doing-research-safely/).
 
 We want to involve our colleagues and other stakeholders in creating research plans, so they understand and can contribute to research activities.
 
