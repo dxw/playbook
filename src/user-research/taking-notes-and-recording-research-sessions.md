@@ -37,7 +37,9 @@ We keep only anonymised notes, quotes and images in tools like Miro and Trello.
 
 ### Do not use our personal devices
 
-We always use a dxw provided device, rather than our personal device, when taking notes and photos, or making recordings.
+We always use a
+[dxw provided device]](#using-a-dxw-provided-handheld-device),
+rather than our personal device, when taking notes and photos, or making recordings.
 
 Using our own devices in research means that personal data about research participants can be mixed into our personal data stores, like cloud photo libraries. And also runs the risk of participants, client staff and colleagues seeing our personal messages and images.
 
@@ -100,13 +102,15 @@ We avoid capturing personally identifiable information about participants in onl
 We often use sticky notes and paper worksheets to capture information during research sessions, for example when
 [researching users’ experiences](/user-research/choosing-and-using-research-methods/#experience-and-journey-mapping).
 
-And we often design paper worksheets, and give people advice on
+We give people advice on
 [writing sticky notes](https://www.gov.uk/service-manual/user-research/taking-notes-and-recording-user-research-sessions#using-sticky-notes),
 so we can easily use the information recorded.
 
-We avoid capturing personally identifiable information about participants on sticky notes or paper. If we capture any sensitive information on sticky notes or paper, we tear it up, or use a shredder, to dispose of it.
+We avoid capturing personally identifiable information about participants on sticky notes or paper. If we do capture any sensitive information, we tear it up, or use a shredder, to dispose of it.
 
-And we use a dxw provided device, rather than our personal device, to capture the contents of sticky notes and paper worksheets.
+And we
+[use a dxw provided device](#using-a-dxw-provided-handheld-device),
+rather than our personal device, to capture the contents of sticky notes and paper worksheets.
 
 ## Using a dxw provided handheld device
 
