@@ -1,7 +1,7 @@
 ---
 title: Making research activities inclusive and accessible
 related_order: 75
-last_reviewed_at: ""
+last_reviewed_at: 2024-01-29T10:19:45.774Z
 ---
 
 Our sixth research principle is to [make research inclusive](https://playbook.dxw.com/user-research/#user-research-principles).
