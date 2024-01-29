@@ -9,7 +9,7 @@ We prefer tried and trusted methods that can provide strong evidence and reliabl
 
 And we make sure to use these methods in ways that are [inclusive and accessible](/user-research/making-research-activities-inclusive-and-accessible/), and [safe for our participants and ourselves](/user-research/doing-research-safely/).
 
-We also consider a team’s level of experience with user research. So we may prefer simpler methods like interviews and usability testing that the team can easily understand and join in with.
+We also consider a team’s level of experience with user research. So we may prefer simpler methods like interviews and usability testing that the team can easily understand and get involved in.
 
 This guide lists our favourite books, articles and videos on the different research methods we use. In future we aim to add links to any tools and templates we have created, along with good examples from previous projects.
 
@@ -134,7 +134,7 @@ We choose workshops when we want to:
 
 We also do workshops with stakeholders, teams and subject matter experts, as a good first step to get an overview of a new area and build trust in preparation for more detailed research.
 
-Group workshops may not be appropriate when [researching very sensitive subjects](/user-research/doing-research-safely/), or with people in vulnerable contexts, who may want more privacy and confidentiality.
+When [researching very sensitive subjects](/user-research/doing-research-safely/), we understand that some participants may want more privacy and confidentiality than a group workshop can provide.
 
 We also bear in mind that we don’t get twice as many findings by inviting twice as many people to a session. If there’s nothing to gain from having several participants together, we run individual research sessions using methods such as interviews, contextual observation or experience mapping.
 
