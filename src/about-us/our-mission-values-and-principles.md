@@ -1,8 +1,8 @@
 ---
 title: Our mission, values and principles
 related_order: 2
+last_reviewed_at: ""
 ---
-
 ## Our mission
 
 dxw's mission is to:  
@@ -124,15 +124,14 @@ However, there are some things that we must keep private.
 
 ### Make everything we do accessible
 
-At dxw we want to make sure that everyone can access the digital services we
+At dxw we want to make sure that everyone can access the services we
 create, including our own websites, communications and colleague resources.
 
 We follow the guidance in the
 [GOV.UK Service Manual](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 to help us to meet government accessibility requirements.
 
-And to create a consistent approach to digital accessibility, our Playbook has
-[additional guidance for our different professions](/tech/web-accessibility/).
+And to create a consistent and effective approach, we have an [Accessibility Manual](https://accessibility.dxw.com) that provides additional guidance for our different professions.
 
 ### Reduce our impact on the environment
 
