@@ -1,7 +1,7 @@
 ---
 title: Making research activities inclusive and accessible
 related_order: 75
-last_reviewed_at: ""
+last_reviewed_at: 2024-01-29T10:19:45.774Z
 ---
 
 Our sixth research principle is to [make research inclusive](https://playbook.dxw.com/user-research/#user-research-principles).
@@ -104,7 +104,7 @@ When doing research in person or online, we help prevent visual overwhelm by:
 ### Preventing an overstimulating hearing experience
 
 Some neurodivergent people have a hypo sensitivity to sound. And some autistic people have an
-increased auditory capacity that can be both an asset and disabling.
+[increased auditory capacity](https://www.sciencedirect.com/science/article/pii/S0010027717300963) that can be both an asset and disabling.
 
 When doing research in person or online, we:
 
@@ -137,7 +137,7 @@ So our entire face and lips are visible.
 
 Many people benefit from reading captions, not only people who are Deaf/deaf.
 
-Some neurodivergent people use them. And people for whom English is an additional language can find them helpful.
+Some [neurodivergent people use them](https://mindfulresearch.co.uk/2011/08/29/autistic-spectrum-captions-and-audio-description/). And people for whom English is an additional language can find them helpful.
 
 ## Making in person research inclusive
 
@@ -150,7 +150,7 @@ This can help with recruitment and encourage wider participation.
 ### Providing an access guide
 
 People who are blind, have low vision, have mobility problems, and some neurodivergent people,
-can find it difficult to manage unpredictability and environmental wayfinding.
+can find it difficult to [manage unpredictability](https://www.linkedin.com/pulse/neurodiversity-101-life-changes-dealing-uncertainty-kirby/) and [environmental wayfinding](https://cardinalscholar.bsu.edu/items/b6bda52a-5732-4187-b058-d2237739b9d7).
 
 It is helpful to provide to all participants with:
 
