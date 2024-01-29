@@ -3,13 +3,9 @@ title: Taking notes and recording research sessions
 related_order: 180
 last_reviewed_at: 2024-01-29T13:31:14.454Z
 ---
-To capture what happens in our research sessions we take notes and photos, make
-audio, video and screen recordings, and take copies of paperwork and other
-material that participants use or refer to.
+To capture what happens in our research sessions we take notes and photos, make audio, video and screen recordings, and take copies of paperwork and other material that participants use or refer to.
 
-We use these notes, photos and recordings during analysis to make sure we
-produce valid findings. And we use extracted quotes, images and clips to
-illustrate the findings we share.
+We use these notes, photos and recordings during analysis to make sure we produce valid findings. And we use extracted quotes, images and clips to illustrate the findings we share.
 
 There is good guidance on
 [Taking notes and recording user research sessions](https://www.gov.uk/service-manual/user-research/taking-notes-and-recording-user-research-sessions)
@@ -88,7 +84,7 @@ We often use it to run and record activities like usability tests, where we ask 
 We make sure to transfer recordings from the Meet Recordings folder in our personal Google Drive, and
 [give them a good name](/user-research/taking-care-of-research-data/#identifying-research-data-clearly).
 
-Depending on the client, we may need to use their preferred video conferencing service. If the service stores recordings ‘in the cloud’, we make sure to transfer and rename the video, and delete it from the service.
+Depending on the client, we may need to use their preferred video conferencing service. If the service keeps recordings in its own cloud storage, we make sure to transfer and rename the video, and delete it from the service.
 
 ## Using online whiteboards
 
@@ -97,12 +93,12 @@ We often use online whiteboards like Miro and Trello to capture information duri
 
 And we often transfer research data to online whiteboards to support [group analysis](/user-research/choosing-and-using-analysis-and-synthesis-methods/).
 
-We avoid capturing personally identifiable information about participants in online whiteboards. If we capture any sensitive information make sure to anonymise or delete it.
+We avoid capturing personally identifiable information about participants in online whiteboards. If we do capture any sensitive information, we make sure to anonymise or delete it.
 
 ## Using sticky notes and paper worksheets
 
 We often use sticky notes and paper worksheets to capture information during research sessions, for example when
-[researching users’ experiences](https://www.gov.uk/service-manual/user-research/researching-user-experiences).
+[researching users’ experiences](/user-research/choosing-and-using-research-methods/#experience-and-journey-mapping).
 
 And we often design paper worksheets, and give people advice on
 [writing sticky notes](https://www.gov.uk/service-manual/user-research/taking-notes-and-recording-user-research-sessions#using-sticky-notes),
