@@ -23,7 +23,7 @@ We follow good user research practice, and good privacy practice, by capturing o
 
 And we make sure that anything we capture during a session is covered by the consent we’ve collected. If a participant changes their mind about what they consent to, we are prepared to not make, or to delete recordings we no longer have consent for.
 
-### Keep your notes and recordings secure
+### Keep our notes and recordings secure
 
 We [take care of research data](/user-research/taking-care-of-research-data/) to protect our participants’ privacy.
 
@@ -53,7 +53,7 @@ For example:
 * Our preferred device, app or service may not be working properly, so we have an alternative like a paper notebook
 * Our note taker, assistant or observer may not be able to join the session, so we are prepared to take notes and recordings ourselves
 
-If our participant refuses all recording, including note taking, we accept that we might need to abandon the session.
+We might decide to cancel a session if note taking, recording or data collection is not possible, and it is essential for the research activity.
 
 ## Using our dxw provided laptop
 
@@ -86,7 +86,7 @@ We often use it to run and record activities like usability tests, where we ask 
 We make sure to transfer recordings from the Meet Recordings folder in our personal Google Drive, and
 [give them a good name](/user-research/taking-care-of-research-data/#identifying-research-data-clearly).
 
-Depending on the client, we may need to use their preferred video conferencing service. If the service keeps recordings in its own cloud storage, we make sure to transfer and rename the video, and delete it from the service.
+Depending on the client, we may need to use their preferred video call service. If the service keeps recordings in its own cloud storage, we make sure to transfer and rename the video, and delete it from the service.
 
 ## Using online whiteboards
 
