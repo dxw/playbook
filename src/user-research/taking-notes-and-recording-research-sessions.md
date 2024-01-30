@@ -51,9 +51,9 @@ For example:
 
 * The participant may decide they don’t want to be recorded in a particular way, so we are prepared to switch from video to an audio-only recording, or to just take notes
 * Our preferred device, app or service may not be working properly, so we have an alternative like a paper notebook
-* Our note taker, assistant or observer may not be able to join the session, so we are prepared to take notes and recordings ourselves
+* Our note taker, assistant or observer may not be able to join the session, so we are prepared to take notes and make recordings ourselves
 
-We might decide to cancel a session if note taking, recording or data collection is not possible, and it is essential for the research activity.
+We can decide to cancel a session if essential note taking, recording or other data collection is not possible. Whether because of technical problems, or because the participant does not consent.
 
 ## Using our dxw provided laptop
 
@@ -66,7 +66,7 @@ With our laptop we can:
 * record video using an external camera and Quicktime
 * record our laptop screen using Quicktime or Screenshot
 
-If research participants might use our laptop or see our screen during a research session, we might create a separate ‘research’ user account
+If research participants will use our laptop or see our screen during a research session, we might create a separate ‘research’ user account
 on our laptop with things like notifications and browser autofill turned off.
 
 ## Using the notes template
