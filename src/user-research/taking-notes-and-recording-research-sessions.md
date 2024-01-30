@@ -38,7 +38,7 @@ We keep only anonymised notes, quotes and images in tools like Miro and Trello.
 ### Do not use our personal devices
 
 We always use a
-[dxw provided device]](#using-a-dxw-provided-handheld-device),
+[dxw provided device](#using-a-dxw-provided-handheld-device),
 rather than our personal device, when taking notes and photos, or making recordings.
 
 Using our own devices in research means that personal data about research participants can be mixed into our personal data stores, like cloud photo libraries. And also runs the risk of participants, client staff and colleagues seeing our personal messages and images.
@@ -49,9 +49,9 @@ The one certainty in user research is that things go wrong. So we make sure we h
 
 For example:
 
-* The participant may decide they don’t want to be recorded in a particular way, so we are prepared to switch from video to an audio-only recording, or to just take notes
-* Our preferred device, app or service may not be working properly, so we have an alternative like a paper notebook
-* Our note taker, assistant or observer may not be able to join the session, so we are prepared to take notes and make recordings ourselves
+* the participant may decide they don’t want to be recorded in a particular way, so we are prepared to switch from video to an audio-only recording, or to just take notes
+* our preferred device, app or service may not be working properly, so we have an alternative like a paper notebook
+* our note taker, assistant or observer may not be able to join the session, so we are prepared to take notes and make recordings ourselves
 
 We can decide to cancel a session if essential note taking, recording or other data collection is not possible. Whether because of technical problems, or because the participant does not consent.
 
