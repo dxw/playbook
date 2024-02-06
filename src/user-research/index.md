@@ -1,7 +1,7 @@
 ---
 title: User research at dxw
 related_order: 1000
-last_reviewed_at: ""
+last_reviewed_at: 2024-02-06T16:09:35.311Z
 ---
 At dxw, we believe in [starting with people and their needs](/about-us/our-mission-values-and-principles/#start-with-people-and-their-needs).
 
