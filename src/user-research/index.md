@@ -92,7 +92,9 @@ The dxw Slack has an open
 [dxw-user-research](https://dxw.slack.com/archives/C1SJP6R2L)
 channel for general discussion of user research activities and practice. And a private
 [dxw-user-research-chat](https://dxw.slack.com/archives/C049WEDV31S)
-channel. We also have a @user-researchers group in Slack, so you can mention all the user researchers.
+channel.
+
+We also have a @user-researchers group in Slack, so you can mention or notify all the user researchers.
 
 ### Applications
 
@@ -111,7 +113,9 @@ We go to the
 
 We have a
 [User research](https://drive.google.com/drive/folders/0Bzb3f1meEk75NnZfRlFCSWFUMnc)
-folder in the dxw Google Drive. We use it to keep shared materials like templates, examples of previous work, and working documents like discussions about our practice. We also have a
+folder in the dxw Google Drive. We use it to keep shared materials like templates, examples of previous work, and working documents like discussions about our practice.
+
+We also have a
 [user.researchers](https://groups.google.com/a/dxw.com/g/user.researchers/members)
 group in Google so you can send team invites and set collective folder permissions.
 
