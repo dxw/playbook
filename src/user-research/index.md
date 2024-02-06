@@ -104,8 +104,8 @@ We often use [Miro](https://miro.com/app/) and sometimes [Trello](https://trello
 When working with some government organisations we will use the applications in
 [Microsoft 365](https://www.microsoft.com/en-gb/microsoft-365/products-apps-services).
 
-The [#help-tools-and-subscriptions](https://dxw.slack.com/archives/CP56FSZKN)
-in the dxw Slack for help with access to these applications.
+We go to the
+[#help-tools-and-subscriptions](https://dxw.slack.com/archives/CP56FSZKN) Slack channel for help with access to these applications.
 
 ### Storage
 
