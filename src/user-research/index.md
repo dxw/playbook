@@ -84,7 +84,7 @@ The Playbook includes detailed guidance on
 
 These guides start with the [user research workflow](https://playbook.dxw.com/user-research/how-we-do-user-research/#user-research-workflow), which describes the things that user researchers usually do on projects, and then provides further guidance and links to resources for specific topics.
 
-## User research resources and tools
+## User research tools and resources
 
 Along with other dxw colleagues, our default applications are those in
 [Google Workspace](https://workspace.google.com/intl/en_uk/features/). Along with [Miro](https://miro.com/app/) and sometimes [Trello](https://trello.com/).
