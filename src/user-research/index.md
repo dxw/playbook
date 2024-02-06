@@ -101,7 +101,7 @@ group in Google so you can send team invites and set collective folder permissio
 The dxw Slack has an open
 [dxw-user-research](https://dxw.slack.com/archives/C1SJP6R2L)
 channel for general discussion of user research activities and practice. And a private
-[dxw-user-research-team](https://dxw.slack.com/archives/C049WEDV31S)
+[dxw-user-research-chat](https://dxw.slack.com/archives/C049WEDV31S)
 channel. We also have a @user-researchers group in Slack, so you can mention all the user researchers.
 
 ## User researcher professional development
