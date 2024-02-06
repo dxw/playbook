@@ -84,6 +84,26 @@ The Playbook includes detailed guidance on
 
 These guides start with the [user research workflow](https://playbook.dxw.com/user-research/how-we-do-user-research/#user-research-workflow), which describes the things that user researchers usually do on projects, and then provides further guidance and links to resources for specific topics.
 
+## User research resources and tools
+
+Along with other dxw colleagues, our default applications are those in
+[Google Workspace](https://workspace.google.com/intl/en_uk/features/). Along with [Miro](https://miro.com/app/) and sometimes [Trello](https://trello.com/).
+
+When working with some government organisations we will use the applications in
+[Microsoft 365](https://www.microsoft.com/en-gb/microsoft-365/products-apps-services).
+
+We have a
+[User research](https://drive.google.com/drive/folders/0Bzb3f1meEk75NnZfRlFCSWFUMnc)
+folder in the dxw Google Drive. We use it to keep shared materials like templates, examples of previous work, and working documents like discussions about our practice. We also have a
+[user.researchers](https://groups.google.com/a/dxw.com/g/user.researchers/members)
+group in Google so you can send team invites and set collective folder permissions.
+
+The dxw Slack has an open
+[dxw-user-research](https://dxw.slack.com/archives/C1SJP6R2L)
+channel for general discussion of user research activities and practice. And a private
+[dxw-user-research-team](https://dxw.slack.com/archives/C049WEDV31S)
+channel. We also have a @user-researchers group in Slack, so you can mention all the user researchers.
+
 ## User researcher professional development
 
 We have
