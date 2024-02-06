@@ -86,6 +86,14 @@ The Playbook includes detailed guidance on
 
 These guides start with the [user research workflow](https://playbook.dxw.com/user-research/how-we-do-user-research/#user-research-workflow), which describes the things that user researchers usually do on projects, and then provides further guidance and links to resources for specific topics.
 
+### Messaging
+
+The dxw Slack has an open
+[dxw-user-research](https://dxw.slack.com/archives/C1SJP6R2L)
+channel for general discussion of user research activities and practice. And a private
+[dxw-user-research-chat](https://dxw.slack.com/archives/C049WEDV31S)
+channel. We also have a @user-researchers group in Slack, so you can mention all the user researchers.
+
 ### Applications
 
 Along with other dxw colleagues, our default applications are those in
@@ -106,14 +114,6 @@ We currently keep research data in the appropriate project folder under the
 [Client work](https://drive.google.com/drive/folders/0B3L9egViwlJBUHdBV0VoWVB2VFU)
 folder of the dxw Google Drive. We have detailed guidance on
 [how we take care of research data](/user-research/taking-care-of-research-data/).
-
-### Messaging
-
-The dxw Slack has an open
-[dxw-user-research](https://dxw.slack.com/archives/C1SJP6R2L)
-channel for general discussion of user research activities and practice. And a private
-[dxw-user-research-chat](https://dxw.slack.com/archives/C049WEDV31S)
-channel. We also have a @user-researchers group in Slack, so you can mention all the user researchers.
 
 ### Professional development
 
