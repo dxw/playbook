@@ -97,10 +97,15 @@ channel. We also have a @user-researchers group in Slack, so you can mention all
 ### Applications
 
 Along with other dxw colleagues, our default applications are those in
-[Google Workspace](https://workspace.google.com/intl/en_uk/features/). Along with [Miro](https://miro.com/app/) and sometimes [Trello](https://trello.com/).
+[Google Workspace](https://workspace.google.com/intl/en_uk/features/).
+
+We often use [Miro](https://miro.com/app/) and sometimes [Trello](https://trello.com/). dxw has a [Survey Monkey](https://uk.surveymonkey.com/) plan that we sometimes use.
 
 When working with some government organisations we will use the applications in
 [Microsoft 365](https://www.microsoft.com/en-gb/microsoft-365/products-apps-services).
+
+The [#help-tools-and-subscriptions](https://dxw.slack.com/archives/CP56FSZKN)
+in the dxw Slack for help with access to these applications.
 
 ### Storage
 
