@@ -1,7 +1,7 @@
 ---
 title: User research at dxw
 related_order: 1000
-last_reviewed_at: ""
+last_reviewed_at: 2024-02-06T16:09:35.311Z
 ---
 At dxw, we believe in [starting with people and their needs](/about-us/our-mission-values-and-principles/#start-with-people-and-their-needs).
 
@@ -77,14 +77,54 @@ Our principles are not rules. They guide our work, keep us improving as a team, 
 
 We have a version of these [user research principles as a printable poster](https://docs.google.com/presentation/d/1YUu9sUZM8aLUxMsJsOuZacQKRbA3P7ZH0Ic4HEORaxs/).
 
-## User research guidance
+## User research guidance, tools and resources
+
+### Guidance
 
 The Playbook includes detailed guidance on
 [how we do user research at dxw](/user-research/how-we-do-user-research/).
 
 These guides start with the [user research workflow](https://playbook.dxw.com/user-research/how-we-do-user-research/#user-research-workflow), which describes the things that user researchers usually do on projects, and then provides further guidance and links to resources for specific topics.
 
-## User researcher professional development
+### Messaging
+
+The dxw Slack has an open
+[dxw-user-research](https://dxw.slack.com/archives/C1SJP6R2L)
+channel for general discussion of user research activities and practice. And a private
+[dxw-user-research-chat](https://dxw.slack.com/archives/C049WEDV31S)
+channel.
+
+We also have a @user-researchers group in Slack, so you can mention or notify all the user researchers.
+
+### Applications
+
+Along with other dxw colleagues, our default applications are those in
+[Google Workspace](https://workspace.google.com/intl/en_uk/features/).
+
+We often use [Miro](https://miro.com/app/) and sometimes [Trello](https://trello.com/). dxw has a [Survey Monkey](https://uk.surveymonkey.com/) plan that we sometimes use.
+
+When working with some government organisations we will use the applications in
+[Microsoft 365](https://www.microsoft.com/en-gb/microsoft-365/products-apps-services).
+
+We go to the
+[#help-tools-and-subscriptions](https://dxw.slack.com/archives/CP56FSZKN) Slack channel for help with access to these applications.
+
+### Storage
+
+We have a
+[User research](https://drive.google.com/drive/folders/0Bzb3f1meEk75NnZfRlFCSWFUMnc)
+folder in the dxw Google Drive. We use it to keep shared materials like templates, examples of previous work, and working documents like discussions about our practice.
+
+We also have a
+[user.researchers](https://groups.google.com/a/dxw.com/g/user.researchers/members)
+group in Google so you can send team invites and set collective folder permissions.
+
+We currently keep research data in the appropriate project folder under the
+[Client work](https://drive.google.com/drive/folders/0B3L9egViwlJBUHdBV0VoWVB2VFU)
+folder of the dxw Google Drive. We have detailed guidance on
+[how we take care of research data](/user-research/taking-care-of-research-data/).
+
+### Professional development
 
 We have
 [a set of worksheets](https://docs.google.com/presentation/d/1p01dpMFEKKRE8rV9hJZ2II3I6z5BG5GbrHzPBLSaJzM/)
