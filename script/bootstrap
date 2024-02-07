@@ -28,6 +28,7 @@ if [ -f .ruby-version ]; then
     brew upgrade ruby-build
     rbenv install
     rbenv rehash
+    gem install bundler
   fi
 fi
 
