@@ -1,5 +1,5 @@
 ---
-title: Content desgn at dxw
+title: Content design at dxw
 ---
 
 Content design means giving the user the information they need, not the information we think they should have. The content team at dxw works across the organisation to make sure that content – from buttons to blog posts – helps users get what they need. 
@@ -24,7 +24,7 @@ On projects, we work with clients to translate their specialist knowledge into i
 
 The work we do helps dxw create public services that work well for everyone who depends on them.
 
-##How the content team works with the wider dxw team
+## How the content team works with the wider dxw team
 
 We work with the wider team at all stages of projects. You’ll find us:
 
