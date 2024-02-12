@@ -7,15 +7,15 @@ last_reviewed_at: ""
 The marketing and communications team has responsibility for:
 
 * organising dxw events and our participation in external events, to support networking with our clients and the public digital community
-* commissioning and supporting colleagues to write posts on our blog that show who we are, what we do and our culture
-* commissioning and supporting colleagues to write case studies that show how we approach our work and the results we achieve
-PR to share our work, opinions and values with the wider public and charity sectors
+* commissioning and supporting colleagues to write posts for [our blog](https://www.dxw.com/blog/) that show who we are, what we do and our culture
+* commissioning and supporting colleagues to write [case studies](https://www.dxw.com/case-studies/) that show how we approach our work and the results we achieve
+* PR to share our work, opinions and values with the wider public and charity sectors
 * coordinating company-level internal communications so staff are informed and engaged in what we are doing
 managing our website and social media channels
 * writing and publishing our newsletter
 * writing submissions for awards which help to raise our profile and celebrate our staff
 * arranging for branded merchandise to be produced (like hoodies, tote bags and mugs)
-* organising branding for our buildings
+* organising branding for [our offices](/staff-handbook/our-offices/)
 
 ## Why our team’s work is important
 
