@@ -4,16 +4,21 @@ related_order: 1
 last_reviewed_at: ""
 ---
 
-The technology team is made up of 3 disciplines: technical architecture, development, and technical operations.
+The technology team is made up of 3 disciplines: 
+
+* technical architecture
+* development
+* technical operations
+
 Technical architects are usually involved early on in projects, figuring out what needs to be done at a high level and thinking about the overall design. Developers take that high level plan and go into detail, all the way down to individual lines of code. Operations engineers get that code public and make sure it stays up regardless of how many people want to access it.
 
 ## How we do development
 
-Good code starts with understanding, and is rooted in the real world. We get involved in the research and design to understand the needs of our users and the constraints of the organisations we’re working with.
+Good code starts with understanding, and is rooted in the real world. We get involved in the [research](/user-research) and [design](/design) to understand the needs of our users and the constraints of the organisations we’re working with.
 
-We aspire to ship new code regularly, delivering value to our users as quickly as possible. This is less prone to problems than waiting ages to ship lots of new features at once, and gives us a nice feeling of progress.
+We aim to ship new code regularly, delivering value to our users as quickly as possible. This is less prone to problems than waiting a while to ship lots of new features at once, and gives us a feeling of progress.
 
-We build for quality and consistency, think about those who come after us. We use straightforward technology and conventional approaches wherever possible because we’re building for accessibility, security, and reliability. We vary from convention only on the domain specific stuff, where it adds the most value.
+We build for quality and consistency, and think about those who come after us. We use straightforward technology and conventional approaches wherever possible because we’re building for accessibility, security and reliability. We vary from convention only on the domain specific stuff, where it adds the most value.
 
 We write tests to check if our code is doing what we expect, use linters that ensure everyone writes code in the same way, and document our decisions for future reference. We also review each other’s code to learn from one another and to catch errors.
 
