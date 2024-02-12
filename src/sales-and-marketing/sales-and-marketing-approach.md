@@ -38,7 +38,7 @@ We aim to create deliverable, exciting proposals that resonate with client teams
 
 We learn from each bid by collecting feedback from all stages to make continuous improvements and feed into future bids and wider dxw strategy.
 
-## We manage sales operations which include: 
+## We manage sales operations which include 
 
 * monitoring the sales inbox for new opportunities and communication with clients
 * inputting new bids into the sales library and crib sheet to refer to and track feedback 
