@@ -3,13 +3,24 @@ title: User research at dxw
 related_order: 1000
 last_reviewed_at: 2024-02-06T16:09:35.311Z
 ---
-At dxw, we believe in [starting with people and their needs](/about-us/our-mission-values-and-principles/#start-with-people-and-their-needs).
 
-As user researchers, we help multidisciplinary teams learn about all the different people who will use and be affected by a service. And help organisations to recognise the value of user research.
+At dxw, we believe in [starting with people and their needs](/about-us/our-mission-values-and-principles/#start-with-people-and-their-needs). User researchers help multidisciplinary teams learn about the different people who will use, and be affected by, a service. What we aim to learn may vary greatly across different projects, but we usually look to uncover users’ needs, motivations and barriers. 
 
-There is no single right way of doing this, but as an organisation, we need to be consistent in the way we approach, do, and talk about research.
+We also seek to understand users’ behaviours, attitudes within their circumstances, and contexts of service use. We work openly to gather evidence and build knowledge, which helps to inform the vision, design and delivery of services so that they’re usable, accessible and fit seamlessly into users’ lives. This is a core part of [our mission](/about-us/our-mission-values-and-principles/). 
 
-Note that this guidance applies to all dxw staff, dxw friends, and partner and client staff doing research activities, like interviews, visits, surveys and tests. And particularly the guidance on [Doing research safely](/user-research/doing-research-safely/), [Getting informed consent](/user-research/getting-informed-consent-for-user-research/), [Protecting participant privacy](/user-research/recruiting-participants-and-protecting-privacy#protecting-participant-privacy) and [Taking care of research data](/user-research/taking-care-of-research-data/).
+dxw researchers involve our team members in [defining research plans](/user-research/creating-and-using-research-plans/) by:
+
+* setting objectives and approach
+* identifying user groups
+* [choosing relevant research activities](/user-research/choosing-and-using-research-methods/)
+
+As much as possible, we collaborate on research sessions, [analysis and synthesis](/user-research/choosing-and-using-analysis-and-synthesis-methods/) and [sharing findings](/user-research/sharing-research-activities-and-findings/). 
+
+This guidance applies to all dxw staff, dxw friends, and partner and client staff doing research activities, like interviews, visits, surveys and tests. Please familiarise yourself with the guidance on:
+
+* [Doing research safely](/user-research/doing-research-safely/), * [Getting informed consent](/user-research/getting-informed-consent-for-user-research/)
+* [Protecting participant privacy](/user-research/recruiting-participants-and-protecting-privacy#protecting-participant-privacy)
+* [Taking care of research data](/user-research/taking-care-of-research-data/)
 
 ## User research principles
 
