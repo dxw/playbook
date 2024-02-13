@@ -1,5 +1,6 @@
 ---
 title: Guides for line managers
+related_order: 2
 redirect_from:
   - /guides/line-management-guides
 last_reviewed_at: ""
