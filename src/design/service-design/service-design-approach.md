@@ -1,4 +1,3 @@
-
 ---
 title: Service design approach
 related_order: 2
