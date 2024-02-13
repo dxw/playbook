@@ -1,5 +1,6 @@
 ---
 title: How we do pitches
+related_order: 3
 redirect_from:
   - /guides/how-we-do-pitches
 last_reviewed_at: ""

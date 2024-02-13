@@ -1,6 +1,6 @@
 ---
 title: Sales and marketing team principles
-related_order: 1000
+related_order: 1
 last_reviewed_at: ""
 ---
 
