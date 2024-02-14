@@ -18,7 +18,8 @@ As much as possible, we collaborate on research sessions, [analysis and synthesi
 
 This guidance applies to all dxw staff, dxw friends, and partner and client staff doing research activities, like interviews, visits, surveys and tests. Please familiarise yourself with the guidance on:
 
-* [Doing research safely](/user-research/doing-research-safely/), * [Getting informed consent](/user-research/getting-informed-consent-for-user-research/)
+* [Doing research safely](/user-research/doing-research-safely/) 
+* [Getting informed consent](/user-research/getting-informed-consent-for-user-research/)
 * [Protecting participant privacy](/user-research/recruiting-participants-and-protecting-privacy#protecting-participant-privacy)
 * [Taking care of research data](/user-research/taking-care-of-research-data/)
 
