@@ -1,6 +1,6 @@
 ---
 title: Technology at dxw
-related_order: 10
+related_order: 11
 last_reviewed_at: ""
 ---
 
