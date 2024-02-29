@@ -1,6 +1,6 @@
 ---
 title: Product management at dxw
-related_order: 1000
+related_order: 8
 last_reviewed_at: ""
 ---
 
