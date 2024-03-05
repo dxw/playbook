@@ -20,70 +20,70 @@ They help us to:
 
 ### Introduction
 
-Recap the goals of the project and the research activity, describe the methods
-you’ll be using, and set out the overall structure of the research session.
+This part recaps the goals of the project and the research activity, describes the methods
+we’ll be using, and sets out the overall structure of the research session.
 
 ### Preparation
 
-Describe anything the researcher needs to have or do, to prepare for the
-session. Reference things like the information sheet to send to participants,
-describe how to set up the prototype you’ll be testing, and reference the
+This part describes anything the researchers need to have or do, to prepare for the
+session. It references things like the information sheet to send to participants,
+describes how to set up the prototype you’ll be testing, and references the
 [notes template](https://drive.google.com/drive/folders/1MAUax08jwwqNd1BWfH-gixSbltY2qE-m)
-you want to use.
+observers should use.
 
 ### Welcome
 
-Set out the things you'll say to the participant to let them them know what’s
-going on and make sure they feel comfortable. It can be helpful to write this
-out word for word, so you have something to fall back on when you’re tired, or
+This part sets out the things we'll tell the participants, so they know what’s
+going on and feel ready. We often write this
+out word for word, so we have something to fall back on when we’re tired, or
 get interrupted or distracted.
 
-In your welcome you should:
+In a good welcome we:
 
-* **Say thank you** - Start off by letting the participant know you appreciate
+* **Say thank you** - We start off by letting the participants know we appreciate
   them offering their time (incentivised or not)
-* **Introduce yourself** - Let them know your name, role, company and who you
+* **Introduce ourselves** - We let them know our name, role, and company, and who we
   are working for
-* **State your relationship to the client** - We are **independent
+* **State our relationship to the client** - We are **independent
   researchers**, working on behalf of a client
-* **Summarise the research purpose** - Explain what you’re trying to find out,
+* **Summarise the research purpose** - We explain what we’re trying to find out,
   e.g. We’re interested in how you recruit teachers for your school
 * **Remind them it is voluntary** - They can choose to stop at any time
 * **Reassure them that there are no right or wrong answers** - We’re interested
-  in how the participant thinks and what influences that
-* **Ask them to be honest** - As researchers we won’t be offended by any
+  in how the participants think and what influences that
+* **Ask them to be honest** - As researchers we won’t be offended by negative
   comments, we just want to find out what people really think about a service
   and how it might be improved
-* **Describe how the session will go** - Let the participant know who is taking
-  notes or observing, how you are recording the session, how long the session
-  will take, and what you’ll be doing in that time, so the participant knows
+* **Describe how the session will go** - Let the participants know who is taking
+  notes or observing, how we are recording the session, how long the session
+  will take, and what we’ll be doing in that time, so the participants knows
   what to expect
 * **Check consent and non-disclosure** - Has this been done? Do they have any
   questions?
 
 ### Topics, tasks and activities
 
-Have a section in your guide for each of the main interview topics, test tasks
+We have a section in our guide for each of the main interview topics, test tasks
 or workshop activities.
 
-For each one write out:
+For each one we write out:
 
-* What you are trying to learn
-* For an interview topic, the starter questions you’ll ask along with likely
+* What we are trying to learn
+* For an interview topic, the starter questions we’ll ask along with likely
   follow ups
 * For a test task or workshop activity
 
   * the steps to do
   * explanations and instructions for participants, such asking them to think
-    out loud during a test so you can understand what’s happening
+    out loud during a test so we can understand what’s happening
 * How long the topic, task or activity is likely to take
-* The priority - is this essential, or could you leave it out if you’re short of
+* The priority - is this essential, or could we leave it out if we’re short of
   time
 
 ### Wrap up
 
-Describe how the researcher should conclude the session with the participant.
-This can include asking the participant for their final thoughts, asking them
+Describe how we’ll conclude the session with the participants.
+This can include asking the participants for their final thoughts, asking them
 how the session went for them, letting them know what will happen next, and
 thanking them for their time.
 
