@@ -27,13 +27,13 @@ we’ll be using, and sets out the overall structure of the research session.
 
 This part describes anything the researchers need to have or do, to prepare for the
 session. It references things like the information sheet to send to participants,
-describes how to set up the prototype you’ll be testing, and references the
+describes how to set up a prototype we’re be testing, and references the
 [notes template](https://drive.google.com/drive/folders/1MAUax08jwwqNd1BWfH-gixSbltY2qE-m)
 observers should use.
 
 ### Welcome
 
-This part sets out the things we'll tell the participants, so they know what’s
+This part sets out the things we’ll tell the participants, so they know what’s
 going on and feel ready. We often write this
 out word for word, so we have something to fall back on when we’re tired, or
 get interrupted or distracted.
@@ -87,7 +87,7 @@ This can include asking the participants for their final thoughts, asking them
 how the session went for them, letting them know what will happen next, and
 thanking them for their time.
 
-Also include any steps for the researcher, like collecting and storing
+Also include any steps for the researchers, like collecting and storing
 recordings, or deleting data from prototypes.
 
 ## Three discussion guide templates
