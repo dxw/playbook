@@ -12,4 +12,10 @@ We blog, write case studies, speak at events and use social media to let people 
 - the wider team
 - our culture
 
-This helps to raise awareness of dxw and its work and helps to support our growth.
+This helps to:
+
+- raise our profile with clients we want to work with
+- reinforce what’s unique about us
+- show our leadership, work and expertise across the sector 
+- promote dxw as an employer
+
