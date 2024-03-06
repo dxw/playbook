@@ -1,5 +1,6 @@
 ---
-title: Tone of voice
+title: dxw's tone of voice
+related order: 1
 redirect_from:
   - /guides/tone-of-voice
 last_reviewed_at: ""

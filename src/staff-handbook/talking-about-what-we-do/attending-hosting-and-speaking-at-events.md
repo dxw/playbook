@@ -1,20 +1,8 @@
 ---
-title: Sharing our expertise
-related_order: 3
+title: Attending, hosting and speaking at events
+related_order: 5
 last_reviewed_at: ""
 ---
-
-## Hosting events
-
-We host a variety of face to face and online events to share our experience and
-expertise.
-
-We work hard to design events that are accessible, inclusive and safe. We ask
-attendees about their individual access and support needs.
-
-We publish a code of conduct for all the events we host. And we expect the hosts
-of events we are involved in to apply similar standards to the conduct of their
-sponsors, event organisers and participants.
 
 ## Attending events
 
@@ -28,6 +16,18 @@ of conduct for the event.
 
 We encourage everyone to network and talk about dxw’s work. Remember to tell
 people if we’re hiring and point them to our careers page on the dxw website.
+
+## Hosting events
+
+We host a variety of face to face and online events to share our experience and
+expertise.
+
+We work hard to design events that are [accessible, inclusive and safe](https://www.dxw.com/2023/08/inclusion-ukcharitycamp/). We ask
+attendees about their individual access and support needs.
+
+We publish a code of conduct for all the events we host. And we expect the hosts
+of events we are involved in to apply similar standards to the conduct of their
+sponsors, event organisers and participants.
 
 ## Speaking at events
 
@@ -54,37 +54,3 @@ your experience and what you learned.
 If you need time to be set aside to prepare or follow up a talk, talk to your
 delivery lead and see what’s possible.
 
-## Our blog
-
-At dxw, we encourage people to blog regularly. Both on the
-[dxw blog](https://www.dxw.com/blog/), and on personal and community blogs.
-
-We blog because we want to share what we’re doing and what we’re learning with
-the public sector digital community. We work in the open and are keen to share
-our knowledge, express our values and get people thinking about how to improve
-services for the public sector.
-
-When we’re hiring, we also want potential new staff to be able to get to know us
-beforehand.
-
-When we blog we use the dxw [tone of voice](/work-we-do/tone-of-voice/).
-
-We record ideas for blog posts and the schedule for publishing on
-[a Trello board](https://trello.com/b/otR1Mmjv/dxw-blogging-and-case-studies-schedule).
-This is managed by the marketing team, who can offer you help and advice on
-ideas and support with writing if you need it. They will also manage the final
-sign off and publishing of posts. Get in touch through the
-[\#dxw-marketing](https://dxw.slack.com/archives/C0K5DRKU6) channel on Slack.
-
-## Twitter
-
-The marketing team run dxw’s
-[official Twitter account](https://twitter.com/dxw).
-
-When we tweet we use the dxw [tone of voice](/work-we-do/tone-of-voice/).
-
-We encourage people to work openly and to tweet about the work they’re doing,
-their learning and ideas from their own accounts. You should be careful not to
-share any confidential information and check that people are content before
-using any pictures of them. Remember that you are representing dxw whether or
-not you identify yourself as working here in your Twitter profile.
