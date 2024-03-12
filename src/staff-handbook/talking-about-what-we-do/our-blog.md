@@ -18,11 +18,11 @@ When we blog we use the dxw [tone of voice](/work-we-do/tone-of-voice/).
 
 We blog on a range of topics: all aspects of our projects, our people and what it means to be an employee-owned trust. 
 
-If you’re having a hard time coming up with ideas, This bikeshed has some suggestions What should I write about? 
+If you’re having a hard time coming up with ideas, This bikeshed has some suggestions [What should I write about?](https://bikeshed.dxw.com/2023/03/09/what-should-i-write-about/) 
 
 ## Blog length, structure, and format
 
-Our blog posts are usually between 800-1,500 words and are usually written using ‘I’, or ‘we’. There’s no strict structure for blog posts, though they’re usually text broken up by subheadings. But don’t feel constrained by this. Your post could be a list, series of images or an infographic.  
+Our blog posts are usually between 800-1,500 words and are usually written using ‘I’, or ‘we’. There’s no strict structure for blog posts, though they’re usually blocks of text broken up by subheadings. But don’t feel constrained by this. Your post could be a list, series of images or an infographic.  
 
 ## Support for blog post writing
 
@@ -37,7 +37,7 @@ The comms and marketing team can offer help and advice on ideas and support with
 
 Once you have a draft, the comms and marketing team will:
 
-* upload any images
+* upload any images and add them to the body of the text
 * write captions and alt text for images
 * add a main image 
 * add a strapline
@@ -46,6 +46,8 @@ Once you have a draft, the comms and marketing team will:
 * add a social media card
 * proof the post
 
-After they’ve done that, they’ll add your post to the [publishing schedule](https://trello.com/b/otR1Mmjv/dxw-blogging-and-case-studies-schedule). Your blog post might not be published straight away. We pick from the list of posts that are ready to make sure we can prioritise topical content, and that we’re publishing posts on a mixture of topics.
+After they’ve done that, they’ll add your post to the [publishing schedule](https://trello.com/b/otR1Mmjv/dxw-blogging-and-case-studies-schedule). 
+
+Your blog post might not be published straight away. We pick from the list of posts that are ready to make sure we can prioritise topical content, and that we’re publishing posts on a mixture of topics.
 
 
