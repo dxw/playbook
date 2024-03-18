@@ -27,7 +27,7 @@ These are the things that user researchers usually do on projects, and the relev
    [Setting up a project](/delivery-management/setting-up-a-new-project/) \
    [Creating and using research plans](/user-research/creating-and-using-research-plans/)
 
-2. **Create and share research plans**
+1. **Create and share research plans**
 
    Researchers create and share research plans that show what we’re aiming to learn, which groups we’ll be researching with, and what activities we will do. We involve our teams in creating these plans, and share them widely, so our colleagues can understand and support the research we will be doing.
 
@@ -39,7 +39,7 @@ These are the things that user researchers usually do on projects, and the relev
    [Choosing and using research methods](/user-research/choosing-and-using-research-methods/) \
    [Doing research safely](/user-research/doing-research-safely)
 
-4. **Recruit people for research**
+1. **Recruit people for research**
 
    Researchers recruit appropriate participants for research activities. Finding the right participants at the right time is always challenging, so we start recruiting as soon as we can and use a variety of approaches to reach everyone we need. We keep track of who participates in our research, so we can be confident that we’re including the right people. And we work hard to protect their privacy and wellbeing.
 
@@ -49,7 +49,7 @@ These are the things that user researchers usually do on projects, and the relev
    [Getting informed consent for user research](/user-research/getting-informed-consent-for-user-research/) \
    [When and how to give incentives to research participants](/user-research/when-and-how-to-give-incentives-to-research-participants/)
 
-5. **Do research activities**
+1. **Do research activities**
 
    This is the most obvious and visible part of our work. We carefully prepare, schedule and carry out effective research activities. We give all our colleagues regular opportunities to take part in research. And we record what we do and how we do it, for each other, and for those who come after us.
 
@@ -60,7 +60,7 @@ These are the things that user researchers usually do on projects, and the relev
    [Doing research safely](/user-research/doing-research-safely) \
    [Taking notes and recording research sessions](/user-research/taking-notes-and-recording-research-sessions/)
 
-6. **Analyse research and produce findings**
+1. **Analyse research and produce findings**
 
    Researchers carefully analyse the different kinds of data we collect, whether from new research or from existing sources. We analyse data in batches and record our findings from sprint to sprint. And we involve our colleagues and clients in analysis to make sure our findings are clear and relevant.
 
@@ -71,7 +71,7 @@ These are the things that user researchers usually do on projects, and the relev
    [Taking notes and recording research sessions](/user-research/taking-notes-and-recording-research-sessions/) \
    [Choosing and using analysis and synthesis methods](/user-research/choosing-and-using-analysis-and-synthesis-methods)
 
-7. **Create and share outputs**
+1. **Create and share outputs**
 
    Researchers create and share formal outputs like plans, presentations, reports and diagrams. These record and communicate the important things we learn. We create finished outputs from sprint to sprint, not just at the end of a project. We think carefully about how, where and with whom we present and share these outputs to produce the most impact. And we take care to protect our participant’s privacy in everything we share.
 
@@ -79,7 +79,7 @@ These are the things that user researchers usually do on projects, and the relev
 
    [Sharing research activities and findings](/user-research/sharing-research-activities-and-findings/)
 
-8. **Take care of research data**
+1. **Take care of research data**
 
    Researchers know it’s important to manage research data carefully. We follow our [privacy policy](https://www.dxw.com/privacy-statement/) and [ISO27001 certification](https://www.itgovernance.co.uk/iso27001/) when we collect, process and store research data to make sure we comply with the [General Data Protection Regulation](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/).
 
