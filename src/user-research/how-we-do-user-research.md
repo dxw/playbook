@@ -45,7 +45,7 @@ These are the things that user researchers usually do on projects, and the relev
 
    This helps teams to learn about all the people who might use or be affected by a service.
 
-   [Recruiting research participants and protecting their privacy](/user-research/recruiting-participant-and-protecting-privacy/) \
+   [Recruiting research participants and protecting their privacy](/user-research/recruiting-participants-and-protecting-privacy/) \
    [Getting informed consent for user research](/user-research/getting-informed-consent-for-user-research/) \
    [When and how to give incentives to research participants](/user-research/when-and-how-to-give-incentives-to-research-participants/)
 
