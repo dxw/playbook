@@ -44,6 +44,8 @@ in the Service Manual.
 
 ## Protecting participant privacy
 
-How we can share research findings will depend on the [consent we have from the participants](/user-research/getting-informed-consent-for-user-research/).
+We are careful to [protect our participants’ privacy](/user-research/recruiting-participants-and-protecting-privacy/#protecting-participant-privacy) when we share research activities and findings.
 
-By default, we share only fully anonymised findings, that do not include any personal data or anything that could identify the participants.
+By default, we share only fully anonymised findings, that do not include any personal data or anything that could identify a participant.
+
+We only share more with the [properly informed consent](/user-research/getting-informed-consent-for-user-research/) of our participants.
