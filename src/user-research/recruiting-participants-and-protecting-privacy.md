@@ -101,6 +101,15 @@ easy. In Google Calendar you can create a personal Research calendar and add all
 research activities involving participants to that calendar. Or you might adopt
 a naming convention such as ‘Research:’.
 
+### Sharing research activities and findings
+
+We are careful to protect our participants’ privacy when we
+[share descriptions of research activities and report on our findings](user-research/sharing-research-activities-and-findings/).
+
+By default, we share only fully anonymised findings, that do not include any personal data or anything that could identify a participant.
+
+We only share more with the [properly informed consent](/user-research/getting-informed-consent-for-user-research/) of our participants.
+
 ### Doing fully confidential research
 
 We sometimes do research where the participants are known only to the
