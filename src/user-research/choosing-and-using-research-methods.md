@@ -1,7 +1,7 @@
 ---
 title: Choosing and using research methods
 related_order: 70
-last_reviewed_at: 2024-01-29T11:17:41.859Z
+last_reviewed_at: 2024-03-18T11:43:16.151Z
 ---
 Our fourth research principle is to [be methodical, but not rigid](/user-research/#user-research-principles). At dxw, we don’t have a fixed set of approved research methods. But when we [plan our research](https://playbook.dxw.com/user-research/creating-and-using-research-plans/), we do need to choose appropriate methods for the context and apply them well.
 
@@ -19,15 +19,15 @@ At dxw, we follow human centred design practices to [start with people and their
 
 ### Recommended guidance
 
-* [User research in the GOV.UK Service Manual](https://www.gov.uk/service-manual)
-* [The Scottish Approach to Service Design by the Scottish Government](https://www.gov.scot/publications/the-scottish-approach-to-service-design/)
-* [A Guide to Using User Experience Research Methods by NN/g](https://www.nngroup.com/articles/guide-ux-research-methods/)
-* [Just Enough Research by Erika Hall](https://abookapart.com/products/just-enough-research)
-* [User Research by Stephanie Marsh](https://www.koganpage.com/product/user-research-9780749481049)
-* [The Moderator’s Survival Guide by Donna Tedesco and Fiona Tranquada](https://www.modsurvivalguide.org/)
-* [The Field Guide to Human-Centred Design by IDEO](https://www.designkit.org/)
-* [Universal Methods of Design by Martin and Hanington](https://www.oreilly.com/library/view/universal-methods-of/9781592537563/)
-* [Convivial Toolbox by Sanders and Stappers](https://www.bispublishers.com/convivial-toolbox.html)
+* [User research](https://www.gov.uk/service-manual) in the GOV.UK Service Manual
+* [The Scottish Approach to Service Design](https://www.gov.scot/publications/the-scottish-approach-to-service-design/) by the Scottish Government
+* [A Guide to Using User Experience Research Methods](https://www.nngroup.com/articles/guide-ux-research-methods/) by NN/g
+* [Just Enough Research](https://abookapart.com/products/just-enough-research) by Erika Hall
+* [User Research](https://www.koganpage.com/product/user-research-9780749481049) by Stephanie Marsh
+* [The Moderator’s Survival Guide](https://www.modsurvivalguide.org/) by Donna Tedesco and Fiona Tranquada
+* [The Field Guide to Human-Centred Design](https://www.designkit.org/) by IDEO
+* [Universal Methods of Design](https://www.oreilly.com/library/view/universal-methods-of/9781592537563/) by Martin and Hanington
+* [Convivial Toolbox](https://www.bispublishers.com/convivial-toolbox.html) by Sanders and Stappers
 
 ## Interviews
 
@@ -43,10 +43,10 @@ We sometimes combine interviews with usability testing, by talking to participan
 
 ### Recommended guidance
 
-* [Using in-depth interviews in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research/using-in-depth-interviews)
-* [Interviewing Users by Steve Portigal](https://portigal.com/Books/interviewing-users/)
-* [Interviewing for Research by Andrew Travers](https://andrewtravers.co/book/)
-* [Seventeen types of interviewing questions by Steve Portigal](https://portigal.com/seventeen-types-of-interviewing-questions/)
+* [Using in-depth interviews](https://www.gov.uk/service-manual/user-research/using-in-depth-interviews) in the GOV.UK Service Manual
+* [Interviewing Users](https://portigal.com/Books/interviewing-users/) by Steve Portigal
+* [Interviewing for Research](https://andrewtravers.co/book/) by Andrew Travers
+* [Seventeen types of interviewing questions](https://portigal.com/seventeen-types-of-interviewing-questions/) by Steve Portigal
 
 ## Contextual research and observation
 
@@ -61,11 +61,11 @@ We choose contextual research and observation when:
 
 ### Recommended guidance
 
-* [Contextual research and observation in the GOV.UK Service Manual.](https://www.gov.uk/service-manual/user-research/contextual-research-and-observation)
-* [Field Studies by NN/g](https://www.nngroup.com/articles/field-studies/)
-* [Contextual Design by Holzblatt and Beyer](https://shop.elsevier.com/books/contextual-design/holtzblatt/978-0-12-800894-2)
-* [The Field Study Handbook by Jan Chipchase](https://www.thefieldstudyhandbook.com/)
-* [Userpalooza by Nick Bowmast](https://userpalooza.co.nz/)
+* [Contextual research and observation](https://www.gov.uk/service-manual/user-research/contextual-research-and-observation) in the GOV.UK Service Manual
+* [Field Studies](https://www.nngroup.com/articles/field-studies/) by NN/g
+* [Contextual Design](https://shop.elsevier.com/books/contextual-design/holtzblatt/978-0-12-800894-2) by Holzblatt and Beyer
+* [The Field Study Handbook](https://www.thefieldstudyhandbook.com/) by Jan Chipchase
+* [Userpalooza](https://userpalooza.co.nz/) by Nick Bowmast
 
 ## Experience and journey mapping
 
@@ -86,11 +86,11 @@ We choose journey mapping when we want to:
 
 ### Recommended guidance
 
-* [Researching user experiences in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research/researching-user-experiences)
-* [Creating an experience map in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research/creating-an-experience-map)
-* [Adaptive Path’s Guide to Experience Mapping](https://drive.google.com/file/d/1kS_Q72e4k9AtjHFFnV2VrZKSei0Djpzo)
-* [UX Mapping Methods Compared: A Cheat Sheet by NN/g](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
-* [Mapping Experiences by Jim Kalbach](https://www.oreilly.com/library/view/mapping-experiences/9781491923528/)
+* [Researching user experiences](https://www.gov.uk/service-manual/user-research/researching-user-experiences) in the GOV.UK Service Manual
+* [Creating an experience map](https://www.gov.uk/service-manual/user-research/creating-an-experience-map) in the GOV.UK Service Manual
+* [Guide to Experience Mapping](https://drive.google.com/file/d/1kS_Q72e4k9AtjHFFnV2VrZKSei0Djpzo) by Adaptive Path
+* [UX Mapping Methods Compared: A Cheat Sheet](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/) by NN/g
+* [Mapping Experiences](https://www.oreilly.com/library/view/mapping-experiences/9781491923528/) by Jim Kalbach
 
 ## Profiles, archetypes and personas
 
@@ -116,10 +116,10 @@ We choose personas when:
 
 ### Recommended guidance
 
-* [The Persona Lifecycle by John Pruitt and Tamara Adlin](https://www.oreilly.com/library/view/the-persona-lifecycle/9780125662512/)
-* [Practical Empathy by Indi Young](https://rosenfeldmedia.com/books/practical-empathy/)
-* [Describing personas by Indi Young](https://medium.com/inclusive-software/describing-personas-af992e3fc527)
-* [Mindsets article series at Designit](https://www.designit.com/stories/point-of-view/mindset-over-matter-part-one)
+* [The Persona Lifecycle](https://www.oreilly.com/library/view/the-persona-lifecycle/9780125662512/) by John Pruitt and Tamara Adlin
+* [Practical Empathy](https://rosenfeldmedia.com/books/practical-empathy/) by Indi Young
+* [Describing personas](https://medium.com/inclusive-software/describing-personas-af992e3fc527) by Indi Young
+* [Mindsets article series](https://www.designit.com/stories/point-of-view/mindset-over-matter-part-one) at Designit
 
 ## Workshops and group activities
 
@@ -140,7 +140,7 @@ We also bear in mind that we don’t get twice as many findings by inviting twic
 
 ### Recommended guidance
 
-* [Researching in small group workshops in the GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research/research-small-group-workshops)
+* [Researching in small group workshops](https://www.gov.uk/service-manual/user-research/research-small-group-workshops) in the GOV.UK Service Manual
 * [Liberating Structures](https://www.liberatingstructures.com/)
 * [Gamestorming](https://gamestorming.com/)
 * [Seeds for Change](https://www.seedsforchange.org.uk/resources)
@@ -155,9 +155,9 @@ If we’re not sure about any of those things - maybe we don’t yet know which 
 
 ### Recommended guidance
 
-* [Surveys that Work by Caroline Jarrett](https://www.effortmark.co.uk/surveysthatwork/)
-* [Types of sampling for Market Research by Survey Monkey](https://www.surveymonkey.co.uk/market-research/resources/types-of-sampling/) 
-* [Question and questionnaire design by Krosnick and Presser](https://web.stanford.edu/dept/communication/faculty/krosnick/docs/2009/2009_handbook_krosnick.pdf)
+* [Surveys that Work](https://www.effortmark.co.uk/surveysthatwork/) by Caroline Jarrett
+* [Types of sampling for Market Research](https://www.surveymonkey.co.uk/market-research/resources/types-of-sampling/) by Survey Monkey
+* [Question and questionnaire design](https://web.stanford.edu/dept/communication/faculty/krosnick/docs/2009/2009_handbook_krosnick.pdf) by Krosnick and Presser
 
 ## Concept testing
 
@@ -178,9 +178,9 @@ We often combine concept testing with initial interviews to understand more abou
 
 ### Recommended guidance
 
-* [The Value Of Concept Testing As Part Of Product Design by Victor Yocco](https://www.smashingmagazine.com/2021/11/concept-testing-part-of-product-design/)
-* [Concept validation: The perfect UX Research midway method](https://uxdesign.cc/the-perfect-uxr-midway-method-concept-validation-5b043830582f)
-* [How to Conduct a Cognitive Walkthrough Workshop](https://www.nngroup.com/articles/cognitive-walkthrough-workshop/)
+* [The Value Of Concept Testing As Part Of Product Design](https://www.smashingmagazine.com/2021/11/concept-testing-part-of-product-design/) by Victor Yocco
+* [Concept validation: The perfect UX Research midway method](https://uxdesign.cc/the-perfect-uxr-midway-method-concept-validation-5b043830582f) by Gabriella Lanning
+* [How to Conduct a Cognitive Walkthrough Workshop](https://www.nngroup.com/articles/cognitive-walkthrough-workshop/) by NN/g
 
 ## Content research
 
@@ -194,16 +194,16 @@ We choose highlighter and similar tests to see how well participants understand 
 
 ### Recommended guidance
 
-* [Card sorting by Donna Spencer](https://rosenfeldmedia.com/books/card-sorting/)
-* [Card Sorting by NN/g](https://www.nngroup.com/articles/card-sorting-definition/)
-* [Card sorting on usability.gov](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
+* [Card sorting](https://rosenfeldmedia.com/books/card-sorting/) by Donna Spencer
+* [Card Sorting](https://www.nngroup.com/articles/card-sorting-definition/) by NN/g
+* [Card sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html) on usability.gov
 
-* [Tree Testing: Fast, Iterative Evaluation of Menu Labels and Categories](https://www.nngroup.com/articles/tree-testing/)
-* [Tree Testing 101 by Optimal Workshop](https://www.optimalworkshop.com/learn/101s/tree-testing/)
+* [Tree Testing: Fast, Iterative Evaluation of Menu Labels and Categories](https://www.nngroup.com/articles/tree-testing/) by NN/g
+* [Tree Testing 101](https://www.optimalworkshop.com/learn/101s/tree-testing/) by Optimal Workshop
 
-* [What does this mean? Tips for testing your words by John Waterworth](https://userresearch.blog.gov.uk/2015/07/01/what-does-this-mean-tips-for-testing-your-words/)
-* [Three effective methods for content tests by dScout](https://dscout.com/people-nerds/content-testing)
-* [How to Test Content with Users by NN/g](https://www.nngroup.com/articles/testing-content-websites/)
+* [What does this mean? Tips for testing your words](https://userresearch.blog.gov.uk/2015/07/01/what-does-this-mean-tips-for-testing-your-words/) by John Waterworth
+* [Three effective methods for content tests](https://dscout.com/people-nerds/content-testing) by dScout
+* [How to Test Content with Users](https://www.nngroup.com/articles/testing-content-websites/) by NN/g
 
 ## Usability testing
 
@@ -219,8 +219,9 @@ We choose usability testing when we have an existing service, a working prototyp
 
 ### Recommended guidance
 
-* [Using moderated usability testing in GOV.UK Service Manual](https://www.gov.uk/service-manual/user-research/using-moderated-usability-testing)
-* [Rocket Surgery Made Easy by Steve Krug](https://sensible.com/rocket-surgery-made-easy/)
-* [Qualitative Usability Testing: Study Guide by NN/g](https://www.nngroup.com/articles/qual-usability-testing-study-guide/)
-* [Handbook of Usability Testing by Jeffrey Rubin and Dana Chisnell](https://www.wiley.com/go/usabilitytesting)
-* [Unmoderated testing for the UK's new register of regulated professions](https://www.dxw.com/2022/06/unmoderated-testing-beis-rpr/)
+* [Using moderated usability testing](https://www.gov.uk/service-manual/user-research/using-moderated-usability-testing) in the GOV.UK Service Manual
+* [Rocket Surgery Made Easy](https://sensible.com/rocket-surgery-made-easy/) by Steve Krug
+* [Qualitative Usability Testing: Study Guide](https://www.nngroup.com/articles/qual-usability-testing-study-guide/) by NN/g
+* [Handbook of Usability Testing](https://www.wiley.com/go/usabilitytesting) by Jeffrey Rubin and Dana Chisnell
+* [How to do inclusive usability testing](https://www.youtube.com/watch?v=qnobRSo-5J8) by Vayia Malamidou of AbilityNet
+* [Unmoderated testing for the UK's new register of regulated professions](https://www.dxw.com/2022/06/unmoderated-testing-beis-rpr/) by John Waterworth
