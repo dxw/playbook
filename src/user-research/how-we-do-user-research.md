@@ -31,12 +31,13 @@ These are the things that user researchers usually do on projects, and the relev
 
    Researchers create and share research plans that show what we’re aiming to learn, which groups we’ll be researching with, and what activities we will do. We involve our teams in creating these plans, and share them widely, so our colleagues can understand and support the research we will be doing.
 
-   We choose research activities that provide strong evidence and reliable answers, for the least time, effort and cost. And we choose activities that help our teams and different kinds of users to fully participate. We make sure the research is ethical. And that the plan is achievable and allows us to do research at a sustainable pace.
+   We choose research activities that provide strong evidence and reliable answers, for the least time, effort and cost. And we choose activities that help our teams and different kinds of users to fully participate. We make sure the research is ethical and safe. And that the plan is achievable and allows us to do research at a sustainable pace.
 
    This helps us to produce the clearest and most valuable findings we can, with the people, time and other resources we have.
 
    [Creating and using research plans](/user-research/creating-and-using-research-plans/) \
-   [Choosing and using research methods](/user-research/choosing-and-using-research-methods/)
+   [Choosing and using research methods](/user-research/choosing-and-using-research-methods/) \
+   [Doing research safely](/user-research/doing-research-safely)
 
 4. **Recruit people for research**
 
