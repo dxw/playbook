@@ -104,7 +104,7 @@ a naming convention such as ‘Research:’.
 ### Sharing research activities and findings
 
 We are careful to protect our participants’ privacy when we
-[share descriptions of research activities and report on our findings](user-research/sharing-research-activities-and-findings/).
+[share descriptions of research activities and report on our findings](/user-research/sharing-research-activities-and-findings/).
 
 By default, we share only fully anonymised findings, that do not include any personal data or anything that could identify a participant.
 
