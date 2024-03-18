@@ -22,14 +22,14 @@ Note that this guidance applies to all dxw staff, dxw friends, and partner and c
 
 ## Following our client’s practices
 
-When we are following our client’s practices in how we [manage research data](https://playbook.dxw.com/user-research/taking-care-of-research-data/), we will
-usually also follow their practices in how we recruit participants, and how we manage the contact and other details.
+When we are following our client’s practices in how we [manage research data](/user-research/taking-care-of-research-data/), we will
+usually also follow their practices in how we recruit participants, and how we manage their contact and other personal details.
 
 Check with your delivery lead if you’re not sure which practices we have agreed to follow.
 
 ## Recruiting research participants
 
-This guidance explains how we recruit participants for research at dxw. It builds on the general guidance on [Finding participants for user research](https://www.gov.uk/service-manual/user-research/find-user-research-participants#) in the Service Manual.
+This guidance explains how we recruit participants for research at dxw. It builds on the general guidance on [Finding participants for user research](https://www.gov.uk/service-manual/user-research/find-user-research-participants) in the Service Manual.
 
 ### Planning for recruitment costs
 
