@@ -1,6 +1,6 @@
 ---
 title: Structure of a project
-related_order: 1
+related_order: 2
 last_reviewed_at: ""
 ---
 

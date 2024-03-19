@@ -1,3 +1,9 @@
+---
+title: Development sprints
+related_order: 3
+last_reviewed_at: ""
+---
+
 ## Development sprints
 
 We break down projects into two-week sprints. Throughout a project we maintain a
@@ -76,7 +82,7 @@ We have regular user research playback sessions to ensure the whole team is
 involved in understanding user needs, feedback from user testing and what
 iterations means for the users.
 
-### User stories
+## User stories
 
 We document development work that needs to be completed by writing
 [user stories](https://www.gov.uk/service-manual/agile/writing-user-stories).
@@ -113,7 +119,7 @@ which must be true in order for the story to be considered "done".
 For more information about writing good stories, we recommend reading User
 Stories Applied by Mike Cohn. There is a copy of this book in the dxw library.
 
-### Lifecycle of a story
+## Lifecycle of a story
 
 <!-- TODO: This section should be an explanation of what happens to a story as
 it is worked on, focussing on "why" rather than "how" and explaining the

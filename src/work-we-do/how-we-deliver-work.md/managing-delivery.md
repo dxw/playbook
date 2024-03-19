@@ -1,3 +1,9 @@
+---
+title: Managing delivery
+related_order: 4
+last_reviewed_at: ""
+---
+
 ## Managing delivery
 
 > "The delivery manager sets the team up for successful delivery. They remove

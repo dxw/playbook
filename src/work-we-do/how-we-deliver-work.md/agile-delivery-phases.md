@@ -1,5 +1,6 @@
 ---
 title: Agile delivery phases
+related order: 5
 redirect_from:
   - /guides/agile-delivery-phases
 last_reviewed_at: ""
