@@ -4,15 +4,14 @@ redirect_from:
   - /guides/support-and-on-call
 last_reviewed_at: ""
 ---
+We have agreed service levels for each client we provide support for. Our standard terms, including prioritisation definitions and response times, are detailed in our Service Level Agreement.
 
-We have agreed service levels for each client we provide support for. Our standard terms, including prioritisation definitions and response times, are detailed in our [service level agreement](https://contracts.dxw.com/service_level_agreement.md).
+With our default support plan we manage all code, maintenance, updates, and uptime monitoring and provide security event monitoring intended to detect and prevent attacks. Users can also use our helpdesk service to ask for help with their service as outlined in [providing technical support](https://playbook.dxw.com/work-we-do/providing-technical-support/).
 
-With our default support plan we manage all code, maintenance, updates, and uptime monitoring and provide security event monitoring intended to detect and prevent attacks. Users can also use our helpdesk service to ask for help with their service as outlined in [supporting services](/work-we-do/supporting-services/).
-
-We provide support for clients and users of these services in 3 ways:
+We provide support for clients and users of these services in three ways:
 
 * clients can raise a ticket with us to fix a problem or make a change to a site we support.
-* we carry out proactive maintenance for our clients’ services, for example by applying security updates.
+* we do proactive maintenance for our clients’ services, for example by applying security updates.
 * we have monitoring systems for our services that continually check whether they are operating correctly, and whether there are any warning signs of problems
 * when problems are detected they raise an alert for the team to investigate and resolve
 
@@ -31,9 +30,9 @@ While on call, your responsibility is making sure all the services we support ar
 
 As with in-hours support, we use monitoring and alerts to notify you when an issue occurs via Opsgenie, and provide [runbooks](https://git.govpress.com/ops/docs) to help you respond to those issues. The difference to in-hours support is that you’ll only be alerted when a high-severity issue occurs, and you aren’t expected to take any action out of hours unless alerted.
 
-Outside office hours, the expected response depends on the severity of the incident. We have a set of factors that determine the severity of an incident, and have included these in our [service level agreement](https://contracts.dxw.com/service_level_agreement.md).
+Outside office hours, the expected response depends on the severity of the incident. We have a set of factors that determine the severity of an incident, and have included these in our [Service Level Agreement](https://contracts.dxw.com/service_level_agreement.md).
 
-## On call escalation 
+## On call escalation 
 
 While you are on call there is also a second line on call rota formed of senior members of the technical operations team. Opsgenie will alert them if you do not acknowledge an alert within 5 minutes. This is to make sure that alerts are dealt with in a timely manner. You should not feel bad about missing an Opsgenie alert. This is one of the reasons why we have the second line rota.
 
@@ -43,15 +42,15 @@ To escalate to people not on the current rota, create an alert on Opsgenie with 
 
 ## Claiming TOIL for out of hours alerts 
 
-If you are alerted out of hours you can claim Time Off in Lieu (TOIL) in [BreatheHR](https://www.breathehr.com/en-gb/):
+If you are alerted out of hours you can claim Time Off in Lieu (TOIL) in BreatheHR. For alerts:
 
-* for alerts while you are awake you can claim 0.25 days/1.75 hours of TOIL
-* for alerts which wake you up you can claim 0.5 days/3.5 hours of TOIL
+* while you are awake you can claim 0.25 days/1.75 hours of TOIL
+* which wake you up you can claim 0.5 days/3.5 hours of TOIL
 
-You can claim extra TOIL at 0.25 days per hour if you have to work more than an hour fixing an alert.
+If you have to work more than an hour fixing an alert, you can claim extra TOIL at 0.25 days per hour.
 
-If you receive multiple alerts within an hour of the first one you receive, they do not count as an extra alert for claiming TOIL. For example, if you receive 4 alerts for different issues in the space of 10 minutes you can only claim 0.25 days TOIL and not 1 day of TOIL. You can claim again if you receive another alert an hour later.
+If you receive multiple alerts within an hour of the first one you receive they do not count as an extra alert for claiming TOIL. For example, if you receive 4 alerts for different issues in the space of 10 minutes you can only claim 0.25 days TOIL and not 1 day of TOIL. If after an hour you receive another alert, that is when you can claim again.
 
-You're not expected to start work at your nornal time if you've been woken up by an alert. Let your delivery lead or line manager know via a Slack message if possible.
+If you have been woken up by an alert you are not expected to start work at your normal time. Let your delivery lead or line manager know via a Slack message if possible.
 
-If you feel that you need a rest from being on call out of hours after a disrupted night of sleep please talk to the Head of Technical Operations, or the Technical Director, who will find a replacement for that night.
+If you feel that you need a rest from being on call out of hours after a disrupted night of sleep please talk to the Head of Technical Operations or the Technical Director who will find a replacement for that night.
