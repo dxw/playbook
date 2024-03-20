@@ -24,7 +24,7 @@ Out of hours support for projects is handled on a rota basis, please see the [su
 
 ## Support principles 
 
-### Be responsive 
+### Be responsive
 
 Clients expect us to deal with their issues promptly. But they understand that this isn’t always possible. They are generally forgiving of the fact that we’re sometimes busy, and they understand that some issues are complex and require long investigations.
 
