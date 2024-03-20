@@ -36,7 +36,7 @@ The Service Manual describes four stages of agile delivery:
 ## Discovery
 
 Before committing to building something, we need to understand what the user
-needs are and if a new thing is needed. This is **discovery**.
+needs are and if a new thing is needed. This is discovery.
 
 Discovery de-risks the future. It allows us to understand the scope of a problem
 and the best way to proceed in response.
@@ -49,7 +49,7 @@ Activities in discovery include:
 * Journey mapping
 * Cost analysis
 
-**We are not building software in discovery.** The outputs of a discovery
+We are not building software in discovery. The outputs of a discovery
 include:
 
 * Recommendations on the best way to proceed.
@@ -62,7 +62,7 @@ include:
 
 After committing to building a new service, we need to understand how it will
 work for users and how it will integrate with existing processes and systems.
-**This is alpha.**
+This is alpha.
 
 Alpha results in a better and more focused service. It allows us to understand
 how users will interact with the service and what is technically possible.
@@ -74,8 +74,8 @@ Activities in alpha include:
 * Service design
 * Technical audit and exploration of existing and legacy systems
 
-**We are usually not building software in alpha, even though it might look like
-it.** The outputs of an alpha will include:
+We are usually not building software in alpha, even though it might look like
+it. The outputs of an alpha will include:
 
 * Designs that have been tested and iterated with users.
 * A roadmap and plan for a beta phase.
@@ -85,7 +85,7 @@ it.** The outputs of an alpha will include:
 ## Beta
 
 With a clear scope, user needs, and technical approach in place, we are ready to
-build a working version of the service. **This is beta.**
+build a working version of the service. This is beta.
 
 Beta results in software that can handle real transactions and is ready to work
 at scale. It allows us to develop better services that meet user needs.
@@ -98,7 +98,7 @@ Activities in beta include:
 * Measuring performance
 * Developing and testing a security approach
 
-**We *are* building software and technical infrastructure in beta.** The outputs
+We *are* building software and technical infrastructure in beta. The outputs
 of a beta will include:
 
 * Working software that is being used for real transactions
@@ -110,7 +110,7 @@ of a beta will include:
 ## Live
 
 Once a service is being used for real transactions, continuous improvements can
-be made based on feedback, research and data. **This is live.**
+be made based on feedback, research and data. This is live.
 
 An active digital service is never ‘done’. The live phase allows us to respond
 to change and new research findings in order to keep iterating the service.
@@ -122,7 +122,7 @@ Activities in live include:
 * User support
 * Testing the service for security
 
-**We are continuously improving and supporting working software.** The outputs
+We are continuously improving and supporting working software. The outputs
 of live will include:
 
 * Iterations and improvements to the service
