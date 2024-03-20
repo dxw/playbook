@@ -32,7 +32,6 @@ Service design helps to bring a holistic and joined-up perspective to the produc
 
 We remind ourselves, and the team, that products do not live on their own, but exist in people’s lives as part of a system. And also in close relation to many other products, tools and experiences that we all have as humans.
 
-
 ## How we work with the wider team
 
 When we’re working with the wider team we:

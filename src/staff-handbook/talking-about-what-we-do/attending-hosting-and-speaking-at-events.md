@@ -53,4 +53,3 @@ your experience and what you learned.
 
 If you need time to be set aside to prepare or follow up a talk, talk to your
 delivery lead and see what’s possible.
-

@@ -16,9 +16,9 @@ When we blog we use the dxw [tone of voice](/work-we-do/tone-of-voice/).
 
 ## What we blog about
 
-We blog on a range of topics: all aspects of our projects, our people and what it means to be an employee-owned trust. 
+We blog on a range of topics: all aspects of our projects, our people and what it means to be an employee-owned trust.
 
-If you’re having a hard time coming up with ideas, This bikeshed has some suggestions [What should I write about?](https://bikeshed.dxw.com/2023/03/09/what-should-i-write-about/) 
+If you’re having a hard time coming up with ideas, This bikeshed has some suggestions [What should I write about?](https://bikeshed.dxw.com/2023/03/09/what-should-i-write-about/)
 
 ## Blog length, structure, and format
 
@@ -33,21 +33,19 @@ The comms and marketing team can offer help and advice on ideas and support with
 * are struggling to come up with a topic to write about
 * would like feedback on an outline or draft
 
-## Publishing process 
+## Publishing process
 
 Once you have a draft, the comms and marketing team will:
 
 * upload any images and add them to the body of the text
 * write captions and alt text for images
-* add a main image 
+* add a main image
 * add a strapline
 * write a meta description
 * write an excerpt
 * add a social media card
 * proof the post
 
-After they’ve done that, they’ll add your post to the [publishing schedule](https://trello.com/b/otR1Mmjv/dxw-blogging-and-case-studies-schedule). 
+After they’ve done that, they’ll add your post to the [publishing schedule](https://trello.com/b/otR1Mmjv/dxw-blogging-and-case-studies-schedule).
 
 Your blog post might not be published straight away. We pick from the list of posts that are ready to make sure we can prioritise topical content, and that we’re publishing posts on a mixture of topics.
-
-

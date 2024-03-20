@@ -83,13 +83,13 @@ last_reviewed_at: ""
    similar) and when on support we use Zendesk tickets. Tracking our work help
    us to:
 
-   - visualise our progress
-   - document and share progress with clients and stakeholders
-   - be confident what we should be working on
-   - react to blockers and bottlenecks
-   - see what each other is responsible for and opportunities to help or avoid
+   * visualise our progress
+   * document and share progress with clients and stakeholders
+   * be confident what we should be working on
+   * react to blockers and bottlenecks
+   * see what each other is responsible for and opportunities to help or avoid
      duplicating effort
-   - reference commits back to their original user needs
+   * reference commits back to their original user needs
 
 8. **Be humble, supportive and open minded**
 

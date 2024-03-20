@@ -26,4 +26,3 @@ Our PR work, blogging and case studies show our projects, leadership and experti
 ## How we work with the wider dxw team
 
 Most of our activity involves working with colleagues from across dxw. Whether it’s supporting people to speak at events, pair writing, reviewing and publishing case studies and blog posts or organising our winter and summer parties.
-

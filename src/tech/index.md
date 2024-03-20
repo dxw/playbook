@@ -4,7 +4,7 @@ related_order: 11
 last_reviewed_at: ""
 ---
 
-The technology team is made up of 3 disciplines: 
+The technology team is made up of 3 disciplines:
 
 * technical architecture
 * development
@@ -24,7 +24,7 @@ We write tests to check if our code is doing what we expect, use linters that en
 
 Almost all of our code is stored in public repositories so other developers can learn from what we’ve done and reuse our work. Every change we make to a project’s code has a note attached to it explaining what the change is and why it was made. These records are invaluable as ways of helping us understand each other’s work both in the moment and years later when trying to figure out a past decision.
 
-## Why the tech team’s work is important 
+## Why the tech team’s work is important
 
 dxw builds digital public services, and in practice that usually means a website, either for the public or for civil servants. Websites mean code, and that’s the tech team’s responsibility. Beautiful, reliable, well documented code that implements the vision of our designers in a way that makes good technical sense.
 
@@ -34,5 +34,3 @@ Part of dxw’s mission is also to help government spend less on technology, and
 
 In some organisations designers design and coders code, and there is only limited interaction between the two. In dxw a hugely important part of our approach is that we work in multi-disciplinary teams.
 We get involved in research and design so that we understand what will need to be built long before we need to write the code. That gives us an opportunity to help our colleagues in other disciplines understand what’s easy to implement and what’s not, and to figure out alternative approaches that will meet the same needs in different ways.
-
-

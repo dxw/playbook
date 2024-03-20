@@ -11,9 +11,9 @@ Case studies are concise (600-800 word) [write ups of our client work](https://w
 * approaches we take
 * results we achieve
 
-They tell the story of our projects in a clear and easily understandable way. And showcase our work to the general public, prospective clients and potential employees. 
+They tell the story of our projects in a clear and easily understandable way. And showcase our work to the general public, prospective clients and potential employees.
 
-Writing case studies involves speaking to delivery leads to get detailed information about projects, and getting quotes from clients to describe the impact of what we did. 
+Writing case studies involves speaking to delivery leads to get detailed information about projects, and getting quotes from clients to describe the impact of what we did.
 
 Our case studies are written in dxw’s [tone of voice](/work-we-do/tone-of-voice/), and use ‘we’. They’re factual, not salesy, and their focus is the client’s journey.
 
@@ -21,7 +21,7 @@ Our case studies are written in dxw’s [tone of voice](/work-we-do/tone-of-voic
 
 We usually structure our case studies like this:
 
-* background: who the client was and the project’s purpose 
+* background: who the client was and the project’s purpose
 * result: the outputs and outcomes of our work
 * what we did: our approach, any challenges involved and how we overcame them
 * what’s next: the future actions and/or activities (if any)

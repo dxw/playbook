@@ -143,4 +143,3 @@ stage a given story is in.
 - **Accepted**: The client has accepted the story and it's ready to deploy to
   production
 - **Done**: The story has been deployed to production
-

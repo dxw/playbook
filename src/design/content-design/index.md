@@ -3,7 +3,7 @@ title: Content design at dxw
 last_reviewed_at: ""
 ---
 
-Content design means giving the user the information they need, not the information we think they should have. The content team at dxw works across the organisation to make sure that content – from buttons to blog posts – helps users get what they need. 
+Content design means giving the user the information they need, not the information we think they should have. The content team at dxw works across the organisation to make sure that content – from buttons to blog posts – helps users get what they need.
 
 We do this by:
 
@@ -19,9 +19,9 @@ iterating content based on user behaviour, feedback and interactions
 
 We create content that helps dxw deliver usable, accessible, helpful services.We make sure that we provide the right information and ask the right questions to help users do what they need to.
 
-We think about how people interact with services and what can make those interactions difficult. Things like how much time a user has, what emotional state they’re in, whether they’re using assistive technology, how comfortable they are with English and how words might affect or exclude them. 
+We think about how people interact with services and what can make those interactions difficult. Things like how much time a user has, what emotional state they’re in, whether they’re using assistive technology, how comfortable they are with English and how words might affect or exclude them.
 
-On projects, we work with clients to translate their specialist knowledge into information that helps users get what they need from services quickly and easily. 
+On projects, we work with clients to translate their specialist knowledge into information that helps users get what they need from services quickly and easily.
 
 The work we do helps dxw create public services that work well for everyone who depends on them.
 
@@ -37,4 +37,4 @@ working with subject matter experts to make sure both business needs and user ne
 * helping developers create error messages
 * working with the developers and designers to make sure everything is usable and accessible
 * helping teams figure out what information we need to capture, where it comes from and how we label and store it
-* working with colleagues to share dxw’s work in blog posts, design histories and show and tells 
+* working with colleagues to share dxw’s work in blog posts, design histories and show and tells

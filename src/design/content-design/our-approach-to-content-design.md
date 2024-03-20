@@ -26,10 +26,10 @@ We use research and evidence to make decisions about:
 
 * what content we produce
 * what content types we need to use
-* the words we use 
+* the words we use
 * where content goes and how content fits together
 
-We use statistics, feedback, keyword research and interviews to get insight into the people who'll use our service. We see content as a service and think about its lifecycle and governance. 
+We use statistics, feedback, keyword research and interviews to get insight into the people who'll use our service. We see content as a service and think about its lifecycle and governance.
 
 ## Making content readable
 
@@ -65,5 +65,3 @@ Content designers work as part of an agile team to come up with sketches and pro
 We don't use filler text.
 
 We keep iterating content based on user testing and feedback throughout [all phases of delivering a project](/work-we-do/building-services/agile-delivery-phases/).
-
-

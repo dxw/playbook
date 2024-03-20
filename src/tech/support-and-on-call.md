@@ -17,12 +17,12 @@ We provide support for clients and users of these services in three ways:
 
 That support is handled by the team in 2 ways. We provide:
 
-* in-hours (10:00 – 18:00) support for all our clients, resolving tickets and alerts and doing maintenance. This is staffed by dedicated support developers, with assistance from the Ops team. 
+* in-hours (10:00 – 18:00) support for all our clients, resolving tickets and alerts and doing maintenance. This is staffed by dedicated support developers, with assistance from the Ops team.
 * out-of-hours (24/7) support for some of our clients, responding only to critical alerts and emergency tickets. We call this on call, and it’s staffed by a developer or an operations engineer through a separate opt-in rota, with additional compensation.
 
 Being able to do support effectively requires access to our production systems, so you won’t be added to the support rotas until you’ve completed your vetting. You might shadow someone else on support before your vetting is finished.
 
-## Being on call 
+## Being on call
 
 Being on call means you are the first line support for issues that occur out of hours. This sometimes means getting woken up or handling things at weekends. As a result, it’s optional, and people who spend time on call will be compensated for their time. Let the Head of Technical Operations know if you’d like to be added to the on call rota.
 
@@ -32,7 +32,7 @@ As with in-hours support, we use monitoring and alerts to notify you when an iss
 
 Outside office hours, the expected response depends on the severity of the incident. We have a set of factors that determine the severity of an incident, and have included these in our [Service Level Agreement](https://contracts.dxw.com/service_level_agreement.md).
 
-## On call escalation 
+## On call escalation
 
 While you are on call there is also a second line on call rota formed of senior members of the technical operations team. Opsgenie will alert them if you do not acknowledge an alert within 5 minutes. This is to make sure that alerts are dealt with in a timely manner. You should not feel bad about missing an Opsgenie alert. This is one of the reasons why we have the second line rota.
 
@@ -40,7 +40,7 @@ You can also use Opsgenie to escalate an alert to them if you are unsure what to
 
 To escalate to people not on the current rota, create an alert on Opsgenie with the Default API (not the ops_team api) and add them as a responder.
 
-## Claiming TOIL for out of hours alerts 
+## Claiming TOIL for out of hours alerts
 
 If you are alerted out of hours you can claim Time Off in Lieu (TOIL) in BreatheHR. For alerts:
 
