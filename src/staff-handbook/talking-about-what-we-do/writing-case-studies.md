@@ -1,6 +1,6 @@
 ---
 title: Writing case studies
-related_order: 4
+related_order: 3
 last_reviewed_at: ""
 ---
 

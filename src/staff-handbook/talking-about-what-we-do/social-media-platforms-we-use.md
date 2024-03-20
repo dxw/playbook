@@ -1,6 +1,6 @@
 ---
 title: Social media platforms we use
-related_order: 6
+related_order: 5
 last_reviewed_at: ""
 ---
 

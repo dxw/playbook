@@ -1,6 +1,6 @@
 ---
 title: Our blog
-related_order: 3
+related_order: 2
 last_reviewed_at: ""
 ---
 
