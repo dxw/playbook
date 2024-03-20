@@ -1,6 +1,8 @@
 ---
 title: Service design at dxw
 related_order: 1
+redirect_from:
+  - /guides/service-design-at-dxw
 last_reviewed_at: ""
 ---
 
