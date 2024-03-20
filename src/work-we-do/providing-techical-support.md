@@ -4,7 +4,7 @@ related_order: 3
 last_reviewed_at: ""
 ---
 
-The technology team supports some of our client services. These are live services, usually (but not always) built by dxw, for which we provide ongoing support with hosting, maintenance, or bug fixes. We split our support into 2 units: [GovPress](https://playbook.dxw.com/govpress-unit/support/) and Delivery+.
+The technology team supports some of our client services. These are live services, usually (but not always) built by dxw, for which we provide ongoing support with hosting, maintenance, or bug fixes. We split our support into 2 units: [GovPress](/govpress-unit/support/) and Delivery+.
 
 ## Support helpdesk
 
@@ -20,7 +20,7 @@ If a client asks us to do something via any other channel, we ask them to email 
 
 Support tickets are handled by dedicated support developers from GovPress and Delivery+, or by nominated substitute developers in their absence. These support developers respond to, organise, and prioritise tickets. They will also deal with the bulk of the implementation work, pulling in other developers as needed. Some tickets are also handled by members of the Ops team.
 
-Out of hours support for projects is handled on a rota basis, please see the [support and on call guide](https://playbook.dxw.com/tech/support-and-on-call/) for more information.
+Out of hours support for projects is handled on a rota basis, please see the [support and on call guide](/tech/support-and-on-call/) for more information.
 
 ## Support principles
 
@@ -38,7 +38,7 @@ It’s doubly bad to fail to meet a commitment and not say anything about it. Re
 
 ### Make a good impression
 
-In tickets as in all things, we are mindful of [dxw’s values](https://playbook.dxw.com/about-us/our-mission-values-and-principles/#our-values).
+In tickets as in all things, we are mindful of [dxw’s values](/about-us/our-mission-values-and-principles/#our-values).
 
 Many clients’ only routine contact with us is via support tickets, so it’s vital that their experience of the support system is a good one, and that they have a positive experience with us.
 
