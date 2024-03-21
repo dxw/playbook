@@ -1,5 +1,6 @@
 ---
 title: Running a roadmapping workshop
+related order: 7
 redirect_from:
   - /guides/running-a-roadmapping-workshop
 last_reviewed_at: ""

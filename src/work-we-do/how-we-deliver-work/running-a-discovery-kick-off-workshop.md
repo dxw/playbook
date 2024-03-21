@@ -1,5 +1,6 @@
 ---
 title: Running a discovery kick-off workshop
+related order: 6
 redirect_from:
   - /guides/running-a-discover-kick-off-workshop
 last_reviewed_at: ""

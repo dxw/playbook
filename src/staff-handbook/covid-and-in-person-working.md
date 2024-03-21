@@ -1,6 +1,6 @@
 ---
 title: Covid and in-person working
-related_order: 17
+related_order: 18
 redirect_from:
   - /working-here/covid-and-in-person-working
 last_reviewed_at: ""

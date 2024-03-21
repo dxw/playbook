@@ -1,6 +1,6 @@
 ---
 title: dxw time
-related_order: 10
+related_order: 11
 last_reviewed_at: ""
 ---
 dxw time is what we call the time that our billable staff (Delivery+ and GovPress) spend not working on client work doing things for the company, along with other colleagues. What’s set out here is a general position and individual business units might have slightly different approaches.

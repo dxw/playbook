@@ -50,10 +50,10 @@ collections:
     label_singular: Work we do page
     folder: src/work-we-do
   - <<: *collection_defaults
-    name: work-we-do__building-services
-    label: Work we do > Building services
-    label_singular: Building services page
-    folder: src/work-we-do/building-services
+    name: work-we-do__how-we-deliver-work
+    label: Work we do > How we deliver work
+    label_singular: How we deliver work page
+    folder: src/work-we-do/how-we-deliver-work
 
   - <<: *collection_defaults
     name: staff-handbook

@@ -6,10 +6,7 @@ last_reviewed_at: ""
 ---
 ## Why do we have a career progression framework?
 
-Not knowing if progression can ever happen for you, or if it always feels out of
-reach, or if you feel as though your growth isn’t translating into something
-that’s recognised, it can be demoralising. You should see a clear pathway,
-visible opportunities to progress, and the benefits of each level of progression
+Not knowing if progression can ever happen for you, or if it always feels out of reach, or if you feel as though your growth isn’t translating into something that’s recognised, it can be demoralising. You should see a clear pathway, visible opportunities to progress, and the benefits of each level of progression
 laid out plainly.
 
 After your progression review, you should be able to clearly identify areas for
