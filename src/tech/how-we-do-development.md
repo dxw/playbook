@@ -412,3 +412,40 @@ maintainers and contributors understand the reasoning for not doing so.
 See
 [Tech Team RFC-019](https://github.com/dxw/tech-team-rfcs/blob/main/ways-of-working/rfc-019-use-changelogs-to-track-changes.md)
 for more context around this decision.
+
+## Developing alone
+
+Developers at senior level and above are expected to be able to be the sole
+technologist on a project. This can uncover issues with the review/merge cycle,
+especially if the project is beyond the discovery or alpha phase, as there is
+no developer to collaborate with and review pull requests.
+
+### Raise the issue as a project risk
+
+Generally pull requests require an approving review to be merged. Without another
+developer on the project who knows the domain, this can result in a blocker to
+development. The client should be made aware that this will be a sticking point
+and may slow the development process. The risk should be recorded in writing.
+
+### Work with the client to find solutions
+
+The client may have other developers or developer-adjacent people who know the
+product landscape. 
+
+If the repository belongs to the client, another developer or technologist can
+be given write access to the repository and the ability to approve pull requests.
+If the repository belongs to dxw, they can be added to the repository as a guest.
+
+### Ask dxw developers on other projects for help
+
+If the client does not have anyone suitable, an external (not on the project) dxw
+developer can review pull requests for the sole developer.
+
+If the repository belongs to the client, the reviewer should be granted
+write access to the repository.
+
+The client should be made aware of this requirement, should their security policies
+not allow developers to approve their own pull requests.
+
+The client should also be made aware that dxw developers not on the project may
+have limited time available to review pull requests.
