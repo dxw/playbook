@@ -127,7 +127,7 @@ and working with the client support team. During this time, you’ll help triage
 tickets that come in, carry out maintenance tasks, and solve issues that come up.
 You will do this with the support of members of that team.
 
-### Months 12-13: Technical OPerations and delivery rotation
+### Months 12-13: Technical Operations and delivery rotation
 
 It is important for all developers to understand what happens to code once it is
 deployed to a live environment, and the challenges involved in securing deployments,
