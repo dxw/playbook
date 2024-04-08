@@ -71,6 +71,6 @@ npm run lint "src/_webpack/**/*.js"
 ## Licence
 
 The contents of dxw's Playbook is released under a
-[Creative Commons Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/2.0/uk/)
+[Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 licence. You are free to reuse and adapt this content with credit, for
 non-commercial purposes.
