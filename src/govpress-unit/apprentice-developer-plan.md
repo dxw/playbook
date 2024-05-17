@@ -145,7 +145,7 @@ of our existing projects, and any new work that comes in.
 
 In this rotation, you will work on a piece of software development work that you
 will agree with your line manager and the Tech Leads, but plan and deliver yourself.
-This work can be from any of our squads, but must be agreed in advance.
+This work can be from any of our teams, but must be agreed in advance.
 
 Good candidate projects will:
 
