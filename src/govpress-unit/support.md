@@ -170,8 +170,11 @@ if they are still in the group.
 
 ## During your rotation
 
-Whilst you are working in Support, please attend the Oak Squad stand-ups and join
-the [Support and Maintenance Backlog](https://trello.com/b/pF46aRdl/govpress-support-and-maintenance-backlog).
+Whilst you are working in Support, please attend the Maintenance and Support
+stand-ups and add yourself to the Trello boards we use, which are the
+[Support and Maintenance Backlog](https://trello.com/b/pF46aRdl/govpress-support-and-maintenance-backlog)
+and the
+[Week in Progress](https://trello.com/b/Y2QL3Pha/govpress-support-and-maintenance-week-in-progress).
 This will help you with context for what is going on in 2nd line support, and
 the other work around our infrastructure.
 
