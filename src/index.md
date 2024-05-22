@@ -6,7 +6,7 @@ last_reviewed_at: ""
 This Playbook is our reference for who we are and the way we do things.
 Something canonical that tells us what the current “right way” to do things is.
 
-If you’re a current or potential client, this Playbook is also for you. To help
+If you’re a current or potential client, this Playboosk is also for you. To help
 you understand us and how we can work together.
 
 We [continually update](/contributing/managing-the-playbook/) the principles and
