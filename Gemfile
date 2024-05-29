@@ -9,6 +9,7 @@ group :jekyll_plugins do
   gem "jekyll-sass-converter", github: 'jekyll/jekyll-sass-converter'
   gem "jekyll-sitemap"
   gem "nokogiri"
+  gem "sass-embedded"
 end
 
 group :development do
