@@ -59,6 +59,10 @@ $list-d-size: 11px;
       padding-left: calc($list-d-size + 10px);
       white-space: unset;
 
+      &:not(:is(:last-child, .related__back-link)) {
+        margin-bottom: 0.5em;
+      }
+
       a {
         &:hover,
         &:focus,
@@ -76,10 +80,6 @@ $list-d-size: 11px;
           top: 0;
           left: 0;
         }
-      }
-
-      &:not(:is(:last-child, .related__back-link)) {
-        margin-bottom: 0.5em;
       }
   
       &:not(.related__back-link)::before {
