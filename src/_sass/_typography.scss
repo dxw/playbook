@@ -13,10 +13,9 @@ body {
   font-family: $body-font-family;
   font-size: 15pt;
   font-weight: $body-font-weight;
+  -moz-osx-font-smoothing: grayscale;
   line-height: 1.5;
   color: colours.$navy;
-
-  -moz-osx-font-smoothing: grayscale;
 }
 
 h1,
