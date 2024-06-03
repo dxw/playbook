@@ -30,7 +30,7 @@ Our information security management system (ISMS) is what we use to ensure we lo
 
 If you have any questions about either our ISMS or the safety of our data, talk to the ISMS team.
 
-You can find our Information security policy in the [ISMS manual](https://docs.google.com/document/d/1pYX6-VOZtiPOmjiq_wJvRrkQdx0ue8YGshSQO32QAeE/edit?usp=sharing). (we have two version of this, this one that is suitable for sharing outside dxw as it has some contact details redacted) 
+You can find our Information security policy in the [ISMS manual](https://docs.google.com/document/d/1pYX6-VOZtiPOmjiq_wJvRrkQdx0ue8YGshSQO32QAeE/edit?usp=sharing). (we have two versions of this, this one that is suitable for sharing outside dxw as it has some contact details redacted) 
 
 ## Document labelling
 
