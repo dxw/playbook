@@ -33,4 +33,4 @@ don't forget that changes here get published to the world.
 
 To update the Playbook, follow the
 [guide to Contributing to the Playbook](/contributing/) and use the
-[dxw Tone of voice](/staff-handbook/talking-about-what-we-do/tone-of-voice/).
+[dxw tone of voice](/staff-handbook/talking-about-what-we-do/tone-of-voice/).

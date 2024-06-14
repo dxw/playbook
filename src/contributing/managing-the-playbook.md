@@ -124,7 +124,7 @@ channel to collaborate on the Playbook.
 
 The Playbook should follow the dxw
 [Brand Toolkit](https://v-df7640e636dddb2c9710.brand.madebyfieldwork.com/) and
-use the dxw [Tone of voice](/staff-handbook/talking-about-what-we-do/tone-of-voice/).
+use the dxw [tone of voice](/staff-handbook/talking-about-what-we-do/tone-of-voice/).
 
 ## Playbook structure
 
