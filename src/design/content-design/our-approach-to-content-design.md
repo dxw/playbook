@@ -64,4 +64,4 @@ Content designers work as part of an agile team to come up with sketches and pro
 
 We don't use filler text.
 
-We keep iterating content based on user testing and feedback throughout [all phases of delivering a project](/work-we-do/building-services/agile-delivery-phases/).
+We keep iterating content based on user testing and feedback throughout [all phases of delivering a project](/work-we-do/how-we-deliver-work/agile-delivery-phases/).

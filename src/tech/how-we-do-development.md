@@ -7,7 +7,7 @@ last_reviewed_at: ""
 ## Follow our principles
 
 As developers at dxw, we are guided by
-[our team's principles](/tech/#development-team-principles). To help us follow 
+[our team's principles](/tech/development-and-technical-operations-team-principles/). To help us follow
 these principles, we have a standard way of working, documented here. This is
 the default workflow we follow, but it's ok to depart from it when a project
 needs something different (and documenting that departure helps our future 

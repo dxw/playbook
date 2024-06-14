@@ -32,5 +32,5 @@ that cannot be open. But there will be some things that should be private. So
 don't forget that changes here get published to the world.
 
 To update the Playbook, follow the
-[guide to Contributing to the Playbook](/contributing/) and use
-[dxw Tone of voice](/work-we-do/tone-of-voice/).
+[guide to Contributing to the Playbook](/contributing/) and use the
+[dxw Tone of voice](/staff-handbook/talking-about-what-we-do/tone-of-voice/).

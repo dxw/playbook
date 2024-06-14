@@ -84,12 +84,12 @@ The owner is responsible for making sure that their parts of the Playbook:
 The owners of each section are:
 
 * David Mann - [About us](/about-us/)
-* Alex Jackson - [The work we do > Sales](/work-we-do/sales/)
-* Clare Young - [The work we do > Building services](/work-we-do/building-services/)
+* Alex Jackson - [The work we do > Finding the right projects](/work-we-do/finding-the-right-projects/)
+* Clare Young - [The work we do > Building services](/work-we-do/how-we-deliver-work/)
 * Alex Jackson -
-  [The work we do > Supporting services](/work-we-do/supporting-services/)
+  [The work we do > Providing technical support](/work-we-do/providing-techical-support/)
 * Wendy Coello -
-  [The work we do > Sharing our expertise](/work-we-do/sharing-expertise/)
+  [Staff handbook > Talking about what we do](/staff-handbook/talking-about-what-we-do/)
 * Poss Apostolou - [Staff handbook](/staff-handbook/)
 * Coca Rivas - Our professions
 
@@ -124,7 +124,7 @@ channel to collaborate on the Playbook.
 
 The Playbook should follow the dxw
 [Brand Toolkit](https://v-df7640e636dddb2c9710.brand.madebyfieldwork.com/) and
-use the dxw [Tone of voice](/work-we-do/tone-of-voice/).
+use the dxw [Tone of voice](/staff-handbook/talking-about-what-we-do/tone-of-voice/).
 
 ## Playbook structure
 

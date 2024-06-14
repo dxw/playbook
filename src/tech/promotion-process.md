@@ -29,7 +29,7 @@ This is a high level summary of the process, which is covered in more detail in 
 5. You submit the application for review by a promotion panel, by email, to your line manager, copying in your Head of and the People team (your line manager can also do this on your behalf if you request)
 6. Panellists review your pack independently - see [Review process](#review-process)
 7. The panel meets to discuss your application and make a clear recommendation on whether to approve it or not
-8. A decision is made by the panel - see [Decision & feedback](#decision-&-feedback)
+8. A decision is made by the panel - see [Decision and feedback](#decision-and-feedback)
 9. The decision is shared with you by your Head of Discipline, with feedback, verbally and in writing, to you and your line manager
 
 ### Eligibility
@@ -149,7 +149,7 @@ If there is sufficient evidence, the panel may make a decision straight away. If
 
 Panellists should set aside 1 hour to conduct a joint review.
 
-### Decision & feedback
+### Decision and feedback
 
 The panel will make a decision to either promote or not. In either case they will provide written feedback about where the application met or didn’t meet the Progression criteria.  The average of all of your scores for each criteria are shared with you as part of your feedback, but not individual scores or any reasoning verbatim.
 
