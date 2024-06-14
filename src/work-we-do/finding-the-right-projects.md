@@ -1,5 +1,7 @@
 ---
 title: Finding the right projects
+redirect_from:
+  - /work-we-do/sales
 related_order: 1
 last_reviewed_at: ""
 ---

@@ -3,6 +3,7 @@ title: dxw's tone of voice
 related_order: 1
 redirect_from:
   - /guides/tone-of-voice
+  - /work-we-do/tone-of-voice
 last_reviewed_at: ""
 ---
 This is an overview of how we write and should apply to all the writing we do in

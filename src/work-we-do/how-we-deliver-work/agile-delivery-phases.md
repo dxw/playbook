@@ -3,6 +3,7 @@ title: Agile delivery phases
 related order: 5
 redirect_from:
   - /guides/agile-delivery-phases
+  - /work-we-do/building-services/agile-delivery-phases
 last_reviewed_at: ""
 ---
 In 2011, the UK government established the Government Digital Service (GDS) to
