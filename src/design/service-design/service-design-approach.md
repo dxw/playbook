@@ -1,5 +1,8 @@
 ---
 title: Service design approach
+redirect_from:
+  - /design/service-design-at-dxw
+  - /guides/service-design-at-dxw
 related_order: 2
 last_reviewed_at: ""
 ---

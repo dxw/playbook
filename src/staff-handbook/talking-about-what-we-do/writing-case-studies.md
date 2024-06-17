@@ -15,7 +15,7 @@ They tell the story of our projects in a clear and easily understandable way. An
 
 Writing case studies involves speaking to delivery leads to get detailed information about projects, and getting quotes from clients to describe the impact of what we did.
 
-Our case studies are written in dxw’s [tone of voice](/work-we-do/tone-of-voice/), and use ‘we’. They’re factual, not salesy, and their focus is the client’s journey.
+Our case studies are written in dxw’s [tone of voice](/staff-handbook/talking-about-what-we-do/tone-of-voice/), and use ‘we’. They’re factual, not salesy, and their focus is the client’s journey.
 
 ## How to structure a case study
 

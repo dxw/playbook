@@ -12,7 +12,7 @@ We blog because we want to share what we’re doing and what we’re learning wi
 
 When we’re hiring, we also want potential new staff to be able to get to know us beforehand.
 
-When we blog we use the dxw [tone of voice](/work-we-do/tone-of-voice/).
+When we blog we use the dxw [tone of voice](/staff-handbook/talking-about-what-we-do/tone-of-voice/).
 
 ## What we blog about
 

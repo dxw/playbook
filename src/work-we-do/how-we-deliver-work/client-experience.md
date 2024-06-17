@@ -16,7 +16,7 @@ colleagues.
 So, when we are on sprints, we endeavour to respond to our client quickly. It's
 not always possible to resolve a problem or get an answer quickly, but that
 shouldn't stop us from acknowledging a message or giving regular updates. As
-with [tickets](../supporting-services/#be-responsive), being responsive to a
+with [tickets](/work-we-do/providing-techical-support/#be-responsive), being responsive to a
 query is just as important as giving a definitive answer.
 
 When we get enquiries for clients who are not currently sprinting, we still
