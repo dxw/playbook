@@ -29,15 +29,13 @@ Everyone should feel comfortable holding people to these standards. 
 
 If you feel that someone has breached these guidelines, speak to your line manager or the People team. They will be able to help you find an appropriate resolution.
 
-# Using Slack channels, threads and direct messages (DMs)
+## Using Slack channels, threads and direct messages (DMs)
 
 Here are some general guidelines to follow when using Slack to communicate with colleagues. 
 
-## Public channels
+### Public channels
 
 Communicating in public channels helps to keep people engaged and informed. If you think something will be of interest to your colleagues at dxw, post it in the relevant channel. 
-
-### Our Slack channels
 
 Here are some of our most used Slack channels and what they’re for:
 
@@ -71,13 +69,13 @@ These special @mentions exist in Slack by default. They’re blunt, noisy instru
 
 @channel notifies every member of the channel, including those who are currently offline or not working. Use this if your message is extremely important for everyone, and will continue to be important tomorrow, or a week from now. If not, is there a more reliable way to communicate that message?
 
-## Threads
+### Threads
 
 You can start or contribute to a thread by responding to someone’s post on Slack. Using threads helps to organise different discussions within a channel. 
 
 Threads make sure that multiple topics don’t mix together and get confused. It also means people can choose whether or not to engage in an ongoing conversation about a particular subject. 
 
-## Direct messages (DMs)
+### Direct messages (DMs)
 
 DMs should be used for private conversations. Whether it’s discussing personal or confidential issues, or just checking-in with a colleague. 
 
