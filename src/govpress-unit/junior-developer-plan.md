@@ -1,5 +1,5 @@
 ---
-title: Junior developer development plan
+title: Development plans - Junior developers
 last_reviewed_at: ""
 ---
 
