@@ -36,7 +36,7 @@ Messages are usually short and relatively informal and often point to sources of
 
 ## Meetings and other get-togethers
 
-We meet regularly online or in-person. Sometimes as the whole company or more often in project, profession or other groups.
+We meet regularly online or in person. Sometimes as the whole company or more often in project, profession or other groups.
 
 We do this to share important information, work together on internal or external projects, team build or just get to know each other better.
 
@@ -45,6 +45,6 @@ Regular company meet-ups open to all staff include:
 * Quarterly CEO update (online) - a regular update from our CEO on company priorities and how we’re doing
 * Monthly Directors’ drop-ins (online) - informal meetings with a couple of the Directors to discuss current issues and ask any questions
 * Monthly finance clinics (online) - an update on how we’re performing against our financial targets hosted by the Finance Director and CEO
-* Show the thing (online) - a programme of 6 weekly sessions every quarter with short demo’s from staff showing things they’re doing, building or learning
+* Show the thing (online) - a programme of 6 weekly sessions every quarter with short demos from staff showing things they’re doing, building or learning
 * All-staff unconferences (in person with an online option) - an annual company event where staff determine the agenda
 * All-staff parties (in person) - we aim to get the company together socially in the Summer and at Christmas whenever we can
