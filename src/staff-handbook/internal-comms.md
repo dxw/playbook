@@ -18,7 +18,7 @@ The main audience for the Playbook is staff, but it’s available to anyone beca
 
 ## Bikesheds
 
-Bikesheds are internal blog posts that go to everyone in the company. Anyone can publish a Bikeshed and they are automatically shared via Slack #General and email. 
+Bikesheds are internal blog posts that go to everyone in the company. Anyone can publish a Bikeshed and they are automatically shared via Slack #general and email. 
 
 We publish certain types of Bikesheds regularly:
 
