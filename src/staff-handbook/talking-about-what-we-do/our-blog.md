@@ -3,7 +3,6 @@ title: Our blog
 related_order: 2
 last_reviewed_at: ""
 ---
-
 At dxw, we encourage people to blog regularly. Both on the [dxw blog](https://www.dxw.com/blog/), and on personal and community blogs.
 
 ## Why we blog
@@ -16,13 +15,15 @@ When we blog we use the dxw [tone of voice](/staff-handbook/talking-about-what-w
 
 ## What we blog about
 
-We blog on a range of topics: all aspects of our projects, our people and what it means to be an employee-owned trust.
+We blog on a range of topics: all aspects of our projects, our people and what it means to be an employee-owned trust. We also blog about our perspective on things that matter (thought leadership).
 
-If you’re having a hard time coming up with ideas, This bikeshed has some suggestions [What should I write about?](https://bikeshed.dxw.com/2023/03/09/what-should-i-write-about/)
+If you’re having a hard time coming up with ideas, this bikeshed has some suggestions [What should I write about?](https://bikeshed.dxw.com/2023/03/09/what-should-i-write-about/)
 
 ## Blog length, structure, and format
 
 Our blog posts are usually between 800-1,500 words and are usually written using ‘I’, or ‘we’. There’s no strict structure for blog posts, though they’re usually blocks of text broken up by subheadings. But don’t feel constrained by this. Your post could be a list, series of images or an infographic.  
+
+It's usually helpful to start by thinking about the one thing you want the reader to take away - what's the purpose of this blog?  For thought leadership pieces, you can then build out the context from there - why should the reader care? What detail do they need to know to get on board with your idea, theory, thoughts? For more project-based blogs, it's more about digging into specific challenges, nuances and/or learnings - what happened? What was the impact? What did we do? What did we learn? What's next?
 
 ## Support for blog post writing
 
