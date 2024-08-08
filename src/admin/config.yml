@@ -71,6 +71,11 @@ collections:
     label_singular: Leave page
     folder: src/staff-handbook/leave
   - <<: *collection_defaults
+    name: staff-handbook__line-management
+    label: Staff handbook > Line management
+    label_singular: Line management page
+    folder: src/staff-handbook/line-management
+  - <<: *collection_defaults
     name: staff-handbook__pay-pension-and-benefits
     label: Staff handbook > Pay, pension and benefits
     label_singular: Pay, pension and benefits page
@@ -90,6 +95,11 @@ collections:
     label: Staff handbook > Supporting wellbeing
     label_singular: Supporting wellbeing page
     folder: src/staff-handbook/supporting-wellbeing
+  - <<: *collection_defaults
+    name: staff-handbook__talking-about-what-we-do
+    label: Staff handbook > Talking about what we do
+    label_singular: Talking about what we do page
+    folder: src/staff-handbook/talking-about-what-we-do
 
   - <<: *collection_defaults
     name: commercial-ops
@@ -108,6 +118,22 @@ collections:
     label: Design
     label_singular: Design page
     folder: src/design
+  - <<: *collection_defaults
+    name: design__content-design
+    label: Design > Content design
+    label_singular: Content design page
+    folder: src/design/content-design
+  - <<: *collection_defaults
+    name: design__service-design
+    label: Design > Service design
+    label_singular: Service design page
+    folder: src/design/service-design
+
+  - <<: *collection_defaults
+    name: govpress-unit
+    label: GovPress Unit
+    label_singular: GovPress Unit page
+    folder: src/govpress-unit
 
   - <<: *collection_defaults
     name: leadership
@@ -138,12 +164,6 @@ collections:
     label: User Research
     label_singular: User Research page
     folder: src/user-research
-
-  - <<: *collection_defaults
-    name: govpress-unit
-    label: GovPress Unit
-    label_singular: GovPress Unit page
-    folder: src/govpress-unit
 
   - name: redirects
     label: Redirects
