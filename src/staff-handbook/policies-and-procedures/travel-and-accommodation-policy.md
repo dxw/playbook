@@ -5,7 +5,7 @@ last_reviewed_at: ""
 ---
 We are a remote first organisation which means the default position for everyone in the organisation is to work from home.
 
-We understand that although there are many benefits with working from home, lots of you still enjoy coming into the office and meeting in person. If you live within a reasonable distance to one of our offices (Calls Landing, the Lighthouse, or one of our shared Landmark offices) and regularly travel to this space, we class this as commuting.
+We understand that although there are many benefits with working from home, lots of you still enjoy coming into the office and meeting in person. If you live within a reasonable distance to one of our offices ([Department](/staff-handbook/our-offices/#department-leeds) in Leeds, [the Lighthouse](/staff-handbook/our-offices/#the-lighthouse-kings-cross-london) in King's Cross, or one of our [shared Landmark offices](/staff-handbook/our-offices/#other-coworking-spaces-in-the-uk)) and regularly travel to this space, we class this as commuting.
 
 Commuting costs are your own responsibility but there are times where it is appropriate for dxw to fund your travel and accommodation.
 
