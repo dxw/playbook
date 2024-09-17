@@ -112,6 +112,4 @@ Free assignment helpers can be a lifesaver for students looking to manage their 
 
 Whether you're a high school student grappling with homework or a university student facing a challenging essay, free assignment helpers can offer the support you need. By using these services responsibly, you can improve your academic performance while staying within your budget.
 
-4o
-
 <!--EndFragment-->
