@@ -1,10 +1,11 @@
 ---
 title: Data protection and confidentiality
-related_order: 16
+related_order: 17
 redirect_from:
   - /working-here/data-protection-and-confidentiality
 last_reviewed_at: ""
 ---
+At dxw we have an [information security management system](https://docs.google.com/document/d/1pYX6-VOZtiPOmjiq_wJvRrkQdx0ue8YGshSQO32QAeE/edit?usp=drive_link) that helps us to look after all the information we control. It instructs and guides us all in how we keep data safe for ourselves and our clients.
 
 Though dxw doesn't control much personal data, our clients generally do. And
 some of it may be held on sites that we host. Everyone at dxw has a
@@ -13,32 +14,42 @@ responsibility to keep that data safe, and process it in accordance with the
 
 In particular, we:
 
-- only process personal data as part of work on the service that we're
+* only process personal data as part of work on the service that we're
   contracted to provide to a client
-- don't access personal data unless we need to in order to do our jobs: don't
+* don't access personal data unless we need to in order to do our jobs: don't
   read people's personal data or private communications without good reason
-- we do not ever disclose people's personal data to anyone outside dxw unless
+* we do not ever disclose people's personal data to anyone outside dxw unless
   specifically instructed, and are satisfied that it is legal to do so
 
 If you have any questions about data protection, talk to the Data Protection
 Officer, Gurps.
 
-## Protective marking scheme
+## Information security at dxw
+
+Our information security management system (ISMS) is what we use to ensure we look after the data we have access to. We structure and run this system to be compliant with the ISO 27001 standard, to which we are [externally assessed](https://docs.google.com/document/d/1pYX6-VOZtiPOmjiq_wJvRrkQdx0ue8YGshSQO32QAeE/edit?usp=drive_link). Our ISMS team has the responsibility of owning our ISMS and is always evolving and improving it. They do this with the help of our senior leadership team and specialists at URM consulting. Together they help us manage risks to the security of our data. 
+
+If you have any questions about either our ISMS or the safety of our data, talk to the ISMS team.
+
+You can find our Information security policy in the [ISMS manual](https://docs.google.com/document/d/1pYX6-VOZtiPOmjiq_wJvRrkQdx0ue8YGshSQO32QAeE/edit?usp=sharing). (we have two versions of this, this one that is suitable for sharing outside dxw as it has some contact details redacted) 
+
+## Document labelling
+
+This guidance is supported by the [Documents policy](https://docs.google.com/document/d/1lynCayxE4PyMWXCBIgWcMHSLUIEySuNq1uTNrpC1yxs/edit?usp=sharing), which is available to be viewed by dxw staff.
 
 Some information that we have is confidential. We use a protective marking
 scheme so that everyone understands how to handle this material, and who they're
 allowed to disclose it to. All of the documents and data we hold will fall into
 one of the categories below.
 
-- **Management-in-Confidence**: internal documents whose circulation within dxw
+* **Management-in-Confidence**: internal documents whose circulation within dxw
   needs to be restricted.
-- **Company Confidential**: information owned by dxw which would be of value to
+* **Company Confidential**: information owned by dxw which would be of value to
   those outside the company, such as competitors, and whose loss or theft would
   potentially damage the company.
-- **Client Confidential** or **Commercial in Confidence**: information owned by
+* **Client Confidential** or **Commercial in Confidence**: information owned by
   dxw or its clients, which needs to remain confidential between dxw and the
   client.
-- **Unclassified**: information, which would not be of significant commercial
+* **Unclassified**: information, which would not be of significant commercial
   value to those outside dxw.
 
 Some of our clients also have protective marking schemes. For example, all
@@ -64,17 +75,16 @@ or external to dxw.
 
 This information:
 
-- must be clearly labelled or described as "Management-in-confidence"
-- when printed
+* must be clearly labelled or described as "Management-in-confidence"
+* when printed
 
-  - stored only in a locked container
-  - transported only via courier, recorded delivery or personally by dxw staff
-  - destroyed by cross-cut shredding when no longer required
+  * stored only in a locked container
+  * transported only via courier, recorded delivery or personally by dxw staff
+  * destroyed by cross-cut shredding when no longer required
+* when digital
 
-- when digital
-
-  - stored in an encrypted format
-  - communicated only when encrypted or via an encrypted connection, unless
+  * stored in an encrypted format
+  * communicated only when encrypted or via an encrypted connection, unless
     emailed from one dxw.com address to another
 
 ### Company Confidential
@@ -99,16 +109,15 @@ falls into this category.
 
 This information:
 
-- must be clearly labelled or described as "Client Confidential" or "Commercial
+* must be clearly labelled or described as "Client Confidential" or "Commercial
   in Confidence"
-- when printed:
+* when printed:
 
-  - stored out of sight
-  - destroyed by cross-cut shredding when no longer required
+  * stored out of sight
+  * destroyed by cross-cut shredding when no longer required
+* when digital:
 
-- when digital:
-
-  - stored in an encrypted format when on exchangeable media or a mobile device
+  * stored in an encrypted format when on exchangeable media or a mobile device
 
 As a rule of thumb, label a document as Client Confidential if it mostly
 contains the client's confidential information, or Commercial in Confidence if

@@ -13,9 +13,9 @@
   {% endif %}
 {% endif %}
 
-<footer class="contribute" data-proofer-ignore>
-  <a href="/admin/#/collections/{{ collection_name }}/entries/{{ entry_name }}">Edit this page</a>
+<div class="contribute" data-proofer-ignore>
+  <a href="/admin/#/collections/{{ collection_name }}/entries/{{ entry_name }}">Edit page</a>
   {% unless page.url == "/" %}
-    <a href="/admin/#/collections/{{ collection_name }}/new">Add a new page here</a>
+    <a href="/admin/#/collections/{{ collection_name }}/new">Add new page</a>
   {% endunless %}
-</footer>
+</div>

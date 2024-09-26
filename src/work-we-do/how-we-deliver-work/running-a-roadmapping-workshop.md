@@ -1,7 +1,9 @@
 ---
 title: Running a roadmapping workshop
+related order: 7
 redirect_from:
   - /guides/running-a-roadmapping-workshop
+  - /work-we-do/building-services/running-a-roadmapping-workshop
 last_reviewed_at: ""
 ---
 For an alpha or beta, or for a significant update to a live service, we run an
@@ -15,7 +17,7 @@ Our roadmapping workshops are developed from the
 described by Jamie Arnold.
 
 For a discovery, we run a
-[discovery kick-off workshop](/work-we-do/building-services/running-a-discovery-kick-off-workshop/).
+[discovery kick-off workshop](/work-we-do/how-we-deliver-work/running-a-discovery-kick-off-workshop/).
 
 ## Why we have a roadmap
 

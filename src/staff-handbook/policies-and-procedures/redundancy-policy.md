@@ -1,140 +1,98 @@
 ---
-title: Redundancy policy
+title: Redundancy procedure
 related_order: 8
 redirect_from:
   - /working-here/redundancy-policy
 last_reviewed_at: ""
 ---
+We are committed to avoiding redundancies where possible and aim to create stability for employees by keeping our sales pipeline healthy and planning our growth carefully.
 
-The coronavirus pandemic has caused us to look at some of our HR policies - or
-more pertinently, the lack of them. It comes at a time where we have grown as a
-company, but have not yet put in place all the policies and procedures that a
-larger organisation might need.
+Prior to, and throughout any redundancy process, we will always look for ways to minimise or avoid compulsory redundancies. This could include (but isn’t limited to):
 
-This policy is being put in place now, whilst we’re not facing any imminent need
-to make redundancies - in a classic "fix the roof whilst the sun is shining"
-way.
+* pausing all but essential recruitment
+* minimising non-essential spending 
+* reviewing our use of contractors 
+* redeployments to other roles
+* considering whether voluntary redundancies may be appropriate. 
 
-In putting it together, we have considered not just our legal obligations, but
-how best to go about doing a hard thing, in line with our dxw values.
+Any measures we take must not adversely affect the business or our ability to meet clients’ needs.
 
-## Policy statement
+This section of the Playbook sets out what we will do if we need to make compulsory redundancies. The procedure does not form part of any contract of employment or other contract to provide services, and we may amend it at any time. 
 
-We believe that continuity of employment and job security is important for staff
-wellbeing, and for delivering quality work to our clients. We work hard to keep
-our sales pipeline healthy. And we plan the future development of dxw carefully
-so we can hire the right people at the right time.
+We will follow a fair and open process consistent with ACAS best practice. You can read more about [your rights during redundancy](https://www.acas.org.uk/your-rights-during-redundancy) on the ACAS website.
 
-However, the future is never certain. Significant changes in our plans or in the
-markets we serve, could mean that we need to make a role redundant. If that
-happens, we will follow a fair and open process.
 
-This section of the Playbook sets out what we’ll do in those circumstances.
 
-## How roles are selected for redundancy
+### Who does this procedure apply to?
 
-We will take an open, data-led approach in redundancy situations. We might, for
-example, find that we need to reduce our unbillable roles to keep profits at a
-sustainable level. Or that we need less people in a particular specialism if we
-experience a reduction in demand for that type of work.
+This procedure applies to employees only. It does not apply to agency workers, consultants, self-employed contractors, volunteers, or interns.
 
-If a group of people in very similar roles are involved in the redundancy
-situation, everyone in the pool will be treated as being at risk and there will
-be a selection process. We will publish the selection criteria at the time,
-which may include any or all of the following:
+[Pregnant employees and new parents are legally protected from redundancy in some circumstances](https://www.acas.org.uk/redundancy-protection-for-pregnancy-and-new-parents). 
 
-- a performance assessment
-- any disciplinary issues having previously arisen
-- adaptability to a new role or way of working
-- attendance record
 
-## The process we’ll follow if we need to make redundancies
 
-The Directors group is responsible for determining any proposed course of action
-that involves redundancies. This will be documented, setting out the problem
-faced, the options considered, proposed solution, and a plan for implementation.
-To ensure this is a fair and robust process, it will be reviewed and agreed with
-the Advisory Board/Shareholders, before the following actions are taken:
+### Who is responsible for this procedure?
 
-### 1. Inform affected employees as soon as their jobs are at risk
+The Directors have overall responsibility for the effective operation of this procedure, including deciding any course of action that involves redundancies. They will often need to work in collaboration with Heads of and the People team to help them make informed decisions.
 
-We will organise a face-to-face meeting to tell you if your job is at risk of
-redundancy. As at the moment we all work remotely, we would organise this by
-slack/email, with the meeting held over video conference. If in the future we're
-back in an office, we'd do this in person. We will follow up that meeting with a
-formal ‘at risk’ notification.
 
-### 2. Consult staff affected about proposals for change
 
-For staff at risk, with more than two years service, there is a formal legal
-consultation period, where we ask you to think about our proposals for change,
-and to talk to us if you have any thoughts/ideas about doing things differently.
+### Making compulsory redundancies
 
-The length of this consultation period will be no less than a week, but may well
-be longer, if for example there is a significant change affecting a number of
-colleagues.
+When we decide to make redundancies, we will advise all affected employees and enter into consultation individually and, where appropriate, also with employee representatives. 
 
-There will be at least one consultation meeting with a Director, and with each
-person ‘at risk’. More meetings can be arranged if necessary. These meetings
-will consider any redeployment opportunities, or other possible measures to
-avoid redundancy. You would have the right to be accompanied by a work colleague
-or a Trade Union representative.
+#### Selection process
 
-### 3. Inform & consult with the wider staff body
+Depending on the circumstances, we may use a selection process which we will share, explain, and consult on with those affected or, where appropriate, with employee representatives. 
 
-There is no legal obligation to consult with the wider staff body (unless there
-are more than 20 jobs at risk within a 90 day period), or with at-risk staff
-with less than two years service.
+This will involve grouping staff in similar roles or with similar skills together in “selection pools’’ and using selection criteria to select those employees who will potentially be made redundant. 
 
-However, we would want to be more open than this; and in the interests of
-finding solutions, we would want to draw ideas from the widest group of people
-possible. So, once the people directly affected have been informed, we will
-publish a bikeshed, detailing the proposal for change, and asking for feedback.
+The selection criteria used should be objective, measurable, and fair based on the roles and skills required to meet our existing and anticipated business needs. The criteria used must avoid any unfair discrimination.
 
-An exception to this may arise if an individual role is affected, rather than a
-group, as it may cause more discomfort and anxiety by publishing a bikeshed.
+#### Individual consultation meetings
 
-### 4. Decision on proposal
+During individual consultation meetings you may be accompanied by a work colleague or a Trade Union representative. Being accompanied should not delay the consultation process. Every effort should be made to attend a consultation meeting on the date(s) provided. Where there is an unreasonable delay due to the availability of companions, we may need consultation meetings to take place without a colleague or Trade Union representative present.
 
-Following consultation, final decisions on the proposal will be taken by the
-Directors. Full consideration will be given to anything arising through the
-consultation period before a final decision is made on the proposed changes, and
-the selection criteria to be used if there is a pool of roles affected. Feedback
-will be given to the member of staff whose role is at risk.
+#### Confirmation of selection for redundancy
 
-Where selection for redundancy is confirmed, the affected employee will be given
-written notice of termination in accordance with the terms of their contract.
-The letter will also confirm the right to appeal the decision.
+When a redundancy is confirmed, the employee will be given notice of the termination of their employment in accordance with their contract and written confirmation of the payments they will receive. 
 
-### 5. Appeal
+#### Appeal
 
-The affected staff members have the right to appeal against the decision to
-terminate their employment on the grounds of redundancy. The appeal should be
-made in writing within five working days of receipt of the decision letter, and
-should be addressed to the Managing Director.
+Affected staff members have the right to appeal against the decision to make their role redundant. The appeal should be made in writing, clearly outlining the grounds for appeal within 7 calendar days of receiving the decision letter. Appeals should be addressed to the Head of People or another appropriate senior leader in their absence, which the outcome letter will confirm.
 
-## Time off
 
-Colleagues who have been given notice of redundancy have the right to take
-reasonable paid time off to seek other work. This could include registering with
-a recruitment agency or attending interviews. Arrangements should be made with
-their line manager.
 
-## Notice period
+### Suitable alternative employment
 
-Your notice period is set out in your employment contract. In all cases the
-contractual notice period meets or exceeds the statutory notice period legally
-required.
+We will continue to look for alternative employment within the business for redundant employees until their termination date. The way in which redundant employees will be invited to apply and be selected for vacancies will be organised depending on the circumstances at the time. Alternative employment may be offered subject to a trial period.
 
-## Redundancy pay
 
-dxw will pay statutory redundancy pay to any employee who meets the eligibility
-criteria. To be eligible, employees must have been continuously employed for two
-complete years, this is a legal requirement that we are unable to change. The
-amount of statutory redundancy pay is based on your age and length of service.
-Statutory redundancy pay is not subject to tax. Further details here on gov.uk .
 
-Your final salary payment will comprise your normal salary during your notice
-period, and any unused holiday entitlement accrued up to your leaving date
-(these are both subject to tax and national insurance in the usual way),
-together with your statutory redundancy pay.
+### Time off and additional support
+
+Employees who have been informed that they are at risk of redundancy will continue in their role as usual throughout the consultation process, unless agreed otherwise. 
+
+After the consultation process, employees that have been given notice of dismissal because of redundancy may take reasonable paid time off to find other work. This could include registering with a recruitment agency or attending interviews. Arrangements should be made directly with their line manager, in advance.
+
+The People team can also help with updating CVs or preparing for interviews.
+
+
+
+### Redundancy pay 
+
+As well as being paid for your notice period, and any unused holiday pay as appropriate, dxw will pay [statutory redundancy pay](https://www.gov.uk/redundancy-your-rights/redundancy-pay) to eligible employees.
+
+The amount of statutory redundancy pay is based on your age and length of service. Statutory redundancy pay is not subject to tax.  Notice pay and holiday pay will be subject to tax and national insurance deductions. You can find a [Statutory Redundancy Pay Calculator](https://www.gov.uk/calculate-your-redundancy-pay) on GOV.UK.
+
+
+
+### Communication with staff 
+
+We understand that redundancies are a stressful and uncertain time for all staff, especially those who are directly affected. We will always aim to get the balance right of sharing as much as we can, while protecting the privacy of those who are involved in a consultation process. How we communicate, and when, may vary slightly depending on the specific circumstances and taking into account the preferences of the affected staff.
+
+Staff involved in supporting the redundancy process will be provided with guidance by the People team.  
+
+
+
+*Changes to this page must be approved by a Director.*

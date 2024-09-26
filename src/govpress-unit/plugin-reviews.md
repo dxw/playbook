@@ -14,9 +14,10 @@ below):
 2. Add a card to the Trello board
 3. Check the plugin for issues using
    [pluginscan](https://git.govpress.com/dxw/pluginscan)
-4. Write up an inspection report in advisories.dxw.com. If the plugin does not
+4. Check for incompatibilities with our [hosting platform](https://github.com/dxw/govpress-technical-docs/blob/main/software-development/add-a-new-plugin.md)
+5. Write up an inspection report in advisories.dxw.com. If the plugin does not
    appear to be vulnerable, this can be published immediately
-5. If the plugin appears to be vulnerable, spend a short amount of time
+6. If the plugin appears to be vulnerable, spend a short amount of time
    attempting to prove it.
 
 If we aren't able to prove the vulnerability then we should publish the

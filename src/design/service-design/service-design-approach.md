@@ -1,9 +1,12 @@
 ---
 title: Service design approach
 redirect_from:
+  - /design/service-design-at-dxw
   - /guides/service-design-at-dxw
+related_order: 2
 last_reviewed_at: ""
 ---
+
 This is an outline of how we approach Service Design at dxw. Service Design can
 cross over a number of disciplines, so we've written this based on our
 experience of applying service design to projects at dxw.

@@ -13,18 +13,26 @@ This guide lists our favourite books, articles and videos on the analysis and sy
 
 ## Principles and stages of analysis and synthesis
 
-The purpose of analysis and synthesis (sometimes also called sensemaking) is to produce findings (sometimes also called insights) that can inform what our team, and sometimes the wider organisation, does next.
+The purpose of analysis and synthesis (sometimes also called sensemaking) is to produce findings (sometimes also called insights) that help our team, and sometimes the wider organisation, make informed decisions, and design and build good services.
 
-We do at least an initial analysis and synthesis at the end of each ‘batch’ of research, so that we can quickly [learn, share and adapt](https://playbook.dxw.com/user-research/#user-research-principles). Later we may combine findings from different research activities into a coherent picture. And we plan the pace of our research to avoid building up analysis and synthesis debt.
+### Principles
 
-Our rule of thumb is “one part research to two parts communication”. For a day spent doing interviews, for example, we expect to spend the next two days on analysis and synthesis, and sharing your findings.
+We do at least an initial analysis and synthesis at the end of each research activity, so that we can quickly [learn, share and adapt](https://playbook.dxw.com/user-research/#user-research-principles).
+
+Later we may [triangulate different kinds of data and findings](#rich-data-and-big-data) from different research activities to strengthen our findings, identify contradictions and gaps, and create a coherent picture of everything we have learned.
+
+And we plan the pace of our research to avoid building up analysis and synthesis debt.
+
+Our rule of thumb is “one part research to two parts communication”. For a day spent doing interviews, for example, we expect to spend two days on analysis and synthesis, and sharing findings.
 
 In doing analysis and synthesis we want:
 
 * findings and next steps we can justify - as we are often challenged to explain why we have come to those conclusions
-* findings we can trace back to our research data - as we are often asked to show the evidence for our findings and where our ideas came from
+* findings we can trace back to our research data - so we can support our findings with anonymised quotes, clips, observations and numbers from our research data, and so we can reconsider and update our findings as we gather more data
 * to make analysis and synthesis a team sport - so our colleagues get involved and become advocates for our findings
 * a rational and repeatable process - as we do analysis regularly and need to do it efficiently
+
+### Stages
 
 Whatever approach we take, our analysis and synthesis goes through three broad stages:
 
@@ -40,10 +48,25 @@ Whatever approach we take, our analysis and synthesis goes through three broad s
 
    Working with our colleagues to agree what to do in response to the findings, including adapting our research activities, creating new design ideas, or recording issues to resolve.
 
+### Rich data and big data
+
+On most of our projects, we expect to do many different research activities, with different groups of participants. Through these activities we produce a *rich collection of different kinds of data*, such as notes or transcripts from interviews, videos of usability tests, completed boards or worksheets from workshops, responses from questionnaires. Along with any initial findings we created and shared after each activity.
+
+An important part of our work is to triangulate this rich collection to:
+
+* strengthen and increase the credibility of our specific findings
+* identify contradictions, gaps and biases that may need further research to resolve
+* create a detailed, coherent and compelling picture of the most important things we have learned across the project, particularly in discovery and alpha projects
+
+On some projects we have access to large, numerical data sets - *big data*. This might be performance data or operational data from a service, data collected by social scientists in government research projects, or government statistics produced by the ONS (Office for National Statistics).
+
+Using this data effectively, and combining it with our other sources, can need significant skills in statistics and numerical analysis. So we may look for support from colleagues with specialist data analysis skills.
+
 ### Recommended guidance
 
 * [Practical Empathy by Indi Young](https://rosenfeldmedia.com/books/practical-empathy/)
 * [Exposing the Magic of Design by Jon Kolko](https://global.oup.com/academic/product/exposing-the-magic-of-design-9780190276218)
+* [Triangulation: Get Better Research Results by Using Multiple UX Methods by NN/g](https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/)
 * [The Good Research Guide by Martyn Denscombe](https://www.mheducation.co.uk/the-good-research-guide-research-methods-for-small-scale-social-research-projects-9780335249831-emea-group)
 * [Integrating Analyses in Mixed Methods Research by Pat Bazeley](https://methods.sagepub.com/book/integrating-analyses-in-mixed-methods-research)
 
@@ -102,11 +125,13 @@ One of our research principles is to [build on existing evidence](https://playbo
 
 So an important source of our findings, particularly in discovery projects, is existing information, whether from inside or outside the client organisation. These sources might be previous discovery reports, service performance investigations, government and industry statistics, and government and third-sector social research.
 
+It can be hard to find and access all the relevant previous and current work that might be useful. We collect and review information that our clients and other stakeholders provide. And we actively seek other sources, including asking stakeholders for the reports, analyses and other evidence that have informed their views.
+
 When reviewing existing information, we are guided by our research questions, and apply the 3 stages of analysis and synthesis (from observations, to findings and actions).
 
 We use our research questions to help us choose information sources, and to choose which parts to review in detail.
 
-Some sources may include meaningful and relevant findings that we can incorporate directly into ours. From others we may need to extract useful observations, answers and numbers that we can bring into our analysis and synthesis.
+Some sources may include meaningful and relevant findings that we can incorporate directly into ours. From others we may need to extract useful observations, answers and numbers that we can bring into our analysis and synthesis. Some previous research may not have been done or presented in ways we would expect, but we work through any limitations to learn what we can.
 
 And we make sure we can trace relevant findings back to the source material.
 
@@ -132,7 +157,7 @@ We typically look at things like:
 * groupings - such as how success and completion times vary for different groups of users
 * trends - such as how success and completion times vary over time
 
-For more complicated analysis, we can call on colleagues with specialist data analysis skills for support.
+For more complicated analysis, particularly where we have access to [bigger and more complicated data sets](#rich-data-and-big-data), we can call on colleagues with specialist data analysis skills for support.
 
 With quantitative analysis, we always remember that numbers themselves are not findings. We work out what the numbers mean for us, and produce meaningful and relevant findings, supported by the numbers, that others can understand and act on.
 

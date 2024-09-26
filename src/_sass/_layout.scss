@@ -1,19 +1,43 @@
 @use "./breakpoints";
 @use "./navbar";
 
+$large-screen-header-width: 330px;
+
 * {
   box-sizing: border-box;
 }
 
-main {
-  margin-top: navbar.$height;
-  height: calc(100vh - navbar.$height);
+header {
+  width: 100%;
+}
+
+body {
   display: flex;
   flex-direction: column;
+  min-height: 100vh;
+}
 
-  @include breakpoints.on-large-screens {
-    margin-top: navbar.$height-large;
-    height: calc(100vh - navbar.$height-large - 3em);
+main {
+  flex: 1;
+}
+
+@include breakpoints.on-large-screens {
+  body {
     flex-direction: row;
+  }
+
+  header {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: $large-screen-header-width;
+    height: 100vh;
+  }
+
+  main {
+    height: 100%;
+    min-height: 100vh;  
+    margin-left: $large-screen-header-width;
   }
 }

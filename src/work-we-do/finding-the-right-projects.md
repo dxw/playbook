@@ -1,6 +1,8 @@
 ---
-title: Sales
-related_order: 0
+title: Finding the right projects
+redirect_from:
+  - /work-we-do/sales
+related_order: 1
 last_reviewed_at: ""
 ---
 
@@ -19,10 +21,6 @@ be able to operate their new services well and sustainably. This sometimes
 involves work that an agency might not normally do, like advising an
 organisation's leaders on how their teams could be restructured, or on what
 their digital strategy could be.
-
-With the development of dxw's strategy team, we are increasingly targeting more
-strategy-shaped opportunities, to help our clients prepare for, or improve the
-delivery of digital projects.
 
 We also help clients host some of the services that we build, and by selling
 subscription-based products that are related to the rest of our work.

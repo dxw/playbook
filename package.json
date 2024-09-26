@@ -8,8 +8,12 @@
     "webpack:prod": "webpack --mode production",
     "jekyll:dev": "sleep 5 && bundle exec jekyll serve",
     "jekyll:build": "bundle exec jekyll build",
-    "lint": "standard",
-    "lint:fix": "standard --fix"
+    "lint": "npm run lint:css && npm run lint:js",
+    "lint:css": "npx stylelint \"src/_sass/**/*.scss\"",
+    "lint:css:fix": "npx stylelint \"src/_sass/**/*.scss\" --fix",
+    "lint:fix": "npm run lint:css:fix && npm run lint:js:fix",
+    "lint:js:fix": "standard --fix",
+    "lint:js": "standard"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
@@ -17,6 +21,10 @@
     "babel-loader": "^9.1.2",
     "normalize.css": "8.0.1",
     "standard": "^17.0.0",
+    "stylelint": "^16.0.2",
+    "stylelint-config-clean-order": "^6.0.0",
+    "stylelint-config-standard-scss": "^13.0.0",
+    "stylelint-selector-bem-pattern": "^4.0.0",
     "webpack": "^5.76.0",
     "webpack-cli": "^5.0.1"
   },

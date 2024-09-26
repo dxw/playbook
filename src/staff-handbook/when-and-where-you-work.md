@@ -15,9 +15,6 @@ Each team has a short standup every morning, where we each tell the whole team
 about a single thing we will get done that day. If you think you're going to be
 late, you should let everyone know in the project Slack channel.
 
-Most developers have maintenance responsibilities, which they do during their
-[support rotation](/work-we-do/supporting-services/#support-rota).
-
 We do our very best to
 [work at a sustainable pace](/about-us/our-mission-values-and-principles/#work-at-a-sustainable-pace). But
 sometimes, when we're approaching a firm deadline or a launch, or a client is

@@ -1,9 +1,10 @@
 ---
 title: dxw time
-related_order: 10
+related_order: 11
 last_reviewed_at: ""
 ---
-dxw time is what we call the time that our billable staff (Delivery+, GovPress and Strategy) spend not working on client work doing things for the company, along with other colleagues. Of course, people in our non-billable teams also get involved in company-wide work outside of their day jobs. This should be agreed with their line manager, but will follow a similar pattern.
+
+dxw time is what we call the time that our billable staff (Delivery+ and GovPress) spend not working on client work doing things for the company, along with other colleagues. What’s set out here is a general position and individual business units might have slightly different approaches.
 
 What’s set out here is a general position, and individual business units might have slightly different approaches. 
 
@@ -82,4 +83,5 @@ You may not have to take dxw time if you really don’t want to, but it is encou
 
 If, for you, dxw time is solely about getting away from client work, we need to make sure we address that directly. Please talk to your line manager, Head Of discipline, or any other avenue of support open to you if you’re struggling with the demands of client work. We should tackle that, rather than hope dxw time is enough of a break. 
 
-If you are finding it difficult to make time for dxw time because of the demands of client work, please tell your line manager so we can provide the support you need.
+Of course, people in our non-billable teams also get involved in company-wide work and [personal learning and development activity](/staff-handbook/learning-and-development/) outside of their day jobs. This should be agreed with their line manager as part of their objectives in a similar way.
+

@@ -3,22 +3,27 @@
 @use "./typography";
 
 .contribute {
-  display: none;
-}
+  @include breakpoints.on-large-screens {
+    position: fixed;
+    bottom: 0;
+    left: 0;
 
-@include breakpoints.on-large-screens {
-  .contribute {
-    padding: 0.5em;
-    background-color: colours.$accent-a;
-    text-align: center;
-    font-family: typography.$heading-font-family;
-    font-weight: typography.$heading-font-weight;
-    font-size: 1.2em;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 
+    width: 330px;
+    padding: 1em;
+
+    font-family: typography.$heading-font-family;
+    font-size: 0.9em;
+    font-weight: typography.$heading-font-weight;
+
+    background-color: colours.$accent-a;
+  
     a {
       margin: 0;
     }
   }
+
+  display: none;
 }

@@ -1,7 +1,9 @@
 ---
 title: Guides for line managers
+related_order: 2
 redirect_from:
   - /guides/line-management-guides
+  - /leadership/line-management
 last_reviewed_at: ""
 ---
 ## Learning and development for your team members

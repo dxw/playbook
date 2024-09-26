@@ -1,6 +1,6 @@
 ---
 title: Recruitment process
-related_order: 15
+related_order: 16
 redirect_from:
   - /working-here/hiring-new-people
 last_reviewed_at: ""

@@ -36,12 +36,11 @@ someone appropriate in the relevant Zendesk group, which are:
   [Support and Maintenance Backlog](https://trello.com/b/pF46aRdl/govpress-support-and-maintenance-backlog).
 - **GovPress scoping and discussion** for development tasks that take more than 0.5 days.
   This work may need to be scoped in more detail and the relevant Delivery and
-  Squad Lead should be made aware of it. If a task is very complex, colleagues
+  Tech Lead should be made aware of it. If a task is very complex, colleagues
   may want to close the ticket (to meet our Zendesk SLAs) and schedule the work
-  in the same way we schedule long-term work for new clients. If Spruce Squad is
-  especially busy, support work might move into Pine Squad, or be scheduled for
-  future sprints. Tickets in this view should have a corresponding Trello card
-  in the
+  in the same way we schedule long-term work for new clients. If the Unit is
+  especially busy, support work might be scheduled for future sprints. Tickets
+  in this view should have a corresponding Trello card in the
   [Support and Maintenance Backlog](https://trello.com/b/pF46aRdl/govpress-support-and-maintenance-backlog)
   or they may be moved out to a client Trello board.
 
@@ -120,7 +119,8 @@ These are the systems you will need access to:
 - The v1 GovPress infrastructure (follow the docs
   [here](https://git.govpress.com/ops/docs/-/blob/master/create-a-user-data-bag-for-chef.md)
   and raise an MR).
-- Our "Helpful" infrastructure (ask someone from Oak Squad to help).
+- Our old "Helpful" infrastructure (ask someone from the Maintenance and Support
+  Team to help).
 - Basic auth, which we use for access to the GovPress v1 staging sites (follow
   the docs
   [here](https://git.govpress.com/ops/docs/-/blob/master/create-a-user-data-bag-for-chef.md)
@@ -128,7 +128,8 @@ These are the systems you will need access to:
 - The dxw VPN (follow the docs
   [here](https://git.govpress.com/ops/docs/-/blob/master/create-a-user-data-bag-for-chef.md)
   and raise an MR).
-- Papertrail for Dalmatian infrastructure application logs (ask someone in Oak Squad).
+- Papertrail for Dalmatian infrastructure application logs (ask someone from
+  the Maintenance and Support Team to help).
 
 The documentation
 [here](https://git.govpress.com/ops/docs/-/blob/master/create-a-user-data-bag-for-chef.md)
@@ -153,7 +154,7 @@ put the main script on your $PATH)
 
 And make sure you have the [`govpress-developer-docs`](https://github.com/dxw/govpress-developer-docs)
 repo and [`ops/docs` repo](https://git.govpress.com/ops/docs/) bookmarked, along
-with the [Project Knowledgebase on AirTable](https://airtable.com/appNpQYEz4XOan53g/tblne7bw5jfACz2XB/viw13NhyxHHRuBHoH?blocks=hide).
+with the [Project Knowledgebase on AirTable](https://airtable.com/appL5dzrJCzmldhcG/tbllUuMjfRR8Npe61/viwsS1RB8nJZjBekX?blocks=hide).
 
 Please also ensure that you have the [incident.io](https://incident.io/) app
 installed in Slack, that you can access the [Dashboard](https://app.incident.io/dashboard)
@@ -163,14 +164,17 @@ with single-sign-on, and that you have completed the tutorial (type
 ## Starting a 2nd line support rotation
 
 When you start your rotation, you need to be added to the **GovPress 2nd line support**
-group in Zendesk. Please ask someone in Oak Squad, or one of the Delivery Leads
-to do this for you, and to remove the last person on the rota, if they are still
-in the group.
+group in Zendesk. Please ask someone in the Maintenance and Support Team or a
+Delivery Lead to do this for you, and to remove the last person on the rota,
+if they are still in the group.
 
 ## During your rotation
 
-Whilst you are working in Support, please attend the Oak Squad stand-ups and join
-the [Support and Maintenance Backlog](https://trello.com/b/pF46aRdl/govpress-support-and-maintenance-backlog).
+Whilst you are working in Support, please attend the Maintenance and Support
+stand-ups and add yourself to the Trello boards we use, which are the
+[Support and Maintenance Backlog](https://trello.com/b/pF46aRdl/govpress-support-and-maintenance-backlog)
+and the
+[Week in Progress](https://trello.com/b/Y2QL3Pha/govpress-support-and-maintenance-week-in-progress).
 This will help you with context for what is going on in 2nd line support, and
 the other work around our infrastructure.
 
@@ -191,9 +195,9 @@ And these channels which will give you information about our infrastructure and 
 
 You are responsible for delivering all the tickets in the
 **GovPress 2nd line support** group. If you think that any of these will take
-more than around 0.5 days of development work, they should be scoped and moved
-into a Squad. In this case, please talk to the Squad Lead and Delivery Lead in
-Spruce Squad, in the first instance.
+more than around 0.5 days of development work, they should be scoped and ideally
+moved into a sprinting team. In this case, please talk to the relevant Tech
+Lead and Delivery Lead, in the first instance.
 
 At the start of your rotation, it is a good idea to read through all of the
 tickets in the GovPress 2nd line support group and note any particular deadlines
@@ -237,5 +241,5 @@ Please ensure that you:
   person does not have to repeat your work.
 - Reassign any Zendesk tickets that are assigned to you, to the next person on
   the rota.
-- Attend the Oak Squad stand-up on the day _after_ your last day, to answer
-  any questions the next person on the rota may have.
+- Attend the Maintenance and Support stand-up on the day _after_ your last day,
+  to answer any questions the next person on the rota may have.

@@ -39,10 +39,10 @@ collections:
           - { label: Body, name: body, widget: markdown, required: true }
 
   - <<: *collection_defaults
-    name: who-we-are
-    label: Who we are
-    label_singular: Who we are page
-    folder: src/who-we-are
+    name: about-us
+    label: About us
+    label_singular: About us page
+    folder: src/about-us
 
   - <<: *collection_defaults
     name: work-we-do
@@ -50,10 +50,10 @@ collections:
     label_singular: Work we do page
     folder: src/work-we-do
   - <<: *collection_defaults
-    name: work-we-do__building-services
-    label: Work we do > Building services
-    label_singular: Building services page
-    folder: src/work-we-do/building-services
+    name: work-we-do__how-we-deliver-work
+    label: Work we do > How we deliver work
+    label_singular: How we deliver work page
+    folder: src/work-we-do/how-we-deliver-work
 
   - <<: *collection_defaults
     name: staff-handbook
@@ -71,10 +71,20 @@ collections:
     label_singular: Leave page
     folder: src/staff-handbook/leave
   - <<: *collection_defaults
+    name: staff-handbook__line-management
+    label: Staff handbook > Line management
+    label_singular: Line management page
+    folder: src/staff-handbook/line-management
+  - <<: *collection_defaults
     name: staff-handbook__pay-pension-and-benefits
     label: Staff handbook > Pay, pension and benefits
     label_singular: Pay, pension and benefits page
     folder: src/staff-handbook/pay-pension-and-benefits
+  - <<: *collection_defaults
+    name: staff-handbook__pay-pension-and-benefits__benefits
+    label: Staff handbook > Pay, pension and benefits > Benefits
+    label_singular: Benefits page
+    folder: src/staff-handbook/pay-pension-and-benefits/benefits
   - <<: *collection_defaults
     name: staff-handbook__policies-and-procedures
     label: Staff handbook > Policies and procedures
@@ -85,6 +95,11 @@ collections:
     label: Staff handbook > Supporting wellbeing
     label_singular: Supporting wellbeing page
     folder: src/staff-handbook/supporting-wellbeing
+  - <<: *collection_defaults
+    name: staff-handbook__talking-about-what-we-do
+    label: Staff handbook > Talking about what we do
+    label_singular: Talking about what we do page
+    folder: src/staff-handbook/talking-about-what-we-do
 
   - <<: *collection_defaults
     name: commercial-ops
@@ -103,6 +118,22 @@ collections:
     label: Design
     label_singular: Design page
     folder: src/design
+  - <<: *collection_defaults
+    name: design__content-design
+    label: Design > Content design
+    label_singular: Content design page
+    folder: src/design/content-design
+  - <<: *collection_defaults
+    name: design__service-design
+    label: Design > Service design
+    label_singular: Service design page
+    folder: src/design/service-design
+
+  - <<: *collection_defaults
+    name: govpress-unit
+    label: GovPress Unit
+    label_singular: GovPress Unit page
+    folder: src/govpress-unit
 
   - <<: *collection_defaults
     name: leadership
@@ -133,18 +164,6 @@ collections:
     label: User Research
     label_singular: User Research page
     folder: src/user-research
-
-  - <<: *collection_defaults
-    name: govpress-unit
-    label: GovPress Unit
-    label_singular: GovPress Unit page
-    folder: src/govpress-unit
-
-  - <<: *collection_defaults
-    name: strategy-unit
-    label: Strategy Unit
-    label_singular: Strategy Unit page
-    folder: src/strategy-unit
 
   - name: redirects
     label: Redirects

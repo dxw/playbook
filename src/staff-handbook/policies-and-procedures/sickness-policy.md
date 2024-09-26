@@ -1,67 +1,54 @@
 ---
-title: Sickness policy 
+title: Sickness
 related_order: 2
 last_reviewed_at: ""
 ---
+The health and well-being of our staff is a priority. This section of the Playbook covers how short and longer-term sickness absences are managed and supported.
 
-This policy covers both short and longer term sickness absences. Our aim is to
-look after the health and wellbeing of all dxw staff and the needs of the
-company.
+## The basics
 
-## Communication of sickness
+If you aren’t feeling well enough to work, you must let your line manager and a member of the People team know by 10:00 am, or as soon as you reasonably can after that. This can be done via email, direct message on Slack, or by posting in the #dxw-sickness channel on Slack. The People team will then open a sickness record for you on BreatheHR.
 
-If you're sick, you must let your line manager and a member of the People team
-know by 10:00am or as soon as you reasonably can after that. This can be done
-via email, directly on Slack, phone call or text. Line managers will record and
-monitor sickness for individuals within their teams.
+If you’re unwell and know that you’re going to be off for a period of time, or have been signed off by your GP until a certain date, you don’t need to update your line manager daily. Let them know when you will be checking in again so they know when to expect to hear from you.
 
-If you're unwell and know that you're going to be off for a period of time, or
-have been signed off by your GP until a certain date, you don't need to update
-your line manager daily. Let them know when you will be checking in again so
-they know when to expect to hear from you.
+Where possible we recommend letting people know if you are unable to attend meetings, due to your absence, or asking someone else to do this on your behalf.
 
-When you return to work, you must check your sickness has been correctly
-recorded in BreatheHR, update it if necessary and mark yourself as returned to
-work. Your line manager will then review and close the sick leave. If you're
-sick for more than 7 calendar days in a row, you'll also need to provide a
-doctor's note.
+If you’re unwell for more than 7 calendar days in a row, regardless of your FTE %, you’ll need to provide a [doctor’s note](https://www.nhs.uk/common-health-questions/caring-carers-and-long-term-conditions/when-do-i-need-a-fit-note/) to the People team, who will keep your line manager informed and support you where needed.
+
+When you return to work, you must check your sickness has been correctly recorded in [BreatheHR](https://login.breathehr.com/login), by updating your sickness end date and sickness type. If none of the sickness type options provided in the drop down menu aligns with your specific situation, please select ‘other-please detail’ and provide a reason in the notes section. Please note that any information added to the notes section will only be visible to the People team and your line manager.
+
+The People team will then review and close the sickness.
+
+## Pay
+
+Within a rolling 12 month period, you will receive:
+
+* full pay for the first 20 days of sickness absence 
+* half pay (but no less than the living wage) for the next 10 days of sickness absence
+* statutory sick pay after 30 days of sickness absence up to 28 weeks from the date of your first absence.
+
+These entitlements are pro-rated for staff who work non standard working patterns. The pro-rated amount is calculated based on the amount of days that you work per week.
+
+Any exceptions to the above pay entitlements will be at the discretion of the Directors and will never be less than the entitlements outlined above. 
 
 ## Absence meetings
 
-Your line manager should check-in with you on a regular basis about your
-wellbeing, and catch up with you after any sickness absence to see how you are.
-If you're sick for more than 7 working days over a rolling 12 month period, your
-line manager will invite you to an absence meeting to discuss your health. Where
-appropriate, we'll talk about how we can support your return to work and any
-temporary or permanent adjustments which might help improve your wellbeing and
-support you to need fewer absences. We might also agree an action plan and / or
-a review period. Where we think it would be helpful, we'll seek advice via an
-Occupational Health advisor.
+If you've been away from work for more than 7 calendar days in a row, regardless of your FTE %, your line manager will contact you upon your return to work. They'll check in to see how you're doing and see if you need any additional support during your return to work.
 
-If you have a long term health condition and would like to discuss [reasonable adjustments](/staff-handbook/policies-and-procedures/inclusion-diversity-equality/#reasonable-adjustments) and ways of working that will help, we welcome a conversation at any
-point. The sooner we know, the sooner we can support you.
+If your absence exceeds 15 working days, or pro-rated equivalent, in a rolling 12-month period, an informal meeting with your line manager will be scheduled. The purpose of this meeting is to provide an opportunity for discussing concerns, with an aim to intervene before there is any impact to your pay. These discussions will focus on your health and ways to provide ongoing support to you. 
 
-## Sick pay
+For absences exceeding 20 working days, or pro-rated equivalent, within a rolling 12-month period, the People team will invite you and your line manager to an additional meeting. Here, discussions will look into customised support, potential adjustments, and the collaborative development of an action plan and review period lasting between 8-12 weeks as a minimum. If necessary, input from an Occupational Health advisor may be sought. 
 
-Within any rolling 12-month period, you'll receive:
+We understand that attendance levels may fluctuate due to individual circumstances. We will consider situations on a case-by-case basis and explore appropriate measures. If we are unable to find a mutual resolution, after exploring all possible alternatives, we may have to consider the possibility of your dismissal. 
 
-* full pay for the first 12 days of sickness absence
-* half pay (but no less than living wage) for the next 8 days of sickness absence
-* [real living wage](https://www.livingwage.org.uk/what-real-living-wage) for the next 10 days of sickness absence
-* [statutory sick pay](https://www.gov.uk/statutory-sick-pay/eligibility) after 30 days of sickness absence
+There may be occasions, where you’ve been absent frequently over a short amount of time or with noticeable patterns. It may be that your line manager or a member of the People team checks in with you. This chat is to make sure you’re okay, address any concerns, and figure out ways we can help.
 
-There'll be circumstances where we'll make exceptions, because it's not possible to write a policy that is fair in every situation. This structure will form our starting point for those decisions. All decisions on exceptions will be made by the Directors' group. Our aim is to ensure that we're treating everyone fairly and consistently, while being aware of our financial requirements.
+## Phased returns
 
-## Long term medical treatment
+Phased returns are usually used when you’ve been away from work for a while or need changes to your usual way of working after being unwell. Your return will be customised to support you and make it easier for you to return to work.
 
-Regular and open communication with your line manager is important to ensuring we can support you in the best possible way through a period of long term medical treatment (a period of more than 2 weeks).
+The People team will stay in touch with you during your period of absence, and when you are ready to return, they will organise a meeting to discuss your return to work. This meeting will help decide if you are able to go back to your regular hours or if some adjustments would be better. The People team and your line manager will work together to make sure you get the support you need during this process.
 
-If you need long term medical treatment that would affect your ability to work as normal, but you're still able to work, we will support this wherever we can. We may consider a change of project or role where that's an option.
 
-If you finish your treatment, you'll have a meeting to help your return to work, or to normal working hours, and ensure your ongoing wellbeing is supported. We may look at a phased return for example.
 
-## Escalation
-
-If your sickness absence continues for 3 months after an absence meeting, your line manager will set up a further meeting to discuss your situation. We will look to make any further reasonable adjustments to help you get back working. This might include looking for a suitable alternative role that fits your circumstances better.
-
-Where we're unable to reach an agreement that means you're able to maintain a reasonable level of attendance for work, we may consider your dismissal. We will only do this after we have exhausted all other options.
+*Changes to this page must be approved by a member of the Senior Leadership Team.*

@@ -6,7 +6,6 @@ redirect_from:
   - /working-here/laptop-purchasing-policy
 last_reviewed_at: ""
 ---
-
 This policy has been created to assist employees who are buying dxw-owned
 laptops. Please note there is no obligation to buy your laptop upon leaving dxw
 or getting a laptop refresh.
@@ -59,3 +58,5 @@ If you have any further questions around this policy or if you need help with a
 specific query, please speak to a member of the commercial operations team who
 will be able to assist you. Alternatively, if you need help with a technical
 query, please contact a member of the technical operations team.
+
+*Changes to this page must be approved by a member of the Senior Leadership Team.*
