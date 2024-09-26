@@ -41,7 +41,7 @@ documentation to effectively solve problems. For most projects:
 
 ## Add the project to Project Knowledgebase
 
-Our [Project Knowledgebase](https://airtable.com/tblne7bw5jfACz2XB/) is the
+Our [Project Knowledgebase](https://airtable.com/appL5dzrJCzmldhcG/tbllUuMjfRR8Npe61/viwsS1RB8nJZjBekX?blocks=hide) is the
 starting point for support agents who are new to a project - it displays key
 information about the project alongside requests in Zendesk. Each project should
 have a row in the Projects table which has been completed.

@@ -94,7 +94,7 @@ depend on the incident, but we mostly run simple websites so the following are
 always good steps:
 
 * Is the site or server available? Use
-  [Airtable](https://airtable.com/tblne7bw5jfACz2XB/viwF0lQjetG2ICuO2?blocks=hide)
+  [Airtable](https://airtable.com/appL5dzrJCzmldhcG/tbllUuMjfRR8Npe61/viwsS1RB8nJZjBekX?blocks=hide)
   to discover the URL
 * Check if this alert is a currently known event in ops/docs and read any
   previous guidance
