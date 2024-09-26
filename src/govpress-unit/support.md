@@ -154,7 +154,7 @@ put the main script on your $PATH)
 
 And make sure you have the [`govpress-developer-docs`](https://github.com/dxw/govpress-developer-docs)
 repo and [`ops/docs` repo](https://git.govpress.com/ops/docs/) bookmarked, along
-with the [Project Knowledgebase on AirTable](https://airtable.com/appNpQYEz4XOan53g/tblne7bw5jfACz2XB/viw13NhyxHHRuBHoH?blocks=hide).
+with the [Project Knowledgebase on AirTable](https://airtable.com/appL5dzrJCzmldhcG/tbllUuMjfRR8Npe61/viwsS1RB8nJZjBekX?blocks=hide).
 
 Please also ensure that you have the [incident.io](https://incident.io/) app
 installed in Slack, that you can access the [Dashboard](https://app.incident.io/dashboard)
