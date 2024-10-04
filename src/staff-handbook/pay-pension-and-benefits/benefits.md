@@ -12,6 +12,7 @@ Benefits for employees include:
 * Cycle to work scheme
 * Electric vehicle scheme
 * Employee assistance programme
+* [Flexible holiday scheme](/staff-handbook/pay-pension-and-benefits/benefits/flexible-holiday-scheme)
 * [Flexible working](/staff-handbook/flexible-working)
 * Home office equipment
 * Life assurance
