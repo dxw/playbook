@@ -2,7 +2,7 @@
 title: Electric vehicle scheme
 last_reviewed_at: ""
 ---
-Our Electric Vehicle (EV) scheme is available once you’ve passed probation and have reached 12 months service, and allows you to lease an electric vehicle through salary sacrifice, saving you between 30% and 60% of the cost.
+Our electric vehicle (EV) scheme is available once you’ve passed probation and have reached 12 months service, and allows you to lease an electric vehicle through salary sacrifice, saving you between 30% and 60% of the cost.
 
 With our EV scheme, you get access to a full range of electric vehicles, at the best rates on the market, as well as help selecting the car that best meets your needs and full guidance throughout the process.
 
