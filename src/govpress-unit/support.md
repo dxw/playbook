@@ -117,22 +117,22 @@ These are the systems you will need access to:
   and assign it to the 1st line support group where it will be picked up by
   colleagues in Technical Operations).
 - The v1 GovPress infrastructure (follow the docs
-  [here](https://git.govpress.com/ops/docs/-/blob/master/create-a-user-data-bag-for-chef.md)
+  [here](https://github.com/dxw/ops-docs/blob/master/create-a-user-data-bag-for-chef.md)
   and raise an MR).
 - Our old "Helpful" infrastructure (ask someone from the Maintenance and Support
   Team to help).
 - Basic auth, which we use for access to the GovPress v1 staging sites (follow
   the docs
-  [here](https://git.govpress.com/ops/docs/-/blob/master/create-a-user-data-bag-for-chef.md)
+  [here](https://github.com/ops-docs/blob/master/create-a-user-data-bag-for-chef.md)
   and raise an MR).
 - The dxw VPN (follow the docs
-  [here](https://git.govpress.com/ops/docs/-/blob/master/create-a-user-data-bag-for-chef.md)
+  [here](https://github.com/ops-docs/blob/master/create-a-user-data-bag-for-chef.md)
   and raise an MR).
 - Papertrail for Dalmatian infrastructure application logs (ask someone from
   the Maintenance and Support Team to help).
 
 The documentation
-[here](https://git.govpress.com/ops/docs/-/blob/master/create-a-user-data-bag-for-chef.md)
+[here](https://github.com/ops-docs/blob/master/create-a-user-data-bag-for-chef.md)
 describes how to actually access a running server or instance. If you need to
 find the highest id in the current user data bags, you can run:
 
@@ -153,7 +153,7 @@ Please ensure that you have the following installed before your start your rotat
 put the main script on your $PATH)
 
 And make sure you have the [`govpress-developer-docs`](https://github.com/dxw/govpress-developer-docs)
-repo and [`ops/docs` repo](https://git.govpress.com/ops/docs/) bookmarked, along
+repo and [`ops/docs` repo](https://github.com/ops-docs/) bookmarked, along
 with the [Project Knowledgebase on AirTable](https://airtable.com/appL5dzrJCzmldhcG/tbllUuMjfRR8Npe61/viwsS1RB8nJZjBekX?blocks=hide).
 
 Please also ensure that you have the [incident.io](https://incident.io/) app

@@ -28,7 +28,7 @@ Being on call means you are the first line support for issues that occur out of 
 
 While on call, your responsibility is making sure all the services we support are running correctly and effectively.
 
-As with in-hours support, we use monitoring and alerts to notify you when an issue occurs via Opsgenie, and provide [runbooks](https://git.govpress.com/ops/docs) to help you respond to those issues. The difference to in-hours support is that you’ll only be alerted when a high-severity issue occurs, and you aren’t expected to take any action out of hours unless alerted.
+As with in-hours support, we use monitoring and alerts to notify you when an issue occurs via Opsgenie, and provide [runbooks](https://github.com/ops-docs) to help you respond to those issues. The difference to in-hours support is that you’ll only be alerted when a high-severity issue occurs, and you aren’t expected to take any action out of hours unless alerted.
 
 Outside office hours, the expected response depends on the severity of the incident. We have a set of factors that determine the severity of an incident, and have included these in our [Service Level Agreement](https://contracts.dxw.com/service_level_agreement.md).
 

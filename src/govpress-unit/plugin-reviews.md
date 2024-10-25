@@ -13,7 +13,7 @@ below):
 1. Check for existing inspections
 2. Add a card to the Trello board
 3. Check the plugin for issues using
-   [pluginscan](https://git.govpress.com/dxw/pluginscan)
+   [pluginscan](https://github.com/dxw/pluginscan)
 4. Check for incompatibilities with our [hosting platform](https://github.com/dxw/govpress-technical-docs/blob/main/software-development/add-a-new-plugin.md)
 5. Write up an inspection report in advisories.dxw.com. If the plugin does not
    appear to be vulnerable, this can be published immediately
@@ -60,7 +60,7 @@ Most plugins can be downloaded from the
 [directory](https://en-gb.wordpress.org/plugins/). Premium plugins may have to
 be purchased (discuss with DMs).
 
-We use a tool called [Pluginscan](https://git.govpress.com/dxw/pluginscan) for
+We use a tool called [Pluginscan](https://github.com/dxw/pluginscan) for
 inspections. It does not have a full understanding of the code - instead it
 looks for specific patterns and function names which may indicate that the code
 is unsafe.
