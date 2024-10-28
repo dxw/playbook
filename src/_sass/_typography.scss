@@ -1,20 +1,19 @@
 @use "./colours";
 
-$body-font-family: cardo, serif;
+$body-font-family: poppins, serif;
 $body-font-weight: 400;
 $body-font-weight-bold: 700;
 $heading-font-family: poppins, sans-serif;
 $heading-font-weight: 600;
 
 @import "https://fonts.googleapis.com/css?family=Poppins:400,600&display=swap";
-@import "https://fonts.googleapis.com/css?family=Cardo:400,700&display=swap";
 
 body {
   font-family: $body-font-family;
   font-size: 15pt;
   font-weight: $body-font-weight;
   -moz-osx-font-smoothing: grayscale;
-  line-height: 1.5;
+  line-height: 1.6;
   color: colours.$navy;
 }
 
