@@ -104,7 +104,7 @@ always good steps:
   the impact of this event (looking at logs, metrics etc.)
 
 Once you have identified the problem see if there is an
-[Ops Docs](https://git.govpress.com/ops/docs) guide for this error.
+[Ops Docs](https://github.com/ops-docs) guide for this error.
 
 ### Declaring an incident
 
