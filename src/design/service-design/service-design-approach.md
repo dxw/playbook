@@ -19,7 +19,7 @@ experience of applying service design to projects at dxw.
   their expected solutions), alongside the recognised needs and problems that
   have initiated the project. This session happens early in the inception phase
   so that the outcomes can inform the project roadmap. We may use this
-  [problem framing template](https://docs.google.com/spreadsheets/d/1ygq9oF97XI5VebbchAP422oLo6SigkK_Ts__0TaS0-Y/edit?usp=sharing)
+  [problem framing template](https://miro.com/miroverse/frame-the-problem/)
   to help structure the discussion with stakeholders.
 * Problem framing results in a clear and careful articulation of the problem and
   the **measurable impact** that will result from the project. Arriving at this
