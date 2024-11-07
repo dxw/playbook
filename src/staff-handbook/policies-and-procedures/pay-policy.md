@@ -107,4 +107,4 @@ You can find more information in our [benefits](https://playbook.dxw.com/staff-h
 
 **Please note:** whilst we strive to maintain and grow the list of benefits we offer, many of these are discretionary and there may be changes to certain incentives at any time reflecting the needs of the business. 
 
-*Changes to this page must be approved by a member of the Senior Leadership Team.*
+*Changes to this page must be approved by a member of the Operational Leadership Team.*
