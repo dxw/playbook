@@ -262,4 +262,4 @@ any bank holidays that they miss will be added to their holiday entitlement when
 they return to work. They can choose to use this annual leave before or after
 their parental leave, or have some paid out during their parental leave.
 
-*Changes to this page must be approved by a member of the Senior Leadership Team.*
+*Changes to this page must be approved by a Director.*
