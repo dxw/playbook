@@ -59,4 +59,4 @@ specific query, please speak to a member of the commercial operations team who
 will be able to assist you. Alternatively, if you need help with a technical
 query, please contact a member of the technical operations team.
 
-*Changes to this page must be approved by a member of the Senior Leadership Team.*
+*Changes to this page must be approved by a Director.*
