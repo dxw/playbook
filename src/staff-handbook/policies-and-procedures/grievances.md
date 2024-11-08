@@ -70,4 +70,4 @@ After the meeting, the Director who heard your appeal will give you a decision, 
 
 Grievances are often sensitive and difficult situations for everyone involved. It is important to protect the people involved in the process that everything relating to the grievance, including any meetings or correspondence, is kept confidential. We will only share information that is necessary to be shared in order to progress the grievance, and only with those directly involved or affected. For example, if your grievance is about someone else, then we will share the details of the grievance with them. We will always make you aware of what information we are planning to share and with whom. This also means that you must not talk about proceedings with anyone else at work other than those assigned to deal with your grievance and your chosen colleague or union representative.
 
-*Changes to this page must be approved by a member of the Operational Leadership Team.*
+*Changes to this page must be approved by a Director.*
