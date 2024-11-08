@@ -209,4 +209,4 @@ about discrimination. However, making a false allegation, deliberately and in
 bad faith, will be treated as misconduct and dealt with under our Disciplinary
 Procedure.
 
-*Changes to this page must be approved by a member of the Senior Leadership Team.*
+*Changes to this page must be approved by a Director.*
