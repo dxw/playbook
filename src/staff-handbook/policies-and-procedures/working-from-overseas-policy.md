@@ -35,4 +35,4 @@ associated with their working overseas.
 dxw will always retain the right to ask you to return to the UK for work with
 suitable notice, in line with our employment contract.
 
-*Changes to this page must be approved by a member of the Operational Leadership Team.*
+*Changes to this page must be approved by a Director.*
