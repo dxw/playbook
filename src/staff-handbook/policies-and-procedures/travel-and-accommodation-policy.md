@@ -29,4 +29,4 @@ Accommodation should be booked by the individual on a Pleo company debit card or
 
 Any decision that this policy does not clearly resolve, should be made by the appropriate director.
 
-*Changes to this page must be approved by a member of the Operational Leadership Team.*
+*Changes to this page must be approved by a Director.*
