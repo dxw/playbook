@@ -12,8 +12,6 @@ Maintaining regular and open communication with your line manager can provide a 
 
 This procedure applies to all employees and not to contractors or clients. If you wish to raise something that involves a contractor or client then you should speak to your line manager initially.
 
-
-
 ## Dealing with grievances informally
 
 When deciding to raise a grievance, it is recommended that you do so in an informal manner first. It might be possible to come to a satisfactory resolution without needing to follow formal proceedings, which can often be stressful and prolonged for all involved.   
@@ -26,8 +24,6 @@ After raising an issue informally, your line manager may suggest a meeting with 
 
 If you are satisfied with the outcome, then the matter can be closed. Your manager may follow up, in writing, with a summary of your complaint and any agreed actions. However, if you feel your grievance has not been fully resolved, then you can still raise a formal grievance. 
 
-
-
 ## Raising a formal grievance
 
 If the matter feels more serious, or you have attempted to resolve the issue informally, but aren’t satisfied with the outcome, then you may wish to raise your grievance formally. 
@@ -35,8 +31,6 @@ If the matter feels more serious, or you have attempted to resolve the issue inf
 You should put the details of your grievance in writing and share this with your line manager in a timely manner. Your line manager will then share this with the People team. You should clearly state what your grievance is and how the situation has affected you. You should also clarify what action has been taken so far to try and resolve the grievance and your desired outcomes. You should keep to the facts, provide any evidence and avoid language that may be insulting or abusive.
 
 If your grievance concerns your manager and you feel unable to approach them, you should raise it with your Head of Department/Discipline, Director or the People team. 
-
-
 
 ## Grievance meeting
 
@@ -48,15 +42,11 @@ A member of the People team will also be present to support the process, possibl
 
 During the meeting, you will have the opportunity to discuss the details of your grievance and your desired outcome(s). The person investigating your grievance may also ask some further questions about your complaint to better understand the issue and clarify who is involved. 
 
-
-
 ## Investigation
 
 Following the initial meeting, the person appointed to investigate your grievance will take some time to gather any additional evidence they may need to help them come to a decision. This may include reviewing documents or interviewing people. You will be advised on any further intended investigation prior to this taking place. It may be that you are required to attend another meeting before the investigation concludes if more information is required. 
 
 Investigations will vary in length depending on the situation. You will be kept up to date regularly in terms of timescales.  
-
-
 
 ## Outcome meeting
 
@@ -65,8 +55,6 @@ Once the investigation has concluded, you will receive the outcome of the invest
 If other staff members have been named in your grievance, they may also receive an outcome in writing.
 
 As mentioned above, depending on the nature of the grievance, there may be follow up actions linked to the outcome which need to be completed. The People team can help ensure these actions are closed off and are also available to discuss any additional support you may require after the grievance has concluded.
-
-
 
 ## Appeal
 
@@ -78,12 +66,8 @@ You will be invited to an appeal meeting, usually within 7 calendar days of rece
 
 After the meeting, the Director who heard your appeal will give you a decision, in writing, usually within 7 calendar days. This decision is final.
 
-
-
 ## Confidentiality
 
 Grievances are often sensitive and difficult situations for everyone involved. It is important to protect the people involved in the process that everything relating to the grievance, including any meetings or correspondence, is kept confidential. We will only share information that is necessary to be shared in order to progress the grievance, and only with those directly involved or affected. For example, if your grievance is about someone else, then we will share the details of the grievance with them. We will always make you aware of what information we are planning to share and with whom. This also means that you must not talk about proceedings with anyone else at work other than those assigned to deal with your grievance and your chosen colleague or union representative.
 
-
-
-*Changes to this page must be approved by a member of the Senior Leadership Team.*
+*Changes to this page must be approved by a Director.*
