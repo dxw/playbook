@@ -49,6 +49,4 @@ Phased returns are usually used when you’ve been away from work for a while or
 
 The People team will stay in touch with you during your period of absence, and when you are ready to return, they will organise a meeting to discuss your return to work. This meeting will help decide if you are able to go back to your regular hours or if some adjustments would be better. The People team and your line manager will work together to make sure you get the support you need during this process.
 
-
-
-*Changes to this page must be approved by a member of the Senior Leadership Team.*
+*Changes to this page must be approved by a Director.*
