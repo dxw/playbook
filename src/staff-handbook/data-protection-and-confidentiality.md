@@ -26,13 +26,13 @@ Officer, Gurps.
 
 ## Information security at dxw
 
-Our information security management system (ISMS) is what we use to ensure we look after the data we have access to. We structure and run this system to be compliant with the ISO 27001 standard, to which we are [externally assessed](https://docs.google.com/document/d/1pYX6-VOZtiPOmjiq_wJvRrkQdx0ue8YGshSQO32QAeE/edit?usp=drive_link). Our ISMS team has the responsibility of owning our ISMS and is always evolving and improving it. They do this with the help of our senior leadership team and specialists at URM consulting. Together they help us manage risks to the security of our data. 
+Our information security management system (ISMS) is what we use to ensure we look after the data we have access to. We structure and run this system to be compliant with the ISO 27001 standard, to which we are [externally assessed](https://docs.google.com/document/d/1pYX6-VOZtiPOmjiq_wJvRrkQdx0ue8YGshSQO32QAeE/edit?usp=drive_link). Our ISMS team has the responsibility of owning our ISMS and is always evolving and improving it. They do this with the help of our directors and specialists at URM consulting. Together they help us manage risks to the security of our data. 
 
 If you have any questions about either our ISMS or the safety of our data, talk to the ISMS team.
 
-You can find our Information security policy in the [ISMS manual](https://docs.google.com/document/d/1pYX6-VOZtiPOmjiq_wJvRrkQdx0ue8YGshSQO32QAeE/edit?usp=sharing). (we have two versions of this, this one that is suitable for sharing outside dxw as it has some contact details redacted) 
+You can find our Information security policy and current members of the ISMS team in the [ISMS manual](https://docs.google.com/document/d/1pYX6-VOZtiPOmjiq_wJvRrkQdx0ue8YGshSQO32QAeE/edit?usp=sharing). (we have two versions of this, this one that is suitable for sharing outside dxw as it has some contact details redacted) 
 
-## Document labelling
+## Document labeling
 
 This guidance is supported by the [Documents policy](https://docs.google.com/document/d/1lynCayxE4PyMWXCBIgWcMHSLUIEySuNq1uTNrpC1yxs/edit?usp=sharing), which is available to be viewed by dxw staff.
 
