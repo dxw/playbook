@@ -90,8 +90,8 @@ The owners of each section are:
   [The work we do > Providing technical support](/work-we-do/providing-techical-support/)
 * Wendy Coello -
   [Staff handbook > Talking about what we do](/staff-handbook/talking-about-what-we-do/)
-* Poss Apostolou - [Staff handbook](/staff-handbook/)
-* Coca Rivas - Our professions
+* Adelle Noor - [Staff handbook](/staff-handbook/)
+* Clare Young - Our professions
 
 ### Workflow
 
