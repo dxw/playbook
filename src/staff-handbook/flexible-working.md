@@ -23,7 +23,7 @@ You can request a change to your working pattern once every 6 months and we may 
 
 If you would like to request a change to your working pattern, first speak to your line manager. They will discuss your request, and help you to think about any potential impact on you, the team and your work. They may also speak to your Delivery Lead, Director or the People team to help with this.
 
-Once you’ve decided you would like to progress with a new flexible working pattern, please fill in the [change of working pattern request form](https://forms.gle/qA1BwvQenqtVzShF8) and the People team will review this. If further information on your request is required, the People team may set up a meeting with you and your line manager to discuss this. A decision on your request will be made and communicated to you within 10 working days and you will receive paperwork confirming the changes. We ask for at least 4 weeks' notice for any change to a working pattern.
+Once you’ve decided you would like to progress with a new flexible working pattern, please fill in the [change of working pattern request form](https://forms.gle/qA1BwvQenqtVzShF8) and the People team will review this. If further information on your request is required, the People team may set up a meeting with you and your line manager to discuss this. A decision on your request will be made and communicated to you within 14 calendar days and you will receive paperwork confirming the changes. We ask for at least 4 weeks' notice for any change to a working pattern.
 
 If you are unhappy with the outcome of your request, you have the right to appeal this decision. Appeals should be made in writing to the Head of People within 7 calendar days. You will receive a response to your appeal within 14 calendar days.
 
