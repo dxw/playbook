@@ -6,7 +6,7 @@ last_reviewed_at: ""
 ---
 We have agreed service levels for each client we provide support for. Our standard terms, including prioritisation definitions and response times, are detailed in our Service Level Agreement.
 
-With our default support plan we manage all code, maintenance, updates, and uptime monitoring and provide security event monitoring intended to detect and prevent attacks. Users can also use our helpdesk service to ask for help with their service as outlined in [providing technical support](https://playbook.dxw.com/work-we-do/providing-technical-support/).
+With our default support plan we manage all code, maintenance, updates, and uptime monitoring and provide security event monitoring intended to detect and prevent attacks. Users can also use our helpdesk service to ask for help with their service as outlined in [providing technical support](/work-we-do/providing-techical-support/).
 
 We provide support for clients and users of these services in three ways:
 
