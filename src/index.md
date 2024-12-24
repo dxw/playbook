@@ -15,7 +15,7 @@ done. What’s written here is the way we do things now. Until we find something
 better, and write that down.
 
 This Playbook was originally inspired by
-[Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks,
+[Thoughtbot's excellent playbook](https://thoughtbot.com/playbook). Thanks,
 Thoughtbot!
 
 ## Updating the Playbook
