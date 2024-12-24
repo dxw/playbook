@@ -1,0 +1,14 @@
+name: Check links
+on:
+  workflow_dispatch
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: HTML proofer
+    steps:
+    - uses: actions/checkout@v4
+      name: Check out repository
+    - uses: ruby/setup-ruby@v1
+      name: Setup ruby
+    - run: bundle install
+    - run: script/utils/check-html
