@@ -137,7 +137,7 @@ So our entire face and lips are visible.
 
 Many people benefit from reading captions, not only people who are Deaf/deaf.
 
-Some [neurodivergent people use them](https://mindfulresearch.co.uk/2011/08/29/autistic-spectrum-captions-and-audio-description/). And people for whom English is an additional language can find them helpful.
+Some [neurodivergent people use them](https://sunsurfer.co.uk/autistic-spectrum-captions-and-audio-description/). And people for whom English is an additional language can find them helpful.
 
 ## Making in person research inclusive
 
