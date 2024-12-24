@@ -3,6 +3,8 @@
 @use "./typography";
 
 .contribute {
+  display: none;
+  
   @include breakpoints.on-large-screens {
     position: fixed;
     bottom: 0;
@@ -25,5 +27,5 @@
     }
   }
 
-  display: none;
+  
 }
