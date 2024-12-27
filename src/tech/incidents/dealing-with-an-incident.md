@@ -27,9 +27,11 @@ responsibility of the on-call support person to deal with an incident.
     is a security or data breach
 * Understand, contain, resolve, and monitor the incident
 * Schedule a review meeting
-* Write up a first draft report and circulate it
-* Hold the review meeting
-* Write up the final report
+* Write up a [first draft
+  report](/tech/incidents/writing-up-an-incident/#first-draft) and circulate it
+* Hold the [review meeting](/tech/incidents/reviewing-an-incident)
+* Write up the [final
+  report](/tech/incidents/writing-up-an-incident/#final-version)
 
 ## What is an incident?
 
