@@ -115,7 +115,7 @@ However, there are some things that we must keep private.
   never share any of this data, including contact details. See also:
   [data protection](/staff-handbook/data-protection-and-confidentiality).
 * We are sometimes sent documents that are
-  [protectively marked](/staff-handbook/data-protection-and-confidentiality/#document-labelling),
+  [protectively marked](/staff-handbook/data-protection-and-confidentiality/#document-labeling),
   and we have a scheme of our own. Information in these documents is
   confidential.
 * Information about work that is currently being procured (whether we are

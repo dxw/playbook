@@ -63,7 +63,7 @@ to add, please ask in Slack.
 ## Add the project to the operations documentation
 
 Make sure the client has a document in the
-[operations documentation](https://github.com/ops-docs) repository. It
+[operations documentation](https://github.com/dxw/ops-docs) repository. It
 should include either documentation or (preferably) links to documentation for
 any on-boarding steps needed, and the front line support runbook.
 
