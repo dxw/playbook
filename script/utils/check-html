@@ -23,9 +23,10 @@ IGNORE_HTTP_STATUS="200"
 #   https://github.com/jekyll/jekyll/blob/master/script/proof
 IGNORE_AUTHENTICATED_HREFS=$(ruby -e 'puts %w{
   expenses.xero.com/!wrUP-/detail/create-new/
-  github.com/dxw/govpress-developer-docs
-  github.com/dxw/judiciary-middleware
-  github.com/dxw/mind-side-by-side
+  github.com/dxw
+  docs.google.com
+  linkedin.com
+  git.govpress.com
 }.map{ |url| "/#{url}/" }.join(",")')
 
 IGNORE_ANY_OTHER_FALSE_POSITIVE_HREFS=$(ruby -e 'puts %w{
