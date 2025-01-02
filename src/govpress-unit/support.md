@@ -140,7 +140,7 @@ find the highest id in the current user data bags, you can run:
 grep uid *.json | cut -d \" -f 4 | sort | tail -1
 ```
 
-From the `data_bags/users` directory in the [Chef repository](https://git.govpress.com/ops/chef-repo).
+From the `data_bags/users` directory in the [Chef repository](https://github.com/dxw/chef).
 
 ### Software to install
 
