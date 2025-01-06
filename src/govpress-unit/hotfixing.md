@@ -24,7 +24,7 @@ Sometimes we start a long-running piece of development work, for example a redes
 
 In this case, we should first consider factoring our code to avoid hotfixes. For example, can new features be designed as a new plugin, which can be deactivated by default? Can a theme rebuild be placed in a new theme?
 
-An alternative to a new plugin or theme is to guard the new feature with a feature flag which can be set to activate the feature in staging but not in production. This is something that is much easier to implement if your code is well factored, according to the [SOLID principles of OOP](https://en.wikipedia.org/wiki/SOLID).
+An alternative to a new plugin or theme is to guard the new feature with a [feature flag](https://blog.jetbrains.com/space/2022/06/16/feature-flags/) which can be set to activate the feature in staging but not in production. This is something that is much easier to implement if your code is well factored, according to the [SOLID principles of OOP](https://en.wikipedia.org/wiki/SOLID).
 
 We usually implement feature flags as a environment variables. If you are not sure how to use environment variables in our PAAS please ask a Tech Lead or Ops Engineer.
 
