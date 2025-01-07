@@ -23,7 +23,7 @@ We value your contributions to dxw, and experiences during your time with us. Th
 
 The information you share through this form will be used to guide future decision making and will be shared within the People team. The People team will then feed this back to the Senior Leadership Team on a regular basis as anonymous feedback.
 
-You can choose whether you would like to drop off your laptop at our Leeds office, or have a collection booked to pick it up from your home address at a time that suits you. The People team will let you know if you are able to buy your laptop. This decision will be based on our [laptop purchasing policy](/staff-handbook/policies-and-procedures/buying-a-laptop-policy/).
+You can choose whether you would like to drop off your laptop at our London office, or have a collection booked to pick it up from your home address at a time that suits you.
 
 ## Your final day
 
