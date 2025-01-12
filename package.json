@@ -22,7 +22,7 @@
     "normalize.css": "8.0.1",
     "standard": "^17.0.0",
     "stylelint": "^16.0.2",
-    "stylelint-config-clean-order": "^6.0.0",
+    "stylelint-config-clean-order": "^7.0.0",
     "stylelint-config-standard-scss": "^14.0.0",
     "stylelint-selector-bem-pattern": "^4.0.0",
     "webpack": "^5.76.0",
