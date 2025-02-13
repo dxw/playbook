@@ -49,6 +49,8 @@ Getting a task ready to the point of code review is not done from the perspectiv
 
 **Diagram & key**
 
+![A diagram showing the difference in time taken and milestone stages across lead time, cycle time, and lead time for changes](/src/assets/images/metrics.webp "Measuring software delivery")
+
 *Lead time: The total time it takes from deciding to do a story, to it being released into production*
 
 *Cycle time: The actual time you and others will spend working on a story, up until it being released into production*
@@ -64,3 +66,41 @@ We are interested in all the different timings for different reasons. Cycle time
 When coming up with your estimate, make sure you’re comfortable with the level of detail on the ticket and the definition of done. As mentioned above, this helps the person reviewing and ensures that what you’ve written actually fulfils the scope. It also helps to reduce the risk that we build the wrong thing - the code may be perfect but if it isn’t what is expected, it’s wasted work. 
 
 If the estimate for a task is bigger than 2 days, you should consider if it could be broken down into smaller tasks. Generally if a task is estimated to take longer than this, the accuracy of the estimate starts to drop quickly. All tasks however should be broken down smaller wherever possible.
+
+**What to do with the numbers**
+
+Once the team has done the estimates, they must be added to the tickets so we can track progress. This can be a useful tool in daily stand ups, where if tickets are progressing at a significantly different pace to the estimate, the team can offer support and the DL/PM can speak to the stakeholders if needed. Tracking the estimates is to help teams better manage their workloads and delivery plans. 
+
+When planning work into a sprint with your estimated tickets, do not commit to 100% of your time! For example if you work a 9 day sprint, that doesn't mean you will be able to complete 9 days worth of tickets. Email, meetings, unplanned work (for example, high priority bug fixes), brain fog, supporting your team - these things all eat into your time, so make sure you factor that into the sprint plan.
+
+**Estimates change - communication is key**
+
+This is not about monitoring people or chasing for speed. We need to be able to be honest with each other about progress. It’s not fair on anyone if just one person in the team doesn’t share an honest progress update about how they’re getting on with their work. This is known as “hope creep”, where you don’t confront the reality of the time you need to get the work done. 
+
+In the event that your task is taking longer than you thought, flag it with someone who can support - ideally in the daily stand up, if not before, so the rest of the team can support. It might be that you’re less experienced with this particular piece of work, or you’ve hit a wall, or you’re just having a tough time getting it done. Someone else on the team might be able to pair, or [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) with you, or suggest a different approach. Someone else might have an idea about how to reduce the complexity. And your DM/PM will need to know if progress is slower than estimated so they can adjust plans accordingly.
+
+**Putting it into practice**
+
+Ultimately good estimation starts with a shared understanding: including everyone's viewpoints, being able to ask questions without fear of judgement, and using these practices to get on the same page as a team.
+
+**Our 5 estimation fundamentals**
+
+1. Ensure Psychological Safety
+
+Foster an environment where team members feel comfortable expressing uncertainties, asking questions, and challenging assumptions. This reduces the risk of over-promising and encourages more confident estimates.
+
+2. Understand the Task Fully
+
+Before estimating, make sure the task is well understood by the team, including any design or technical constraints. Clarify the “definition of done” and ensure everyone is aligned on the ticket’s purpose.
+
+3. Consider Potential Delays and Complexity
+
+Account for dependencies, code complexity, testing requirements, and the entire process from start to deployment when estimating. Don’t rely solely on optimistic initial impressions.
+
+4. Break Down Large Tasks
+
+If a task estimate exceeds 2 days, break it into smaller, more manageable tasks to improve accuracy. Smaller tasks provide better clarity and reduce risk.
+
+5. Track Progress and Communicate Changes
+
+Regularly review estimates and communicate any significant changes in task progress. If estimates are off, inform the team early to adjust plans and offer support.
