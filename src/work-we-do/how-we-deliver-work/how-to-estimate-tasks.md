@@ -18,7 +18,7 @@ People will probably have preferred ways of doing this work, but here’s a sugg
   * User research playbacks
   * Non-functional requirements eg performance, tech debt
   * Bug fixes
-  * Estimates - if the estimate on a feature or task is bugger than the PM had thought, that will feed into their prioritisation efforts 
+  * Estimates - if the estimate on a feature or task is bigger than the PM had thought, that will feed into their prioritisation efforts 
 * Tech lead writes the detail in the ticket with support from delivery lead (DL), product manager and others as needed in a backlog refinement session.
 * We bring those refined tickets to the sprint planning session and review them with the team for discussions, challenges, questions, etc before estimating them
 
