@@ -18,6 +18,7 @@ backend:
   branch: main
   open_authoring: true
 media_folder: src/assets/images
+public_folder: assets/images
 publish_mode: editorial_workflow
 show_preview_links: true
 collection_defaults: &collection_defaults
