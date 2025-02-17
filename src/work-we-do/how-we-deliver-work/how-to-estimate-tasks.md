@@ -49,7 +49,7 @@ Getting a task ready to the point of code review is not done from the perspectiv
 
 **Diagram & key**
 
-![A diagram showing the difference in time taken and milestone stages across lead time, cycle time, and lead time for changes](/src/assets/images/metrics.webp "Measuring software delivery")
+![3 coloured lines of different lengths to visualise the difference between lead time, cycle time, and lead time for changes](/assets/images/metrics.webp "The different metrics of software delivery")
 
 *Lead time: The total time it takes from deciding to do a story, to it being released into production*
 
