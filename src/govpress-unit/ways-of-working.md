@@ -75,4 +75,4 @@ The whole GovPress team comes together for regular catch-ups, including:
 * Weekly social time on Friday mornings
 * Monthly show & tells
 * Monthly developer training sessions
-* Quarterly away days, usually held on-site
+* Away days twice a year, usually held on-site
