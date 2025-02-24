@@ -40,7 +40,7 @@ GEM
       bigdecimal
       rake (>= 13)
     hashery (2.1.2)
-    html-proofer (5.0.9)
+    html-proofer (5.0.10)
       addressable (~> 2.3)
       async (~> 2.1)
       nokogiri (~> 1.13)
@@ -129,7 +129,7 @@ GEM
     unicode-display_width (2.6.0)
     webrick (1.9.1)
     yell (2.2.2)
-    zeitwerk (2.6.13)
+    zeitwerk (2.6.18)
 
 PLATFORMS
   arm64-darwin-21
