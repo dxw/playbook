@@ -72,7 +72,6 @@ There is no expectation that this team works in sprints, or follows Scrum. The c
 The whole GovPress team comes together for regular catch-ups, including:
 
 * Weekly social time on Friday mornings
-* Monthly show & tells
 * Monthly whole-team retrospectives
 * Monthly developer training sessions
 * Away days twice a year, usually held on-site
