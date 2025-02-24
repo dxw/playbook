@@ -62,7 +62,6 @@ There is no expectation that this team works in sprints, or follows Scrum. The c
 
 * Planning happens weekly, on a Tuesday morning, and looks no further than the current week, since we don’t know what work will come through the support desk
 * Ceremonies are usually run by the Delivery Lead
-* The team holds a retrospective at the end of every month
 * Each week the team will work from a Trello board which will be cleared at the end of the week
 * A longer term Trello board holds a larger backlog of stories to be considered for scheduling each week
 * Stand-ups may use both the Trello board and Zendesk views
@@ -73,6 +72,6 @@ There is no expectation that this team works in sprints, or follows Scrum. The c
 The whole GovPress team comes together for regular catch-ups, including:
 
 * Weekly social time on Friday mornings
-* Monthly show & tells
+* Monthly whole-team retrospectives
 * Monthly developer training sessions
-* Quarterly away days, usually held on-site
+* Away days twice a year, usually held on-site
