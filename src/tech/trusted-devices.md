@@ -2,8 +2,6 @@
 title: Trusted devices
 last_reviewed_at: 2025-02-27T00:00:00.000Z
 ---
-# Trusted Devices
-
 At dxw, we need to be sure that the computers on which we do our work are safe and secure. To do this, we have the concept of ‘trusted devices’. Sometimes you will see the phrase ‘bring your own device’ (BYOD), used to mean a trusted device that is your own.
 
 These are computers that have a software configuration that we have decided that we can trust as secure enough for our needs. 
