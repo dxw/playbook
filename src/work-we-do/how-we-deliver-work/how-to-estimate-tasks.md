@@ -49,7 +49,9 @@ Getting a task ready to the point of code review is not done from the perspectiv
 
 **Diagram & key**
 
-![3 coloured lines of different lengths to visualise the difference between lead time, cycle time, and lead time for changes](/assets/images/metrics.webp "The different metrics of software delivery")
+![3 coloured lines of different lengths to visualise the difference between lead time, cycle time, and lead time for changes](/src/assets/images/cycle-time.webp "The different metrics of software delivery")
+
+\[A diagram showing the difference in time taken and milestone stages across lead time, cycle time, and lead time for changes] "Measuring software delivery")
 
 *Lead time: The total time it takes from deciding to do a story, to it being released into production*
 
@@ -85,22 +87,22 @@ Ultimately good estimation starts with a shared understanding: including everyon
 
 **Our 5 estimation fundamentals**
 
-1. Ensure Psychological Safety
+1. \    Ensure Psychological Safety
 
 Foster an environment where team members feel comfortable expressing uncertainties, asking questions, and challenging assumptions. This reduces the risk of over-promising and encourages more confident estimates.
 
-2. Understand the Task Fully
+2. \    Understand the Task Fully
 
 Before estimating, make sure the task is well understood by the team, including any design or technical constraints. Clarify the “definition of done” and ensure everyone is aligned on the ticket’s purpose.
 
-3. Consider Potential Delays and Complexity
+3. \    Consider Potential Delays and Complexity
 
 Account for dependencies, code complexity, testing requirements, and the entire process from start to deployment when estimating. Don’t rely solely on optimistic initial impressions.
 
-4. Break Down Large Tasks
+4. \    Break Down Large Tasks
 
 If a task estimate exceeds 2 days, break it into smaller, more manageable tasks to improve accuracy. Smaller tasks provide better clarity and reduce risk.
 
-5. Track Progress and Communicate Changes
+5. \    Track Progress and Communicate Changes
 
 Regularly review estimates and communicate any significant changes in task progress. If estimates are off, inform the team early to adjust plans and offer support.
