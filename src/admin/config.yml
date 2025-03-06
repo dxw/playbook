@@ -109,6 +109,12 @@ collections:
     folder: src/commercial-ops
 
   - <<: *collection_defaults
+    name: contributing
+    label: Contributing
+    label_singular: Contributing
+    folder: src/contributing
+
+  - <<: *collection_defaults
     name: delivery-management
     label: Delivery Management
     label_singular: Delivery Management page
