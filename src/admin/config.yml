@@ -111,7 +111,7 @@ collections:
   - <<: *collection_defaults
     name: contributing
     label: Contributing
-    label_singular: Contributing
+    label_singular: Contributing page
     folder: src/contributing
 
   - <<: *collection_defaults
