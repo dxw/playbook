@@ -2,10 +2,8 @@
 title: Managing the Playbook
 redirect_from:
   - /guides/managing
-last_reviewed_at: ""
+last_reviewed_at: 2025-03-06T00:00:00.000Z
 ---
-**Needs review**
-
 This is the content strategy for dxw Playbook.
 
 It describes the purpose and users of the Playbook, the kinds of material it
@@ -83,15 +81,15 @@ The owner is responsible for making sure that their parts of the Playbook:
 
 The owners of each section are:
 
-* David Mann - [About us](/about-us/)
+* Wendy Coello - [About us](/about-us/)
 * Alex Jackson - [The work we do > Finding the right projects](/work-we-do/finding-the-right-projects/)
-* Clare Young - [The work we do > Building services](/work-we-do/how-we-deliver-work/)
+* Alex Yedigaroff - [The work we do > Building services](/work-we-do/how-we-deliver-work/)
 * Alex Jackson -
   [The work we do > Providing technical support](/work-we-do/providing-techical-support/)
 * Wendy Coello -
   [Staff handbook > Talking about what we do](/staff-handbook/talking-about-what-we-do/)
 * Adelle Noor - [Staff handbook](/staff-handbook/)
-* Clare Young - Our professions
+* Alex Yedigaroff - Our professions
 
 ### Workflow
 
@@ -110,7 +108,7 @@ For more significant additions and changes to the Playbook, the steps are:
 ### Review
 
 The owner of each section of the Playbook should lead a review of the sections
-they own at least every quarter.
+they own at least every year. The ISMS Team review the whole playbook every six months.
 
 To help facilitate regular review, we should aim for Playbook content to include
 last updated and last reviewed dates.
