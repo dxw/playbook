@@ -1,7 +1,7 @@
 ---
 title: Attending, hosting and speaking at events
 related_order: 4
-last_reviewed_at: ""
+last_reviewed_at: 2025-03-10T00:00:00.000Z
 ---
 ## Attending events
 
