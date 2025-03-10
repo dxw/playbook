@@ -1,9 +1,8 @@
 ---
 title: Attending, hosting and speaking at events
 related_order: 4
-last_reviewed_at: ""
+last_reviewed_at: 2025-03-10T00:00:00.000Z
 ---
-
 ## Attending events
 
 We all go to work-related events and conferences, sometimes for work and
@@ -47,6 +46,8 @@ Introduce the company in full and what your role is.
 It takes time to prepare talks that work well. If you need help or advice please
 ask for it in the [\#dxw-marketing](https://dxw.slack.com/archives/C0K5DRKU6)
 channel on Slack.
+
+dxw doesn’t have many secrets, but some of our customers do. You should be mindful of information security when planning a talk, and remember this also applies when chatting at a conference or sharing with your peers from outside dxw. Be careful that a good anecdote doesn’t breach security.
 
 It’s also good to blog after the event, to share the content or to talk about
 your experience and what you learned.
