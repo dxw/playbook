@@ -18,7 +18,7 @@
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/preset-env": "^7.20.2",
-    "babel-loader": "^9.1.2",
+    "babel-loader": "^10.0.0",
     "normalize.css": "8.0.1",
     "standard": "^17.0.0",
     "stylelint": "^16.0.2",
