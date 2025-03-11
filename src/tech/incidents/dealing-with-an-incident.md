@@ -3,7 +3,7 @@ title: Dealing with an incident
 redirect_from:
   - /guides/dealing-with-an-incident
   - /tech/dealing-with-an-incident
-last_reviewed_at: ""
+last_reviewed_at: 2025-03-11T00:00:00.000Z
 ---
 ## Introduction
 
