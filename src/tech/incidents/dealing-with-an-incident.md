@@ -23,8 +23,9 @@ responsibility of the on-call support person to deal with an incident.
 
   * If critical check that the incident has been announced in #general
   * Appoint a client comms manager if clients are affected
-  * Inform the Technical Director, Head of Technical Operations, and DPO if there
-    is a security or data breach
+  * Inform the Head of Technical Operations, the Data Protection Officer, and
+    the Information Security Manager if there is a security or data breach.
+    Contact a director if you cannot reach any of the above
 * Understand, contain, resolve, and monitor the incident
 * Schedule a review meeting
 * Write up a [first draft
@@ -206,9 +207,9 @@ Both of these positions can be exhausting and if you are at it for a long time
 you are likely to make mistakes, so if the incident runs for more than a couple
 of hours then new people should step into these roles.
 
-If the incident is critical, then you should let the Technical Director (James)
-, the Head of Technical Operations (bob), the Information Security Manager (bob) know,
-as well as our Data Protection Officer (Gurps) if it is a security incident.
+If the incident is critical, then you should let the Head of Technical
+Operations (bob) and the Information Security Manager (Neil) know, as well as
+our Data Protection Officer (Gurps) if it is a security incident.
 If you can’t get hold of these people, post in #general and tell the most senior
 people you can find.
 
@@ -303,4 +304,3 @@ You should schedule an incident review meeting for about a week later and assign
 someone the task of drafting the incident report over the next few days. You
 should ensure that this person has enough time to complete a draft in time to
 circulate a few days in advance of the incident review.
-
