@@ -87,20 +87,20 @@ Ultimately good estimation starts with a shared understanding: including everyon
 
 1. Ensure psychological safety
 
-Foster an environment where team members feel comfortable expressing uncertainties, asking questions, and challenging assumptions. This reduces the risk of over-promising and encourages more confident estimates.
+   Foster an environment where team members feel comfortable expressing uncertainties, asking questions, and challenging assumptions. This reduces the risk of over-promising and encourages more confident estimates.
 
 2. Understand the task fully
 
-Before estimating, make sure the task is well understood by the team, including any design or technical constraints. Clarify the “definition of done” and ensure everyone is aligned on the ticket’s purpose.
+   Before estimating, make sure the task is well understood by the team, including any design or technical constraints. Clarify the “definition of done” and ensure everyone is aligned on the ticket’s purpose.
 
 3. Consider potential delays and complexity
 
-Account for dependencies, code complexity, testing requirements, and the entire process from start to deployment when estimating. Don’t rely solely on optimistic initial impressions.
+   Account for dependencies, code complexity, testing requirements, and the entire process from start to deployment when estimating. Don’t rely solely on optimistic initial impressions.
 
 4. Break down large tasks
 
-If a task estimate exceeds 2 days, break it into smaller, more manageable tasks to improve accuracy. Smaller tasks provide better clarity and reduce risk.
+   If a task estimate exceeds 2 days, break it into smaller, more manageable tasks to improve accuracy. Smaller tasks provide better clarity and reduce risk.
 
 5. Track progress and communicate changes
 
-Regularly review estimates and communicate any significant changes in task progress. If estimates are off, inform the team early to adjust plans and offer support.
+   Regularly review estimates and communicate any significant changes in task progress. If estimates are off, inform the team early to adjust plans and offer support.
