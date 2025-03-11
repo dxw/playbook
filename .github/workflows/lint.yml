@@ -13,7 +13,7 @@ jobs:
     - uses: actions/setup-node@v4
       name: Set up Node.js
       with:
-        node-version: 20.10.0
+        node-version: 20.18.3
     - run: |
         npm ci
         npm run lint
