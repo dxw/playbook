@@ -57,7 +57,7 @@ Getting a task ready to the point of code review is not done from the perspectiv
 
 *Lead time for changes: The time it takes from merging the change into production to it being in the hands of users*
 
-**Diagram based on this article about measuring software delivery:** <https://medium.com/gits-apps-insight/dora-metrics-how-to-measure-software-delivery-performance-e890ec2011c0#45d7> 
+The diagram is sourced from [an article about measuring software delivery](https://medium.com/gits-apps-insight/dora-metrics-how-to-measure-software-delivery-performance-e890ec2011c0#45d7).
 
 Typically we would like to estimate the "cycle time". This is because we have less control over when something is prioritised into a sprint and ready to be worked on (first part of overall lead time), and also over how long it takes to get a change into production on client systems (lead time for changes).
 
