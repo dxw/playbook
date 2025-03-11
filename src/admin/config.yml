@@ -165,6 +165,11 @@ collections:
     label: Technology
     label_singular: Technology page
     folder: src/tech
+  - <<: *collection_defaults
+    name: tech__incidents
+    label: Technology > Incidents
+    label_singular: Incidents page
+    folder: src/tech/incidents
 
   - <<: *collection_defaults
     name: user-research
