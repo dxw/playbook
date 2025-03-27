@@ -92,6 +92,11 @@ collections:
     label_singular: Policies and procedures page
     folder: src/staff-handbook/policies-and-procedures
   - <<: *collection_defaults
+    name: staff-handbook__policies-and-procedures__parental-leave
+    label: Staff handbook > Policies and procedures > Parental leave
+    label_singular: Parental leave page
+    folder: src/staff-handbook/policies-and-procedures/parental-leave
+  - <<: *collection_defaults
     name: staff-handbook__supporting-wellbeing
     label: Staff handbook > Supporting wellbeing
     label_singular: Supporting wellbeing page
