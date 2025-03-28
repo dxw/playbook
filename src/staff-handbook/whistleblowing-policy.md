@@ -41,7 +41,7 @@ When reporting a concern in this way, please ensure that you include as much det
 
 Please be aware that when raising a concern anonymously, you will not receive any further communication following the reporting of your concern, as we will be unable to identify you.
 
-When raising a concern where you are not anonymous, please make sure that you cc the [People team](mailto:peopleteam@dxw.com) into any emails to ensure that your concern is recorded, and to ensure the team can support you, and anyone else involved in the process appropriately. You should clearly state what your whistleblowing concern is. You should keep to the facts, provide any evidence and avoid language that may be insulting or abusive.
+When raising a concern where you are not anonymous, please make sure that you copy the [People team](mailto:peopleteam@dxw.com) into any emails to ensure that your concern is recorded, and to ensure the team can support you, and anyone else involved in the process appropriately. You should clearly state what your whistleblowing concern is. You should keep to the facts, provide any evidence and avoid language that may be insulting or abusive.
 
 ## **Investigating your concern**
 
@@ -68,7 +68,5 @@ If it's discovered that you deliberately brought up an issue that you know is fa
 ## **External concerns**
 
 For any external concerns, generally, we advise raising them with your line manager or Director and referring to the client's or government area's own whistleblowing policy. If the external concern involves us directly, i.e. our operations or ethics, then this becomes an internal matter and will need to be raised using the guidance in this policy.
-
-
 
 *Changes to this page must be approved by a Director.*
