@@ -24,18 +24,18 @@ everyone in the team, that’s half days or whole days.
 If you:
 
 - worked the time that was scheduled, simply confirm this time
-- worked on a named project (client or internal including "dxw Support"),
-  that differs from the schedule, record your time as that
-- worked on something else, leave the time blank or zero out what you
-  were scheduled to work on
-- were off sick or on leave, make sure this is recorded on BreatheHR and
-  it should be automatically copied across to Productive
-- were away due to a regular day off, as part of your working pattern,
-  leave the time blank or zero out what you were scheduled to work on
+- worked on a named project (client or internal including "dxw Support"), that
+  differs from the schedule, record your time as that
+- worked on something else, leave the time blank or zero out what you were
+  scheduled to work on
+- were off sick or on leave, make sure this is recorded on BreatheHR and it
+  should be automatically copied across to Productive
+- were away due to a regular day off, as part of your working pattern, leave the
+  time blank or zero out what you were scheduled to work on
 
-We’ve set up Productive, so it understands individual team members’
-working patterns. This means the team don’t need to worry about entering in
-their non working days.
+We’ve set up Productive, so it understands individual team members’ working
+patterns. This means the team don’t need to worry about entering in their non
+working days.
 
 Our delivery leads lend a helping hand when delivery team members aren’t sure
 how to record their time – they’ve been doing this for a long while and have a
@@ -43,10 +43,9 @@ well developed sense for it.
 
 ## If you’re not doing client work
 
-Unless you’re working on one of a handful
-of named internal projects or support, you don’t need to record your time
-against any other piece of work.
+Unless you’re working on one of a handful of named internal projects or support,
+you don’t need to record your time against any other piece of work.
 
-The assumption is you’re doing valuable work,
-whether it’s learning, helping with recruitment or improving our tooling and
-processes, and we don’t need itemised time tracking to justify that.
+The assumption is you’re doing valuable work, whether it’s learning, helping
+with recruitment or improving our tooling and processes, and we don’t need
+itemised time tracking to justify that.
