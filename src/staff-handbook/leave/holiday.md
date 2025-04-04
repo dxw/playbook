@@ -13,7 +13,7 @@ The holiday year at dxw runs between 1st January and 31st December, and you are 
 2. Request your holiday through BreatheHR.We use BreatheHR to track who’s off and when, so we can plan for it. Once you’ve requested holiday, your line manager will review your request.
 3. Once your holiday is approved, add it to your Google calendar as ‘Out of office’.\
    When you are on a client project, you may also need to add your holiday to a shared or team calendar. Please check this with your Delivery Lead.
-4. Set your Slack status to ‘On holiday’.Do this when you finish on your last day before your holiday, and set it to clear when you come back.
+4. Set your Slack status to ‘On holiday’. Do this when you finish on your last day before your holiday, and set it to clear when you come back.
 
 ## Holiday approval
 
