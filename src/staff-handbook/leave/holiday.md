@@ -9,7 +9,7 @@ The holiday year at dxw runs between 1st January and 31st December, and you are 
 
 ## Booking holiday
 
-1. Discuss the dates with your line manager, team and, if you’re in a billable role , your Delivery Lead.This gives them a chance to manage any impact it might have on the wider team and the project.
+1. Discuss the dates with your line manager, team and, if you’re in a billable role, your Delivery Lead. This gives them a chance to manage any impact it might have on the wider team and the project.
 2. Request your holiday through BreatheHR.We use BreatheHR to track who’s off and when, so we can plan for it. Once you’ve requested holiday, your line manager will review your request.
 3. Once your holiday is approved, add it to your Google calendar as ‘Out of office’.\
    When you are on a client project, you may also need to add your holiday to a shared or team calendar. Please check this with your Delivery Lead.
