@@ -1,3 +1,7 @@
 [build]
     command = "npm run build"
-    
+[dev]
+  publish = "_site"
+  [dev.https]
+    certFile = "local/localhost.pem"
+    keyFile = "local/localhost-key.pem"
