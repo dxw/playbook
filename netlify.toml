@@ -5,3 +5,15 @@
   [dev.https]
     certFile = "local/localhost.pem"
     keyFile = "local/localhost-key.pem"
+[[headers]]
+  for = "/*"
+  [headers.values]
+    cache-control = """
+      max-age=0,
+      no-cache,
+      no-store,
+      must-revalidate
+    """
+    strict-transport-security = """
+      max-age=31536000
+    """
