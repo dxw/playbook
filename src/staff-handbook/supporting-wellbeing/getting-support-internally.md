@@ -2,14 +2,12 @@
 title: Getting support internally
 related_order: 1
 last_reviewed_at: ""
---- 
-
+---
 The wellbeing of our teams is very important. So we offer the following to support your health and wellbeing:
 
 * Safe homeworking set-up: if you require any [ergonomic items](/staff-handbook/pay-pension-and-benefits/benefits/home-office-equipment/), additional travel support or an assessment of your home or office working set up ([DSE](https://www.hse.gov.uk/msd/dse/)), you can find support through your line manager and the People team to arrange this.
 * Accessibility information for our shared office spaces can be found [here](/guides/office-accessibility) and please speak to the People team if you’re interested in support with digital accessibility.
-* Wellbeing based courses can be purchased through the [learning and development budget](/staff-handbook/learning-and-development/how-to-use-your-learning-and-development-allowance/), these are a taxable benefit.
-* Other benefits that address health: a healthcare [cash plan](/staff-handbook/pay-pension-and-benefits/benefits/cash-plan/), flu vaccine vouchers offered annually and a [cycle to work scheme](/staff-handbook/pay-pension-and-benefits/benefits/cycle-to-work-scheme/).
+* Other benefits that address health: a healthcare [cash plan](/staff-handbook/pay-pension-and-benefits/benefits/cash-plan/) and a [cycle to work scheme](/staff-handbook/pay-pension-and-benefits/benefits/cycle-to-work-scheme/).
 * Bespoke dxw support paths to seek help and advice: [Slack groups](https://docs.google.com/document/d/1rIHYqFdEWSmjkUyScx-tIpoFrICO1hG7-SDnSLOR3JM/edit), [buddies](#buddies), [helpers](#helpers), [line managers](#your-line-manager) and [People team support](#the-people-team).
 * [Reasonable adjustments](/staff-handbook/policies-and-procedures/inclusion-diversity-equality/#reasonable-adjustments) to support a disability, long-term health conditions and times of change and challenge. (Some changes and challenges may be, pregnancy, caring responsibilities, menopause & hormone therapies, bereavement, mental and physical health diagnosis and ongoing long term conditions).
 * Taking the time you need ([compassionate, sick and annual leave](/staff-handbook/leave/)) - speak to your line manager for more details.
@@ -30,19 +28,15 @@ The People team is a safe place to turn if you need help with your mental health
 
 We provide administrative, wellbeing, learning and development, line manager and professional support and guidance.
 
-We have a Head of People, a HR Manager and administrators to support the HR and Recruitment function - some of whom are Mental Health First Aid trained. We also have an independent HR advisor to provide additional support when needed.
-
 We have a public slack channel for general non-sensitive questions, #help-hr-non-confidential, which is monitored by the team.
 
-We also have a weekly Ask HR slot at 11am on Wednesdays, to provide a regular opportunity to get advice and support. The door is always open though, so you can also always book an ad-hoc slot with the People team to discuss matters you might not feel able to raise with others in your support path, or that are specialist to the HR function in dxw.
+The door is always open, so you can also always book an ad-hoc slot with the People team to discuss matters you might not feel able to raise with others in your support path, or that are specialist to the HR function in dxw.
 
 The list is not exhaustive, but includes:
 
 * accessibility
 * [bereavement](/staff-handbook/leave/compassionate-leave/)
 * contractual matters
-* [diversity and inclusion](/staff-handbook/policies-and-procedures/inclusion-diversity-equality/)
-* [expenses](/staff-handbook/claiming-expenses/)
 * facilitation/scheduling of conversations with Directors/heads-of
 * [grievances](/staff-handbook/policies-and-procedures/grievances/) and [disciplinary matters](/staff-handbook/policies-and-procedures/disciplinary-procedure/)
 * [holiday](/staff-handbook/leave/holiday/)
@@ -88,13 +82,13 @@ or speak to the People team.
 
 ### Buddies
 
-Once you have passed your 4 month probation, we would like you to choose a buddy within the company to support you.
+Once you have passed your 4 month probation, you have the option to choose a buddy within the company to support you.
 
 We recommend this person doesn’t work directly with you, someone in a different role and that you don’t work closely with on projects, as this will give you a second point of view and a whole new set of experiences to draw on.
 
-This is not mandatory, just recommended and similarly not everyone may wish to be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t have to be. Also, if you feel that a change of buddy would benefit you for whatever reason or that you’re no longer able to be a buddy, this should also not be an awkward situation. If you have any concerns, have a chat with the People Manager.
+This is not mandatory, and not everyone may wish to be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t have to be. Also, if you feel that a change of buddy would benefit you for whatever reason or that you’re no longer able to be a buddy, this should also not be an awkward situation. If you have any concerns, have a chat with the People team.
 
-The buddy system is there to help us all improve, to make sure we’re doing the right kind of work and to check that we’re dealing with practical problems we’re facing. It’s not line management, so it’s not the right place to talk about holiday, salary, sickness, absence or anything disciplinary. If you need to talk about those things, talk to the People Manager.
+The buddy system is there to help us all improve, to make sure we’re doing the right kind of work and to check that we’re dealing with practical problems we’re facing. It’s not line management, so it’s not the right place to talk about holiday, salary, sickness, absence or anything disciplinary. If you need to talk about those things, talk to the People team.
 
 If you want to know more about how the buddy system works, how often to meet and suggested discussion topics, see the buddy [crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing). This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet up.
 
@@ -114,9 +108,9 @@ At dxw, all doors are open if you need to raise a concern or just have a chat - 
 
 We encourage everyone at dxw to be open about their identities and the challenges they experience at work, but sometimes we want to only talk to people whose experiences more closely resemble our own. To enable that, we have created a number of private channels:
 
-* #identity-lgbtqia-plus and #identity-lgbtqia-plus-workers (contact a member of @identity-lgbtqia-plus-admins to join)
-* #identity-neurodivergent-everyone and #identity-neurodivergent-non-management (contact a member of @identity-neurodivergent-admins to join)
-* #identity-spoonies (contact a member of @identity-spoonies-admins to join)
+* \#identity-lgbtqia-plus and #identity-lgbtqia-plus-workers (contact a member of @identity-lgbtqia-plus-admins to join)
+* \#identity-neurodivergent-everyone and #identity-neurodivergent-non-management (contact a member of @identity-neurodivergent-admins to join)
+* \#identity-spoonies (contact a member of @identity-spoonies-admins to join)
 
 Anyone can create a new one by creating the private channel, creating a user group with at least one volunteer (or asking a Slack admin to do it for you), and adding it to this list. It’s probably a good idea to share that you’ve created it in #general.
 
