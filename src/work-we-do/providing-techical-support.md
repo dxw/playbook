@@ -5,7 +5,6 @@ redirect_from:
 related_order: 3
 last_reviewed_at: ""
 ---
-
 The technology team supports some of our client services. These are live services, usually (but not always) built by dxw, for which we provide ongoing support with hosting, maintenance, or bug fixes. We split our support into 2 units: [GovPress](/govpress-unit/support/) and Delivery+.
 
 ## Support helpdesk
@@ -16,11 +15,11 @@ For both units we use [Zendesk](https://dxw.zendesk.com/) to manage support requ
 * have a record of the changes we’re asked to make
 * ensure that we only accept change requests from people who are authorised to make them
 
-If a client asks us to do something via any other channel, we ask them to email the request to <support@dxw.com>, which opens a ticket in Zendesk, or opens a ticket directly.
+If a client asks us to do something via any other channel, we ask them to email the request to [support@dxw.com](mailto:support@dxw.com), which opens a ticket in Zendesk, or opens a ticket directly.
 
 ## Who delivers client support?
 
-Support tickets are handled by dedicated support developers from GovPress and Delivery+, or by nominated substitute developers in their absence. These support developers respond to, organise, and prioritise tickets. They will also deal with the bulk of the implementation work, pulling in other developers as needed. Some tickets are also handled by members of the Ops team.
+Support tickets are handled by dedicated support developers from GovPress and Delivery+, or by nominated substitute developers in their absence. These support developers respond to, organise, and prioritise tickets. They will also deal with the bulk of the implementation work, pulling in other developers as needed. Some tickets are also handled by members of the platform engineering team.
 
 Out of hours support for projects is handled on a rota basis, please see the [support and on call guide](/tech/support-and-on-call/) for more information.
 
