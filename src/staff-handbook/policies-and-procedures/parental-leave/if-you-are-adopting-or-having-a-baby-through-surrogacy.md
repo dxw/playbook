@@ -1,5 +1,5 @@
 ---
-title: If you’re adopting or having a baby through surrogacy
+title: If you are adopting or having a baby through surrogacy
 last_reviewed_at: ""
 ---
 ## What dxw offers
