@@ -1,6 +1,8 @@
 ---
 title: Parental leave policy
 related_order: 4
+redirect_from:
+  - /staff-handbook/policies-and-procedures/parental-leave-policy
 last_reviewed_at: ""
 ---
 We’re aware that there is a lot to take in here - please come and talk to the
