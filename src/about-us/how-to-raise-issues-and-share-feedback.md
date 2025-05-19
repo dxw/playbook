@@ -1,8 +1,7 @@
 ---
 title: How to raise issues and share feedback
-last_reviewed_at: 2024-12-05T00:00:00.000Z
+last_reviewed_at: 2025-05-16T08:20:45.683Z
 ---
-
 ## How we share information about the company
 
 As a co-owner (staff member) at dxw you can expect the company to share information on a regular basis about its aims, priorities, challenges and progress. Being employee owned means dxw is more open about the information it shares than most other organisations.
@@ -99,7 +98,7 @@ You can ask questions of the Directors yourself, or via others, at dxw monthly c
 
 This is where there is the most likely potential overlap with the ‘owner feedback' raised via the Trustees. There are no hard and fast right answers here. You can raise things with both the Directors and Trustees if that makes sense. If you are uncomfortable going to Directors about a particular issue, approaching Trustees might be a good alternative.
 
-#### Policies
+#### Related policy and procedure
 
 We hope that most specific issues can be resolved informally via the routes outlined above. But it's important that staff feel supported and safe if they need to raise issues more formally. There are 2 main procedures you can use to do that:
 
