@@ -1,6 +1,6 @@
 ---
 title: Flexible holiday scheme
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 We are currently offering a flexible holiday scheme that allows you to “buy” or “sell” the equivalent of one extra week of holiday each year. This scheme provides more flexibility and control when it comes to using your holiday allowance and aims to help you find a balance between work and your personal commitments in a way that works for you.
 

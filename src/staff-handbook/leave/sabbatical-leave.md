@@ -1,6 +1,6 @@
 ---
 title: Sabbatical leave
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 We understand there may be times when you would like to take extended periods of leave away from work to pursue other interests. This could be for reasons including, spending time with family, travelling, studying, or doing voluntary/community work.
 

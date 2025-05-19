@@ -1,7 +1,7 @@
 ---
 title: Sales and marketing at dxw
 related_order: 10
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 The sales team’s overall goal is to generate a pipeline of new work that’s on mission and provides work for our people. We work with D+, [GovPress](/govpress-unit/) and [Neontribe](https://www.neontribe.co.uk/).
 

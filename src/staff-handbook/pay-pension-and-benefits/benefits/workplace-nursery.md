@@ -1,6 +1,6 @@
 ---
 title: Workplace nursery
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 Our workplace nursery scheme is available once you’ve passed probation, and allows you to save tax and National Insurance on nursery fees from birth up to the age of 5 (or when your child goes to school). dxw will pay your monthly nursery fees directly to your nursery and deduct the equivalent amount from your gross salary.
 

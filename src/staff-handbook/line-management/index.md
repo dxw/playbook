@@ -1,7 +1,7 @@
 ---
 title: Line management
 related_order: 12
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 Line management at dxw is not about hierarchy, it’s about providing professional

@@ -1,7 +1,7 @@
 ---
 title: Diversity and inclusion statement
 related_order: 4
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 At dxw, we value people and want them to feel free to be themselves.

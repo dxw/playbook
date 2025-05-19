@@ -1,6 +1,6 @@
 ---
 title: Employee assistance programme
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 Our employee assistance programme (EAP) is provided as part of our cash plan benefit and gives you instant access to expert information and advice on a wide range of issues through a 24-hour telephone confidential advice service.
 

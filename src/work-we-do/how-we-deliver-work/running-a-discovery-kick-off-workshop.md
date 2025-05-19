@@ -4,7 +4,7 @@ related order: 6
 redirect_from:
   - /guides/running-a-discover-kick-off-workshop
   - /work-we-do/building-services/running-a-discovery-kick-off-workshop
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 This guide explains how we run a kick-off workshop for a discovery project at
 dxw digital.

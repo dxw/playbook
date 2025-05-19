@@ -2,7 +2,7 @@
 title: Technology team promotion process
 redirect_from:
   - /guides/tech-team-promotion-process
-last_reviewed_at: 2023-10-30T16:06:35.454Z
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 In this document ‘Head of Discipline’ means Head of Technical Operations if you are an ops engineer, or Head of Development if you are a developer.
 

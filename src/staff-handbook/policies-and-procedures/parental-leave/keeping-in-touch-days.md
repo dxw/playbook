@@ -1,6 +1,6 @@
 ---
 title: Keeping in touch (KIT) days
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 For pregnancy, adoption and surrogacy, the primary carer has 10 paid KIT days to take during their parental leave, if they wish to come in for departmental meetings, events or just to spend some time with the team.
 

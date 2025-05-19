@@ -1,7 +1,7 @@
 ---
 title: Compassionate leave
 related_order: 4
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 The need for compassionate leave is likely to affect many of us at some time or other, in many different ways. Typically compassionate leave covers things like bereavement, or the sudden illness of close relatives and friends. But we understand that loss can manifest itself in other forms which can affect your wellbeing.
 

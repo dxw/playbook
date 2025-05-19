@@ -1,6 +1,6 @@
 ---
 title: Home office equipment
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 We provide a MacBook and home office setup budget from day 1 of your employment with us.
 

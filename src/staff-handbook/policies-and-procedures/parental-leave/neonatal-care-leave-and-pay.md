@@ -1,6 +1,6 @@
 ---
 title: Neonatal care leave and pay
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 Neonatal care leave is available to parents of babies who are admitted into neonatal care up to 28 days old, and who have a continuous stay in hospital of 7 full days or longer.
 

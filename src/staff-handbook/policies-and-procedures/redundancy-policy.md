@@ -3,7 +3,7 @@ title: Redundancy procedure
 related_order: 8
 redirect_from:
   - /working-here/redundancy-policy
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 We are committed to avoiding redundancies where possible and aim to create stability for employees by keeping our sales pipeline healthy and planning our growth carefully.
 

@@ -1,6 +1,6 @@
 ---
 title: Cash plan
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 Our cash plan benefit helps cover the cost of everyday healthcare by allowing you to claim back expenses such as;
 

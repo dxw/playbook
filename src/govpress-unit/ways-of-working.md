@@ -1,6 +1,6 @@
 ---
 title: Ways of working
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 The GovPress business unit works flexibly, depending on the needs of our clients. We are organised into a number of teams, which work on client projects and work paid for on retainer.

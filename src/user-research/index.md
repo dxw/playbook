@@ -1,7 +1,7 @@
 ---
 title: User research at dxw
 related_order: 7
-last_reviewed_at: 2024-02-06T16:09:35.311Z
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 At dxw, we believe in [starting with people and their needs](/about-us/our-mission-values-and-principles/#start-with-people-and-their-needs). User researchers help multidisciplinary teams learn about the different people who will use, and be affected by, a service. What we aim to learn may vary greatly across different projects, but we usually look to uncover users’ needs, motivations and barriers.

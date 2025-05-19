@@ -4,7 +4,7 @@ redirect_from:
   - /guides/inclusion-diversity-equality
   - /working-here/inclusion-diversity-equality
 related_order: 5
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 ## Equal opportunities statement
 

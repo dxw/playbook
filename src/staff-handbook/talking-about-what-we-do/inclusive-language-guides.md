@@ -1,7 +1,7 @@
 ---
 title: Inclusive language guides
 related_order: 0
-last_reviewed_at: 2024-07-23T09:51:49.058Z
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 Inclusive language is important when we’re describing groups of people. For example, particular groups of people we’re researching with or designing for.
 

@@ -1,6 +1,6 @@
 ---
 title: Shared parental leave
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 If you’re having a baby, adopting a child, or having a baby through surrogacy, you may be eligible for Shared Parental Leave and Pay. There are a lot of factors to eligibility, please refer to the [government site](https://www.gov.uk/shared-parental-leave-and-pay) to review your particular circumstances.
 

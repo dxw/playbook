@@ -1,7 +1,7 @@
 ---
 title: Social media platforms we use
 related_order: 5
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 The marketing team run dxw’s official social media accounts, which are currently on [Linkedin](https://uk.linkedin.com/company/dxw), [Bluesky](https://bsky.app/profile/did:plc:nuthqzyo733a4nuyw3cteisd) and Threads.

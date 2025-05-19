@@ -2,7 +2,7 @@
 title: Design career progression framework
 redirect_from:
   - /guides/design-career-progression-framework
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 ## Why do we have a career progression framework?
 

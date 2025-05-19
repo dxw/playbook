@@ -1,6 +1,6 @@
 ---
 title: Writing up an incident
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 *This guide is for the person responsible for investigating and writing up the
 incident. This will not necessarily be the incident lead who responded to the

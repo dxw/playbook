@@ -1,7 +1,7 @@
 ---
 title: dxw time
 related_order: 11
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 dxw time is what we call the time that our staff spend working on things other than on client work. We expect this will be approx 10% of the hours someone billable works whether you are full-time or part-time.
 

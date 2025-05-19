@@ -3,7 +3,7 @@ title: How we do user research
 redirect_from:
   - /guides/how-we-do-user-research
 related_order: 20
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 We have a set of guides that explain how we do user research at dxw.
 

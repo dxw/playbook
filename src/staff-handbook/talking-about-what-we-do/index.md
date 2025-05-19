@@ -3,7 +3,7 @@ title: Talking about what we do
 redirect_from:
   - /work-we-do/sharing-expertise
 related_order: 10
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 We blog, write case studies, speak at events and use social media to let people know about:

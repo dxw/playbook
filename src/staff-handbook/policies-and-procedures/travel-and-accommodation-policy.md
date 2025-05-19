@@ -1,7 +1,7 @@
 ---
 title: Travel and accommodation policy
 related_order: 3
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 We are a remote first organisation which means the default position for everyone in the organisation is to work from home.
 

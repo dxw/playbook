@@ -1,7 +1,7 @@
 ---
 title: Commercial operations at dxw
 related_order: 4
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 We facilitate dxw’s commerce, contracting processes, and prioritise salability, profitability and success. This allows dxw to continue its social mission.

@@ -3,7 +3,7 @@ title: Data protection and confidentiality
 related_order: 17
 redirect_from:
   - /working-here/data-protection-and-confidentiality
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 At dxw we have an [information security management system](https://docs.google.com/document/d/1ccBz3KEgEFZqHyfD2wa28LDj1IpIlxWJLXJMSG_-1xo/edit?usp=drive_link) that helps us to look after all the information we control. It instructs and guides us all in how we keep data safe for ourselves and our clients.
 

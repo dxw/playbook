@@ -4,7 +4,7 @@ related_order: 7
 redirect_from:
   - /guides/claiming-expenses
   - /working-here/getting-things-you-need/claiming-expenses
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 From time to time, some of us spend our own money at work. Most often, this is for things like:

@@ -2,7 +2,7 @@
 title: Wrapping up a project
 redirect_from:
   - /guides/wrapping-up-a-project
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 ## Why is this important?
 

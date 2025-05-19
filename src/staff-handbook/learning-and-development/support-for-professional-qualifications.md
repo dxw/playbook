@@ -1,7 +1,7 @@
 ---
 title: Support for professional qualifications
 related_order: 2
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 We may pay for a qualification or training that exceeds the [annual £1,000 individual learning and development allowance](/staff-handbook/learning-and-development/how-to-use-your-learning-and-development-allowance/), when that course is relevant and

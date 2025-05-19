@@ -1,6 +1,6 @@
 ---
 title: Development plans - Junior developers
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 ## High level principles and goals

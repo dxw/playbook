@@ -1,7 +1,7 @@
 ---
 title: Jury service leave
 related_order: 5
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 If you receive a jury summons letter, please let the People team know as soon as you can and provide them with a digital copy of your jury summons. You should also let your line manager and delivery lead know when your jury service is expected to start.
 

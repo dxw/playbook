@@ -1,6 +1,6 @@
 ---
 title: How to raise issues and share feedback
-last_reviewed_at: 2025-05-16T08:20:45.683Z
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 ## How we share information about the company
 

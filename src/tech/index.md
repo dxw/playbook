@@ -1,7 +1,7 @@
 ---
 title: Technology at dxw
 related_order: 11
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 The technology team is made up of 3 disciplines:

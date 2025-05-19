@@ -4,7 +4,7 @@ redirect_from:
   - /design/service-design-at-dxw
   - /guides/service-design-at-dxw
 related_order: 2
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 This is an outline of how we approach Service Design at dxw. Service Design can

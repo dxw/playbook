@@ -1,7 +1,7 @@
 ---
 title: Sales and marketing team principles
 related_order: 2
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 The sales and marketing teams at dxw follow these principles:

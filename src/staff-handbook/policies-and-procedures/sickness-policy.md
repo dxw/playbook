@@ -1,7 +1,7 @@
 ---
 title: Sickness
 related_order: 2
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 The health and well-being of our staff is a priority. This section of the Playbook covers how short and longer-term sickness absences are managed and supported.
 
