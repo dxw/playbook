@@ -2,7 +2,7 @@
 title: Setting up a new project
 redirect_from:
   - /guides/setting-up-a-new-project
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 At dxw we frequently start new projects and work with clients we haven’t worked
 with before. Delivery leads at dxw are responsible for setting up projects and

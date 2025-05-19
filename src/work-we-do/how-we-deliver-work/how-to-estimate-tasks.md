@@ -1,6 +1,6 @@
 ---
 title: How to estimate tasks
-last_reviewed_at: 2025-02-07T00:00:00.000Z
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 ## Creating the right environment for estimation
 

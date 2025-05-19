@@ -2,7 +2,7 @@
 title: Getting a project ready for support
 redirect_from:
   - /guides/getting-a-project-ready-for-support
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 For some projects, once the primary development phase has wrapped up dxw will
 continue to offer support (subject to a support contract). Since we rotate

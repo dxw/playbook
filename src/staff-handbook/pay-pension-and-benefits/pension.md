@@ -1,7 +1,7 @@
 ---
 title: Pension
 related_order: 2
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 dxw provides a pension salary exchange (PSE) scheme which is operated by Aviva. In a PSE scheme, contributions are deducted from your gross salary, resulting in a saving on tax and National Insurance contributions (NICs). 
 

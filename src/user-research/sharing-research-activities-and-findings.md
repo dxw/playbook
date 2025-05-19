@@ -1,7 +1,7 @@
 ---
 title: Sharing research activities and findings
 related_order: 240
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 We regularly share descriptions of research activities and findings in show and
 tells, reports and other places.

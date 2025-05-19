@@ -1,7 +1,7 @@
 ---
 title: Leadership at dxw
 related_order: 8
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 At dxw, we believe that great teams need great leaders.

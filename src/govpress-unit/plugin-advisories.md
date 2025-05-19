@@ -2,7 +2,7 @@
 title: GovPress plugin advisories
 redirect_from:
   - /guides/plugin-advisories
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 ## Workflow
 

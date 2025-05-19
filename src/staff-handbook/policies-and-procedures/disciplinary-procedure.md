@@ -1,6 +1,6 @@
 ---
 title: Disciplinary procedure
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 ## The process

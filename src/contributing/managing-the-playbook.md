@@ -2,7 +2,7 @@
 title: Managing the Playbook
 redirect_from:
   - /guides/managing
-last_reviewed_at: 2025-03-06T00:00:00.000Z
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 This is the content strategy for dxw Playbook.
 

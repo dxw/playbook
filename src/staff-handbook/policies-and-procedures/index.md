@@ -1,7 +1,7 @@
 ---
 title: Policies and procedures
 related_order: 5
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 All Information Security Management System (ISMS) policies can be found in the shared ISMS folder in Google Drive.

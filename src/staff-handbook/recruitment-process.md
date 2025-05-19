@@ -3,7 +3,7 @@ title: Recruitment process
 related_order: 16
 redirect_from:
   - /working-here/hiring-new-people
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 ## Making a plan for hiring

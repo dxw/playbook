@@ -1,7 +1,7 @@
 ---
 title: Naming and identifying research documents
 related_order: 40
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 It’s important that team members and stakeholders know they have the right
 research plan, discussion guide or other research document.

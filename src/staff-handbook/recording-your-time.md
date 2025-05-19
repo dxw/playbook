@@ -3,7 +3,7 @@ title: Recording your time
 related_order: 15
 redirect_from:
   - /working-here/recording-your-time
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 Everyone who works at dxw is responsible for recording their time. We usually
 work with our clients on a

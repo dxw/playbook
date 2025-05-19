@@ -1,6 +1,6 @@
 ---
 title: If you are pregnant
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 A person giving birth must take at least the first 2 weeks after the birth as parental leave.
 

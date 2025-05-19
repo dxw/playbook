@@ -4,7 +4,7 @@ related order: 5
 redirect_from:
   - /guides/agile-delivery-phases
   - /work-we-do/building-services/agile-delivery-phases
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 In 2011, the UK government established the Government Digital Service (GDS) to
 implement the ‘Digital by Default’ strategy proposed by Martha Lane Fox. GDS and

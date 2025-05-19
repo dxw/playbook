@@ -1,7 +1,7 @@
 ---
 title: Leaving dxw
 related_order: 19
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 This guide explains what you can expect, and the actions you may need to take if you decide your time at dxw has come to an end.
 

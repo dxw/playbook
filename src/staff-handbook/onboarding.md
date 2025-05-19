@@ -1,7 +1,7 @@
 ---
 title: Onboarding
 related_order: 14
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 After you’ve accepted a role at dxw a member of our People team will be in touch
 with you to discuss your onboarding process, including your laptop and our vetting process, and to answer any questions you may have. On your first day you will receive a welcome Trello which will tell you who your line manager and helper are, things to read and welcome notes

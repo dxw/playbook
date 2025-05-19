@@ -2,7 +2,7 @@
 title: Web performance
 redirect_from:
   - /guides/web-performance
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 A web performance budget can be a useful reference for helping you figure out
 what should and shouldn't go on your website. Ultimately it can help reduce the

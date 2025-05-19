@@ -3,7 +3,7 @@ title: Service design at dxw
 related_order: 1
 redirect_from:
   - /guides/service-design-at-dxw
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 Service designers are often referred to as the glue that helps connect the different human, technical and commercial aspects of the challenges we address.

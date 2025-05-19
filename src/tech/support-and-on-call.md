@@ -2,7 +2,7 @@
 title: Support and on call
 redirect_from:
   - /guides/support-and-on-call
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 We have agreed service levels for each client we provide support for. Our standard terms, including prioritisation definitions and response times, are detailed in our Service Level Agreement.
 

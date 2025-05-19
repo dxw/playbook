@@ -2,7 +2,7 @@
 title: Team changes and handovers
 redirect_from:
   - /guides/team-changes-and-handovers
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 Projects inevitably undergo team member changes. This can be for a number of
 reasons. If a project has been running for a long time, it is often beneficial

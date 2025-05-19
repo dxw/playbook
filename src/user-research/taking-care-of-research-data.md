@@ -1,7 +1,7 @@
 ---
 title: Taking care of research data
 related_order: 260
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 When we do research, we must manage the data we collect so that we protect
 participants’ privacy and comply with the law.

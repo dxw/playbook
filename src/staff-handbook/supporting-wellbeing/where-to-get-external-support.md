@@ -1,7 +1,7 @@
 ---
 title: Where to get external support
 related_order: 2
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 If you, or someone you know is in mental health crisis and needs medical help fast:
 

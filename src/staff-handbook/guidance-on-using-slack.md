@@ -1,6 +1,6 @@
 ---
 title: Guidance on using Slack
-last_reviewed_at: 2024-07-22T12:56:00.454Z
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 ## Expected behaviour
 

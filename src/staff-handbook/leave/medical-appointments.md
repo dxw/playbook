@@ -1,7 +1,7 @@
 ---
 title: Medical appointments
 related_order: 8
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 We support staff who need regular time off for medical appointments or counselling. If you need to attend an appointment, you should talk to your line manager.

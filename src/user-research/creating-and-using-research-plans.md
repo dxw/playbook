@@ -1,7 +1,7 @@
 ---
 title: Creating and using research plans
 related_order: 60
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 It’s important that we carefully plan the research we do.

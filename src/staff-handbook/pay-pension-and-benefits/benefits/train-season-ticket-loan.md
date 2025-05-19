@@ -1,6 +1,6 @@
 ---
 title: Train season ticket loan
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 A season ticket loan helps spread the cost of commuting between your home and dxw’s offices. This type of loan is interest-free and available to permanent staff who’ve passed their probation.
 

@@ -1,7 +1,7 @@
 ---
 title: Flexible working
 related_order: 4
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 We aim to offer as much flexibility as possible for our staff, often this is achieved through an alternative working pattern. Our approach is informed by the way we work and balancing the needs of our employees and the business.
 

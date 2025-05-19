@@ -3,7 +3,7 @@ title: Parental leave policy
 related_order: 4
 redirect_from:
   - /staff-handbook/policies-and-procedures/parental-leave-policy
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 This policy provides guidance and outlines parental leave entitlement depending on individual circumstances. Please speak with a member of the People team if you have any questions.
 

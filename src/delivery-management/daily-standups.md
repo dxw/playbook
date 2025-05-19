@@ -2,7 +2,7 @@
 title: Daily standups
 redirect_from:
   - /guides/daily-standups
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 ## What are they?
 

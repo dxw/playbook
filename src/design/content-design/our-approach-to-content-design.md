@@ -1,6 +1,6 @@
 ---
 title: Our approach to content desgn at dxw
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 Content design isn’t about checking spelling and grammar or finding new ways to say things. It’s about presenting information in a format that is easy for everyone to find, understand and use.

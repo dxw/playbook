@@ -2,7 +2,7 @@
 title: Web analytics
 redirect_from:
   - /guides/web-analytics
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 We use Google Analytics on most of our sites. It's free
 ([within limits](https://support.google.com/analytics/answer/1070983?hl=en)),

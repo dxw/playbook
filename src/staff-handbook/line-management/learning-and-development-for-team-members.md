@@ -4,7 +4,7 @@ related_order: 2
 redirect_from:
   - /guides/line-management-guides
   - /leadership/line-management
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 ## Learning and development for your team members
 

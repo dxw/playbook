@@ -4,7 +4,7 @@ related order: 7
 redirect_from:
   - /guides/running-a-roadmapping-workshop
   - /work-we-do/building-services/running-a-roadmapping-workshop
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 For an alpha or beta, or for a significant update to a live service, we run an
 initial roadmapping workshop during inception.

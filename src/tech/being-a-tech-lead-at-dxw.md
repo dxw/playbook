@@ -2,7 +2,7 @@
 title: Being a tech lead at dxw
 redirect_from:
   - /guides/being-a-tech-lead-at-dxw
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 ## Being a tech lead…
 

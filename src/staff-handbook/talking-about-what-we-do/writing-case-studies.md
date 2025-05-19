@@ -1,7 +1,7 @@
 ---
 title: Writing case studies
 related_order: 3
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 Case studies are concise (600-800 word) [write ups of our client work](https://www.dxw.com/case-studies/). They establish our expertise and experience and show the:

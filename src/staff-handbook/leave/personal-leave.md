@@ -1,6 +1,6 @@
 ---
 title: Personal leave
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 At dxw, we care about the well-being of our team members. That's why we've created a new leave type, separate from holiday and sick leave, called Personal Leave, to provide further support and flexibility to employees. This section outlines how the leave can be used and how the leave type works.
 

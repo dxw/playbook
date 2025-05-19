@@ -1,6 +1,6 @@
 ---
 title: Unpaid parental leave
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 Parents are entitled to up to 18 weeks of unpaid leave up to their child’s 18th birthday to look after their welfare. This includes things such as:
 

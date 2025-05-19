@@ -2,7 +2,7 @@
 title: Sprint planning
 redirect_from:
   - /guides/sprint-planning
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 ## What is it?
 

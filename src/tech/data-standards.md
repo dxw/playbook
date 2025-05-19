@@ -1,6 +1,6 @@
 ---
 title: Data standards at dxw
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 In keeping with the GOV.UK [Service Manual](https://www.gov.uk/service-manual/service-standard/point-13-use-common-standards-components-patterns), dxw adheres to relevant open data standards wherever possible. While such standards are often recommended or mandated by government requirements, they are frequently useful in private and third-sector work as well.
 

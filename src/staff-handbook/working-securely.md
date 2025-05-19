@@ -1,6 +1,6 @@
 ---
 title: Working Securely
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
 At dxw we care about the security of the data we create and work with. We are a remote first, office second organisation, so it will not be unusual for us to be working in a number of different environments. We need to be aware of our environment both physical and virtual to help us keep data safe. 

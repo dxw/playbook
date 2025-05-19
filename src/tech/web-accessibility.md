@@ -2,7 +2,7 @@
 title: Web accessibility
 redirect_from:
   - /guides/web-accessibility
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 ## Why web accessibility matters
 

@@ -1,7 +1,7 @@
 ---
 title: Writing and using discussion guides
 related_order: 100
-last_reviewed_at: ""
+last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 We create discussion guides to help us plan and do research activities, like
 interviews, visits, workshops and usability tests.
