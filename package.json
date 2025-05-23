@@ -23,7 +23,7 @@
     "standard": "17.1.2",
     "stylelint": "16.19.1",
     "stylelint-config-clean-order": "7.0.0",
-    "stylelint-config-standard-scss": "15.0.0",
+    "stylelint-config-standard-scss": "15.0.1",
     "stylelint-selector-bem-pattern": "4.0.1",
     "webpack": "5.99.8",
     "webpack-cli": "6.0.1"
