@@ -16,7 +16,7 @@
     "lint:js": "standard"
   },
   "devDependencies": {
-    "@babel/core": "7.27.4",
+    "@babel/core": "7.27.7",
     "@babel/preset-env": "7.27.2",
     "babel-loader": "10.0.0",
     "normalize.css": "8.0.1",
