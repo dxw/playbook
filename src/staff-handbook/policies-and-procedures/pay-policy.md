@@ -2,6 +2,8 @@
 title: Reward Philosophy
 related_order: 1
 last_reviewed_at: 2025-05-16T17:00:00.000Z
+redirect_from:
+  - /staff-handbook/pay-pension-and-benefits/pay
 ---
 ## Purpose
 
