@@ -2,6 +2,8 @@
 title: Contributing to the Playbook
 related_order: 999999999999
 last_reviewed_at: 2025-05-16T17:00:00.000Z
+redirect_from:
+  - /guides/contributing
 ---
 
 The Playbook is public and anyone, inside or outside of dxw, can suggest changes
