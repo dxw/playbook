@@ -128,31 +128,46 @@ order value set in `_config.yml` in the root of the project.
 
 ### Redirects
 
-There are two approaches to redirects in the playbook and they solve different issues.
+There are two approaches to redirects in the playbook, and which one to use depends on what you're trying to achieve:
 
-#### jekyll-redirect-from gem
+#### Redirect an entire page to a new location
 
-A `redirect_from` entry can be added to a page's front matter - this works for redirecting
-one page to another and retaining section-specific linking via the hash fragment (if present).
+If you want to redirect an entire page to a new location – for example when a page has been moved – you should add a `redirect_from` entry to the page's front matter containing the _old_ address. For example:
 
-This is powered by the `jekyll-redirect-from` gem (with section/hash support via the
-`redirect.html` template), and requires developer assistance. This is the preferred approach
-as it keeps redirect information tightly coupled to the content.
+``` yaml
+redirect_from:
+  - /old_page
+```
 
-Example situations:
+This is the preferred approach as it keeps redirect information alongside the content, is more accessible and is the more technically correct way to redirect users.
+
+##### Example situations
 
 - `old_page` → `new_page`
 - `old_page#section` → `new_page#section`
 
-#### Redirect manager
+##### How it works
 
-There is a redirect manager in the Netlify CMS. Within this admin section you can enter
-a `redirect from` and a `redirect to` value. This enables redirects (powered by
-`redirect.js`) which are not supported by the `jekyll-redirect-from` gem, such as
-redirecting what was previously a single section of a page to a new dedicated page. If
-you create an entry in this section please test it once the build has completed.
+This is powered by a custom plugin – `netlify_redirects_generator.rb` – which generates the [`_redirects` file](https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file) used by Netlify.
 
-Example situations:
+#### Redirect part of a page to a new page
+
+Where you want to redirect a single section (or 'fragment') within an existing page you can use a JavaScript-powered solution. This only be used where the entire-page method above won't do the job, since it requires JavaScript to be enabled and has implications for search engines.
+
+To add one of these redirects, you will need to update `redirects.json` – if you need help with this, please reach out to a developer in the Playbook Slack channel. Please test this behaviour in the preview deployment before you merge the change.
+
+``` json
+{
+   "from": "/#user-research",
+   "to": "/user-research/"
+}
+```
+
+##### Example situations
 
 - `old_page#section_one` → `new_page_one`
 - `old_page#section_two` → `new_page_two`
+
+##### How it works
+
+We load the `redirect.js` script on every page. This script gets the current page location (eg `/old_page`) and fragment (eg `#section`), and checks it against a list of redirections in `redirects.json`. If there's a match, the user is redirected.
