@@ -21,7 +21,7 @@
     "babel-loader": "10.0.0",
     "normalize.css": "8.0.1",
     "standard": "17.1.2",
-    "stylelint": "16.21.0",
+    "stylelint": "16.21.1",
     "stylelint-config-clean-order": "7.0.0",
     "stylelint-config-standard-scss": "15.0.1",
     "stylelint-selector-bem-pattern": "4.0.1",
