@@ -30,7 +30,7 @@ Following this meeting, we may:
   - consequences of not making the change (for example, dismissal)
 - in cases of gross misconduct, dismiss you without notice
 
-## Appealing the desicion
+## Appealing the decision
 
 If you disagree with the outcome of this hearing, you may appeal against the
 decision. You must do this in writing. If you do so, your appeal and the
