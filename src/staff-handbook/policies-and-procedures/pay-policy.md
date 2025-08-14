@@ -102,7 +102,7 @@ You can find more information in our [benefits](https://playbook.dxw.com/staff-h
 * Our [Workplace Nursery Scheme](https://playbook.dxw.com/staff-handbook/pay-pension-and-benefits/benefits/workplace-nursery/) allows you to pay nursery fees in a tax efficient way, allowing you to save money. dxw also makes a monthly financial contribution to your child’s nursery.
 * We provide up to 18 weeks paid [Parental Leave](https://playbook.dxw.com/staff-handbook/policies-and-procedures/parental-leave-policy/), depending on your situation.
 * We provide [25 days holiday each year](https://playbook.dxw.com/staff-handbook/leave/holiday/), plus bank holidays, and are currently piloting a flexible holiday scheme which gives staff the option to buy or sell an additional five days holiday. 
-* We provide [Unpaid Sabbaticals](https://playbook.dxw.com/staff-handbook/leave/sabbatical-leave/), allowing time to focus on other interests, travel or spend time with loved ones.
+* We provide [Unpaid Sabbaticals](https://playbook.dxw.com/staff-handbook/leave/sabbatical-and-unpaid-leave/), allowing time to focus on other interests, travel or spend time with loved ones.
 * Our [Cycle to Work](https://playbook.dxw.com/staff-handbook/pay-pension-and-benefits/benefits/cycle-to-work-scheme/) scheme can save you money on purchasing a bike, if you live close to one of our offices.
 * A [Season Ticket Loan](https://playbook.dxw.com/staff-handbook/pay-pension-and-benefits/benefits/train-season-ticket-loan/) can also help with commuting costs.
 * Our [Electric Vehicle Scheme](https://playbook.dxw.com/staff-handbook/pay-pension-and-benefits/benefits/electric-vehicle-scheme/) allows you to save money on purchasing an electric car.
