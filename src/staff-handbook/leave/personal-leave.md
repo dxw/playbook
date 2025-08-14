@@ -1,6 +1,6 @@
 ---
 title: Personal leave
-last_reviewed_at: 2025-05-16T17:00:00.000Z
+last_reviewed_at: 2025-08-14T17:00:00.000Z
 ---
 Personal leave is separate from holiday and sick leave and provides further support and flexibility to employees. This section outlines how the leave can be used and how the leave type works.
 
