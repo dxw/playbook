@@ -1,6 +1,6 @@
 ---
 title: Sabbatical and unpaid leave
-last_reviewed_at: 2025-05-16T17:00:00.000Z
+last_reviewed_at: 2025-08-14T13:50:17.355Z
 ---
 There may be times when you would like to take a period of leave away from work to pursue other interests. This could be for reasons including, spending time with family, travelling, studying, or doing voluntary/community work.
 
@@ -12,12 +12,12 @@ For the purpose of this policy, we talk about a sabbatical as a period of unpaid
 
 There are some circumstances in which there is a legal provision for unpaid leave. These are covered by other guidance within the playbook:
 
-* Jury service
-* Personal leave - including emergency dependant’s leave and carer’s leave
-* Training
-* Medical appointments - please note, this may sometimes fall under our personal leave
-* Compassionate leave
-* Unpaid parental leave entitlement
+* [Jury service](https://playbook.dxw.com/staff-handbook/leave/jury-service-leave/)
+* [Personal leave](https://playbook.dxw.com/staff-handbook/leave/personal-leave/) - including emergency dependant’s leave and carer’s leave
+* [Training](https://playbook.dxw.com/staff-handbook/learning-and-development/how-to-use-your-learning-and-development-allowance/)
+* [Medical appointments](https://playbook.dxw.com/staff-handbook/leave/medical-appointments/) - please note, this may sometimes fall under this policy 
+* [Compassionate leave](https://playbook.dxw.com/staff-handbook/leave/compassionate-leave/)
+* [Unpaid parental leave entitlement](https://playbook.dxw.com/staff-handbook/policies-and-procedures/parental-leave/unpaid-parental-leave/)
 
 Often we provide more than the legal minimum required in relation to unpaid leave. If you have any questions please contact the People team.
 
