@@ -5,12 +5,11 @@ last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 dxw is a UK-based business, with staff working from locations around the UK.
 
-We don't support overseas employment unless exceptional circumstances apply.
-This is because there are usually significant overheads involved in complying
-with local employment laws, registering for and paying the relevant taxes.
+In general you cannot work from abroad for any period of time, and you must inform your line manager and delivery lead if you plan to be abroad and not on leave.
 
-If you believe there are exceptional circumstances, a request can be made for
-consideration via your line manager. All decisions must be made by a Director.
+Most of our client contracts require our staff and contractors to be based in the UK, and for dxw there are usually significant overheads involved in complying with local employment laws, registering for and paying the relevant taxes.
+
+If you believe there are exceptional circumstances, a request can be made for consideration via your line manager. All decisions must be made by a Director.
 
 We will take the following factors into account for any cases we consider.
 
