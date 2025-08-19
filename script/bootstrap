@@ -16,7 +16,7 @@ if [ -f Brewfile ] && [ "$(uname -s)" = "Darwin" ]; then
   if ! brew bundle check >/dev/null 2>&1; then
     echo "==> Installing Homebrew dependencies..."
     brew update
-    brew bundle install --verbose --no-lock
+    brew bundle install --verbose
   fi
 fi
 
