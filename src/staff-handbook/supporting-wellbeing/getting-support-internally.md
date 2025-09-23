@@ -43,7 +43,7 @@ The list is not exhaustive, but includes:
 * interpersonal issues
 * [Mental health first aid](#mental-health-first-aiders)
 * occupational health issues
-* [pay](/staff-handbook/policies-and-procedures/pay-policy/) (second line of support after line managers)
+* [pay](/staff-handbook/policies-and-procedures/reward-philosophy/) (second line of support after line managers)
 * [parental leave](/staff-handbook/policies-and-procedures/parental-leave-policy/)
 * probation
 * [pensions](/staff-handbook/pay-pension-and-benefits/pension/)
