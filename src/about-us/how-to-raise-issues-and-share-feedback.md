@@ -12,7 +12,7 @@ We will share the following on a regular basis:
 * Our People Experience roadmap (how we implement the people aspects of the business plan) and progress against it
 * Financial updates
 * Reasons for the main decisions made regarding the company
-* Staff sentiment on key issues and how that is being responded to
+* Colleague sentiment on key issues and how that is being responded to
 
 ### Business planning and dxw quarterly performance updates
 
@@ -20,24 +20,23 @@ Our business plan year kicks-off in July. The annual business planning process i
 
 * Company Board - set the strategic direction and write the plan, drawing on input from others
 * Trust Board - provide input and challenge on overall direction, act as guardians of the company mission and values, sign-off the plan
-* Staff Council - feed in staff insights and ideas to the Trust Board that informs their discussions with the Company Board
-* Operational Leadership Team (OLT), Heads of and teams - discuss and input on operational issues relating to the implementation of the plan
+* Operational Leadership Team (OLT) - discuss and input on operational issues relating to the implementation of the plan
 
-All staff are invited to attend dxw quarterly performance update meetings with the CEO and OLT to discuss progress against the business plan, our current priorities, major issues and risks.
+All colleagues are invited to attend dxw quarterly performance update meetings with the CEO, Directors and OLT to discuss progress against the business plan, our current priorities, major issues and risks.
 
 ### The People Experience roadmap and dxw quarterly People updates
 
-The People team own the People Experience roadmap and lead on its implementation, subject to sign-off by the Company Board. Staff will be invited to contribute to implementing aspects of the roadmap, often as part of workshops or time bound project groups.
+The People team own the People Experience roadmap and lead on its implementation, subject to sign-off by the Company Board. Colleagues will be invited to contribute to implementing aspects of the roadmap, often as part of workshops or time bound project groups.
 
-All staff are invited to attend quarterly meetings with the People team to discuss progress on the roadmap, ask questions and give feedback.
+All colleagues are invited to attend quarterly meetings with the People team to discuss progress on the roadmap, ask questions and give feedback.
 
 ### dxw monthly finance clinics
 
-Monthly finance clinics open to all staff are hosted by the Finance and Resources Director and CEO to share progress against dxw's financial targets, the headlines from that month, what this means for the company, how staff can help, and answer any related questions.
+Monthly finance clinics open to all colleagues are hosted by the Finance and Resources Director to share progress against dxw's financial targets, the headlines from that month, what this means for the company, how colleagues can help, and answer any related questions.
 
 ### dxw monthly connect meetings
 
-Monthly connect meetings open to all staff are an opportunity to discuss any issues relating to the company with a couple of the Directors. These are less formal multi-way conversations which are sometimes themed in response to current issues or might have a completely open agenda.
+Monthly connect meetings open to everyone are an opportunity to discuss any issues relating to the company with a couple of the Directors. These are less formal multi-way conversations which are sometimes themed in response to current issues or might have a completely open agenda.
 
 ## Where do I go if I want to raise something
 
@@ -52,11 +51,13 @@ Strategic, or owner-related, issues are usually dealt with to a longer time fram
 * issues that might pose a meaningful risk to the success of the business (including anything impacting colleague morale)
 * questions on business strategy, risk management and strategic decision making
 
-The Trust Board and Staff Council have a specific role in understanding and sharing staff insight, ideas and concerns relating to dxw's business strategy and other ownership-related issues.
+The Trust Board has a specific role in understanding and sharing staff insight, ideas and concerns relating to dxw's business strategy and other ownership-related issues.
 
-An important role of the Trustees is to make sure that everyone has the opportunity to share their views on strategic topics as owners. Trustees listen, reflect and can use this input to inform how they carry out their oversight of the Company Board. The Staff Council supports them in this role by gathering and sharing staff feedback on strategic issues, along with their own thoughts and insights.
+An important role of the Trustees is to make sure that everyone has the opportunity to share their views on strategic topics as owners. Trustees listen, reflect and can use this input to inform how they carry out their oversight of the Company Board.
 
 The Trustees have quarterly formal meetings with representatives of the Company Board where they raise important matters as part of their oversight function and make sure strategic decisions are made with employee owners' views in mind. Where issues are important and urgent they will raise them as needed in between these meetings.
+
+Contact: Campbell McDonald (independent chair), Harry Metcalfe (dxw founder), William Heath (shareholder), Leanne Garvie (employee trustee), Lola Harre (employee trustee)
 
 ### Operational issues
 
@@ -65,6 +66,8 @@ Operational issues are things relating to the day-to-day running of the company,
 The company will provide regular feedback on the main themes being raised by staff, any action being taken as a result and if not, why that's the case. The main channels for this feedback to staff will be dxw quarterly performance updates and the People Experience roadmap meetings. Additional updates will be provided via the Company weeknote and Bikesheds (internal blog posts), as and when needed.
 
 If you feel that you're not getting feedback on an issue you've raised, please let the Head of People know. They are responsible for making sure issues raised via different routes are recorded, have an allocated owner and are responded to in a timely and appropriate way.
+
+Contact: Pauline Golden (Head of People)
 
 #### Who to approach about what
 
@@ -84,11 +87,15 @@ The People team is there to help with issues relating to your wellbeing, career 
 
 The People team can also be contacted directly about anything you consider to be sensitive or confidential and would prefer not to raise with others.
 
+Contact: peopleteam@dxw.com
+
 ##### Operational Leadership Team
 
 The Operational Leadership Team is responsible for overseeing the day to day running of the company to implement the business plan. You can contact them about any operational, staffing or client issues that have the potential to improve or block the delivery of our business plan objectives.
 
 The members have a (virtual) open door policy and are happy to be contacted via Slack or email. They represent teams from across the organisation, so the chances are you will already know one of them.
+
+Contact: Andrew Wallace, Kevin Marshall, Gurpreet Kataria, Nicky Thompson, Joseph Dudley, Chris Pugh, Alex Nisbett, Pauline Golden
 
 ##### Directors
 
@@ -97,6 +104,8 @@ The Directors operate at a more strategic level and have overall responsibility 
 You can ask questions of the Directors yourself, or via others, at dxw monthly connect meetings, dxw quarterly performance update meetings and Finance clinics. All of the Directors have a (virtual) open door policy and are happy to be contacted via Slack or email if you think there is something they should be made aware of directly or you'd like to discuss with them.
 
 This is where there is the most likely potential overlap with the ‘owner feedback' raised via the Trustees. There are no hard and fast right answers here. You can raise things with both the Directors and Trustees if that makes sense. If you are uncomfortable going to Directors about a particular issue, approaching Trustees might be a good alternative.
+
+Contact: Dave Mann (CEO), Adelle Noor, Alex Jackson, Alex Yedigaroff, Wendy Coello
 
 #### Related policy and procedure
 
