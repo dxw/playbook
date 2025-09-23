@@ -1,5 +1,5 @@
 ---
-title: Reward Philosophy
+title: Reward philosophy
 related_order: 1
 last_reviewed_at: 2025-05-16T17:00:00.000Z
 redirect_from:
@@ -60,7 +60,7 @@ This means ensuring that any decisions made relating to pay and reward are finan
 * We will continue to be open with staff in relation to our financial performance through regular internal finance clinics and sessions.
 * We will share as much rationale and context as possible when communicating decisions made by the Company Board relating to pay and reward.
 
-## Processes and Frameworks
+## Processes and frameworks
 
 ### 1. How we make decisions on pay increases
 
@@ -78,13 +78,13 @@ This aligns with our “transparency” principle.
 
 There may be some pay awards outside of the annual pay review, though we expect these will be fairly limited. This could be to recognise a promotion, change of role or increase in responsibility. We may also occasionally make changes to pay to respond to the position in the external market, such as challenges with hiring or retention for key roles. Any changes will be reflected in our internal metrics.
 
-### 2. External Benchmarking
+### 2. External benchmarking
 
 As outlined above, we have committed to benchmarking our salaries against the external market regularly, in line with business needs and changes in the market. We have invested in an external benchmarking tool which allows us to do this in a consistent and robust way. The tool enables us to compare our reward package against a wide range of technology companies. The People team collaborates with the wider business to match our internal roles with an external equivalent. This allows us to build out a unique salary range for each role which takes into account seniority, skillset and the current demand in the external market. Benchmarking our roles in this way is new to us and so over the next 12-18 months we will be figuring out how to incorporate these salary ranges into our existing salary structures.
 
 Although today our staff will have varying positions on our salary ranges, our target market position is the median (50th percentile). We will provide high level data to staff which shows to what extent we are over or under the market median and our progress against this target over time. 
 
-### 3. Total Reward
+### 3. Total reward
 
 Although paying a competitive salary is important to us there are a variety of other benefits, and ways of working, that we hope contribute positively to our working culture at dxw, including our mission and values. These different elements make up our Total Reward proposition (salary, benefits and additional compensation), which helps us hire and retain great people. 
 
