@@ -1,6 +1,8 @@
 ---
 title: Sabbatical and unpaid leave
 last_reviewed_at: 2025-08-14T13:50:17.355Z
+redirect_from:
+  - /staff-handbook/leave/sabbatical-leave
 ---
 There may be times when you would like to take a period of leave away from work to pursue other interests. This could be for reasons including, spending time with family, travelling, studying, or doing voluntary/community work.
 
