@@ -24,7 +24,7 @@ We’ve tried to keep it simple when thinking about the principles that underpin
 
 This means being open and clear about how staff are rewarded at dxw. Sharing the relevant data, information and context to ensure staff understand what we are paid and why. This includes clarity on what factors influence changes to pay and reward and the processes and frameworks that exist which enable these changes to happen.
 
-**Commitments linked to transparency:**
+#### Commitments linked to transparency
 
 * We commit to publishing our approach to pay and related processes through our Reward Philosophy and will review this regularly. 
 * We commit to establishing salary points or bands for all roles at dxw.
@@ -34,7 +34,7 @@ This means being open and clear about how staff are rewarded at dxw. Sharing the
 
 This means rewarding our staff fairly for the work they do. Decisions related to pay and reward should be objective and not influenced by any specific characteristics or demographics.
 
-**Commitments linked to fairness:**
+#### Commitments linked to fairness
 
 * We commit to publishing our gender pay gap to all staff on an annual basis, and aim to reduce any existing gap over time.
 * We commit to tracking pay disparities which exist at role level on an annual basis and aim to reduce any differences over time. 
@@ -44,8 +44,7 @@ This means rewarding our staff fairly for the work they do. Decisions related to
 
 This means having a salary and benefits offering which is competitive when compared against the external market we are operating in, allowing us to find and retain great people. 
 
-**\
-Commitments linked to being competitive:**
+#### Commitments linked to being competitive
 
 * We will externally benchmark our salaries for every role on a regular basis.
 * We aim to pay at the market median position in terms of base salary and will share our progress in achieving this goal with all staff on an annual basis.
@@ -55,7 +54,7 @@ Commitments linked to being competitive:**
 
 This means ensuring that any decisions made relating to pay and reward are financially sustainable in the longer term. We will act within the parameters of affordability and consider the current financial climate we are operating in. 
 
-**Commitments linked to being commercially sensible:**
+#### Commitments linked to being commercially sensible
 
 * We will continue to be open with staff in relation to our financial performance through regular internal finance clinics and sessions.
 * We will share as much rationale and context as possible when communicating decisions made by the Company Board relating to pay and reward.
