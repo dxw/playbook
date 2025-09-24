@@ -3,6 +3,14 @@
       {
         "from": "/#user-research",
         "to": "/user-research/"
+      },
+      {
+        "from": "/about-us/#our-mission",
+        "to": "/about-us/our-mission-values-and-principles/#our-mission"
+      },
+      {
+        "from": "/about-us/#make-everything-we-do-accessible",
+        "to": "/our-mission-values-and-principles/#make-everything-we-do-accessible"
       }
   ]
 }
