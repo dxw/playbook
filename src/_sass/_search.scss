@@ -13,12 +13,12 @@
     width: 100%;
     margin-right: -0.063rem;
     padding: 0.5rem 0.938rem;
+    border: 0.063rem solid colours.$navy;
 
     line-height: 1.35;
     color: colours.$navy;
 
     background-color: colours.$ivory;
-    border: 0.063rem solid colours.$navy;
 
     &:focus {
       outline: none;
@@ -31,8 +31,9 @@
     display: flex;
     align-items: center;
 
-    background-color: colours.$yellow-light;
     border: 0.063rem solid colours.$navy;
+
+    background-color: colours.$yellow-light;
 
     &-icon {
       width: 2rem;
