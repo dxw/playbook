@@ -23,4 +23,4 @@ You should:
 
 Further resources and templates can be found in our [Line Manager Resources folder](https://drive.google.com/drive/folders/1NP30btJfClvVanA8Bz6N_GIXFE3jRh5O?usp=sharing) in Google Drive.
 
-Further guidance can be found in the Career Development and Growth section of the playbook.
+Further guidance can be found in the Career development and growth section of the playbook.
