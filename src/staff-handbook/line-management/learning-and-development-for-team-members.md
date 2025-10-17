@@ -1,33 +1,26 @@
 ---
-title: Guides for line managers
+title: Guidance for line managers
 related_order: 2
 redirect_from:
   - /guides/line-management-guides
   - /leadership/line-management
 last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
-## Learning and development for your team members
+## Development for your team members
 
-Part of your work will be to help your team members grow and develop.
+Part of your work will be to help your team members grow and develop. You should be having regular 1:1s and career development conversations with them to: 
 
-Periodically you should check in with people to set and review their goals and
-objectives. When talking about their plans for growth, have a discussion about
-training and possible ways to improve or gain new skills. When you agree on
-those, help them find opportunities or training to reach them.
+* Understand their ambitions and learning needs
+* Track goals and provide regular feedback
+* Create space and support for development opportunities
 
-As an example these are the areas to cover in learning and development plan:
+You should:
 
-* Current role
-* Future or changing role
-* Personal development, health and wellbeing
-* Long term career development
+* Schedule career development conversations at least once every 6 months with your team members
+* Discuss learning needs regularly in 1:1s
+* Review and prioritise development goals together — whether for their current role, a future role, personal growth, or long-term ambitions
+* Share information about your team’s learning needs with your Head Of or the People team, who will proactively look for ways and opportunities to help people develop. This may include use of the directed learning and development budget or dedicated time off for learning and development purposes.
 
-For each of those you could set a short description of the aims, set priority,
-work out how to achieve it and measure progress.
+Further resources and templates can be found in our [Line Manager Resources folder](https://drive.google.com/drive/folders/1NP30btJfClvVanA8Bz6N_GIXFE3jRh5O?usp=sharing) in Google Drive.
 
-Keep an eye on and proactively help people think about their L&D allowance. It’s
-also important to communicate and help team members to make space for using L&D.
-
-Regular conversations with the Head of Practice or a Director focused on teams
-L&D to help keep track of the progress and proactively looking for ways and
-opportunities to provide people space and time to develop.
+Further guidance can be found in the Career Development and Growth section of the playbook.
