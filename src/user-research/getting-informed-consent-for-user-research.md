@@ -146,6 +146,6 @@ As a researcher, we can also pause to take a break, or finish a session if we ar
 
 For email and similar responses, we keep a copy of the research information and consent sheet we used, along with a copy of each participant's reply, in the folder with the research data we collect.
 
-For paper consent forms, we scan or photograph the signed consent form, and dispose of the paper (shredding if possible, or tearing up if not). We avoid [using our own phone or other personal device](https://playbook.dxw.com/user-research/taking-notes-and-recording-research-sessions/#using-a-dxw-provided-handheld-device) for this.
+For paper consent forms, we scan or photograph the signed consent form, and dispose of the paper (shredding if possible, or tearing up if not). We avoid [using our own phone or other personal device](/user-research/taking-notes-and-recording-research-sessions/#using-a-dxw-provided-handheld-device) for this.
 
-We make sure the research data we collect and the associated consent records have the same participant identifier. And we do not include participant names or other personally identifiable information in [the document names](https://playbook.dxw.com/user-research/taking-care-of-research-data/#identifying-research-data-clearly).
+We make sure the research data we collect and the associated consent records have the same participant identifier. And we do not include participant names or other personally identifiable information in [the document names](/user-research/taking-care-of-research-data/#identifying-research-data-clearly).

@@ -74,9 +74,9 @@ If you have any questions relating to using your holiday, please contact your li
 
 During the period of your unpaid leave, you will not receive your salary and, as a result, your pension contributions will stop.
 
-Employees who are in receipt of our [Electric Vehicle scheme](https://playbook.dxw.com/staff-handbook/pay-pension-and-benefits/benefits/) must continue with their payments during the period of sabbatical leave, in accordance with the relevant agreement made. 
+Employees who are in receipt of our [Electric Vehicle scheme](/staff-handbook/pay-pension-and-benefits/benefits/) must continue with their payments during the period of sabbatical leave, in accordance with the relevant agreement made. 
 
-Employees who are signed up to our [Cycle-to-Work scheme](https://playbook.dxw.com/staff-handbook/pay-pension-and-benefits/benefits/) will be able to pause their payments during the period of their sabbatical leave.
+Employees who are signed up to our [Cycle-to-Work scheme](/staff-handbook/pay-pension-and-benefits/benefits/) will be able to pause their payments during the period of their sabbatical leave.
 
 All other benefits will continue as normal. More detailed information will be included in the agreement.
 

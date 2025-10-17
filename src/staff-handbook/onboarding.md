@@ -57,7 +57,7 @@ from those you have worked with closely.
 
 You will be supported by our People team from the point of application.
 
-You can read more about our recruitment process [here](https://playbook.dxw.com/staff-handbook/recruitment-process/).
+You can read more about our recruitment process [here](/staff-handbook/recruitment-process/).
 
 If you join us, you’ll be continuously supported by our People team and a line
 manager. You‘ll have regular check ins with a helper where you can speak openly about anything that’s on your mind.

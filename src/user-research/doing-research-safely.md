@@ -33,7 +33,7 @@ listed by Mind, or the [support on issues related to disability](https://www.sco
 For research with public servants, we may recommend the support services provided by their organisation. Such as their local mental health first aider, or their Employee Assistance Programme (EAP).
 
 For research about difficult subjects, we often include links to this support in our
-[research information and consent materials](https://playbook.dxw.com/user-research/getting-informed-consent-for-user-research/).
+[research information and consent materials](/user-research/getting-informed-consent-for-user-research/).
 
 ## Doing research during a pandemic
 

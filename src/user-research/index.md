@@ -96,7 +96,7 @@ We have a version of these [user research principles as a printable poster](http
 The Playbook includes detailed guidance on
 [how we do user research at dxw](/user-research/how-we-do-user-research/).
 
-These guides start with the [user research workflow](https://playbook.dxw.com/user-research/how-we-do-user-research/#user-research-workflow), which describes the things that user researchers usually do on projects, and then provides further guidance and links to resources for specific topics.
+These guides start with the [user research workflow](/user-research/how-we-do-user-research/#user-research-workflow), which describes the things that user researchers usually do on projects, and then provides further guidance and links to resources for specific topics.
 
 ### Messaging
 

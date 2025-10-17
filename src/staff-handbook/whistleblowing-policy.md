@@ -25,7 +25,7 @@ These are called qualifying disclosures. A qualifying disclosure is one made in 
 
 This policy is only to be used in specific circumstances outlined above. 
 
-If your concern is related to anything other than a disclosure in public interest, please refer to dxw’s [grievance procedure](https://playbook.dxw.com/staff-handbook/policies-and-procedures/grievances/).
+If your concern is related to anything other than a disclosure in public interest, please refer to dxw’s [grievance procedure](/staff-handbook/policies-and-procedures/grievances/).
 
 ## **How to raise a concern**
 
@@ -63,7 +63,7 @@ We will not tolerate anyone facing negative consequences for making a disclosure
 
 ## **Malicious disclosure**
 
-If it's discovered that you deliberately brought up an issue that you know is false, or if you're somehow connected to the misconduct, wrongdoing, or illegal actions, your conduct will be dealt with according to dxw’s [disciplinary procedure](https://playbook.dxw.com/staff-handbook/policies-and-procedures/disciplinary-procedure/).
+If it's discovered that you deliberately brought up an issue that you know is false, or if you're somehow connected to the misconduct, wrongdoing, or illegal actions, your conduct will be dealt with according to dxw’s [disciplinary procedure](/staff-handbook/policies-and-procedures/disciplinary-procedure/).
 
 ## **External concerns**
 
