@@ -50,10 +50,10 @@ experiences:
   should be spent on activities that you choose yourself, but initially this time
   should be agreed with your line manager and based on the projects described below.
 * You will have the opportunity to join our
-  [on-call rota](https://playbook.dxw.com/tech/support-and-on-call/#being-on-call).
+  [on-call rota](/tech/support-and-on-call/#being-on-call).
   This is not compulsory for Junior Developers, or any member of staff, but if you
   wish to participate in this work it is a good learning experience and
-  [attracts additional pay and TOIL](https://playbook.dxw.com/tech/support-and-on-call/#claiming-toil-for-out-of-hours-alerts).
+  [attracts additional pay and TOIL](/tech/support-and-on-call/#claiming-toil-for-out-of-hours-alerts).
 
 ## Who will support you
 

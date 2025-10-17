@@ -4,7 +4,7 @@ related_order: 75
 last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 
-Our sixth research principle is to [make research inclusive](https://playbook.dxw.com/user-research/#user-research-principles).
+Our sixth research principle is to [make research inclusive](/user-research/#user-research-principles).
 
 We want to help our teams understand and value the needs of all the people who might use, operate or be affected by a service.
 
@@ -24,13 +24,13 @@ In all our communications, before, during and after a research activity, we take
 
 We do this in:
 
-* descriptions of participant groups and research activities in our [research plans](https://playbook.dxw.com/user-research/creating-and-using-research-plans/)
+* descriptions of participant groups and research activities in our [research plans](/user-research/creating-and-using-research-plans/)
 * participant recruitment messages and conversations
-* [research information and consent materials](https://playbook.dxw.com/user-research/getting-informed-consent-for-user-research/)
-* [messages providing incentives](https://playbook.dxw.com/user-research/when-and-how-to-give-incentives-to-research-participants/)
+* [research information and consent materials](/user-research/getting-informed-consent-for-user-research/)
+* [messages providing incentives](/user-research/when-and-how-to-give-incentives-to-research-participants/)
 * instructions and explanations we provide, and questions we ask during research
 * follow up and thank you messages to participants
-* [reports and presentations of our findings](https://playbook.dxw.com/user-research/sharing-research-activities-and-findings/)
+* [reports and presentations of our findings](/user-research/sharing-research-activities-and-findings/)
 
 ## Communicating clearly
 

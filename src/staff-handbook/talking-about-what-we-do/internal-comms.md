@@ -32,7 +32,7 @@ Slack is the online equivalent of the office. It enables us to have conversation
 
 Messages are usually short and relatively informal and often point to sources of more detailed information. For example, a Bikeshed, the Playbook, or an external link.
 
-[Guidance on how we use Slack](https://playbook.dxw.com/staff-handbook/guidance-on-using-slack/) 
+[Guidance on how we use Slack](/staff-handbook/guidance-on-using-slack/) 
 
 ## Meetings and other get-togethers
 

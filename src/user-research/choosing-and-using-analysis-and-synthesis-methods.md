@@ -3,7 +3,7 @@ title: Choosing and using analysis and synthesis methods
 related_order: 220
 last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
-Our second research principle is to [find the truth, and tell the truth](https://playbook.dxw.com/user-research/#user-research-principles). And getting to that truth depends on the strength of our analysis of research data and synthesis to produce findings.
+Our second research principle is to [find the truth, and tell the truth](/user-research/#user-research-principles). And getting to that truth depends on the strength of our analysis of research data and synthesis to produce findings.
 
 At dxw, we don’t have a fixed set of approved ways to do analysis and synthesis. But we do need to choose approaches that are appropriate to our research methods, and then apply them well.
 
@@ -17,7 +17,7 @@ The purpose of analysis and synthesis (sometimes also called sensemaking) is to 
 
 ### Principles
 
-We do at least an initial analysis and synthesis at the end of each research activity, so that we can quickly [learn, share and adapt](https://playbook.dxw.com/user-research/#user-research-principles).
+We do at least an initial analysis and synthesis at the end of each research activity, so that we can quickly [learn, share and adapt](/user-research/#user-research-principles).
 
 Later we may [triangulate different kinds of data and findings](#rich-data-and-big-data) from different research activities to strengthen our findings, identify contradictions and gaps, and create a coherent picture of everything we have learned.
 
@@ -121,7 +121,7 @@ This method works well with less experienced colleagues, and when we want to inv
 
 ## Reviewing existing information
 
-One of our research principles is to [build on existing evidence](https://playbook.dxw.com/user-research/#user-research-principles), combining existing knowledge, poorly understood data and new research into a coherent picture.
+One of our research principles is to [build on existing evidence](/user-research/#user-research-principles), combining existing knowledge, poorly understood data and new research into a coherent picture.
 
 So an important source of our findings, particularly in discovery projects, is existing information, whether from inside or outside the client organisation. These sources might be previous discovery reports, service performance investigations, government and industry statistics, and government and third-sector social research.
 
