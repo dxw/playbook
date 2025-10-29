@@ -50,15 +50,11 @@ help to build mutual trust and respect.
 Line managers look out for the health and wellbeing of the team. They are
 responsible for carrying out dxw's duty of care to its people.
 
-
-
 ## Career growth and performance 
 
 Supporting career growth and development of your team members is an important part of being a line manager. This will involve regular 1-1s, career development conversations and completing a short form to help track performance on a quarterly basis.
 
-For more detailed guidance on supporting your team’s growth, please read the Career Development and Growth guidance section.
-
-
+For more detailed guidance on supporting your team’s growth, please read the [Career Development and Growth guidance section](https://playbook.dxw.com/staff-handbook/learning-and-development/how-to-use-your-learning-and-development-allowance/).
 
 ## Support for line managers
 
