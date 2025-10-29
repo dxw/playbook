@@ -6,16 +6,13 @@ Our Disciplinary Procedure ensures that all disciplinary matters are dealt with 
 
 During any disciplinary process, care will be taken to ensure that we are impartial, fair and consistent. Any investigations will be undertaken in a timely manner and confidentiality will be maintained.
 
-
-
 ## Informal procedure
 
 If we feel it’s appropriate, we may discuss a disciplinary issue with you before undertaking any formal action. If we feel that this has resolved the issue we'll confirm everything in writing, following the conversation, including expectations of the change or improvement required. 
 
 If your conduct fails to improve following this conversation, or if the matter is serious enough that an informal procedure is not appropriate, we will follow a formal procedure.
 
-## \
-Formal procedure
+## Formal procedure
 
 We will let you know about any concerns relating to your conduct, in writing, at the earliest opportunity.
 
