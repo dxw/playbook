@@ -7,7 +7,6 @@ This section of the playbook provides information on the benefits available to o
 
 Benefits for employees include:
 
-* Annual £1000 [personal learning and development allowance](/staff-handbook/learning-and-development/how-to-use-your-learning-and-development-allowance)
 * [Cash plan](/staff-handbook/pay-pension-and-benefits/benefits/cash-plan)
 * [Cycle to work scheme](/staff-handbook/pay-pension-and-benefits/benefits/cycle-to-work-scheme)
 * [Electric vehicle scheme](/staff-handbook/pay-pension-and-benefits/benefits/electric-vehicle-scheme)
