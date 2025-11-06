@@ -1,5 +1,7 @@
 ---
 title: Life cover
+redirect_from:
+- /staff-handbook/pay-pension-and-benefits/benefits/life-assurance
 last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 Life cover is a type of insurance (paid by dxw) which pays a tax free lump sum to nominated beneficiaries in the event you pass away. The lump sum is the equivalent of three times your basic salary.

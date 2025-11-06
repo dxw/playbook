@@ -4,6 +4,7 @@ related_order: 2
 redirect_from:
   - /guides/line-management-guides
   - /leadership/line-management
+  - /staff-handbook/line-management/learning-and-development-for-team-members
 last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 ## Development for your team members

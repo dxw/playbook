@@ -1,6 +1,8 @@
 ---
 title: Career development and growth
 related_order: 1
+redirect_from:
+- /staff-handbook/learning-and-development/how-to-use-your-learning-and-development-allowance
 last_reviewed_at: 2025-05-16T17:00:00.000Z
 ---
 At dxw, we want everyone to feel supported in their career and have the chance to grow in ways that are meaningful to them. Our approach to career development includes regular check-ins, dedicated conversations about your growth, and tools to help track progress and performance over time.
