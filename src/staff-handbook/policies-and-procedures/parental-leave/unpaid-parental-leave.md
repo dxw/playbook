@@ -11,4 +11,4 @@ Parents are entitled to up to 18 weeks of unpaid leave up to their child’s 18t
 
 Employees are entitled to up to 4 weeks of unpaid parental leave per year. This leave must be taken in blocks of whole weeks.
 
-You can find out more about unpaid parental leave entitlement on the Gov.uk website [here](https://www.gov.uk/parental-leave).
+You can find out more about unpaid parental leave entitlement on the GOV.UK website [here](https://www.gov.uk/parental-leave).
